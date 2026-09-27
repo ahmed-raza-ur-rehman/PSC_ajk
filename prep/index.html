@@ -1,790 +1,445 @@
 <!doctype html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-theme="dark" data-font="inter" data-motion="on" data-contrast="normal">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="NeuroPrep — a neuroscience-backed learning system using spaced repetition, active recall, interleaving, Leitner boxes, and knowledge graphs for deep, lasting retention.">
-  <meta name="theme-color" content="#0f1729">
-  <title>NeuroPrep — Science-Backed Learning</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="dark light" />
+  <meta name="theme-color" content="#0a0f1e" id="theme-color-meta" />
+  <meta name="description" content="NeuroPrep — Professional CSS, PMS, FPSC, PPSC, AJK PSC preparation platform. Neuroscience-backed: spaced repetition, active recall, Leitner, interleaving, concept mapping, eyes-free audio mode for zero eye strain." />
+  <meta name="keywords" content="CSS Pakistan, PMS, FPSC, PPSC, AJK PSC, preparation, MCQ, neuroscience, spaced repetition, Leitner" />
+  <title>NeuroPrep — CSS / PMS / PSC — Science-Backed Mastery</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2222%22 fill=%22%2306b6d4%22/><circle cx=%2250%22 cy=%2235%22 r=%2212%22 fill=%22white%22/><circle cx=%2232%22 cy=%2268%22 r=%2210%22 fill=%22white%22/><circle cx=%2268%22 cy=%2268%22 r=%2210%22 fill=%22white%22/><path d=%22M50 47 L36 60 M50 47 L64 60 M38 68 L62 68%22 stroke=%22white%22 stroke-width=%223%22 stroke-linecap=%22round%22/></svg>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Playfair+Display:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700;9..144,800&family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&family=Lexend:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <!-- Ambient animated background -->
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <!-- Ambient -->
   <div class="ambient-bg" aria-hidden="true">
     <div class="orb orb-1"></div>
     <div class="orb orb-2"></div>
     <div class="orb orb-3"></div>
     <div class="neural-grid"></div>
+    <div class="vignette"></div>
   </div>
 
-  <!-- Top navigation bar -->
+  <!-- Topbar -->
   <header class="topbar" role="banner">
-    <a class="brand" href="#top" aria-label="NeuroPrep home">
-      <span class="brand-icon">
-        <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-hidden="true">
-          <circle cx="14" cy="14" r="12" stroke="currentColor" stroke-width="1.5" opacity="0.3"/>
-          <circle cx="14" cy="8" r="2.5" fill="currentColor"/>
-          <circle cx="8" cy="18" r="2.5" fill="currentColor"/>
-          <circle cx="20" cy="18" r="2.5" fill="currentColor"/>
-          <line x1="14" y1="10.5" x2="9" y2="16" stroke="currentColor" stroke-width="1.2" opacity="0.6"/>
-          <line x1="14" y1="10.5" x2="19" y2="16" stroke="currentColor" stroke-width="1.2" opacity="0.6"/>
-          <line x1="10.5" y1="18" x2="17.5" y2="18" stroke="currentColor" stroke-width="1.2" opacity="0.6"/>
+    <a class="brand" href="#" data-nav="dashboard" aria-label="NeuroPrep home">
+      <span class="brand-mark">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+          <rect width="32" height="32" rx="10" fill="url(#brand-grad)"/>
+          <circle cx="16" cy="11" r="3" fill="white" fill-opacity="0.95"/>
+          <circle cx="9" cy="21" r="2.8" fill="white" fill-opacity="0.9"/>
+          <circle cx="23" cy="21" r="2.8" fill="white" fill-opacity="0.9"/>
+          <path d="M16 13.5L10.5 19M16 13.5L21.5 19M11.8 21L20.2 21" stroke="white" stroke-opacity="0.8" stroke-width="1.3" stroke-linecap="round"/>
+          <defs><linearGradient id="brand-grad" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse"><stop stop-color="#06b6d4"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
         </svg>
       </span>
-      <span class="brand-text">NeuroPrep</span>
+      <span class="brand-text">
+        <b>NeuroPrep</b>
+        <small>CSS • PMS • PSC • FPSC</small>
+      </span>
     </a>
 
-    <nav class="topnav" aria-label="Primary navigation">
-      <a href="#dashboard-section" class="nav-link active" data-nav="dashboard">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="1" y="1" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.5"/><rect x="9" y="1" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.5"/><rect x="1" y="9" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.5"/><rect x="9" y="9" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.5"/></svg>
-        Dashboard
-      </a>
-      <a href="#study-section" class="nav-link" data-nav="study">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M2 3h12v9a1 1 0 01-1 1H3a1 1 0 01-1-1V3z" stroke="currentColor" stroke-width="1.5"/><path d="M2 3l6 5 6-5" stroke="currentColor" stroke-width="1.5"/></svg>
-        Study
-      </a>
-      <a href="#misconceptions-section" class="nav-link" data-nav="misconceptions">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M10 2L3 17h14L10 2z" stroke="currentColor" stroke-width="1.5"/><line x1="10" y1="8" x2="10" y2="12" stroke="currentColor" stroke-width="1.5"/><circle cx="10" cy="14.5" r="0.75" fill="currentColor"/></svg>
-        Weed-Out
-      </a>
-      <a href="#knowledge-section" class="nav-link" data-nav="knowledge">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="4" r="2.5" stroke="currentColor" stroke-width="1.5"/><circle cx="3" cy="12" r="2.5" stroke="currentColor" stroke-width="1.5"/><circle cx="13" cy="12" r="2.5" stroke="currentColor" stroke-width="1.5"/><line x1="8" y1="6.5" x2="4" y2="10" stroke="currentColor" stroke-width="1.2"/><line x1="8" y1="6.5" x2="12" y2="10" stroke="currentColor" stroke-width="1.2"/></svg>
-        Knowledge Graph
-      </a>
-      <a href="#history-section" class="nav-link" data-nav="history">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="6.5" stroke="currentColor" stroke-width="1.5"/><path d="M8 4v4l3 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-        History
-      </a>
+    <nav class="topnav" aria-label="Primary">
+      <a href="#dashboard" class="nav-link active" data-nav="dashboard"><span class="nav-ico">◧</span> Dashboard</a>
+      <a href="#study" class="nav-link" data-nav="study"><span class="nav-ico">◨</span> Study</a>
+      <a href="#misconceptions" class="nav-link" data-nav="misconceptions"><span class="nav-ico">⚑</span> Weed-Out Lab</a>
+      <a href="#knowledge" class="nav-link" data-nav="knowledge"><span class="nav-ico">⬡</span> Graph</a>
+      <a href="#history" class="nav-link" data-nav="history"><span class="nav-ico">◷</span> Analytics</a>
     </nav>
 
     <div class="topbar-actions">
-      <div class="status-indicator">
-        <span class="status-dot pulsing"></span>
-        <span id="load-status">Initializing</span>
+      <div class="load-badges" aria-label="System load indicators">
+        <div class="load-badge" id="visual-load-badge" title="Visual load — calculated from luminance, contrast, density, motion">
+          <span class="load-dot" id="visual-load-dot"></span>
+          <span class="load-label">VIS <b id="visual-load-val">—</b></span>
+        </div>
+        <div class="load-badge" id="acoustic-load-badge" title="Acoustic load — speech rate, volume, duration">
+          <span class="load-dot" id="acoustic-load-dot"></span>
+          <span class="load-label">ACU <b id="acoustic-load-val">—</b></span>
+        </div>
       </div>
-      <button id="voice-modal-btn" class="icon-button" type="button" aria-label="Open voice and audio settings" title="Audio & Voice settings (Shift+V)">
-        <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M9 2a3 3 0 00-3 3v5a3 3 0 006 0V5a3 3 0 00-3-3z" stroke="currentColor" stroke-width="1.5"/><path d="M3.5 8.5v1.5a5.5 5.5 0 0011 0V8.5M9 15.5v2M6.5 17.5h5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+
+      <div class="status-chip">
+        <span class="status-dot pulsing" id="status-dot"></span>
+        <span id="load-status">Booting cognitive engine</span>
+      </div>
+
+      <button id="cmd-palette-btn" class="icon-button" type="button" aria-label="Command palette" title="Command palette (Ctrl+K)">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="2" y="2" width="12" height="12" rx="2" stroke="currentColor" stroke-width="1.3"/><path d="M5 6h6M5 8h4M5 10h6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></svg>
       </button>
-      <button id="theme-toggle" class="icon-button" type="button" aria-label="Toggle dark/light mode" title="Toggle theme (T)">
-        <svg class="icon-sun" width="18" height="18" viewBox="0 0 18 18" fill="none"><circle cx="9" cy="9" r="4" stroke="currentColor" stroke-width="1.5"/><path d="M9 1v2M9 15v2M1 9h2M15 9h2M3.3 3.3l1.4 1.4M13.3 13.3l1.4 1.4M3.3 14.7l1.4-1.4M13.3 4.7l1.4-1.4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-        <svg class="icon-moon" width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M15.1 10.4A6.5 6.5 0 017.6 2.9 7 7 0 1015.1 10.4z" stroke="currentColor" stroke-width="1.5"/></svg>
+      <button id="settings-btn" class="icon-button" type="button" aria-label="Visual & acoustic settings" title="Visual & Experience Settings ( , )">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="2.5" stroke="currentColor" stroke-width="1.3"/><path d="M8 2v1.5M8 12.5V14M2 8h1.5M12.5 8H14M3.5 3.5l1 1M11.5 11.5l1 1M12.5 3.5l-1 1M3.5 12.5l-1-1" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></svg>
       </button>
-      <button id="no-screen-btn" class="icon-button" type="button" aria-label="Toggle no-screen mode" title="No-Screen Eyes-Free Mode (Ctrl+Shift+N or B)">
-        <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M1 4.5A1.5 1.5 0 012.5 3h13A1.5 1.5 0 0117 4.5v7a1.5 1.5 0 01-1.5 1.5h-13A1.5 1.5 0 011 11.5v-7z" stroke="currentColor" stroke-width="1.5"/><path d="M6 15h6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M3 6l12 7M3 13l12-7" stroke="currentColor" stroke-width="1.2" opacity="0.5"/></svg>
+      <button id="voice-modal-btn" class="icon-button" type="button" aria-label="Audio engine" title="Audio & Voice (Shift+V)">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8 2a2.5 2.5 0 00-2.5 2.5v4A2.5 2.5 0 008 11a2.5 2.5 0 002.5-2.5v-4A2.5 2.5 0 008 2z" stroke="currentColor" stroke-width="1.3"/><path d="M3 7v1a5 5 0 0010 0V7M8 13v1.5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg>
+      </button>
+      <button id="shortcuts-btn" class="icon-button" type="button" aria-label="Keyboard shortcuts" title="Shortcuts (?)">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="2" y="2" width="12" height="12" rx="6" stroke="currentColor" stroke-width="1.3"/><path d="M8 5v3l2 1.5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg>
+      </button>
+      <button id="theme-toggle" class="icon-button" type="button" aria-label="Toggle theme" title="Theme (T)">
+        <span class="theme-ico sun">☼</span><span class="theme-ico moon">☾</span>
+      </button>
+      <button id="no-screen-btn" class="icon-button accent-ico" type="button" aria-label="No-screen eyes-free mode" title="Eyes-Free No-Screen (Ctrl+Shift+N)">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M1.5 4A1.5 1.5 0 013 2.5h10A1.5 1.5 0 0114.5 4v6A1.5 1.5 0 0113 11.5H3A1.5 1.5 0 011.5 10V4z" stroke="currentColor" stroke-width="1.3"/><path d="M5 13.5h6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/><path d="M2.5 5.5l11 5M2.5 10.5l11-5" stroke="currentColor" stroke-width="1" opacity="0.45"/></svg>
       </button>
     </div>
   </header>
 
-  <!-- No-Screen Mode Overlay -->
-  <div id="no-screen-overlay" class="no-screen-overlay hidden" role="dialog" aria-label="No-screen audio mode">
+  <!-- No-Screen Overlay -->
+  <div id="no-screen-overlay" class="no-screen-overlay hidden" role="dialog" aria-modal="true" aria-label="Eyes-free audio mode">
     <div class="no-screen-content">
       <div class="no-screen-visual">
-        <div class="audio-wave" aria-hidden="true">
-          <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
-        </div>
+        <div class="audio-wave" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
         <div class="oled-dot" aria-hidden="true"></div>
-        <h2>Eyes-Free Mode Active</h2>
-        <p class="no-screen-hint">Zero eye strain. Full audio speech synthesis with rich keyboard navigation.</p>
+        <h2>Eyes-Free Mode — Zero Photon</h2>
+        <p class="no-screen-hint">Display at 0 nits • Pure audio I/O • Full keyboard & voice control • Your retina rests, your hippocampus works.</p>
         <div class="no-screen-quick-bar">
-          <button id="ns-blackout-toggle" class="btn btn-outline btn-sm" type="button" title="Toggle OLED pitch black mode (B)">
-            🌙 Pitch Black (0 nits)
-          </button>
-          <button id="ns-voice-quick" class="btn btn-outline btn-sm" type="button" title="Audio & Voice settings">
-            🎙️ Voice Engine
-          </button>
+          <button id="ns-blackout-toggle" class="btn btn-outline btn-sm" type="button">🌑 Pitch Black OLED</button>
+          <button id="ns-voice-quick" class="btn btn-outline btn-sm" type="button">🎙 Voice Engine</button>
+          <button id="ns-settings-quick" class="btn btn-outline btn-sm" type="button">⚙ Experience</button>
         </div>
       </div>
       <div class="no-screen-controls">
-        <div class="key-hint"><kbd>1</kbd>–<kbd>4</kbd> / <kbd>A</kbd>–<kbd>D</kbd> Answer</div>
-        <div class="key-hint"><kbd>N</kbd> / <kbd>→</kbd> Next</div>
-        <div class="key-hint"><kbd>P</kbd> / <kbd>←</kbd> Previous</div>
-        <div class="key-hint"><kbd>R</kbd> Repeat All</div>
-        <div class="key-hint"><kbd>Q</kbd> Question Only</div>
-        <div class="key-hint"><kbd>O</kbd> Options Only</div>
-        <div class="key-hint"><kbd>E</kbd> / <kbd>X</kbd> Intuition & Explanation</div>
-        <div class="key-hint"><kbd>W</kbd> Weed-Out Misconception</div>
-        <div class="key-hint"><kbd>H</kbd> Hint Clue</div>
-        <div class="key-hint"><kbd>B</kbd> Blackout OLED</div>
-        <div class="key-hint"><kbd>Space</kbd> Pause/Resume</div>
+        <div class="key-hint"><kbd>1</kbd>–<kbd>4</kbd> Answer</div>
+        <div class="key-hint"><kbd>A</kbd>–<kbd>D</kbd> Answer</div>
+        <div class="key-hint"><kbd>N</kbd> Next</div>
+        <div class="key-hint"><kbd>P</kbd> Prev</div>
+        <div class="key-hint"><kbd>R</kbd> Repeat</div>
+        <div class="key-hint"><kbd>Q</kbd> Question</div>
+        <div class="key-hint"><kbd>O</kbd> Options</div>
+        <div class="key-hint"><kbd>E</kbd> Explanation</div>
+        <div class="key-hint"><kbd>W</kbd> Weed-Out</div>
+        <div class="key-hint"><kbd>H</kbd> Hint</div>
+        <div class="key-hint"><kbd>C</kbd> + <kbd>1-5</kbd> Confidence</div>
+        <div class="key-hint"><kbd>Space</kbd> Pause</div>
         <div class="key-hint"><kbd>S</kbd> Skip</div>
-        <div class="key-hint"><kbd>C</kbd> then <kbd>1</kbd>–<kbd>5</kbd> Rate Confidence</div>
+        <div class="key-hint"><kbd>B</kbd> Blackout</div>
         <div class="key-hint"><kbd>Enter</kbd> Finish</div>
         <div class="key-hint"><kbd>Esc</kbd> Exit</div>
       </div>
       <div class="no-screen-status">
-        <p id="ns-status">Press a key to begin. The question will be read aloud.</p>
-        <div class="ns-progress">
-          <span id="ns-progress-text">0 / 0</span>
-          <div class="ns-progress-bar"><span id="ns-progress-fill"></span></div>
-        </div>
+        <p id="ns-status">Initializing audio cortex…</p>
+        <div class="ns-progress"><span id="ns-progress-text">0 / 0</span><div class="ns-progress-bar"><span id="ns-progress-fill"></span></div></div>
       </div>
     </div>
   </div>
 
-  <!-- Main Content -->
-  <main id="top" class="shell">
+  <main id="main" class="shell">
 
-    <!-- ═══════════ DASHBOARD SECTION ═══════════ -->
+    <!-- DASHBOARD -->
     <section id="dashboard-section" class="section-view">
-      <!-- Hero -->
       <div class="hero">
         <div class="hero-content">
-          <p class="eyebrow">Neuroscience-backed learning</p>
-          <h1>Master concepts.<br><span class="gradient-text">Retain everything.</span></h1>
-          <p class="hero-copy">NeuroPrep applies eight research-proven cognitive techniques — spaced repetition, active recall, interleaving, elaborative interrogation, Leitner boxing, desirable difficulty, confidence calibration, and concept mapping — to move knowledge from short-term memory into deep, durable understanding.</p>
+          <div class="eyebrow-row"><span class="eyebrow">Neuroscience • Psych • Biology • CSS / PMS / PSC</span><span class="live-pill"><span class="live-dot"></span> Live cognitive engine</span></div>
+          <h1>Master <span class="serif">concepts</span>,<br><span class="gradient-text">retain for years</span>.</h1>
+          <p class="hero-copy">NeuroPrep is a professional-grade preparation platform for CSS Central Superior Services, PMS, FPSC, PPSC, AJK PSC, BPSC & more. Built on 8 evidence-based techniques: <em>spaced repetition, active recall, interleaving, elaborative interrogation, dual coding, Leitner boxing, desirable difficulty, confidence calibration</em> — plus knowledge graphs, misconception weeding, circadian & ultradian optimization, and a full <strong>eyes-free audio mode</strong> that lets you study with your screen off.</p>
           <div class="hero-actions">
-            <button id="hero-start" class="btn btn-primary btn-lg">
-              <span>Start Learning</span>
-              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-            </button>
-            <button id="hero-due" class="btn btn-ghost btn-lg" disabled>
-              <span>Review Due Items</span>
-              <span class="badge" id="hero-due-badge">0</span>
-            </button>
+            <button id="hero-start" class="btn btn-primary btn-lg">Start Retrieval Session <span class="btn-arrow">→</span></button>
+            <button id="hero-due" class="btn btn-ghost btn-lg" disabled>Review Due <span class="badge" id="hero-due-badge">0</span></button>
+            <button id="hero-no-screen" class="btn btn-outline btn-lg">◑ Eyes-Free Study</button>
+          </div>
+          <div class="hero-trust">
+            <div class="trust-item"><strong id="stat-questions">—</strong><span>Questions</span></div>
+            <div class="trust-item"><strong id="stat-banks">—</strong><span>Banks</span></div>
+            <div class="trust-item"><strong id="stat-subjects">—</strong><span>Subjects</span></div>
+            <div class="trust-item"><strong id="stat-due">—</strong><span>Due Now</span></div>
+            <div class="trust-item accent"><strong id="stat-retention">—</strong><span>Retention</span></div>
           </div>
         </div>
         <div class="hero-visual" aria-hidden="true">
-          <div class="brain-map">
-            <canvas id="brain-canvas" width="360" height="360"></canvas>
+          <div class="brain-map"><canvas id="brain-canvas" width="400" height="400"></canvas><div class="brain-labels"><span>Active Recall</span><span>Spaced</span><span>Interleaving</span></div></div>
+          <div class="hero-cards">
+            <div class="mini-card"><b>Visual Load</b><div class="mini-bar"><span id="mini-visual-bar"></span></div><small id="mini-visual-txt">calculating…</small></div>
+            <div class="mini-card"><b>Acoustic Load</b><div class="mini-bar"><span id="mini-acoustic-bar"></span></div><small id="mini-acoustic-txt">calculating…</small></div>
           </div>
         </div>
       </div>
 
-      <!-- Stats ribbon -->
-      <div class="stats-ribbon">
-        <div class="stat-card glass">
-          <div class="stat-icon">
-            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="3" stroke="currentColor" stroke-width="1.5"/><path d="M6 10h8M10 6v8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-          </div>
-          <div class="stat-body">
-            <span class="stat-label">Available questions</span>
-            <strong id="stat-questions" class="stat-value">—</strong>
-          </div>
+      <!-- Visual/Acoustic optimizer strip -->
+      <div class="optimizer-strip glass">
+        <div class="opt-header">
+          <div><p class="eyebrow">Human factors engineering</p><h3>Visual & Acoustic Experience Optimization</h3></div>
+          <button id="open-experience-settings" class="btn btn-outline btn-sm">Optimize →</button>
         </div>
-        <div class="stat-card glass">
-          <div class="stat-icon">
-            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M3 17V7l7-5 7 5v10a1 1 0 01-1 1H4a1 1 0 01-1-1z" stroke="currentColor" stroke-width="1.5"/><rect x="7" y="11" width="6" height="7" stroke="currentColor" stroke-width="1.5"/></svg>
-          </div>
-          <div class="stat-body">
-            <span class="stat-label">Question banks</span>
-            <strong id="stat-banks" class="stat-value">—</strong>
-          </div>
-        </div>
-        <div class="stat-card glass">
-          <div class="stat-icon">
-            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M2 16l4-4 3 3 5-5 4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </div>
-          <div class="stat-body">
-            <span class="stat-label">Subjects covered</span>
-            <strong id="stat-subjects" class="stat-value">—</strong>
-          </div>
-        </div>
-        <div class="stat-card glass">
-          <div class="stat-icon pulse-icon">
-            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="10" r="8" stroke="currentColor" stroke-width="1.5"/><path d="M10 6v4l3 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-          </div>
-          <div class="stat-body">
-            <span class="stat-label">Due for review</span>
-            <strong id="stat-due" class="stat-value">—</strong>
-          </div>
-        </div>
-        <div class="stat-card glass accent-card">
-          <div class="stat-icon">
-            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M10 2l2.5 5 5.5.8-4 3.9.9 5.3-4.9-2.6L5.1 17l.9-5.3-4-3.9 5.5-.8L10 2z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>
-          </div>
-          <div class="stat-body">
-            <span class="stat-label">Retention estimate</span>
-            <strong id="stat-retention" class="stat-value">—</strong>
-          </div>
+        <div class="opt-grid">
+          <div class="opt-metric"><span class="opt-label">Visual Load Score</span><strong id="opt-visual-score">—</strong><div class="opt-bar"><span id="opt-visual-fill"></span></div><small id="opt-visual-desc">Measures luminance, contrast, motion, density, blue light, font strain.</small></div>
+          <div class="opt-metric"><span class="opt-label">Acoustic Load Score</span><strong id="opt-acoustic-score">—</strong><div class="opt-bar"><span id="opt-acoustic-fill"></span></div><small id="opt-acoustic-desc">Measures speech rate, volume, pitch variance, continuous duration.</small></div>
+          <div class="opt-metric"><span class="opt-label">Circadian Phase</span><strong id="opt-circadian">—</strong><div class="opt-bar"><span id="opt-circadian-fill"></span></div><small>Peak declarative memory: 10am-2pm. Procedural: evening. Adjust session difficulty accordingly.</small></div>
+          <div class="opt-metric"><span class="opt-label">Cognitive Load</span><strong id="opt-cognitive-score">—</strong><div class="opt-bar"><span id="opt-cognitive-fill"></span></div><small>Intrinsic + extraneous + germane load. Keep extraneous low, germane high.</small></div>
         </div>
       </div>
 
-      <!-- Learning technique cards -->
+      <!-- Techniques -->
       <div class="techniques-section">
-        <p class="eyebrow">How NeuroPrep trains your brain</p>
-        <h2 class="section-title">Eight evidence-based cognitive strategies</h2>
+        <p class="eyebrow">Eight evidence-based protocols</p>
+        <h2 class="section-title">How NeuroPrep hardens intuition</h2>
         <div class="techniques-grid">
-          <div class="technique-card glass">
-            <div class="tech-number">01</div>
-            <h3>Spaced Repetition</h3>
-            <p>Items return at expanding intervals calibrated to your forgetting curve (Ebbinghaus, 1885). Each successful recall extends the interval exponentially.</p>
-          </div>
-          <div class="technique-card glass">
-            <div class="tech-number">02</div>
-            <h3>Active Recall</h3>
-            <p>You answer before seeing the explanation. Retrieval effort strengthens memory traces more than passive re-reading (Roediger & Karpicke, 2006).</p>
-          </div>
-          <div class="technique-card glass">
-            <div class="tech-number">03</div>
-            <h3>Interleaving</h3>
-            <p>Mixed-subject sessions prevent category-cue shortcuts and force discrimination between concepts (Kornell & Bjork, 2008).</p>
-          </div>
-          <div class="technique-card glass">
-            <div class="tech-number">04</div>
-            <h3>Elaborative Interrogation</h3>
-            <p>Explanations prompt you to connect new facts to existing knowledge, building richer associative networks (Pressley et al., 1987).</p>
-          </div>
-          <div class="technique-card glass">
-            <div class="tech-number">05</div>
-            <h3>Leitner System</h3>
-            <p>Questions move between five boxes based on accuracy. Wrong answers return to Box 1. Mastered items graduate to Box 5 for long-term maintenance.</p>
-          </div>
-          <div class="technique-card glass">
-            <div class="tech-number">06</div>
-            <h3>Desirable Difficulty</h3>
-            <p>Sessions are deliberately challenging — the productive struggle of effortful retrieval produces deeper encoding (Bjork & Bjork, 2011).</p>
-          </div>
-          <div class="technique-card glass">
-            <div class="tech-number">07</div>
-            <h3>Confidence Calibration</h3>
-            <p>Rating your certainty reveals overconfidence biases. Metacognitive awareness improves judgment accuracy (Dunlosky & Rawson, 2012).</p>
-          </div>
-          <div class="technique-card glass">
-            <div class="tech-number">08</div>
-            <h3>Concept Mapping</h3>
-            <p>The knowledge graph visualises how topics connect. Seeing the structure of your knowledge reveals gaps and strengthens transfer (Novak & Cañas, 2008).</p>
-          </div>
+          <div class="technique-card glass"><div class="tech-number">01</div><h3>Spaced Repetition</h3><p>Expanding intervals (10m → 1d → 3d → 7d → 30d) aligned to Ebbinghaus forgetting curve. Each successful recall doubles memory half-life. <em>FSRS-4.5 inspired.</em></p><span class="tech-ref">Ebbinghaus 1885; Cepeda et al. 2008</span></div>
+          <div class="technique-card glass"><div class="tech-number">02</div><h3>Active Recall & Testing Effect</h3><p>Retrieval before feedback strengthens traces 50% more than re-reading. You answer first, then get elaborated feedback. <em>Desirable difficulty.</em></p><span class="tech-ref">Roediger & Karpicke 2006</span></div>
+          <div class="technique-card glass"><div class="tech-number">03</div><h3>Interleaving</h3><p>Mixed subjects force discrimination. Prevents category cueing, builds transfer & inductive reasoning — critical for CSS essay & précis.</p><span class="tech-ref">Kornell & Bjork 2008; Rohrer 2012</span></div>
+          <div class="technique-card glass"><div class="tech-number">04</div><h3>Dual Coding & Elaborative Interrogation</h3><p>Verbal + visual + intuition anchor. Why does this answer make sense? Linking to prior knowledge builds associative networks.</p><span class="tech-ref">Paivio 1986; Pressley 1987</span></div>
+          <div class="technique-card glass"><div class="tech-number">05</div><h3>Leitner + Confidence Calibration</h3><p>5-box system + metacognitive confidence 1-5. High-confidence errors trigger hypercorrection — strongest neuroplastic window.</p><span class="tech-ref">Leitner 1972; Dunlosky & Rawson 2012</span></div>
+          <div class="technique-card glass"><div class="tech-number">06</div><h3>Misconception Weeding (Conceptual Change)</h3><p>Diagnose, confront, replace false mental models. Trap analysis + verified intuition hardens correct schema.</p><span class="tech-ref">Chi 2013; Vosniadou 1994; Posner 1982</span></div>
+          <div class="technique-card glass"><div class="tech-number">07</div><h3>Knowledge Graphs & Transfer</h3><p>See how CSS subjects connect: Pol Sci → Constitutional Law → Current Affairs. Graph reveals gaps, strengthens schema transfer.</p><span class="tech-ref">Novak & Cañas 2008</span></div>
+          <div class="technique-card glass"><div class="tech-number">08</div><h3>Sleep, Circadian & Ultradian</h3><p>Review timing respects memory consolidation windows. Pomodoro (25/5) aligns to ultradian rhythm. No-screen mode reduces blue light & eye strain.</p><span class="tech-ref">Diekelmann & Born 2010; Walker 2017</span></div>
         </div>
       </div>
 
-      <!-- Leitner boxes dashboard -->
+      <!-- Leitner -->
       <div class="leitner-section">
-        <p class="eyebrow">Leitner system</p>
-        <h2 class="section-title">Your learning boxes</h2>
-        <p class="section-subtitle">Cards move forward when answered correctly, and fall back to Box 1 on mistakes. Box 5 items are deeply retained.</p>
+        <div class="section-head-row"><div><p class="eyebrow">Leitner system — synaptic hardening</p><h2 class="section-title">Your memory boxes</h2><p class="section-subtitle">Box 1 = fragile. Box 5 = crystallized intuition. Wrong → Box 1. Correct with confidence ≥4 → advance. This mirrors long-term potentiation.</p></div></div>
         <div class="leitner-boxes">
-          <div class="leitner-box" data-box="1">
-            <div class="leitner-header">
-              <span class="leitner-label">Box 1</span>
-              <span class="leitner-tag">New / Failed</span>
-            </div>
-            <strong id="leitner-1" class="leitner-count">0</strong>
-            <div class="leitner-bar"><span id="leitner-bar-1"></span></div>
-          </div>
-          <div class="leitner-box" data-box="2">
-            <div class="leitner-header">
-              <span class="leitner-label">Box 2</span>
-              <span class="leitner-tag">Learning</span>
-            </div>
-            <strong id="leitner-2" class="leitner-count">0</strong>
-            <div class="leitner-bar"><span id="leitner-bar-2"></span></div>
-          </div>
-          <div class="leitner-box" data-box="3">
-            <div class="leitner-header">
-              <span class="leitner-label">Box 3</span>
-              <span class="leitner-tag">Reviewing</span>
-            </div>
-            <strong id="leitner-3" class="leitner-count">0</strong>
-            <div class="leitner-bar"><span id="leitner-bar-3"></span></div>
-          </div>
-          <div class="leitner-box" data-box="4">
-            <div class="leitner-header">
-              <span class="leitner-label">Box 4</span>
-              <span class="leitner-tag">Familiar</span>
-            </div>
-            <strong id="leitner-4" class="leitner-count">0</strong>
-            <div class="leitner-bar"><span id="leitner-bar-4"></span></div>
-          </div>
-          <div class="leitner-box" data-box="5">
-            <div class="leitner-header">
-              <span class="leitner-label">Box 5</span>
-              <span class="leitner-tag">Mastered</span>
-            </div>
-            <strong id="leitner-5" class="leitner-count">0</strong>
-            <div class="leitner-bar"><span id="leitner-bar-5"></span></div>
-          </div>
+          <div class="leitner-box" data-box="1"><div class="leitner-header"><span class="leitner-label">Box 1</span><span class="leitner-tag">Fragile • 10 min</span></div><strong id="leitner-1" class="leitner-count">0</strong><div class="leitner-bar"><span id="leitner-bar-1"></span></div><small>Needs repair</small></div>
+          <div class="leitner-box" data-box="2"><div class="leitner-header"><span class="leitner-label">Box 2</span><span class="leitner-tag">Learning • 1 day</span></div><strong id="leitner-2" class="leitner-count">0</strong><div class="leitner-bar"><span id="leitner-bar-2"></span></div><small>Encoding</small></div>
+          <div class="leitner-box" data-box="3"><div class="leitner-header"><span class="leitner-label">Box 3</span><span class="leitner-tag">Reviewing • 3 days</span></div><strong id="leitner-3" class="leitner-count">0</strong><div class="leitner-bar"><span id="leitner-bar-3"></span></div><small>Consolidating</small></div>
+          <div class="leitner-box" data-box="4"><div class="leitner-header"><span class="leitner-label">Box 4</span><span class="leitner-tag">Familiar • 7–14 days</span></div><strong id="leitner-4" class="leitner-count">0</strong><div class="leitner-bar"><span id="leitner-bar-4"></span></div><small>Stable</small></div>
+          <div class="leitner-box" data-box="5"><div class="leitner-header"><span class="leitner-label">Box 5</span><span class="leitner-tag">Mastered • 30 days</span></div><strong id="leitner-5" class="leitner-count">0</strong><div class="leitner-bar"><span id="leitner-bar-5"></span></div><small>Crystallized</small></div>
         </div>
       </div>
 
-      <!-- Review queue -->
       <div class="review-queue-section">
-        <div class="review-queue-header">
-          <div>
-            <p class="eyebrow">Today's schedule</p>
-            <h2 class="section-title">Your review queue</h2>
-          </div>
-          <button id="due-button" class="btn btn-primary" disabled>
-            Start Due Review
-            <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </button>
-        </div>
-        <p class="section-subtitle">Short effortful recall sessions strengthen access to a concept. Weak and overdue items appear first.</p>
+        <div class="review-queue-header"><div><p class="eyebrow">Today • Ultradian optimized</p><h2 class="section-title">Review queue & Pomodoro</h2></div><button id="due-button" class="btn btn-primary" disabled>Start Due Review →</button></div>
+        <p class="section-subtitle">Short, effortful recall beats long re-reading. 25-min focus + 5-min rest respects ultradian rhythm. Due items first.</p>
         <div class="queue-metrics">
-          <div class="queue-metric glass">
-            <strong id="due-count">0</strong>
-            <span>due now</span>
-          </div>
-          <div class="queue-metric glass">
-            <strong id="weak-count">0</strong>
-            <span>needs repair</span>
-          </div>
-          <div class="queue-metric glass">
-            <strong id="mastered-count">0</strong>
-            <span>stable</span>
-          </div>
+          <div class="queue-metric glass"><strong id="due-count">0</strong><span>due now</span><small>Forgetting curve window</small></div>
+          <div class="queue-metric glass"><strong id="weak-count">0</strong><span>needs repair</span><small>Box 1 + lapses</small></div>
+          <div class="queue-metric glass"><strong id="mastered-count">0</strong><span>crystallized</span><small>Box 4–5 stable</small></div>
         </div>
       </div>
     </section>
 
-    <!-- ═══════════ STUDY / SESSION SETUP SECTION ═══════════ -->
+    <!-- STUDY -->
     <section id="study-section" class="section-view hidden">
       <div class="setup-grid">
         <div class="panel glass setup-panel">
-          <p class="eyebrow">Deliberate practice</p>
+          <p class="eyebrow">Deliberate practice • CSS / PMS / PSC syllabus</p>
           <h2 class="section-title">Design a retrieval session</h2>
 
           <div class="filters-grid">
-            <label class="field full-width">
-              <span class="field-label">Question bank</span>
-              <div class="select-wrap">
-                <select id="source-filter"><option value="all">All banks</option></select>
-              </div>
-            </label>
-            <label class="field">
-              <span class="field-label">Collection / board</span>
-              <div class="select-wrap">
-                <select id="collection-filter"><option value="all">All collections</option></select>
-              </div>
-            </label>
-            <label class="field">
-              <span class="field-label">Subject</span>
-              <div class="select-wrap">
-                <select id="subject-filter"><option value="all">All subjects</option></select>
-              </div>
-            </label>
-            <label class="field">
-              <span class="field-label">Topic</span>
-              <div class="select-wrap">
-                <select id="topic-filter"><option value="all">All topics</option></select>
-              </div>
-            </label>
-            <label class="field">
-              <span class="field-label">Year</span>
-              <div class="select-wrap">
-                <select id="year-filter"><option value="all">All years</option></select>
-              </div>
-            </label>
-            <label class="field">
-              <span class="field-label">Question count</span>
-              <div class="select-wrap">
-                <select id="limit-filter">
-                  <option value="10">10 questions</option>
-                  <option value="20" selected>20 questions</option>
-                  <option value="40">40 questions</option>
-                  <option value="all">All available</option>
-                </select>
-              </div>
-            </label>
+            <label class="field full-width"><span class="field-label">Question Bank Source</span><div class="select-wrap"><select id="source-filter"><option value="all">All banks (Builder + Board subjects)</option></select></div><small class="field-help">Builder = 21k curated Qs. Board = 80+ exam bodies including FPSC, PPSC, FIA, CSS affiliates.</small></label>
+            <label class="field"><span class="field-label">Collection / Exam Body</span><div class="select-wrap"><select id="collection-filter"><option value="all">All collections</option></select></div></label>
+            <label class="field"><span class="field-label">Subject</span><div class="select-wrap"><select id="subject-filter"><option value="all">All subjects</option></select></div></label>
+            <label class="field"><span class="field-label">Topic</span><div class="select-wrap"><select id="topic-filter"><option value="all">All topics</option></select></div></label>
+            <label class="field"><span class="field-label">Year / Paper</span><div class="select-wrap"><select id="year-filter"><option value="all">All years</option></select></div></label>
+            <label class="field"><span class="field-label">Question Count • Desirable Difficulty</span><div class="select-wrap"><select id="limit-filter"><option value="10">10 • Micro (8 min)</option><option value="20" selected>20 • Standard (18 min)</option><option value="40">40 • Deep (35 min)</option><option value="all">All matched • Marathon</option></select></div></label>
           </div>
 
-          <!-- Session modes -->
           <div class="mode-section">
-            <span class="field-label">Session mode</span>
+            <span class="field-label">Session Mode • Cognitive Strategy</span>
             <div class="mode-grid">
-              <label class="mode-card">
-                <input type="radio" name="mode" value="practice" checked>
-                <div class="mode-card-inner">
-                  <span class="mode-icon">🎯</span>
-                  <b>Practice</b>
-                  <small>Retrieve, then get immediate feedback</small>
-                </div>
-              </label>
-              <label class="mode-card">
-                <input type="radio" name="mode" value="assessment">
-                <div class="mode-card-inner">
-                  <span class="mode-icon">📋</span>
-                  <b>Assessment</b>
-                  <small>Delay feedback until the end</small>
-                </div>
-              </label>
-              <label class="mode-card">
-                <input type="radio" name="mode" value="interleaved">
-                <div class="mode-card-inner">
-                  <span class="mode-icon">🔀</span>
-                  <b>Interleaved</b>
-                  <small>Mix subjects to harden transfer</small>
-                </div>
-              </label>
-              <label class="mode-card">
-                <input type="radio" name="mode" value="due">
-                <div class="mode-card-inner">
-                  <span class="mode-icon">⏰</span>
-                  <b>Due Review</b>
-                  <small>Prioritize items scheduled for retrieval</small>
-                </div>
-              </label>
-              <label class="mode-card">
-                <input type="radio" name="mode" value="leitner">
-                <div class="mode-card-inner">
-                  <span class="mode-icon">📦</span>
-                  <b>Leitner Drill</b>
-                  <small>Focus on Box 1 & 2 items first</small>
-                </div>
-              </label>
-              <label class="mode-card">
-                <input type="radio" name="mode" value="weakest">
-                <div class="mode-card-inner">
-                  <span class="mode-icon">🔧</span>
-                  <b>Weakest First</b>
-                  <small>Target your most error-prone topics</small>
-                </div>
-              </label>
-              <label class="mode-card accent-mode-card">
-                <input type="radio" name="mode" value="misconceptions">
-                <div class="mode-card-inner">
-                  <span class="mode-icon">⚡</span>
-                  <b>Weed-Out Drill</b>
-                  <small>Target diagnosed pitfalls & bad concepts</small>
-                </div>
-              </label>
+              <label class="mode-card"><input type="radio" name="mode" value="practice" checked><div class="mode-card-inner"><span class="mode-icon">🎯</span><b>Practice</b><small>Immediate feedback + intuition hardening</small></div></label>
+              <label class="mode-card"><input type="radio" name="mode" value="assessment"><div class="mode-card-inner"><span class="mode-icon">📋</span><b>Assessment</b><small>Delayed feedback — test your calibration</small></div></label>
+              <label class="mode-card"><input type="radio" name="mode" value="interleaved"><div class="mode-card-inner"><span class="mode-icon">🔀</span><b>Interleaved</b><small>Mix subjects — CSS transfer</small></div></label>
+              <label class="mode-card"><input type="radio" name="mode" value="due"><div class="mode-card-inner"><span class="mode-icon">⏰</span><b>Due Review</b><small>Spaced — forgetting curve</small></div></label>
+              <label class="mode-card"><input type="radio" name="mode" value="leitner"><div class="mode-card-inner"><span class="mode-icon">📦</span><b>Leitner Drill</b><small>Box 1 & 2 first — fragile memory</small></div></label>
+              <label class="mode-card"><input type="radio" name="mode" value="weakest"><div class="mode-card-inner"><span class="mode-icon">🔧</span><b>Weakest First</b><small>Error-prone topics — repair</small></div></label>
+              <label class="mode-card accent-mode-card"><input type="radio" name="mode" value="misconceptions"><div class="mode-card-inner"><span class="mode-icon">⚡</span><b>Weed-Out Lab</b><small>Diagnosed pitfalls & hypercorrection</small></div></label>
             </div>
           </div>
 
-          <!-- Voice settings -->
           <div class="voice-section">
-            <span class="field-label">Audio & Voice</span>
+            <span class="field-label">Audio & Eyes-Free Preparation</span>
             <div class="voice-grid">
-              <label class="field">
-                <span class="field-label-inner">Voice</span>
-                <div class="voice-select-row">
-                  <div class="select-wrap voice-select-wrap">
-                    <select id="voice-select"><option value="default">System default</option></select>
-                  </div>
-                  <button id="voice-preview" class="btn btn-outline btn-sm" type="button" title="Preview voice">
-                    <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><polygon points="3,2 13,8 3,14" stroke="currentColor" stroke-width="1.5" fill="currentColor" opacity="0.3"/></svg>
-                    Preview
-                  </button>
-                </div>
-              </label>
-              <label class="field">
-                <span class="field-label-inner">Speech speed <output id="speech-speed-value">0.9×</output></span>
-                <input id="speech-speed" type="range" min="0.55" max="1.25" step="0.05" value="0.9" class="range-input">
-              </label>
+              <label class="field"><span class="field-label-inner">Voice Engine</span><div class="voice-select-row"><div class="select-wrap voice-select-wrap"><select id="voice-select"><option value="default">System default • Auto Urdu/English</option></select></div><button id="voice-preview" class="btn btn-outline btn-sm" type="button">▶ Preview</button></div></label>
+              <label class="field"><span class="field-label-inner">Speech Speed <output id="speech-speed-value">0.90×</output></span><input id="speech-speed" type="range" min="0.55" max="1.35" step="0.05" value="0.9" class="range-input"></label>
             </div>
-            <label class="no-screen-toggle">
-              <input id="no-screen-toggle" type="checkbox">
-              <div class="toggle-content">
-                <b>No-screen mode</b>
-                <small>Voice starts automatically. Answers by keyboard only. Your display goes dark so your eyes can rest.</small>
-              </div>
-            </label>
+            <label class="no-screen-toggle"><input id="no-screen-toggle" type="checkbox"><div class="toggle-content"><b>◑ No-Screen Mode — Study with display off</b><small>Voice auto-reads Q & options. Answer via keyboard (1-4, A-D) or voice. OLED blackout 0 nits for zero eye strain. Recommended for 40+ min sessions to prevent digital eye strain & preserve melatonin.</small></div></label>
           </div>
 
-          <!-- Footer -->
-          <div class="setup-footer">
-            <span id="match-count" class="match-text">Loading questions…</span>
-            <button id="start-button" class="btn btn-primary btn-lg" disabled>
-              Start Session
-              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-            </button>
-          </div>
+          <div class="setup-footer"><span id="match-count" class="match-text">Loading question banks…</span><button id="start-button" class="btn btn-primary btn-lg" disabled>Start Session →</button></div>
         </div>
 
-        <!-- Recent sessions sidebar -->
         <aside class="panel glass recent-panel">
-          <p class="eyebrow">Activity</p>
-          <h2 class="section-title">Recent sessions</h2>
-          <div id="recent-list" class="recent-list">
-            <p class="empty-state">Your completed sessions will appear here.</p>
+          <p class="eyebrow">Activity • Circadian log</p>
+          <h2 class="section-title" style="font-size:20px">Recent & Scheduled</h2>
+          <div id="recent-list" class="recent-list"><p class="empty-state">Completed sessions will appear here. Your circadian rhythm log helps optimize timing.</p></div>
+          <div class="pomodoro-widget">
+            <p class="eyebrow">Ultradian rhythm</p>
+            <h3>Pomodoro Focus</h3>
+            <div class="pomodoro-display"><strong id="pomodoro-time">25:00</strong><span id="pomodoro-label">Ready</span></div>
+            <div class="pomodoro-actions"><button id="pomodoro-start" class="btn btn-outline btn-sm">Start 25m Focus</button><button id="pomodoro-reset" class="btn btn-ghost btn-sm">Reset</button></div>
+            <small>25 min focus / 5 min rest mirrors BRAC ultradian cycle. Eye rest every 20 min (20-20-20 rule).</small>
           </div>
         </aside>
       </div>
     </section>
 
-    <!-- ═══════════ MISCONCEPTIONS / WEED-OUT SECTION ═══════════ -->
+    <!-- MISCONCEPTIONS -->
     <section id="misconceptions-section" class="section-view hidden">
-      <div class="misconception-header">
-        <div>
-          <p class="eyebrow">Cognitive Diagnostics & Synaptic Hardening</p>
-          <h2 class="section-title">Weed Out Bad Concepts</h2>
-          <p class="section-subtitle">Cognitive neuroscience demonstrates that robust understanding requires actively diagnosing and reconsolidating erroneous mental models (Chi, 2013). High-confidence errors trigger the <em>Hypercorrection Effect</em> — the highest neuroplastic learning potential.</p>
-        </div>
-        <button id="drill-misconceptions-btn" class="btn btn-primary" disabled>
-          <span>Drill Weak Concepts</span>
-          <span id="misconception-badge" class="badge">0</span>
-        </button>
-      </div>
-
-      <!-- Cognitive status ribbon -->
+      <div class="misconception-header"><div><p class="eyebrow">Conceptual Change Theory • Chi • Vosniadou • Posner</p><h2 class="section-title">Weed-Out Lab — Harden Correct Intuitions</h2><p class="section-subtitle">Neuroscience: high-confidence errors produce largest prediction error signals in anterior cingulate → trigger hypercorrection effect. We diagnose traps, confront with verified intuition, reconsolidate schema.</p></div><button id="drill-misconceptions-btn" class="btn btn-primary" disabled><span>Drill Weak Concepts</span><span id="misconception-badge" class="badge">0</span></button></div>
       <div class="stats-ribbon">
-        <div class="stat-card glass accent-card">
-          <div class="stat-icon">
-            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M10 2L3 17h14L10 2z" stroke="currentColor" stroke-width="1.5"/><line x1="10" y1="8" x2="10" y2="12" stroke="currentColor" stroke-width="1.5"/><circle cx="10" cy="14.5" r="0.75" fill="currentColor"/></svg>
-          </div>
-          <div class="stat-body">
-            <span class="stat-label">Active Misconceptions</span>
-            <strong id="stat-active-misconceptions" class="stat-value">0</strong>
-          </div>
-        </div>
-        <div class="stat-card glass">
-          <div class="stat-icon pulse-icon">
-            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><polygon points="10,2 12,8 18,8 13,12 15,18 10,14 5,18 7,12 2,8 8,8" stroke="currentColor" stroke-width="1.5"/></svg>
-          </div>
-          <div class="stat-body">
-            <span class="stat-label">Hypercorrection Alerts</span>
-            <strong id="stat-hypercorrections" class="stat-value">0</strong>
-          </div>
-        </div>
-        <div class="stat-card glass">
-          <div class="stat-icon">
-            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="10" r="8" stroke="currentColor" stroke-width="1.5"/><path d="M7 10l2 2 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-          </div>
-          <div class="stat-body">
-            <span class="stat-label">Hardened & Resolved</span>
-            <strong id="stat-hardened" class="stat-value">0</strong>
-          </div>
-        </div>
+        <div class="stat-card glass accent-card"><div class="stat-icon">⚑</div><div class="stat-body"><span class="stat-label">Active Misconceptions</span><strong id="stat-active-misconceptions" class="stat-value">0</strong></div></div>
+        <div class="stat-card glass"><div class="stat-icon pulse-icon">⚡</div><div class="stat-body"><span class="stat-label">Hypercorrection Alerts</span><strong id="stat-hypercorrections" class="stat-value">0</strong></div></div>
+        <div class="stat-card glass"><div class="stat-icon">✓</div><div class="stat-body"><span class="stat-label">Hardened & Resolved</span><strong id="stat-hardened" class="stat-value">0</strong></div></div>
+        <div class="stat-card glass"><div class="stat-icon">🧬</div><div class="stat-body"><span class="stat-label">Schema Repair Rate</span><strong id="stat-repair-rate" class="stat-value">—</strong></div></div>
       </div>
-
-      <!-- Filter chips -->
-      <div class="misconception-filter-bar">
-        <div class="filter-chips">
-          <button class="chip active" data-filter="all">All Diagnosed Pitfalls</button>
-          <button class="chip" data-filter="hypercorrection">High-Confidence Errors ⚡</button>
-          <button class="chip" data-filter="unresolved">Needs Hardening ⚠️</button>
-          <button class="chip" data-filter="hardened">Resolved & Hardened ✓</button>
-        </div>
-      </div>
-
-      <div id="misconception-list" class="misconception-list">
-        <p class="empty-state">No misconceptions recorded yet. Take a practice or assessment session to diagnose and weed out flawed mental models.</p>
-      </div>
+      <div class="misconception-filter-bar"><div class="filter-chips"><button class="chip active" data-filter="all">All Pitfalls</button><button class="chip" data-filter="hypercorrection">High-Confidence Errors ⚡</button><button class="chip" data-filter="unresolved">Needs Hardening ⚠️</button><button class="chip" data-filter="hardened">Resolved ✓</button></div></div>
+      <div id="misconception-list" class="misconception-list"><p class="empty-state">No misconceptions yet. Take a retrieval session to diagnose blind spots. The system uses your confidence ratings to detect metacognitive miscalibration.</p></div>
     </section>
 
-    <!-- ═══════════ KNOWLEDGE GRAPH SECTION ═══════════ -->
+    <!-- KNOWLEDGE GRAPH -->
     <section id="knowledge-section" class="section-view hidden">
-      <p class="eyebrow">Concept landscape</p>
-      <h2 class="section-title">Knowledge Graph</h2>
-      <p class="section-subtitle">Visualise your concept hierarchy and neuroplastic memory health. Nodes glow green for high retention, yellow for vulnerable, red for diagnosed misconceptions, and gray for unpracticed topics. Click any node to inspect or launch a targeted drill.</p>
+      <p class="eyebrow">Schema mapping • Transfer learning</p>
+      <h2 class="section-title">Knowledge Graph — Concept Landscape</h2>
+      <p class="section-subtitle">Nodes = subjects & topics. Size = question count. Color = retention strength (green hardened Box 4-5, cyan consolidating Box 2-3, red misconception Box 1, gray unseen). Click to inspect & launch targeted drill. Drag, zoom, search. Supports CSS syllabus cross-linking: e.g., Pak Affairs → Current Affairs → International Relations.</p>
       <div class="graph-controls">
-        <button id="graph-reset" class="btn btn-outline btn-sm">Reset</button>
-        <button id="graph-zoom-in" class="btn btn-outline btn-sm" title="Zoom in">+</button>
-        <button id="graph-zoom-out" class="btn btn-outline btn-sm" title="Zoom out">−</button>
-        <div class="search-wrap">
-          <input id="graph-search" type="search" placeholder="Search concepts (e.g. Physics, History)..." class="input-sm">
-        </div>
-        <label class="field-inline">
-          <span>Show</span>
-          <div class="select-wrap select-sm">
-            <select id="graph-filter">
-              <option value="all">All concepts</option>
-              <option value="weak">Pitfalls & Weak only</option>
-              <option value="strong">Strong recall only</option>
-              <option value="unseen">Unseen only</option>
-            </select>
-          </div>
-        </label>
+        <button id="graph-reset" class="btn btn-outline btn-sm">Reset View</button>
+        <button id="graph-zoom-in" class="btn btn-outline btn-sm">Zoom +</button>
+        <button id="graph-zoom-out" class="btn btn-outline btn-sm">Zoom −</button>
+        <div class="search-wrap"><input id="graph-search" type="search" placeholder="Search: e.g., Constitutional Law, Pakistan Affairs, English..." class="input-sm"></div>
+        <label class="field-inline"><span>Filter</span><div class="select-wrap select-sm"><select id="graph-filter"><option value="all">All concepts</option><option value="weak">Pitfalls & Weak</option><option value="strong">Strong only</option><option value="unseen">Unseen only</option></select></div></label>
       </div>
-      <div class="graph-container glass">
-        <canvas id="knowledge-graph" width="1100" height="600"></canvas>
-        <!-- Node inspector card -->
-        <div id="graph-inspector" class="graph-inspector glass hidden">
-          <button id="inspector-close" class="inspector-close" type="button" aria-label="Close inspector">✕</button>
-          <span id="inspector-type" class="inspector-badge">Subject</span>
-          <h3 id="inspector-title">Concept Name</h3>
-          <p id="inspector-stats" class="inspector-stats"></p>
-          <div class="inspector-meter">
-            <div class="meter-bar"><span id="inspector-fill"></span></div>
-            <span id="inspector-pct">0% Retention</span>
-          </div>
-          <button id="inspector-drill-btn" class="btn btn-primary btn-sm">
-            Practice This Concept
-            <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-          </button>
-        </div>
-      </div>
-      <div class="graph-legend">
-        <span class="legend-item"><span class="legend-dot legend-strong"></span> Hardened recall (Box 4–5)</span>
-        <span class="legend-item"><span class="legend-dot legend-medium"></span> Moderate consolidation (Box 2–3)</span>
-        <span class="legend-item"><span class="legend-dot legend-weak"></span> Misconception / Needs repair (Box 1)</span>
-        <span class="legend-item"><span class="legend-dot legend-unseen"></span> Not yet encoded</span>
-      </div>
+      <div class="graph-container glass"><canvas id="knowledge-graph" width="1100" height="600"></canvas><div id="graph-inspector" class="graph-inspector glass hidden"><button id="inspector-close" class="inspector-close" type="button">✕</button><span id="inspector-type" class="inspector-badge">Subject</span><h3 id="inspector-title">Concept</h3><p id="inspector-stats" class="inspector-stats"></p><div class="inspector-meter"><div class="meter-bar"><span id="inspector-fill"></span></div><span id="inspector-pct">0% Retention</span></div><button id="inspector-drill-btn" class="btn btn-primary btn-sm">Practice This Concept →</button></div></div>
+      <div class="graph-legend"><span class="legend-item"><span class="legend-dot legend-strong"></span> Hardened Box 4–5</span><span class="legend-item"><span class="legend-dot legend-medium"></span> Consolidating Box 2–3</span><span class="legend-item"><span class="legend-dot legend-weak"></span> Misconception Box 1</span><span class="legend-item"><span class="legend-dot legend-unseen"></span> Not yet encoded</span></div>
     </section>
 
-    <!-- ═══════════ HISTORY SECTION ═══════════ -->
+    <!-- HISTORY / ANALYTICS -->
     <section id="history-section" class="section-view hidden">
-      <p class="eyebrow">Performance</p>
-      <h2 class="section-title">Learning History</h2>
-      <p class="section-subtitle">Track your progress over time. Each session contributes to your overall retention model.</p>
+      <p class="eyebrow">Performance • Forgetting curves • Retention analytics</p>
+      <h2 class="section-title">Analytics & Long-Term Retention</h2>
+      <p class="section-subtitle">Tracks your forgetting curves, Leitner progression, confidence calibration (metacognition), and predicted retention. Based on FSRS & Ebbinghaus models.</p>
       <div class="history-stats">
-        <div class="stat-card glass">
-          <span class="stat-label">Sessions completed</span>
-          <strong id="session-count" class="stat-value">0</strong>
-        </div>
-        <div class="stat-card glass">
-          <span class="stat-label">Average score</span>
-          <strong id="avg-score" class="stat-value">—</strong>
-        </div>
-        <div class="stat-card glass">
-          <span class="stat-label">Total questions practiced</span>
-          <strong id="total-practiced" class="stat-value">—</strong>
-        </div>
+        <div class="stat-card glass"><span class="stat-label">Sessions</span><strong id="session-count" class="stat-value">0</strong><small>Completed retrieval sessions</small></div>
+        <div class="stat-card glass"><span class="stat-label">Avg Score</span><strong id="avg-score" class="stat-value">—</strong><small>Mean accuracy</small></div>
+        <div class="stat-card glass"><span class="stat-label">Total Practiced</span><strong id="total-practiced" class="stat-value">—</strong><small>Questions attempted</small></div>
+        <div class="stat-card glass accent-card"><span class="stat-label">Calibration Bias</span><strong id="calibration-bias" class="stat-value">—</strong><small>Overconfidence vs accuracy</small></div>
       </div>
-      <div id="history-list" class="history-list">
-        <p class="empty-state">Complete a session to see your history.</p>
+      <div class="analytics-grid">
+        <div class="panel glass"><h3>Retention Forecast (7 days)</h3><canvas id="retention-chart" width="500" height="220"></canvas><small>Predicted recall probability based on current Leitner boxes & intervals.</small></div>
+        <div class="panel glass"><h3>Confidence Calibration</h3><canvas id="calibration-chart" width="500" height="220"></canvas><small>Ideal = diagonal. Above diagonal = overconfidence. Training metacognition improves judgment.</small></div>
       </div>
+      <div id="history-list" class="history-list"><p class="empty-state">Complete a session to see analytics.</p></div>
     </section>
 
-    <!-- ═══════════ QUIZ VIEW ═══════════ -->
+    <!-- QUIZ VIEW -->
     <section id="quiz-view" class="section-view hidden">
-      <div class="quiz-header">
-        <div>
-          <p class="eyebrow" id="quiz-kicker">Session</p>
-          <h2 class="section-title" id="quiz-title">Practice set</h2>
-        </div>
-        <div class="quiz-tools">
-          <span id="quiz-progress" class="quiz-progress-text">0 / 0</span>
-          <button id="voice-toggle" class="btn btn-outline btn-sm" type="button" aria-pressed="false">
-            <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><polygon points="2,5 6,5 10,2 10,14 6,11 2,11" stroke="currentColor" stroke-width="1.3" fill="currentColor" opacity="0.2"/><path d="M12 5.5a3.5 3.5 0 010 5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg>
-            Voice: Off
-          </button>
-          <button id="exit-button" class="btn btn-ghost btn-sm">Exit</button>
-        </div>
-      </div>
+      <div class="quiz-header"><div><p class="eyebrow" id="quiz-kicker">Session</p><h2 class="section-title" id="quiz-title">Practice set</h2><div class="quiz-meta-row"><span id="quiz-mode-badge" class="mode-badge">Practice</span><span id="quiz-focus-indicator" class="focus-indicator">Focus: 25:00</span></div></div><div class="quiz-tools"><span id="quiz-progress" class="quiz-progress-text">0 / 0</span><button id="voice-toggle" class="btn btn-outline btn-sm" type="button" aria-pressed="false">🔊 Voice: Off</button><button id="focus-toggle" class="btn btn-outline btn-sm" type="button">◐ Focus Mode</button><button id="exit-button" class="btn btn-ghost btn-sm">Exit (Esc)</button></div></div>
       <div class="progress-track"><span id="progress-fill"></span></div>
       <div id="question-list" class="question-list"></div>
-      <div class="quiz-footer">
-        <div class="quiz-footer-left">
-          <span id="answered-count">0 answered</span>
-          <span class="shortcut-hint">
-            <kbd>1</kbd>–<kbd>4</kbd> answer · <kbd>N</kbd>/<kbd>P</kbd> next/prev · <kbd>Space</kbd> repeat · <kbd>S</kbd> skip · <kbd>C</kbd> confidence · <kbd>Enter</kbd> finish
-          </span>
-        </div>
-        <button id="submit-button" class="btn btn-primary">
-          Finish Session
-          <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        </button>
-      </div>
+      <div class="quiz-footer"><div class="quiz-footer-left"><span id="answered-count">0 answered</span><span class="shortcut-hint"><kbd>1</kbd>–<kbd>4</kbd> answer • <kbd>N</kbd>/<kbd>P</kbd> nav • <kbd>Space</kbd> speak • <kbd>C</kbd> confidence • <kbd>E</kbd> explanation • <kbd>W</kbd> weed-out • <kbd>H</kbd> hint • <kbd>Enter</kbd> finish • <kbd>?</kbd> help</span></div><button id="submit-button" class="btn btn-primary">Finish Session →</button></div>
     </section>
 
-    <!-- ═══════════ RESULT VIEW ═══════════ -->
+    <!-- RESULT VIEW -->
     <section id="result-view" class="section-view hidden">
-      <div class="result-hero">
-        <div class="result-hero-text">
-          <p class="eyebrow">Session complete</p>
-          <h2 id="result-title" class="result-headline">Good work.</h2>
-          <p id="result-subtitle" class="result-copy"></p>
-        </div>
-        <div class="score-ring">
-          <svg viewBox="0 0 120 120" class="score-svg">
-            <circle cx="60" cy="60" r="52" class="score-bg"/>
-            <circle cx="60" cy="60" r="52" class="score-fill" id="score-circle"/>
-          </svg>
-          <div class="score-center">
-            <strong id="result-score">0%</strong>
-            <span>score</span>
-          </div>
-        </div>
-      </div>
-      <div class="result-stats-grid">
-        <div class="result-stat glass">
-          <span>Correct</span>
-          <strong id="result-correct">0</strong>
-        </div>
-        <div class="result-stat glass">
-          <span>Attempted</span>
-          <strong id="result-attempted">0</strong>
-        </div>
-        <div class="result-stat glass">
-          <span>Questions</span>
-          <strong id="result-total">0</strong>
-        </div>
-      </div>
+      <div class="result-hero"><div class="result-hero-text"><p class="eyebrow">Session complete • Memory consolidated</p><h2 id="result-title" class="result-headline">Good work.</h2><p id="result-subtitle" class="result-copy"></p><div id="result-neuro-tip" class="neuro-tip"></div></div><div class="score-ring"><svg viewBox="0 0 120 120" class="score-svg"><defs><linearGradient id="score-gradient" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#06b6d4"/><stop offset="50%" stop-color="#8b5cf6"/><stop offset="100%" stop-color="#ec4899"/></linearGradient></defs><circle cx="60" cy="60" r="52" class="score-bg"/><circle cx="60" cy="60" r="52" class="score-fill" id="score-circle"/></svg><div class="score-center"><strong id="result-score">0%</strong><span>score</span></div></div></div>
+      <div class="result-stats-grid"><div class="result-stat glass"><span>Correct</span><strong id="result-correct">0</strong><small>Active recall success</small></div><div class="result-stat glass"><span>Attempted</span><strong id="result-attempted">0</strong><small>Retrieval attempts</small></div><div class="result-stat glass"><span>Questions</span><strong id="result-total">0</strong><small>Total in set</small></div><div class="result-stat glass accent-card"><span>Hypercorrections</span><strong id="result-hyper">0</strong><small>High-confidence errors = max learning</small></div></div>
       <div id="result-review" class="review-list"></div>
-      <div class="result-actions">
-        <button id="new-session-button" class="btn btn-primary btn-lg">
-          Build another session
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        </button>
-        <button id="retry-button" class="btn btn-outline">Retry this set</button>
-      </div>
+      <div class="result-actions"><button id="new-session-button" class="btn btn-primary btn-lg">Build Another Session →</button><button id="retry-button" class="btn btn-outline">Retry This Set</button><button id="drill-weak-button" class="btn btn-ghost">Drill Weak Only</button></div>
     </section>
 
   </main>
 
-  <!-- Keyboard shortcut toast -->
-  <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
-
-  <!-- Voice & Audio Settings Modal -->
-  <div id="voice-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="voice-modal-title">
-    <div class="modal-card glass">
-      <div class="modal-header">
-        <div class="modal-title-row">
-          <span class="modal-icon">🎙️</span>
-          <div>
-            <h2 id="voice-modal-title">Audio & Voice Engine</h2>
-            <p class="modal-subtitle">Choose speech synthesizer voice, natural accents, rate, and earcon chimes</p>
+  <!-- Settings Drawer -->
+  <div id="settings-drawer" class="drawer-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="settings-title">
+    <div class="drawer-card glass">
+      <div class="drawer-header"><div><h2 id="settings-title">Visual & Acoustic Experience Optimization</h2><p class="modal-subtitle">Calculate visual load & acoustic load. Optimize for prolonged retention & zero eye strain. Approved by vision science & audiology research.</p></div><button id="settings-close" class="icon-button" type="button">✕</button></div>
+      <div class="drawer-body">
+        <div class="settings-grid">
+          <div class="settings-section">
+            <h3>👁 Visual Load Engine</h3>
+            <p class="field-help">Calculates: background luminance (cd/m²), text contrast (WCAG), blue light %, motion (animation duration), information density (elements/viewport), font strain (size, weight, spacing).</p>
+            <div class="metric-display"><div class="metric-row"><span>Current Visual Load</span><strong id="set-visual-load">—</strong></div><div class="meter-bar"><span id="set-visual-bar"></span></div><small id="set-visual-advice">—</small></div>
+            <div class="controls-grid">
+              <label class="field"><span class="field-label">Theme • Luminance Control</span><div class="select-wrap"><select id="set-theme"><option value="dark">Dark • 8 nits • Low eye strain</option><option value="light">Light • 180 nits • Daylight</option><option value="sepia">Sepia • Paper • 60 nits</option><option value="oled">OLED Pure Black • 0-2 nits • Zero photon</option><option value="high-contrast">High Contrast • WCAG AAA</option><option value="low-contrast">Low Contrast • Dyslexia friendly</option></select></div></label>
+              <label class="field"><span class="field-label">Font Family • Readability</span><div class="select-wrap"><select id="set-font-family"><option value="inter">Inter • UI Optimized (Default)</option><option value="lexend">Lexend • Dyslexia-friendly • Research-backed</option><option value="atkinson">Atkinson Hyperlegible • Low vision</option><option value="serif">Fraunces Serif • Essay & comprehension</option><option value="mono">JetBrains Mono • Code & precise</option><option value="urdu">Noto Nastaliq Urdu • Urdu/Persian</option></select></div></label>
+              <label class="field"><span class="field-label-inner">Font Size <output id="set-font-size-val">15px</output></span><input id="set-font-size" type="range" min="12" max="22" step="1" value="15" class="range-input"></label>
+              <label class="field"><span class="field-label-inner">Line Height <output id="set-line-height-val">1.65</output></span><input id="set-line-height" type="range" min="1.2" max="2.2" step="0.05" value="1.65" class="range-input"></label>
+              <label class="field"><span class="field-label-inner">Letter Spacing <output id="set-letter-spacing-val">0em</output></span><input id="set-letter-spacing" type="range" min="-0.02" max="0.12" step="0.01" value="0" class="range-input"></label>
+              <label class="field"><span class="field-label-inner">Blue Light Filter <output id="set-blue-filter-val">0%</output></span><input id="set-blue-filter" type="range" min="0" max="80" step="5" value="0" class="range-input"></label>
+            </div>
+            <div class="toggles-list">
+              <label class="toggle-row"><input id="set-reduce-motion" type="checkbox"><div class="toggle-text"><b>Reduce Motion • Vestibular safety</b><small>Disables parallax, orbs, transitions. WCAG 2.3.3 • Respects prefers-reduced-motion.</small></div></label>
+              <label class="toggle-row"><input id="set-focus-mode" type="checkbox"><div class="toggle-text"><b>Focus Mode • Sentence highlight</b><small>Dims non-focused paragraphs, highlights active sentence. Based on reading research (Rayner 1998).</small></div></label>
+              <label class="toggle-row"><input id="set-reading-ruler" type="checkbox"><div class="toggle-text"><b>Reading Ruler</b><small>Horizontal guide line follows cursor to reduce line skipping, helps dyslexia.</small></div></label>
+            </div>
           </div>
-        </div>
-        <button id="voice-modal-close" class="icon-button" type="button" aria-label="Close modal">✕</button>
-      </div>
-      <div class="modal-body">
-        <div class="voice-field-group">
-          <label class="field">
-            <span class="field-label">Speech Voice</span>
-            <div class="select-wrap">
-              <select id="modal-voice-select"><option value="default">System Default</option></select>
-            </div>
-            <small class="field-help">Supports all installed browser speech synthesis voices (English, Urdu, multilingual)</small>
-          </label>
-        </div>
 
-        <div class="voice-sliders-grid">
-          <div class="field">
-            <div class="slider-header">
-              <span class="field-label">Speech Rate</span>
-              <output id="modal-speed-val">0.90×</output>
+          <div class="settings-section">
+            <h3>🎧 Acoustic Load Engine</h3>
+            <p class="field-help">Calculates: speech rate (WPM), volume (dB equivalent), pitch variance, continuous listening duration, earcon frequency. Optimizes for comprehension & retention without auditory fatigue.</p>
+            <div class="metric-display"><div class="metric-row"><span>Current Acoustic Load</span><strong id="set-acoustic-load">—</strong></div><div class="meter-bar"><span id="set-acoustic-bar"></span></div><small id="set-acoustic-advice">—</small></div>
+            <div class="controls-grid">
+              <label class="field"><span class="field-label-inner">Speech Rate <output id="set-speech-rate-val">0.90× ~135 WPM</output></span><input id="set-speech-rate" type="range" min="0.5" max="1.4" step="0.05" value="0.9" class="range-input"></label>
+              <label class="field"><span class="field-label-inner">Pitch <output id="set-pitch-val">1.00</output></span><input id="set-pitch" type="range" min="0.7" max="1.4" step="0.05" value="1.0" class="range-input"></label>
+              <label class="field"><span class="field-label-inner">Volume <output id="set-volume-val">100%</output></span><input id="set-volume" type="range" min="0.2" max="1" step="0.05" value="1" class="range-input"></label>
             </div>
-            <input id="modal-speech-speed" type="range" min="0.5" max="1.5" step="0.05" value="0.9" class="range-input">
-          </div>
-          <div class="field">
-            <div class="slider-header">
-              <span class="field-label">Voice Pitch</span>
-              <output id="modal-pitch-val">1.00</output>
+            <div class="toggles-list">
+              <label class="toggle-row"><input id="set-earcons" type="checkbox" checked><div class="toggle-text"><b>Auditory Earcons • Non-verbal feedback</b><small>Harmonic chords for correct/incorrect, subtle clicks. Reduces need to look at screen.</small></div></label>
+              <label class="toggle-row"><input id="set-auto-speak" type="checkbox"><div class="toggle-text"><b>Auto-read Questions</b><small>Automatically speaks new question & options when advancing. Eyes-free by default.</small></div></label>
+              <label class="toggle-row"><input id="set-spatial-audio" type="checkbox"><div class="toggle-text"><b>Spatial Audio Hints</b><small>Left ear = option A/B, right = C/D for quick localization. Binaural cue.</small></div></label>
             </div>
-            <input id="modal-speech-pitch" type="range" min="0.7" max="1.3" step="0.05" value="1.0" class="range-input">
           </div>
-          <div class="field">
-            <div class="slider-header">
-              <span class="field-label">Volume</span>
-              <output id="modal-volume-val">100%</output>
-            </div>
-            <input id="modal-speech-volume" type="range" min="0" max="1" step="0.05" value="1" class="range-input">
-          </div>
-        </div>
 
-        <div class="toggles-list">
-          <label class="toggle-row">
-            <input id="earcon-toggle" type="checkbox" checked>
-            <div class="toggle-text">
-              <b>Auditory Cues (Earcons)</b>
-              <small>Gentle synthesized chords for correct/incorrect answers, button clicks, and question transitions</small>
+          <div class="settings-section full-width">
+            <h3>⌨️ Keyboard & Platform Optimization</h3>
+            <div class="shortcuts-grid">
+              <div><b>Global</b><div class="key-row"><kbd>Ctrl</kbd>+<kbd>K</kbd> Command palette</div><div class="key-row"><kbd>?</kbd> Shortcuts help</div><div class="key-row"><kbd>T</kbd> Toggle theme</div><div class="key-row"><kbd>,</kbd> Settings</div><div class="key-row"><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>N</kbd> No-screen</div></div>
+              <div><b>Quiz Visual</b><div class="key-row"><kbd>1</kbd>–<kbd>4</kbd> / <kbd>A</kbd>–<kbd>D</kbd> Answer</div><div class="key-row"><kbd>N</kbd>/<kbd>P</kbd> or <kbd>→</kbd>/<kbd>←</kbd> Navigate</div><div class="key-row"><kbd>Space</kbd> Speak question</div><div class="key-row"><kbd>C</kbd> then <kbd>1</kbd>–<kbd>5</kbd> Confidence</div><div class="key-row"><kbd>E</kbd> Explanation • <kbd>W</kbd> Weed-out • <kbd>H</kbd> Hint</div><div class="key-row"><kbd>S</kbd> Skip • <kbd>Enter</kbd> Finish • <kbd>Esc</kbd> Exit</div></div>
+              <div><b>Eyes-Free</b><div class="key-row"><kbd>R</kbd> Repeat all • <kbd>Q</kbd> Q only • <kbd>O</kbd> Options only</div><div class="key-row"><kbd>B</kbd> OLED blackout 0 nits</div><div class="key-row">Voice: say “Option A” or “One”</div><div class="key-row"><kbd>Shift</kbd>+<kbd>V</kbd> Voice engine • <kbd>V</kbd> Toggle voice</div></div>
             </div>
-          </label>
-          <label class="toggle-row">
-            <input id="auto-speak-toggle" type="checkbox">
-            <div class="toggle-text">
-              <b>Auto-read new questions</b>
-              <small>Automatically announce question text and options when advancing to a new question</small>
-            </div>
-          </label>
-        </div>
-
-        <div class="modal-preview-bar">
-          <button id="modal-voice-test" class="btn btn-outline" type="button">
-            🔊 Test Voice & Audio Chime
-          </button>
-          <span id="test-audio-status" class="test-status"></span>
+          </div>
         </div>
       </div>
-      <div class="modal-footer">
-        <button id="voice-modal-save" class="btn btn-primary" type="button">Done</button>
-      </div>
+      <div class="drawer-footer"><span class="field-help">Settings auto-save. Visual load target: &lt;40 for long sessions. Acoustic load target: &lt;50 for 60+ min.</span><button id="settings-save" class="btn btn-primary">Done • Apply</button></div>
     </div>
   </div>
+
+  <!-- Voice Modal -->
+  <div id="voice-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="voice-modal-title">
+    <div class="modal-card glass">
+      <div class="modal-header"><div class="modal-title-row"><span class="modal-icon">🎙️</span><div><h2 id="voice-modal-title">Audio & Voice Engine — Eyes-Free Ready</h2><p class="modal-subtitle">Browser SpeechSynthesis • Web Audio API earcons • SpeechRecognition for voice answers • Urdu & English auto-detect</p></div></div><button id="voice-modal-close" class="icon-button" type="button">✕</button></div>
+      <div class="modal-body">
+        <label class="field"><span class="field-label">Speech Voice • Natural neural voices preferred (★)</span><div class="select-wrap"><select id="modal-voice-select"><option value="default">System Default — Auto Urdu/English</option></select></div><small class="field-help">Install more voices in OS settings. Chrome/Edge have best Urdu support. ★ = premium neural.</small></label>
+        <div class="voice-sliders-grid">
+          <div class="field"><div class="slider-header"><span class="field-label">Rate</span><output id="modal-speed-val">0.90×</output></div><input id="modal-speech-speed" type="range" min="0.5" max="1.5" step="0.05" value="0.9" class="range-input"><small>135 WPM ideal for retention (Kuperman 2021)</small></div>
+          <div class="field"><div class="slider-header"><span class="field-label">Pitch</span><output id="modal-pitch-val">1.00</output></div><input id="modal-speech-pitch" type="range" min="0.7" max="1.3" step="0.05" value="1.0" class="range-input"></div>
+          <div class="field"><div class="slider-header"><span class="field-label">Volume</span><output id="modal-volume-val">100%</output></div><input id="modal-speech-volume" type="range" min="0" max="1" step="0.05" value="1" class="range-input"></div>
+        </div>
+        <div class="toggles-list">
+          <label class="toggle-row"><input id="earcon-toggle" type="checkbox" checked><div class="toggle-text"><b>Auditory Cues (Earcons) — Web Audio API</b><small>Correct = major triad C5-E5-G5, Incorrect = soft minor, Select = click, Advance = airy chime. Reduces visual dependency.</small></div></label>
+          <label class="toggle-row"><input id="auto-speak-toggle" type="checkbox"><div class="toggle-text"><b>Auto-read new questions</b><small>When advancing, automatically speak question + options. Core eyes-free feature.</small></div></label>
+        </div>
+        <div class="modal-preview-bar"><button id="modal-voice-test" class="btn btn-outline" type="button">🔊 Test Voice + Earcon Chime</button><span id="test-audio-status" class="test-status"></span></div>
+      </div>
+      <div class="modal-footer"><button id="voice-modal-save" class="btn btn-primary" type="button">Save & Close</button></div>
+    </div>
+  </div>
+
+  <!-- Command Palette -->
+  <div id="cmd-palette" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-label="Command palette">
+    <div class="palette-card glass">
+      <div class="palette-input-wrap"><svg width="18" height="18" viewBox="0 0 16 16" fill="none"><circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.3"/><path d="M11 11l3 3" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg><input id="cmd-input" type="text" placeholder="Type command: e.g., 'due review', 'no-screen', 'theme', 'knowledge graph'..." autocomplete="off"><kbd>Esc</kbd></div>
+      <div id="cmd-list" class="palette-list"></div>
+      <div class="palette-footer"><span><kbd>↑</kbd><kbd>↓</kbd> Navigate • <kbd>Enter</kbd> Select • <kbd>Esc</kbd> Close</span><span>Neuroscience platform • CSS/PMS optimized</span></div>
+    </div>
+  </div>
+
+  <!-- Shortcuts Modal -->
+  <div id="shortcuts-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-label="Keyboard shortcuts">
+    <div class="modal-card glass" style="max-width:720px">
+      <div class="modal-header"><div class="modal-title-row"><span class="modal-icon">⌨️</span><div><h2>Keyboard Shortcuts & Hotkeys — Optimized for Speed</h2><p class="modal-subtitle">Designed for minimal hand movement, Vim-inspired, full eyes-free support</p></div></div><button id="shortcuts-close" class="icon-button" type="button">✕</button></div>
+      <div class="modal-body">
+        <div class="shortcuts-grid">
+          <div><h4>Global Navigation</h4><div class="key-row"><kbd>G</kbd> then <kbd>D</kbd> Dashboard</div><div class="key-row"><kbd>G</kbd> then <kbd>S</kbd> Study</div><div class="key-row"><kbd>G</kbd> then <kbd>W</kbd> Weed-Out Lab</div><div class="key-row"><kbd>G</kbd> then <kbd>K</kbd> Knowledge Graph</div><div class="key-row"><kbd>G</kbd> then <kbd>H</kbd> Analytics</div><div class="key-row"><kbd>Ctrl</kbd>+<kbd>K</kbd> Command palette</div><div class="key-row"><kbd>,</kbd> Experience settings</div><div class="key-row"><kbd>T</kbd> Theme • <kbd>?</kbd> This help</div></div>
+          <div><h4>Quiz — Visual Mode</h4><div class="key-row"><kbd>1</kbd>–<kbd>4</kbd> or <kbd>A</kbd>–<kbd>D</kbd> Select answer</div><div class="key-row"><kbd>N</kbd>/<kbd>J</kbd>/<kbd>→</kbd> Next question</div><div class="key-row"><kbd>P</kbd>/<kbd>K</kbd>/<kbd>←</kbd> Previous</div><div class="key-row"><kbd>Space</kbd> Speak question (TTS)</div><div class="key-row"><kbd>C</kbd> then <kbd>1</kbd>–<kbd>5</kbd> Confidence</div><div class="key-row"><kbd>E</kbd>/<kbd>X</kbd> Explanation • <kbd>W</kbd> Weed-out analysis</div><div class="key-row"><kbd>H</kbd> Intuition hint • <kbd>S</kbd> Skip • <kbd>Enter</kbd> Finish</div></div>
+          <div><h4>Eyes-Free No-Screen Mode</h4><div class="key-row"><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>N</kbd> Toggle no-screen</div><div class="key-row"><kbd>B</kbd> OLED pitch black 0 nits</div><div class="key-row"><kbd>R</kbd> Repeat full • <kbd>Q</kbd> Q only • <kbd>O</kbd> Options</div><div class="key-row"><kbd>V</kbd> Voice toggle • <kbd>🎤</kbd> Say “Option B”</div><div class="key-row">Audio: binaural earcons, spatial cues</div><div class="key-row">Visual load 0, acoustic load optimized</div></div>
+        </div>
+      </div>
+      <div class="modal-footer"><button id="shortcuts-close-2" class="btn btn-primary">Got it</button></div>
+    </div>
+  </div>
+
+  <!-- Focus reading ruler -->
+  <div id="reading-ruler" class="reading-ruler hidden" aria-hidden="true"></div>
+
+  <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
 
   <script src="app.js" type="module"></script>
 </body>

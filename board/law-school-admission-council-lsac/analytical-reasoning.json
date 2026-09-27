@@ -1,0 +1,165 @@
+{
+    "category": "Law School Admission Council (LSAC)",
+    "name": "Analytical Reasoning",
+    "board": "law-school-admission-council-lsac",
+    "subject": "analytical-reasoning",
+    "url": "/law-school-admission-council-lsac/analytical-reasoning/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 9568,
+            "question_text": "An LSAC Law School Forum is scheduled for Saturday in Washington, D.C. A candidate needs to attend a workshop one hour prior to the forum. If the forum begins at 10:00 a.m., at what time must the candidate attend the workshop?",
+            "options": [
+                "8:00 a.m.",
+                "9:00 a.m.",
+                "10:00 a.m.",
+                "11:00 a.m."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If the forum starts at 10:00 a.m. and the workshop is one hour prior, then 10:00 minus 1 hour equals 9:00 a.m.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9569,
+            "question_text": "LSAC sets specific eligibility requirements for the 'Plus, Guided Journey' program. An applicant must be a U.S. citizen OR a permanent resident alien OR have DACA status. Which of the following applicants is ineligible?",
+            "options": [
+                "An applicant who is a U.S. citizen.",
+                "An applicant who is a permanent resident alien with an I-551 card.",
+                "An applicant who has been granted DACA status.",
+                "An applicant who is a foreign national with no legal residency or status in the U.S."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The program requires specific legal statuses (Citizen, Permanent Resident, or DACA). An applicant with no such status does not meet the criteria provided.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9570,
+            "question_text": "A student is planning to attend a series of workshops. There are four workshops available: Ethics, Admissions, Financing, and Diversity. The student must attend exactly three of them. If the student attends Financing, they cannot attend Diversity. Which of the following could be the student's schedule?",
+            "options": [
+                "Ethics, Admissions, Financing, Diversity",
+                "Ethics, Admissions, Financing",
+                "Ethics, Financing, Diversity",
+                "Admissions, Financing, Diversity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The student must choose 3 workshops. Since they cannot attend both Financing and Diversity, they must drop one of those. Ethics and Admissions must be included to reach the count of 3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9571,
+            "question_text": "Four students (A, B, C, D) are meeting with law school representatives. Only one student can speak at a time. A must speak before B. C must speak after D. D must speak first. What is the correct order of speakers?",
+            "options": [
+                "A, B, C, D",
+                "D, C, A, B",
+                "D, A, B, C",
+                "B, A, D, C"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "D is first. C must be after D. A must be before B. Placing D first and then A, B, and C satisfies all conditions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9573,
+            "question_text": "An LSAC Forum host needs to schedule three events (Workshop, Q&A, and Networking) between 5 p.m. and 8 p.m. Each event is 1 hour long. The Q&A must come immediately after the Workshop. If the Workshop starts at 5 p.m., when does Networking start?",
+            "options": [
+                "5 p.m.",
+                "6 p.m.",
+                "7 p.m.",
+                "8 p.m."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Workshop (5-6), Q&A (6-7), Networking (7-8). Networking starts at 7 p.m.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9574,
+            "question_text": "Three candidates are applying for a scholarship. Candidate X has a higher LSAT score than Y. Candidate Z has a lower score than X but a higher score than Y. Who has the lowest score?",
+            "options": [
+                "Candidate X",
+                "Candidate Y",
+                "Candidate Z",
+                "None of the above"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "X > Y and X > Z > Y. Therefore, Y is at the bottom of the list.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9575,
+            "question_text": "Four students (A, B, C, D) are meeting with representatives, one at a time. A must speak before B. C must speak after D. D must speak first. What is the correct order?",
+            "options": [
+                "A, D, C, B",
+                "D, C, A, B",
+                "D, A, B, C",
+                "A, B, D, C"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "D is first. A must be before B, and C must be after D. In D, A, B, C, all conditions are satisfied.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9576,
+            "question_text": "An LSAC host schedules three 1-hour events (Workshop, Q&A, Networking) between 5 p.m. and 8 p.m. Q&A must follow the Workshop immediately. If the Workshop starts at 5 p.m., when does Networking start?",
+            "options": [
+                "5 p.m.",
+                "6 p.m.",
+                "7 p.m.",
+                "8 p.m."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Workshop (5-6), Q&A (6-7), Networking starts at 7.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9577,
+            "question_text": "Five law school representatives (P, Q, R, S, T) are assigned to booths 1 through 5. P is not in booth 1. Q is in booth 2. R is in an even-numbered booth. If T is in booth 5, which booth is S in?",
+            "options": [
+                "Booth 1",
+                "Booth 3",
+                "Booth 4",
+                "Booth 2"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Q is in 2, T is in 5. R must be in 4 (the only even number left). P cannot be in 1, so P must be in 3. S must be in 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9578,
+            "question_text": "A schedule includes three seminars: Environmental Law, Tax Law, and Family Law. If Environmental Law must be either first or last, and Tax Law is not immediately after Environmental Law, which order is valid?",
+            "options": [
+                "Environmental, Tax, Family",
+                "Tax, Environmental, Family",
+                "Environmental, Family, Tax",
+                "Family, Environmental, Tax"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In Env, Fam, Tax, Env is first and Tax is not immediately after it, satisfying all rules.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9579,
+            "question_text": "A committee of 3 must be chosen from A, B, C, D, and E. If A must be included, and B cannot be with C, which group is possible?",
+            "options": [
+                "A, B, C",
+                "A, C, D",
+                "B, C, D",
+                "A, B, E, C"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Must have A. If we have C, we cannot have B. A, C, D fits.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

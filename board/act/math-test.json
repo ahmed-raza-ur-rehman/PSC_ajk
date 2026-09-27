@@ -1,0 +1,137 @@
+{
+    "category": "ACT",
+    "name": "Math Test",
+    "board": "act",
+    "subject": "math-test",
+    "url": "/act/math-test/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 9431,
+            "question_text": "Up to what grade level of coursework does the ACT Math Test measure skills?",
+            "options": [
+                "Beginning of grade 12",
+                "End of grade 10",
+                "Beginning of grade 10",
+                "End of grade 12"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The test measures mathematical skills typically acquired in courses up to the beginning of grade 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9432,
+            "question_text": "How many questions are in the Math Test section?",
+            "options": [
+                "36 questions",
+                "50 questions",
+                "40 questions",
+                "45 questions"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Math Test consists of 45 questions to be completed in 50 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9433,
+            "question_text": "What grade level of math skills does the ACT Math Test cover?",
+            "options": [
+                "Up to the beginning of grade 10",
+                "Up to the beginning of grade 12",
+                "Through college-level calculus",
+                "Up to the beginning of grade 9"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ACT Math Test measures mathematical skills typically acquired in coursework up to the beginning of grade 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9434,
+            "question_text": "How much time is provided for the ACT Math Test?",
+            "options": [
+                "35 minutes",
+                "40 minutes",
+                "50 minutes",
+                "60 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The ACT Math Test is 50 minutes long.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9436,
+            "question_text": "What level of math does the ACT Math Test measure?",
+            "options": [
+                "Only basic arithmetic",
+                "Skills up to the start of 12th grade",
+                "Only high-level theoretical physics math",
+                "Post-graduate university statistics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test measures math skills students typically acquire in coursework through the beginning of grade 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9437,
+            "question_text": "How many questions are provided in the Math Test?",
+            "options": [
+                "35",
+                "40",
+                "45",
+                "50"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The ACT Math Test consists of 45 questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9438,
+            "question_text": "What is the time allotted for the Math Test section?",
+            "options": [
+                "35 minutes",
+                "40 minutes",
+                "50 minutes",
+                "60 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Students have 50 minutes to complete the math section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9439,
+            "question_text": "Can a calculator be used during the Math Test?",
+            "options": [
+                "No, calculators are never allowed.",
+                "Yes, but only a basic model.",
+                "Yes, permitted calculators are allowed for this test.",
+                "Only for students with specific accommodations."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The ACT allows the use of permitted calculators specifically for the math portion of the exam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9441,
+            "question_text": "What is the primary purpose of the Math Test?",
+            "options": [
+                "To test your ability to read scientific reports.",
+                "To measure mathematical skills acquired in school.",
+                "To evaluate your knowledge of computer programming.",
+                "To assess your ability to write persuasive essays."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The math test is designed to measure the mathematical skills you have typically acquired through your high school curriculum.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

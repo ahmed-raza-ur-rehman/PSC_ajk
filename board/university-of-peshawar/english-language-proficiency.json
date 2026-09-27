@@ -1,0 +1,221 @@
+{
+    "category": "University of Peshawar",
+    "name": "English Language Proficiency",
+    "board": "university-of-peshawar",
+    "subject": "english-language-proficiency",
+    "url": "/university-of-peshawar/english-language-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 10644,
+            "question_text": "Choose the word that is most nearly opposite in meaning to 'Prudent'.",
+            "options": [
+                "Cautious",
+                "Reckless",
+                "Sensible",
+                "Thrifty"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Prudent means acting with or showing care and thought for the future; Reckless means heedless of danger or consequences, making them antonyms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10645,
+            "question_text": "Complete the sentence: 'The team ________ the project before the deadline arrived.'",
+            "options": [
+                "had finished",
+                "has finished",
+                "finishes",
+                "will finish"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The past perfect tense 'had finished' is appropriate here to show an action completed before another point in the past.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10646,
+            "question_text": "Select the synonym for the word 'Eloquent'.",
+            "options": [
+                "Hesitant",
+                "Articulate",
+                "Confused",
+                "Silent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Eloquent means fluent or persuasive in speaking or writing, which is synonymous with articulate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10647,
+            "question_text": "Choose the correct preposition: 'She has been waiting ____ the bus stop for an hour.'",
+            "options": [
+                "on",
+                "at",
+                "in",
+                "into"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "We use 'at' for a specific point or location like a bus stop.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10648,
+            "question_text": "Identify the error in the following sentence: 'Neither the students nor the teacher were aware of the rules.'",
+            "options": [
+                "Neither",
+                "nor",
+                "were",
+                "aware"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the closer subject. 'Teacher' is singular, so it should be 'was'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10649,
+            "question_text": "Choose the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Accommodation is spelled with two 'c's and two 'm's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10650,
+            "question_text": "Complete the analogy: 'Odometer is to mileage as Compass is to _______.'",
+            "options": [
+                "Speed",
+                "Direction",
+                "Distance",
+                "Time"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An odometer measures mileage; a compass measures or indicates direction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10651,
+            "question_text": "Which word is the antonym of 'Benevolent'?",
+            "options": [
+                "Kind",
+                "Malicious",
+                "Generous",
+                "Friendly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly; malicious means intending harm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10652,
+            "question_text": "Pick the correct sentence structure.",
+            "options": [
+                "Hardly had I arrived when it started raining.",
+                "Hardly I had arrived when it started raining.",
+                "Hardly had I arrived than it started raining.",
+                "Hardly did I arrive then it started raining."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The phrase 'hardly... when' is the correct correlative construction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10653,
+            "question_text": "Fill in the blank: 'The news ________ quite shocking to everyone present.'",
+            "options": [
+                "were",
+                "are",
+                "was",
+                "have been"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'News' is an uncountable noun that takes a singular verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10654,
+            "question_text": "Select the phrase that best fits: 'He is ________ than his brother.'",
+            "options": [
+                "more taller",
+                "taller",
+                "most tall",
+                "more tall"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The comparative form of 'tall' is 'taller'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10655,
+            "question_text": "What does the idiom 'Break the ice' mean?",
+            "options": [
+                "To cause a disaster",
+                "To initiate a conversation",
+                "To freeze something",
+                "To destroy a wall"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Breaking the ice is a metaphor for making people feel more comfortable in a social setting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10656,
+            "question_text": "Select the word that best completes the sentence: 'His ________ arguments convinced the entire board of directors.'",
+            "options": [
+                "Fragile",
+                "Persuasive",
+                "Indifferent",
+                "Ambiguous"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Persuasive means capable of convincing others, which fits the context of convincing a board.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10657,
+            "question_text": "Identify the word that is an antonym for 'Vigorous'.",
+            "options": [
+                "Energetic",
+                "Lethargic",
+                "Robust",
+                "Strenuous"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Vigorous implies high energy, while lethargic implies laziness or lack of energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10658,
+            "question_text": "Choose the correct sentence: 'I wish I ________ there yesterday.'",
+            "options": [
+                "am",
+                "was",
+                "were",
+                "been"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In hypothetical situations or expressions of wishes, the subjunctive mood 'were' is used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

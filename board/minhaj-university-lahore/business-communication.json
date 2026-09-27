@@ -1,0 +1,165 @@
+{
+    "category": "Minhaj University Lahore",
+    "name": "Business Communication",
+    "board": "minhaj-university-lahore",
+    "subject": "business-communication",
+    "url": "/minhaj-university-lahore/business-communication/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11803,
+            "question_text": "In a formal business letter, what does the term 'Cc' stand for?",
+            "options": [
+                "Carbon copy",
+                "Confidential communication",
+                "Corporate correspondence",
+                "Complete circular"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Cc refers to 'carbon copy', indicating that a copy of the communication is being sent to a person other than the primary recipient.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11804,
+            "question_text": "Which of the following is considered a 'barrier' to effective communication?",
+            "options": [
+                "Active listening",
+                "Clear feedback",
+                "Semantic noise",
+                "Empathetic tone"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Semantic noise occurs when the sender and receiver attach different meanings to words or symbols, hindering understanding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11805,
+            "question_text": "Which of the following is an example of 'non-verbal communication'?",
+            "options": [
+                "Sending an email",
+                "A formal speech",
+                "Facial expressions",
+                "Writing a memo"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Non-verbal communication includes body language, gestures, facial expressions, and eye contact.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11806,
+            "question_text": "What is the purpose of the 'Bcc' field in an email?",
+            "options": [
+                "To send a copy to someone whose identity is hidden from other recipients",
+                "To ensure the email is marked as urgent",
+                "To indicate the primary recipient of the message",
+                "To provide a backup copy for the sender"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Bcc stands for Blind Carbon Copy; recipients in this field are hidden from all other recipients.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11807,
+            "question_text": "Which of the following elements is crucial for effective active listening?",
+            "options": [
+                "Interrupting to give your opinion",
+                "Planning your response while the other person speaks",
+                "Maintaining eye contact and paraphrasing",
+                "Avoiding eye contact to stay focused"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Active listening requires being fully engaged, showing interest through non-verbal cues, and verifying understanding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11808,
+            "question_text": "Which tone is most appropriate for a professional business report?",
+            "options": [
+                "Casual and friendly",
+                "Formal and objective",
+                "Emotional and persuasive",
+                "Aggressive and demanding"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Professional reports require an objective tone, avoiding bias and emotional language, to maintain credibility.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11809,
+            "question_text": "What is the main advantage of face-to-face communication?",
+            "options": [
+                "It leaves a permanent written record",
+                "It is the fastest way to reach large groups",
+                "It allows for immediate feedback and non-verbal cues",
+                "It eliminates the need for preparation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Face-to-face interaction provides the highest level of feedback and richness, allowing for immediate clarification and emotional nuance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11810,
+            "question_text": "Which of the following is an example of an 'internal' business communication?",
+            "options": [
+                "A press release to news media",
+                "An invoice sent to a client",
+                "A memo distributed to employees",
+                "An advertisement in a magazine"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Internal communication occurs between members of the same organization, such as memos or staff meetings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11811,
+            "question_text": "What is the 'You-attitude' in business writing?",
+            "options": [
+                "Writing only about oneself",
+                "Focusing the message from the reader's perspective",
+                "Using slang to be informal",
+                "Ignoring the recipient's needs"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'you-attitude' involves framing communication in a way that addresses the reader's interests, needs, and concerns.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11812,
+            "question_text": "When writing a professional email, why is a clear subject line essential?",
+            "options": [
+                "To bypass spam filters",
+                "To help the recipient prioritize and identify the email's purpose",
+                "To make the email longer",
+                "To avoid using an attachment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A clear subject line allows the reader to understand the importance and urgency of the message before opening it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11813,
+            "question_text": "What is 'kinesics' in the context of communication?",
+            "options": [
+                "The study of vocal tone",
+                "The study of body language and gestures",
+                "The study of written grammar",
+                "The study of physical space"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Kinesics refers to non-verbal communication through body movements, such as posture, facial expressions, and gestures.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

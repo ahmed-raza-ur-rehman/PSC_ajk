@@ -1,0 +1,123 @@
+{
+    "category": "Institute of Banking Personnel Selection",
+    "name": "Computer Knowledge",
+    "board": "institute-of-banking-personnel-selection",
+    "subject": "computer-knowledge",
+    "url": "/institute-of-banking-personnel-selection/computer-knowledge/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 9922,
+            "question_text": "Which of the following is considered the 'brain' of a computer?",
+            "options": [
+                "RAM",
+                "Hard Drive",
+                "CPU",
+                "Monitor"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Central Processing Unit (CPU) is known as the brain of the computer because it processes all instructions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9923,
+            "question_text": "What does URL stand for in the context of internet browsing?",
+            "options": [
+                "Uniform Resource Locator",
+                "Universal Retrieval Language",
+                "Unified Request Link",
+                "United Resource Location"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A URL is the address used to access resources on the internet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9924,
+            "question_text": "What does RAM stand for?",
+            "options": [
+                "Random Access Memory",
+                "Read Access Memory",
+                "Random Application Memory",
+                "Read And Move"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "RAM is the primary volatile memory in a computer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9925,
+            "question_text": "Which component is responsible for processing data in a computer?",
+            "options": [
+                "Hard Disk",
+                "Monitor",
+                "CPU",
+                "Keyboard"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Central Processing Unit (CPU) performs the primary arithmetic, logic, and control operations of a computer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9926,
+            "question_text": "What is an Operating System?",
+            "options": [
+                "A hardware component",
+                "Software that manages computer resources",
+                "An internet browser",
+                "A type of printer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The operating system acts as an interface between user software and computer hardware.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9927,
+            "question_text": "Which of the following is an input device?",
+            "options": [
+                "Monitor",
+                "Printer",
+                "Mouse",
+                "Speaker"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A mouse is used to provide input by clicking or moving a pointer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9928,
+            "question_text": "Which file format is commonly used for portable documents?",
+            "options": [
+                ".exe",
+                ".pdf",
+                ".png",
+                ".mp3"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PDF stands for Portable Document Format.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9936,
+            "question_text": "What is a 'firewall' in computing?",
+            "options": [
+                "A virus scanner",
+                "A physical hardware barrier",
+                "A network security system",
+                "A graphical interface"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A firewall monitors and controls incoming and outgoing network traffic based on predetermined security rules.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

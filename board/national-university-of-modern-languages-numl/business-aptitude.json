@@ -1,0 +1,291 @@
+{
+    "category": "National University of Modern Languages (NUML)",
+    "name": "Business Aptitude",
+    "board": "national-university-of-modern-languages-numl",
+    "subject": "business-aptitude",
+    "url": "/national-university-of-modern-languages-numl/business-aptitude/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 20,
+    "questions": [
+        {
+            "id": 12564,
+            "question_text": "What does the 'B2B' business model stand for?",
+            "options": [
+                "Business to Buyer",
+                "Business to Business",
+                "Back to Base",
+                "Brand to Business"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "B2B refers to commerce transactions between businesses, such as a manufacturer and a wholesaler.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12565,
+            "question_text": "Which of the following is considered a current asset?",
+            "options": [
+                "Buildings",
+                "Accounts Receivable",
+                "Long-term loans",
+                "Machinery"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Current assets are those expected to be converted into cash within one year; accounts receivable fits this definition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12566,
+            "question_text": "What does 'SWOT' stand for in business analysis?",
+            "options": [
+                "Strengths, Weaknesses, Opportunities, Threats",
+                "Sales, Wages, Operations, Tactics",
+                "Strategies, Work, Organization, Targets",
+                "Systems, Wellness, Output, Technology"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SWOT analysis is a strategic planning technique used to identify Strengths, Weaknesses, Opportunities, and Threats.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12567,
+            "question_text": "Which document outlines a company's financial position at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Balance Sheet",
+                "Cash Flow Statement",
+                "Budget Report"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A balance sheet summarizes a company's assets, liabilities, and shareholders' equity at a specific point in time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12568,
+            "question_text": "What is 'Marketing Mix' commonly referred to as?",
+            "options": [
+                "The 4Ps",
+                "The 4Cs",
+                "The 4Ds",
+                "The 4Es"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The marketing mix is often represented by the 4Ps: Product, Price, Place, and Promotion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12569,
+            "question_text": "What does ROI stand for in business?",
+            "options": [
+                "Rate of Interest",
+                "Return on Investment",
+                "Revenue Over Income",
+                "Return on Insurance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Return on Investment (ROI) is a performance measure used to evaluate the efficiency of an investment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12570,
+            "question_text": "In organizational behavior, what does 'delegation' mean?",
+            "options": [
+                "Hiring new staff",
+                "Assigning tasks to others",
+                "Firing underperformers",
+                "Setting the company vision"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Delegation is the act of assigning authority or responsibility to another person to carry out specific activities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12571,
+            "question_text": "Which of the following is a fixed cost?",
+            "options": [
+                "Raw materials",
+                "Monthly rent",
+                "Hourly wages",
+                "Packaging costs"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fixed costs do not change with the level of output, such as office rent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12572,
+            "question_text": "What is an entrepreneur?",
+            "options": [
+                "A salaried manager",
+                "A government worker",
+                "A person who starts a business",
+                "A stock market analyst"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An entrepreneur is an individual who takes the risk to start and operate a new business venture.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12573,
+            "question_text": "What does 'IPO' stand for?",
+            "options": [
+                "Initial Public Offering",
+                "Internal Policy Operations",
+                "International Product Order",
+                "Individual Profit Outcome"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An Initial Public Offering (IPO) is the process of offering shares of a private corporation to the public in a new stock issuance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12574,
+            "question_text": "What is the primary purpose of 'Cash Flow' management in a business?",
+            "options": [
+                "To increase staff salaries",
+                "To ensure enough liquidity to meet short-term obligations",
+                "To eliminate all debts",
+                "To pay dividends to shareholders"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cash flow management ensures the company has enough cash on hand to operate day-to-day.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12575,
+            "question_text": "In the marketing mix, 'Place' refers to:",
+            "options": [
+                "The price of the item",
+                "The location of manufacturing",
+                "Distribution and availability channels",
+                "Advertising campaigns"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Place, or distribution, covers where and how a product is sold to the customer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12576,
+            "question_text": "Which of these is an example of an 'Intangible Asset'?",
+            "options": [
+                "Factory building",
+                "Office furniture",
+                "Patents",
+                "Raw materials"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Intangible assets are non-physical assets like patents, copyrights, or brand reputation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12577,
+            "question_text": "What is 'Break-Even Point'?",
+            "options": [
+                "When total profit equals total revenue",
+                "When total costs equal total revenue",
+                "When a company goes bankrupt",
+                "When a product launch fails"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The break-even point is where the business neither makes a profit nor a loss.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12578,
+            "question_text": "Which leadership style involves minimal interference from the leader?",
+            "options": [
+                "Autocratic",
+                "Democratic",
+                "Laissez-faire",
+                "Transformational"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Laissez-faire leadership means 'letting be,' where workers have autonomy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12579,
+            "question_text": "What does 'Fiscal Year' mean in business?",
+            "options": [
+                "The calendar year",
+                "A 12-month period for financial reporting",
+                "The tax holiday period",
+                "The period between product launches"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Companies use a fiscal year to track financial performance, which may or may not align with the calendar year.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12580,
+            "question_text": "What is the main focus of 'Operations Management'?",
+            "options": [
+                "Recruiting employees",
+                "Managing the production and service processes",
+                "Writing advertisements",
+                "Calculating tax returns"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Operations management is about the efficient conversion of inputs into outputs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12581,
+            "question_text": "In business, what is a 'Stakeholder'?",
+            "options": [
+                "Anyone who owns stock",
+                "Anyone with an interest in the business's success or failure",
+                "A senior manager only",
+                "The government tax authority only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Stakeholders include employees, customers, investors, suppliers, and the local community.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12582,
+            "question_text": "What does the term 'Liquidation' mean?",
+            "options": [
+                "Growing a business",
+                "Closing a business and selling its assets",
+                "Merging with a competitor",
+                "Issuing new shares"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Liquidation is the process of bringing a business to an end and distributing assets to claimants.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12583,
+            "question_text": "What is 'Diversification' in a business strategy?",
+            "options": [
+                "Focusing on only one product",
+                "Entering new markets or creating new products to reduce risk",
+                "Cutting all marketing budgets",
+                "Reducing staff"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Diversification spreads risk by having a varied portfolio of products or markets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

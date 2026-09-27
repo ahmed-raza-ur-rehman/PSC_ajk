@@ -1,0 +1,235 @@
+{
+    "category": "National University of Modern Languages",
+    "name": "Analytical & Logical Reasoning",
+    "board": "national-university-of-modern-languages",
+    "subject": "analytical-logical-reasoning",
+    "url": "/national-university-of-modern-languages/analytical-logical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 16,
+    "questions": [
+        {
+            "id": 12039,
+            "question_text": "If 'APPLE' is coded as 'BRQMF', how is 'ORANGE' coded?",
+            "options": [
+                "PSBOHF",
+                "PQBOHF",
+                "PSBOIF",
+                "PSBOHG"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted by one position forward in the alphabet (A+1=B, P+1=Q, etc.). Applying this to ORANGE: O+1=P, R+1=S, A+1=B, N+1=O, G+1=H, E+1=F.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12040,
+            "question_text": "Find the next number in the sequence: 2, 6, 12, 20, 30, ?",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences between consecutive numbers are 4, 6, 8, 10. The next difference should be 12. 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12041,
+            "question_text": "Premise 1: All programmers are logical. Premise 2: Ali is a programmer. Conclusion: Ali is logical. Is this reasoning valid?",
+            "options": [
+                "Yes, it is valid",
+                "No, it is invalid",
+                "It depends on the context",
+                "Insufficient information"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is a classic syllogism. If the premises are true, the conclusion must follow logically from them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12042,
+            "question_text": "If all dogs bark, and Rex is a dog, what can be logically inferred?",
+            "options": [
+                "Rex might bark",
+                "Rex barks",
+                "All barking animals are dogs",
+                "Rex is not a dog"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If the premise is true that all dogs bark, then any specific dog (Rex) must bark.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12043,
+            "question_text": "Complete the series: 1, 4, 9, 16, 25, ?",
+            "options": [
+                "30",
+                "32",
+                "36",
+                "49"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The series represents squares of integers: 1^2, 2^2, 3^2, 4^2, 5^2, 6^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12044,
+            "question_text": "Which word does not belong in the group: Apple, Orange, Broccoli, Banana?",
+            "options": [
+                "Apple",
+                "Orange",
+                "Broccoli",
+                "Banana"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Apple, Orange, and Banana are fruits, while Broccoli is a vegetable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12045,
+            "question_text": "If 'CAT' is coded as '3-1-20', how is 'DOG' coded?",
+            "options": [
+                "4-15-7",
+                "3-14-6",
+                "4-16-8",
+                "5-15-7"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter corresponds to its position in the alphabet: D=4, O=15, G=7.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12047,
+            "question_text": "If A is taller than B, and B is taller than C, who is the shortest?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since A > B and B > C, it follows that A > B > C; C is the shortest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12063,
+            "question_text": "Find the odd one out: 2, 4, 8, 10, 16, 32.",
+            "options": [
+                "2",
+                "8",
+                "10",
+                "32"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "All numbers except 10 are powers of 2 (2^1, 2^2, 2^3, 2^4, 2^5).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12064,
+            "question_text": "A man walks 5km North, then 3km East. How far is he from the starting point?",
+            "options": [
+                "8km",
+                "2km",
+                "sqrt(34) km",
+                "sqrt(16) km"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Using the Pythagorean theorem: a^2 + b^2 = c^2. 5^2 + 3^2 = 25 + 9 = 34. The distance is sqrt(34).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12065,
+            "question_text": "If today is Monday, what day will it be in 10 days?",
+            "options": [
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A week has 7 days. 10 days = 7 days + 3 days. Monday + 3 days = Thursday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12066,
+            "question_text": "Premise 1: Some birds can fly. Premise 2: Penguins are birds. Conclusion: Penguins can fly. Is this valid?",
+            "options": [
+                "Valid",
+                "Invalid",
+                "Depends on the species",
+                "True"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Even if the premises are true, 'some' birds flying does not mean 'all' birds fly, so the conclusion is not logically forced.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12067,
+            "question_text": "What is the next term in the sequence: Z, X, V, T, R, ?",
+            "options": [
+                "P",
+                "Q",
+                "O",
+                "S"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The sequence moves backward two letters in the alphabet each time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12068,
+            "question_text": "Find the missing letter: A, C, F, J, ?",
+            "options": [
+                "M",
+                "N",
+                "O",
+                "P"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern is skipping an increasing number of letters: +2, +3, +4, +5. J(10) + 5 = O(15).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12201,
+            "question_text": "If 'DANCE' is coded as 'EDNCA', how is 'MUSIC' coded?",
+            "options": [
+                "SUMIC",
+                "ISUMC",
+                "USMIC",
+                "MSIUC"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The first two letters are swapped, then the rest are reordered. MUSIC follows the pattern U-S-M-I-C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12202,
+            "question_text": "Pointing to a man, a woman says, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+            "options": [
+                "Sister",
+                "Aunt",
+                "Mother",
+                "Cousin"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 'only daughter of my mother' is the woman herself. Therefore, the man's mother is the woman.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

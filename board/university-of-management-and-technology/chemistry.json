@@ -1,0 +1,165 @@
+{
+    "category": "University of Management and Technology",
+    "name": "Chemistry",
+    "board": "university-of-management-and-technology",
+    "subject": "chemistry",
+    "url": "/university-of-management-and-technology/chemistry/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 12700,
+            "question_text": "What is the pH of a neutral solution at 25 degrees Celsius?",
+            "options": [
+                "0",
+                "7",
+                "10",
+                "14"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A pH of 7 indicates that the concentration of hydrogen ions equals the concentration of hydroxide ions, resulting in a neutral solution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12701,
+            "question_text": "Which subatomic particle carries a negative electrical charge?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Positron"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Electrons are negatively charged subatomic particles that orbit the nucleus of an atom.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12702,
+            "question_text": "Which type of chemical bond involves the transfer of electrons from one atom to another?",
+            "options": [
+                "Covalent bond",
+                "Ionic bond",
+                "Hydrogen bond",
+                "Metallic bond"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An ionic bond occurs when one atom gains electrons and another loses them, creating electrostatic attraction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12703,
+            "question_text": "What is the molar mass of water (H2O)? (Atomic masses: H=1, O=16)",
+            "options": [
+                "17 g/mol",
+                "18 g/mol",
+                "20 g/mol",
+                "32 g/mol"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Water has two Hydrogen atoms (2x1) and one Oxygen atom (16), totaling 18 g/mol.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12704,
+            "question_text": "According to the Arrhenius theory, an acid is a substance that increases the concentration of which ion in an aqueous solution?",
+            "options": [
+                "Hydroxide ion (OH-)",
+                "Sodium ion (Na+)",
+                "Hydrogen ion (H+)",
+                "Chloride ion (Cl-)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Arrhenius acids dissociate in water to produce hydrogen ions (H+).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12705,
+            "question_text": "What is the atomic number of an element that has 11 protons and 12 neutrons?",
+            "options": [
+                "11",
+                "12",
+                "23",
+                "1"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The atomic number is defined strictly by the number of protons in the nucleus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12706,
+            "question_text": "Which gas law states that the volume of a gas is inversely proportional to its pressure at a constant temperature?",
+            "options": [
+                "Charles's Law",
+                "Boyle's Law",
+                "Avogadro's Law",
+                "Ideal Gas Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Boyle's Law describes the inverse relationship between pressure and volume for a gas.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12708,
+            "question_text": "Which group of the periodic table contains the noble gases?",
+            "options": [
+                "Group 1",
+                "Group 2",
+                "Group 17",
+                "Group 18"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Group 18 elements are inert noble gases with full valence electron shells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12709,
+            "question_text": "What is the hybridization of the carbon atom in a methane (CH4) molecule?",
+            "options": [
+                "sp",
+                "sp2",
+                "sp3",
+                "dsp2"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In methane, the carbon atom forms four single bonds, resulting in sp3 hybridization with tetrahedral geometry.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12710,
+            "question_text": "What occurs during a reduction reaction?",
+            "options": [
+                "Loss of electrons",
+                "Gain of electrons",
+                "Gain of protons",
+                "Loss of oxygen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "By definition, reduction is the gain of electrons (RIG - Reduction Is Gain).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12711,
+            "question_text": "Which of these substances is a strong electrolyte?",
+            "options": [
+                "Glucose",
+                "Acetic acid",
+                "Sodium chloride",
+                "Ethanol"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sodium chloride (NaCl) dissociates completely into ions in water, making it a strong electrolyte.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

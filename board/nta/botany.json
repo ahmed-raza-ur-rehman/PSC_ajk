@@ -1,0 +1,193 @@
+{
+    "category": "NTA",
+    "name": "Botany",
+    "board": "nta",
+    "subject": "botany",
+    "url": "/nta/botany/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 9978,
+            "question_text": "Which part of the plant is responsible for the transport of water and minerals from the roots to the leaves?",
+            "options": [
+                "Phloem",
+                "Xylem",
+                "Cortex",
+                "Pith"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Xylem tissue is specialized for the upward conduction of water and dissolved minerals in vascular plants.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9979,
+            "question_text": "What is the primary product of the light-dependent reactions in photosynthesis?",
+            "options": [
+                "Glucose",
+                "Oxygen and ATP/NADPH",
+                "Carbon dioxide",
+                "Starch"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The light reactions split water to release oxygen and store energy in the form of ATP and NADPH for use in the Calvin cycle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9980,
+            "question_text": "Which plant tissue acts like a straw to move water and nutrients from roots to leaves?",
+            "options": [
+                "Phloem",
+                "Xylem",
+                "Cortex",
+                "Epidermis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Xylem is the specialized tissue responsible for the upward conduction of water and dissolved minerals from the roots.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9981,
+            "question_text": "What is the primary result of the light-dependent phase of photosynthesis?",
+            "options": [
+                "Glucose production",
+                "ATP and NADPH",
+                "Carbon dioxide fixation",
+                "Starch accumulation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Light-dependent reactions convert solar energy into chemical energy in the form of ATP and NADPH.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9982,
+            "question_text": "In which part of the plant cell does photosynthesis take place?",
+            "options": [
+                "Mitochondria",
+                "Nucleus",
+                "Chloroplast",
+                "Ribosome"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Chloroplasts contain chlorophyll, the pigment that captures light energy for photosynthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9983,
+            "question_text": "What is the primary gas absorbed by plants during photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plants take in CO2 from the atmosphere to synthesize glucose through the Calvin cycle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9984,
+            "question_text": "Which plant hormone is primarily responsible for fruit ripening?",
+            "options": [
+                "Auxin",
+                "Gibberellin",
+                "Ethylene",
+                "Cytokinin"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ethylene is a gaseous plant hormone that promotes fruit maturation and ripening.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9985,
+            "question_text": "What is the primary site of cellular respiration in a plant cell?",
+            "options": [
+                "Chloroplast",
+                "Mitochondria",
+                "Ribosome",
+                "Golgi apparatus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mitochondria are known as the powerhouse of the cell because they perform aerobic respiration to produce ATP.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9986,
+            "question_text": "Which plant tissue is responsible for carrying food (sugars) from leaves to other parts?",
+            "options": [
+                "Xylem",
+                "Phloem",
+                "Epidermis",
+                "Cortex"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Phloem is the vascular tissue responsible for translocation of organic nutrients like sucrose.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9987,
+            "question_text": "Which phase of the cell cycle involves DNA replication?",
+            "options": [
+                "G1 phase",
+                "S phase",
+                "G2 phase",
+                "M phase"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DNA synthesis or replication occurs during the 'S' (Synthesis) phase of interphase.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9988,
+            "question_text": "What do you call the process where plants lose water vapor through their leaves?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Transpiration",
+                "Absorption"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Transpiration is the evaporative loss of water from the aerial parts of a plant, primarily through stomata.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9989,
+            "question_text": "Which pigment is mainly responsible for capturing light energy for photosynthesis?",
+            "options": [
+                "Carotene",
+                "Chlorophyll",
+                "Xanthophyll",
+                "Anthocyanin"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Chlorophyll is the primary pigment that absorbs light energy, primarily in the blue and red regions of the spectrum.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9990,
+            "question_text": "In which part of the flower does fertilization occur?",
+            "options": [
+                "Stamen",
+                "Anther",
+                "Ovary",
+                "Petal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The male gametes travel to the ovary where they fertilize the ovule, which then develops into a seed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

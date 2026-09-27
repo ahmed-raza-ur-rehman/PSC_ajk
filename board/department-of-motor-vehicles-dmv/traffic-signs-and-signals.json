@@ -1,0 +1,151 @@
+{
+    "category": "Department of Motor Vehicles (DMV)",
+    "name": "Traffic Signs and Signals",
+    "board": "department-of-motor-vehicles-dmv",
+    "subject": "traffic-signs-and-signals",
+    "url": "/department-of-motor-vehicles-dmv/traffic-signs-and-signals/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 6913,
+            "question_text": "What is the shape of a standard stop sign in the United States?",
+            "options": [
+                "Octagon",
+                "Circle",
+                "Diamond",
+                "Triangle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "In the United States, a standard regulatory stop sign is always an eight-sided octagon.",
+            "is_past_paper": true,
+            "exam_source": "past paper 2026"
+        },
+        {
+            "id": 6914,
+            "question_text": "What should you do when you see a school bus with its red lights flashing and stop arm extended?",
+            "options": [
+                "Slow down and proceed with caution",
+                "Stop only if you are behind the bus",
+                "Stop unless you are on a divided highway in some states",
+                "Continue driving at the same speed"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "All traffic in both directions must stop for a school bus with flashing red lights and an extended stop arm, except on divided highways in specific states.",
+            "is_past_paper": true,
+            "exam_source": "past paper 2026"
+        },
+        {
+            "id": 6916,
+            "question_text": "What does a yellow sign with a diamond shape usually indicate?",
+            "options": [
+                "A regulatory stop requirement",
+                "A warning of upcoming road hazards or conditions",
+                "Information about food and gas services",
+                "A prohibited driving maneuver"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Diamond-shaped signs are used as warning signs to alert drivers to road hazards, curves, intersections, or changes in road conditions ahead.",
+            "is_past_paper": true,
+            "exam_source": "past paper 2025"
+        },
+        {
+            "id": 6917,
+            "question_text": "What should you do when you see a flashing yellow traffic light?",
+            "options": [
+                "Come to a complete stop",
+                "Speed up to clear the intersection",
+                "Slow down and proceed with caution",
+                "Ignore the light and maintain your speed"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A flashing yellow light warns drivers to slow down and check for hazards before proceeding through an intersection.",
+            "is_past_paper": true,
+            "exam_source": "past paper 2026"
+        },
+        {
+            "id": 6918,
+            "question_text": "Which color sign is typically used for regulatory information, such as speed limits?",
+            "options": [
+                "Orange",
+                "White and black",
+                "Yellow",
+                "Blue"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Regulatory signs, such as those indicating speed limits or 'No U-Turn' rules, are primarily white with black lettering or borders.",
+            "is_past_paper": true,
+            "exam_source": "past paper 2025"
+        },
+        {
+            "id": 6919,
+            "question_text": "What does a green arrow on a traffic signal indicate?",
+            "options": [
+                "You must yield to all other traffic",
+                "You have a protected turn in the direction of the arrow",
+                "You should stop and wait for a green light",
+                "You may go straight only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A green arrow provides a protected movement, meaning opposing traffic has been stopped, allowing you to turn safely.",
+            "is_past_paper": true,
+            "exam_source": "past paper 2026"
+        },
+        {
+            "id": 6921,
+            "question_text": "What does a yellow diamond-shaped sign generally represent?",
+            "options": [
+                "Regulatory instructions",
+                "Warning of road hazards",
+                "Information for travelers",
+                "Traffic signal commands"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Yellow diamond-shaped signs are used to alert drivers to potential dangers or changes in road conditions ahead.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6922,
+            "question_text": "What does a steady green arrow on a traffic signal mean?",
+            "options": [
+                "Stop, then proceed when clear",
+                "Speed up to beat the light",
+                "You have the right of way to turn in the direction of the arrow",
+                "Yield to all traffic and stop"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A green arrow indicates a protected turn where you have the right of way to move in that direction while opposing traffic is stopped.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6923,
+            "question_text": "What is the meaning of a flashing yellow traffic light?",
+            "options": [
+                "Come to a full stop",
+                "Proceed with caution",
+                "The light is about to turn red",
+                "Speed up to clear the intersection"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A flashing yellow light warns drivers to slow down and be alert for hazards at the intersection before proceeding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6924,
+            "question_text": "What color are signs that provide regulatory information, like speed limits?",
+            "options": [
+                "Yellow",
+                "Orange",
+                "White and black",
+                "Blue"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Regulatory signs, such as speed limit signs, use black text on a white background to indicate laws that must be followed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "ScholarBee",
+    "name": "Humanities and Social Sciences",
+    "board": "scholarbee",
+    "subject": "humanities-and-social-sciences",
+    "url": "/scholarbee/humanities-and-social-sciences/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12936,
+            "question_text": "The 'Social Contract' theory, famously discussed by philosophers like Rousseau, Locke, and Hobbes, primarily explores:",
+            "options": [
+                "The evolution of language in human societies",
+                "The ethical obligations of the wealthy toward the poor",
+                "The origin of society and the legitimacy of the authority of the state over the individual",
+                "The economic impact of international trade on local communities"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Social Contract theory posits that individuals consent, either explicitly or tacitly, to surrender some freedoms to an authority in exchange for protection of their remaining rights.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12937,
+            "question_text": "Which psychological concept refers to the tendency for people to attribute their own successes to internal factors and their failures to external, situational factors?",
+            "options": [
+                "Cognitive Dissonance",
+                "Self-Serving Bias",
+                "Confirmation Bias",
+                "The Bystander Effect"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Self-serving bias is a common cognitive distortion where individuals protect their self-esteem by shifting blame for failures and taking credit for achievements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12938,
+            "question_text": "What does the concept of 'Opportunity Cost' refer to in economics?",
+            "options": [
+                "The monetary cost of a good",
+                "The value of the next best alternative forgone when a choice is made",
+                "The total profit earned by a firm",
+                "The cost of labor in manufacturing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Opportunity cost represents the benefits an individual, investor, or business misses out on when choosing one alternative over another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12939,
+            "question_text": "Which psychological theory explores how people adjust their beliefs to reduce discomfort caused by holding conflicting ideas?",
+            "options": [
+                "Cognitive Dissonance",
+                "Classical Conditioning",
+                "Maslow's Hierarchy",
+                "Self-Efficacy"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Cognitive Dissonance theory suggests that individuals experience psychological tension when their beliefs and actions are inconsistent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12940,
+            "question_text": "What is the primary study of 'Sociology'?",
+            "options": [
+                "Individual cognitive processes",
+                "The development of the human brain",
+                "Social behavior, society, and patterns of social relationships",
+                "Economic forecasting"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sociology is the social science that focuses on society, human social behavior, and the institutions that shape our interactions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12941,
+            "question_text": "Which of the following is an example of a 'normative' statement in social sciences?",
+            "options": [
+                "The unemployment rate is 5%",
+                "GDP grew by 2% last quarter",
+                "The government should increase taxes to fund healthcare",
+                "There are 100 people in this room"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Normative statements express opinions or values about how the world 'should' be, whereas positive statements describe factual outcomes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12942,
+            "question_text": "What does 'Cultural Relativism' argue?",
+            "options": [
+                "That all cultures are inherently superior to others",
+                "That a person's beliefs and activities should be understood based on their own culture",
+                "That we should judge other cultures by our own standards",
+                "That culture has no impact on human development"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cultural relativism is the principle of viewing and analyzing a culture through its own context rather than judging it by the standards of another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12943,
+            "question_text": "In international relations, what does 'Realism' focus on?",
+            "options": [
+                "The pursuit of world peace through cooperation",
+                "The competition between states for power and survival",
+                "The importance of non-governmental organizations",
+                "The belief that human nature is inherently kind"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Realism emphasizes the anarchic nature of the international system and the necessity for states to pursue their own security.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12944,
+            "question_text": "What is 'Confirmation Bias'?",
+            "options": [
+                "The tendency to look only for information that supports one's existing beliefs",
+                "The ability to predict the future based on past events",
+                "The process of learning from negative feedback",
+                "The desire to conform to group norms"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Confirmation bias is a cognitive bias where people favor information that confirms their preexisting assumptions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12945,
+            "question_text": "Which branch of philosophy deals with the nature of knowledge?",
+            "options": [
+                "Ethics",
+                "Metaphysics",
+                "Epistemology",
+                "Logic"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Epistemology is the study of knowledge—what it is, how we acquire it, and the limits of human understanding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

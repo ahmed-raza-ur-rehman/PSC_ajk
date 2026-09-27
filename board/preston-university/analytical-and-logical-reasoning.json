@@ -1,0 +1,151 @@
+{
+    "category": "Preston University",
+    "name": "Analytical and Logical Reasoning",
+    "board": "preston-university",
+    "subject": "analytical-and-logical-reasoning",
+    "url": "/preston-university/analytical-and-logical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13711,
+            "question_text": "If A is taller than B, and B is taller than C, who is the shortest?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since A > B and B > C, the order is A > B > C, making C the shortest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13712,
+            "question_text": "Complete the series: 2, 4, 8, 16, ____.",
+            "options": [
+                "20",
+                "24",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number is doubled to get the next number (2^1, 2^2, 2^3, 2^4, 2^5).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13713,
+            "question_text": "If 'APPLE' is coded as 'BQQMF', how is 'ORANGE' coded?",
+            "options": [
+                "PSBOHF",
+                "PQBOHF",
+                "PSBOIF",
+                "OSBOHF"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The pattern is moving each letter one position forward in the alphabet (A+1=B, P+1=Q, etc.).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13714,
+            "question_text": "Find the next number in the sequence: 5, 10, 20, 40, ____.",
+            "options": [
+                "60",
+                "70",
+                "80",
+                "100"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number in the sequence is doubled to get the next number.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13715,
+            "question_text": "Pointing to a man, a woman says, 'His mother is the only daughter of my father.' How is the woman related to the man?",
+            "options": [
+                "Aunt",
+                "Sister",
+                "Mother",
+                "Grandmother"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 'only daughter of my father' is the woman herself. Therefore, his mother is the woman.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13716,
+            "question_text": "Which word does not belong in the group: Piano, Guitar, Flute, Violin?",
+            "options": [
+                "Piano",
+                "Guitar",
+                "Flute",
+                "Violin"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The others are string instruments, whereas a flute is a woodwind instrument.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13717,
+            "question_text": "A man walks 5km North, then turns East and walks 3km, then turns South and walks 5km. How far is he from the starting point?",
+            "options": [
+                "3km",
+                "5km",
+                "8km",
+                "0km"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The path forms three sides of a rectangle. He is 3km East of his start point.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13718,
+            "question_text": "If Monday is coded as 'NOPFJB', what is the code for 'TUESDAY'?",
+            "options": [
+                "UVFTEBZ",
+                "VWFUEBZ",
+                "UVGTFCZ",
+                "VTFTEAZ"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted forward by one (M->N, o->p, etc.). Applying this to TUESDAY results in UVFTEBZ.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13719,
+            "question_text": "Which number comes next in the series: 1, 3, 6, 10, 15, ____?",
+            "options": [
+                "18",
+                "20",
+                "21",
+                "25"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The difference between terms increases by 1 each time (+2, +3, +4, +5, +6). 15 + 6 = 21.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13720,
+            "question_text": "Seven people are in a room. Everyone shakes hands with everyone else. How many handshakes occur?",
+            "options": [
+                "21",
+                "42",
+                "49",
+                "14"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Use the combination formula n(n-1)/2. (7 * 6) / 2 = 21.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

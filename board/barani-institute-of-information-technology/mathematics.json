@@ -1,0 +1,361 @@
+{
+    "category": "Barani Institute of Information Technology",
+    "name": "Mathematics",
+    "board": "barani-institute-of-information-technology",
+    "subject": "mathematics",
+    "url": "/barani-institute-of-information-technology/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 25,
+    "questions": [
+        {
+            "id": 12946,
+            "question_text": "What is the dot product of vectors u = [1, 2] and v = [3, 4]?",
+            "options": [
+                "7",
+                "10",
+                "11",
+                "12"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The dot product is calculated as (1*3) + (2*4) = 3 + 8 = 11.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12999,
+            "question_text": "If a matrix A has dimensions 3x2 and matrix B has dimensions 2x4, what are the dimensions of the resulting product matrix AB?",
+            "options": [
+                "2x2",
+                "3x4",
+                "4x3",
+                "3x2"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When multiplying an (m x n) matrix by an (n x p) matrix, the resulting matrix is (m x p). Here, (3 x 2) * (2 x 4) results in a 3 x 4 matrix.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13000,
+            "question_text": "What is the derivative of f(x) = x^3 + 2x with respect to x?",
+            "options": [
+                "x^2 + 2",
+                "3x^2 + 2x",
+                "3x^2 + 2",
+                "3x^3 + 2"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Using the power rule, the derivative of x^n is nx^(n-1). For x^3 it is 3x^2, and for 2x it is 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13001,
+            "question_text": "If a vector v = [3, 4] is scaled by a factor of 2, what is the resulting vector?",
+            "options": [
+                "[5, 6]",
+                "[6, 8]",
+                "[3, 8]",
+                "[6, 4]"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scaling a vector by a scalar constant involves multiplying each component of the vector by that constant (3*2=6, 4*2=8).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13002,
+            "question_text": "In probability, if two events A and B are independent, which formula holds true?",
+            "options": [
+                "P(A|B) = P(A) + P(B)",
+                "P(A ∩ B) = P(A) * P(B)",
+                "P(A ∪ B) = P(A) * P(B)",
+                "P(A ∩ B) = P(A) + P(B)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For independent events, the probability of both occurring is the product of their individual probabilities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13003,
+            "question_text": "Which property defines a square matrix A where A^T = A?",
+            "options": [
+                "Identity matrix",
+                "Diagonal matrix",
+                "Symmetric matrix",
+                "Orthogonal matrix"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A symmetric matrix is equal to its transpose, meaning it is symmetric across its main diagonal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13004,
+            "question_text": "What is the value of e^0?",
+            "options": [
+                "0",
+                "1",
+                "e",
+                "undefined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Any non-zero real number raised to the power of 0 equals 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13005,
+            "question_text": "Which activation function outputs values in the range (0, 1)?",
+            "options": [
+                "ReLU",
+                "Sigmoid",
+                "Tanh",
+                "Linear"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Sigmoid function maps any input to a value between 0 and 1, making it useful for probability-based outputs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13006,
+            "question_text": "Calculate the gradient of f(x, y) = x^2 + 3xy at point (1, 2).",
+            "options": [
+                "[8, 3]",
+                "[5, 3]",
+                "[8, 4]",
+                "[2, 6]"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The gradient is [df/dx, df/dy] = [2x + 3y, 3x]. At (1, 2), this is [2(1) + 3(2), 3(1)] = [8, 3].",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13007,
+            "question_text": "What is the Euclidean distance between points (0,0) and (3,4)?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "7"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Distance = sqrt((3-0)^2 + (4-0)^2) = sqrt(9+16) = sqrt(25) = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13008,
+            "question_text": "What is the determinant of a 2x2 identity matrix?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "-1"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The identity matrix I = [[1, 0], [0, 1]]. The determinant is (1*1) - (0*0) = 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13009,
+            "question_text": "If a function is strictly concave, what is true about its second derivative?",
+            "options": [
+                "f''(x) > 0",
+                "f''(x) < 0",
+                "f''(x) = 0",
+                "f''(x) is undefined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A function that is strictly concave has a negative second derivative throughout its domain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13010,
+            "question_text": "Which of the following describes the Eigenvalues of a diagonal matrix?",
+            "options": [
+                "The sum of the diagonal elements",
+                "The product of the diagonal elements",
+                "The elements on the main diagonal",
+                "The square root of the diagonal elements"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "For any diagonal matrix, the eigenvalues are simply the entries present on the main diagonal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13011,
+            "question_text": "What is the natural logarithm of 1?",
+            "options": [
+                "e",
+                "0",
+                "1",
+                "Infinity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "By definition, ln(x) = 0 when x = 1, since e^0 = 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13871,
+            "question_text": "If a matrix A has dimensions 3x2 and matrix B has dimensions 2x4, what is the dimension of the resulting product matrix AB?",
+            "options": [
+                "2x2",
+                "3x4",
+                "4x3",
+                "3x2"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When multiplying an (m x n) matrix by an (n x p) matrix, the resulting matrix has dimensions (m x p).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13872,
+            "question_text": "What is the derivative of f(x) = x^3 + 5x with respect to x?",
+            "options": [
+                "x^2 + 5",
+                "3x^2 + 1",
+                "3x^2 + 5",
+                "x^4/4 + 5x^2/2"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Using the power rule, the derivative of x^n is nx^(n-1). Thus, 3x^2 + 5 is correct.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13874,
+            "question_text": "If the probability of event A is 0.4 and the probability of event B is 0.3 (and they are independent), what is P(A and B)?",
+            "options": [
+                "0.7",
+                "0.1",
+                "0.12",
+                "0.07"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "For independent events, P(A and B) = P(A) * P(B) = 0.4 * 0.3 = 0.12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13875,
+            "question_text": "What is the transpose of a 2x3 matrix?",
+            "options": [
+                "A 2x3 matrix",
+                "A 3x2 matrix",
+                "A 3x3 matrix",
+                "A 1x6 matrix"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The transpose of an m x n matrix is always an n x m matrix.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13876,
+            "question_text": "Which of the following represents the identity matrix of size 2x2?",
+            "options": [
+                "[[0, 1], [1, 0]]",
+                "[[1, 1], [1, 1]]",
+                "[[1, 0], [0, 1]]",
+                "[[0, 0], [0, 0]]"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An identity matrix has 1s on the main diagonal and 0s elsewhere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13877,
+            "question_text": "Find the value of the integral of 2x dx from 0 to 3.",
+            "options": [
+                "3",
+                "6",
+                "9",
+                "12"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The integral of 2x is x^2. Evaluating x^2 from 0 to 3 gives 3^2 - 0^2 = 9.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13878,
+            "question_text": "What is the slope of the line represented by y = -4x + 7?",
+            "options": [
+                "7",
+                "-4",
+                "4",
+                "-7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In slope-intercept form y = mx + b, 'm' is the slope. Here, m = -4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13879,
+            "question_text": "If log(x) = 2 (base 10), what is the value of x?",
+            "options": [
+                "20",
+                "100",
+                "10",
+                "2"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "log10(x) = 2 is equivalent to x = 10^2, which is 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13880,
+            "question_text": "Which of the following vectors is orthogonal to [1, 0]?",
+            "options": [
+                "[1, 1]",
+                "[0, 1]",
+                "[2, 0]",
+                "[1, 0]"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Vectors are orthogonal if their dot product is zero. (1*0) + (0*1) = 0.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13881,
+            "question_text": "What is the eigenvalue of the matrix [[2, 0], [0, 3]]?",
+            "options": [
+                "2 and 3",
+                "0 and 5",
+                "6 and 1",
+                "2 and 2"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "For a diagonal matrix, the eigenvalues are the elements on the main diagonal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13882,
+            "question_text": "Calculate 5! (5 factorial).",
+            "options": [
+                "20",
+                "60",
+                "120",
+                "240"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "5! = 5 * 4 * 3 * 2 * 1 = 120.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "category": "Northern University, Nowshera",
+    "name": "Communication and Writing Skills",
+    "board": "northern-university-nowshera",
+    "subject": "communication-and-writing-skills",
+    "url": "/northern-university-nowshera/communication-and-writing-skills/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 13245,
+            "question_text": "When writing an argumentative essay, what is the primary purpose of a 'counter-argument' paragraph?",
+            "options": [
+                "To show the reader that the topic is unimportant.",
+                "To confuse the reader about the writer's stance.",
+                "To acknowledge and refute opposing viewpoints to strengthen the writer's position.",
+                "To add word count to the essay."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Addressing counter-arguments demonstrates critical thinking and strengthens the validity of the author's primary argument.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13246,
+            "question_text": "Which of the following is the most effective way to improve flow between two paragraphs?",
+            "options": [
+                "Using repetitive sentence structures.",
+                "Using transition words or phrases to link ideas.",
+                "Making both paragraphs the exact same length.",
+                "Using exclamation marks at the end of every sentence."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Transitional devices act as bridges between ideas, ensuring logical flow and coherence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13247,
+            "question_text": "When editing for 'conciseness', which of the following should be removed?",
+            "options": [
+                "Active verbs",
+                "Redundant adjectives",
+                "Clear transitions",
+                "Subject-verb agreement"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Conciseness aims to remove unnecessary words that do not add meaning, such as tautologies or redundant adjectives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13248,
+            "question_text": "What is the main purpose of a thesis statement in an essay?",
+            "options": [
+                "To provide background information about the topic.",
+                "To summarize the counter-arguments.",
+                "To clearly state the main argument or claim of the paper.",
+                "To offer a list of bibliographic sources."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A thesis statement acts as the roadmap for the entire essay, stating the central point the writer intends to prove.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13249,
+            "question_text": "In a professional email, what is the best way to handle a request you cannot fulfill?",
+            "options": [
+                "Ignore the email until the sender stops asking.",
+                "State clearly that you cannot do it and offer a brief explanation or alternative.",
+                "Agree to it but delay the work indefinitely.",
+                "Tell the person their request is unreasonable."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Maintaining professional communication requires clarity, honesty, and helpfulness, even when declining a request.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13250,
+            "question_text": "What is 'active listening' primarily concerned with?",
+            "options": [
+                "Memorizing everything the speaker says.",
+                "Focusing, understanding, and responding to the speaker.",
+                "Waiting for your turn to talk during a debate.",
+                "Correcting the speaker's grammar mistakes."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Active listening requires full engagement and an attempt to understand the speaker's perspective.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13251,
+            "question_text": "When writing for a specific audience, why is 'tone' important?",
+            "options": [
+                "Because it makes the writing longer.",
+                "Because it helps convey the writer's attitude and relationship to the audience.",
+                "Because it allows the writer to use slang in academic papers.",
+                "Because it eliminates the need for proofreading."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tone creates the atmosphere of the text and must be adjusted based on the expectations of the intended readership.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13252,
+            "question_text": "Which of these is a hallmark of a 'persuasive' essay?",
+            "options": [
+                "A chronological list of events.",
+                "A focus on convincing the reader to accept a specific viewpoint.",
+                "Objective, neutral observation of a phenomenon.",
+                "A summary of a book's chapters."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The goal of a persuasive essay is to sway the reader's opinion through evidence and logical argumentation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13253,
+            "question_text": "Why should you avoid using the passive voice in technical writing?",
+            "options": [
+                "It is grammatically incorrect.",
+                "It makes the sentence unnecessarily long and obscures the actor.",
+                "It is forbidden by APA style guidelines.",
+                "It changes the meaning of the verb."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Passive voice often creates wordy sentences and hides who or what performed the action, making writing less clear.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13254,
+            "question_text": "When writing an email, what is a 'cc' field used for?",
+            "options": [
+                "Hiding the recipients from each other.",
+                "Sending a carbon copy to those who need to be informed but aren't the primary recipient.",
+                "Ensuring the email is encrypted.",
+                "Confirming the recipient has read the email."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'cc' stands for carbon copy, intended for keeping secondary parties in the loop.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13255,
+            "question_text": "Which transition word is best for introducing a contrast?",
+            "options": [
+                "Furthermore",
+                "Consequently",
+                "Conversely",
+                "Simultaneously"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Conversely' introduces a contrasting or opposite perspective.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13256,
+            "question_text": "What is the primary function of a 'hook' in an introduction?",
+            "options": [
+                "To state the essay's counter-argument.",
+                "To capture the reader's attention immediately.",
+                "To define the key terms of the paper.",
+                "To summarize the bibliography."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A hook is designed to pique the reader's interest so they continue reading the essay.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

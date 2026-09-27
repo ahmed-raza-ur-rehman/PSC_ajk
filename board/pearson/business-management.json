@@ -1,0 +1,179 @@
+{
+    "category": "Pearson",
+    "name": "Business Management",
+    "board": "pearson",
+    "subject": "business-management",
+    "url": "/pearson/business-management/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 13113,
+            "question_text": "Which management function involves setting goals and deciding how to achieve them?",
+            "options": [
+                "Planning",
+                "Organizing",
+                "Leading",
+                "Controlling"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Planning is the foundational management function where objectives are defined and the strategy to reach them is mapped out.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13114,
+            "question_text": "According to Maslow’s Hierarchy of Needs, which need must be satisfied before social needs?",
+            "options": [
+                "Self-actualization",
+                "Esteem",
+                "Safety",
+                "None of the above"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Maslow’s hierarchy places physiological and safety needs at the bottom, which must be fulfilled before moving to social or higher-level needs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13115,
+            "question_text": "Which leadership style is characterized by the leader making decisions independently with little to no input from team members?",
+            "options": [
+                "Democratic",
+                "Laissez-faire",
+                "Autocratic",
+                "Transformational"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Autocratic leadership involves centralized authority where the leader makes decisions unilaterally.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13116,
+            "question_text": "What is the primary purpose of a SWOT analysis in strategic planning?",
+            "options": [
+                "To measure employee satisfaction",
+                "To assess internal strengths and weaknesses and external opportunities and threats",
+                "To calculate the break-even point",
+                "To design the organizational hierarchy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SWOT stands for Strengths, Weaknesses, Opportunities, and Threats, providing a comprehensive view of the business environment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13117,
+            "question_text": "Which organizational structure groups employees based on specialized functions such as Marketing, Finance, and HR?",
+            "options": [
+                "Matrix structure",
+                "Divisional structure",
+                "Functional structure",
+                "Flat structure"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A functional structure organizes a company into departments based on their specific expertise or job function.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13118,
+            "question_text": "What is the 'Span of Control' in management?",
+            "options": [
+                "The number of employees a manager can effectively supervise",
+                "The geographical reach of the business",
+                "The duration of a project timeline",
+                "The total number of shareholders in a company"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Span of control refers to the number of subordinates reporting directly to a single manager.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13119,
+            "question_text": "In Herzberg’s Two-Factor Theory, which of the following is considered a 'motivator'?",
+            "options": [
+                "Company policy",
+                "Working conditions",
+                "Salary",
+                "Achievement"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Achievement is a motivator according to Herzberg, as it leads to job satisfaction, unlike hygiene factors like salary.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13120,
+            "question_text": "What does the 'P' stand for in the SMART goals framework?",
+            "options": [
+                "Prioritized",
+                "Performance-based",
+                "Persistent",
+                "Practical"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "In many business contexts, SMART stands for Specific, Measurable, Achievable, Relevant, and Time-bound (though sometimes 'Practical' is used as a synonym for Achievable).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13121,
+            "question_text": "Which management concept suggests that employees should have only one direct supervisor?",
+            "options": [
+                "Unity of command",
+                "Scalar chain",
+                "Division of labor",
+                "Centralization"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Unity of command is a principle stating that an employee should report to only one manager to avoid confusion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13122,
+            "question_text": "What is 'Corporate Culture'?",
+            "options": [
+                "The company's legal registration process",
+                "The shared values, beliefs, and practices of an organization",
+                "The physical office building design",
+                "The marketing strategy for new products"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Corporate culture refers to the personality of an organization and the collective norms that guide behavior.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13123,
+            "question_text": "Which management theory emphasizes the importance of 'scientific' methods to increase worker productivity?",
+            "options": [
+                "Administrative Theory",
+                "Scientific Management",
+                "Bureaucratic Theory",
+                "Human Relations Movement"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scientific Management, pioneered by Frederick Taylor, focuses on analyzing workflows to improve economic efficiency and labor productivity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13124,
+            "question_text": "What is the primary objective of 'Management by Objectives' (MBO)?",
+            "options": [
+                "To minimize employee turnover",
+                "To align individual goals with organizational objectives",
+                "To reduce overhead costs",
+                "To standardize production processes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "MBO is a strategic management model that aims to improve performance by clearly defining objectives that are agreed to by both management and employees.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

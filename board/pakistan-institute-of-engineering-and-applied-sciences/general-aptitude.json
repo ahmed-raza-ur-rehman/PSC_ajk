@@ -1,0 +1,165 @@
+{
+    "category": "Pakistan Institute of Engineering and Applied Sciences",
+    "name": "General Aptitude",
+    "board": "pakistan-institute-of-engineering-and-applied-sciences",
+    "subject": "general-aptitude",
+    "url": "/pakistan-institute-of-engineering-and-applied-sciences/general-aptitude/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11006,
+            "question_text": "If a man walks at 4 km/h, he misses a train by 10 minutes. If he walks at 5 km/h, he reaches 5 minutes before the train. What is the distance to the station?",
+            "options": [
+                "3 km",
+                "5 km",
+                "6 km",
+                "8 km"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Let distance be d. (d/4) - (d/5) = 15 minutes (1/4 hour). d/20 = 1/4, so d = 5 km.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11007,
+            "question_text": "A clock shows 3:15. What is the angle between the hands?",
+            "options": [
+                "0 degrees",
+                "7.5 degrees",
+                "15 degrees",
+                "22.5 degrees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The minute hand is at 90 degrees. The hour hand moves 0.5 degrees per minute. At 15 mins, it is at (3*30) + (15*0.5) = 97.5 degrees. Difference = 7.5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11008,
+            "question_text": "If 'APPLE' is coded as 'BRQMF', how is 'ORANGE' coded?",
+            "options": [
+                "PSBOOF",
+                "PSBOHF",
+                "QSBOOF",
+                "PSBOHE"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each letter is shifted forward by one position (A->B, P->Q, etc.).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11009,
+            "question_text": "Find the next number in sequence: 2, 6, 12, 20, 30, ...",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The difference between terms is 4, 6, 8, 10. The next difference is 12. 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11010,
+            "question_text": "A sum of $1000 is invested at 5% simple interest per year. How much is the interest after 3 years?",
+            "options": [
+                "$50",
+                "$100",
+                "$150",
+                "$200"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Simple interest = P * R * T = 1000 * 0.05 * 3 = 150.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11011,
+            "question_text": "What is the average of the first five prime numbers?",
+            "options": [
+                "5.0",
+                "5.6",
+                "6.0",
+                "6.2"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The first five primes are 2, 3, 5, 7, 11. Sum = 28. Average = 28/5 = 5.6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11012,
+            "question_text": "Choose the word most nearly opposite in meaning to 'Ephemeral'.",
+            "options": [
+                "Fleeting",
+                "Permanent",
+                "Transitory",
+                "Momentary"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means lasting for a very short time; permanent is the direct opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11013,
+            "question_text": "If a rectangle has length 10cm and width 5cm, what is the length of its diagonal?",
+            "options": [
+                "12cm",
+                "sqrt(125)cm",
+                "15cm",
+                "sqrt(50)cm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "By Pythagoras, diagonal = sqrt(10^2 + 5^2) = sqrt(100+25) = sqrt(125).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11014,
+            "question_text": "A store sells a laptop at 20% discount. If the original price is $500, what is the final price?",
+            "options": [
+                "$300",
+                "$400",
+                "$450",
+                "$350"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "20% of 500 is 100. 500 - 100 = 400.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11015,
+            "question_text": "Identify the relationship: 'Painter is to Brush as Surgeon is to...'?",
+            "options": [
+                "Nurse",
+                "Scalpel",
+                "Hospital",
+                "Medicine"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A painter uses a brush as a primary tool, just as a surgeon uses a scalpel.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11016,
+            "question_text": "If all roses are flowers and some flowers fade quickly, which is definitely true?",
+            "options": [
+                "All roses fade quickly",
+                "Some roses fade quickly",
+                "Some flowers are roses",
+                "All flowers are roses"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since all roses are flowers, it must be true that some flowers are roses (the set of roses is a subset of flowers).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

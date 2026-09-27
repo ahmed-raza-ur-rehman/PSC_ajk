@@ -1,0 +1,193 @@
+{
+    "category": "Abasyn University",
+    "name": "English Proficiency",
+    "board": "abasyn-university",
+    "subject": "english-proficiency",
+    "url": "/abasyn-university/english-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 12607,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "Each of the students have completed their assignment.",
+                "Each of the students has completed their assignment.",
+                "Each of the students have completed his or her assignment.",
+                "The students has completed their assignment."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject 'Each' is singular, so it requires the singular verb 'has'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12608,
+            "question_text": "Which word is an antonym for 'transparent'?",
+            "options": [
+                "Clear",
+                "Opaque",
+                "Glassy",
+                "Visible"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Opaque refers to something that does not allow light to pass through, which is the opposite of transparent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12609,
+            "question_text": "Which word is a synonym for 'mitigate'?",
+            "options": [
+                "Exacerbate",
+                "Alleviate",
+                "Create",
+                "Identify"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To mitigate means to make less severe, which is a synonym for alleviate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12610,
+            "question_text": "Choose the correctly punctuated sentence.",
+            "options": [
+                "The meeting starts at 9:00 AM; however, we may start late.",
+                "The meeting starts at 9:00 AM however we may start late.",
+                "The meeting starts at 9:00 AM, however we may start late.",
+                "The meeting starts at 9:00 AM; however we may start late."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "When using a conjunctive adverb like 'however' to join two independent clauses, use a semicolon before and a comma after.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12611,
+            "question_text": "Select the sentence with the correct subject-verb agreement.",
+            "options": [
+                "The group of students are waiting outside.",
+                "Each of the managers have signed the contract.",
+                "The list of candidates is long.",
+                "Neither of the reports were finished on time."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'List' is the singular subject, so it takes the singular verb 'is'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12612,
+            "question_text": "What is the meaning of the idiom 'to burn the midnight oil'?",
+            "options": [
+                "To be very wasteful with resources",
+                "To work late into the night",
+                "To engage in a dangerous activity",
+                "To prepare a candle for a ceremony"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The idiom means to work or study long after typical hours.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12613,
+            "question_text": "Which word is a noun form of the verb 'decide'?",
+            "options": [
+                "Decisive",
+                "Decidedly",
+                "Decision",
+                "Deciding"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Decision' is the noun form, whereas 'decisive' is an adjective and 'decidedly' is an adverb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12614,
+            "question_text": "Identify the sentence that uses the passive voice.",
+            "options": [
+                "The marketing team launched the campaign.",
+                "The CEO reviewed the quarterly results.",
+                "The project was completed by the interns.",
+                "He wrote the report yesterday."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In passive voice, the subject receives the action performed by the agent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12615,
+            "question_text": "Choose the correct sentence to complete the following: 'Neither the manager nor the employees _____ to the new policy.'",
+            "options": [
+                "objects",
+                "object",
+                "is objecting",
+                "has objected"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the subject closest to it. Since 'employees' is plural, the plural verb 'object' is used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12616,
+            "question_text": "Identify the meaning of the word 'pragmatic'.",
+            "options": [
+                "Theoretical",
+                "Practical and sensible",
+                "Highly emotional",
+                "Confusing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pragmatic refers to dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12617,
+            "question_text": "Which sentence uses a modifier correctly?",
+            "options": [
+                "Walking down the street, the trees were beautiful.",
+                "Having finished the report, the computer was turned off.",
+                "Exhausted from the meeting, Sarah went home to sleep.",
+                "Driving through the city, the skyscrapers were tall."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This sentence correctly places the subject (Sarah) immediately after the modifying phrase, avoiding a dangling modifier.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12618,
+            "question_text": "Select the correct usage of the semicolon.",
+            "options": [
+                "I enjoy business; furthermore, I love economics.",
+                "I enjoy; business, furthermore, I love economics.",
+                "I enjoy business furthermore; I love economics.",
+                "I; enjoy business; furthermore I love economics."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A semicolon is used to join two independent clauses, often followed by a conjunctive adverb like 'furthermore' and a comma.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12619,
+            "question_text": "Choose the word that best fits the sentence: 'The CEO's decision was _____ to the success of the company.'",
+            "options": [
+                "pivotal",
+                "trivial",
+                "detrimental",
+                "irrelevant"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Pivotal means of crucial importance, fitting the context of the success of a company.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "category": "Hamdard University",
+    "name": "English Language",
+    "board": "hamdard-university",
+    "subject": "english-language",
+    "url": "/hamdard-university/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 11602,
+            "question_text": "Identify the synonym for 'Benevolent':",
+            "options": [
+                "Cruel",
+                "Kind",
+                "Greedy",
+                "Hostile"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11603,
+            "question_text": "Choose the correctly punctuated sentence.",
+            "options": [
+                "The project is due, however, I am not ready.",
+                "The project is due; however, I am not ready.",
+                "The project is due however I am not ready.",
+                "The project is due, however I am not ready."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A semicolon is required before a conjunctive adverb joining two independent clauses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11604,
+            "question_text": "Choose the word that is most nearly opposite in meaning to 'Fragile'.",
+            "options": [
+                "Delicate",
+                "Robust",
+                "Weak",
+                "Flimsy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Robust means sturdy and strong, which is the opposite of fragile.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11605,
+            "question_text": "Select the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Accomodation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling requires two 'c's and two 'm's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11606,
+            "question_text": "Complete the sentence: 'She _____ to the store every morning.'",
+            "options": [
+                "walk",
+                "walks",
+                "walking",
+                "walked"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Third-person singular subject requires the 's' form of the verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11607,
+            "question_text": "What is the noun form of the verb 'decide'?",
+            "options": [
+                "Decisive",
+                "Decidedly",
+                "Decision",
+                "Decider"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Decision is the standard noun form of decide.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11617,
+            "question_text": "Identify the part of speech of the word 'quickly' in the sentence: 'He ran quickly to the park.'",
+            "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Preposition"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quickly modifies the verb 'ran', making it an adverb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11618,
+            "question_text": "Choose the correct preposition: 'The cat is sitting _____ the table.'",
+            "options": [
+                "at",
+                "on",
+                "in",
+                "with"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "On is the appropriate preposition for a position on top of a surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11619,
+            "question_text": "Which of these is a synonym for 'Abundant'?",
+            "options": [
+                "Scarce",
+                "Plentiful",
+                "Minimal",
+                "Short"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Abundant means existing in large quantities, similar to plentiful.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11622,
+            "question_text": "What is the past tense of 'seek'?",
+            "options": [
+                "Seeked",
+                "Sought",
+                "Seeking",
+                "Sook"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sought is the irregular past tense of seek.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11623,
+            "question_text": "Choose the sentence that is grammatically correct.",
+            "options": [
+                "Each of the boys are happy.",
+                "Each of the boys is happy.",
+                "Each of the boys have been happy.",
+                "The boys is happy."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subject 'each' is singular, so it requires the singular verb 'is'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11624,
+            "question_text": "Which word best completes the phrase: 'The research was _____ based on factual evidence.'",
+            "options": [
+                "exclusive",
+                "exclusively",
+                "exclusivity",
+                "exclusiveness"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An adverb is required to modify the verb 'based'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

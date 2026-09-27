@@ -1,0 +1,235 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Computer Science & IT",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "computer-science-it",
+    "url": "/national-cybercrime-investigation-agency/computer-science-it/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 16,
+    "questions": [
+        {
+            "id": 14127,
+            "question_text": "Which of the following scheduling algorithms is non-preemptive?",
+            "options": [
+                "Round Robin",
+                "Shortest Remaining Time First",
+                "First-Come, First-Served (FCFS)",
+                "Priority Scheduling (Preemptive)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "First-Come, First-Served is strictly non-preemptive because once a process gets the CPU, it runs to completion or until it blocks for I/O.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14128,
+            "question_text": "What is the primary function of a router in a computer network?",
+            "options": [
+                "Forwarding data packets between computer networks",
+                "Amplifying network signals over long distances",
+                "Connecting hosts within the same local area network",
+                "Translating domain names to IP addresses"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A router operates at the network layer (Layer 3) and directs traffic between different independent networks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14129,
+            "question_text": "In relational databases, what does ACID stand for?",
+            "options": [
+                "Atomicity, Consistency, Isolation, Durability",
+                "Association, Control, Integrity, Data",
+                "Accuracy, Concurrency, Independence, Distribution",
+                "Atomicity, Compatibility, Indexing, Delivery"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "ACID properties ensure reliable processing of database transactions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14130,
+            "question_text": "Which data structure uses LIFO (Last In, First Out) ordering?",
+            "options": [
+                "Queue",
+                "Stack",
+                "Binary Tree",
+                "Graph"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A stack follows the LIFO principle where the last element inserted is the first one to be removed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14131,
+            "question_text": "Which protocol is primarily used for secure communication over a computer network, notably the Internet?",
+            "options": [
+                "HTTP",
+                "FTP",
+                "HTTPS",
+                "SMTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "HTTPS (Hypertext Transfer Protocol Secure) uses SSL/TLS protocols to encrypt communication for secure web browsing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14132,
+            "question_text": "Which OSI layer is responsible for end-to-end communication, reliability, and flow control?",
+            "options": [
+                "Physical Layer",
+                "Data Link Layer",
+                "Transport Layer",
+                "Network Layer"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Transport Layer (Layer 4) manages end-to-end message delivery, error recovery, and flow control between hosts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14133,
+            "question_text": "What is the worst-case time complexity of QuickSort when a poor pivot is consistently chosen?",
+            "options": [
+                "O(n log n)",
+                "O(n)",
+                "O(n^2)",
+                "O(log n)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When the pivot divides the array into the most unequal partitions possible repeatedly, QuickSort degrades to quadratic time complexity O(n^2).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14134,
+            "question_text": "Which memory management scheme allocates physical memory in fixed-size blocks called frames?",
+            "options": [
+                "Segmentation",
+                "Paging",
+                "Contiguous Allocation",
+                "Virtual Addressing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Paging divides logical memory into blocks called pages and physical memory into fixed-size blocks called frames to eliminate external fragmentation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14135,
+            "question_text": "Which normal form in relational databases eliminates transitive dependencies for non-key attributes?",
+            "options": [
+                "First Normal Form (1NF)",
+                "Second Normal Form (2NF)",
+                "Third Normal Form (3NF)",
+                "Boyce-Codd Normal Form (BCNF)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A relation is in 3NF if it is in 2NF and no non-key attribute is transitively dependent on the primary key.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14136,
+            "question_text": "What does the 'P' stand for in HTTPS?",
+            "options": [
+                "Protocol",
+                "Port",
+                "Packet",
+                "Program"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "HTTPS stands for Hypertext Transfer Protocol Secure, which encrypts HTTP traffic using TLS/SSL.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14137,
+            "question_text": "Which design pattern ensures that a class has only one instance and provides a global point of access to it?",
+            "options": [
+                "Factory Pattern",
+                "Singleton Pattern",
+                "Observer Pattern",
+                "Decorator Pattern"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Singleton pattern restricts object instantiation to a single instance, which is useful when exactly one object is needed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14138,
+            "question_text": "What is the primary purpose of an index in a relational database management system?",
+            "options": [
+                "To encrypt table data",
+                "To compress storage space",
+                "To speed up data retrieval operations",
+                "To enforce foreign key constraints"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Indexes are data structures (like B-trees) created on columns to allow the database engine to find rows faster without scanning the entire table.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14139,
+            "question_text": "Which concurrency control problem occurs when two transactions read the same data and one updates it, leading to the first transaction's update being overwritten?",
+            "options": [
+                "Dirty Read",
+                "Unrepeatable Read",
+                "Lost Update",
+                "Phantom Read"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A lost update anomaly happens when concurrent transactions write data, causing one write to overwrite and destroy the other.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14140,
+            "question_text": "Which of the following data structures is typically used to implement recursion?",
+            "options": [
+                "Queue",
+                "Stack",
+                "Array",
+                "Graph"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Recursion relies on a call stack to keep track of active subroutines and local variables.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14141,
+            "question_text": "What is the primary function of a translator such as a compiler?",
+            "options": [
+                "To execute machine code directly",
+                "To convert high-level source code into machine code",
+                "To manage hardware resources",
+                "To design graphical user interfaces"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A compiler translates human-readable high-level programming language code into executable machine instructions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14142,
+            "question_text": "Which network topology connects all devices to a central hub or switch?",
+            "options": [
+                "Bus topology",
+                "Ring topology",
+                "Star topology",
+                "Mesh topology"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In a star topology, each device is connected independently to a central hub or switch.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

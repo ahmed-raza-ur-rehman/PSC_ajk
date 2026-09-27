@@ -1,0 +1,263 @@
+{
+    "category": "Abasyn University",
+    "name": "Business Aptitude",
+    "board": "abasyn-university",
+    "subject": "business-aptitude",
+    "url": "/abasyn-university/business-aptitude/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 18,
+    "questions": [
+        {
+            "id": 12620,
+            "question_text": "Which financial statement provides a snapshot of a company's assets, liabilities, and equity at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Cash Flow Statement",
+                "Balance Sheet",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Balance Sheet reflects the accounting equation (Assets = Liabilities + Equity) at a specific date.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12621,
+            "question_text": "What is the primary goal of 'branding' for a company?",
+            "options": [
+                "Reducing the cost of manufacturing goods",
+                "Creating a unique identity and perception in the minds of consumers",
+                "Hiring only the most expensive marketing consultants",
+                "Ensuring all products are sold at the same price"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Branding aims to differentiate a product or company from competitors to create brand loyalty and awareness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12622,
+            "question_text": "Which term describes the process of allocating resources to achieve organizational goals?",
+            "options": [
+                "Management",
+                "Accounting",
+                "Public Relations",
+                "Logistics"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Management involves planning, organizing, leading, and controlling resources to meet objectives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12623,
+            "question_text": "What does a 'SWOT' analysis evaluate?",
+            "options": [
+                "Sales, Wages, Operations, Taxes",
+                "Strengths, Weaknesses, Opportunities, Threats",
+                "Strategy, Workload, Output, Training",
+                "Staffing, Welfare, Organization, Targets"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SWOT analysis is a strategic planning tool used to identify internal and external factors affecting a business.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12624,
+            "question_text": "In economics, what is the 'law of supply and demand'?",
+            "options": [
+                "Prices are set solely by the government",
+                "Supply and demand are unrelated",
+                "Price is determined by the availability of a product and consumer interest",
+                "Companies must supply everything demanded by customers"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This fundamental economic principle explains how the interaction between supply and demand determines market price.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12625,
+            "question_text": "What is the primary function of a 'Cash Flow Statement'?",
+            "options": [
+                "To show how much money is sitting in the bank",
+                "To record the movement of cash into and out of a business",
+                "To calculate the total taxes owed by the company",
+                "To list the employees' salaries for the year"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The cash flow statement tracks the inflows and outflows of cash over a specific accounting period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12626,
+            "question_text": "Which management style is characterized by a leader who makes decisions without consulting their team?",
+            "options": [
+                "Democratic",
+                "Laissez-faire",
+                "Autocratic",
+                "Transformational"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An autocratic leader holds all decision-making power and rarely involves employees in the process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12627,
+            "question_text": "What is the purpose of 'Market Segmentation'?",
+            "options": [
+                "To reduce the number of employees in a company",
+                "To categorize customers into groups with similar characteristics",
+                "To eliminate competitors from the market",
+                "To increase the cost of advertising"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Segmentation helps businesses tailor their marketing strategies to meet the specific needs of different consumer groups.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12628,
+            "question_text": "What is 'Opportunity Cost'?",
+            "options": [
+                "The cost of buying raw materials",
+                "The value of the next best alternative foregone",
+                "The total revenue earned by a business",
+                "The taxes paid on business profits"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Opportunity cost represents the potential benefits an individual, investor, or business misses out on when choosing one alternative over another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12629,
+            "question_text": "What is the main purpose of a 'Balance Sheet'?",
+            "options": [
+                "To show profit and loss over a period",
+                "To show the financial position of a business at a point in time",
+                "To track daily employee attendance",
+                "To market products to potential customers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A balance sheet lists assets, liabilities, and equity, providing a 'snapshot' of what the company owns and owes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12630,
+            "question_text": "Which of these is NOT part of the 'Four Ps' of the Marketing Mix?",
+            "options": [
+                "Price",
+                "Promotion",
+                "Product",
+                "Profit"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Four Ps are Product, Price, Place, and Promotion. Profit is an outcome, not an element of the marketing mix.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12631,
+            "question_text": "What does 'Return on Investment' (ROI) measure?",
+            "options": [
+                "The total sales revenue generated",
+                "The efficiency of an investment relative to its cost",
+                "The number of employees hired by the firm",
+                "The total inventory held by the business"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ROI is a metric used to evaluate the efficiency of an investment or compare the efficiency of several different investments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12632,
+            "question_text": "In organizational structure, what does 'Span of Control' refer to?",
+            "options": [
+                "The number of subordinates a manager can efficiently supervise",
+                "The geographic reach of a company's sales",
+                "The number of departments in a company",
+                "The duration of a product life cycle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Span of control refers to the number of people a manager is responsible for directly overseeing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12633,
+            "question_text": "What is the primary objective of a 'Stakeholder' analysis?",
+            "options": [
+                "To determine who will pay the most for a product",
+                "To identify individuals or groups affected by a business's actions",
+                "To hire new board members",
+                "To increase the company's stock price"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A stakeholder analysis helps a company understand the interests and influence of various groups (employees, customers, community) to ensure better decision-making.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12634,
+            "question_text": "What is the concept of 'Economies of Scale'?",
+            "options": [
+                "Reducing costs by increasing production volume",
+                "The increase in costs when a company grows too fast",
+                "The government regulation of prices",
+                "The exchange rate between different currencies"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Economies of scale occur when the cost per unit decreases as the scale of output increases.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12635,
+            "question_text": "What is a 'Fixed Cost'?",
+            "options": [
+                "A cost that changes with the level of output",
+                "A cost that remains the same regardless of production level",
+                "A cost that is only incurred once a year",
+                "A cost associated with variable raw materials"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fixed costs (like rent or insurance) do not change as production volume fluctuates in the short term.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12636,
+            "question_text": "What is the purpose of 'Diversification' in business?",
+            "options": [
+                "To focus all resources on one product",
+                "To reduce risk by investing in a variety of assets or products",
+                "To minimize competition in the market",
+                "To increase the number of physical offices"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Diversification helps protect a company from market volatility by spreading investments across different areas.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12637,
+            "question_text": "Which leadership theory emphasizes that leaders adapt their style based on the readiness of their followers?",
+            "options": [
+                "Situational Leadership",
+                "Autocratic Leadership",
+                "Laissez-faire Leadership",
+                "Transformational Leadership"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Situational leadership suggests there is no single 'best' way to lead; instead, the style should change depending on the situation and the followers' competence and commitment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

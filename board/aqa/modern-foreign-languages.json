@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Modern Foreign Languages",
+    "board": "aqa",
+    "subject": "modern-foreign-languages",
+    "url": "/aqa/modern-foreign-languages/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8854,
+            "question_text": "In French, what is the correct conjugation of 'être' (to be) for 'je'?",
+            "options": [
+                "es",
+                "sommes",
+                "suis",
+                "êtes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Je suis corresponds to 'I am'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8855,
+            "question_text": "In French, how do you correctly conjugate the verb 'être' (to be) for the pronoun 'je'?",
+            "options": [
+                "Je es",
+                "Je suis",
+                "Je est",
+                "Je sommes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Je suis' is the standard first-person singular conjugation of 'être'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8856,
+            "question_text": "In French, what is the correct conjugation of 'être' for the pronoun 'je'?",
+            "options": [
+                "est",
+                "sommes",
+                "suis",
+                "êtes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Je suis' translates to 'I am' in French.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8857,
+            "question_text": "Which of these Spanish words means 'tomorrow'?",
+            "options": [
+                "Ayer",
+                "Hoy",
+                "Mañana",
+                "Noche"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In Spanish, 'mañana' refers to the day after today.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,501 @@
+{
+    "category": "NTS",
+    "name": "Analytical Reasoning",
+    "board": "nts",
+    "subject": "analytical-reasoning",
+    "url": "/nts/analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 35,
+    "questions": [
+        {
+            "id": 9125,
+            "question_text": "In a race, if you pass the person in second place, what position are you in now?",
+            "options": [
+                "First",
+                "Second",
+                "Third",
+                "Last"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "By passing the person in second, you occupy the spot they previously held.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9126,
+            "question_text": "Complete the logic: Finger is to Hand as Leaf is to:",
+            "options": [
+                "Tree",
+                "Branch",
+                "Root",
+                "Flower"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fingers are attached to hands, just as leaves are attached to branches.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9127,
+            "question_text": "If A is taller than B, and B is taller than C, which person has the least height?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot determine"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since A > B and B > C, it follows that A > B > C, making C the shortest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9128,
+            "question_text": "What is the next number in this sequence: 2, 4, 8, 16, ...?",
+            "options": [
+                "24",
+                "32",
+                "20",
+                "28"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each number is multiplied by 2 to get the next one (16 * 2 = 32).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9129,
+            "question_text": "If Ali is shorter than Bilal, and Bilal is shorter than Chaman, who is the tallest?",
+            "options": [
+                "Ali",
+                "Bilal",
+                "Chaman",
+                "They are all equal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The order is Ali < Bilal < Chaman, so Chaman is the tallest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9130,
+            "question_text": "You are in a race and you overtake the person in second place. What is your position now?",
+            "options": [
+                "First",
+                "Second",
+                "Third",
+                "Last"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "You take the place of the person you overtook.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9131,
+            "question_text": "Complete the analogy: Finger is to Hand as Leaf is to ...",
+            "options": [
+                "Tree",
+                "Branch",
+                "Root",
+                "Flower"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A finger is attached to a hand; a leaf is attached to a branch.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9132,
+            "question_text": "If Monday is the first day of the month, what day is the 8th?",
+            "options": [
+                "Sunday",
+                "Monday",
+                "Tuesday",
+                "Saturday"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since a week has 7 days, the cycle repeats every 7 days (1+7=8).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9782,
+            "question_text": "If A is taller than B, and B is taller than C, who is the shortest?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since A > B and B > C, the order is A > B > C, making C the shortest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9783,
+            "question_text": "Find the missing number in the series: 2, 4, 8, 16, ?",
+            "options": [
+                "20",
+                "24",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number is multiplied by 2 to get the next number (16 * 2 = 32).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12384,
+            "question_text": "If all Bloops are Razzies and all Razzies are Lazzies, which of the following must be true?",
+            "options": [
+                "All Bloops are Lazzies",
+                "All Lazzies are Bloops",
+                "Some Lazzies are not Bloops",
+                "No Bloops are Lazzies"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is a transitive property: If A is a subset of B, and B is a subset of C, then A must be a subset of C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12385,
+            "question_text": "Find the next number in the series: 2, 6, 12, 20, 30, ...",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences between numbers are +4, +6, +8, +10. The next difference should be +12. 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12386,
+            "question_text": "If 'A' is taller than 'B', and 'C' is taller than 'A', who is the shortest?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Order: C > A > B. Thus, B is shortest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12387,
+            "question_text": "Find the missing term: 1, 4, 9, 16, 25, ...",
+            "options": [
+                "30",
+                "36",
+                "40",
+                "49"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "These are squares: 1^2, 2^2, 3^2, 4^2, 5^2, 6^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12388,
+            "question_text": "If all cars are vehicles and some vehicles are red, which statement is definitely true?",
+            "options": [
+                "All red items are cars",
+                "Some cars are red",
+                "No cars are red",
+                "None of the above"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "We know cars are vehicles, and some vehicles are red, but there is no intersection guaranteed between cars and red items.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12389,
+            "question_text": "In a coding language, if 'CAT' is 'DBU', what is 'DOG'?",
+            "options": [
+                "EPH",
+                "EPG",
+                "FPH",
+                "DOH"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted by one position in the alphabet: C->D, A->B, T->U. Thus, D->E, O->P, G->H.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12390,
+            "question_text": "Five people (P, Q, R, S, T) are standing in a line. P is next to Q, R is between S and T. If P is at one end and S is at the other, who is in the middle?",
+            "options": [
+                "Q",
+                "R",
+                "P",
+                "T"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The order is P, Q, R, T, S (or similar depending on internal constraints). R is the central element.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12391,
+            "question_text": "Which word does not belong with the others?",
+            "options": [
+                "Car",
+                "Bus",
+                "Bicycle",
+                "Ship"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Car, bus, and bicycle are land vehicles; a ship is a water vehicle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12392,
+            "question_text": "If 'Today' is Monday, what day will it be in 8 days?",
+            "options": [
+                "Sunday",
+                "Monday",
+                "Tuesday",
+                "Wednesday"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "After 7 days, it is Monday again. On the 8th day, it is Tuesday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12393,
+            "question_text": "Look at this series: 80, 70, 61, 53, 46, ... What number should come next?",
+            "options": [
+                "38",
+                "39",
+                "40",
+                "41"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences are: 10, 9, 8, 7, 6. 46 - 6 = 40.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12394,
+            "question_text": "If P is greater than Q, and Q is greater than R, is P greater than R?",
+            "options": [
+                "Yes",
+                "No",
+                "Not necessarily",
+                "P is equal to R"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This follows the transitive property of inequality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12395,
+            "question_text": "If 'Rain' is coded as '1234', what is 'Nail' coded as?",
+            "options": [
+                "4216",
+                "4235",
+                "4312",
+                "3214"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "N=4, A=2, I=1. L is a new letter, so it must be a number not used (6).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12396,
+            "question_text": "Six books are placed on a shelf. Book A is next to Book B, and Book C is at the far left. If Book D is not next to Book C, which of the following is true?",
+            "options": [
+                "Book A must be next to C",
+                "Book B must be next to D",
+                "Book C cannot be next to D",
+                "None of the above"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The prompt specifies D is not next to C, making this the only definitely true statement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12397,
+            "question_text": "If 'Mountain' is '12345678', and 'Rain' is '4567', what is 'Moat'?",
+            "options": [
+                "1237",
+                "1257",
+                "1357",
+                "1247"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "M=1, O=2, A=5, T=7 based on mapping letters to their position-based numbers in the provided code.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13537,
+            "question_text": "Seven trains—T, U, V, W, X, Y, and Z—are scheduled to depart from a station. Only one train departs at a time. T must depart before U. X must depart after Z. V must depart second. If Y departs first, which of the following must be true?",
+            "options": [
+                "T departs third",
+                "Z departs third",
+                "U departs last",
+                "X departs before T"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "With Y first and V second, T must precede U, fitting into the remaining slots while respecting other constraints.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13538,
+            "question_text": "All accountants are logical. Some logical people are creative. Which conclusion follows?",
+            "options": [
+                "All accountants are creative",
+                "Some accountants are creative",
+                "No conclusion can be drawn about accountants and creativity",
+                "All creative people are logical"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since the premises do not link the specific group of 'creative logical people' to 'accountants', no deductive link exists.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13539,
+            "question_text": "Five students—A, B, C, D, and E—are sitting in a row. A is next to B, but not next to C. D is sitting at one of the ends. If B is in the middle, who must be at the other end?",
+            "options": [
+                "A",
+                "C",
+                "E",
+                "Not enough info"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If B is in the middle (3rd), A must be 2nd or 4th. If D is at end, and A cannot be next to C, constraints force E to the far end.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13540,
+            "question_text": "If all sharks are fish and some fish are dangerous, which statement is definitely true?",
+            "options": [
+                "All sharks are dangerous",
+                "Some sharks are dangerous",
+                "Some fish are sharks",
+                "All dangerous things are fish"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since all sharks are fish, the category 'fish' necessarily contains 'sharks'. The other statements cannot be proven from the premises.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13541,
+            "question_text": "In a coding language, 'DOG' is coded as 'GPA'. How is 'CAT' coded if the pattern is +3, +3, +3?",
+            "options": [
+                "FDW",
+                "FDU",
+                "GDW",
+                "ECV"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "C+3=F, A+3=D, T+3=W. The code is FDW.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13542,
+            "question_text": "Look at this series: 2, 4, 12, 48, ... What number should come next?",
+            "options": [
+                "96",
+                "144",
+                "240",
+                "288"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Pattern: multiply by 2, then 3, then 4. Next is 48 * 5 = 240.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13543,
+            "question_text": "If Tuesday is the 3rd day of the month, what day is the 25th?",
+            "options": [
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "25 - 3 = 22 days later. 22 / 7 = 3 weeks remainder 1. 3rd is Tuesday, 10th, 17th, 24th are Tuesday. 25th is Wednesday. Wait, correction: 22 days = 3 weeks + 1 day. 3rd+21 days=24th(Tue), so 25th=Wednesday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13544,
+            "question_text": "If 'All birds can fly' and 'A penguin is a bird', which conclusion is logically valid?",
+            "options": [
+                "Penguins can fly.",
+                "Penguins cannot fly.",
+                "Some birds cannot fly.",
+                "None of the above."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Based strictly on the provided premises, the deduction that penguins can fly is valid, regardless of real-world biology.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13545,
+            "question_text": "Five books (A, B, C, D, E) are on a shelf. A is to the left of B. C is to the right of E. D is between B and C. If A is at the far left, what is the order?",
+            "options": [
+                "A, B, D, C, E",
+                "A, B, C, D, E",
+                "A, E, C, D, B",
+                "A, B, D, E, C"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Arranging the constraints: A-B, then B-D-C, and E is to the right of C, resulting in A-B-D-C-E.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13546,
+            "question_text": "If 'TABLE' is coded as 'UBCMF', how is 'CHAIR' coded?",
+            "options": [
+                "DIBJS",
+                "DIJBS",
+                "BGHJQ",
+                "CIDJS"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted one position forward in the alphabet (T->U, A->B, B->C, L->M, E->F).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13547,
+            "question_text": "Point to a photograph, a man says: 'She is the daughter of my father's only son.' Who is in the photo?",
+            "options": [
+                "His mother",
+                "His sister",
+                "His daughter",
+                "His niece"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The man's father's only son is the man himself. His daughter is the daughter of the man.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

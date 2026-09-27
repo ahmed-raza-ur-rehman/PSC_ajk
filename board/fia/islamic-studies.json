@@ -1,0 +1,109 @@
+{
+    "category": "FIA",
+    "name": "Islamic Studies",
+    "board": "fia",
+    "subject": "islamic-studies",
+    "url": "/fia/islamic-studies/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 1619,
+            "question_text": "Which event is generally considered the turning point (Milestone) in the life of Prophet Muhammad (PBUH) that marked the beginning of the Islamic calendar (AH)?",
+            "options": [
+                "The receiving of the first revelation (Surah Al-Alaq) in the Cave Hira",
+                "The Hijra (Migration) from Makkah to Madinah",
+                "The conquest of Makkah (Fathu Makkah)",
+                "The establishment of the first Islamic community (Ummah) in Madinah"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Hijra marked the migration to Madinah, leading to the start of the Islamic calendar in 622 CE.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1620,
+            "question_text": "During which period did Prophet Muhammad (PBUH) focus primarily on developing the social and political structure of the nascent Muslim community in Madinah?",
+            "options": [
+                "The early years after the Hijra (establishing the Constitution of Madinah)",
+                "The period of revelation in Makkah (before Hijra)",
+                "The Farewell Pilgrimage (Hajjatul Wada')",
+                "The expeditions (Ghazwah) against hostile tribes"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The early years in Madinah involved crafting the Constitution of Madinah (Sahifat al-Madinah) to establish societal order and rights.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1621,
+            "question_text": "Which pillar of Islam mandates the giving of a fixed portion of one's wealth to the needy, and is considered a purification of wealth?",
+            "options": [
+                "Sawm",
+                "Shahada",
+                "Zakat",
+                "Hajj"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Zakat is the mandatory charity calculated on accumulated wealth, ensuring socio-economic balance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1921,
+            "question_text": "Which significant event during Prophet Muhammad's (PBUH) early life marks his reputation as a man of honesty and trust?",
+            "options": [
+                "Being entrusted with the management of the Kaaba keys.",
+                "Successfully mediating a dispute between tribal leaders.",
+                "His involvement in the trade caravan to Syria.",
+                "Passing the test of sacrifice during the Kaaba's rebuilding."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "His honesty and trustworthy character earned him the title 'Al-Amin' (The Trustworthy), which was evident during his trade journeys.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2172,
+            "question_text": "If a person is physically unable to perform the Hajj journey, what is the acceptable alternative prescribed by Islamic law?",
+            "options": [
+                "Making a formal pledge (Nazar) to pray extra prayers",
+                "Fasting the Hajj month",
+                "Performing Umrah instead",
+                "Offering a compensatory sacrifice (Fidya)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Compensation (Fidya) through sacrifice or fasting is required for those who cannot physically complete the Hajj due to genuine inability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3043,
+            "question_text": "Which pillar of Islam mandates the annual payment of a fixed sum of money on the shoulders of ability, calculated from accumulated wealth?",
+            "options": [
+                "Sawm",
+                "Zakat",
+                "Hajj",
+                "Salah"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Zakat is the obligatory charity paid on wealth that has reached a minimum threshold (Nisab) and has been held for a specific time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6126,
+            "question_text": "Which event marked the beginning of Prophet Muhammad's (PBUH) prophetic mission (Nubuwwat) and divine revelation?",
+            "options": [
+                "The marriage to Khadijah bint Khuwaylid.",
+                "The migration (Hijra) to Madinah.",
+                "The construction of the Kaaba in the pre-Islamic era.",
+                "The revelation of the first verses of Surah Al-Alaq in the Cave Hira."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The start of the prophethood occurred in the Cave Hira when the first divine revelation (Iqra) was received.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

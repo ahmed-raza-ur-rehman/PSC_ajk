@@ -1,0 +1,277 @@
+{
+    "category": "Ministry of Education of the People's Republic of China",
+    "name": "Comprehensive Humanities",
+    "board": "ministry-of-education-of-the-people-s-republic-of-china",
+    "subject": "comprehensive-humanities",
+    "url": "/ministry-of-education-of-the-people-s-republic-of-china/comprehensive-humanities/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 19,
+    "questions": [
+        {
+            "id": 9009,
+            "question_text": "Which historical event is widely considered the beginning of the French Revolution in 1789?",
+            "options": [
+                "The signing of the Magna Carta",
+                "The Storming of the Bastille",
+                "The Battle of Waterloo",
+                "The Declaration of Independence"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Storming of the Bastille on July 14, 1789, is the symbolic start of the French Revolution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9010,
+            "question_text": "Which country hosted the first modern Olympic Games in 1896?",
+            "options": [
+                "France",
+                "United Kingdom",
+                "Greece",
+                "USA"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The first modern Olympic Games were held in Athens, Greece, in 1896.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9011,
+            "question_text": "What is the main purpose of the United Nations?",
+            "options": [
+                "International trade",
+                "Global peace and security",
+                "Space exploration",
+                "Sports regulation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The UN was founded primarily to maintain international peace and security.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9012,
+            "question_text": "Which philosophy emphasizes living in harmony with the 'Dao' or 'The Way'?",
+            "options": [
+                "Confucianism",
+                "Daoism",
+                "Buddhism",
+                "Legalism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Daoism (Taoism) centers on following the natural flow of the universe.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9013,
+            "question_text": "What was the result of the Berlin Conference of 1884-1885?",
+            "options": [
+                "Partition of Africa",
+                "Independence of India",
+                "End of the Cold War",
+                "Formation of the European Union"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Berlin Conference regulated European colonization and trade in Africa.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9014,
+            "question_text": "Which economic system is based on private ownership of capital goods?",
+            "options": [
+                "Socialism",
+                "Communism",
+                "Capitalism",
+                "Feudalism"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Capitalism is characterized by private ownership and operation for profit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9015,
+            "question_text": "Which civilization is credited with the invention of the earliest known writing system?",
+            "options": [
+                "Ancient Egypt",
+                "Ancient Greece",
+                "Mesopotamia",
+                "Indus Valley"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Cuneiform, developed in Mesopotamia, is considered one of the earliest systems of writing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9016,
+            "question_text": "What does the economic term 'inflation' primarily refer to?",
+            "options": [
+                "A rise in unemployment",
+                "A general increase in price levels",
+                "A decrease in government spending",
+                "An increase in gold reserves"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inflation is the rate at which the general level of prices for goods and services is rising.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9017,
+            "question_text": "Which treaty ended the First World War?",
+            "options": [
+                "Treaty of Versailles",
+                "Treaty of Paris",
+                "Treaty of Ghent",
+                "Treaty of Rome"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Treaty of Versailles was signed in 1919 to officially end the state of war between Germany and the Allied Powers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9018,
+            "question_text": "Which event is historically considered the start of the French Revolution?",
+            "options": [
+                "The Reign of Terror",
+                "The Storming of the Bastille",
+                "The Execution of Louis XVI",
+                "The Napoleonic Wars"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The storming of the Bastille on July 14, 1789, is the symbolic beginning of the French Revolution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9019,
+            "question_text": "In which city were the first modern Olympic Games held?",
+            "options": [
+                "Paris",
+                "London",
+                "Athens",
+                "Rome"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The first modern Olympic Games took place in Athens, Greece, in 1896.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9020,
+            "question_text": "What is the primary function of the United Nations?",
+            "options": [
+                "To trade goods",
+                "To maintain international peace",
+                "To control global banks",
+                "To manage individual countries"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The UN was founded in 1945 to promote international cooperation and maintain peace and security.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9021,
+            "question_text": "Which ancient philosophy focuses on harmony with 'The Way' (Dao)?",
+            "options": [
+                "Confucianism",
+                "Taoism",
+                "Legalism",
+                "Buddhism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Taoism centers on living in accord with the Dao, the natural flow of the universe.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9022,
+            "question_text": "What was a major outcome of the Berlin Conference of 1884-1885?",
+            "options": [
+                "The independence of India",
+                "The 'Scramble for Africa'",
+                "The end of the Cold War",
+                "The creation of the EU"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Berlin Conference regulated European colonization and trade in Africa, triggering the 'Scramble for Africa'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9023,
+            "question_text": "Which system is characterized by private ownership of capital goods?",
+            "options": [
+                "Socialism",
+                "Communism",
+                "Capitalism",
+                "Feudalism"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Capitalism is an economic system based on private ownership of the means of production and their operation for profit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9024,
+            "question_text": "Which civilization developed the earliest known writing system?",
+            "options": [
+                "Ancient Egypt",
+                "Mesopotamia (Sumerians)",
+                "Ancient China",
+                "Indus Valley"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Sumerians in Mesopotamia are credited with developing the first writing system, called cuneiform.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9025,
+            "question_text": "What does the term 'inflation' mean in economics?",
+            "options": [
+                "A decrease in total debt",
+                "A rise in the price of goods",
+                "An increase in production speed",
+                "A drop in unemployment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inflation is the rate at which the general level of prices for goods and services is rising.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9026,
+            "question_text": "Which treaty ended World War I?",
+            "options": [
+                "Treaty of Versailles",
+                "Treaty of Paris",
+                "Treaty of Ghent",
+                "Treaty of Rome"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Treaty of Versailles was signed in 1919 and formally ended the state of war between Germany and the Allied Powers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9027,
+            "question_text": "What was the main purpose of the Silk Road?",
+            "options": [
+                "Religious pilgrimage",
+                "Military invasion",
+                "Trade and cultural exchange",
+                "Oceanic navigation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Silk Road was a network of routes that connected the East and West for trade and exchange of ideas.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

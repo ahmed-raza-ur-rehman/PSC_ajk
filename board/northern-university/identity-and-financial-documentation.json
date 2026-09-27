@@ -1,0 +1,179 @@
+{
+    "category": "Northern University",
+    "name": "Identity and Financial Documentation",
+    "board": "northern-university",
+    "subject": "identity-and-financial-documentation",
+    "url": "/northern-university/identity-and-financial-documentation/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 11327,
+            "question_text": "Why must identity documents show an expiration date that is current?",
+            "options": [
+                "To ensure the student pays the government fees",
+                "To verify the validity and current legal status of the document",
+                "To check if the student is a minor",
+                "To see the student's hair color"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An expired identity document is not considered a reliable source of verification for legal and financial processing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11369,
+            "question_text": "Why must identity documents, such as a government-issued ID or passport, be provided alongside financial forms?",
+            "options": [
+                "To verify the student's residency status and prevent fraudulent applications",
+                "To assign the student a campus parking permit",
+                "To check if the student has a criminal record",
+                "To determine the student's eligibility for local library access"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Institutional integrity requires confirming that applicants are who they claim to be and meet legal requirements for financial aid distribution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11370,
+            "question_text": "What is the importance of ensuring all financial documents (e.g., W-2s, 1040 forms) are signed and dated correctly?",
+            "options": [
+                "It is a legal requirement for the verification process to ensure accuracy and authenticity",
+                "It allows the university to sell the data to third-party lenders",
+                "It determines the student's major of study",
+                "It acts as a substitute for the student's signature on the enrollment contract"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Unsigned documents are technically incomplete and legally invalid, which will stall or terminate the processing of a financial aid application.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11371,
+            "question_text": "What is the primary purpose of requesting secondary proof of identity (like a birth certificate or passport) alongside financial forms?",
+            "options": [
+                "To verify age for social security",
+                "To prevent identity fraud and ensure the applicant is who they claim to be",
+                "To confirm the student's gender for demographics",
+                "To check if the student has a criminal record"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Financial aid involves sensitive data; cross-referencing identity documents is a standard security protocol to ensure the integrity of the fund allocation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11372,
+            "question_text": "Why must tax documents submitted for financial aid show a 'wet' or verifiable electronic signature?",
+            "options": [
+                "To make the paperwork look official",
+                "To legally validate that the provided financial data is accurate and authorized",
+                "To ensure the paper is heavy enough for filing",
+                "To test the student's attention to detail"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Financial documents are legal declarations; without a signature, they are considered incomplete or unauthorized, which can delay or invalidate aid.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11373,
+            "question_text": "If a student is required to provide 'Verification of Non-Filing' (VNF), what does this represent?",
+            "options": [
+                "Proof that the student is not a citizen",
+                "A document from the IRS showing no tax return was filed for that year",
+                "A document showing the student was rejected by the university",
+                "A list of items not filed in the application"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The VNF is a specific IRS document requested to confirm that an individual did not earn enough to be required to file a tax return.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11374,
+            "question_text": "Why does Northern University require that all financial documents are submitted as high-quality, readable scans?",
+            "options": [
+                "To test the student's computer skills",
+                "To ensure that tax figures and signatures can be verified for accuracy",
+                "To save space on their server",
+                "To discourage students from applying"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Legibility is crucial because any discrepancy in the data, due to a bad scan, can trigger an audit or rejection of the application.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11375,
+            "question_text": "What is a 'Verification of Non-Filing' (VNF) letter?",
+            "options": [
+                "A tax form for students who earn over $100,000",
+                "Official documentation from the IRS stating that an individual did not file a tax return",
+                "A document that proves a student is a dependent",
+                "A waiver to opt out of the financial aid process"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The VNF is a standard requirement for parents or independent students who have no taxable income and are not legally required to file taxes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11376,
+            "question_text": "What is the danger of submitting documents that are password protected or encrypted?",
+            "options": [
+                "The committee cannot access them, leading to an incomplete application status",
+                "The student will be charged a fine",
+                "The committee will report the student to the police",
+                "It automatically increases the amount of aid"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "University systems usually lack the ability to handle encrypted user files, meaning password-protected documents will remain unread.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11377,
+            "question_text": "If a student finds a discrepancy between their tax forms and the financial aid application, what is the best step?",
+            "options": [
+                "Ignore it, the committee won't notice",
+                "Contact the Financial Aid Office immediately to submit a correction",
+                "Delete the application and start over",
+                "Submit a second set of documents with different numbers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Honesty and prompt communication are critical; errors are often correctable if reported by the student before a formal audit occurs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11378,
+            "question_text": "Why are 'signed and dated' tax forms strictly enforced?",
+            "options": [
+                "It is a legal requirement for the verification of the authenticity of the information provided",
+                "It is just a stylistic preference of Northern University",
+                "It helps the university track the date of submission",
+                "It proves the student actually owns a pen"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The signature confirms that the individual attests to the accuracy of the financial information, serving as a binding verification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11379,
+            "question_text": "Which of the following is considered an invalid form of identity documentation?",
+            "options": [
+                "A current Passport",
+                "A expired driver's license from five years ago",
+                "A government-issued birth certificate",
+                "A current government-issued state identification card"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Identity verification requires current and valid documentation; expired documents do not meet the criteria for identity confirmation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

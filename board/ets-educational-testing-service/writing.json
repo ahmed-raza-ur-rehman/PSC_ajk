@@ -1,0 +1,137 @@
+{
+    "category": "ETS (Educational Testing Service)",
+    "name": "Writing",
+    "board": "ets-educational-testing-service",
+    "subject": "writing",
+    "url": "/ets-educational-testing-service/writing/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 9396,
+            "question_text": "Which of these is a task included in the TOEFL iBT Writing section?",
+            "options": [
+                "Listening to a lecture and summarizing it.",
+                "Writing for an academic discussion.",
+                "Repeating words heard on a recording.",
+                "Reading a passage and answering multiple-choice questions."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test structure table explicitly identifies 'Write for an Academic Discussion' as a task in the Writing section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9397,
+            "question_text": "What is true regarding the use of writing assistance software during the TOEFL iBT test?",
+            "options": [
+                "It is encouraged to improve score accuracy.",
+                "It is permitted only in the home edition.",
+                "It is strictly not allowed.",
+                "It is allowed if the test taker has a disability."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The FAQs explicitly state that writing assistance software is not permitted during the TOEFL iBT test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9398,
+            "question_text": "Which of the following is a task included in the Writing section?",
+            "options": [
+                "Writing a poem",
+                "Writing an email",
+                "Writing a book report",
+                "Writing a computer program"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Writing an email is explicitly listed as a task type for the TOEFL iBT Writing section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9399,
+            "question_text": "What does the 'Write for an Academic Discussion' task involve?",
+            "options": [
+                "Copying an existing essay",
+                "Writing your perspective on a class discussion topic",
+                "Reviewing a textbook",
+                "Summarizing a fictional novel"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This task assesses your ability to engage in academic discourse and express ideas clearly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9400,
+            "question_text": "What is the rule regarding 'writing assistance software' during the test?",
+            "options": [
+                "It is encouraged for grammar",
+                "It is optional",
+                "It is not permitted",
+                "It is only allowed for the Speaking section"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The use of writing assistance software is strictly prohibited during the test to ensure fair assessment of language skills.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9401,
+            "question_text": "How many items are typically in the Writing section?",
+            "options": [
+                "12",
+                "50",
+                "5",
+                "1"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "According to the test overview, there are 12 items listed for the Writing section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9402,
+            "question_text": "What should a test taker focus on in the Writing section?",
+            "options": [
+                "The length of the response above all else",
+                "Using complex, memorized scripts",
+                "Clear, accurate English communication",
+                "Adding as many fancy fonts as possible"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The test measures real academic skills, so clear and accurate communication is the primary goal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9403,
+            "question_text": "Which task is included in the TOEFL iBT Writing section?",
+            "options": [
+                "Building a sentence",
+                "Solving logic puzzles",
+                "Singing a song",
+                "Writing a fictional short story"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Writing section includes tasks such as building sentences, writing emails, and writing for academic discussion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9404,
+            "question_text": "What is the policy on 'writing assistance software' like grammar checkers during the test?",
+            "options": [
+                "It is permitted if you are using a home laptop",
+                "It is not permitted at any time",
+                "It is only allowed for the email task",
+                "It is provided by the test center"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test measures your own writing abilities, so external assistance tools are prohibited.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

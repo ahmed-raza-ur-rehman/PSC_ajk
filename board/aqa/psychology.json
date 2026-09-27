@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Psychology",
+    "board": "aqa",
+    "subject": "psychology",
+    "url": "/aqa/psychology/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8866,
+            "question_text": "Which type of memory holds information for a very short duration, typically less than 30 seconds?",
+            "options": [
+                "Long-term memory",
+                "Sensory memory",
+                "Short-term memory",
+                "Procedural memory"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Short-term memory stores small amounts of information for a brief period before it is either encoded into long-term memory or lost.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8867,
+            "question_text": "Which type of memory keeps information for a very short duration, usually under 30 seconds?",
+            "options": [
+                "Long-term memory",
+                "Sensory memory",
+                "Short-term memory",
+                "Procedural memory"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Short-term memory acts as a temporary store for information that lasts only for a short time unless rehearsed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8868,
+            "question_text": "Which type of memory holds information for less than 30 seconds?",
+            "options": [
+                "Long-term memory",
+                "Sensory memory",
+                "Short-term memory",
+                "Flashbulb memory"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Short-term memory stores small amounts of information for brief durations, typically under 30 seconds without rehearsal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8869,
+            "question_text": "What is the 'nature vs. nurture' debate about?",
+            "options": [
+                "Whether people prefer nature or city life",
+                "The impact of genetic inheritance vs. environmental factors on behavior",
+                "Whether animals have feelings",
+                "The study of sleep cycles"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This debate explores the relative importance of biological factors (nature) versus upbringing (nurture) in shaping personality and behavior.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

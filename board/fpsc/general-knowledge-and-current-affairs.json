@@ -1,0 +1,193 @@
+{
+    "category": "FPSC",
+    "name": "General Knowledge and Current Affairs",
+    "board": "fpsc",
+    "subject": "general-knowledge-and-current-affairs",
+    "url": "/fpsc/general-knowledge-and-current-affairs/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 9649,
+            "question_text": "Which gas do plants primarily absorb from the atmosphere for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plants take in carbon dioxide and water to produce glucose and oxygen via photosynthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9666,
+            "question_text": "Which city is known as the capital of Pakistan?",
+            "options": [
+                "Lahore",
+                "Karachi",
+                "Islamabad",
+                "Rawalpindi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Islamabad became the official capital city of Pakistan in the 1960s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9667,
+            "question_text": "The Federal Public Service Commission (FPSC) headquarters is located in which city?",
+            "options": [
+                "Lahore",
+                "Karachi",
+                "Peshawar",
+                "Islamabad"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The official address and main office of the Federal Public Service Commission is in Islamabad.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9668,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars is referred to as the Red Planet due to the iron oxide prevalent on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9669,
+            "question_text": "Who is considered the founder of the modern computer?",
+            "options": [
+                "Albert Einstein",
+                "Charles Babbage",
+                "Isaac Newton",
+                "Nikola Tesla"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Charles Babbage is often referred to as the father of the computer for his design of the Analytical Engine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9670,
+            "question_text": "What is the largest ocean on Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Pacific Ocean"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9671,
+            "question_text": "Which country is the largest by land area?",
+            "options": [
+                "China",
+                "USA",
+                "Russia",
+                "Canada"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Russia is the largest country in the world by total land area.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9672,
+            "question_text": "Which city is the administrative capital of Pakistan?",
+            "options": [
+                "Karachi",
+                "Lahore",
+                "Islamabad",
+                "Rawalpindi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Islamabad has been the official capital of Pakistan since the 1960s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9673,
+            "question_text": "Which is known as the 'Red Planet' in our solar system?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars appears red due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9674,
+            "question_text": "What is the largest ocean on the planet Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Pacific Ocean",
+                "Arctic Ocean"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9675,
+            "question_text": "Which country occupies the largest total land area in the world?",
+            "options": [
+                "Canada",
+                "China",
+                "USA",
+                "Russia"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Russia is the largest country by surface area, covering both Europe and Asia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9676,
+            "question_text": "Who is widely recognized as the inventor of the first mechanical computer?",
+            "options": [
+                "Alan Turing",
+                "Charles Babbage",
+                "Steve Jobs",
+                "Bill Gates"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Charles Babbage is often referred to as the 'father of the computer' for his concepts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9677,
+            "question_text": "Which gas is primarily absorbed by plants for the process of photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plants use carbon dioxide, water, and sunlight to produce glucose and oxygen.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

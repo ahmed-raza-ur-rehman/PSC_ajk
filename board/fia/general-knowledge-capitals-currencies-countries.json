@@ -1,0 +1,585 @@
+{
+    "category": "FIA",
+    "name": "General Knowledge — Capitals, Currencies & Countries",
+    "board": "fia",
+    "subject": "general-knowledge-capitals-currencies-countries",
+    "url": "/fia/general-knowledge-capitals-currencies-countries/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 41,
+    "questions": [
+        {
+            "id": 1068,
+            "question_text": "The 'Silk Road Economic Belt' (SREB) is a multinational infrastructural initiative primarily intended to boost trade and connectivity between which major geographical regions?",
+            "options": [
+                "Central Asia, China, and the Middle East",
+                "East Asia, Japan, and Southeast Asia",
+                "Europe, North Africa, and the Balkans",
+                "South America, Brazil, and Argentina"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SREB is a key element of China's Belt and Road Initiative (BRI), linking China's economy through Central Asian corridor to the Middle East and beyond, reviving historical trade routes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1069,
+            "question_text": "If a computer is experiencing frequent data loss or corruption due to power fluctuations, which piece of hardware needs immediate upgrade or replacement to ensure data integrity?",
+            "options": [
+                "Optical Drive",
+                "Printer Cartridge",
+                "Uninterruptible Power Supply (UPS)",
+                "Monitor Cable"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A UPS provides temporary battery power during outages, protecting the system and connected hardware from sudden power loss which causes data corruption.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1070,
+            "question_text": "Which component is responsible for temporarily storing data that the CPU is currently processing, and is the fastest memory accessible to the processor?",
+            "options": [
+                "RAM (Random Access Memory)",
+                "ROM (Read-Only Memory)",
+                "Cache Memory",
+                "Hard Disk Drive (HDD)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Cache Memory is a small, high-speed memory located near or on the CPU chip itself, used to store frequently accessed instructions and data, making it faster than main RAM.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1168,
+            "question_text": "Which global initiative, primarily aimed at combating climate change and promoting sustainable development, was adopted at the Rio Earth Summit and later formalized into the 2030 Agenda for Sustainable Development?",
+            "options": [
+                "Agenda 21",
+                "Paris Agreement",
+                "Sustainable Development Goals (SDGs)",
+                "Kyoto Protocol"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The SDGs are the comprehensive 17 goals adopted following the 2015 Sustainable Development Summit, encompassing broader goals beyond the scope of the Paris Agreement (which focuses on climate). (Note: While the Paris Agreement is critical, the SDGs are the overarching framework.)",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1268,
+            "question_text": "Among the following Pakistani personalities, who is widely recognized for his pioneering contributions to modern Islamic economic thought and jurisprudence?",
+            "options": [
+                "Maulana Abul A'la Maududi",
+                "Dr. Muhammad Iqbal Khan",
+                "Allama Muhammad Iqbal",
+                "Maulana Abdul Qayyum Khan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Allama Muhammad Iqbal, while famous for poetry, made profound philosophical and intellectual critiques that significantly shaped modern Islamic economic and political thought. (Distractor B is more associated with Deobandi theology, and C and D are general/less relevant figures in this specific domain.)",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1478,
+            "question_text": "Who is credited with founding the modern concept of 'Comparative Study of Islamic Jurisprudence' (Usul al-Fiqh) as a systematic academic discipline, influencing later reform movements?",
+            "options": [
+                "Imam Abu Yusuf",
+                "Imam Abu Hanifa",
+                "Imam Muhammad al-Shaybani",
+                "Imam Malik bin Anas"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "While the Four Imams are foundational, Imam Muhammad al-Shaybani is often associated with systematizing and expanding the theoretical framework of Usul al-Fiqh into a comprehensive academic study.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1578,
+            "question_text": "The 'Booker Prize' for Fiction, which celebrates literature that raises awareness of global humanitarian issues, is often associated with advocacy and social justice themes. Which prominent Pakistani literary figure is known for receiving international recognition related to human rights or social commentary?",
+            "options": [
+                "Bano Qudsia",
+                "Nabeel Qureshi",
+                "Hasrat Mohani",
+                "Manto"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While Manto is globally recognized, his short stories frequently deal with social decay, moral ambiguity, and human suffering, echoing the themes of Booker-style international literature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1579,
+            "question_text": "Which type of memory provides volatile storage, meaning its data is lost when the power is turned off?",
+            "options": [
+                "ROM",
+                "Hard Disk Drive (HDD)",
+                "Solid State Drive (SSD)",
+                "RAM"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "RAM is volatile memory used for temporary storage of data and running programs, unlike ROM or permanent storage devices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1678,
+            "question_text": "In the context of Pakistani history and literary contributions, which personality is most associated with the modern revival of Urdu poetry and its critical analysis?",
+            "options": [
+                "Ahmad Faraz",
+                "Jigar Moradabadi",
+                "Faiz Ahmed Faiz",
+                "Mir Taqi Mir"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "While Faiz is known for poetry, his revolutionary writings and critical social commentary established him as a major voice in modern intellectual thought and literary revival.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1778,
+            "question_text": "The award given for exceptional contributions to the field of environmental science and global sustainability, often recognized by prominent academic bodies, is typically associated with which international honor?",
+            "options": [
+                "The Nobel Peace Prize",
+                "The Kyoto Prize",
+                "The Stockholm Environment Council Medal",
+                "The Pulitzer Prize for Journalism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Kyoto Prize, established by the Japan Academy for Sciences, specifically honors those who contribute to the sustainability of human civilization and the environment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1779,
+            "question_text": "Operating systems like Windows, Linux, and macOS primarily function to:",
+            "options": [
+                "Manage and coordinate the hardware and software resources of the computer.",
+                "Convert human language directly into machine code.",
+                "Permanently store all user data and application programs.",
+                "Execute complex graphical rendering tasks for games."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The OS acts as an intermediary, providing a platform for applications to interact with the computer's hardware.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1780,
+            "question_text": "Which component is responsible for executing instructions and performing all arithmetic, logic, and control functions within a computer system?",
+            "options": [
+                "Central Processing Unit (CPU)",
+                "Random Access Memory (RAM)",
+                "Motherboard",
+                "Solid State Drive (SSD)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The CPU is the 'brain' of the computer, performing operations specified by the stored program instructions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1878,
+            "question_text": "The concept of 'Islamic Golden Age' cultural renaissance, which heavily influenced modern scientific thought, is most directly attributed to the scholars of which historical civilization?",
+            "options": [
+                "The Ottoman Empire",
+                "The Abbasid Caliphate",
+                "The Fatimid Caliphate",
+                "The Umayyad Dynasty"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Abbasid Caliphate, particularly during the establishment of 'Bayt al-Hikma' (House of Wisdom) in Baghdad, is widely recognized as the zenith of the Islamic Golden Age scholarly period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1879,
+            "question_text": "Which type of memory is volatile and loses its stored data when the power supply is removed, making it ideal for temporary data storage during program execution?",
+            "options": [
+                "Cache Memory",
+                "Hard Disk",
+                "ROM",
+                "RAM"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "RAM (Random Access Memory) is volatile memory used to temporarily hold data that the CPU is actively processing. ROM is non-volatile.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1979,
+            "question_text": "The Nobel Prize in Economics (Sveriges Riksbank Prize) is unique among Nobel Prizes because it was established and awarded by:",
+            "options": [
+                "The International Monetary Fund (IMF)",
+                "The World Bank Group (WBG)",
+                "The Bank of Sweden (Sveriges Riksbank)",
+                "The United Nations Economic Commission for Europe (UNECE)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Unlike other Nobel Prizes, the prize for economics is awarded by the Swedish Academy, but the prize money and institution are linked to the Bank of Sweden.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1981,
+            "question_text": "In the context of hardware components, what is the primary function of the Control Unit (CU) within the CPU?",
+            "options": [
+                "Storing the operating system and frequently accessed instructions.",
+                "Performing all the arithmetic and logical operations (ALU).",
+                "Managing permanent storage and retrieval of large datasets.",
+                "Directing and coordinating the flow of data between components."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Control Unit manages and coordinates all activities within the CPU, generating timing and control signals to ensure smooth operation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2301,
+            "question_text": "In the context of operating systems, what is the primary function of 'memory management'?",
+            "options": [
+                "To secure the computer against unauthorized external access.",
+                "To allocate and deallocate main memory space to different processes.",
+                "To convert high-level programming language code into machine code.",
+                "To manage the flow of data between peripherals and the CPU."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Memory management ensures that different running programs (processes) can share the limited RAM efficiently without interfering with each other.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2351,
+            "question_text": "What is the primary function of an Operating System (OS) like Windows or Linux?",
+            "options": [
+                "To permanently store user files and application data.",
+                "To connect the computer to the internet via Ethernet cable.",
+                "To act as an intermediary between hardware and application software.",
+                "To directly perform complex mathematical calculations for end-users."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The OS manages computer hardware resources and provides a platform for applications to run smoothly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2561,
+            "question_text": "Which component is primarily responsible for executing instructions and performing arithmetic and logical operations within a computer system?",
+            "options": [
+                "Motherboard Chipset",
+                "Graphics Processing Unit (GPU)",
+                "Random Access Memory (RAM)",
+                "Central Processing Unit (CPU)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The CPU contains the ALU and CU, which are the core units for processing instructions and calculations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2661,
+            "question_text": "Which component is primarily responsible for executing instructions and performing calculations within a computer system?",
+            "options": [
+                "Central Processing Unit (CPU)",
+                "Read-Only Memory (ROM)",
+                "Random Access Memory (RAM)",
+                "Motherboard"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The CPU contains the ALU and Control Unit, which are responsible for all data processing and instruction execution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2871,
+            "question_text": "Which component is responsible for temporarily holding data and instructions that the CPU is currently processing, allowing for rapid access and increased processing speed?",
+            "options": [
+                "RAM (Random Access Memory)",
+                "Cache Memory",
+                "Hard Disk Drive (HDD)",
+                "ROM (Read-Only Memory)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cache memory is the fastest and smallest type of memory, used to store data the CPU needs immediately for quick retrieval.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2972,
+            "question_text": "Which component is primarily responsible for executing instructions and performing calculations in a computer system?",
+            "options": [
+                "Graphics Processing Unit (GPU)",
+                "Random Access Memory (RAM)",
+                "Central Processing Unit (CPU)",
+                "Motherboard"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The CPU acts as the 'brain' of the computer, executing all instructions and arithmetic/logic operations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3742,
+            "question_text": "What does the acronym 'OS' represent in the context of computer fundamentals?",
+            "options": [
+                "Optimized Storage",
+                "Open Source",
+                "Output Setup",
+                "Operating System"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "An Operating System (OS) is system software that manages computer hardware and provides a platform for application software to run.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5917,
+            "question_text": "Consider the following pairings of Pakistani historical figures and the associated awards/titles they received: 1. Allama Iqbal: Poet-Philosopher; 2. Muhammad Ali Jinnah: Quaid-e-Azam; 3. Liaquat Ali Khan: Beacon of Pakistan. Which of the above pairings are correctly matched?",
+            "options": [
+                "1 only",
+                "1 and 2 only",
+                "2 and 3 only",
+                "All are correctly matched"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Allama Iqbal is famously known as the Poet-Philosopher. Liaquat Ali Khan was titled 'Nawab of Pakistan' or 'Second Founder', not specifically 'Beacon of Pakistan'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6017,
+            "question_text": "The 'Nobel Peace Prize' recipient following the 2017 Nobel Peace Prize ceremony was recognized for his efforts in promoting constitutional reform and democracy in which country?",
+            "options": [
+                "Iran",
+                "Venezuela",
+                "Myanmar",
+                "Belarus"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 2017 Nobel Peace Prize was awarded to Aung San Suu Kyi (or, in the context of the options, the effort related to Myanmar's democratic struggle), acknowledging efforts for peace and democracy in the region.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6098,
+            "question_text": "The recent World Economic Forum (WEF) summit held in Davos focused heavily on which emerging global geopolitical challenge, prompting new collaborative governance models?",
+            "options": [
+                "The integration of AI ethics into global labor markets",
+                "Mitigating the impact of transboundary climate change effects",
+                "Standardizing global digital currency exchange rates",
+                "Addressing the resource scarcity caused by rapid urbanization"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Climate change remains the most critical and complex issue consistently highlighted at the WEF, requiring multilateral cooperation and mitigation strategies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6164,
+            "question_text": "The historical treaty that officially marked the beginning of the Partition of India, leading to the creation of Pakistan, was signed in which city?",
+            "options": [
+                "Karachi",
+                "Lahore",
+                "Mecca",
+                "Sealdah"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The transfer of power and the initial operational phase of the Partition were marked by significant administrative transfers, including those in Sealdah (India).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6237,
+            "question_text": "Which Nobel Laureate, known for his work on econometrics and the efficient market hypothesis, was instrumental in shaping modern theories of asset pricing and behavioral finance?",
+            "options": [
+                "Eugene Fama",
+                "Robert Merton",
+                "William Diamond",
+                "Joseph Stiglitz"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Eugene Fama is renowned for his seminal contributions to the Capital Asset Pricing Model (CAPM) and efficient market theory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6317,
+            "question_text": "Which of the following hardware components is primarily responsible for executing instructions and performing calculations in a computer system?",
+            "options": [
+                "Random Access Memory (RAM)",
+                "Motherboard",
+                "Central Processing Unit (CPU)",
+                "Hard Disk Drive (HDD)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The CPU (Central Processing Unit) contains the Arithmetic Logic Unit (ALU) and Control Unit, making it the primary execution engine of the computer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6396,
+            "question_text": "During the tenure of which Pakistani Prime Minister was the concept of 'China-Pakistan Economic Corridor' (CPEC) initially developed and heavily promoted?",
+            "options": [
+                "Pervez Musharraf",
+                "Benazir Bhutto",
+                "Imran Khan",
+                "Nawaz Sharif"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Nawaz Sharif’s third tenure saw the intensive development and promotion of the CPEC framework, linking China's Belt and Road Initiative with Pakistan's strategic location.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6397,
+            "question_text": "The function of an Operating System (OS) that manages the sharing of the CPU resource among multiple running programs is called:",
+            "options": [
+                "Device Driver Utility",
+                "Memory Allocation",
+                "File Management",
+                "Process Scheduling"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Process Scheduling determines which process gets access to the CPU and for how long, ensuring efficient resource utilization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6464,
+            "question_text": "Which international body organizes the annual World Economic Forum (WEF) meeting, which is a major gathering for global leaders and corporations?",
+            "options": [
+                "World Trade Organization (WTO)",
+                "International Monetary Fund (IMF)",
+                "World Economic Forum (WEF)",
+                "United Nations Development Programme (UNDP)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The World Economic Forum (WEF) organizes its own annual meeting in Davos, Switzerland, which attracts global leaders and policymakers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6538,
+            "question_text": "Who among the following Pakistani literary figures is best known for pioneering the modern usage of Urdu in dramatic and narrative theatre, greatly influencing the development of Pakistani drama?",
+            "options": [
+                "Mir Taqi Mir",
+                "Agha Hashar Raza",
+                "Sadequain Naiq",
+                "Faiz Ahmed Faiz"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Agha Hashar Raza is widely recognized for his pioneering efforts in Urdu theatrical drama, significantly shaping the modern landscape of Urdu performance arts in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6539,
+            "question_text": "Which component is considered the 'brain' of the computer, responsible for executing instructions?",
+            "options": [
+                "CPU (Central Processing Unit)",
+                "Motherboard",
+                "RAM (Random Access Memory)",
+                "GPU (Graphics Processing Unit)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The CPU contains the ALU and CU, which are responsible for performing calculations and controlling the flow of instructions, making it the computer's brain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6540,
+            "question_text": "Which memory type is volatile, meaning it loses its stored data when the power is turned off?",
+            "options": [
+                "Flash Memory",
+                "Hard Disk Drive (HDD)",
+                "RAM",
+                "ROM"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "RAM (Random Access Memory) is volatile memory used for temporary storage of data actively being processed by the CPU.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6610,
+            "question_text": "Which of the following international organizations is primarily concerned with maintaining global peace and security through collective action, and where are its main headquarters located?",
+            "options": [
+                "United Nations (UN), New York",
+                "International Monetary Fund (IMF), Washington D.C.",
+                "World Health Organization (WHO), Geneva",
+                "World Trade Organization (WTO), Geneva"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The UN is the principal global body for maintaining peace and security, with its primary headquarters situated in New York.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6682,
+            "question_text": "Which major international summit, often hosted by rotating presidency, aims to address global challenges such as climate change and sustainable development goals?",
+            "options": [
+                "BRICS Summit",
+                "G7 Summit",
+                "G20 Summit",
+                "COP (Conference of Parties)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Conference of Parties (COP) is the key meeting of the UNFCCC, specifically dedicated to addressing global environmental issues like climate change and sustainable development.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6760,
+            "question_text": "Which national regulatory body in Pakistan is responsible for supervising and regulating the establishment and operations of private educational institutions, ensuring adherence to academic standards and quality control?",
+            "options": [
+                "Higher Education Commission (HEC)",
+                "National Council of Testing (NCT)",
+                "Federal Public Service Commission (FPSC)",
+                "Pakistan Engineering Council (PEC)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Higher Education Commission (HEC) is the apex body overseeing quality assurance, standards, and regulation across all levels of higher education in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6761,
+            "question_text": "What does 'RAM' stand for in computer memory terminology?",
+            "options": [
+                "Rapid Access Memory",
+                "Read Access Memory",
+                "Random Access Memory",
+                "Remote Access Memory"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "RAM stands for Random Access Memory, which provides temporary, fast storage for data actively being used by the CPU.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6833,
+            "question_text": "The Nobel Prize in Literature was bequeathed by which renowned Swedish author?",
+            "options": [
+                "Birger Olof Palmgren",
+                "Sven Hedin",
+                "August Strindberg",
+                "Selma Lagerlöf"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The question is fundamentally flawed because the Nobel Prize was established by the will of Alfred Nobel, not bequeathed by any of the listed authors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6834,
+            "question_text": "What is the primary function of the motherboard in a computer system?",
+            "options": [
+                "Processing complex graphical data and images.",
+                "Providing physical connection and communication channels between all components.",
+                "Temporarily holding data that the CPU is actively using.",
+                "Storing the operating system indefinitely."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The motherboard acts as the main circuit board, connecting and facilitating communication between the CPU, RAM, and all peripherals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

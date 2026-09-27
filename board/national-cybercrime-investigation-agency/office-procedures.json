@@ -1,0 +1,221 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Office Procedures",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "office-procedures",
+    "url": "/national-cybercrime-investigation-agency/office-procedures/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 14245,
+            "question_text": "What is the primary purpose of maintaining a 'Diary Register' in a government or corporate office?",
+            "options": [
+                "To record outgoing postal mail",
+                "To track incoming dak and correspondence received",
+                "To record employee attendance",
+                "To document office stationery inventory"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A diary register is used to systematically record all incoming letters, files, and correspondence received in an office to ensure accountability and tracking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14246,
+            "question_text": "In noting and drafting, what term is used for a temporary file or note sheet used to record interim decisions before final approval?",
+            "options": [
+                "Running summary",
+                "Scratch pad",
+                "Note",
+                "Demi-official letter"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A note is recorded on the note sheet of a file by officers and staff to analyze the case, cite precedents, and propose a course of action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14247,
+            "question_text": "Which type of communication is generally used for correspondence between two government ministries or departments on a personal level between officers?",
+            "options": [
+                "Office Memorandum",
+                "Demi-Official (DO) Letter",
+                "Notification",
+                "Circular"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Demi-Official (DO) letter is used for correspondence between government officers when personal attention of the recipient is desired or when expedition is required.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14248,
+            "question_text": "What does 'PUC' stand for in official file management terminology?",
+            "options": [
+                "Paper Under Consideration",
+                "Pending Under Check",
+                "Public Utility Circular",
+                "Post-Urgent Communication"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "PUC stands for Paper Under Consideration, which refers to the main letter, document, or reference upon which action is being taken in the file.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14249,
+            "question_text": "When a file is closed and stored away permanently or for a long term due to completion of action, what is it called?",
+            "options": [
+                "Destroyed",
+                "Indexed",
+                "Recorded",
+                "Archived only"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Recording a file means the process of closing a file after all actions are complete and indexing/storing it systematically in the record room.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14250,
+            "question_text": "What is the primary action taken when a physical dak (mail) is received in an office registry section?",
+            "options": [
+                "It is immediately shredded if confidential",
+                "It is entered into the Dispatch Register",
+                "It is entered into the Diary Register with a unique serial number",
+                "It is sent directly to the archives"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Diary Register is used to record all incoming mail/dak with a distinct serial number for tracking purposes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14251,
+            "question_text": "In office file management, what does 'Index Slip' refer to?",
+            "options": [
+                "A slip used for marking attendance",
+                "A reference card or slip containing catchwords to help trace a file easily",
+                "A financial statement attached to bills",
+                "A note sheet indicating urgent delivery"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Index slips contain subject keywords and file numbers to facilitate quick retrieval of archived or running files.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14252,
+            "question_text": "Which of the following describes an 'Endorsement' on an official document or letter?",
+            "options": [
+                "A financial audit report attached at the end",
+                "A statement written or stamped on a document directing it to another authority for information or action",
+                "The final signature of the head of the department",
+                "The rejection slip of a tender proposal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An endorsement is used when a copy of a communication is forwarded to other offices or officers for information or necessary action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14253,
+            "question_text": "What is the primary objective of weeding out old files in an office?",
+            "options": [
+                "To reduce clutter and free up storage space by destroying useless records",
+                "To publish old official secrets",
+                "To create extra noting space in current files",
+                "To increase the count of active files"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Weeding out refers to the systematic review and destruction of files whose retention period has expired.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14254,
+            "question_text": "When a file is sent outside the department, which register must be updated to track its movement?",
+            "options": [
+                "Dispatch Register",
+                "Stock Register",
+                "Casual Leave Register",
+                "Stationery Register"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Dispatch Register records all outgoing letters, files, and documents sent outside the organization or department.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14255,
+            "question_text": "What is meant by the term 'Demi-Official (D.O.) Letter'?",
+            "options": [
+                "A letter written anonymously",
+                "A personal correspondence between government officers of equivalent or higher rank on official matters",
+                "A public notice published in the newspaper",
+                "A memorandum issued to junior staff for misconduct"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A D.O. letter is addressed by name to an officer to draw personal attention to urgent or confidential official matters.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14256,
+            "question_text": "In government noting, who is responsible for initiating the note on a newly received paper or file?",
+            "options": [
+                "The Head of the Department",
+                "The dealing hand or assistant",
+                "The external auditor",
+                "The dispatch clerk"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The dealing assistant examines the receipt, checks previous papers, and records the initial note on the note sheet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14257,
+            "question_text": "What does a 'Reminder' signify in official correspondence?",
+            "options": [
+                "An alarm set on office computers",
+                "A follow-up communication sent when no reply has been received within a stipulated time",
+                "A notice for retirement",
+                "A penalty notice for late attendance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Reminders are issued to expedite replies or actions on pending references.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14258,
+            "question_text": "Which part of a file contains the chronological record of all discussions, decisions, and orders passed?",
+            "options": [
+                "Appendix",
+                "Note Sheet",
+                "Correspondence portion",
+                "Index page"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The note sheet forms the left side or distinct section of the file where deliberations and noting take place chronologically.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14259,
+            "question_text": "What is the purpose of a 'Stock Register' in an office?",
+            "options": [
+                "To record the daily attendance of employees",
+                "To keep an inventory of non-consumable and durable assets/goods purchased",
+                "To track daily inward postal charges",
+                "To log incoming telephone calls"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Stock registers maintain a permanent record of permanent or semi-permanent office furniture, equipment, and machinery.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

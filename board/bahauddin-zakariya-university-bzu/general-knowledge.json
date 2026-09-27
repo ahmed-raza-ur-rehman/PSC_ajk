@@ -1,0 +1,165 @@
+{
+    "category": "Bahauddin Zakariya University (BZU)",
+    "name": "General Knowledge",
+    "board": "bahauddin-zakariya-university-bzu",
+    "subject": "general-knowledge",
+    "url": "/bahauddin-zakariya-university-bzu/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10724,
+            "question_text": "Which river is known as the 'Lifeline of Pakistan'?",
+            "options": [
+                "Chenab",
+                "Jhelum",
+                "Indus",
+                "Ravi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Indus River is the longest and most significant river in Pakistan, providing water for the majority of agricultural activities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10725,
+            "question_text": "Who was the first woman Prime Minister of Pakistan?",
+            "options": [
+                "Fatima Jinnah",
+                "Benazir Bhutto",
+                "Begum Ra'ana Liaquat Ali Khan",
+                "Hina Rabbani Khar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benazir Bhutto served as the Prime Minister of Pakistan from 1988 to 1990 and again from 1993 to 1996.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10726,
+            "question_text": "Which planet in our solar system has the most moons?",
+            "options": [
+                "Jupiter",
+                "Saturn",
+                "Mars",
+                "Neptune"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "As of recent astronomical counts, Saturn holds the record for the most confirmed moons.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10727,
+            "question_text": "In which city is the headquarters of the United Nations located?",
+            "options": [
+                "Geneva",
+                "Washington D.C.",
+                "New York City",
+                "London"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The UN headquarters is located on international territory in New York City.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10728,
+            "question_text": "Who is often referred to as the 'Father of Computer Science'?",
+            "options": [
+                "Bill Gates",
+                "Alan Turing",
+                "Charles Babbage",
+                "Steve Jobs"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Alan Turing provided the theoretical framework for modern computing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10729,
+            "question_text": "Which gas is most abundant in the Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10730,
+            "question_text": "The Khyber Pass connects Pakistan with which country?",
+            "options": [
+                "Iran",
+                "India",
+                "Afghanistan",
+                "China"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The historic Khyber Pass is a mountain pass linking Pakistan and Afghanistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10731,
+            "question_text": "Which continent is known as the 'Dark Continent'?",
+            "options": [
+                "Asia",
+                "Africa",
+                "Australia",
+                "South America"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Africa was historically referred to as the Dark Continent due to limited European knowledge of its interior regions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10732,
+            "question_text": "Which chemical element has the symbol 'Au'?",
+            "options": [
+                "Silver",
+                "Gold",
+                "Aluminum",
+                "Argon"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Au is derived from the Latin word 'aurum', meaning gold.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10733,
+            "question_text": "Who wrote the famous book 'The Republic'?",
+            "options": [
+                "Aristotle",
+                "Socrates",
+                "Plato",
+                "Homer"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Republic is a Socratic dialogue authored by Plato around 375 BC.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10734,
+            "question_text": "What is the capital city of Japan?",
+            "options": [
+                "Seoul",
+                "Beijing",
+                "Tokyo",
+                "Bangkok"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tokyo is the capital and largest city of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

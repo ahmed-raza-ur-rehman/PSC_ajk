@@ -1,0 +1,165 @@
+{
+    "category": "Quaid-i-Azam University (QAU)",
+    "name": "Analytical Reasoning",
+    "board": "quaid-i-azam-university-qau",
+    "subject": "analytical-reasoning",
+    "url": "/quaid-i-azam-university-qau/analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10547,
+            "question_text": "If all A are B, and some B are C, which statement must be true?",
+            "options": [
+                "All A are C",
+                "Some A are C",
+                "Some B are A",
+                "No A are C"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If all A are B, then it follows logically that some B must be A (the subset A is contained within B).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10548,
+            "question_text": "Six people (A, B, C, D, E, F) are sitting in a row. A is next to B. C is sitting at the far left. F is sitting at the far right. If E is between F and D, who is sitting next to C?",
+            "options": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Order: C, B, A, D, E, F. C is at left, F at right. E is between F and D, so sequence is D, E, F. A is next to B.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10549,
+            "question_text": "If all dogs are mammals and some mammals are pets, which must be true?",
+            "options": [
+                "All dogs are pets.",
+                "Some dogs are pets.",
+                "Some pets are mammals.",
+                "No dogs are pets."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since all dogs are mammals, and mammals are a broader category, if some mammals are pets, it logically follows that some pets are mammals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10550,
+            "question_text": "If 'WATER' is coded as 'XBUFS', how is 'LIGHT' coded?",
+            "options": [
+                "MJHIU",
+                "MJHJU",
+                "KJHIU",
+                "NJHJU"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted one position forward in the alphabet (W+1=X, A+1=B, etc.).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10551,
+            "question_text": "Looking at a portrait, a man says, 'I have no brothers or sisters, but that man's father is my father's son.' Who is in the portrait?",
+            "options": [
+                "His father",
+                "His son",
+                "Himself",
+                "His nephew"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'My father's son' is the man himself. So, the man says, 'That man's father is me'. Therefore, he is referring to his son.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10552,
+            "question_text": "Which statement is the logical negation of: 'All students passed the exam'?",
+            "options": [
+                "No students passed the exam.",
+                "Some students passed the exam.",
+                "At least one student failed the exam.",
+                "All students failed the exam."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The negation of 'All' is 'At least one' (some) who did not.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10553,
+            "question_text": "In a race, Ali finished before Bilal, and Bilal finished before Charlie. David finished after Charlie. Who finished last?",
+            "options": [
+                "Ali",
+                "Bilal",
+                "Charlie",
+                "David"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Order: Ali > Bilal > Charlie > David. David is last.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10554,
+            "question_text": "If Monday is the 1st of the month, what is the 20th of the month?",
+            "options": [
+                "Saturday",
+                "Sunday",
+                "Monday",
+                "Tuesday"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern repeats every 7 days. 1, 8, 15 are Mondays. 15+5 = 20, so 16=Tue, 17=Wed, 18=Thu, 19=Fri, 20=Saturday (Correction: 1=Mon, 20 is (20-1)=19 days later. 19 mod 7 = 5. Monday+5 = Saturday).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10555,
+            "question_text": "Find the odd one out.",
+            "options": [
+                "Square",
+                "Circle",
+                "Triangle",
+                "Cube"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Square, circle, and triangle are 2D shapes, while a cube is a 3D object.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10556,
+            "question_text": "If A > B and B > C, then:",
+            "options": [
+                "A = C",
+                "A < C",
+                "A > C",
+                "Cannot determine"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Transitive property of inequality: if A>B and B>C, then A>C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10557,
+            "question_text": "Which of the following completes the series: 3, 6, 12, 24, ____?",
+            "options": [
+                "36",
+                "48",
+                "52",
+                "60"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each term is multiplied by 2. 24 * 2 = 48.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

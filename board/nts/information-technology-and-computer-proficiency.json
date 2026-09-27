@@ -1,0 +1,165 @@
+{
+    "category": "NTS",
+    "name": "Information Technology and Computer Proficiency",
+    "board": "nts",
+    "subject": "information-technology-and-computer-proficiency",
+    "url": "/nts/information-technology-and-computer-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 9785,
+            "question_text": "Which of the following is considered the 'brain' of the computer?",
+            "options": [
+                "Monitor",
+                "RAM",
+                "CPU",
+                "Hard Drive"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Central Processing Unit (CPU) is responsible for executing instructions and is known as the brain of the computer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9786,
+            "question_text": "What does 'HTTP' stand for?",
+            "options": [
+                "HyperText Transfer Protocol",
+                "High Transfer Text Protocol",
+                "Hyper Transfer Technical Process",
+                "Hyperlink Text Tool Protocol"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "HTTP is the foundational protocol used for data communication on the World Wide Web.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9787,
+            "question_text": "Which part of the computer is known as the 'Brain'?",
+            "options": [
+                "RAM",
+                "Hard Drive",
+                "CPU",
+                "Motherboard"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Central Processing Unit (CPU) performs all calculations and logical operations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9788,
+            "question_text": "What does the acronym 'HTML' represent?",
+            "options": [
+                "HyperText Markup Language",
+                "HighText Machine Language",
+                "HyperTool Markup Language",
+                "HyperText Main Language"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "HTML is the standard markup language for creating webpages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9789,
+            "question_text": "Which of these is considered 'volatile' memory?",
+            "options": [
+                "Hard Disk",
+                "ROM",
+                "RAM",
+                "Flash Drive"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "RAM (Random Access Memory) loses its data when the power is turned off.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9790,
+            "question_text": "Which component is often called the brain of a computer?",
+            "options": [
+                "RAM",
+                "CPU",
+                "Hard Disk",
+                "Monitor"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Central Processing Unit (CPU) performs all processing tasks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9791,
+            "question_text": "What does HTTP stand for?",
+            "options": [
+                "HyperText Transfer Protocol",
+                "High Transfer Tool Protocol",
+                "Hyper Transfer Text Protocol",
+                "Home Tool Transfer Process"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "HTTP is the foundation of data communication for the World Wide Web.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9792,
+            "question_text": "What is the full form of HTML?",
+            "options": [
+                "HyperText Markup Language",
+                "HyperTool Markup Language",
+                "HighText Machine Language",
+                "HyperText Marking Language"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "HTML is the standard language used for creating web pages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9793,
+            "question_text": "Which of these is volatile computer memory?",
+            "options": [
+                "ROM",
+                "Hard Disk",
+                "RAM",
+                "Flash Drive"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "RAM (Random Access Memory) loses its data when power is turned off.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9794,
+            "question_text": "Which is an example of an Operating System?",
+            "options": [
+                "Chrome",
+                "MS Word",
+                "Windows",
+                "Excel"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Windows is a system software that manages computer hardware.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9795,
+            "question_text": "What is '1 Terabyte' roughly equivalent to?",
+            "options": [
+                "1000 Megabytes",
+                "1024 Gigabytes",
+                "500 Gigabytes",
+                "1024 Megabytes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In computing units, 1 TB = 1024 GB.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

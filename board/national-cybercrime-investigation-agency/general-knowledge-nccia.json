@@ -1,0 +1,907 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "General Knowledge (NCCIA)",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "general-knowledge-nccia",
+    "url": "/national-cybercrime-investigation-agency/general-knowledge-nccia/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 64,
+    "questions": [
+        {
+            "id": 14157,
+            "question_text": "Which of the following atmospheric layers contains the ozone layer that absorbs harmful ultraviolet radiation from the Sun?",
+            "options": [
+                "Troposphere",
+                "Stratosphere",
+                "Mesosphere",
+                "Thermosphere"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ozone layer is predominantly located within the stratosphere, roughly 10 to 50 kilometers above Earth's surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14158,
+            "question_text": "What is the capital city of Australia?",
+            "options": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Brisbane"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Canberra was chosen as the capital compromise between rival cities Sydney and Melbourne.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14159,
+            "question_text": "Which constitutional amendment introduced the Goods and Services Tax (GST) in India?",
+            "options": [
+                "100th Amendment",
+                "101st Amendment",
+                "103rd Amendment",
+                "105th Amendment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Constitution (101st Amendment) Act, 2016 introduced the nationwide GST framework in India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14160,
+            "question_text": "Who is known as the 'Iron Man of India'?",
+            "options": [
+                "Mahatma Gandhi",
+                "Subhas Chandra Bose",
+                "Sardar Vallabhbhai Patel",
+                "Jawaharlal Nehru"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sardar Vallabhbhai Patel earned the title for his crucial role in integrating the princely states into the Indian Union.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14161,
+            "question_text": "The headquarters of the International Court of Justice (ICJ) is located in which city?",
+            "options": [
+                "Geneva",
+                "New York",
+                "The Hague",
+                "Vienna"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The ICJ is located at the Peace Palace in The Hague, Netherlands.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14162,
+            "question_text": "Which of the following mountain ranges separates Europe from Asia?",
+            "options": [
+                "The Alps",
+                "The Himalayas",
+                "The Ural Mountains",
+                "The Andes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Ural Mountains are traditionally considered the natural geographical boundary between Europe and Asia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14163,
+            "question_text": "Who was the first woman Prime Minister of India?",
+            "options": [
+                "Sarojini Naidu",
+                "Indira Gandhi",
+                "Pratibha Patil",
+                "Sucheta Kripalani"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Indira Gandhi served as India's first and to date only female Prime Minister, holding office starting in 1966.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14164,
+            "question_text": "The famous ancient monument 'Colosseum' is located in which country?",
+            "options": [
+                "Greece",
+                "Egypt",
+                "Italy",
+                "Turkey"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Colosseum is an elliptical amphitheatre located in the center of Rome, Italy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14165,
+            "question_text": "Which Article of the Indian Constitution guarantees the Right to Equality before Law?",
+            "options": [
+                "Article 14",
+                "Article 19",
+                "Article 21",
+                "Article 32"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Article 14 of the Indian Constitution states that the State shall not deny to any person equality before the law or the equal protection of the laws.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14166,
+            "question_text": "What is the currency of Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Ringgit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Yen is the official currency of Japan and one of the most traded currencies globally.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14167,
+            "question_text": "Which planet in our solar system has the most prominent ring system?",
+            "options": [
+                "Jupiter",
+                "Saturn",
+                "Uranus",
+                "Neptune"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Saturn is famous for its massive and dazzling ring system composed mostly of ice particles and rocky debris.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14168,
+            "question_text": "Who wrote the famous book 'Discovery of India'?",
+            "options": [
+                "Mahatma Gandhi",
+                "Rabindranath Tagore",
+                "Jawaharlal Nehru",
+                "Subhas Chandra Bose"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' during his imprisonment at Ahmednagar fort between 1942 and 1945.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14169,
+            "question_text": "Which river is the longest in the world?",
+            "options": [
+                "Amazon River",
+                "Nile River",
+                "Yangtze River",
+                "Mississippi River"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile River is traditionally considered the longest river in the world, flowing northward through Africa.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14170,
+            "question_text": "Which gas is most abundant in Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Argon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere by volume.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14275,
+            "question_text": "Which article of the Constitution of India provides for the establishment of the Finance Commission?",
+            "options": [
+                "Article 263",
+                "Article 280",
+                "Article 324",
+                "Article 356"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Article 280 of the Indian Constitution provides for the constitution of a Finance Commission by the President every five years or earlier.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14276,
+            "question_text": "What is the chemical name of the common baking soda used in households?",
+            "options": [
+                "Sodium Carbonate",
+                "Sodium Bicarbonate",
+                "Sodium Chloride",
+                "Sodium Hydroxide"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Baking soda is chemically known as sodium bicarbonate (NaHCO3).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14277,
+            "question_text": "Which river is the longest river flowing entirely within the territory of India?",
+            "options": [
+                "Ganga",
+                "Godavari",
+                "Brahmaputra",
+                "Yamuna"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Godavari is often referred to as the 'Dakshina Ganga' and is the longest river whose course lies entirely within India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14278,
+            "question_text": "Who was the first Governor-General of independent India?",
+            "options": [
+                "Lord Mountbatten",
+                "C. Rajagopalachari",
+                "Dr. Rajendra Prasad",
+                "Jawaharlal Nehru"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Lord Mountbatten served as the first Governor-General of independent India from 1947 to 1948, followed by C. Rajagopalachari as the first Indian Governor-General.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14279,
+            "question_text": "Which international organization has its headquarters in Geneva, Switzerland?",
+            "options": [
+                "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+                "World Health Organization (WHO)",
+                "Food and Agriculture Organization (FAO)",
+                "International Monetary Fund (IMF)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The World Health Organization (WHO) is headquartered in Geneva, Switzerland. (UNESCO is in Paris, FAO in Rome, and IMF in Washington, D.C.).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14280,
+            "question_text": "Which Indian state shares its international border with maximum neighboring countries?",
+            "options": [
+                "Assam",
+                "Arunachal Pradesh",
+                "Sikkim",
+                "West Bengal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sikkim shares borders with three countries: Bhutan, China (Tibet), and Nepal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14281,
+            "question_text": "Who is known as the 'Father of the Indian Constitution'?",
+            "options": [
+                "Mahatma Gandhi",
+                "Dr. B.R. Ambedkar",
+                "Jawaharlal Nehru",
+                "Sardar Vallabhbhai Patel"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dr. B.R. Ambedkar served as the Chairman of the Drafting Committee of the Constituent Assembly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14283,
+            "question_text": "Which day is observed globally as 'International Yoga Day'?",
+            "options": [
+                "June 21",
+                "May 5",
+                "August 15",
+                "March 22"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "June 21 was declared as International Yoga Day by the United Nations General Assembly in 2014.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14284,
+            "question_text": "Which National Park in India is famous for being the last refuge of the endangered Asiatic Lion?",
+            "options": [
+                "Jim Corbett National Park",
+                "Kaziranga National Park",
+                "Gir National Park",
+                "Sundarbans National Park"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Gir National Park and Wildlife Sanctuary in Gujarat is the only natural habitat of the Asiatic Lion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14285,
+            "question_text": "The famous monument 'Gateway of India' is located in which city?",
+            "options": [
+                "New Delhi",
+                "Kolkata",
+                "Mumbai",
+                "Chennai"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Gateway of India was built in Mumbai and completed in 1924.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14286,
+            "question_text": "Which vitamin is essential for blood clotting?",
+            "options": [
+                "Vitamin A",
+                "Vitamin C",
+                "Vitamin D",
+                "Vitamin K"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Vitamin K plays a crucial role in blood coagulation and preventing excessive bleeding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14287,
+            "question_text": "In which year did India adopt its Constitution?",
+            "options": [
+                "1947",
+                "1950",
+                "1952",
+                "1948"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Constitution of India came into effect on January 26, 1950.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14288,
+            "question_text": "Which gas constitutes the maximum percentage of Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Argon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14289,
+            "question_text": "Who wrote the famous ancient Indian treatise on statecraft and economic policy, 'Arthashastra'?",
+            "options": [
+                "Kalidasa",
+                "Chanakya (Kautilya)",
+                "Banabhatta",
+                "Valmiki"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Chanakya, also known as Kautilya or Vishnugupta, authored the Arthashastra during the Maurya Empire.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14305,
+            "question_text": "Which of the following layers of the Earth's atmosphere is closest to the surface?",
+            "options": [
+                "Stratosphere",
+                "Troposphere",
+                "Mesosphere",
+                "Thermosphere"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The troposphere is the lowest layer of Earth's atmosphere and contains approximately 75% of the atmosphere's mass.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14306,
+            "question_text": "What is the chemical symbol for the element Gold?",
+            "options": [
+                "Ag",
+                "Au",
+                "Gd",
+                "Go"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The chemical symbol 'Au' is derived from 'aurum', the Latin word for gold.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14307,
+            "question_text": "Which instrument is used to measure atmospheric pressure?",
+            "options": [
+                "Thermometer",
+                "Barometer",
+                "Hygrometer",
+                "Anemometer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A barometer is a scientific instrument used in meteorology to measure atmospheric pressure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14308,
+            "question_text": "The International Court of Justice (ICJ) is headquartered in which city?",
+            "options": [
+                "Geneva",
+                "New York",
+                "The Hague",
+                "Vienna"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The International Court of Justice is the principal judicial organ of the United Nations, located in The Hague, Netherlands.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14309,
+            "question_text": "Which vitamin is primarily synthesized in the human body through exposure to sunlight?",
+            "options": [
+                "Vitamin A",
+                "Vitamin C",
+                "Vitamin D",
+                "Vitamin K"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Vitamin D is often called the 'sunshine vitamin' because it is produced in the skin in response to sunlight.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14310,
+            "question_text": "Which planet in our solar system is known as the Red Planet?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars is called the Red Planet because of iron oxide (rust) prevalent on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14311,
+            "question_text": "What is the largest ocean on Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Pacific Ocean"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14312,
+            "question_text": "Who painted the famous artwork 'Mona Lisa'?",
+            "options": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Claude Monet"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Mona Lisa was painted by the Italian Renaissance artist Leonardo da Vinci.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14313,
+            "question_text": "What is the hardest natural substance found on Earth?",
+            "options": [
+                "Gold",
+                "Iron",
+                "Diamond",
+                "Platinum"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Diamond is an allotrope of carbon where the carbon atoms are arranged in a crystal structure called diamond cubic, making it the hardest known natural material.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14314,
+            "question_text": "Which gas makes up the majority of Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Nitrogen makes up about 78% of Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14316,
+            "question_text": "Which animal is known as the 'Ship of the Desert'?",
+            "options": [
+                "Horse",
+                "Elephant",
+                "Camel",
+                "Donkey"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Camels are called the ship of the desert because they can walk easily on sand and survive long periods without water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14317,
+            "question_text": "What is the main component of the sun?",
+            "options": [
+                "Helium",
+                "Hydrogen",
+                "Oxygen",
+                "Carbon"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Sun is composed primarily of hydrogen (about 73%) and helium (about 25%).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14318,
+            "question_text": "Which continent is known as the 'Dark Continent'?",
+            "options": [
+                "Asia",
+                "Africa",
+                "South America",
+                "Antarctica"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Africa was historically referred to as the 'Dark Continent' because much of the interior was unknown to Europeans.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14319,
+            "question_text": "What is the freezing point of water in Celsius?",
+            "options": [
+                "-10°C",
+                "0°C",
+                "32°C",
+                "100°C"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Water freezes at 0 degrees Celsius (or 32 degrees Fahrenheit).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14365,
+            "question_text": "Which of the following international organizations has its headquarters in Geneva, Switzerland?",
+            "options": [
+                "United Nations",
+                "World Health Organization",
+                "International Monetary Fund",
+                "World Bank"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health, headquartered in Geneva.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14367,
+            "question_text": "Which element is the most abundant by mass in the Earth's crust?",
+            "options": [
+                "Silicon",
+                "Oxygen",
+                "Iron",
+                "Aluminum"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Oxygen is the most abundant chemical element in the Earth's crust, making up approximately 46.6% of its mass.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14368,
+            "question_text": "The famous painting 'Mona Lisa' was created by which Renaissance artist?",
+            "options": [
+                "Vincent van Gogh",
+                "Michelangelo",
+                "Leonardo da Vinci",
+                "Raphael"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci, created during the Renaissance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14371,
+            "question_text": "What is the longest river in the world?",
+            "options": [
+                "Amazon River",
+                "Nile River",
+                "Yangtze River",
+                "Mississippi River"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile River is traditionally accepted as the longest river in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14373,
+            "question_text": "In which country would you find the ancient ruins of Machu Picchu?",
+            "options": [
+                "Mexico",
+                "Peru",
+                "Brazil",
+                "Chile"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14374,
+            "question_text": "Who proposed the Theory of Relativity?",
+            "options": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Galileo Galilei",
+                "Nikola Tesla"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Albert Einstein developed the theory of relativity, which revolutionized theoretical physics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14376,
+            "question_text": "Which desert is the largest hot desert in the world?",
+            "options": [
+                "Gobi Desert",
+                "Kalahari Desert",
+                "Sahara Desert",
+                "Mojave Desert"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Sahara Desert is the largest hot desert and the third largest desert overall in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14377,
+            "question_text": "What is the chemical symbol for Gold?",
+            "options": [
+                "Ag",
+                "Fe",
+                "Au",
+                "Pb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Au is the chemical symbol for gold, derived from the Latin word 'aurum'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14391,
+            "question_text": "Which ocean is the largest by surface area?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Pacific Ocean"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14528,
+            "question_text": "Which instrument is used to measure the total distance traveled by a motor vehicle?",
+            "options": [
+                "Speedometer",
+                "Tachometer",
+                "Odometer",
+                "Anemometer"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An odometer tracks the cumulative distance a vehicle has traveled since its manufacture or last reset, whereas a speedometer measures current speed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14529,
+            "question_text": "What is the primary function of a vehicle's catalytic converter?",
+            "options": [
+                "To convert harmful exhaust pollutants into less harmful emissions",
+                "To amplify the sound of the engine exhaust",
+                "To generate electrical power for the dashboard",
+                "To cool down the transmission fluid"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Catalytic converters use chemical reactions to reduce toxic gases like carbon monoxide, hydrocarbons, and nitrogen oxides in vehicle exhaust.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14530,
+            "question_text": "In the context of road safety, what does 'defensive driving' primarily mean?",
+            "options": [
+                "Driving aggressively to prevent other drivers from cutting in",
+                "Anticipating potential hazards and making safe allowances for the errors of others",
+                "Traveling below the minimum speed limit on highways",
+                "Keeping the windows closed and doors locked at all times"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Defensive driving is a set of driving skills that goes beyond mere rule-following, focusing on accident avoidance through anticipation and caution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14531,
+            "question_text": "What does the acronym 'ABS' stand for in automotive engineering?",
+            "options": [
+                "Automatic Braking System",
+                "Anti-lock Braking System",
+                "Axle Balancing Structure",
+                "Airbag Backup Sensor"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ABS is a safety system that prevents the wheels from locking up during braking, thereby maintaining tractive contact with the road surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14532,
+            "question_text": "Why is it dangerous to rest your foot on the clutch pedal while driving at cruising speeds ('riding the clutch')?",
+            "options": [
+                "It improves fuel efficiency",
+                "It causes premature wear on the release bearing and clutch pressure plate",
+                "It engages four-wheel drive automatically",
+                "It locks the steering wheel in place"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Resting weight on the clutch pedal creates partial engagement, causing friction and unnecessary wear on internal clutch components.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14533,
+            "question_text": "Which national highway system connects the four major metropolitan cities of India (Delhi, Mumbai, Chennai, and Kolkata), forming a highway loop?",
+            "options": [
+                "North-South and East-West Corridor",
+                "Golden Quadrilateral",
+                "Expressway Alpha",
+                "Grand Trunk Road Network"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Golden Quadrilateral is a highway network connecting India's four largest metropolitan areas.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14534,
+            "question_text": "What is the primary function of the National Highways Authority of India (NHAI)?",
+            "options": [
+                "Manufacturing commercial transport vehicles and spare parts",
+                "Developing, maintaining, and managing national highways across the country",
+                "Issuing international driving permits and driver licenses",
+                "Regulating retail fuel pricing and petroleum distribution"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "NHAI is the nodal agency responsible for the development and maintenance of India's national highway network.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14535,
+            "question_text": "In the context of vehicle emissions, what does 'Bharat Stage' (BS) emission standards regulate?",
+            "options": [
+                "The physical dimensions and seating capacity of commercial buses",
+                "The maximum permissible limits of air pollutants discharged from internal combustion engines",
+                "The minimum fuel octane rating required for diesel engines",
+                "The sound decibel limits permitted for vehicle horns and sirens"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Bharat Stage emission standards set legal limits for pollutant emissions from motor vehicles in India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14536,
+            "question_text": "Which state agency or ministry in India is principally responsible for formulating national transport policies and motor vehicle legislation?",
+            "options": [
+                "Ministry of Road Transport and Highways (MoRTH)",
+                "Ministry of Railways",
+                "Ministry of Heavy Industries and Public Enterprises",
+                "Ministry of Home Affairs"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "MoRTH is the apex body responsible for formulating and administering road transport and highway laws in India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14537,
+            "question_text": "What does 'FASTag' utilize to enable automatic cashless toll collection on national highways?",
+            "options": [
+                "Global Positioning System (GPS) satellite tracking",
+                "Radio Frequency Identification (RFID) technology",
+                "Bluetooth Low Energy (BLE) pairing with mobile phones",
+                "Optical Character Recognition (OCR) license plate scanning"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "FASTag uses RFID technology affixed on the vehicle windscreen to deduct toll fees directly from a prepaid account without stopping.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14548,
+            "question_text": "What is the primary purpose of a tachometer in a motor vehicle instrument cluster?",
+            "options": [
+                "To measure engine crankshaft speed in revolutions per minute (RPM)",
+                "To monitor total trip mileage",
+                "To measure outside ambient temperature",
+                "To indicate fuel tank capacity"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The tachometer helps drivers choose optimal shift points and prevents engine over-revving.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14549,
+            "question_text": "What does the term 'aquaplaning' (or hydroplaning) refer to while driving?",
+            "options": [
+                "Driving through a deep river ford",
+                "A layer of water building up between the tires and the road surface, causing a loss of traction",
+                "Washing the vehicle body with high-pressure water jets",
+                "Checking radiator coolant levels"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hydroplaning occurs when tires cannot channel water away fast enough, causing the vehicle to lift and skate on the water film.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14576,
+            "question_text": "The author's primary purpose in contrasting centralized governance models with localized policy implementation is to:",
+            "options": [
+                "Criticize the inefficiency of federal institutions, advocating for complete regional autonomy.",
+                "Suggest that international bodies must completely oversee all domestic governance decisions.",
+                "Argue that optimal policy formulation requires synthesizing top-down planning with ground-level adaptability.",
+                "Prove that historical policy failures are solely due to political interference, not structural issues."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The passage argues that effective governance is achieved not by choosing one model, but by blending high-level strategy with local practical knowledge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

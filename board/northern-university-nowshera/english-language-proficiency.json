@@ -1,0 +1,193 @@
+{
+    "category": "Northern University, Nowshera",
+    "name": "English Language Proficiency",
+    "board": "northern-university-nowshera",
+    "subject": "english-language-proficiency",
+    "url": "/northern-university-nowshera/english-language-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 13219,
+            "question_text": "Identify the sentence that uses the correct tense for a general scientific truth.",
+            "options": [
+                "Water boiled at 100 degrees Celsius.",
+                "Water boils at 100 degrees Celsius.",
+                "Water is boiling at 100 degrees Celsius.",
+                "Water has boiled at 100 degrees Celsius."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "General truths and scientific facts are expressed using the simple present tense.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13220,
+            "question_text": "Choose the correct preposition to complete the sentence: 'She has been waiting _______ the bus stop for twenty minutes.'",
+            "options": [
+                "in",
+                "at",
+                "on",
+                "to"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "We use the preposition 'at' to indicate a specific point or location.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13221,
+            "question_text": "Which of the following sentences contains a dangling modifier?",
+            "options": [
+                "Walking down the street, the trees looked beautiful.",
+                "Walking down the street, I admired the beautiful trees.",
+                "The trees looked beautiful while I was walking down the street.",
+                "While I walked down the street, the trees looked beautiful."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The modifier 'Walking down the street' incorrectly modifies 'the trees' instead of the person walking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13222,
+            "question_text": "Identify the sentence that correctly uses the subjunctive mood.",
+            "options": [
+                "If he was here, he would help us.",
+                "I suggest that she arrive on time for the interview.",
+                "The teacher insists that every student completes their homework.",
+                "If I was you, I would take the offer."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subjunctive mood uses the base form of the verb ('arrive') after verbs of suggestion or demand.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13223,
+            "question_text": "Which word is an antonym for 'benevolent'?",
+            "options": [
+                "Malicious",
+                "Generous",
+                "Kindhearted",
+                "Altruistic"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Benevolent means well-meaning or kindly; malicious means intending to do harm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13224,
+            "question_text": "Choose the correctly punctuated sentence.",
+            "options": [
+                "The team, which won the game, were ecstatic.",
+                "The team which won the game was ecstatic.",
+                "The team who won the game, was ecstatic.",
+                "The team that won the game were ecstatic."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A collective noun like 'team' typically takes a singular verb ('was') when acting as a unit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13225,
+            "question_text": "What is the grammatical function of the word 'dancing' in the sentence: 'The dancing flames kept us warm.'",
+            "options": [
+                "Gerund",
+                "Present participle functioning as an adjective",
+                "Main verb",
+                "Noun"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dancing describes the noun 'flames', making it a participle acting as an adjective.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13226,
+            "question_text": "Identify the sentence with the correct usage of 'fewer' vs 'less'.",
+            "options": [
+                "There were less people at the concert than expected.",
+                "I have less coins in my pocket than you.",
+                "There were fewer errors in your final draft.",
+                "We have fewer water left in the tank."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Fewer' is used for countable nouns, while 'less' is used for uncountable quantities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13227,
+            "question_text": "Identify the sentence that correctly uses a conditional perfect structure.",
+            "options": [
+                "If he would have arrived earlier, he would see the show.",
+                "If he had arrived earlier, he would have seen the show.",
+                "If he arrived earlier, he would have seen the show.",
+                "If he had arrived earlier, he would see the show."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The third conditional requires 'had' + past participle in the if-clause and 'would have' + past participle in the main clause.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13228,
+            "question_text": "Choose the correct sentence featuring an intensive pronoun.",
+            "options": [
+                "I saw myself in the mirror.",
+                "She baked the bread herself.",
+                "They hurt themselves during the game.",
+                "He bought himself a gift."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An intensive pronoun emphasizes the noun it refers to and can be removed without changing the sentence's basic meaning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13229,
+            "question_text": "Which sentence demonstrates the correct use of a split infinitive?",
+            "options": [
+                "To successfully complete the project is my goal.",
+                "To complete successfully the project is my goal.",
+                "To complete the project successfully is my goal.",
+                "Successfully to complete the project is my goal."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "While traditionally debated, a split infinitive occurs when an adverb is placed between 'to' and the verb; this sentence is the clearest example of that structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13230,
+            "question_text": "Select the correct plural form of the word 'criterion'.",
+            "options": [
+                "Criterions",
+                "Criteria",
+                "Criterias",
+                "Criterionae"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The word 'criterion' has a Greek origin, and its standard plural form is 'criteria'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13231,
+            "question_text": "Which word is an example of an oxymoron?",
+            "options": [
+                "Thunderous silence",
+                "Running water",
+                "Cold winter",
+                "Beautiful painting"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An oxymoron combines two contradictory terms, such as 'thunderous' (loud) and 'silence' (quiet).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

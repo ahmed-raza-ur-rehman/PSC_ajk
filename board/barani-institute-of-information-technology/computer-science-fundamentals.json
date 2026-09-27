@@ -1,0 +1,207 @@
+{
+    "category": "Barani Institute of Information Technology",
+    "name": "Computer Science Fundamentals",
+    "board": "barani-institute-of-information-technology",
+    "subject": "computer-science-fundamentals",
+    "url": "/barani-institute-of-information-technology/computer-science-fundamentals/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 12960,
+            "question_text": "Which addressing mode uses the value of a register to store the address of the data?",
+            "options": [
+                "Immediate",
+                "Direct",
+                "Register Indirect",
+                "Indexed"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In register indirect addressing, the register contains the memory address of the operand rather than the operand itself.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13012,
+            "question_text": "Which data structure follows the Last-In-First-Out (LIFO) principle?",
+            "options": [
+                "Queue",
+                "Stack",
+                "Linked List",
+                "Binary Tree"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A stack is a linear data structure that follows the LIFO principle, where the last element added is the first one removed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13013,
+            "question_text": "What is the time complexity of searching for an element in a balanced Binary Search Tree (BST)?",
+            "options": [
+                "O(1)",
+                "O(n)",
+                "O(log n)",
+                "O(n log n)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In a balanced BST, each step of the search eliminates half of the remaining nodes, leading to logarithmic time complexity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13014,
+            "question_text": "Which component of a computer handles the execution of arithmetic and logical operations?",
+            "options": [
+                "RAM",
+                "ALU",
+                "Control Unit",
+                "Registers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Arithmetic Logic Unit (ALU) is the part of the CPU specifically designed to perform arithmetic and logical calculations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13015,
+            "question_text": "What is the primary characteristic of Volatile memory?",
+            "options": [
+                "It is permanent storage",
+                "It requires power to maintain stored information",
+                "It is slower than hard drives",
+                "It is read-only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Volatile memory, such as RAM, loses all stored data once the power supply is removed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13016,
+            "question_text": "What is the purpose of an Operating System kernel?",
+            "options": [
+                "To provide a graphical user interface",
+                "To manage hardware resources and system processes",
+                "To compile source code",
+                "To perform web browsing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The kernel is the core of an OS that manages CPU, memory, and devices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13017,
+            "question_text": "In Big O notation, what is the complexity of an algorithm that doubles in execution time for every additional input element?",
+            "options": [
+                "O(n)",
+                "O(n^2)",
+                "O(log n)",
+                "O(2^n)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Exponential growth, where execution time doubles for each input, is represented as O(2^n).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13018,
+            "question_text": "What is the main function of a DNS server?",
+            "options": [
+                "Assigning IP addresses to devices",
+                "Translating domain names into IP addresses",
+                "Encrypting network traffic",
+                "Filtering malicious website requests"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DNS (Domain Name System) functions like a phonebook, resolving human-readable URLs into machine-readable IP addresses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13019,
+            "question_text": "Which of the following is a non-linear data structure?",
+            "options": [
+                "Queue",
+                "Linked List",
+                "Graph",
+                "Stack"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A graph is a non-linear data structure because elements are connected via edges, forming multiple paths.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13020,
+            "question_text": "What is the purpose of the 'Program Counter' in a CPU?",
+            "options": [
+                "To hold the current instruction being executed",
+                "To hold the address of the next instruction to be fetched",
+                "To count the number of threads running",
+                "To store results of calculations"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Program Counter (PC) keeps track of the memory address of the next instruction in the sequence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13021,
+            "question_text": "Which architectural principle refers to the ability of a system to maintain performance under an increased load by adding resources?",
+            "options": [
+                "Modularity",
+                "Scalability",
+                "Abstraction",
+                "Encapsulation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scalability is the characteristic of a system to handle growing amounts of work by adding resources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13022,
+            "question_text": "In a Von Neumann architecture, which unit is responsible for storing the data currently being processed?",
+            "options": [
+                "Control Unit",
+                "Arithmetic Logic Unit",
+                "Memory Unit",
+                "Input/Output Unit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The memory unit stores both instructions and data in the Von Neumann architecture.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13023,
+            "question_text": "Which of the following best describes the purpose of an Interrupt Request (IRQ)?",
+            "options": [
+                "To pause a program for user input",
+                "To signal the CPU that an external device needs attention",
+                "To increase the clock speed of the processor",
+                "To clear the cache memory"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An IRQ is a hardware signal sent to the processor that temporarily stops the current process to service a device.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13024,
+            "question_text": "What is the primary function of a Bloom Filter?",
+            "options": [
+                "Sorting large datasets",
+                "Probabilistic membership testing",
+                "Compressing text files",
+                "Encrypting network packets"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Bloom filter is a space-efficient data structure used to test whether an element is a member of a set.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

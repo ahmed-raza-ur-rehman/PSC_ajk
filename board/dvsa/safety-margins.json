@@ -1,0 +1,109 @@
+{
+    "category": "DVSA",
+    "name": "Safety Margins",
+    "board": "dvsa",
+    "subject": "safety-margins",
+    "url": "/dvsa/safety-margins/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 6889,
+            "question_text": "What is the recommended gap to leave between you and the car in front in dry conditions?",
+            "options": [
+                "At least a one-second gap",
+                "At least a two-second gap",
+                "At least a four-second gap",
+                "Exactly ten meters"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A two-second gap allows enough time to react and stop safely if the vehicle ahead stops suddenly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6890,
+            "question_text": "What is the recommended gap to maintain between you and the vehicle ahead in dry weather conditions?",
+            "options": [
+                "At least one car length",
+                "A gap that takes two seconds to close",
+                "A gap of five meters",
+                "As close as possible to see their number plate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'two-second rule' allows sufficient time and space to react and brake safely if the driver ahead slows down suddenly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8451,
+            "question_text": "What is the typical time gap you should keep between you and the car in front in dry conditions?",
+            "options": [
+                "1 second",
+                "2 seconds",
+                "3 seconds",
+                "4 seconds"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'two-second rule' allows sufficient time to react to the vehicle in front in normal conditions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8452,
+            "question_text": "What is the recommended time gap to leave between you and the vehicle in front in dry conditions?",
+            "options": [
+                "One second",
+                "Two seconds",
+                "Five seconds",
+                "Ten seconds"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A two-second gap is the standard safety margin in dry weather to allow enough reaction time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8453,
+            "question_text": "Another driver is tailgating you; how should you respond?",
+            "options": [
+                "Brake sharply to make them back off",
+                "Speed up to increase the gap",
+                "Increase your distance from the vehicle in front",
+                "Flash your rear fog lights"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Increasing your distance from the vehicle ahead gives you more space to stop gradually, reducing the chance of the tailgater hitting you.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8454,
+            "question_text": "What is the recommended gap to leave between you and the vehicle in front during dry weather?",
+            "options": [
+                "At least one car length",
+                "At least a two-second time gap",
+                "As close as possible to reduce drag",
+                "Only when you are on a motorway"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A two-second gap gives you enough time to react and stop safely if the vehicle in front brakes suddenly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8455,
+            "question_text": "If the road surface is wet or icy, how should you adjust your safety distance?",
+            "options": [
+                "Keep the same distance",
+                "Decrease the distance to keep them in view",
+                "Increase the gap to at least four seconds",
+                "Drive only in the left lane"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Stopping distances increase significantly on wet or slippery roads, so you need more space to stop safely.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

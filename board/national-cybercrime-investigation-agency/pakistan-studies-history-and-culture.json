@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Pakistan Studies — History and Culture",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "pakistan-studies-history-and-culture",
+    "url": "/national-cybercrime-investigation-agency/pakistan-studies-history-and-culture/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14587,
+            "question_text": "The principle behind the working of a centrifuge is based on which physical concept?",
+            "options": [
+                "Buoyancy force (Archimedes' Principle).",
+                "Bernoulli's Principle (fluid dynamics).",
+                "Newton's First Law of Motion (inertia).",
+                "Centrifugal force and sedimentation rate."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A centrifuge utilizes high rotational speed to create immense centrifugal force, causing components of different densities to sediment or separate based on their relative weight.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

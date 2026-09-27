@@ -1,0 +1,151 @@
+{
+    "category": "NASTP Institute of Information Technology",
+    "name": "English",
+    "board": "nastp-institute-of-information-technology",
+    "subject": "english",
+    "url": "/nastp-institute-of-information-technology/english/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11056,
+            "question_text": "Choose the correct synonym for the word 'Enormous'.",
+            "options": [
+                "Small",
+                "Tiny",
+                "Immense",
+                "Average"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Immense means extremely large or great, which is a synonym for enormous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11261,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "She don't like apples.",
+                "She doesn't like apples.",
+                "She not like apples.",
+                "She no like apples."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject 'she' requires the singular auxiliary verb 'does not' or 'doesn't'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11262,
+            "question_text": "Choose the correct spelling:",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling includes double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11263,
+            "question_text": "Select the antonym for 'Benevolent'.",
+            "options": [
+                "Kind",
+                "Malicious",
+                "Friendly",
+                "Generous"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly; malicious means intending to do harm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11264,
+            "question_text": "Which sentence uses the correct passive voice?",
+            "options": [
+                "The cake was ate by the boy.",
+                "The cake was eaten by the boy.",
+                "The boy was eaten the cake.",
+                "The cake eaten by the boy."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passive voice for past tense is 'was/were' + past participle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11265,
+            "question_text": "Complete the idiom: 'Break the ____'.",
+            "options": [
+                "Window",
+                "Silence",
+                "Ice",
+                "Door"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Break the ice' is a common idiom meaning to initiate social interaction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11266,
+            "question_text": "Identify the part of speech of the word 'quickly' in 'He ran quickly'.",
+            "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Verb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quickly describes how the action (ran) was performed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11267,
+            "question_text": "Choose the correct sentence:",
+            "options": [
+                "He don't like apples.",
+                "He doesn't like apples.",
+                "He not like apples.",
+                "He no like apples."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject 'He' is third-person singular, requiring 'does not' or 'doesn't'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11268,
+            "question_text": "What is the synonym for 'Ephemeral'?",
+            "options": [
+                "Permanent",
+                "Fleeting",
+                "Eternal",
+                "Steady"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means lasting for a very short time, which is synonymous with fleeting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11269,
+            "question_text": "Identify the metaphor in the following: 'Time is a thief.'",
+            "options": [
+                "Time",
+                "is",
+                "a",
+                "thief"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The comparison of time to a thief without using 'like' or 'as' makes 'thief' the metaphor.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

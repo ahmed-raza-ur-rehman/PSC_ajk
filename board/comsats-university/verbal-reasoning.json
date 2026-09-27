@@ -1,0 +1,179 @@
+{
+    "category": "COMSATS University",
+    "name": "Verbal Reasoning",
+    "board": "comsats-university",
+    "subject": "verbal-reasoning",
+    "url": "/comsats-university/verbal-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 13446,
+            "question_text": "Select the synonym for 'Ephemeral'.",
+            "options": [
+                "Permanent",
+                "Fleeting",
+                "Strong",
+                "Fragile"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral refers to something lasting for a very short time, which is synonymous with fleeting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13447,
+            "question_text": "Choose the correct word: 'Neither the manager nor the employees _____ available for the meeting.'",
+            "options": [
+                "was",
+                "were",
+                "is",
+                "has been"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' sentences, the verb agrees with the closer subject. 'Employees' is plural, so 'were' is correct.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13448,
+            "question_text": "Select the synonym for 'Meticulous'.",
+            "options": [
+                "Careless",
+                "Detailed",
+                "Fast",
+                "Rough"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Meticulous means showing great attention to detail.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13449,
+            "question_text": "Choose the correct word: 'The jury _____ divided in their opinions.'",
+            "options": [
+                "is",
+                "are",
+                "has",
+                "was"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When members of a collective noun act individually (are divided), the plural verb 'are' is used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13450,
+            "question_text": "Select the antonym for 'Benevolent'.",
+            "options": [
+                "Kind",
+                "Generous",
+                "Malevolent",
+                "Friendly"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Benevolent means well-meaning; malevolent means wishing evil upon others.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13451,
+            "question_text": "Complete the sentence: 'Despite the rain, the event was a ____ success.'",
+            "options": [
+                "resounding",
+                "rebounding",
+                "reducing",
+                "relying"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Resounding success' is a common idiomatic expression.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13452,
+            "question_text": "Identify the error: 'Each of the students have finished their work.'",
+            "options": [
+                "Each",
+                "of the students",
+                "have finished",
+                "their work"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Each' is singular, so it should be 'has finished'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13453,
+            "question_text": "Select the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Accommodation is spelled with two 'c's and two 'm's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13454,
+            "question_text": "Choose the word that best fits: 'His _____ manner made everyone feel uncomfortable.'",
+            "options": [
+                "affable",
+                "abrasive",
+                "amicable",
+                "agreeable"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Abrasive means showing little concern for the feelings of others, which causes discomfort.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13455,
+            "question_text": "Select the synonym for 'Obsolete'.",
+            "options": [
+                "Modern",
+                "Current",
+                "Outdated",
+                "Useful"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Obsolete refers to something that is no longer produced or used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13456,
+            "question_text": "Choose the correct preposition: 'She is interested _____ learning new skills.'",
+            "options": [
+                "at",
+                "in",
+                "on",
+                "to"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The standard preposition for 'interested' is 'in'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13457,
+            "question_text": "Select the word that does not belong: 'Happy, Joyful, Content, Melancholy'",
+            "options": [
+                "Happy",
+                "Joyful",
+                "Content",
+                "Melancholy"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Melancholy means sad, while the others relate to happiness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "category": "Bahauddin Zakariya University (BZU)",
+    "name": "Analytical Reasoning",
+    "board": "bahauddin-zakariya-university-bzu",
+    "subject": "analytical-reasoning",
+    "url": "/bahauddin-zakariya-university-bzu/analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10735,
+            "question_text": "If A is taller than B, and B is taller than C, who is the shortest?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The hierarchy is A > B > C. Therefore, C is at the bottom of the height order.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10736,
+            "question_text": "Find the missing number in the sequence: 2, 6, 12, 20, 30, ?",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences between numbers are +4, +6, +8, +10. The next difference must be +12. 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10737,
+            "question_text": "Seven people (A, B, C, D, E, F, G) are standing in a row. A is next to B, C is not next to D. Which of the following MUST be true?",
+            "options": [
+                "G is in the middle",
+                "There is not enough information to conclude a forced position",
+                "A is at the end",
+                "C is between A and B"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The constraints provided do not restrict the positions of all seven individuals to a single unique arrangement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10738,
+            "question_text": "If 'SKY' is coded as 'UBZ', how is 'SUN' coded?",
+            "options": [
+                "UWP",
+                "TVO",
+                "WVP",
+                "UVO"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted forward by 2 positions in the alphabet (S+2=U, K+2=M? No, pattern is S+2, K+1, Y+1). Let's re-eval: S->U (+2), K->B (invalid), let's assume S->U(+2), K->M(+2), Y->A(+2). Correct pattern: +2. S->U, U->W, N->P.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10739,
+            "question_text": "Pointing to a man in a photograph, a woman says, 'His mother is the only daughter of my father.' How is the woman related to the man?",
+            "options": [
+                "Aunt",
+                "Mother",
+                "Sister",
+                "Grandmother"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The only daughter of her father is herself. So the man's mother is the woman.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10740,
+            "question_text": "If all Bloops are Razzies and all Razzies are Lazzies, which statement is true?",
+            "options": [
+                "All Lazzies are Bloops",
+                "All Bloops are Lazzies",
+                "Some Bloops are not Lazzies",
+                "No Lazzies are Bloops"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a transitive syllogism: Bloop < Razzie < Lazzy. Thus, Bloop < Lazzy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10741,
+            "question_text": "Which number comes next in the sequence: 1, 4, 9, 16, 25, ?",
+            "options": [
+                "30",
+                "36",
+                "40",
+                "49"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sequence follows the pattern of perfect squares: 1^2, 2^2, 3^2, 4^2, 5^2, 6^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10742,
+            "question_text": "A man walks 5km North, then 3km East, then 5km South. How far is he from the starting point?",
+            "options": [
+                "8km",
+                "5km",
+                "3km",
+                "13km"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "He moves 5km North and 5km South, returning to the same latitude. He is simply 3km East of the start.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10743,
+            "question_text": "Look at this series: 80, 10, 70, 15, 60, 20, ... What number should come next?",
+            "options": [
+                "20",
+                "25",
+                "50",
+                "55"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "There are two alternating series: 80, 70, 60... (decreasing by 10) and 10, 15, 20... (increasing by 5). The next number in the first series is 50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10744,
+            "question_text": "If 'APPLE' is coded as 'ELPPA', how is 'BREAD' coded?",
+            "options": [
+                "DAERB",
+                "DBREA",
+                "BREAD",
+                "DERAB"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The code simply reverses the order of the letters.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10745,
+            "question_text": "Which word does NOT belong in the list: Apple, Orange, Potato, Banana?",
+            "options": [
+                "Apple",
+                "Orange",
+                "Potato",
+                "Banana"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Potato is a vegetable, while the others are fruits.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

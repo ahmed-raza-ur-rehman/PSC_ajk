@@ -1,0 +1,277 @@
+{
+    "category": "Duolingo",
+    "name": "Reading",
+    "board": "duolingo",
+    "subject": "reading",
+    "url": "/duolingo/reading/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 19,
+    "questions": [
+        {
+            "id": 10158,
+            "question_text": "What is the primary benefit of taking the Duolingo English Test according to the official platform?",
+            "options": [
+                "It is the only English test accepted by global universities",
+                "It offers a convenient, fast, and affordable way to certify English proficiency",
+                "It requires students to travel to a physical testing center",
+                "It is designed exclusively for business professionals"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The platform emphasizes convenience, speed, and cost-effectiveness for test-takers globally.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10159,
+            "question_text": "Which of the following is an example of a 'read and select' task in the Duolingo English Test?",
+            "options": [
+                "Identifying real English words from a list",
+                "Writing a summary of a spoken audio clip",
+                "Recording yourself reading a passage aloud",
+                "Typing out a sentence you hear"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Reading section includes tasks where test-takers must distinguish between actual English words and made-up words that look like English.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10160,
+            "question_text": "What is the primary goal of the 'complete the sentence' reading task?",
+            "options": [
+                "To test your ability to translate sentences into your native language",
+                "To measure your ability to use context to fill in missing words",
+                "To see how fast you can type on a keyboard",
+                "To assess your knowledge of English literature"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This task assesses reading comprehension and grammatical understanding by requiring the student to complete a paragraph with logically and grammatically correct words.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10161,
+            "question_text": "In a reading passage, if an author uses the word 'nevertheless', what is the most likely purpose?",
+            "options": [
+                "To introduce an example",
+                "To show a contrast or concession",
+                "To emphasize a point",
+                "To signal a conclusion"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The word 'nevertheless' acts as a transition to show that what follows is contrary to what was previously stated.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10162,
+            "question_text": "When reading a long text during the exam, which strategy is most effective for answering detail-based questions?",
+            "options": [
+                "Skimming the text for keywords",
+                "Reading every word slowly multiple times",
+                "Ignoring the paragraphs you don't understand",
+                "Memorizing the entire passage"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Skimming allows a test-taker to quickly locate specific information relevant to a question without wasting time on irrelevant details.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10163,
+            "question_text": "If a text says, 'The scientist’s hypothesis was refuted by the subsequent data,' what does 'refuted' mean?",
+            "options": [
+                "Supported",
+                "Proved false",
+                "Expanded upon",
+                "Ignored"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To refute something means to prove that it is wrong or false using evidence or data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10164,
+            "question_text": "What is the main advantage of taking the Duolingo English Test according to its official site?",
+            "options": [
+                "It is significantly cheaper and more convenient than traditional tests.",
+                "It is only accepted by universities in the United States.",
+                "It requires in-person testing at a local center.",
+                "It is shorter than other English proficiency exams."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The test is designed to be accessible, on-demand, and more affordable than traditional testing alternatives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10165,
+            "question_text": "Which task involves choosing the correct words from a provided list to fit a text?",
+            "options": [
+                "Reading comprehension",
+                "Read and select",
+                "Sentence dictation",
+                "Essay writing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'read and select' task specifically involves identifying valid words from a list to fill gaps or identify vocabulary.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10166,
+            "question_text": "What is the primary goal of a sentence completion task?",
+            "options": [
+                "To test your creative writing ability.",
+                "To evaluate your understanding of context and grammar.",
+                "To determine your ability to memorize long passages.",
+                "To assess how fast you can type."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Completing sentences requires knowledge of how words function together logically and grammatically.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10167,
+            "question_text": "If an author includes the word 'nevertheless' in a paragraph, what is their likely goal?",
+            "options": [
+                "To introduce a cause and effect relationship.",
+                "To emphasize that the next point is a summary.",
+                "To show a contrast or concession to the previous point.",
+                "To signal that a chronological sequence is starting."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Nevertheless' is a transitional word used to introduce a statement that contrasts with or qualifies the preceding one.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10168,
+            "question_text": "What is the best strategy for answering detail-based questions in a long passage?",
+            "options": [
+                "Read the entire passage multiple times before looking at questions.",
+                "Skim the text to find keywords related to the question.",
+                "Guess the answer based on the title of the text.",
+                "Skip the text and answer based on general knowledge."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scanning for specific keywords helps you locate the exact area where the answer is found efficiently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10169,
+            "question_text": "If a text states, 'The scientist’s hypothesis was refuted by the data,' what does 'refuted' mean?",
+            "options": [
+                "Supported",
+                "Disproven",
+                "Expanded",
+                "Ignored"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To refute something means to prove it wrong or provide evidence to contradict it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10170,
+            "question_text": "What is the primary advantage of choosing the Duolingo English Test?",
+            "options": [
+                "It is completely free of charge.",
+                "It is convenient, affordable, and accessible anywhere.",
+                "It requires an in-person interview.",
+                "It takes exactly five minutes to complete."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The official platform emphasizes the test's flexibility, low cost, and the ability to take it from home, unlike traditional testing centers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10171,
+            "question_text": "Which task asks you to pick real words from a list to fill blanks?",
+            "options": [
+                "Reading comprehension summary.",
+                "Sentence completion using word selection.",
+                "Dictation of audio clips.",
+                "Describing a photograph."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This task assesses vocabulary knowledge by requiring test-takers to identify authentic English words to complete a given passage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10172,
+            "question_text": "What is the main purpose of the sentence completion reading task?",
+            "options": [
+                "To test your ability to memorize entire essays.",
+                "To evaluate your understanding of context and grammar.",
+                "To check if you can type at high speeds.",
+                "To practice speaking aloud."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Filling in blanks requires understanding how words fit grammatically and contextually within a sentence structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10173,
+            "question_text": "How should you interpret the word 'nevertheless' in an academic passage?",
+            "options": [
+                "It indicates the author is agreeing with the previous point.",
+                "It introduces a contrasting or unexpected result.",
+                "It means the author is repeating their main argument.",
+                "It is used to list items in a sequence."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Nevertheless' is a transition word used to show that a statement is true despite what was previously mentioned.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10174,
+            "question_text": "What is the best way to handle detail-based questions in a long reading text?",
+            "options": [
+                "Read only the first sentence of every paragraph.",
+                "Scan for keywords and locate the specific sentence containing the information.",
+                "Skip the text and guess based on prior knowledge.",
+                "Read the entire text five times before answering."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Efficient testing involves scanning to find the specific area of the text where the answer to a detail question resides.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10176,
+            "question_text": "What does a 'read and select' task typically involve?",
+            "options": [
+                "Writing a summary of a provided passage.",
+                "Identifying real English words from a list of fake words.",
+                "Translating a text into another language.",
+                "Speaking about the reading passage."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This task tests vocabulary by presenting a list and asking the student to filter the authentic English words from the nonsense ones.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10177,
+            "question_text": "Why must you read instructions carefully during the reading section?",
+            "options": [
+                "To make sure you answer every question correctly within the time limit.",
+                "Because the instructions are meant to trick you.",
+                "To ensure you memorize the passage content.",
+                "Because there is no time limit at all."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each reading sub-task has specific requirements, and following them ensures you don't lose points due to formatting or process errors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

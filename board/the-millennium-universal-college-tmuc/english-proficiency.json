@@ -1,0 +1,277 @@
+{
+    "category": "The Millennium Universal College (TMUC)",
+    "name": "English Proficiency",
+    "board": "the-millennium-universal-college-tmuc",
+    "subject": "english-proficiency",
+    "url": "/the-millennium-universal-college-tmuc/english-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 19,
+    "questions": [
+        {
+            "id": 13075,
+            "question_text": "Which sentence demonstrates the correct use of business formal grammar?",
+            "options": [
+                "The manager said they was going to be late.",
+                "Each of the candidates have submitted their application.",
+                "Every applicant must submit their portfolio by the deadline.",
+                "Me and him went to the business conference."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This sentence uses proper subject-verb agreement and formal syntax suitable for an academic environment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13076,
+            "question_text": "Choose the most appropriate synonym for 'mitigate' in a business report context:",
+            "options": [
+                "Exacerbate",
+                "Alleviate",
+                "Terminate",
+                "Investigate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To 'mitigate' means to make something less severe or painful, which is synonymous with 'alleviate'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13077,
+            "question_text": "Identify the grammatically correct sentence for a professional business email.",
+            "options": [
+                "The team have decided to move the meeting to Monday.",
+                "The team has decided to move the meeting to Monday.",
+                "The team is decide to move the meeting to Monday.",
+                "The team been decided to move the meeting to Monday."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The collective noun 'team' takes a singular verb 'has' in standard American English, and 'decided' is the correct past participle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13078,
+            "question_text": "Choose the most appropriate business-formal synonym for the word 'fix' in the context of a project error.",
+            "options": [
+                "Patch",
+                "Rectify",
+                "Mess",
+                "Doctor"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Rectify' is a formal term used in business settings to describe the correction of errors or problems.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13079,
+            "question_text": "Which phrase correctly completes the sentence: 'The marketing budget was __________ by the executive board yesterday.'",
+            "options": [
+                "Approved",
+                "Approve",
+                "Approving",
+                "Approves"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This requires the past participle form of the verb to construct the passive voice used in reports.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13080,
+            "question_text": "What is the purpose of using a 'passive voice' in formal academic and business writing?",
+            "options": [
+                "To emphasize the person performing the action",
+                "To make the writing sound more exciting",
+                "To focus on the object or result of the action rather than the actor",
+                "To reduce the word count of a report"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Passive voice is often used in business to remain objective and focus on facts rather than individual blame or credit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13081,
+            "question_text": "Choose the correct preposition to complete the sentence: 'The company is committed __________ excellence in customer service.'",
+            "options": [
+                "to",
+                "for",
+                "with",
+                "by"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The idiomatic structure is 'committed to' followed by a noun or gerund.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13082,
+            "question_text": "Choose the correct phrase to complete the sentence: 'The team __________ to meet the deadline despite the technical difficulties.'",
+            "options": [
+                "was manage",
+                "managed",
+                "is manage",
+                "been manage"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sentence requires the past simple tense to describe an action that was completed, making 'managed' the correct verb form.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13083,
+            "question_text": "Select the option that best corrects the dangling modifier in: 'Running to catch the bus, my briefcase fell open.'",
+            "options": [
+                "My briefcase fell open while I was running to catch the bus.",
+                "Running to catch the bus, the briefcase fell open.",
+                "The briefcase fell open running to catch the bus.",
+                "Falling open, I was running to catch the bus with my briefcase."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The original sentence implies the briefcase was running; correcting the structure clarifies that 'I' am the one running.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13084,
+            "question_text": "Which word is the most appropriate professional synonym for 'got' in a formal business context?",
+            "options": [
+                "Grabbed",
+                "Acquired",
+                "Picked up",
+                "Snagged"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In formal writing, 'acquired' is a precise and professional verb that replaces the informal 'got'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13085,
+            "question_text": "Identify the sentence that uses the semicolon correctly.",
+            "options": [
+                "We have completed the report; it is ready for review.",
+                "We have completed; the report it is ready for review.",
+                "We have completed the report; and it is ready.",
+                "The report; is ready for review."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A semicolon is used to join two independent clauses that are closely related in thought.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13086,
+            "question_text": "Choose the best transition word for the following sentence: 'The quarterly revenue increased by 5%; __________, operating costs rose by 10%.'",
+            "options": [
+                "Consequently",
+                "Therefore",
+                "However",
+                "Similarly"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'However' signals a contrast between the positive revenue growth and the negative rise in operating costs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13087,
+            "question_text": "Which sentence follows the rules of subject-verb agreement?",
+            "options": [
+                "The group of consultants are arriving today.",
+                "Every one of the employees are invited to the meeting.",
+                "The collection of data files was corrupted.",
+                "Each of the managers have submitted their reports."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The subject is 'collection' (singular), so it requires the singular verb 'was'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13088,
+            "question_text": "Which of the following is an example of an 'active voice' sentence?",
+            "options": [
+                "The decision was made by the board.",
+                "The annual report was published by the firm.",
+                "The project manager submitted the proposal on time.",
+                "The files were organized by the administrative assistant."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Active voice places the performer of the action (project manager) before the verb, creating a more direct style.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13089,
+            "question_text": "Which sentence correctly uses an adverb to modify a verb in a business context?",
+            "options": [
+                "The manager spoke calm during the meeting.",
+                "The manager spoke calmly during the meeting.",
+                "The manager spoke most calm during the meeting.",
+                "The manager spoke calmness during the meeting."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Adverbs are used to modify verbs; 'calmly' is the correct adverbial form of 'calm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13090,
+            "question_text": "Choose the correct form of the verb to complete this sentence: 'Neither the CEO nor the board members __________ the current proposal.'",
+            "options": [
+                "supports",
+                "support",
+                "is supporting",
+                "have supporting"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When using 'neither/nor', the verb agrees with the subject closest to it. Since 'board members' is plural, the verb must be 'support'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13091,
+            "question_text": "Identify the word that is improperly used in this sentence: 'Their are many reasons why the company decided to divest its assets.'",
+            "options": [
+                "Their",
+                "reasons",
+                "divest",
+                "assets"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Their' is a possessive pronoun; the correct word should be 'There', which acts as an existential adverb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13092,
+            "question_text": "Which word best completes the sentence: 'The candidate’s portfolio was __________ organized, making it easy to review.'",
+            "options": [
+                "meticulously",
+                "meticulous",
+                "meticulousness",
+                "meticulouser"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An adverb is required to modify the participle 'organized'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13093,
+            "question_text": "Choose the formal business synonym for 'give the go-ahead':",
+            "options": [
+                "Approve",
+                "Hand over",
+                "Pass on",
+                "Check out"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Approve' is the professional, formal standard for authorizing a project or action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

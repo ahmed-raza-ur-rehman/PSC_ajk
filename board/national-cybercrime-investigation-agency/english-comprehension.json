@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "English — Comprehension",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "english-comprehension",
+    "url": "/national-cybercrime-investigation-agency/english-comprehension/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14573,
+            "question_text": "Passage: The rapid proliferation of digital communication platforms, while hailed as a democratic equalizer, has inadvertently created new avenues for misinformation. The sheer volume and velocity of information exchanged make it challenging for the average user to distinguish between credible reporting and manipulative content. Furthermore, the algorithms governing these platforms often prioritize engagement over veracity, creating echo chambers where preconceived notions are reinforced and alternative viewpoints are systematically marginalized. This necessitates a critical shift in media literacy, moving beyond mere consumption to active, skeptical vetting of sources.\n\nAccording to the passage, what is the most critical problem presented regarding digital communication platforms?",
+            "options": [
+                "The primary issue is the marginalization of alternative viewpoints due to restricted communication avenues.",
+                "Digital platforms have completely erased the distinction between credible and non-credible reporting.",
+                "The algorithmic preference for engagement compromises the truthfulness of shared content.",
+                "The average user lacks the necessary skills to filter out excessive volumes of information."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The passage explicitly states that algorithms prioritizing engagement over veracity is the core systemic problem leading to the spread of misinformation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

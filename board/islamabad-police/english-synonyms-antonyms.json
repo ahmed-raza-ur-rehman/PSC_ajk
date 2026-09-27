@@ -1,0 +1,333 @@
+{
+    "category": "Islamabad Police",
+    "name": "English — Synonyms & Antonyms",
+    "board": "islamabad-police",
+    "subject": "english-synonyms-antonyms",
+    "url": "/islamabad-police/english-synonyms-antonyms/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 23,
+    "questions": [
+        {
+            "id": 6994,
+            "question_text": "The Paris Agreement (under the UNFCCC) fundamentally shifted global climate commitments toward which mechanism, emphasizing national ownership of climate action?",
+            "options": [
+                "Nationally Determined Contributions (NDCs) set by signatory nations.",
+                "Binding multilateral quotas set by the UN Security Council.",
+                "Global carbon tax levied uniformly across all developed nations.",
+                "Mandatory adoption of renewable energy sources by all industrialized economies."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Paris Agreement operationalizes a 'bottom-up' approach where each participating country sets and updates its own climate goals, formally known as Nationally Determined Contributions (NDCs).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7058,
+            "question_text": "The 'Aga Khan Award for Culture' (AKAC) is primarily dedicated to recognizing excellence in which field?",
+            "options": [
+                "Visual Arts and Performing Arts",
+                "Journalism and Investigative Reporting",
+                "Literature and Academic Thought",
+                "Science and Technology Research"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Aga Khan Award for Culture (AKAC) is a prestigious global award that honors significant achievements across various cultural spheres, particularly visual and performing arts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7250,
+            "question_text": "The 'Nobel Peace Prize' recipient following the 2017 Nobel Peace Prize ceremony was recognized for his efforts in promoting constitutional reform and democracy in which country?",
+            "options": [
+                "Belarus",
+                "Myanmar",
+                "Venezuela",
+                "Iran"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 2017 Nobel Peace Prize was awarded for efforts for peace and democracy in Myanmar, honoring its democratic struggle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7314,
+            "question_text": "Which institution is primarily responsible for setting academic standards and guidelines for science and technology universities in Pakistan?",
+            "options": [
+                "Higher Education Commission (HEC)",
+                "National Testing Service (NTS)",
+                "Pakistan Engineering Council (PEC)",
+                "Pakistan Institute of Engineers and Architects (PIEA)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Higher Education Commission (HEC) is the statutory body responsible for regulating and setting academic standards and guidelines for higher education, including science and technology universities, across Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7378,
+            "question_text": "Which global initiative, primarily aimed at combating climate change and promoting sustainable development, was adopted at the Rio Earth Summit and later formalized into the 2030 Agenda for Sustainable Development?",
+            "options": [
+                "Kyoto Protocol",
+                "Paris Agreement",
+                "Agenda 21",
+                "Sustainable Development Goals (SDGs)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The SDGs are the comprehensive 17 goals adopted following the 2015 Sustainable Development Summit, encompassing broader goals beyond the scope of the Paris Agreement (which focuses on climate). (Note: While the Paris Agreement is critical, the SDGs are the overarching framework.)",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7442,
+            "question_text": "Which of the following international organizations is primarily concerned with maintaining global peace and security through collective action, and where are its main headquarters located?",
+            "options": [
+                "International Monetary Fund (IMF), Washington D.C.",
+                "United Nations (UN), New York",
+                "World Health Organization (WHO), Geneva",
+                "World Trade Organization (WTO), Geneva"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The UN is the principal global body for maintaining peace and security, with its primary headquarters situated in New York.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7506,
+            "question_text": "Which Nobel Peace Prize laureate, known for his non-violent movement, was instrumental in the formation of the Swarnarekha mission focused on women's rights and education in South Asia?",
+            "options": [
+                "M. K. Gandhi",
+                "Mahatma Gandhi",
+                "Nelson Mandela",
+                "Mother Teresa"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mahatma Gandhi is the figure most strongly associated with non-violent civil rights and educational movements across South Asia, making him the intended answer despite the specific historical reference to the 'Swarnarekha mission'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7570,
+            "question_text": "Which international body, responsible for coordinating human rights law and standards, was established following the Cold War era and plays a significant role in monitoring state compliance with human rights conventions?",
+            "options": [
+                "World Trade Organization (WTO)",
+                "United Nations Security Council (UNSC)",
+                "International Criminal Court (ICC)",
+                "Human Rights Council (HRC)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Human Rights Council (HRC) is the primary UN body dedicated to developing, promoting, and reviewing international human rights standards and compliance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7682,
+            "question_text": "Which international body recently elevated the status of climate change action from mere policy recommendation to a core component of national security strategies, significantly impacting global development goals?",
+            "options": [
+                "G20",
+                "World Bank",
+                "UN Security Council",
+                "IMF"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The UN Security Council (UNSC) has, through various resolutions and discussions, increasingly recognized climate change as a threat to international peace and security, urging member states to integrate it into their national security doctrines.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7838,
+            "question_text": "The Nobel Prize in Literature was initially intended to recognize literary contribution based on which foundational concept?",
+            "options": [
+                "Outstanding contributions to world literature",
+                "Excellence in dramatic poetry and verse",
+                "Scientific literary translation",
+                "Historical narrative and geopolitical commentary"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Nobel Prize in Literature is awarded for outstanding work in an area of literature that enhances global knowledge and appreciation, encompassing all forms of world literature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7888,
+            "question_text": "Which international treaty aims to prohibit the development, production, and use of chemical weapons in warfare?",
+            "options": [
+                "Geneva Protocol",
+                "Outer Space Treaty",
+                "Chemical Weapons Convention (CWC)",
+                "Biological Weapons Convention (BWC)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The CWC specifically prohibits the development, production, and use of chemical weapons, marking a critical step in global disarmament efforts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7982,
+            "question_text": "Which prominent scientist, known for his contributions to theoretical physics, is associated with the concept of general relativity, which fundamentally changed our understanding of gravity and spacetime?",
+            "options": [
+                "Albert Einstein",
+                "Niels Bohr",
+                "Werner Heisenberg",
+                "Max Planck"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Albert Einstein developed the theory of general relativity, describing gravity not as a force, but as the curvature of spacetime caused by mass and energy. Bohr relates to atomic structure, and Planck introduced quantum theory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8033,
+            "question_text": "The historical treaty that officially marked the beginning of the Partition of India, leading to the creation of Pakistan, was signed in which city?",
+            "options": [
+                "Karachi",
+                "Mecca",
+                "Sealdah",
+                "Lahore"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While the final partition arrangements were complex, the resolution and formal movement for Pakistan were solidified by the Lahore Resolution (Pakistan Resolution) passed in Lahore in 1940.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8080,
+            "question_text": "Consider the following pairings of Pakistani historical figures and the associated awards/titles they received: 1. Allama Iqbal: Poet-Philosopher; 2. Muhammad Ali Jinnah: Quaid-e-Azam; 3. Liaquat Ali Khan: Beacon of Pakistan. Which of the above pairings are correctly matched?",
+            "options": [
+                "2 and 3 only",
+                "1 and 2 only",
+                "1 only",
+                "All are correctly matched"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Allama Iqbal is famously known as the Poet-Philosopher. Muhammad Ali Jinnah is known as Quaid-e-Azam. Liaquat Ali Khan was titled 'Nawab of Pakistan' or 'Second Founder', not 'Beacon of Pakistan'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8130,
+            "question_text": "Which of the following international organizations focuses on promoting economic cooperation and trade among developing nations, often associated with the Global South?",
+            "options": [
+                "G20",
+                "BRICS",
+                "UNESCO",
+                "SAARC"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "BRICS stands for Brazil, Russia, India, China, and South Africa, representing major developing economies and coordinating on global economic issues.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8230,
+            "question_text": "Which major international treaty, often cited in discussions of climate justice and cross-border environmental issues, mandates comprehensive national action plans for greenhouse gas emissions reduction?",
+            "options": [
+                "Montreal Protocol",
+                "Kyoto Protocol",
+                "Basel Convention",
+                "Paris Agreement"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Paris Agreement is a landmark international treaty aimed at limiting global warming, requiring countries to submit Nationally Determined Contributions (NDCs) to reduce emissions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8277,
+            "question_text": "Which major economic body, primarily concerned with trade liberalization and global economic governance, often mandates agreements that member states must implement to maintain access to global markets?",
+            "options": [
+                "The Global Financial Stability Board (FSB)",
+                "The World Bank (WB)",
+                "The International Monetary Fund (IMF)",
+                "The World Trade Organization (WTO)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The WTO governs international trade agreements, focusing specifically on reducing tariffs and trade barriers among its members. The IMF deals with currency stability, and the World Bank focuses on development funding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8327,
+            "question_text": "Which Pakistani academic body is responsible for conducting entrance examinations for academic programs and research fellowships at various public and private institutions?",
+            "options": [
+                "NTS",
+                "ECPCR",
+                "PM&DC",
+                "HEC"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "NTS (National Testing Service) is the primary body in Pakistan responsible for administering standardized entrance examinations for various academic programs and fellowships.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8374,
+            "question_text": "Which constitutional amendment is most widely associated with re-establishing the supremacy of the Islamic character and Shariah principles in the constitutional framework of Pakistan?",
+            "options": [
+                "Seventeenth Amendment (2010)",
+                "Eighteenth Amendment (2010)",
+                "Twentieth Amendment (1973)",
+                "Thirteenth Amendment (1972)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Seventeenth Amendment (related to the 2003 constitutional provisions) emphasized the supremacy of Islamic provisions, particularly regarding the constitutional Islamic identity of the state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14094,
+            "question_text": "Which Nobel Peace Prize winner, known for his activism in South Africa, was awarded the prize following the end of apartheid and advocated for non-violent resistance?",
+            "options": [
+                "Mandela",
+                "Mandella",
+                "Mandella's",
+                "Nkrumah"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Nelson Mandela was a key figure in the anti-apartheid struggle, winning the Nobel Peace Prize in 1993.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20315,
+            "question_text": "The award given to Pakistan's best performance in public service and governance, often associated with civil service excellence, is most closely linked to:",
+            "options": [
+                "The Pakistan Citizen Award (PCA)",
+                "The National Merit Certificate",
+                "The Golden Quill Award",
+                "The Nishan-e-Haider"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Pakistan Citizen Award (PCA) is an initiative designed to recognize and promote best practices and service excellence across various public sectors and civil services.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20405,
+            "question_text": "Which international forum mandates cooperation among member states regarding climate change mitigation and sustainable development goals (SDGs), making it highly relevant for Pakistani policy objectives?",
+            "options": [
+                "United Nations Framework Convention on Climate Change (UNFCCC)",
+                "World Trade Organization (WTO)",
+                "World Bank Group (WBG)",
+                "International Monetary Fund (IMF)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The UNFCCC coordinates global efforts, setting policy frameworks and targets for reducing greenhouse gas emissions and addressing climate change, which is critical for developing nations like Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20490,
+            "question_text": "Which international organization established the 'Global Index of Democracy'; a measure that ranks countries based on democratic health?",
+            "options": [
+                "Economist Intelligence Unit (EIU)",
+                "International Monetary Fund (IMF)",
+                "World Bank (WB)",
+                "Transnational Institute (TNI)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Economist Intelligence Unit (EIU) publishes the World Economist Democracy Index, which ranks countries' democratic health.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

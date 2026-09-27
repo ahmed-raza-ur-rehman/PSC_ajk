@@ -1,0 +1,151 @@
+{
+    "category": "Higher Education Commission (HEC) / Individual Universities",
+    "name": "Business Administration",
+    "board": "higher-education-commission-hec-individual-universities",
+    "subject": "business-administration",
+    "url": "/higher-education-commission-hec-individual-universities/business-administration/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11673,
+            "question_text": "Which management theory emphasizes the importance of employee motivation and social factors in the workplace?",
+            "options": [
+                "Scientific Management",
+                "Human Relations Movement",
+                "Bureaucratic Theory",
+                "Administrative Theory"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Human Relations movement, highlighted by the Hawthorne Studies, focuses on psychological and social needs of employees.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11674,
+            "question_text": "In a SWOT analysis, which two components are considered internal to the organization?",
+            "options": [
+                "Strengths and Weaknesses",
+                "Opportunities and Threats",
+                "Strengths and Opportunities",
+                "Weaknesses and Threats"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Strengths and weaknesses refer to internal factors within the company's control, whereas opportunities and threats are external.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11675,
+            "question_text": "Which leadership style is characterized by a leader who makes decisions independently with little input from subordinates?",
+            "options": [
+                "Democratic",
+                "Laissez-faire",
+                "Autocratic",
+                "Transformational"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Autocratic leadership involves centralized decision-making where the leader maintains total control.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11676,
+            "question_text": "According to Porter's Five Forces, what is a key factor that increases the bargaining power of buyers?",
+            "options": [
+                "There are very few buyers in the market",
+                "The products are highly differentiated and unique",
+                "The costs for a buyer to switch to a competitor are very low",
+                "The industry has high barriers to entry"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When switching costs are low, buyers have more flexibility to move to competitors, which strengthens their bargaining power.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11677,
+            "question_text": "What is the primary goal of 'Six Sigma' in a business operation?",
+            "options": [
+                "To increase marketing spend",
+                "To reduce process variation and eliminate defects",
+                "To maximize short-term share price",
+                "To encourage employee unionization"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Six Sigma is a set of management techniques intended to improve business processes by greatly reducing the probability of error or defect.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11678,
+            "question_text": "Which concept describes a company's attempt to differentiate its product by focusing on specific consumer needs?",
+            "options": [
+                "Market Segmentation",
+                "Economies of Scale",
+                "Vertical Integration",
+                "Predatory Pricing"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Market segmentation involves dividing a broad target market into subsets of consumers who have common needs and priorities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11679,
+            "question_text": "What is the primary characteristic of a 'matrix structure' in an organization?",
+            "options": [
+                "Only one chain of command",
+                "Employees report to both a functional manager and a project manager",
+                "Decision making is purely bottom-up",
+                "The organization has no managers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In a matrix organization, team members have dual reporting relationships, usually to a functional head and a project lead.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11680,
+            "question_text": "What does the 'Product Life Cycle' theory suggest occurs during the 'Maturity' stage?",
+            "options": [
+                "Sales grow rapidly and competition is low",
+                "The product is first introduced to the market",
+                "Sales growth slows and profit margins often decline due to competition",
+                "The product is withdrawn from the market"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In the maturity stage, the market is saturated, competition is intense, and companies must focus on cost-cutting or product differentiation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11681,
+            "question_text": "Which management style, according to the Managerial Grid, balances task-oriented and people-oriented concerns?",
+            "options": [
+                "Impoverished Management",
+                "Country Club Management",
+                "Team Management",
+                "Authority-Compliance Management"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Team management (9,9) represents a high concern for both production and people, which is generally viewed as the most effective style.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11682,
+            "question_text": "What is 'Just-in-Time' (JIT) manufacturing primarily designed to minimize?",
+            "options": [
+                "Labor costs",
+                "Inventory holding costs",
+                "Marketing expenses",
+                "Legal overhead"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "JIT aims to receive goods only as they are needed in the production process, thereby reducing the costs associated with storing inventory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

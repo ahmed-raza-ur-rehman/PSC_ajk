@@ -1,0 +1,95 @@
+{
+    "category": "DVSA",
+    "name": "Documents",
+    "board": "dvsa",
+    "subject": "documents",
+    "url": "/dvsa/documents/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 6,
+    "questions": [
+        {
+            "id": 6865,
+            "question_text": "What document must you present if a police officer requests it after an incident?",
+            "options": [
+                "Your MOT certificate",
+                "Your driving licence",
+                "Your car manual",
+                "A copy of your car purchase receipt"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Drivers are legally required to produce their driving licence if requested by a police officer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6866,
+            "question_text": "If a police officer asks to see your documents after a road incident, which document are you legally required to produce?",
+            "options": [
+                "Your passport",
+                "Your proof of employment",
+                "Your valid driving licence",
+                "Your vehicle's annual service record"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "You are legally required to show your driving licence, insurance certificate, and MOT certificate if requested by a police officer following an incident.",
+            "is_past_paper": true,
+            "exam_source": "past paper 2024"
+        },
+        {
+            "id": 8418,
+            "question_text": "Which of these documents must you produce if a police officer asks to see them?",
+            "options": [
+                "Your MOT certificate, insurance, and driving licence",
+                "Your passport and vehicle purchase receipt",
+                "A copy of your car manual",
+                "Your recent maintenance service record"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Drivers are legally required to produce these documents upon request by the authorities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8419,
+            "question_text": "When are you required to show your insurance certificate to a police officer?",
+            "options": [
+                "Only if you have been involved in an accident",
+                "Only if you are driving a commercial vehicle",
+                "If they ask to see it at any time while driving",
+                "Only if your car is over 3 years old"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "You must be able to produce your driving documents if requested by a police officer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8420,
+            "question_text": "Which documents must you be prepared to provide if asked by a police officer?",
+            "options": [
+                "Only your driving licence",
+                "Driving licence, insurance, and MOT certificate",
+                "Vehicle registration and passport",
+                "Driving licence and vehicle manual"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Police officers are legally allowed to request proof of your identity, vehicle insurance, and that your vehicle is roadworthy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8421,
+            "question_text": "At what point are you legally required to present your insurance certificate to a police officer?",
+            "options": [
+                "Only if you have been involved in an accident",
+                "When requested by the officer",
+                "Only if you are stopped for speeding",
+                "Within 24 hours of being asked"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "You must produce valid insurance documentation if a police officer asks to see it while on duty.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

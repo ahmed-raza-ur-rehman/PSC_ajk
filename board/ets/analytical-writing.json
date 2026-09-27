@@ -1,0 +1,347 @@
+{
+    "category": "ETS",
+    "name": "Analytical Writing",
+    "board": "ets",
+    "subject": "analytical-writing",
+    "url": "/ets/analytical-writing/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 24,
+    "questions": [
+        {
+            "id": 9500,
+            "question_text": "Based on the provided texts, why is it beneficial for a student to research multiple graduate admission tests before choosing one?",
+            "options": [
+                "Because all graduate schools require every available test.",
+                "To understand how each exam aligns with their personal strengths, goals, and academic path.",
+                "To ensure they spend the most money possible on application fees.",
+                "Because the GMAT is the only test accepted by top-tier universities."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text states that choosing the right test is a key step, and comparing exams helps students see how each aligns with their specific goals and strengths.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9501,
+            "question_text": "Why might an applicant choose to use the ScoreSelect® option?",
+            "options": [
+                "To automatically send all their test scores to every school.",
+                "To avoid paying any registration fees.",
+                "To choose only their strongest scores to show to admissions committees.",
+                "To hide their identity from the schools they are applying to."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "ScoreSelect® is specifically designed to allow test-takers to decide which of their GRE scores they want to send to the programs they are applying to.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9502,
+            "question_text": "What is the primary purpose of the GRE as mentioned in the text?",
+            "options": [
+                "To measure skills developed over time that predict graduate school success.",
+                "To guarantee acceptance into every law school in the United States.",
+                "To replace the need for a university degree.",
+                "To serve as the only factor in admissions decisions."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The text explicitly states that the GRE measures skills such as verbal reasoning, quantitative reasoning, and analytical writing that are developed over time and predict success in graduate school.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9503,
+            "question_text": "How does the flexibility of the GRE's test design benefit the test-taker during the actual exam?",
+            "options": [
+                "It allows them to use external reference books during the test.",
+                "It lets them skip questions and return to them later, and review/change answers within a section.",
+                "It allows them to finish the exam at any time they choose.",
+                "It permits them to work in groups during the quantitative section."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The GRE design provides flexibility by allowing test-takers to tag and skip questions, and to review or change their answers before finishing a section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9504,
+            "question_text": "When an admissions committee reviews your application, which of the following is most likely true regarding your GRE score?",
+            "options": [
+                "It is the only factor they consider for admission",
+                "It is one piece of a holistic evaluation including GPA and essays",
+                "It is used exclusively to determine scholarship amounts",
+                "It is discarded if you have work experience"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text emphasizes that programs evaluate candidates holistically, with the GRE score being just one of several components.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9505,
+            "question_text": "Which of the following best reflects the 'test-optional' reality for applicants?",
+            "options": [
+                "Test-optional means you should never submit a score",
+                "Submitting a score is a waste of time",
+                "Submitting a score can provide a competitive edge in the selection process",
+                "Admissions committees do not look at scores even if submitted"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to the text, test-optional policies offer a choice, and submitting scores can often give an applicant an edge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9506,
+            "question_text": "If an applicant is considering both the GRE and another test, what should they prioritize when making a decision?",
+            "options": [
+                "Choosing the test that is most expensive",
+                "Choosing the test that has the shortest duration",
+                "Comparing program acceptance policies and alignment with their academic strengths",
+                "Taking whichever test their friends are taking"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The text advises prospective students to research tests to determine which one best fits their personal goals and program requirements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9508,
+            "question_text": "How does the flexibility of the GRE design support an applicant during the actual testing process?",
+            "options": [
+                "It forces the applicant to work faster under pressure",
+                "It allows the test-taker to manage their time by skipping and returning to questions",
+                "It ensures that all applicants finish at the exact same second",
+                "It removes the need to write an essay"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ability to tag, skip, and revisit questions within a section provides test-takers with more control over their performance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9509,
+            "question_text": "Why do programs emphasize a 'holistic' review process?",
+            "options": [
+                "To make the application process shorter",
+                "To assess candidates based on a comprehensive view of their qualifications",
+                "To ignore test scores entirely",
+                "To prioritize applicants from specific regions"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Holistic review is defined by considering multiple factors, such as GPA, experience, and recommendations, alongside test scores.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9510,
+            "question_text": "Which argument supports taking the GRE for law school admission?",
+            "options": [
+                "It is required by all law schools",
+                "It is a versatile test accepted by many graduate and business programs as well",
+                "It is significantly longer than the LSAT",
+                "It makes the application process harder"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The GRE is promoted as a versatile option that opens doors to various fields, including business and graduate programs, not just law.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9511,
+            "question_text": "If a student wants to showcase their potential for success, how can the GRE assist?",
+            "options": [
+                "By providing a standardized measurement of skills that predict graduate success",
+                "By ensuring automatic admission to all schools",
+                "By removing the need for an interview",
+                "By being the least important part of the application"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The test is designed to measure skills that are reliable indicators of future performance in rigorous academic environments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9512,
+            "question_text": "What is the benefit of the GRE being available year-round?",
+            "options": [
+                "It allows students to schedule based on their personal prep timeline",
+                "It forces students to take the test as quickly as possible",
+                "It makes the test cheaper",
+                "It is only available on one specific day of the year"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Year-round availability removes the constraint of limited test dates, supporting a more flexible preparation strategy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9513,
+            "question_text": "How does the ScoreSelect® option reflect the student-centered nature of the GRE?",
+            "options": [
+                "It lets the school decide which score to look at",
+                "It gives the student control over which scores they report to admissions committees",
+                "It automatically sends all scores to every school",
+                "It hides all bad scores from the student"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ScoreSelect® empowers the applicant by allowing them to choose only the strongest scores they want the committees to see.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9514,
+            "question_text": "Why is the 5-year score validity significant for long-term career planning?",
+            "options": [
+                "It forces students to retake the test every year",
+                "It gives students a generous window to apply to programs without needing to re-test",
+                "It means scores are only valid if you work for 5 years",
+                "It makes scores expire too quickly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 5-year validity offers students the freedom to plan their graduate applications at a pace that suits their life and career goals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9515,
+            "question_text": "How does the variety of programs that accept the GRE benefit a student?",
+            "options": [
+                "It allows a student to apply to diverse schools with one assessment",
+                "It forces a student to pick only one field of study",
+                "It makes the application process more complicated",
+                "It limits the student's choices"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The widespread acceptance across business, law, and graduate programs means a student can potentially use one test score for a variety of applications.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9516,
+            "question_text": "What is the implication of 83% of test-takers who submit GRE scores being accepted into master's programs?",
+            "options": [
+                "The GRE does not help with master's programs",
+                "The GRE is a positive factor for a large majority of successful applicants",
+                "Master's programs prefer candidates without test scores",
+                "Only 17% of people get into master's programs"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The high acceptance rate of score-submitters highlights the value that graduate programs place on the GRE for master's level admissions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9517,
+            "question_text": "How does the GRE demonstrate its 'versatility'?",
+            "options": [
+                "By being restricted to only one type of career path",
+                "By being accepted across graduate, business, and law school disciplines",
+                "By being the most expensive option available",
+                "By excluding analytical writing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The term 'versatile' refers to the test's widespread use across different academic and professional graduate school categories.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9518,
+            "question_text": "Why should a student research individual school policies despite the widespread acceptance of the GRE?",
+            "options": [
+                "Because some schools have unique score-use policies that should be prioritized",
+                "Because schools might charge extra for GRE scores",
+                "Because the GRE is never accepted at schools that take the LSAT",
+                "Because school policies are hidden from the public"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Even when a test is generally accepted, individual program requirements or preferences can vary, making it important to check each school's specific policy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9519,
+            "question_text": "What does the text imply about the role of the GRE in comparing applicants?",
+            "options": [
+                "It is intended to disqualify most applicants",
+                "It serves as a consistent metric alongside other indicators for admissions committees",
+                "It is the only metric committees use",
+                "It has no role in the application process"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The GRE acts as a common standard that committees use as part of their comprehensive evaluation of candidates.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9520,
+            "question_text": "Which statement best summarizes the benefit of the GRE's 'test-when-ready' policy?",
+            "options": [
+                "It provides maximum scheduling flexibility for the student",
+                "It forces the student to prepare in a single week",
+                "It makes the test harder by removing deadlines",
+                "It is only valid if you take the test during the summer"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The ability to choose when to test, supported by year-round availability, helps students manage their own preparation and life schedules.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9521,
+            "question_text": "What does the term 'holistic' imply in the context of admissions?",
+            "options": [
+                "Considering the score as the absolute deciding factor",
+                "Ignoring all academic history",
+                "Reviewing the entire candidate profile including non-academic accomplishments",
+                "Focusing solely on the essay section"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A holistic approach takes into account the entirety of an applicant's background and achievements, not just a single data point like a test score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9522,
+            "question_text": "How can an applicant present their 'best self'?",
+            "options": [
+                "By selecting the program and test that align with their strengths",
+                "By hiding all evidence of previous work",
+                "By taking the test as many times as possible in one day",
+                "By ignoring the admissions committee's requirements"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Presenting one's best self involves strategic planning, such as choosing the right test and programs that showcase one's specific talents and accomplishments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9523,
+            "question_text": "What does the test-optional trend reveal about modern admissions?",
+            "options": [
+                "Admissions are moving toward more rigid and test-dependent models",
+                "Admissions are increasingly offering students choice in how they demonstrate their potential",
+                "Test-optional means that test scores are completely irrelevant",
+                "Test-optional schools refuse to read GRE scores"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The emergence of test-optional policies represents a shift toward providing applicants with more flexibility in how they present their qualifications.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9524,
+            "question_text": "Why is the score-select feature valuable when applying to multiple schools?",
+            "options": [
+                "Because you can tailor your submissions to showcase the best of your work to each program",
+                "Because it makes the test score public to everyone",
+                "Because it limits your options to only one school",
+                "Because it deletes all your previous scores"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This feature allows students to be strategic by submitting only the scores that best fit the profile of the specific programs they are targeting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

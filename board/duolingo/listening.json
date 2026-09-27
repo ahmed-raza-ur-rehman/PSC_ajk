@@ -1,0 +1,291 @@
+{
+    "category": "Duolingo",
+    "name": "Listening",
+    "board": "duolingo",
+    "subject": "listening",
+    "url": "/duolingo/listening/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 20,
+    "questions": [
+        {
+            "id": 10178,
+            "question_text": "Based on standard testing procedures, why is it important to ensure a quiet environment when taking the test?",
+            "options": [
+                "To save electricity during the exam",
+                "To ensure the proctor can hear you through your microphone",
+                "To prevent background noise from interfering with audio tasks and proctoring",
+                "To allow the test to finish in under 30 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quiet environments are required to maintain test integrity and ensure the candidate can clearly hear audio prompts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10179,
+            "question_text": "What should you do if you hear an audio clip that has background noise during the test?",
+            "options": [
+                "Ask the proctor to clear the noise",
+                "Focus on the main speaker and ignore incidental sounds",
+                "Replay the audio as many times as you like",
+                "Skip the question entirely"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tests often include realistic audio which may contain ambient noise; candidates must learn to filter this out to understand the core message.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10180,
+            "question_text": "In a 'dictation' task, what is the most important rule to remember?",
+            "options": [
+                "You must write down your opinion of the sentence",
+                "You should summarize the sentence in your own words",
+                "You must transcribe the sentence exactly as heard, including punctuation",
+                "You can change the grammar if the speaker made a mistake"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Dictation tasks require strict accuracy in spelling, grammar, and punctuation as they appeared in the audio clip.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10181,
+            "question_text": "When a speaker in a listening task uses a sarcastic tone, how should you interpret their words?",
+            "options": [
+                "As literal statements",
+                "As the opposite of their literal meaning",
+                "As a sign of confusion",
+                "As a command"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sarcasm involves saying the opposite of what is meant, often to highlight a point or convey irony.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10182,
+            "question_text": "How many times are you usually allowed to play an audio clip in the 'listen and write' section?",
+            "options": [
+                "Only once",
+                "Up to three times",
+                "Unlimited times",
+                "It depends on the difficulty"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Standard procedure for the Duolingo English Test limits audio replays to ensure the test measures immediate listening comprehension.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10183,
+            "question_text": "What does a 'Listen and Select' task require you to do?",
+            "options": [
+                "Choose words that you actually heard from a list",
+                "Write an essay based on the audio",
+                "Repeat the sentence out loud",
+                "Predict what the speaker will say next"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This task tests the ability to distinguish real spoken words from nonsense words that sound similar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10184,
+            "question_text": "Why must you ensure your testing environment is quiet?",
+            "options": [
+                "To prevent the AI proctor from flagging background noises as cheating.",
+                "To make sure you can hear the audio clearly and avoid distractions.",
+                "To reduce the bandwidth required by your computer.",
+                "To ensure the lighting is correct for the webcam."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A quiet environment is essential for accurately processing audio tasks and maintaining focus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10185,
+            "question_text": "What should you do if an audio clip has noticeable background noise?",
+            "options": [
+                "Guess the words based on the context.",
+                "Adjust your volume to the maximum level immediately.",
+                "Note the issue in a chat box to the proctor.",
+                "Focus on the main speaker and ignore the interference."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Listening tasks require filtering out background noise to isolate the primary message.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10186,
+            "question_text": "What is the most important rule for a dictation task?",
+            "options": [
+                "Write down every single word exactly as heard.",
+                "Paraphrase the audio clip to show understanding.",
+                "Write the response in bullet points for clarity.",
+                "Skip any words you are unsure about to save time."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Dictation tasks require exact transcription of the spoken audio.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10187,
+            "question_text": "How should you interpret a speaker who uses a sarcastic tone?",
+            "options": [
+                "Take their words literally.",
+                "Look for the opposite meaning of what is being said.",
+                "Ignore the tone and focus on the volume.",
+                "Ask the computer to repeat the clip."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sarcasm often involves saying the opposite of what is meant, requiring the listener to identify the intended sentiment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10188,
+            "question_text": "How many times can you usually play an audio clip during a listening section?",
+            "options": [
+                "Only once",
+                "Up to two times",
+                "As many times as you want",
+                "Exactly three times"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Most Duolingo listening tasks allow for a limited number of replays, typically two.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10189,
+            "question_text": "What does a 'Listen and Select' task involve?",
+            "options": [
+                "Writing a summary of the audio.",
+                "Identifying the real English words from a list of fake ones based on audio.",
+                "Speaking back the words you heard.",
+                "Translating the audio into your native language."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This task tests your ability to recognize real words versus non-existent words through sound.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10190,
+            "question_text": "Why is it mandatory to have a quiet environment for the listening portion?",
+            "options": [
+                "To prevent you from taking notes.",
+                "To ensure clear audio perception and avoid distractions.",
+                "So that your computer doesn't overheat.",
+                "To satisfy the proctor's personal preferences."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A quiet environment is essential to accurately process subtle audio cues and follow complex listening passages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10191,
+            "question_text": "What should you do if the audio clip has static or noise?",
+            "options": [
+                "Continue listening and ignore it.",
+                "Stop the test and contact support if it persists.",
+                "Guess the content based on the title.",
+                "Adjust your volume to the maximum setting."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If technical issues interfere with the exam content, you must address them immediately to ensure a fair testing experience.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10192,
+            "question_text": "In a dictation task, what is the most vital rule?",
+            "options": [
+                "Focus on the main idea rather than specific words.",
+                "Write exactly what you hear, including correct spelling and punctuation.",
+                "Paraphrase the audio in your own words.",
+                "Summarize the audio in bullet points."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dictation assesses precise listening and writing skills, requiring verbatim accuracy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10193,
+            "question_text": "How should you interpret sarcasm in a listening passage?",
+            "options": [
+                "Take the words literally.",
+                "Look for tone, context, and inflection to understand the opposite meaning.",
+                "Ignore the speaker's tone completely.",
+                "Assume the speaker is confused."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sarcasm often relies on verbal cues that contradict the literal meaning of the words used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10194,
+            "question_text": "How many times are you allowed to play an audio clip in the 'listen and write' section?",
+            "options": [
+                "Once only.",
+                "As many times as you like.",
+                "Exactly three times.",
+                "Up to the limit specified in the instructions for that specific task."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "There is a strict limit on audio playback to test listening retention and comprehension accuracy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10195,
+            "question_text": "What does a 'Listen and Select' task require?",
+            "options": [
+                "Writing a dictation of the audio.",
+                "Choosing the correct response or summary from given options.",
+                "Transcribing the entire conversation.",
+                "Speaking back to the computer."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This task tests your ability to identify the correct meaning or best response after hearing an audio snippet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10196,
+            "question_text": "Why should you avoid focusing too much on minor sounds in a listening passage?",
+            "options": [
+                "Because minor sounds are never relevant.",
+                "You might miss the main points of the conversation.",
+                "The computer will shut down if you do.",
+                "You are only being tested on visual cues."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Focusing on minor details can distract from the overall narrative or message of the passage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10197,
+            "question_text": "Which of these is most important when identifying a speaker's intent?",
+            "options": [
+                "The speed at which they speak.",
+                "The specific vocabulary chosen and the emotional tone.",
+                "The length of the audio clip.",
+                "Whether the speaker is a man or woman."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Intent is often conveyed through both the words selected and the delivery style of the speaker.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

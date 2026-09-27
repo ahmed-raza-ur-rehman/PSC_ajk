@@ -1,0 +1,151 @@
+{
+    "category": "TMUC",
+    "name": "Quantitative Methods",
+    "board": "tmuc",
+    "subject": "quantitative-methods",
+    "url": "/tmuc/quantitative-methods/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11716,
+            "question_text": "If a data set has a mean of 50 and a standard deviation of 10, what is the coefficient of variation?",
+            "options": [
+                "0.5",
+                "0.2",
+                "5.0",
+                "0.1"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The coefficient of variation is calculated as (Standard Deviation / Mean). 10 / 50 = 0.2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11717,
+            "question_text": "What is the median of the following data set: 3, 7, 8, 5, 2?",
+            "options": [
+                "8",
+                "5",
+                "7",
+                "3"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To find the median, order the set: 2, 3, 5, 7, 8. The middle value is 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11718,
+            "question_text": "If a product costs $80 and is sold at a 25% markup on cost, what is the selling price?",
+            "options": [
+                "$90",
+                "$100",
+                "$105",
+                "$120"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Markup = 0.25 * 80 = 20. Selling Price = 80 + 20 = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11719,
+            "question_text": "What is the variance of a set of numbers if the standard deviation is 5?",
+            "options": [
+                "2.5",
+                "10",
+                "20",
+                "25"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Variance is the square of the standard deviation (5^2 = 25).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11720,
+            "question_text": "In a linear regression equation Y = a + bX, what does 'b' represent?",
+            "options": [
+                "The Y-intercept",
+                "The slope of the line",
+                "The dependent variable",
+                "The correlation coefficient"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In y = mx + c (or a + bX), 'b' represents the slope, indicating the change in Y for a one-unit change in X.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11721,
+            "question_text": "Which measure of central tendency is most affected by outliers?",
+            "options": [
+                "Mean",
+                "Median",
+                "Mode",
+                "Range"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The mean uses every value in the data set, so extreme values significantly shift the average.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11722,
+            "question_text": "What is the probability of rolling a '4' on a standard six-sided die?",
+            "options": [
+                "1/2",
+                "1/4",
+                "1/6",
+                "1/3"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since there is one '4' on a die with six faces, the probability is 1 out of 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11723,
+            "question_text": "If a data set has a mean of 20 and a standard deviation of 4, what is the coefficient of variation (CV)?",
+            "options": [
+                "0.2",
+                "0.5",
+                "0.8",
+                "1.2"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The coefficient of variation is calculated as (Standard Deviation / Mean). 4 / 20 = 0.2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11738,
+            "question_text": "Which statistical measure is the 'middle' value of an ordered data set?",
+            "options": [
+                "Mean",
+                "Mode",
+                "Median",
+                "Range"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The median is the exact center value of a sorted data set, dividing the data into two equal halves.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11751,
+            "question_text": "What does a correlation coefficient of -1.0 indicate?",
+            "options": [
+                "No correlation between two variables",
+                "A perfect positive linear relationship",
+                "A perfect negative linear relationship",
+                "A weak relationship"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A correlation coefficient of -1.0 means that as one variable increases, the other decreases in a perfectly predictable manner.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

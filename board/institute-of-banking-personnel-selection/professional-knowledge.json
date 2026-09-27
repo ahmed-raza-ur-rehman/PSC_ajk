@@ -1,0 +1,137 @@
+{
+    "category": "Institute of Banking Personnel Selection",
+    "name": "Professional Knowledge",
+    "board": "institute-of-banking-personnel-selection",
+    "subject": "professional-knowledge",
+    "url": "/institute-of-banking-personnel-selection/professional-knowledge/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 9937,
+            "question_text": "What is the primary objective of 'Equipercentile Equating' used by IBPS in multi-session examinations?",
+            "options": [
+                "To increase the number of questions",
+                "To ensure fairness and consistency across different test sessions",
+                "To speed up the exam process",
+                "To reduce the number of exam centers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Equipercentile equating is a statistical method used to maintain comparability of scores across multiple versions or sessions of an examination.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9938,
+            "question_text": "What is the role of the 'Design & Analysis' (D&A) division at IBPS?",
+            "options": [
+                "Managing office security",
+                "Processing payroll",
+                "Designing and developing ability tests and answer keys",
+                "Handling legal matters"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The D&A division is responsible for developing tests, validating items, and finalizing answer keys for result processing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9939,
+            "question_text": "What is the primary role of the Design & Analysis (D&A) division at IBPS?",
+            "options": [
+                "Managing office finances",
+                "Designing and developing test items",
+                "Maintaining building security",
+                "Handling legal matters"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The D&A division is responsible for creating and validating test batteries and finalizing answer keys.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9940,
+            "question_text": "What does the 'Equipercentile Equating' method in IBPS exams aim to achieve?",
+            "options": [
+                "Increase the test difficulty",
+                "Ensure fairness across multi-session exams",
+                "Reduce the number of exam centers",
+                "Make the paper easier to read"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Equipercentile equating helps ensure that candidates are evaluated fairly even if different test sessions have varying difficulty levels.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9941,
+            "question_text": "Which division at IBPS manages candidate data prior to assessment and result processing?",
+            "options": [
+                "Client Relations",
+                "Research & Development",
+                "Technology Support Services (TSS)",
+                "Administration"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "TSS handles online application data, examination processing, and result generation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9942,
+            "question_text": "What are the three core values (foundational pillars) of IBPS mentioned in its philosophy?",
+            "options": [
+                "Money, Fame, Power",
+                "Speed, Accuracy, Confidentiality",
+                "Innovation, Hard work, Luck",
+                "Service, Profit, Growth"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "These are the traditional core values established by the founder Director Dr. A.S. Deshpande.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9943,
+            "question_text": "The Research and Development (R&D) division at IBPS is known for conducting which types of assessments?",
+            "options": [
+                "Paper-based basic math tests",
+                "Simulation-based assessments and Assessment Centres",
+                "Physical fitness tests",
+                "Language translation services"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The R&D division focuses on managerial potential through simulation-based tools like Group Exercises and Assessment Centres.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9950,
+            "question_text": "Which division manages the 'Candidate Grievance Lodging and Redressal Mechanism'?",
+            "options": [
+                "Technology Support Services",
+                "Financial & Allied Services (F&AS)",
+                "Client Relations",
+                "Administration"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The F&AS division includes a section dedicated to coordinating candidate grievance redressal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9951,
+            "question_text": "Who is currently the Executive Head and Member Secretary of the IBPS Governing Board?",
+            "options": [
+                "Director of IBPS",
+                "Chairman of IBA",
+                "Governor of RBI",
+                "Finance Secretary"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Director of the Institute is the Executive Head and Member Secretary of the Governing Board.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

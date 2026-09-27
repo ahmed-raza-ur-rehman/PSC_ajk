@@ -1,0 +1,179 @@
+{
+    "category": "Punjab Educational Endowment Fund (PEEF)",
+    "name": "Disciplinary and Conduct Review",
+    "board": "punjab-educational-endowment-fund-peef",
+    "subject": "disciplinary-and-conduct-review",
+    "url": "/punjab-educational-endowment-fund-peef/disciplinary-and-conduct-review/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 11140,
+            "question_text": "How does a history of academic dishonesty impact an application for the PEEF scholarship?",
+            "options": [
+                "It has no impact",
+                "It leads to immediate rejection of the application",
+                "It is only considered if the student is a top ranker",
+                "It results in a reduced scholarship amount"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scholarship funds prioritize students with exemplary conduct; academic dishonesty is a violation of the integrity standards required by PEEF.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11141,
+            "question_text": "Why is a certificate of good conduct from the head of the institution required?",
+            "options": [
+                "To ensure the student is well-liked by peers",
+                "To verify the student has no record of disciplinary issues",
+                "To check if the student attended morning assemblies",
+                "To confirm the student's physical health"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A good conduct certificate serves as formal institutional evidence that the student maintains a positive disciplinary record, which is mandatory for scholarship continuation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11142,
+            "question_text": "Why is a record of 'Good Conduct' from the institution head considered a mandatory document?",
+            "options": [
+                "To ensure the student is fit for social integration",
+                "To verify that the student does not have any history of disciplinary issues or misconduct",
+                "To test the student's relationship with the principal",
+                "To verify the student's attendance record"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF seeks to support students with integrity; a clean conduct record ensures the beneficiary represents the fund's values.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11143,
+            "question_text": "Which of the following is considered a major violation that would likely result in the rejection of a scholarship application?",
+            "options": [
+                "Being late for classes once",
+                "Participation in student politics",
+                "Documented involvement in a major act of violence or vandalism",
+                "Having a low score in a non-core subject"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Serious disciplinary breaches, especially those involving violence, are grounds for disqualification from receiving endowment-based scholarships.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11144,
+            "question_text": "How does an ongoing disciplinary inquiry against a student affect their PEEF application?",
+            "options": [
+                "It has no impact",
+                "The application is processed with a 'pending' status until the inquiry concludes",
+                "The student is immediately granted the scholarship",
+                "The inquiry must be dropped by the university"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Until a student is cleared of disciplinary charges, they cannot be deemed eligible for a prestigious scholarship fund.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11145,
+            "question_text": "Who is authorized to issue the 'Character Certificate' for a PEEF applicant?",
+            "options": [
+                "A local notary public",
+                "The head of the academic department or institution head",
+                "A local political leader",
+                "The student's employer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The institution head or authorized official is the only one who can legally attest to the student's conduct within the educational environment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11146,
+            "question_text": "If a student is currently under a 'suspension' period for behavioral issues, what is the impact on their scholarship?",
+            "options": [
+                "They are eligible to apply but not receive funds",
+                "They are ineligible until the suspension is lifted and a clean record is restored",
+                "They can apply if they provide a personal apology letter",
+                "They can apply if the suspension is under appeal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Suspension implies a violation of conduct rules; PEEF requires beneficiaries to maintain a good standing throughout the selection process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11147,
+            "question_text": "What is the primary reason for requesting a 'Good Conduct' certificate?",
+            "options": [
+                "To ensure the student is athletic.",
+                "To verify the student has not been involved in criminal or unethical activities at the institution.",
+                "To check if the student has paid all their library fines.",
+                "To see if the student has good handwriting."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The scholarship is a merit-based award that requires recipients to be disciplined students with a clean record.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11148,
+            "question_text": "If a student has a history of ragging or bullying, what is the likely impact on their PEEF application?",
+            "options": [
+                "It is ignored as it is a student-to-student issue.",
+                "The application will be rejected due to non-compliance with the disciplinary criteria.",
+                "The student receives a warning but is granted the scholarship.",
+                "The scholarship amount is reduced by 50%."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF maintains a zero-tolerance policy for disciplinary issues like bullying or harassment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11149,
+            "question_text": "Which of these scenarios constitutes a valid disciplinary reason for scholarship cancellation?",
+            "options": [
+                "Joining a student political organization.",
+                "Failing a minor class test.",
+                "Changing one's major subject.",
+                "Missing more than three days of school."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Most educational institutional rules prohibit active involvement in politics, which violates the conduct requirements for scholarship recipients.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11150,
+            "question_text": "What is the role of the 'Institution Head' in the disciplinary review process?",
+            "options": [
+                "To provide a character report and verify that no disciplinary action is pending against the student.",
+                "To provide financial aid to the student from the college fund.",
+                "To personally interview the student's parents.",
+                "To rewrite the student's academic transcripts."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Head of Institution acts as the official guarantor of the student's behavior and disciplinary standing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11151,
+            "question_text": "What action should a student take if a disciplinary inquiry is opened against them after they have already applied for the PEEF scholarship?",
+            "options": [
+                "Wait until the inquiry is finished to tell PEEF.",
+                "Immediately inform the PEEF administration.",
+                "Hide the information as it might negatively impact the result.",
+                "Ask the teacher to ignore the inquiry."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Transparency is mandatory; failure to disclose ongoing disciplinary issues is a violation of the terms and conditions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

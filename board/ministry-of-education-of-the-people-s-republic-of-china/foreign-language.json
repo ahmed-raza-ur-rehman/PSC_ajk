@@ -1,0 +1,319 @@
+{
+    "category": "Ministry of Education of the People's Republic of China",
+    "name": "Foreign Language",
+    "board": "ministry-of-education-of-the-people-s-republic-of-china",
+    "subject": "foreign-language",
+    "url": "/ministry-of-education-of-the-people-s-republic-of-china/foreign-language/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 22,
+    "questions": [
+        {
+            "id": 8485,
+            "question_text": "Choose the correct verb form: 'She ________ to the library every Monday.'",
+            "options": [
+                "go",
+                "goes",
+                "going",
+                "gone"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since the subject 'She' is third-person singular and the action is a habitual present tense, we add '-es' to the verb 'go'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8486,
+            "question_text": "Choose the correct preposition: 'He is interested ________ learning new languages.'",
+            "options": [
+                "at",
+                "in",
+                "on",
+                "of"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The phrase 'interested in' is the standard idiomatic construction in English.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8487,
+            "question_text": "Which sentence is grammatically correct?",
+            "options": [
+                "They has been to France.",
+                "She have go to the store.",
+                "We have been to France.",
+                "He have went to the store."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The subject 'We' requires the plural auxiliary 'have' and the past participle 'been'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8488,
+            "question_text": "Identify the synonym for 'meticulous'.",
+            "options": [
+                "Careless",
+                "Thorough",
+                "Fast",
+                "Loud"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Meticulous means showing great attention to detail, which is synonymous with being thorough.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8489,
+            "question_text": "Select the correct conditional sentence.",
+            "options": [
+                "If it rains, we will stay home.",
+                "If it rains, we would stay home.",
+                "If it will rain, we stay home.",
+                "If it rain, we will stay home."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The first conditional uses the present simple in the 'if' clause and 'will' + base verb in the main clause.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8490,
+            "question_text": "Fill in the blank: 'The book ________ by a famous author is very popular.'",
+            "options": [
+                "written",
+                "wrote",
+                "writing",
+                "writes"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This uses a passive participle phrase to describe the book.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8491,
+            "question_text": "Which word is the most appropriate antonym for 'courageous'?",
+            "options": [
+                "Brave",
+                "Fearful",
+                "Valiant",
+                "Bold"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fearful describes someone lacking courage, which is the opposite of courageous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8492,
+            "question_text": "Identify the passive voice version of 'The chef prepared the meal.'",
+            "options": [
+                "The meal is being prepared by the chef.",
+                "The meal was prepared by the chef.",
+                "The chef was prepared by the meal.",
+                "The meal prepares the chef."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Passive voice shifts the focus to the object ('the meal') and uses the 'be + past participle' construction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8971,
+            "question_text": "Choose the correct verb form: 'She ________ to the library every weekend.'",
+            "options": [
+                "go",
+                "goes",
+                "going",
+                "gone"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since the subject 'She' is third-person singular and the action is a habitual present tense, we use 'goes'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8972,
+            "question_text": "Which word is a synonym for 'meticulous'?",
+            "options": [
+                "Careless",
+                "Detailed",
+                "Rapid",
+                "Lazy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Meticulous means showing great attention to detail.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8973,
+            "question_text": "Choose the correct tense: 'By the time we arrived, the movie ________.'",
+            "options": [
+                "starts",
+                "has started",
+                "had started",
+                "starting"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The past perfect tense is used for an action completed before another action in the past.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8974,
+            "question_text": "What is the plural of the word 'phenomenon'?",
+            "options": [
+                "phenomenons",
+                "phenomena",
+                "phenomenas",
+                "phenomeni"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Phenomenon is a Greek-origin noun, and its plural form is phenomena.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8975,
+            "question_text": "Identify the sentence with the correct grammar:",
+            "options": [
+                "Neither the students nor the teacher are here.",
+                "Neither the students nor the teacher is here.",
+                "Neither the students nor the teacher was here.",
+                "Neither the students nor the teacher were here."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the subject closest to it (the teacher).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8976,
+            "question_text": "Which word best completes the phrase: 'He showed a great ________ for music.'",
+            "options": [
+                "aptitude",
+                "attitude",
+                "altitude",
+                "latitude"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Aptitude means a natural ability to do something.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8977,
+            "question_text": "Which word is the correct antonym for 'courageous'?",
+            "options": [
+                "Brave",
+                "Cowardly",
+                "Bold",
+                "Valiant"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cowardly describes a lack of bravery, making it the opposite of courageous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8978,
+            "question_text": "Choose the correct preposition: 'She is interested ________ learning new languages.'",
+            "options": [
+                "on",
+                "at",
+                "in",
+                "of"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The phrase 'interested in' is the standard English idiom.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8979,
+            "question_text": "Which sentence uses the passive voice correctly?",
+            "options": [
+                "The chef cooked the meal.",
+                "The meal was cooked by the chef.",
+                "The chef is cooking the meal.",
+                "The meal cooks the chef."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Passive voice shifts the focus to the object ('the meal') receiving the action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8980,
+            "question_text": "Choose the best verb: 'She ________ to the library every weekend.'",
+            "options": [
+                "go",
+                "goes",
+                "going",
+                "gone"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For a third-person singular subject in simple present tense, add -es to the verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8983,
+            "question_text": "What is the plural of 'phenomenon'?",
+            "options": [
+                "Phenomenons",
+                "Phenomena",
+                "Phenomenies",
+                "Phenomenae"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Phenomenon is a Greek-origin noun, and its plural form is phenomena.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8985,
+            "question_text": "Complete the phrase: 'He showed a great ________ for music.'",
+            "options": [
+                "aptitude",
+                "attitude",
+                "altitude",
+                "amplitude"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Aptitude refers to a natural ability or skill, fitting perfectly in the context of musical ability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8986,
+            "question_text": "Which word is an antonym for 'courageous'?",
+            "options": [
+                "Brave",
+                "Fearless",
+                "Cowardly",
+                "Bold"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Cowardly is the opposite of courageous, as it describes a lack of bravery.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8989,
+            "question_text": "What is the correct way to write this sentence?",
+            "options": [
+                "I have went there.",
+                "I had go there.",
+                "I have gone there.",
+                "I gone there."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The present perfect tense uses 'have' plus the past participle of the verb 'go', which is 'gone'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

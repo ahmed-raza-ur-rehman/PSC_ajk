@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "General Knowledge — World Affairs",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "general-knowledge-world-affairs",
+    "url": "/national-cybercrime-investigation-agency/general-knowledge-world-affairs/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14579,
+            "question_text": "Which of the following mechanisms is used by a country to withdraw voluntarily from an international trade agreement, thus ending its obligations under that pact?",
+            "options": [
+                "Resiliation",
+                "Declaration of non-compliance",
+                "Denunciation",
+                "Suspension"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Denunciation refers to the formal, voluntary act of withdrawing from a treaty or international agreement by a signatory state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

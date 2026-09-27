@@ -1,0 +1,207 @@
+{
+    "category": "University of Wah",
+    "name": "Mathematics",
+    "board": "university-of-wah",
+    "subject": "mathematics",
+    "url": "/university-of-wah/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 11740,
+            "question_text": "If 3x + 7 = 22, what is the value of 2x - 5?",
+            "options": [
+                "5",
+                "7",
+                "10",
+                "15"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "First, solve for x: 3x = 15, so x = 5. Then, substitute into the second expression: 2(5) - 5 = 10 - 5 = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11741,
+            "question_text": "A shopkeeper sells an item for $120, which is a 20% profit on the cost price. What was the cost price?",
+            "options": [
+                "$96",
+                "$100",
+                "$104",
+                "$110"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cost price + 0.20(Cost Price) = 120. Thus, 1.2 * CP = 120, which means CP = 120 / 1.2 = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11742,
+            "question_text": "What is the result of 5 + 3 * (8 - 2)?",
+            "options": [
+                "23",
+                "48",
+                "18",
+                "14"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Using PEMDAS/BODMAS: 8-2=6, then 3*6=18, then 5+18=23.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11743,
+            "question_text": "If a rectangle has a length of 10cm and a width of 5cm, what is its perimeter?",
+            "options": [
+                "50cm",
+                "30cm",
+                "15cm",
+                "25cm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Perimeter = 2 * (length + width) = 2 * (10 + 5) = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11744,
+            "question_text": "Solve for x: 4x - 12 = 2x + 8",
+            "options": [
+                "5",
+                "10",
+                "8",
+                "2"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 2x from both sides (2x-12=8), add 12 to both sides (2x=20), divide by 2 (x=10).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11745,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "15",
+                "20",
+                "30",
+                "40"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "15/100 * 200 = 15 * 2 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11746,
+            "question_text": "If x^2 = 81, what is the value of x?",
+            "options": [
+                "9",
+                "-9",
+                "9 or -9",
+                "81"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The square root of 81 can be both positive and negative as (-9)^2 is also 81.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11747,
+            "question_text": "The average of three numbers is 20. If two numbers are 15 and 25, what is the third number?",
+            "options": [
+                "10",
+                "20",
+                "30",
+                "40"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sum of three numbers = 20 * 3 = 60. 60 - (15 + 25) = 60 - 40 = 20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11748,
+            "question_text": "Which fraction is the largest?",
+            "options": [
+                "1/2",
+                "2/3",
+                "3/5",
+                "5/8"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Convert to decimals: 0.5, 0.66, 0.6, 0.625. 0.66 is the largest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11749,
+            "question_text": "Find the area of a circle with a radius of 7cm (use pi ≈ 22/7).",
+            "options": [
+                "44cm²",
+                "154cm²",
+                "88cm²",
+                "110cm²"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Area = πr² = (22/7) * 7 * 7 = 22 * 7 = 154.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11750,
+            "question_text": "If the price of a shirt is increased by 10% and then decreased by 10%, what is the final change?",
+            "options": [
+                "No change",
+                "1% increase",
+                "1% decrease",
+                "2% decrease"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Let price be 100. 100 * 1.1 = 110. 110 * 0.9 = 99. 100 to 99 is 1% decrease.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11752,
+            "question_text": "What is the value of 2^4 * 2^3?",
+            "options": [
+                "2^12",
+                "4^7",
+                "2^7",
+                "4^12"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When multiplying bases, add the exponents: 2^(4+3) = 2^7.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11753,
+            "question_text": "If a triangle has a base of 8cm and a height of 12cm, what is its area?",
+            "options": [
+                "96 cm²",
+                "48 cm²",
+                "20 cm²",
+                "40 cm²"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The area of a triangle is calculated as (base * height) / 2. So, (8 * 12) / 2 = 48.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11754,
+            "question_text": "What is the value of 5x³ when x = 2?",
+            "options": [
+                "30",
+                "40",
+                "125",
+                "60"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "5 * (2^3) = 5 * 8 = 40.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

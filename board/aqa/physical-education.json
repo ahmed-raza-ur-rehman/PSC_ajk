@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Physical Education",
+    "board": "aqa",
+    "subject": "physical-education",
+    "url": "/aqa/physical-education/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8858,
+            "question_text": "Which component of fitness relates to the ability to change direction quickly?",
+            "options": [
+                "Strength",
+                "Agility",
+                "Endurance",
+                "Flexibility"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Agility is defined as the ability to move and change direction and position of the body quickly and effectively.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8859,
+            "question_text": "Which component of physical fitness refers to the ability to change direction quickly and efficiently?",
+            "options": [
+                "Strength",
+                "Agility",
+                "Flexibility",
+                "Endurance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Agility is the skill-related component of fitness that allows a person to move and change direction rapidly while maintaining balance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8860,
+            "question_text": "Which component of fitness is defined as the ability to change direction quickly and efficiently?",
+            "options": [
+                "Strength",
+                "Endurance",
+                "Agility",
+                "Flexibility"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Agility is the physical ability to control the body's movement and change direction rapidly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8861,
+            "question_text": "What does BMI stand for in a health context?",
+            "options": [
+                "Body Mass Index",
+                "Basic Muscle Intensity",
+                "Body Movement Indicator",
+                "Basic Metabolic Interval"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "BMI is a measure used to estimate body fat based on a person's height and weight.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

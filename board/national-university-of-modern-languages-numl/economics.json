@@ -1,0 +1,151 @@
+{
+    "category": "National University of Modern Languages (NUML)",
+    "name": "Economics",
+    "board": "national-university-of-modern-languages-numl",
+    "subject": "economics",
+    "url": "/national-university-of-modern-languages-numl/economics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12169,
+            "question_text": "If the price of a good increases and the quantity demanded remains largely unchanged, the demand for the good is considered:",
+            "options": [
+                "Elastic",
+                "Inelastic",
+                "Unitary",
+                "Perfectly elastic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inelastic demand means that consumers' purchasing habits do not change significantly in response to price fluctuations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12170,
+            "question_text": "Which of the following is a primary characteristic of a 'perfect competition' market structure?",
+            "options": [
+                "A few large firms dominate the market",
+                "High barriers to entry",
+                "Many buyers and sellers with identical products",
+                "Unique products with significant branding"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Perfect competition is defined by numerous sellers offering homogeneous products where no single firm can influence market price.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12171,
+            "question_text": "What is the 'opportunity cost' of an action?",
+            "options": [
+                "The cash cost of the action",
+                "The value of the next best alternative given up",
+                "The total cost including hidden expenses",
+                "The profit generated from the action"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Opportunity cost represents the benefits lost by choosing one option over another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12172,
+            "question_text": "What happens to the equilibrium price when supply decreases while demand remains constant?",
+            "options": [
+                "Price increases",
+                "Price decreases",
+                "Price stays the same",
+                "Quantity increases"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "With lower supply and constant demand, the scarcity of the product drives the price up.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12173,
+            "question_text": "Which economic indicator measures the total value of goods and services produced within a country's borders?",
+            "options": [
+                "GNP",
+                "GDP",
+                "CPI",
+                "Inflation Rate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Gross Domestic Product (GDP) is the standard measure for domestic economic output.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12174,
+            "question_text": "What is the term for a market structure with only one seller?",
+            "options": [
+                "Oligopoly",
+                "Monopolistic Competition",
+                "Monopoly",
+                "Perfect Competition"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A monopoly exists when a single firm provides the entire supply of a good or service without close substitutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12175,
+            "question_text": "If income increases and the demand for a good decreases, the good is a:",
+            "options": [
+                "Normal good",
+                "Luxury good",
+                "Inferior good",
+                "Substitute good"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An inferior good is one whose demand falls as consumer income rises, as consumers switch to higher-quality alternatives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12176,
+            "question_text": "What does the 'Law of Demand' state?",
+            "options": [
+                "As price increases, quantity demanded increases",
+                "As price increases, quantity demanded decreases",
+                "As price increases, supply increases",
+                "Demand is always fixed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The law of demand describes an inverse relationship between price and quantity demanded, assuming other factors remain constant.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12177,
+            "question_text": "What is meant by the term 'Inflation'?",
+            "options": [
+                "A decrease in the general price level",
+                "A sustained increase in the general price level",
+                "A decrease in the supply of money",
+                "An increase in the unemployment rate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inflation is defined as the rate at which the general level of prices for goods and services is rising over time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12178,
+            "question_text": "Which factor describes the 'Elasticity of Demand'?",
+            "options": [
+                "Sensitivity of price to supply changes",
+                "Responsiveness of quantity demanded to a change in price",
+                "The cost of production for a firm",
+                "The total revenue of a government"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Price elasticity of demand measures how much the quantity demanded changes in response to a percentage change in price.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

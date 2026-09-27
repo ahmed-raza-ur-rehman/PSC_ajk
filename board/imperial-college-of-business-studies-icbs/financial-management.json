@@ -1,0 +1,151 @@
+{
+    "category": "Imperial College of Business Studies (ICBS)",
+    "name": "Financial Management",
+    "board": "imperial-college-of-business-studies-icbs",
+    "subject": "financial-management",
+    "url": "/imperial-college-of-business-studies-icbs/financial-management/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11510,
+            "question_text": "Which financial metric represents the present value of future cash flows minus the initial investment?",
+            "options": [
+                "Internal Rate of Return (IRR)",
+                "Net Present Value (NPV)",
+                "Payback Period",
+                "Return on Investment (ROI)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "NPV is defined as the difference between the present value of cash inflows and the present value of cash outflows over a period of time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11511,
+            "question_text": "What is the primary goal of financial management in a corporation?",
+            "options": [
+                "Maximizing revenue",
+                "Maximizing shareholder wealth",
+                "Minimizing tax liability",
+                "Increasing employee headcount"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The core objective of financial management is to maximize the market value of the company's shares, thereby increasing shareholder wealth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11512,
+            "question_text": "What is the primary difference between a capital expenditure and an operating expenditure?",
+            "options": [
+                "Capital expenditures provide benefits for more than one year",
+                "Operating expenditures are always larger than capital expenditures",
+                "Capital expenditures are tax-deductible immediately",
+                "Operating expenditures are used to purchase fixed assets"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Capital expenditures are investments in long-term assets, whereas operating expenditures cover the day-to-day costs of running the business.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11513,
+            "question_text": "Which of the following describes the 'Time Value of Money'?",
+            "options": [
+                "Money today is worth less than the same amount in the future",
+                "Inflation has no effect on the value of money",
+                "Money available today is worth more than the same amount in the future due to its earning potential",
+                "Investment returns remain constant regardless of time"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The time value of money concept suggests that money has greater utility today because it can be invested to earn interest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11514,
+            "question_text": "Which ratio measures a company's ability to pay short-term obligations with its current assets?",
+            "options": [
+                "Debt-to-Equity Ratio",
+                "Return on Assets",
+                "Current Ratio",
+                "Price-to-Earnings Ratio"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The current ratio (Current Assets / Current Liabilities) is a liquidity ratio that measures the firm's ability to cover short-term liabilities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11515,
+            "question_text": "What is the primary risk associated with high financial leverage?",
+            "options": [
+                "Decrease in stock price due to dilution",
+                "Increased risk of insolvency if earnings decline",
+                "Lower return on equity",
+                "Reduced tax shield benefits"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "High financial leverage means high debt obligations; if cash flows fall, the company may be unable to meet its interest payments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11516,
+            "question_text": "Which of the following is considered a source of 'Internal' financing?",
+            "options": [
+                "Issuing new shares of common stock",
+                "Borrowing from a bank",
+                "Retained earnings",
+                "Issuing corporate bonds"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Internal financing refers to funds generated from within the company, such as profit reinvestment (retained earnings), rather than external sources like debt or equity issuance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11517,
+            "question_text": "What is the primary objective of managing Working Capital?",
+            "options": [
+                "To maximize dividend payouts",
+                "To maintain a balance between liquidity and profitability",
+                "To increase the total number of fixed assets",
+                "To reduce the company's total debt to zero"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Working capital management ensures that a firm has sufficient cash flow to meet short-term obligations while maintaining operational efficiency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11518,
+            "question_text": "If a company has a high Debt-to-Equity ratio, what does this generally indicate?",
+            "options": [
+                "The company is primarily financed by shareholders",
+                "The company has a high level of financial risk",
+                "The company is highly liquid",
+                "The company is not using any leverage"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A high Debt-to-Equity ratio implies the company relies heavily on debt, which increases financial risk through interest obligations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11519,
+            "question_text": "Which of the following capital budgeting techniques considers the time value of money by calculating the rate that makes NPV equal to zero?",
+            "options": [
+                "Payback Period",
+                "Accounting Rate of Return",
+                "Internal Rate of Return (IRR)",
+                "Average Rate of Return"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "IRR is the discount rate that makes the net present value of all cash flows from a particular project equal to zero.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

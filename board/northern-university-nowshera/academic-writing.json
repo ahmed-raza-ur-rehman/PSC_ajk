@@ -1,0 +1,193 @@
+{
+    "category": "Northern University, Nowshera",
+    "name": "Academic Writing",
+    "board": "northern-university-nowshera",
+    "subject": "academic-writing",
+    "url": "/northern-university-nowshera/academic-writing/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 14000,
+            "question_text": "What is the primary function of a thesis statement in an academic essay?",
+            "options": [
+                "To provide a summary of the conclusion",
+                "To present the main argument or claim that the essay will support",
+                "To introduce the list of secondary sources",
+                "To define all technical terms used in the paper"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A thesis statement serves as the roadmap for the essay, clearly stating the central argument or focus of the entire piece.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14001,
+            "question_text": "What does it mean to 'synthesize' sources in academic writing?",
+            "options": [
+                "To list sources in alphabetical order",
+                "To summarize each source individually in separate paragraphs",
+                "To integrate and connect ideas from multiple sources to create a new insight",
+                "To copy and paste quotations without commentary"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Synthesis involves combining information from various sources to develop a broader argument, rather than just reporting on them sequentially.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14002,
+            "question_text": "What is the primary purpose of a literature review in an academic research paper?",
+            "options": [
+                "To prove the author's personal opinion",
+                "To summarize all existing books ever written",
+                "To situate the research within the context of previous studies",
+                "To list references alphabetically"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A literature review demonstrates the researcher's knowledge of the field and identifies the 'gap' the new study intends to fill.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14003,
+            "question_text": "Which style of citation is most commonly used in the humanities for academic writing?",
+            "options": [
+                "APA",
+                "MLA",
+                "IEEE",
+                "Vancouver"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Modern Language Association (MLA) format is the standard citation style for literature, arts, and humanities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14004,
+            "question_text": "In academic writing, what is 'plagiarism'?",
+            "options": [
+                "Using a thesaurus to improve vocabulary",
+                "Presenting someone else's work or ideas as your own",
+                "Citing sources correctly in a bibliography",
+                "Synthesizing two different author's ideas"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Plagiarism is an academic integrity violation involving the theft of intellectual property or failure to attribute ideas to their original source.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14005,
+            "question_text": "What does it mean to 'paraphrase' a source correctly?",
+            "options": [
+                "Changing every single word to a synonym",
+                "Restating the author's ideas in your own words while maintaining the original meaning",
+                "Quoting the source and changing the punctuation",
+                "Summarizing the entire book in one sentence"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Paraphrasing requires understanding the content and rephrasing it significantly, while still citing the source.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14006,
+            "question_text": "When writing an abstract for a research paper, what is the most important element to include?",
+            "options": [
+                "A long list of all references consulted",
+                "A concise summary of the research goals, methods, and findings",
+                "A personal narrative about why the author chose the topic",
+                "An exhaustive list of every minor detail from the experiment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An abstract serves as a snapshot of the paper, allowing readers to quickly determine if the study is relevant to their research.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14007,
+            "question_text": "What is the purpose of 'signposting' in an academic essay?",
+            "options": [
+                "To provide decorative headers",
+                "To guide the reader through the essay's structure and arguments",
+                "To indicate the exact word count",
+                "To cite external sources in the body text"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Signposting uses transitional phrases to help the reader follow the logical flow of the argument.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14008,
+            "question_text": "What does an 'annotated bibliography' require that a standard list of references does not?",
+            "options": [
+                "Strict alphabetical order",
+                "The inclusion of publication dates",
+                "A brief summary and critical evaluation of each source",
+                "The specific URL of the source"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An annotated bibliography requires the writer to describe and evaluate the quality or relevance of each cited work.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14009,
+            "question_text": "What is the primary purpose of a 'counter-argument' in an argumentative essay?",
+            "options": [
+                "To admit that the writer's thesis is incorrect",
+                "To distract the reader from the main point",
+                "To address opposing views and strengthen the writer's own position",
+                "To fill up word count requirements"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "By anticipating and refuting counter-arguments, a writer demonstrates a deeper understanding of the issue and improves the credibility of their argument.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14010,
+            "question_text": "Which of the following best describes an 'in-text citation'?",
+            "options": [
+                "A list of references at the end of the paper",
+                "A brief reference in the body of the text directing the reader to the source",
+                "A footnote found at the bottom of the page",
+                "A summary of the entire paper's findings"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In-text citations acknowledge sources immediately where the information is used, preventing plagiarism.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14011,
+            "question_text": "What does it mean to 'critically evaluate' a source?",
+            "options": [
+                "To agree with everything the author says",
+                "To summarize the source without bias",
+                "To assess the reliability, validity, and relevance of the information",
+                "To copy the bibliography of the source"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Critical evaluation involves questioning the author's credentials, methodology, and the bias of the source to determine its value to the research.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14012,
+            "question_text": "Which section of an academic paper typically provides the 'roadmap' for the reader?",
+            "options": [
+                "Abstract",
+                "Introduction",
+                "Methods",
+                "Appendices"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The introduction typically includes the thesis statement and an outline of how the essay will proceed, acting as a roadmap.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

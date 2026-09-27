@@ -1,0 +1,193 @@
+{
+    "category": "Namal University",
+    "name": "Academic Merit Evaluation",
+    "board": "namal-university",
+    "subject": "academic-merit-evaluation",
+    "url": "/namal-university/academic-merit-evaluation/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 11060,
+            "question_text": "Which of the following is considered the primary indicator of academic merit in a scholarship application?",
+            "options": [
+                "Extracurricular participation",
+                "Cumulative Grade Point Average (CGPA)",
+                "Letters of recommendation",
+                "Social media activity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "CGPA serves as the standard, quantifiable metric to assess a student's consistent academic performance over time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11061,
+            "question_text": "How should an applicant handle a significant drop in grades during a specific semester when applying for a merit-based scholarship?",
+            "options": [
+                "Omit that semester from the application",
+                "Provide an honest, concise explanation in an addendum",
+                "Change the transcript data",
+                "Ignore the drop as it does not affect the cumulative GPA"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Transparency is vital; providing context allows the committee to understand extenuating circumstances behind grade fluctuations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11062,
+            "question_text": "How is a cumulative Grade Point Average (GPA) typically weighted when compared to extracurricular achievements in a merit-based evaluation?",
+            "options": [
+                "Extracurriculars hold equal weight to GPA.",
+                "GPA is usually the primary quantitative indicator of academic consistency.",
+                "Extracurriculars replace the need for GPA calculation.",
+                "GPA is disregarded in favor of standardized test scores."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "GPA provides a longitudinal measure of a student's ability to maintain academic standards over time, making it the standard metric for merit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11063,
+            "question_text": "What does a 'normalized academic profile' refer to in scholarship selection?",
+            "options": [
+                "Adjusting grades based on the grading rigor of the applicant's specific institution.",
+                "Rounding up all decimal grades to the nearest whole number.",
+                "Discarding the lowest grade semester to improve the average.",
+                "Comparing an applicant only against students from the same socioeconomic background."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Committees often normalize grades to ensure fairness when comparing students from different schools with varying grading scales.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11064,
+            "question_text": "Why are academic honors, such as Dean's List or Honor Roll, significant in an application?",
+            "options": [
+                "They guarantee financial aid regardless of income.",
+                "They serve as independent validation of academic excellence beyond just the GPA.",
+                "They automatically increase the applicant's financial need score.",
+                "They are required by law for all scholarship applicants."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Awards and honors provide external verification of the applicant's high performance and competitive nature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11065,
+            "question_text": "When assessing academic merit, why might a scholarship committee prioritize a consistent upward trend in grades?",
+            "options": [
+                "It suggests the student has developed better study habits and resilience.",
+                "It allows the committee to ignore early freshman-year grades entirely.",
+                "It proves the student only studied for final exams.",
+                "It is required by standard national testing guidelines."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Upward trends demonstrate growth, adaptability, and the ability to overcome initial academic challenges.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11066,
+            "question_text": "Which factor most heavily influences an academic merit score if two candidates have the same GPA?",
+            "options": [
+                "The candidate's home address.",
+                "The rigor of the courses taken (e.g., AP, IB, or Honors level).",
+                "The number of social media followers the candidate has.",
+                "The font size used on the application form."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Course rigor demonstrates that the student challenged themselves, which is a hallmark of high academic merit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11067,
+            "question_text": "What is the primary function of an academic transcript in the merit evaluation process?",
+            "options": [
+                "To serve as a decorative attachment.",
+                "To provide a verified, historical record of all academic performance.",
+                "To determine the applicant's personality traits.",
+                "To outline the student's future financial requirements."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The transcript is the official legal document that confirms grades, course history, and academic standing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11068,
+            "question_text": "In merit evaluation, what is a 'weighted' grade point average?",
+            "options": [
+                "A GPA that only counts core subjects.",
+                "A GPA that gives extra points for advanced or rigorous coursework.",
+                "A GPA that has been divided by the number of years in school.",
+                "A GPA that considers only the most recent semester."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Weighted GPAs reflect the difficulty level of classes taken, acknowledging that high performance in advanced courses is more challenging.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11069,
+            "question_text": "How do standardized test scores (if required) complement GPA in a merit evaluation?",
+            "options": [
+                "They are used to identify cheating.",
+                "They provide a standardized metric to compare students across different grading systems.",
+                "They are mandatory for all students regardless of GPA.",
+                "They are used to bypass the personal statement requirement."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Because schools have different grading standards, standardized tests offer a uniform baseline for comparison.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11070,
+            "question_text": "What does a 'cumulative academic record' represent?",
+            "options": [
+                "Only the grades from the final year of study.",
+                "The total average of all grades achieved throughout the student's duration of study.",
+                "A prediction of future academic performance.",
+                "The average of elective subjects only."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The cumulative record ensures that the evaluation is based on the student's long-term performance, not just a snapshot.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11071,
+            "question_text": "Which of these is a qualitative measure of academic merit?",
+            "options": [
+                "A letter of recommendation from a professor.",
+                "The numerical GPA.",
+                "The student's class rank.",
+                "The number of credits completed."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "While grades are quantitative, letters of recommendation provide qualitative insight into the student's academic character and potential.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11072,
+            "question_text": "How does the inclusion of a 'research thesis' or 'capstone project' impact an academic merit evaluation?",
+            "options": [
+                "It decreases the score due to complexity",
+                "It provides evidence of critical thinking and subject matter mastery",
+                "It is ignored unless published in a journal",
+                "It replaces the need for a cumulative GPA"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Advanced academic projects demonstrate a student's ability to apply knowledge beyond classroom exams, signaling high intellectual capability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

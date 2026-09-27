@@ -1,0 +1,151 @@
+{
+    "category": "PTS",
+    "name": "Mathematics & Logical Reasoning",
+    "board": "pts",
+    "subject": "mathematics-logical-reasoning",
+    "url": "/pts/mathematics-logical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 8798,
+            "question_text": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+            "options": [
+                "20",
+                "24",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number in the sequence is double the previous one; therefore, 16 multiplied by 2 is 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9823,
+            "question_text": "If a test has 50 questions and each correct answer gets 1 mark, how many marks would a candidate lose for 5 incorrect answers if 0.25 marks are deducted per wrong answer?",
+            "options": [
+                "0.75",
+                "1.25",
+                "1.00",
+                "1.50"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If each wrong answer deducts 0.25, then 5 wrong answers result in 5 * 0.25 = 1.25 marks deducted.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9826,
+            "question_text": "If a man walks 800 meters in 14 minutes, how many kilometers does he walk in one hour at the same speed?",
+            "options": [
+                "approx. 3.4 km",
+                "approx. 4.2 km",
+                "approx. 5.5 km",
+                "approx. 6.0 km"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Speed = 800m / 14 min = 57.14 m/min. In 60 minutes, he walks 3428.5 meters, which is approximately 3.4 km.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9827,
+            "question_text": "What follows in this number pattern: 3, 6, 12, 24, ...?",
+            "options": [
+                "36",
+                "48",
+                "42",
+                "30"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each number is doubled to get the next (3*2=6, 6*2=12, 12*2=24, 24*2=48).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9828,
+            "question_text": "If a test has 50 questions, and each correct answer earns 1 mark, how many total marks are lost if a candidate gets 10 questions wrong, given a deduction of 0.25 marks per wrong answer?",
+            "options": [
+                "2.5",
+                "5",
+                "10",
+                "1.25"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "10 incorrect answers multiplied by 0.25 deduction equals 2.5 marks lost.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9829,
+            "question_text": "A person runs 1,000 meters in 10 minutes. How many kilometers can they run in one hour at the same rate?",
+            "options": [
+                "6 km",
+                "10 km",
+                "5 km",
+                "8 km"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "If they run 1 km in 10 minutes, in 60 minutes they will run 6 km.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9830,
+            "question_text": "If a test has 50 questions and each correct answer equals 1 mark, how many marks are lost for 5 incorrect answers given a 0.25 penalty per wrong answer?",
+            "options": [
+                "1.25",
+                "5.00",
+                "0.50",
+                "2.50"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "5 incorrect answers multiplied by the 0.25 penalty results in a total loss of 1.25 marks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9831,
+            "question_text": "What is the next number in the pattern: 2, 4, 8, 16, ...?",
+            "options": [
+                "20",
+                "24",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number is doubled to get the next (2x2=4, 4x2=8, 8x2=16, 16x2=32).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9832,
+            "question_text": "If a man walks 800 meters in 14 minutes, how many kilometers does he walk in one hour (60 minutes) at the same speed?",
+            "options": [
+                "3.43 km",
+                "2.80 km",
+                "4.00 km",
+                "5.60 km"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Speed = 800m / 14min = 57.14 meters per minute. In 60 minutes: 57.14 * 60 = 3428.4 meters, which is approximately 3.43 kilometers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9833,
+            "question_text": "What follows the pattern: 3, 6, 12, 24, ...?",
+            "options": [
+                "30",
+                "36",
+                "48",
+                "42"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern multiplies the previous number by 2 (3*2=6, 6*2=12, 12*2=24, 24*2=48).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

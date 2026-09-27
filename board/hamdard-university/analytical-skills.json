@@ -1,0 +1,207 @@
+{
+    "category": "Hamdard University",
+    "name": "Analytical Skills",
+    "board": "hamdard-university",
+    "subject": "analytical-skills",
+    "url": "/hamdard-university/analytical-skills/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 11640,
+            "question_text": "If A is taller than B, and B is taller than C, who is the shortest?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If A > B and B > C, then logically A > B > C. C is the shortest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11641,
+            "question_text": "Find the next number in the sequence: 2, 6, 12, 20, 30, ...",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The difference between consecutive numbers increases by 2: +4, +6, +8, +10, so the next difference is +12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11642,
+            "question_text": "If 'CASH' is coded as 'EDUJ', how is 'BANK' coded?",
+            "options": [
+                "DCP M",
+                "DBOL",
+                "CCPK",
+                "CDNM"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted forward by 2 positions (C+2=E, A+2=C, S+2=U, H+2=J).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11643,
+            "question_text": "Five books are stacked on a table. Physics is above Chemistry. History is below English. Chemistry is above English. Which book is at the very bottom?",
+            "options": [
+                "Physics",
+                "Chemistry",
+                "English",
+                "History"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Stack order from top: Physics, Chemistry, English, History.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11644,
+            "question_text": "Complete the analogy: 'Bank : Money :: Library : ____'",
+            "options": [
+                "School",
+                "Book",
+                "Reading",
+                "Librarian"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A bank stores money; a library stores books.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11645,
+            "question_text": "Find the odd one out.",
+            "options": [
+                "Square",
+                "Triangle",
+                "Circle",
+                "Cube"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Square, Triangle, and Circle are 2D shapes, while Cube is 3D.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11646,
+            "question_text": "If Monday is the 1st day of the month, what day is the 15th day?",
+            "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since 14 days have passed (exactly 2 weeks), the 15th day must be the same as the 1st day.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11647,
+            "question_text": "If all Accountants are organized, and some organized people are wealthy, which statement is true?",
+            "options": [
+                "All Accountants are wealthy.",
+                "Some Accountants are wealthy.",
+                "Some wealthy people are Accountants.",
+                "None of the above."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The premises do not provide enough information to link Accountants directly to wealth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11648,
+            "question_text": "What number comes next in the sequence: 100, 95, 85, 70, ...?",
+            "options": [
+                "55",
+                "50",
+                "45",
+                "60"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The numbers subtracted are 5, 10, 15, 20. 70 - 20 = 50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11649,
+            "question_text": "If 5 machines can make 5 products in 5 minutes, how long will 1 machine take to make 1 product?",
+            "options": [
+                "1 minute",
+                "2.5 minutes",
+                "5 minutes",
+                "10 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each machine produces one product every 5 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11650,
+            "question_text": "Select the missing letter: A, C, E, G, ?",
+            "options": [
+                "H",
+                "I",
+                "J",
+                "K"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sequence skips one letter (A_C_E_G_I).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11651,
+            "question_text": "If 'Pencil' is related to 'Write', then 'Knife' is related to:",
+            "options": [
+                "Sharpen",
+                "Cut",
+                "Eat",
+                "Metal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A pencil is a tool used to write; a knife is a tool used to cut.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11662,
+            "question_text": "Which word does not belong: Apple, Banana, Carrot, Orange?",
+            "options": [
+                "Apple",
+                "Banana",
+                "Carrot",
+                "Orange"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Carrot is a vegetable, while the others are fruits.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11816,
+            "question_text": "In a race, Sarah finished behind Tom but ahead of Jane. Who finished first?",
+            "options": [
+                "Tom",
+                "Sarah",
+                "Jane",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Order: Tom > Sarah > Jane. Therefore, Tom is first.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "category": "University of the Punjab",
+    "name": "Analytical Reasoning",
+    "board": "university-of-the-punjab",
+    "subject": "analytical-reasoning",
+    "url": "/university-of-the-punjab/analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 10362,
+            "question_text": "If all 'Glarps' are 'Glorps' and some 'Glorps' are 'Glips', which of the following must be true?",
+            "options": [
+                "All Glarps are Glips",
+                "Some Glarps are Glips",
+                "Some Glips are Glorps",
+                "No Glarps are Glips"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since some Glorps are Glips, it logically follows that the intersection contains Glips, meaning some Glips are necessarily Glorps.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10363,
+            "question_text": "If A is taller than B, and C is shorter than B, who is the shortest?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The order is A > B > C. Therefore, C is the shortest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10364,
+            "question_text": "Five books (A, B, C, D, E) are placed on a shelf. A is to the left of B. C is to the right of D. B is to the left of D. E is to the right of C. Which book is in the middle?",
+            "options": [
+                "A",
+                "B",
+                "D",
+                "C"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The order is A-B-D-C-E. D is the third book.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10365,
+            "question_text": "If 'RAIN' is coded as 'SBJO', how is 'SNOW' coded?",
+            "options": [
+                "TOPX",
+                "TOQX",
+                "UOPY",
+                "TPOX"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each letter is shifted forward by one in the alphabet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10366,
+            "question_text": "Point to a photograph, a man says, 'This lady is the wife of the only son of my father.' Who is in the photograph?",
+            "options": [
+                "Mother",
+                "Wife",
+                "Sister",
+                "Daughter"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The only son of his father is the man himself. His wife is the lady.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10367,
+            "question_text": "Find the odd one out: Car, Bus, Train, Bicycle",
+            "options": [
+                "Car",
+                "Bus",
+                "Train",
+                "Bicycle"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Car, Bus, and Train are motorized/engines, while a Bicycle is human-powered.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10368,
+            "question_text": "If some cats are dogs and all dogs are birds, which must be true?",
+            "options": [
+                "Some cats are birds",
+                "All birds are cats",
+                "No cats are birds",
+                "All birds are dogs"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since some cats are dogs and those dogs are birds, those specific cats must be birds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10369,
+            "question_text": "Complete the series: 3, 9, 27, 81, ...",
+            "options": [
+                "162",
+                "243",
+                "270",
+                "810"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each term is multiplied by 3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10370,
+            "question_text": "If 'Table' is 'Chair', 'Chair' is 'Cupboard', and 'Cupboard' is 'Sofa', where do you sit?",
+            "options": [
+                "Table",
+                "Chair",
+                "Cupboard",
+                "Sofa"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In this logic, you sit on a Chair, which is renamed as a Cupboard.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10371,
+            "question_text": "Five students are in a race. Ali is faster than Bilal but slower than Cat. David is faster than Ali but slower than Cat. Esha is the slowest. Who is the fastest?",
+            "options": [
+                "Ali",
+                "Bilal",
+                "Cat",
+                "David"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Order: Cat > David > Ali > Bilal > Esha.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10372,
+            "question_text": "Choose the next shape: Circle, Square, Circle, Square, ...",
+            "options": [
+                "Triangle",
+                "Circle",
+                "Square",
+                "Rectangle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern alternates between Circle and Square.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10373,
+            "question_text": "If Monday is the 1st day of the month, what day is the 15th?",
+            "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "15 days from Monday: 15 / 7 = 2 remainder 1, so it repeats the same day of the week.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10374,
+            "question_text": "Four friends (P, Q, R, S) are sitting in a row. P is sitting next to Q, R is sitting next to S. If S is not sitting next to P or Q, and R is at the extreme left, who is at the extreme right?",
+            "options": [
+                "P",
+                "Q",
+                "R",
+                "S"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "If R is at the far left and next to S, the sequence must be R, S, Q, P or R, S, P, Q. In both, S is next to R.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10375,
+            "question_text": "If 'BANANA' is coded as 'ACMCPA', how is 'ORANGE' coded?",
+            "options": [
+                "NQZMFD",
+                "MQZMFD",
+                "NQZMFD",
+                "MPZMFD"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted by -1, +2, -1, +2, -1, +2 pattern.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

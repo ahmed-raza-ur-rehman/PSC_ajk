@@ -1,0 +1,151 @@
+{
+    "category": "Preston University",
+    "name": "Accounting and Business Fundamentals",
+    "board": "preston-university",
+    "subject": "accounting-and-business-fundamentals",
+    "url": "/preston-university/accounting-and-business-fundamentals/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13701,
+            "question_text": "Which of the following is considered an asset on a balance sheet?",
+            "options": [
+                "Accounts Payable",
+                "Owner's Equity",
+                "Inventory",
+                "Bank Loan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Inventory is a resource owned by the business that is expected to provide future economic benefits.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13702,
+            "question_text": "The fundamental accounting equation is:",
+            "options": [
+                "Assets = Liabilities + Equity",
+                "Assets = Liabilities - Equity",
+                "Assets = Equity - Liabilities",
+                "Liabilities = Assets + Equity"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The basic accounting equation represents that all assets are funded by either debt (liabilities) or owner's capital (equity).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13703,
+            "question_text": "Which of the following is considered a current liability?",
+            "options": [
+                "Accounts Payable",
+                "Office Equipment",
+                "Land",
+                "Prepaid Insurance"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Accounts Payable represents short-term obligations to creditors, making it a current liability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13704,
+            "question_text": "The process of recording transactions in a journal is called:",
+            "options": [
+                "Summarizing",
+                "Posting",
+                "Journalizing",
+                "Auditing"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The initial recording of financial transactions in the general journal is known as journalizing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13705,
+            "question_text": "Net Income is calculated as:",
+            "options": [
+                "Revenue + Expenses",
+                "Assets - Liabilities",
+                "Revenue - Expenses",
+                "Assets + Equity"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Net Income is the result of subtracting all operating and non-operating expenses from total revenue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13706,
+            "question_text": "What is the primary purpose of a Trial Balance?",
+            "options": [
+                "To prove that total debits equal total credits",
+                "To determine net profit",
+                "To list all business owners",
+                "To show the value of inventory"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A trial balance is used to verify that the general ledger accounts are in balance after all transactions have been recorded.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13707,
+            "question_text": "Which type of business entity has a separate legal existence from its owners?",
+            "options": [
+                "Sole Proprietorship",
+                "Partnership",
+                "Corporation",
+                "Joint Venture"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A corporation is a legal entity that is distinct and separate from its shareholders.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13708,
+            "question_text": "What is the result of Assets minus Liabilities?",
+            "options": [
+                "Revenue",
+                "Net Profit",
+                "Equity",
+                "Expenses"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The accounting equation states that Assets = Liabilities + Equity; therefore, Equity = Assets - Liabilities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13709,
+            "question_text": "Which of these is considered an intangible asset?",
+            "options": [
+                "Cash",
+                "Inventory",
+                "Buildings",
+                "Goodwill"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Goodwill represents intangible value such as brand reputation, whereas cash, inventory, and buildings are tangible.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13710,
+            "question_text": "What does 'FIFO' stand for in inventory management?",
+            "options": [
+                "First-In, First-Out",
+                "Final-In, First-Out",
+                "First-In, Final-Out",
+                "Fully-In, Fully-Out"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "FIFO is an inventory valuation method assuming the oldest items in stock are sold first.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

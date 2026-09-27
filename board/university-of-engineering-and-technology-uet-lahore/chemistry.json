@@ -1,0 +1,151 @@
+{
+    "category": "University of Engineering and Technology (UET) Lahore",
+    "name": "Chemistry",
+    "board": "university-of-engineering-and-technology-uet-lahore",
+    "subject": "chemistry",
+    "url": "/university-of-engineering-and-technology-uet-lahore/chemistry/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 10833,
+            "question_text": "Which of the following molecules has a trigonal planar geometry?",
+            "options": [
+                "NH3",
+                "CH4",
+                "BF3",
+                "H2O"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Boron trifluoride (BF3) has three bonding pairs around the central Boron atom with no lone pairs, resulting in a trigonal planar shape.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10834,
+            "question_text": "What is the pH of a 0.001 M solution of HCl?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "pH = -log[H+]. For HCl, [H+] = 0.001 M = 10^-3 M. Therefore, pH = -log(10^-3) = 3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10835,
+            "question_text": "What is the oxidation state of Chromium in K2Cr2O7?",
+            "options": [
+                "+3",
+                "+6",
+                "+7",
+                "+2"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Assigning oxidation numbers: 2(+1) + 2(Cr) + 7(-2) = 0 => 2 + 2Cr - 14 = 0 => 2Cr = 12 => Cr = +6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10836,
+            "question_text": "Which bond type is characterized by the sharing of two pairs of electrons?",
+            "options": [
+                "Single bond",
+                "Double bond",
+                "Triple bond",
+                "Ionic bond"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A single bond involves one shared pair, while a double bond involves two shared electron pairs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10837,
+            "question_text": "Which of the following factors increases the rate of a chemical reaction?",
+            "options": [
+                "Decreasing temperature",
+                "Adding an inhibitor",
+                "Increasing surface area",
+                "Decreasing concentration of reactants"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Increasing surface area allows for more collisions between reactant particles, thereby increasing the reaction rate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10838,
+            "question_text": "The electronic configuration 1s² 2s² 2p⁶ 3s² 3p¹ corresponds to which element?",
+            "options": [
+                "Magnesium",
+                "Silicon",
+                "Aluminum",
+                "Sodium"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The total number of electrons is 13, which is the atomic number of Aluminum.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10839,
+            "question_text": "Which gas law states that at constant temperature, the volume of a gas is inversely proportional to its pressure?",
+            "options": [
+                "Charles's Law",
+                "Boyle's Law",
+                "Avogadro's Law",
+                "Gay-Lussac's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Boyle's Law defines the inverse relationship between pressure and volume for a fixed amount of gas at a constant temperature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10840,
+            "question_text": "Which subshell has the lowest energy according to the (n+l) rule?",
+            "options": [
+                "3d",
+                "4s",
+                "4p",
+                "3p"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Using (n+l): 3p(3+1=4), 4s(4+0=4), 3d(3+2=5), 4p(4+1=5). Between 3p and 4s, 3p has lower 'n', hence lower energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10841,
+            "question_text": "What is the hybridization of the central atom in methane (CH₄)?",
+            "options": [
+                "sp",
+                "sp²",
+                "sp³",
+                "dsp²"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Carbon in methane forms four single bonds, requiring 4 hybrid orbitals, which is characteristic of sp³ hybridization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10842,
+            "question_text": "Which of these is a strong acid?",
+            "options": [
+                "CH₃COOH",
+                "H₂CO₃",
+                "HNO₃",
+                "HF"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitric acid (HNO₃) completely dissociates in water, categorizing it as a strong acid, whereas the others are weak acids.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

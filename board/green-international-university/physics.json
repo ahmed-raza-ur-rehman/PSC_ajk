@@ -1,0 +1,179 @@
+{
+    "category": "Green International University",
+    "name": "Physics",
+    "board": "green-international-university",
+    "subject": "physics",
+    "url": "/green-international-university/physics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12973,
+            "question_text": "In the context of facial treatments, what effect does high-frequency current have on the skin?",
+            "options": [
+                "Decreases collagen production",
+                "Promotes oxygenation and has an antiseptic effect",
+                "Increases the depth of product penetration through iontophoresis",
+                "Cooling the skin surface"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "High-frequency currents produce ozone, which is highly oxygenating and provides an antiseptic benefit, often used to treat acne.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12974,
+            "question_text": "Which physical principle explains how steam opens pores during a facial?",
+            "options": [
+                "Increased atmospheric pressure",
+                "Heat-induced vasodilation and increased perspiration",
+                "Magnetic attraction of pollutants",
+                "Refractive index changes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Steam warms the skin, causing blood vessels to dilate (vasodilation) and increasing sweat production, which helps soften debris in the pores.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12975,
+            "question_text": "Which principle describes how electricity flows through the body during galvanic treatments?",
+            "options": [
+                "Ohm's Law",
+                "Newton's First Law",
+                "The Law of Thermodynamics",
+                "Boyle's Law"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ohm's Law (V=IR) governs the relationship between voltage, current, and resistance in electrical circuits, including those involving the skin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12976,
+            "question_text": "How does magnification work in a magnifying lamp (loupe)?",
+            "options": [
+                "Through light reflection off a concave mirror",
+                "Through light refraction through a convex lens",
+                "Through light polarization",
+                "Through light diffraction"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A convex lens converges light rays to form a magnified image of the object being examined.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12977,
+            "question_text": "What is the primary effect of laser therapy based on selective photothermolysis?",
+            "options": [
+                "Mechanical vibration",
+                "Conversion of light energy into heat in a target chromophore",
+                "Emission of ionizing radiation",
+                "Magnetic field alignment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Selective photothermolysis targets specific chromophores (like melanin or hemoglobin) using light to destroy them via controlled heat.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12978,
+            "question_text": "What happens when light waves hit a smooth surface and bounce back?",
+            "options": [
+                "Refraction",
+                "Absorption",
+                "Reflection",
+                "Transmission"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Reflection is the change in direction of a wavefront at an interface between two different media so that the wavefront returns into the medium from which it originated.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12979,
+            "question_text": "Which type of current is typically used for Iontophoresis?",
+            "options": [
+                "Faradic current",
+                "Galvanic current",
+                "Alternating current",
+                "High-frequency current"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Iontophoresis utilizes the constant direct current of a galvanic machine to push active ingredients into the skin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12980,
+            "question_text": "In physics, what is a circuit overload?",
+            "options": [
+                "When the voltage is too low for the device",
+                "When more current flows than the circuit is designed to handle",
+                "When the device is turned off",
+                "When the resistance is too high"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An overload occurs when too many appliances are connected to one circuit, exceeding the amperage capacity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12981,
+            "question_text": "Which part of the electromagnetic spectrum is used for skin sterilization in aesthetic devices?",
+            "options": [
+                "Infrared",
+                "Ultraviolet",
+                "Radio waves",
+                "Visible red light"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "UV light, specifically UVC, has germicidal properties that can kill or inactivate microorganisms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12982,
+            "question_text": "What is 'frequency' in the context of electrical currents?",
+            "options": [
+                "The speed at which the current travels",
+                "The intensity of the current",
+                "The number of oscillations per second",
+                "The amount of heat generated"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Frequency is measured in Hertz (Hz) and describes how many times an alternating current completes a full cycle per second.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12983,
+            "question_text": "What is the purpose of an 'earth ground' in a beauty device?",
+            "options": [
+                "To increase the conductivity of the machine",
+                "To prevent electrical shock by providing a path for stray current",
+                "To store excess charge",
+                "To change AC into DC"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Grounding provides a safe path for electricity to flow into the earth if a short circuit occurs, protecting the user.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12984,
+            "question_text": "What does an insulator do?",
+            "options": [
+                "Allows electricity to flow freely",
+                "Prevents the flow of electricity",
+                "Increases the voltage of a current",
+                "Creates a spark"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Insulators (like rubber or plastic) have high electrical resistance, which blocks the flow of electric current.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

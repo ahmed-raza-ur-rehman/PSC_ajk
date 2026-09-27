@@ -1,0 +1,193 @@
+{
+    "category": "Namal University",
+    "name": "Financial Need Assessment",
+    "board": "namal-university",
+    "subject": "financial-need-assessment",
+    "url": "/namal-university/financial-need-assessment/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 11073,
+            "question_text": "What is the primary purpose of a 'Statement of Financial Need' in a scholarship application?",
+            "options": [
+                "To boast about academic achievements",
+                "To demonstrate the gap between available resources and educational costs",
+                "To list every personal purchase made in the last year",
+                "To compare one's financial status with other applicants"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The core of financial need assessment is proving that the cost of attendance exceeds the applicant's family ability to pay.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11074,
+            "question_text": "Which document is most commonly used to verify the income level reported by an applicant?",
+            "options": [
+                "Utility bills",
+                "Tax returns or salary slips",
+                "Personal bank statements",
+                "Employment offer letters"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tax returns and salary slips are official, third-party verified documents that provide an accurate picture of household income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11075,
+            "question_text": "What is the 'Expected Family Contribution' (EFC) in a financial need assessment?",
+            "options": [
+                "The total cost of the university tuition.",
+                "The amount the family is calculated to be able to pay based on their financial data.",
+                "The amount the scholarship provider guarantees to cover.",
+                "The loan amount requested by the student."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "EFC is a metric used to determine how much a family can reasonably contribute to educational expenses based on assets and income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11076,
+            "question_text": "Why is 'Debt-to-Income Ratio' reviewed during a financial need assessment?",
+            "options": [
+                "To see if the student is eligible for a credit card.",
+                "To evaluate the level of financial distress and fiscal responsibility of the applicant’s household.",
+                "To determine the applicant's academic major.",
+                "To check if the applicant has paid their library fines."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "High debt levels relative to income indicate significant financial pressure, which justifies the need for scholarship support.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11077,
+            "question_text": "In the context of financial need, what does 'Liquid Assets' refer to?",
+            "options": [
+                "The market value of a family-owned farm.",
+                "Cash, savings, and other assets that can be quickly converted to money.",
+                "The amount of money currently owed to the university.",
+                "The total cost of living expenses for a semester."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Liquid assets are easily accessible funds that contribute to a family's immediate financial capacity to pay for education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11078,
+            "question_text": "How is 'Dependency Status' relevant to a financial need assessment?",
+            "options": [
+                "It determines whether the family's or the student's personal income is used for calculations.",
+                "It is used only to decide if the student can live on campus.",
+                "It dictates the student's grade point average requirements.",
+                "It identifies if the student has siblings currently in school."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "If a student is dependent, their parents' financial data is included in the need assessment; if independent, only the student's data is used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11079,
+            "question_text": "What is the purpose of reporting 'Extraordinary Medical Expenses' in a scholarship application?",
+            "options": [
+                "To show that the student is a medical student.",
+                "To prove that the family has a legitimate financial burden not captured by basic income figures.",
+                "To get extra credit for having a healthy lifestyle.",
+                "To provide data for health insurance providers."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Significant, unavoidable expenses like medical bills reduce the actual disposable income a family has for education, justifying higher need.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11080,
+            "question_text": "What constitutes 'Gross Annual Income' in a financial disclosure?",
+            "options": [
+                "The total income earned before taxes and deductions are taken out.",
+                "The amount of money left over after taxes and rent are paid.",
+                "The amount of money saved by the student in a bank account.",
+                "The total scholarship amount requested."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Gross income provides a clear picture of total financial inflows before accounting for tax obligations or living costs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11081,
+            "question_text": "Why do scholarship committees ask about 'Number of Dependents' in the household?",
+            "options": [
+                "To calculate the average age of the family members.",
+                "To assess how many people share the family's financial resources.",
+                "To predict how many future applicants will come from the family.",
+                "To determine if the applicant has brothers or sisters."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A larger number of dependents means the family's limited income must be spread across more people, increasing the financial need.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11082,
+            "question_text": "What is an 'Asset Verification' in financial aid terms?",
+            "options": [
+                "The process of checking that a student is physically fit.",
+                "The cross-referencing of reported financial assets with official documentation.",
+                "The process of valuing the student's academic potential.",
+                "The requirement to buy insurance for the scholarship."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Verification is necessary to ensure the honesty and accuracy of the financial information provided by the applicant.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11083,
+            "question_text": "Which scenario would likely increase an applicant's perceived financial need?",
+            "options": [
+                "Having multiple high-interest investments.",
+                "The primary breadwinner of the family losing their job unexpectedly.",
+                "The family moving to a more expensive neighborhood.",
+                "The student owning a luxury vehicle."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A sudden loss of income is a major life event that severely impacts a family's ability to fund education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11084,
+            "question_text": "In financial need assessments, what is the role of the 'Cost of Attendance' (COA)?",
+            "options": [
+                "It is the amount the student earns while working.",
+                "It is the baseline figure used to calculate the 'gap' between expenses and family resources.",
+                "It is the amount the student pays for application fees.",
+                "It is a set fee for all scholarship applicants."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Financial need is defined as the difference between the Cost of Attendance and the amount the family can contribute.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11085,
+            "question_text": "How does the 'cost of living index' in an applicant's region influence the assessment of their financial need?",
+            "options": [
+                "It is rarely considered in official assessments",
+                "It allows the committee to contextualize income against regional expenses",
+                "It automatically disqualifies applicants from high-cost areas",
+                "It is irrelevant to the Expected Family Contribution"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A specific income amount has different purchasing power depending on the geography, so committees use this to gauge true financial strain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

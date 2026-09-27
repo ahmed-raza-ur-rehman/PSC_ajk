@@ -1,0 +1,179 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Vehicle Maintenance",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "vehicle-maintenance",
+    "url": "/national-cybercrime-investigation-agency/vehicle-maintenance/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 14484,
+            "question_text": "What is the primary purpose of engine coolant in a motor vehicle?",
+            "options": [
+                "To lubricate the piston rings",
+                "To absorb excess heat from the engine and prevent freezing in cold climates",
+                "To increase fuel octane rating",
+                "To clean carbon deposits from the exhaust manifold"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Coolant (a mixture of water and antifreeze) transfers heat away from the engine block to the radiator and prevents freezing or boiling over across various temperatures.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14485,
+            "question_text": "What symptom typically indicates that a vehicle's brake pads are worn down past their safe operating limit?",
+            "options": [
+                "A high-pitched squealing or scraping noise when applying the brakes",
+                "A sudden increase in fuel efficiency",
+                "The steering wheel pulling sharply to the right during acceleration",
+                "The headlights dimming when the brakes are pressed"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Brake pads feature built-in wear indicators (small metal tabs) that make a squealing sound against the rotor when the friction material becomes too thin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14486,
+            "question_text": "What is the consequence of driving with tire pressure significantly lower than the manufacturer's recommended level?",
+            "options": [
+                "Improved fuel economy and softer ride",
+                "Increased rolling resistance, excessive shoulder wear, and potential tire overheating",
+                "Reduced braking distance on dry pavement",
+                "Increased steering responsiveness"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Under-inflated tires flex excessively, generating internal heat that can lead to tread separation and blowouts, while also burning more fuel.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14487,
+            "question_text": "How often should engine oil and the oil filter typically be inspected and replaced under standard operating conditions?",
+            "options": [
+                "Every 500 kilometers",
+                "According to the manufacturer's recommended mileage or time interval (e.g., 5,000 to 10,000 km)",
+                "Only when the engine fails to start",
+                "Every five years regardless of mileage"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Regular oil changes remove accumulated contaminants and maintain proper lubrication viscosity to protect engine components.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14488,
+            "question_text": "What does a spongy or soft brake pedal feel usually indicate during a routine inspection?",
+            "options": [
+                "Air trapped in the hydraulic brake lines",
+                "Worn-out spark plugs",
+                "A clogged air intake filter",
+                "Low transmission fluid levels"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Air is compressible, whereas brake fluid is not. If air enters the hydraulic lines, the pedal will feel soft or spongy when depressed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14489,
+            "question_text": "What does a bluish-white exhaust smoke typically indicate in an internal combustion engine?",
+            "options": [
+                "Unburnt fuel due to a rich air-fuel mixture",
+                "Engine oil burning inside the combustion chambers",
+                "Excessive water condensation in the exhaust pipe",
+                "Blocked air filter restricting airflow"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Bluish smoke is a classic indicator that engine oil is leaking past piston rings, valve seals, or turbocharger bearings and burning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14490,
+            "question_text": "Why is it important to check fluid levels (engine oil, coolant, brake fluid) when the engine is cold?",
+            "options": [
+                "To prevent severe burns from hot engine components and ensure accurate fluid expansion readings",
+                "Because the fluids evaporate if checked while the engine is hot",
+                "Cold engines require higher fluid levels than warm engines",
+                "To prevent the battery from discharging during inspection"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Checking fluids when cold avoids inaccurate dipstick readings caused by thermal expansion and prevents thermal burns.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14491,
+            "question_text": "What is the function of the alternator in a motor vehicle's electrical system?",
+            "options": [
+                "To store electrical energy for starting the engine",
+                "To convert mechanical energy from the engine into electrical energy to charge the battery and power accessories",
+                "To regulate fuel injection timing into the cylinders",
+                "To cool down the transmission fluid during heavy loads"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The alternator generates electricity while the engine runs, supplying the vehicle's electrical needs and recharging the battery.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14492,
+            "question_text": "What is the primary indicator that a vehicle's wheel alignment is severely out of specification?",
+            "options": [
+                "The air conditioning system blows warm air",
+                "The vehicle pulls persistently to one side and front tires exhibit uneven tread wear",
+                "The headlights flicker at high speeds",
+                "The engine makes a high-pitched squealing noise when idling"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Misaligned wheels cause improper contact patches with the road, leading to directional pull and rapid, uneven tire wear.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14493,
+            "question_text": "What maintenance action should be taken if a vehicle's clutch pedal has excessive 'free play' before engaging?",
+            "options": [
+                "Replace the entire transmission gearbox immediately",
+                "Inspect and adjust the clutch linkage or hydraulic fluid system",
+                "Increase the engine idle speed",
+                "Bleed the power steering fluid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Excessive free play usually indicates slack in the cable linkage or air/fluid loss in the hydraulic clutch actuation system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14504,
+            "question_text": "What is the primary purpose of a vehicle's fuel filter?",
+            "options": [
+                "To mix air and fuel efficiently",
+                "To trap dirt, rust, and contaminants before fuel reaches the injectors or carburetor",
+                "To cool down high-pressure fuel",
+                "To convert toxic gases into harmless water vapor"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fuel filters protect delicate fuel injection components from clogging and damage caused by tank debris.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14505,
+            "question_text": "What potential hazard does a cracked serpentine (drive) belt present to a motor vehicle?",
+            "options": [
+                "Loss of power steering, alternator charging failure, and engine overheating",
+                "Immediate failure of the transmission gearbox",
+                "Total loss of tire pressure",
+                "Cracking of the vehicle's windshield"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The serpentine belt drives critical accessories like the water pump, alternator, and power steering pump.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

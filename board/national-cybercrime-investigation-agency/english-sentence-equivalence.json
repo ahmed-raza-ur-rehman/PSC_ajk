@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "English — Sentence Equivalence",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "english-sentence-equivalence",
+    "url": "/national-cybercrime-investigation-agency/english-sentence-equivalence/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14575,
+            "question_text": "In the context of governmental efficiency, the passage suggests that merely implementing more technological solutions is insufficient without concurrent reforms to administrative structures and public accountability mechanisms.",
+            "options": [
+                "Technology alone can solve all administrative bottlenecks, provided the government allocates sufficient funding and technical personnel.",
+                "Administrative structures are inherently sound and only require minor technological updates to function optimally.",
+                "Increased automation in government processes is the single most critical factor in achieving immediate efficiency improvements.",
+                "True governance reform requires a holistic approach that addresses institutional weaknesses alongside technological adoption."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage emphasizes that structural and accountability reforms must accompany technological upgrades for genuine governance improvement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

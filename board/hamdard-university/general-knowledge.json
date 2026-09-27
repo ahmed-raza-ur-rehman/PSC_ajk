@@ -1,0 +1,179 @@
+{
+    "category": "Hamdard University",
+    "name": "General Knowledge",
+    "board": "hamdard-university",
+    "subject": "general-knowledge",
+    "url": "/hamdard-university/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 11625,
+            "question_text": "Which financial institution acts as the central bank of Pakistan?",
+            "options": [
+                "National Bank of Pakistan",
+                "State Bank of Pakistan",
+                "Habib Bank Limited",
+                "World Bank"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The State Bank of Pakistan is the central bank and primary regulatory authority of the banking system in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11626,
+            "question_text": "What is the primary purpose of the 'Balance Sheet' in accounting?",
+            "options": [
+                "To show profit over a period",
+                "To show the financial position at a specific date",
+                "To record daily sales",
+                "To track employee attendance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A balance sheet provides a snapshot of assets, liabilities, and equity at a specific point in time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11627,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars is commonly known as the Red Planet due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11628,
+            "question_text": "Who is the current Prime Minister of Pakistan? (As of 2024)",
+            "options": [
+                "Imran Khan",
+                "Shehbaz Sharif",
+                "Nawaz Sharif",
+                "Bilawal Bhutto"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Shehbaz Sharif took office as Prime Minister of Pakistan in 2024.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11629,
+            "question_text": "Which country is home to the Amazon Rainforest?",
+            "options": [
+                "Brazil",
+                "India",
+                "Australia",
+                "Canada"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The majority of the Amazon Rainforest is located in Brazil.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11630,
+            "question_text": "What is the capital city of Japan?",
+            "options": [
+                "Seoul",
+                "Beijing",
+                "Tokyo",
+                "Bangkok"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tokyo is the capital and largest city of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11631,
+            "question_text": "What is the currency of the United Kingdom?",
+            "options": [
+                "Dollar",
+                "Euro",
+                "Pound Sterling",
+                "Yen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The official currency of the UK is the Pound Sterling.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11632,
+            "question_text": "Which element is the most abundant in Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11634,
+            "question_text": "Who is known as the founder of Pakistan?",
+            "options": [
+                "Allama Iqbal",
+                "Liaquat Ali Khan",
+                "Quaid-e-Azam Muhammad Ali Jinnah",
+                "Sir Syed Ahmed Khan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Muhammad Ali Jinnah is recognized as the founder of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11635,
+            "question_text": "Which organization is responsible for global health standards?",
+            "options": [
+                "UNICEF",
+                "WHO",
+                "IMF",
+                "UNESCO"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The World Health Organization (WHO) coordinates international health policy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11636,
+            "question_text": "What is the chemical symbol for Gold?",
+            "options": [
+                "Gd",
+                "Au",
+                "Ag",
+                "Fe"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Au comes from the Latin word 'Aurum', meaning gold.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11637,
+            "question_text": "Which desert is the largest in the world?",
+            "options": [
+                "Sahara",
+                "Gobi",
+                "Antarctic",
+                "Kalahari"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Antarctic Desert is technically the largest desert in the world by area.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

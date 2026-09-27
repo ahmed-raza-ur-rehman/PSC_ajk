@@ -1,0 +1,151 @@
+{
+    "category": "MUET",
+    "name": "General Knowledge",
+    "board": "muet",
+    "subject": "general-knowledge",
+    "url": "/muet/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 10903,
+            "question_text": "Which is the largest planet in our solar system?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Jupiter is the largest planet in our solar system, with a diameter much larger than that of any other planet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10904,
+            "question_text": "Who is known as the founder of the modern computer?",
+            "options": [
+                "Nikola Tesla",
+                "Alan Turing",
+                "Albert Einstein",
+                "Isaac Newton"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Alan Turing provided the formalization of the concepts of algorithm and computation, and is widely considered the father of theoretical computer science.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10905,
+            "question_text": "Which city is known as the 'City of Lights' in Pakistan?",
+            "options": [
+                "Lahore",
+                "Islamabad",
+                "Karachi",
+                "Peshawar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Karachi is historically referred to as the City of Lights.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10906,
+            "question_text": "The United Nations headquarters is located in:",
+            "options": [
+                "Geneva",
+                "London",
+                "New York",
+                "Paris"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The UN headquarters is in New York City, USA.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10907,
+            "question_text": "Which gas is primarily responsible for the greenhouse effect?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Carbon dioxide is the primary greenhouse gas contributing to global warming.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10908,
+            "question_text": "Who was the first person to set foot on the moon?",
+            "options": [
+                "Yuri Gagarin",
+                "Neil Armstrong",
+                "Buzz Aldrin",
+                "John Glenn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Neil Armstrong was the first human to walk on the moon in 1969.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10909,
+            "question_text": "Which instrument is used to measure atmospheric pressure?",
+            "options": [
+                "Thermometer",
+                "Barometer",
+                "Hygrometer",
+                "Anemometer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A barometer is the standard instrument for measuring air pressure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10910,
+            "question_text": "Which country gifted the Statue of Liberty to the United States?",
+            "options": [
+                "United Kingdom",
+                "France",
+                "Germany",
+                "Italy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Statue of Liberty was a gift from the people of France to the people of the United States in 1886.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10911,
+            "question_text": "What is the currency of Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Ringgit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Japanese Yen is the official currency of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10912,
+            "question_text": "Which river is the longest in the world?",
+            "options": [
+                "Amazon",
+                "Yangtze",
+                "Nile",
+                "Mississippi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Nile is widely considered the longest river in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

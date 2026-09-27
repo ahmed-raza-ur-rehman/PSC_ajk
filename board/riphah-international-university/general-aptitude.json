@@ -1,0 +1,193 @@
+{
+    "category": "Riphah International University",
+    "name": "General Aptitude",
+    "board": "riphah-international-university",
+    "subject": "general-aptitude",
+    "url": "/riphah-international-university/general-aptitude/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 13610,
+            "question_text": "If 'APPLE' is coded as 'ELPPA', how is 'BREAD' coded?",
+            "options": [
+                "DAERB",
+                "BREAD",
+                "DERAB",
+                "EARDB"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The pattern is reversing the string. Reversing 'BREAD' yields 'DAERB'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13611,
+            "question_text": "Find the missing number in the sequence: 2, 4, 8, 16, ?",
+            "options": [
+                "20",
+                "24",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sequence follows the rule 2^n. 2^1=2, 2^2=4, 2^3=8, 2^4=16, 2^5=32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13612,
+            "question_text": "If 'DOG' is 4-15-7, how is 'CAT' coded?",
+            "options": [
+                "3-1-20",
+                "1-3-20",
+                "20-1-3",
+                "3-20-1"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter corresponds to its position in the alphabet: C=3, A=1, T=20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13613,
+            "question_text": "A clock shows 3:15. What is the angle between the hour and minute hand?",
+            "options": [
+                "0 degrees",
+                "7.5 degrees",
+                "15 degrees",
+                "30 degrees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "At 3:15, the minute hand is at 3, but the hour hand has moved 1/4th of the way from 3 to 4. Each hour mark is 30 degrees, so 1/4 * 30 = 7.5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13614,
+            "question_text": "Complete the series: 5, 10, 20, 40, ...",
+            "options": [
+                "50",
+                "60",
+                "80",
+                "100"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number is double the previous number.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13615,
+            "question_text": "If all roses are flowers and some flowers are red, which statement is definitely true?",
+            "options": [
+                "All roses are red.",
+                "Some roses are red.",
+                "Some flowers are roses.",
+                "All red things are flowers."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since all roses are flowers, it logically follows that some flowers are roses (the set of roses is a subset of flowers).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13616,
+            "question_text": "What is the next term in the sequence: A, C, E, G, ...",
+            "options": [
+                "H",
+                "I",
+                "J",
+                "K"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sequence skips one letter each time (A, skip B, C, skip D, E, skip F, G, skip H, I).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13617,
+            "question_text": "If a man walks 4 km north and then 3 km east, how far is he from the starting point?",
+            "options": [
+                "5 km",
+                "6 km",
+                "7 km",
+                "1 km"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Using the Pythagorean theorem: sqrt(4^2 + 3^2) = sqrt(16 + 9) = sqrt(25) = 5 km.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13618,
+            "question_text": "Select the odd one out: Circle, Square, Triangle, Cube.",
+            "options": [
+                "Circle",
+                "Square",
+                "Triangle",
+                "Cube"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Cube is a 3D object, while the others are 2D shapes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13619,
+            "question_text": "Which word does not belong: Car, Bus, Bicycle, Ship?",
+            "options": [
+                "Car",
+                "Bus",
+                "Bicycle",
+                "Ship"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Car, Bus, and Bicycle travel on land, while a Ship travels on water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13620,
+            "question_text": "A shirt costs $20 after a 20% discount. What was the original price?",
+            "options": [
+                "$24",
+                "$25",
+                "$26",
+                "$30"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Original price * 0.8 = 20. Original price = 20 / 0.8 = 25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13621,
+            "question_text": "Find the next in series: 1, 1, 2, 3, 5, 8, ?",
+            "options": [
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "This is the Fibonacci sequence where each number is the sum of the two preceding ones.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13622,
+            "question_text": "If 'FISH' is coded as 'GJTI', how is 'BIRD' coded?",
+            "options": [
+                "CJSE",
+                "CJTE",
+                "CKSE",
+                "BKSE"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted forward by one position in the alphabet (F->G, I->J, S->T, H->I).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

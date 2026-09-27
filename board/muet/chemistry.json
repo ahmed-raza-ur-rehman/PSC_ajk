@@ -1,0 +1,151 @@
+{
+    "category": "MUET",
+    "name": "Chemistry",
+    "board": "muet",
+    "subject": "chemistry",
+    "url": "/muet/chemistry/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 10883,
+            "question_text": "Which subatomic particle has the smallest mass?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Alpha particle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The mass of an electron is approximately 1/1836 of the mass of a proton or neutron, making it the lightest of the listed particles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10884,
+            "question_text": "What is the pH of a 0.01 M HCl solution?",
+            "options": [
+                "1",
+                "2",
+                "12",
+                "13"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "pH is defined as -log[H+]. For 0.01 M HCl (a strong acid), [H+] = 0.01 = 10^-2. Therefore, -log(10^-2) = 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10885,
+            "question_text": "Which of the following elements has the highest electronegativity?",
+            "options": [
+                "Oxygen",
+                "Fluorine",
+                "Chlorine",
+                "Nitrogen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fluorine is the most electronegative element in the periodic table.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10886,
+            "question_text": "How many moles are in 36 grams of H2O? (Atomic mass: H=1, O=16)",
+            "options": [
+                "1 mole",
+                "2 moles",
+                "3 moles",
+                "0.5 moles"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Molar mass of H2O = (2*1) + 16 = 18 g/mol. Moles = 36g / 18g/mol = 2 moles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10887,
+            "question_text": "Which bond is formed by the sharing of two pairs of electrons between two atoms?",
+            "options": [
+                "Single covalent bond",
+                "Double covalent bond",
+                "Ionic bond",
+                "Coordinate covalent bond"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A double covalent bond involves the sharing of two pairs of valence electrons.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10888,
+            "question_text": "What is the geometry of a methane (CH4) molecule?",
+            "options": [
+                "Linear",
+                "Bent",
+                "Tetrahedral",
+                "Trigonal planar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "With 4 bonding pairs and no lone pairs on the central carbon, methane has a tetrahedral geometry.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10889,
+            "question_text": "Which law states that the volume of a given mass of gas is inversely proportional to its pressure at constant temperature?",
+            "options": [
+                "Charles's Law",
+                "Boyle's Law",
+                "Avogadro's Law",
+                "Dalton's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Boyle's Law defines the inverse relationship between pressure and volume at constant temperature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10890,
+            "question_text": "Which functional group is characteristic of alcohols?",
+            "options": [
+                "-COOH",
+                "-OH",
+                "-CHO",
+                "-NH2"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The hydroxyl group (-OH) is the characteristic functional group of alcohols.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10891,
+            "question_text": "What is the oxidation state of Chromium in K₂Cr₂O₇?",
+            "options": [
+                "+3",
+                "+4",
+                "+6",
+                "+7"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => 2 + 2Cr - 14 = 0 => 2Cr = 12 => Cr = +6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10892,
+            "question_text": "Which of these gases is the most abundant in Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Argon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

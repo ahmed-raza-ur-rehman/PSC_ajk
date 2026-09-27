@@ -1,0 +1,207 @@
+{
+    "category": "ETS",
+    "name": "Verbal Reasoning",
+    "board": "ets",
+    "subject": "verbal-reasoning",
+    "url": "/ets/verbal-reasoning/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 9471,
+            "question_text": "If a test-optional program allows applicants to submit GRE scores, what does the available data suggest about their impact on the chances of being accepted?",
+            "options": [
+                "Submitting scores is discouraged by these programs.",
+                "Applicants who submit scores are generally less likely to be accepted.",
+                "Submitting scores gives applicants a competitive edge.",
+                "There is no correlation between submitting scores and acceptance rates."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to the provided data, 87% of applicants who submit their GRE scores to test-optional programs are accepted, suggesting that submitting scores can provide a competitive advantage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9472,
+            "question_text": "Based on the information provided, what can be inferred about the flexibility of taking the GRE?",
+            "options": [
+                "It must be taken on specific, limited dates each year.",
+                "It is available to take year-round at various locations or at home.",
+                "It can only be taken once every six months.",
+                "It is only available at a few selected test centers worldwide."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text states that the GRE is available 365 days a year at over 1,000 locations and can also be taken at home.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9473,
+            "question_text": "Which statement best describes the retake policy for the GRE?",
+            "options": [
+                "Students can retake the test once every 21 days, up to five times per year.",
+                "Students are not allowed to retake the test once they have achieved a score.",
+                "Students can only retake the test once in their lifetime.",
+                "Students must wait at least one year before they are eligible to retake the test."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The text explicitly mentions that students can take the GRE once every 21 days, for a maximum of five times in a 12-month period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9474,
+            "question_text": "How do graduate and professional programs typically evaluate applicants?",
+            "options": [
+                "They rely solely on standardized test scores.",
+                "They only consider the undergraduate GPA.",
+                "They evaluate candidates holistically using multiple factors.",
+                "They exclusively prioritize personal essays and recommendations."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The text explains that graduate and professional programs evaluate candidates holistically, considering GRE scores alongside GPA, recommendations, essays, and experience.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9475,
+            "question_text": "Which of the following best describes the primary goal of the GRE General Test?",
+            "options": [
+                "To test specific knowledge of graduate subjects",
+                "To measure critical skills developed over time that predict success in graduate school",
+                "To replace undergraduate GPA in all admissions decisions",
+                "To determine if a student is eligible for a scholarship"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text states the GRE measures skills like verbal and quantitative reasoning and critical thinking, which are developed over time and predict graduate success.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9477,
+            "question_text": "Based on the provided text, why might an applicant prefer to use the ScoreSelect® option?",
+            "options": [
+                "It automatically increases their score on the test",
+                "It allows them to send only their best scores to programs",
+                "It provides a discount on the testing fee",
+                "It removes the need to take the test more than once"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ScoreSelect® is explicitly described as an option that lets test-takers choose which scores they submit to schools, allowing them to send their strongest results.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9478,
+            "question_text": "Why is it advantageous for a prospective student to research various graduate admission tests?",
+            "options": [
+                "To ensure they pick the test that best aligns with their goals and personal strengths",
+                "To avoid paying the testing fee",
+                "Because all graduate schools require every available test",
+                "To bypass the need for an application essay"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Researching different tests helps an applicant compare their options, such as the GRE versus GMAT or LSAT, to determine which test fits their specific academic path.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9479,
+            "question_text": "According to the provided myths and realities, what is the reality for applicants applying to test-optional programs?",
+            "options": [
+                "Submitting scores is discouraged by committees",
+                "Submitting scores gives applicants an edge",
+                "Submitting scores has no impact on acceptance",
+                "Test-optional programs do not accept GRE scores at all"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text clarifies that even in test-optional programs, 87% of applicants who submit GRE scores are accepted, and doing so provides an advantage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9480,
+            "question_text": "What does the text suggest about the flexibility of the GRE design during the test?",
+            "options": [
+                "Students must answer questions in a rigid, linear order",
+                "Students can skip questions and return to them later, and review/change answers",
+                "Students have no control over the timing of the sections",
+                "Students are required to finish every section in exactly 30 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The GRE design allows students to tag questions to skip them, return later, and review or change answers within a section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9481,
+            "question_text": "If a student claims that business and law schools prefer other tests like the GMAT or LSAT, how does the text correct this?",
+            "options": [
+                "By stating that GMAT and LSAT are more difficult",
+                "By noting that over 1,300 business schools and 100+ law schools accept the GRE",
+                "By claiming that the GRE is the only test accepted by law schools",
+                "By stating that GMAT and LSAT scores are invalid for 5 years"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text directly refutes this myth by pointing out the large number of business and law programs that accept the GRE.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9482,
+            "question_text": "What is the primary reason given for why admissions committees do not rely on test scores alone?",
+            "options": [
+                "Test scores are often inaccurate",
+                "Admissions committees evaluate applicants holistically",
+                "Test scores are not accepted by law schools",
+                "GRE scores are only valid for one year"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text explains that scores are just one factor in a holistic evaluation that includes GPA, recommendations, and personal experience.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9483,
+            "question_text": "Which of the following best describes the validity of GRE scores?",
+            "options": [
+                "They are valid for 2 years",
+                "They are valid for 3 years",
+                "They are valid for 5 years",
+                "They never expire"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The test information specifies that GRE scores remain valid for 5 years.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9484,
+            "question_text": "Why might a student take the GRE early, according to the text?",
+            "options": [
+                "To get a discount on the next attempt",
+                "Because scores are valid for 5 years, allowing for flexible planning",
+                "Because the test is only offered once a year",
+                "To avoid having to write a personal statement"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 5-year validity period allows students to take the test early in their educational journey to keep their future options open.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9485,
+            "question_text": "What does the data suggest about the outcome for students who retake the GRE?",
+            "options": [
+                "Most students see their scores decline",
+                "70% of students improve their scores",
+                "There is no correlation between retaking and score improvement",
+                "Retaking the exam is prohibited"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ETS data cited in the text indicates that 70% of students who choose to retake the test see an improvement in their scores.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

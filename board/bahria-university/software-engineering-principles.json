@@ -1,0 +1,151 @@
+{
+    "category": "Bahria University",
+    "name": "Software Engineering Principles",
+    "board": "bahria-university",
+    "subject": "software-engineering-principles",
+    "url": "/bahria-university/software-engineering-principles/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12765,
+            "question_text": "Which design pattern is most appropriate when you need to decouple an abstraction from its implementation so that the two can vary independently?",
+            "options": [
+                "Singleton",
+                "Bridge",
+                "Observer",
+                "Factory Method"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Bridge pattern is specifically designed to separate an abstraction from its implementation, allowing them to be modified independently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12766,
+            "question_text": "In the context of the SOLID principles, what does the 'L' stand for?",
+            "options": [
+                "Low Coupling",
+                "Liskov Substitution Principle",
+                "Layered Architecture",
+                "Logical Consistency"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Liskov Substitution Principle states that objects of a superclass should be replaceable with objects of its subclasses without breaking the application.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12767,
+            "question_text": "Which metric measures the degree to which components within a module are related?",
+            "options": [
+                "Coupling",
+                "Cohesion",
+                "Complexity",
+                "Stability"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cohesion refers to the strength of the functional relationship between elements within a single module; high cohesion is a desired software quality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12768,
+            "question_text": "What is the main goal of the 'Adapter' design pattern?",
+            "options": [
+                "To simplify complex interfaces",
+                "To allow incompatible interfaces to work together",
+                "To restrict object creation to a single instance",
+                "To dynamically add behavior to objects"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Adapter pattern converts the interface of a class into another interface that clients expect, effectively bridging incompatible components.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12769,
+            "question_text": "In Agile development, what is the purpose of a Burndown Chart?",
+            "options": [
+                "To track bugs found during testing",
+                "To visualize the amount of work remaining versus time",
+                "To document architectural decisions",
+                "To measure developer satisfaction"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A burndown chart is a graphical representation of work left to do versus time, commonly used to track progress in Scrum sprints.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12770,
+            "question_text": "Which type of testing focuses on verifying the internal logic and structure of code without executing it?",
+            "options": [
+                "Dynamic Testing",
+                "Black-box Testing",
+                "Static Testing",
+                "Regression Testing"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Static testing involves reviewing, walking through, or analyzing code without actually executing the program.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12771,
+            "question_text": "What does 'Refactoring' primarily aim to achieve?",
+            "options": [
+                "Adding new features",
+                "Improving internal code structure without changing external behavior",
+                "Fixing security vulnerabilities",
+                "Optimizing hardware utilization"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Refactoring is the process of restructuring existing computer code—changing the internal structure—without changing its external behavior.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12772,
+            "question_text": "Which software architecture style is most suited for systems that require high scalability and independent deployment of services?",
+            "options": [
+                "Monolithic",
+                "Microservices",
+                "Layered Architecture",
+                "Pipe and Filter"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Microservices allow components to be developed, deployed, and scaled independently, which is ideal for large-scale distributed systems.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12773,
+            "question_text": "What is the core objective of the 'Dependency Inversion Principle' in SOLID design?",
+            "options": [
+                "Hardcoding modules together",
+                "Depend on abstractions, not concretions",
+                "Removing all classes",
+                "Encapsulating data"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The principle states that high-level modules should not depend on low-level modules; both should depend on abstractions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12774,
+            "question_text": "Which testing level is primarily concerned with verifying the interactions between integrated units?",
+            "options": [
+                "Unit testing",
+                "Integration testing",
+                "Acceptance testing",
+                "System testing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Integration testing focuses on the interfaces and communication between different modules or components.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Sociology",
+    "board": "aqa",
+    "subject": "sociology",
+    "url": "/aqa/sociology/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8874,
+            "question_text": "Which term describes the process of learning the norms and values of a society?",
+            "options": [
+                "Socialization",
+                "Globalization",
+                "Urbanization",
+                "Stratification"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Socialization is the lifelong process through which people learn the culture of their society.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8875,
+            "question_text": "Which term describes the process of internalising the norms and values of a society?",
+            "options": [
+                "Stratification",
+                "Socialisation",
+                "Globalisation",
+                "Urbanisation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Socialisation is the lifelong process through which individuals learn and adopt the culture, norms, and roles of their society.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8876,
+            "question_text": "Which term describes the process of learning societal norms and values?",
+            "options": [
+                "Socialization",
+                "Urbanization",
+                "Stratification",
+                "Globalisation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Socialization is the lifelong process through which individuals learn and internalize the norms and customs of their society.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8877,
+            "question_text": "What is a 'social norm'?",
+            "options": [
+                "A legal law set by the government",
+                "An unwritten rule about how to behave in society",
+                "A biological trait",
+                "A economic theory"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Social norms are the informal rules that govern behavior in groups and society.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

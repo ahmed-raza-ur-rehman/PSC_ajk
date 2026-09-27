@@ -1,0 +1,179 @@
+{
+    "category": "Air University",
+    "name": "Computer Science Fundamentals",
+    "board": "air-university",
+    "subject": "computer-science-fundamentals",
+    "url": "/air-university/computer-science-fundamentals/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12651,
+            "question_text": "Which of the following is considered a non-volatile memory type?",
+            "options": [
+                "RAM",
+                "Cache",
+                "ROM",
+                "Registers"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "ROM (Read-Only Memory) retains its data even when power is turned off, making it non-volatile.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12652,
+            "question_text": "In object-oriented programming, which concept allows a class to inherit properties from another class?",
+            "options": [
+                "Encapsulation",
+                "Polymorphism",
+                "Abstraction",
+                "Inheritance"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Inheritance is the mechanism where a new class derives properties and behaviors from an existing base class.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12653,
+            "question_text": "Which layer of the OSI model is responsible for IP addressing and routing?",
+            "options": [
+                "Data Link",
+                "Network",
+                "Transport",
+                "Session"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Network layer (Layer 3) handles logical addressing and routing packets between networks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12654,
+            "question_text": "Which data structure follows the Last-In-First-Out (LIFO) principle?",
+            "options": [
+                "Queue",
+                "Linked List",
+                "Stack",
+                "Binary Tree"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A stack is a LIFO structure where the last item added is the first one to be removed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12655,
+            "question_text": "What does SQL stand for?",
+            "options": [
+                "Standard Query Language",
+                "Structured Query Language",
+                "Simple Query Logic",
+                "System Question Language"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SQL is the standard language for managing and manipulating relational databases.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12656,
+            "question_text": "Which of the following is a high-level programming language?",
+            "options": [
+                "Assembly",
+                "Machine Code",
+                "Python",
+                "Binary"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Python is an interpreted, high-level language, unlike assembly or binary code.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12657,
+            "question_text": "What is the main function of an Operating System's kernel?",
+            "options": [
+                "User interface management",
+                "Memory and process management",
+                "Web browsing",
+                "File compression"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The kernel is the core of the OS, managing low-level hardware resources like CPU and memory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12658,
+            "question_text": "What is binary 1011 in decimal?",
+            "options": [
+                "9",
+                "10",
+                "11",
+                "13"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "1*2^3 + 0*2^2 + 1*2^1 + 1*2^0 = 8 + 0 + 2 + 1 = 11.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12659,
+            "question_text": "Which of these is a database management system (DBMS)?",
+            "options": [
+                "Apache",
+                "MySQL",
+                "Google Chrome",
+                "Eclipse"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "MySQL is a popular open-source relational database management system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12660,
+            "question_text": "What is the purpose of a compiler?",
+            "options": [
+                "To debug code",
+                "To convert high-level code to machine code",
+                "To execute code line-by-line",
+                "To store data permanently"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A compiler translates human-readable source code into machine-executable code.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12661,
+            "question_text": "Which protocol is primarily used for secure web browsing?",
+            "options": [
+                "HTTP",
+                "FTP",
+                "HTTPS",
+                "SMTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "HTTPS adds a layer of encryption (SSL/TLS) to standard HTTP communication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12662,
+            "question_text": "What does the CPU stand for?",
+            "options": [
+                "Central Processing Unit",
+                "Computer Peripheral Unit",
+                "Central Program Utility",
+                "Control Processing Unit"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The CPU is the primary component of a computer that performs most of the processing inside the computer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

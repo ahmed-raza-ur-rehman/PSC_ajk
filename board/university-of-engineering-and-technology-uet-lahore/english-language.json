@@ -1,0 +1,151 @@
+{
+    "category": "University of Engineering and Technology (UET) Lahore",
+    "name": "English Language",
+    "board": "university-of-engineering-and-technology-uet-lahore",
+    "subject": "english-language",
+    "url": "/university-of-engineering-and-technology-uet-lahore/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 10843,
+            "question_text": "Select the correct synonym for the word 'Enigmatic'.",
+            "options": [
+                "Clear",
+                "Mysterious",
+                "Logical",
+                "Simple"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Enigmatic means difficult to interpret or understand; mysterious is the closest synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10844,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "Each of the students have finished their work.",
+                "Each of the students has finished his work.",
+                "Each of the students have finished his work.",
+                "Each of the student has finished their work."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Each' is singular, so it requires the singular verb 'has' and singular pronoun 'his'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10845,
+            "question_text": "Identify the word that is most nearly opposite in meaning to 'Transient'.",
+            "options": [
+                "Temporary",
+                "Fleeting",
+                "Permanent",
+                "Brief"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Transient means lasting only for a short time; permanent is the direct opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10846,
+            "question_text": "Choose the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Accomodationn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Accommodation is the correct spelling, containing two 'c's and two 'm's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10847,
+            "question_text": "Complete the sentence: 'Neither the teacher nor the students ____ aware of the change.'",
+            "options": [
+                "was",
+                "were",
+                "is",
+                "has been"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the subject closest to it (students), which is plural.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10848,
+            "question_text": "What is the synonym for 'Eloquent'?",
+            "options": [
+                "Inarticulate",
+                "Fluent",
+                "Hesitant",
+                "Confused"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Eloquent describes someone who expresses themselves clearly and fluently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10849,
+            "question_text": "Select the correct sentence.",
+            "options": [
+                "He don't know the answer.",
+                "He doesn't know the answer.",
+                "He not know the answer.",
+                "He do not know the answer."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The third-person singular subject 'He' requires the singular auxiliary verb 'doesn't'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10850,
+            "question_text": "Choose the correct sentence to fill the blank: 'The committee ____ divided in their opinions.'",
+            "options": [
+                "is",
+                "are",
+                "was",
+                "been"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When collective nouns like 'committee' imply individuals acting separately, a plural verb is used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10851,
+            "question_text": "What is the best synonym for 'Pragmatic'?",
+            "options": [
+                "Theoretical",
+                "Practical",
+                "Idealistic",
+                "Fanatical"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pragmatic means dealing with things sensibly and realistically, which is synonymous with being practical.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10852,
+            "question_text": "Identify the word that means 'to surrender or give up'.",
+            "options": [
+                "Acquire",
+                "Cede",
+                "Defend",
+                "Assert"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To cede is to give up power or territory, often by treaty.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

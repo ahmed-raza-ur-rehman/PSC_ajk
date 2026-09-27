@@ -1,0 +1,207 @@
+{
+    "category": "Northern University, Nowshera",
+    "name": "Language Proficiency",
+    "board": "northern-university-nowshera",
+    "subject": "language-proficiency",
+    "url": "/northern-university-nowshera/language-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 14013,
+            "question_text": "Choose the sentence that demonstrates the correct use of a semicolon.",
+            "options": [
+                "I have a big test tomorrow; therefore, I cannot go out tonight.",
+                "I have a big test tomorrow, therefore; I cannot go out tonight.",
+                "I have a big test tomorrow; I cannot go out; tonight.",
+                "I have a big test; tomorrow; so I cannot go out."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A semicolon is correctly used to join two independent clauses connected by a conjunctive adverb like 'therefore'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14014,
+            "question_text": "Identify the word that acts as a synonym for 'meticulous'.",
+            "options": [
+                "Careless",
+                "Scrupulous",
+                "Hasty",
+                "Indifferent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Meticulous means showing great attention to detail; scrupulous shares this meaning of being very careful and thorough.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14015,
+            "question_text": "Choose the sentence that demonstrates the correct use of a colon.",
+            "options": [
+                "The store carries: apples, oranges, and pears.",
+                "I have one goal: to finish the marathon.",
+                "She decided to: run, walk, and bike.",
+                "The ingredients are: flour, sugar, and eggs."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A colon should follow a complete independent clause when introducing a list, an explanation, or a summary.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14016,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "Each of the students have their own laptop.",
+                "Each of the students has their own laptop.",
+                "Every students have a laptop.",
+                "Each students has a laptop."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The word 'each' is a singular pronoun and requires a singular verb ('has').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14017,
+            "question_text": "Which word is an antonym of 'superfluous'?",
+            "options": [
+                "Excessive",
+                "Essential",
+                "Unnecessary",
+                "Redundant"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Superfluous' means unnecessary or more than enough, making 'essential' its antonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14018,
+            "question_text": "Select the correct collective noun to complete the sentence: 'The __________ of musicians played a beautiful concerto.'",
+            "options": [
+                "Flock",
+                "Orchestra",
+                "Herd",
+                "Pack"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An 'orchestra' is the specific collective noun used for a large group of musicians playing instruments together.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14019,
+            "question_text": "Identify the sentence that uses a dangling modifier.",
+            "options": [
+                "Walking to the store, the rain began to fall.",
+                "Walking to the store, I felt the rain on my face.",
+                "The rain began to fall as I walked to the store.",
+                "I felt the rain as I walked to the store."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "In this sentence, the rain is not the one walking, creating an illogical connection between the modifier and the subject.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14020,
+            "question_text": "Which word is the correct synonym for 'ephemeral'?",
+            "options": [
+                "Eternal",
+                "Short-lived",
+                "Powerful",
+                "Mysterious"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral refers to something that lasts for a very short time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14021,
+            "question_text": "Choose the correct verb form: 'Neither the students nor the teacher __________ aware of the change in schedule.'",
+            "options": [
+                "were",
+                "was",
+                "be",
+                "have been"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the closer subject (the teacher), which is singular.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14022,
+            "question_text": "Choose the correctly punctuated sentence.",
+            "options": [
+                "The team won the game, however, they were exhausted.",
+                "The team won the game; however, they were exhausted.",
+                "The team won the game; however they were exhausted.",
+                "The team won the game, however they were exhausted."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A semicolon is needed to join two independent clauses with a conjunctive adverb, followed by a comma.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14023,
+            "question_text": "What is the meaning of the idiom 'to burn the midnight oil'?",
+            "options": [
+                "To waste resources",
+                "To work late into the night",
+                "To be angry",
+                "To exercise at night"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This idiom dates back to the time before electricity, when people studied or worked using oil lamps late at night.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14024,
+            "question_text": "Select the sentence with the correct usage of 'its' vs 'it's'.",
+            "options": [
+                "The dog wagged it's tail when it saw it's owner.",
+                "The dog wagged its tail when it saw its owner.",
+                "The dog wagged its tail when it saw it's owner.",
+                "The dog wagged it's tail when it saw its owner."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Its' is the possessive form, while 'it's' is a contraction for 'it is'. Possessive is required here.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14025,
+            "question_text": "Identify the word that acts as an antonym for 'benevolent'.",
+            "options": [
+                "Generous",
+                "Malevolent",
+                "Kind",
+                "Altruistic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning or kind, while malevolent means having or showing a wish to do evil to others.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14026,
+            "question_text": "Which word correctly fills the blank: 'The manager decided to __________ the policy to ensure better productivity.'",
+            "options": [
+                "Adopt",
+                "Adapt",
+                "Adept",
+                "Inapt"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Adapt' means to change something to suit different conditions, whereas 'adopt' means to take up or start to use.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

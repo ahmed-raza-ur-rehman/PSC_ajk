@@ -1,0 +1,1411 @@
+{
+    "category": "FPSC",
+    "name": "Part III - Professional IT (Computer Science & SE)",
+    "board": "fpsc",
+    "subject": "part-iii-professional-it-computer-science-se",
+    "url": "/fpsc/part-iii-professional-it-computer-science-se/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 100,
+    "questions": [
+        {
+            "id": 101,
+            "question_text": "In Tomasulo's algorithm, what eliminates WAW and WAR hazards?",
+            "options": [
+                "ROB",
+                "Reservation Stations",
+                "Branch Target Buffer",
+                "TLB"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Reservation Stations hold operands and allow register renaming.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 102,
+            "question_text": "Which cache mapping scheme strictly uses a replacement algorithm?",
+            "options": [
+                "Direct Mapped",
+                "Fully Associative",
+                "Write-Through",
+                "Write-Back"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Direct mapped has only one possible block location. Associative needs LRU.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 103,
+            "question_text": "In OS, what is the 'Working Set'?",
+            "options": [
+                "Total RAM",
+                "Set of pages actively referenced",
+                "Page table size",
+                "Swap space"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Estimates memory required by a process to prevent thrashing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 104,
+            "question_text": "Tag, index, offset for 32-bit addr, 64KB Direct Mapped, 16-byte blocks.",
+            "options": [
+                "T=16, I=12, O=4",
+                "T=14, I=14, O=4",
+                "T=12, I=16, O=4",
+                "T=20, I=8, O=4"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Blocks=4096. I=12. O=4. T = 32-12-4 = 16.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 105,
+            "question_text": "Deadlock tool for MULTIPLE instances of resources?",
+            "options": [
+                "Wait-For Graph",
+                "Resource Allocation Graph",
+                "Banker's Matrix",
+                "Ostrich"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Multiple-instance requires matrices (Banker's).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 106,
+            "question_text": "Function of a 'Microkernel'?",
+            "options": [
+                "All OS in kernel",
+                "Keep essential services in kernel, drivers in user space",
+                "Remove kernel",
+                "Virtualize"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Improves stability by running most services in user-space.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 107,
+            "question_text": "Pipeline delays: 5ns, 7ns, 4ns, 9ns, 6ns. Clock cycle time?",
+            "options": [
+                "9 ns",
+                "5 ns",
+                "31 ns",
+                "6.2 ns"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Dictated by the slowest stage (9ns).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 108,
+            "question_text": "In Linux, parent terminates before child. Child is?",
+            "options": [
+                "Zombie",
+                "Killed",
+                "Adopted by init",
+                "Panic"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Orphans adopted by PID 1 to prevent zombies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 109,
+            "question_text": "Amdahl's Law max speedup if 50% code is sequential?",
+            "options": [
+                "2x",
+                "4x",
+                "10x",
+                "Infinite"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "1 / 0.5 = 2x max speedup.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 110,
+            "question_text": "Priority Inversion is:",
+            "options": [
+                "High yields to low",
+                "Low priority holds lock needed by high",
+                "Same priority",
+                "Random"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Low-priority task blocks high-priority task holding a mutex.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 111,
+            "question_text": "Memory anomaly associated with FIFO?",
+            "options": [
+                "Thrashing",
+                "Belady's Anomaly",
+                "Fragmentation",
+                "Paging"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Adding more page frames can cause MORE page faults.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 112,
+            "question_text": "Scheduling algorithm with minimum average waiting time?",
+            "options": [
+                "FCFS",
+                "Round Robin",
+                "SJF",
+                "Priority"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Shortest Job First (SJF) is mathematically optimal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 113,
+            "question_text": "What does 'fork()' do in Unix?",
+            "options": [
+                "Deletes file",
+                "Creates thread",
+                "Creates child process",
+                "Terminates"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Creates independent child process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 114,
+            "question_text": "What causes a 'Control Hazard'?",
+            "options": [
+                "Memory conflict",
+                "Branch instructions",
+                "Lack of cache",
+                "Division by zero"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Branch instructions cause wrong address fetch.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 115,
+            "question_text": "Metric improved by 'Superscalar' architecture?",
+            "options": [
+                "Clock freq",
+                "ILP (Instruction Level Parallelism)",
+                "Cache",
+                "Seek time"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Issues multiple instructions per clock.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 116,
+            "question_text": "Role of 'Interrupt Controller'?",
+            "options": [
+                "Stop network",
+                "Prioritize hardware signals to CPU",
+                "Power",
+                "Format drives"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Handles IRQs from peripherals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 117,
+            "question_text": "Coffman condition requiring voluntary release?",
+            "options": [
+                "Mutual Exclusion",
+                "Hold and Wait",
+                "No Preemption",
+                "Circular Wait"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "No Preemption means OS cannot force release.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 118,
+            "question_text": "What is 'Thrashing'?",
+            "options": [
+                "High temp",
+                "Excessive page swapping",
+                "Deadlock",
+                "Network collision"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "OS spends more time swapping than executing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 119,
+            "question_text": "Scheduling algorithm that CANNOT cause starvation?",
+            "options": [
+                "SJF",
+                "Priority",
+                "Round Robin",
+                "SRTF"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Round Robin guarantees CPU time slice.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 120,
+            "question_text": "TLB stands for?",
+            "options": [
+                "Translation Lookaside Buffer",
+                "Table Look Buffer",
+                "Time Limit Band",
+                "Task Logic Block"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Caches virtual-to-physical translations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 121,
+            "question_text": "Difference between CISC and RISC?",
+            "options": [
+                "RISC uses cache",
+                "RISC allows memory ops",
+                "CISC allows ops on memory; RISC uses load/store",
+                "None"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "CISC operates directly on memory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 122,
+            "question_text": "Write-Back cache policy?",
+            "options": [
+                "Simultaneous write",
+                "Written to memory only on eviction",
+                "Bypass cache",
+                "Queued"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Modified block written to memory only when evicted.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 123,
+            "question_text": "DMA (Direct Memory Access) accomplishes:",
+            "options": [
+                "Faster CPU",
+                "I/O accesses memory without CPU",
+                "No fragmentation",
+                "Compression"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Offloads memory transfers from CPU.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 124,
+            "question_text": "Context Switch is:",
+            "options": [
+                "Switching monitors",
+                "Saving old process state, loading new",
+                "Changing kernel",
+                "User to kernel"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Storing CPU state for one process and restoring for another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 125,
+            "question_text": "Zombie Process is:",
+            "options": [
+                "Consumes RAM",
+                "Terminated but in process table",
+                "Virus",
+                "Infinite loop"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Finished execution but not reaped by parent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 126,
+            "question_text": "Race Condition:",
+            "options": [
+                "High clock speed",
+                "Processes execute out of order causing unpredictable results",
+                "No memory",
+                "Routing issue"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Timing/order affects output correctness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 127,
+            "question_text": "In OS, what is 'Spooling'?",
+            "options": [
+                "Simultaneous Peripheral Operations On-Line",
+                "System Protocol",
+                "Synchronous Process",
+                "Single Peripheral"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Buffers data for peripherals like printers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 128,
+            "question_text": "System call to create new process in Unix?",
+            "options": [
+                "exec()",
+                "spawn()",
+                "create()",
+                "fork()"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "fork() duplicates calling process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 129,
+            "question_text": "Difference between Mutex and Semaphore?",
+            "options": [
+                "Mutex is int, Sem is bool",
+                "Mutex allows multiple",
+                "Mutex has ownership, Semaphore does not",
+                "No difference"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mutex is a locking mechanism with ownership.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 130,
+            "question_text": "Working Set Model prevents:",
+            "options": [
+                "Fragmentation",
+                "Thrashing",
+                "Deadlocks",
+                "Access"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Keeps track of active pages to prevent thrashing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 131,
+            "question_text": "C++ exception if `dynamic_cast` fails on REFERENCE?",
+            "options": [
+                "bad_alloc",
+                "bad_cast",
+                "exception",
+                "Nullptr"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Throws `std::bad_cast`.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 132,
+            "question_text": "Dependency Inversion Principle states:",
+            "options": [
+                "High-level shouldn't depend on low-level",
+                "Single responsibility",
+                "Inheritance over composition",
+                "Segregate interfaces"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Details should depend on abstractions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 133,
+            "question_text": "Cyclomatic Complexity formula:",
+            "options": [
+                "E+N-2P",
+                "E-N+2P",
+                "N-E+P",
+                "E/N+2P"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "V(G) = E - N + 2P.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 134,
+            "question_text": "Pattern defining family of interchangeable algorithms?",
+            "options": [
+                "Factory",
+                "Decorator",
+                "Strategy",
+                "Singleton"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Strategy encapsulates interchangeable algorithms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 135,
+            "question_text": "`static_cast` vs `reinterpret_cast`?",
+            "options": [
+                "Runtime vs no check",
+                "Safe conversions vs low-level bitwise casting",
+                "Upcast only",
+                "Identical"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "reinterpret_cast does unsafe bitwise casting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 136,
+            "question_text": "'volatile' keyword in C++ signifies:",
+            "options": [
+                "Variable modified externally; don't optimize reads",
+                "Constant",
+                "Virtual table",
+                "Thread-safe"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Tells compiler not to optimize memory reads.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 137,
+            "question_text": "What is 'Stamp Coupling'?",
+            "options": [
+                "Global vars",
+                "Control flag",
+                "Share composite data structure, use only part",
+                "Modify code"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Passing a whole object when only a single field is needed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 138,
+            "question_text": "Scrum metric for work tackled during Sprint?",
+            "options": [
+                "Capacity",
+                "Velocity",
+                "Throughput",
+                "Burn-down"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Velocity adds story points of completed items.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 139,
+            "question_text": "Destructor execution order in derived classes?",
+            "options": [
+                "Base first",
+                "Derived first, then base",
+                "Simultaneous",
+                "Only derived"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Derived-to-base.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 140,
+            "question_text": "'Virtual Table' (vtable) is used for?",
+            "options": [
+                "Garbage collection",
+                "Resolving dynamic polymorphism",
+                "Multiple inheritance",
+                "Templates"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Lookup table for dynamic method resolution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 141,
+            "question_text": "Polymorphism is:",
+            "options": [
+                "Hiding data",
+                "Multiple parents",
+                "Objects responding to same method differently",
+                "Cross-platform"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Methods do different things based on object.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 142,
+            "question_text": "Pure Virtual Function in C++?",
+            "options": [
+                "No return type",
+                "Defined as '= 0', makes class abstract",
+                "Constant time",
+                "Base only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Forces derived classes to implement it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 143,
+            "question_text": "SOLID principle: class should have one reason to change?",
+            "options": [
+                "SRP",
+                "OCP",
+                "LSP",
+                "DIP"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Single Responsibility Principle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 144,
+            "question_text": "Memory allocation for 'new' keyword?",
+            "options": [
+                "Stack",
+                "Heap",
+                "BSS",
+                "Data"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dynamic allocation on Heap.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 145,
+            "question_text": "Tight Coupling is:",
+            "options": [
+                "Speed",
+                "Modules highly dependent on each other",
+                "Single responsibility",
+                "Network"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Makes code hard to maintain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 146,
+            "question_text": "Who manages Product Backlog in Scrum?",
+            "options": [
+                "Scrum Master",
+                "Dev Team",
+                "Product Owner",
+                "Stakeholders"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Product Owner prioritizes backlog.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 147,
+            "question_text": "White Box Testing is:",
+            "options": [
+                "UI testing",
+                "No internal knowledge",
+                "Testing based on internal logic",
+                "Security only"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Inspect and execute internal code paths.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 148,
+            "question_text": "UML diagram showing lifecycle of a single object?",
+            "options": [
+                "Activity",
+                "State Machine",
+                "Component",
+                "Deployment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Shows states an object goes through.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 149,
+            "question_text": "Model based on prototyping and rapid feedback?",
+            "options": [
+                "Waterfall",
+                "V-Model",
+                "RAD",
+                "Cleanroom"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Rapid Application Development.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 150,
+            "question_text": "Facade design pattern does what?",
+            "options": [
+                "Creates objects",
+                "Provides simplified interface to complex subsystem",
+                "Single instance",
+                "State change"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Acts as a wrapper hiding complexity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 151,
+            "question_text": "Liskov Substitution Principle states:",
+            "options": [
+                "One reason",
+                "Depend on abstractions",
+                "Derived substitutable for base",
+                "Segregate"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Objects of superclass replaceable with subclasses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 152,
+            "question_text": "Model explicitly incorporating risk analysis?",
+            "options": [
+                "Waterfall",
+                "V-Model",
+                "Spiral Model",
+                "RAD"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Spiral emphasizes risk assessment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 153,
+            "question_text": "UML 'Sequence Diagram' is:",
+            "options": [
+                "Structural",
+                "Behavioral / Interaction",
+                "Implementation",
+                "Deployment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Models flow of messages over time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 154,
+            "question_text": "Verification vs Validation?",
+            "options": [
+                "Same",
+                "Verify: built right; Validate: built right thing",
+                "Users vs Devs",
+                "Hardware vs Software"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Verify against specs; Validate against user needs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 155,
+            "question_text": "CMMI Level 3 (Defined) means:",
+            "options": [
+                "Unpredictable",
+                "Project level",
+                "Standardized across organization",
+                "Quantitative"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Processes well characterized and standardized.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 156,
+            "question_text": "Abstract Class vs Interface (General OOP)?",
+            "options": [
+                "Interface has vars",
+                "Abstract class can have implemented methods, pure interface cannot",
+                "Multiple inherit",
+                "Static only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Abstract classes can provide default implementations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 157,
+            "question_text": "What does 'protected' modifier do?",
+            "options": [
+                "Same class",
+                "Subclasses and friends",
+                "Global",
+                "Static"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Accessible within class and derived classes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 158,
+            "question_text": "'Diamond Problem' resolved by:",
+            "options": [
+                "Smart pointers",
+                "'virtual' inheritance",
+                "DFS",
+                "Pure functions"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ensures only one copy of base class instantiated.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 159,
+            "question_text": "Constructor invoked when object passed by value?",
+            "options": [
+                "Default",
+                "Parametrized",
+                "Copy",
+                "Move"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Creates a temporary copy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 160,
+            "question_text": "'Upcasting' is:",
+            "options": [
+                "Base to derived pointer",
+                "Derived to base pointer",
+                "Int to float",
+                "Override abstract"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Converting derived-class pointer to base-class pointer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 161,
+            "question_text": "Amortized time of inserting into dynamic array (doubles when full)?",
+            "options": [
+                "O(n)",
+                "O(n^2)",
+                "O(1)",
+                "O(log n)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Amortized time is O(1).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 162,
+            "question_text": "AVL Tree: insertion in Left child of Right subtree requires?",
+            "options": [
+                "Single Left",
+                "Single Right",
+                "Right-Left",
+                "Left-Right"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Right rotation on child, Left rotation on parent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 163,
+            "question_text": "Graph algorithm using 'Relaxation' detecting negative cycles?",
+            "options": [
+                "Dijkstra's",
+                "Kruskal's",
+                "Bellman-Ford",
+                "Tarjan's"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Bellman-Ford relaxes edges V-1 times.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 164,
+            "question_text": "BCNF states for functional dependency X -> Y:",
+            "options": [
+                "Y is prime",
+                "X is superkey",
+                "X is foreign key",
+                "No multi-valued"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Determinant (X) must be a super key.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 165,
+            "question_text": "Strict 2PL vs Rigorous 2PL?",
+            "options": [
+                "Strict releases shared anytime, Rigorous holds ALL locks until commit",
+                "Strict prevents deadlocks",
+                "Strict for distributed",
+                "No diff"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Rigorous 2PL holds read and write locks until termination.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 166,
+            "question_text": "BGP path attribute preventing routing loops?",
+            "options": [
+                "MED",
+                "Local Preference",
+                "AS-PATH",
+                "Next-Hop"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Lists autonomous systems to detect loops.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 167,
+            "question_text": "Subnet ID for IP 192.168.1.130/29?",
+            "options": [
+                "192.168.1.128",
+                "192.168.1.130",
+                "192.168.1.135",
+                "192.168.1.0"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Block size 8. Nearest multiple below 130 is 128.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 168,
+            "question_text": "TCP 'Fast Retransmit' mechanism?",
+            "options": [
+                "No handshake",
+                "Retransmit after 3 duplicate ACKs",
+                "Use UDP",
+                "Increase window"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Avoids waiting for timeout.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 169,
+            "question_text": "Kosaraju's algorithm uses what structure?",
+            "options": [
+                "Queue",
+                "Hash Map",
+                "Stack",
+                "BST"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Relies on a Stack (via DFS) for completion times.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 170,
+            "question_text": "IPv6 address field length?",
+            "options": [
+                "32",
+                "64",
+                "128",
+                "256"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "128 bits long.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 171,
+            "question_text": "Isolation level solving 'Phantom Read'?",
+            "options": [
+                "Read Uncommitted",
+                "Read Committed",
+                "Repeatable Read",
+                "Serializable"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Serializable prevents phantom reads.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 172,
+            "question_text": "Key structural difference of B+ Tree?",
+            "options": [
+                "Unbalanced",
+                "Data exclusively in linked leaf nodes",
+                "2 children",
+                "Data in root"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Optimizes sequential/range queries.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 173,
+            "question_text": "Time complexity to 'Heapify' array (bottom-up)?",
+            "options": [
+                "O(log n)",
+                "O(n)",
+                "O(n log n)",
+                "O(n^2)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tightly bounds to O(n) time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 174,
+            "question_text": "'Conflict Serializable' schedule means:",
+            "options": [
+                "Equivalent to serial",
+                "Precedence graph is acyclic",
+                "Both A and B",
+                "No deadlocks"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Graph is acyclic, equivalent to serial execution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 175,
+            "question_text": "Hidden Node Problem in CSMA/CA?",
+            "options": [
+                "Router dies",
+                "Nodes communicate with AP, but cannot hear each other",
+                "SSID hidden",
+                "Encryption fails"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mitigated by RTS/CTS handshakes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 176,
+            "question_text": "Ostrich Algorithm in OS?",
+            "options": [
+                "Bird scheduling",
+                "Ignoring deadlocks because they are rare",
+                "Fast disk",
+                "Cache eviction"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ignoring exceedingly rare problems.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 177,
+            "question_text": "`std::move` in C++ does what?",
+            "options": [
+                "Moves memory",
+                "Copies faster",
+                "Casts to rvalue reference",
+                "Deletes object"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Enables move semantics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 178,
+            "question_text": "Which sort is NOT in-place?",
+            "options": [
+                "Heap Sort",
+                "Quick Sort",
+                "Insertion Sort",
+                "Merge Sort"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Merge Sort requires O(n) auxiliary space.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 179,
+            "question_text": "Max edges in simple, undirected graph with N vertices?",
+            "options": [
+                "N^2",
+                "N(N-1)/2",
+                "N-1",
+                "N!"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "N * (N-1) / 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 180,
+            "question_text": "IPsec operates at which OSI layer?",
+            "options": [
+                "Application",
+                "Transport",
+                "Network",
+                "Data Link"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Secures IP at Network Layer (Layer 3).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 181,
+            "question_text": "Data structure for BFS?",
+            "options": [
+                "Stack",
+                "Array",
+                "Queue",
+                "Heap"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Explores level by level using a Queue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 182,
+            "question_text": "Worst-case time of unbalanced BST lookup?",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n log n)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Degrades to linked list, O(n).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 183,
+            "question_text": "Sort guaranteed O(n log n)?",
+            "options": [
+                "Quick Sort",
+                "Merge Sort",
+                "Bubble Sort",
+                "Insertion Sort"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Merge sort divides and merges.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 184,
+            "question_text": "Dijkstra's algorithm finds:",
+            "options": [
+                "MST",
+                "Max Flow",
+                "Single-source shortest path",
+                "SCCs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Shortest path from start node to all others.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 185,
+            "question_text": "Hash Table collision resolution (next empty slot):",
+            "options": [
+                "Chaining",
+                "Linear Probing",
+                "Double Hashing",
+                "Quadratic Probing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Linear probing steps sequentially.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 186,
+            "question_text": "3NF requires no:",
+            "options": [
+                "Primary keys",
+                "Partial dependencies",
+                "Transitive dependencies",
+                "Multi-valued attributes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Eliminates transitive dependencies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 187,
+            "question_text": "Durability in ACID guarantees:",
+            "options": [
+                "Speed",
+                "Committed transactions survive crashes",
+                "No deletion",
+                "No interference"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Saved permanently even on power loss.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 188,
+            "question_text": "Lock allowing reads but blocking writes?",
+            "options": [
+                "Exclusive",
+                "Update",
+                "Shared",
+                "Intent"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Shared Lock.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 189,
+            "question_text": "SQL command to modify table schema?",
+            "options": [
+                "UPDATE",
+                "INSERT",
+                "ALTER",
+                "MODIFY"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "ALTER TABLE.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 190,
+            "question_text": "What is a 'Foreign Key'?",
+            "options": [
+                "Encryption key",
+                "Links to primary key of another table",
+                "Allows nulls",
+                "Auto-generated"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Establishes relationship between tables.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 191,
+            "question_text": "OSI layer for IP?",
+            "options": [
+                "Data Link",
+                "Network",
+                "Transport",
+                "Session"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Network Layer (Layer 3).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 192,
+            "question_text": "Protocol resolving IP to MAC?",
+            "options": [
+                "DNS",
+                "DHCP",
+                "ARP",
+                "ICMP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Address Resolution Protocol.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 193,
+            "question_text": "Default subnet mask for Class B?",
+            "options": [
+                "255.0.0.0",
+                "255.255.0.0",
+                "255.255.255.0",
+                "255.255.255.255"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "255.255.0.0.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 194,
+            "question_text": "Connectionless transport protocol?",
+            "options": [
+                "TCP",
+                "HTTP",
+                "UDP",
+                "FTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "UDP is connectionless, no delivery guarantee.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 195,
+            "question_text": "Topology connecting every node to every other node?",
+            "options": [
+                "Star",
+                "Bus",
+                "Ring",
+                "Full Mesh"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Full Mesh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 196,
+            "question_text": "Presentation Layer handles:",
+            "options": [
+                "Routing",
+                "Encryption/Compression",
+                "MAC addresses",
+                "Port numbers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Data representation, encryption, compression.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 197,
+            "question_text": "TCP is known as:",
+            "options": [
+                "Connectionless",
+                "Connection-oriented",
+                "Unreliable",
+                "Broadcast"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Requires handshake.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 198,
+            "question_text": "Standard port for HTTPS?",
+            "options": [
+                "21",
+                "25",
+                "80",
+                "443"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Port 443.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 199,
+            "question_text": "Usable hosts in a /28 CIDR block?",
+            "options": [
+                "14",
+                "16",
+                "30",
+                "32"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "2^4 - 2 = 14.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 200,
+            "question_text": "Protocol using 'Distance Vector' routing?",
+            "options": [
+                "OSPF",
+                "RIP",
+                "BGP",
+                "IS-IS"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Routing Information Protocol (RIP).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Drama",
+    "board": "aqa",
+    "subject": "drama",
+    "url": "/aqa/drama/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8829,
+            "question_text": "What is 'fourth wall' in theatre?",
+            "options": [
+                "The back wall of the stage",
+                "The imaginary wall between the actors and the audience",
+                "A specific type of lighting equipment",
+                "A rule about the number of actors on stage"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The fourth wall is the convention that the actors are in a real world and cannot see the audience watching them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8830,
+            "question_text": "In theatre, what does the term 'fourth wall' refer to?",
+            "options": [
+                "The back wall of the stage",
+                "The imaginary boundary between the actors and the audience",
+                "The curtain that separates the stage from the wings",
+                "The soundproof wall in a recording studio"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The fourth wall is the invisible screen that separates the performance from the viewers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8831,
+            "question_text": "What is meant by the 'fourth wall' in a theatrical production?",
+            "options": [
+                "The back wall of the stage",
+                "An imaginary barrier between the actors and the audience",
+                "A wall made of plastic",
+                "The curtain that drops at the end of the show"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The fourth wall is the invisible boundary separating the world of the play from the spectators.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8832,
+            "question_text": "What does the term 'blocking' refer to in drama?",
+            "options": [
+                "The process of learning lines",
+                "The set design and painting",
+                "The planned movement and positioning of actors on stage",
+                "The lighting cues for the show"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Blocking is the precise movement and placement of performers to ensure the audience can see them and the narrative flows well.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

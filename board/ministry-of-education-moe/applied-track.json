@@ -1,0 +1,151 @@
+{
+    "category": "Ministry of Education (MoE)",
+    "name": "Applied Track",
+    "board": "ministry-of-education-moe",
+    "subject": "applied-track",
+    "url": "/ministry-of-education-moe/applied-track/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 9330,
+            "question_text": "Who is eligible to enroll in the Applied Track vocational educational program?",
+            "options": [
+                "Only international residents",
+                "Male students, including citizens and children of citizens",
+                "Students under the age of 7",
+                "Female students only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Applied Track is described as a vocational program specifically for male students who are citizens or children of citizens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9331,
+            "question_text": "What are the specific grade levels associated with the Applied Track?",
+            "options": [
+                "Grades 1 and 2",
+                "Grades 7 and 8",
+                "Grades 11 and 12",
+                "Grades 9 and 10"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The documentation identifies the Applied Track as a program for students completing their studies in the eleventh and twelfth grades.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9332,
+            "question_text": "Who is eligible to enroll in the Applied Track vocational program?",
+            "options": [
+                "Female students only",
+                "Male citizens and children of citizens",
+                "All residents regardless of nationality",
+                "Students in grade 1 only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The program is specifically tailored for male students who are citizens or children of citizens to complete their vocational studies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9333,
+            "question_text": "Which grade levels does the Applied Track program cover?",
+            "options": [
+                "Grades 7, 8, and 9",
+                "Grades 11 and 12",
+                "Grades 1 to 6",
+                "Kindergarten only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Applied Track is a vocational program focused on the eleventh and twelfth grades, specifically at 'Level Three and Level Four'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9334,
+            "question_text": "Are students who have exceeded the age limit for general education eligible for the Applied Track?",
+            "options": [
+                "Yes",
+                "No",
+                "Only with a medical certificate",
+                "Only if they have work experience"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The policy explicitly states that students who have exceeded the age limit for standard general education admission are accepted into the applied track.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9335,
+            "question_text": "Can a student transfer from the homeschooling track to the Applied Track?",
+            "options": [
+                "No, transfers are not permitted",
+                "Only after grade 12",
+                "Yes, the program allows this transfer",
+                "Only if they move to a different emirate"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The ministry's registration guidelines allow for students to transfer from their homeschooling track into the Applied Track.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9336,
+            "question_text": "What is the primary focus of the Applied Track?",
+            "options": [
+                "Purely theoretical science",
+                "Vocational educational training",
+                "Early childhood literacy",
+                "Extracurricular sports only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Applied Track is categorized as a vocational educational program aimed at skill development for the job market.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9337,
+            "question_text": "Which students are eligible for the Applied Track vocational program?",
+            "options": [
+                "Only students under the age of 15",
+                "Citizens and children of citizens",
+                "Only students who have completed university",
+                "Non-resident students only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Applied Track is a vocational program specifically available to UAE citizens and children of citizens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9338,
+            "question_text": "What grade levels does the Applied Track program support?",
+            "options": [
+                "Grades 1 to 6",
+                "Grades 7 to 9",
+                "Grades 11 and 12",
+                "Grades 10 to 12"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Applied Track is structured for students completing their studies in the eleventh and twelfth grades, referred to as Level Three and Level Four.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9339,
+            "question_text": "Can students who have exceeded the age limit for general education join the Applied Track?",
+            "options": [
+                "Yes, they are accepted into this track",
+                "No, they are never accepted",
+                "Only if they have a doctor's note",
+                "Only if they transfer from another country"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The program explicitly accepts students who have exceeded the age limit required for traditional general education admission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

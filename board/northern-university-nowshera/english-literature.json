@@ -1,0 +1,207 @@
+{
+    "category": "Northern University, Nowshera",
+    "name": "English Literature",
+    "board": "northern-university-nowshera",
+    "subject": "english-literature",
+    "url": "/northern-university-nowshera/english-literature/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 13973,
+            "question_text": "Which literary movement is primarily characterized by an emphasis on individual intuition, the beauty of nature, and the rejection of industrialization?",
+            "options": [
+                "Neoclassicism",
+                "Romanticism",
+                "Modernism",
+                "Post-structuralism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Romanticism emerged in the late 18th century as a reaction against the scientific rationalism of the Enlightenment, focusing heavily on nature and emotional expression.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13974,
+            "question_text": "In William Shakespeare's 'Hamlet', what is the primary purpose of the 'play-within-a-play'?",
+            "options": [
+                "To entertain the Danish court",
+                "To distract Polonius from his spying",
+                "To catch the conscience of the King",
+                "To showcase the actors' talents"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Hamlet organizes 'The Mousetrap' to observe Claudius's reaction to a scene mimicking the murder of King Hamlet, thereby proving his guilt.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13975,
+            "question_text": "In the context of Victorian literature, which term best describes the literary trend of presenting realistic social conditions?",
+            "options": [
+                "Romanticism",
+                "Modernism",
+                "Realism",
+                "Transcendentalism"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Victorian Realism focused on depicting everyday life and social issues accurately, reacting against the idealism of the preceding Romantic period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13976,
+            "question_text": "Which narrative technique involves the thoughts of a character being presented as a continuous flow, often without conventional punctuation?",
+            "options": [
+                "Epistolary",
+                "Stream of consciousness",
+                "Third-person omniscient",
+                "Frame narrative"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Stream of consciousness is a literary style that attempts to depict the multitudinous thoughts and feelings which pass through the mind.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13977,
+            "question_text": "Which character represents the voice of reason and skepticism in Christopher Marlowe's 'Doctor Faustus'?",
+            "options": [
+                "Mephistopheles",
+                "Wagner",
+                "The Good Angel",
+                "Valdes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Good Angel serves as a moral counterpoint to the Evil Angel, consistently urging Faustus to repent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13978,
+            "question_text": "In Jane Austen's 'Pride and Prejudice', what social obstacle primarily hinders the union of Elizabeth and Darcy?",
+            "options": [
+                "Religious differences",
+                "Class hierarchy and pride",
+                "A war in the countryside",
+                "Lack of parental consent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The novel explores how Darcy's class consciousness and Elizabeth's initial prejudice create barriers to their relationship.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13979,
+            "question_text": "What is the primary theme explored in W.B. Yeats's poem 'The Second Coming'?",
+            "options": [
+                "The stability of nature",
+                "Cyclical history and chaos",
+                "The joy of technological progress",
+                "Romantic love in old age"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Yeats uses the poem to depict a world spiraling into anarchy and the belief that history operates in recurring cycles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13980,
+            "question_text": "Which character in Mary Shelley's 'Frankenstein' serves as a foil to Victor Frankenstein's obsession with scientific discovery?",
+            "options": [
+                "Henry Clerval",
+                "Robert Walton",
+                "Alphonse Frankenstein",
+                "Elizabeth Lavenza"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Henry Clerval represents humanity, sensitivity, and moral balance, contrasting sharply with Victor's cold, detached, and obsessive pursuit of knowledge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13981,
+            "question_text": "What is the defining characteristic of a 'Byronic Hero'?",
+            "options": [
+                "Complete moral purity and religious devotion",
+                "Absolute obedience to social laws and norms",
+                "A charismatic yet flawed, moody, and isolated individual",
+                "A purely villainous character with no redeeming qualities"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Byronic Hero is defined by intense emotions, a rebellious nature, and a sense of alienation from society, popularized by Lord Byron.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13982,
+            "question_text": "In T.S. Eliot's 'The Waste Land', what does the symbol of the 'dry stone' represent?",
+            "options": [
+                "A thriving agricultural economy",
+                "Spiritual barrenness and the lack of life",
+                "The strength of the British Empire",
+                "A monument to the soldiers of WWI"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Eliot uses images of aridity and stone to critique the post-WWI era as lacking spiritual vitality and cultural depth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13983,
+            "question_text": "In the context of Modernist literature, what does the 'lost generation' refer to?",
+            "options": [
+                "A group of writers who lost their manuscripts in the war",
+                "The generation of young people disillusioned by the devastation of World War I",
+                "Authors who moved to the countryside to avoid urbanization",
+                "A movement focused on the recovery of ancient folklore"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The term 'Lost Generation' was popularized by Gertrude Stein to describe the post-WWI generation whose experiences led them to reject traditional values.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13984,
+            "question_text": "Which literary term describes a poem that laments the death of a person, typically someone of importance?",
+            "options": [
+                "Ode",
+                "Elegy",
+                "Sonnet",
+                "Villanelle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An elegy is a formal poem of mourning and reflection, specifically written to commemorate the deceased.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13985,
+            "question_text": "In George Orwell's '1984', what is the function of 'Newspeak'?",
+            "options": [
+                "To encourage creative expression",
+                "To make it impossible to express subversive thoughts by limiting vocabulary",
+                "To translate ancient languages into modern English",
+                "To promote international cooperation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In Orwell's dystopia, the state creates Newspeak to shrink the language, thereby restricting the range of thought and preventing rebellion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13986,
+            "question_text": "Which play by Oscar Wilde is known for its satirical exploration of Victorian societal conventions and superficial manners?",
+            "options": [
+                "The Importance of Being Earnest",
+                "A Doll's House",
+                "Waiting for Godot",
+                "The Birthday Party"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This play is a classic comedy of manners that uses wit and paradox to mock the rigid social norms of late Victorian England.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

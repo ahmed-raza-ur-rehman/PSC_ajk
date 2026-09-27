@@ -1,0 +1,151 @@
+{
+    "category": "Bahria University",
+    "name": "Research Methodology",
+    "board": "bahria-university",
+    "subject": "research-methodology",
+    "url": "/bahria-university/research-methodology/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12775,
+            "question_text": "What is the primary purpose of a 'Double-Blind' study design?",
+            "options": [
+                "To increase the sample size",
+                "To eliminate researcher and participant bias",
+                "To reduce costs",
+                "To improve computational speed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Double-blind studies ensure that neither the researchers nor the participants know which subjects are in the experimental or control groups, preventing bias.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12776,
+            "question_text": "Which section of a research paper typically discusses the limitations of the proposed method and suggests future work?",
+            "options": [
+                "Introduction",
+                "Methodology",
+                "Conclusion",
+                "Literature Review"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The conclusion section synthesizes the findings and typically includes a discussion on the study's limitations and directions for future research.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12777,
+            "question_text": "Which component of a research paper provides a summary of the problem, methodology, and key results?",
+            "options": [
+                "Introduction",
+                "Literature Review",
+                "Abstract",
+                "Conclusion"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The abstract is a concise summary of the entire research work, allowing readers to quickly understand the core contributions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12778,
+            "question_text": "What is the term for a variable that influences both the independent and dependent variables, potentially creating a false correlation?",
+            "options": [
+                "Independent variable",
+                "Dependent variable",
+                "Confounding variable",
+                "Control variable"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A confounding variable obscures the true relationship between variables because it influences both, leading to spurious correlations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12779,
+            "question_text": "Which research method is characterized by the manipulation of variables in a controlled environment to establish causality?",
+            "options": [
+                "Case study",
+                "Experimental research",
+                "Ethnography",
+                "Survey research"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Experimental research is the gold standard for establishing cause-and-effect relationships through the controlled manipulation of an independent variable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12780,
+            "question_text": "What is the purpose of performing a 'Systematic Literature Review'?",
+            "options": [
+                "To summarize all existing research on a topic using a transparent, replicable process",
+                "To prove the researcher's own hypothesis",
+                "To write a short summary for a conference",
+                "To generate new primary data"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A systematic review uses a rigorous, pre-defined methodology to identify, appraise, and synthesize all empirical evidence to answer a specific research question.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12781,
+            "question_text": "What does 'Validity' refer to in research?",
+            "options": [
+                "The consistency of the results",
+                "The ability of the test to measure what it is intended to measure",
+                "The number of citations the paper receives",
+                "The ease of replicating the experiment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Validity relates to the accuracy and truthfulness of a measurement—whether it correctly reflects the concept being studied.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12782,
+            "question_text": "What is the difference between reliability and validity in research?",
+            "options": [
+                "Reliability is accuracy, Validity is consistency",
+                "Reliability is consistency, Validity is accuracy",
+                "They mean the same thing",
+                "Validity is only for qualitative studies"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Reliability refers to the consistency of a measure, while validity refers to the accuracy or truthfulness of the measure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12783,
+            "question_text": "What does a p-value of less than 0.05 typically indicate in hypothesis testing?",
+            "options": [
+                "The null hypothesis is true",
+                "The result is statistically significant",
+                "The sample size was too small",
+                "The experiment was flawed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In standard research, p < 0.05 is the threshold used to reject the null hypothesis in favor of the alternative hypothesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12784,
+            "question_text": "Which section of a research paper details the specific tools, datasets, and algorithms used to generate the results?",
+            "options": [
+                "Abstract",
+                "Introduction",
+                "Methodology",
+                "Conclusion"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The methodology section provides a clear roadmap of how the research was conducted, ensuring reproducibility.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

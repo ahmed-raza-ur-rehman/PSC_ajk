@@ -1,0 +1,179 @@
+{
+    "category": "Green International University",
+    "name": "Biology",
+    "board": "green-international-university",
+    "subject": "biology",
+    "url": "/green-international-university/biology/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12948,
+            "question_text": "Which layer of the skin is primarily responsible for the production of melanin?",
+            "options": [
+                "Stratum corneum",
+                "Stratum basale",
+                "Dermis",
+                "Hypodermis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The stratum basale is the deepest layer of the epidermis, where melanocytes produce melanin to protect the skin from UV radiation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12949,
+            "question_text": "What is the primary function of sebaceous glands?",
+            "options": [
+                "To regulate body temperature",
+                "To produce sweat",
+                "To secrete sebum for skin lubrication",
+                "To provide structural support to the dermis"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sebaceous glands secrete sebum, an oily substance that lubricates the skin and hair, helping to maintain the skin's barrier function.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12950,
+            "question_text": "Which specialized cell type is primarily responsible for detecting light touch in the epidermis?",
+            "options": [
+                "Melanocytes",
+                "Merkel cells",
+                "Langerhans cells",
+                "Fibroblasts"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Merkel cells are specialized mechanoreceptors located in the stratum basale that respond to light touch and textures.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12951,
+            "question_text": "What is the primary function of the arrector pili muscle?",
+            "options": [
+                "Regulation of sebum production",
+                "Contraction to trap heat",
+                "Providing structural support to collagen",
+                "Transportation of nutrients to hair follicles"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The arrector pili muscle contracts to pull hair upright, creating a layer of trapped air for insulation in cold conditions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12952,
+            "question_text": "Which layer of the skin contains the highest concentration of keratinocytes in various stages of differentiation?",
+            "options": [
+                "Stratum corneum",
+                "Stratum granulosum",
+                "Stratum spinosum",
+                "Dermis"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The stratum spinosum, often called the prickle cell layer, contains numerous layers of keratinocytes that are actively producing keratin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12953,
+            "question_text": "What is the main role of the dermal papillae?",
+            "options": [
+                "To produce vitamin D",
+                "To provide a large surface area for nutrient exchange between the dermis and epidermis",
+                "To store subcutaneous fat",
+                "To synthesize elastin fibers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dermal papillae increase the surface area of the dermal-epidermal junction, facilitating the diffusion of nutrients and waste.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12954,
+            "question_text": "Which protein provides the skin with its tensile strength and resistance to tearing?",
+            "options": [
+                "Keratin",
+                "Elastin",
+                "Collagen",
+                "Hyaluronic acid"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Collagen is a fibrous protein that provides structural support and high tensile strength to the dermis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12955,
+            "question_text": "What is the primary function of the Langerhans cells in the skin?",
+            "options": [
+                "Pigment production",
+                "Immune surveillance",
+                "Temperature regulation",
+                "Oil secretion"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Langerhans cells are dendritic cells that act as the skin's first line of immune defense by identifying pathogens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12956,
+            "question_text": "During which phase of hair growth is the hair follicle deepest in the dermis?",
+            "options": [
+                "Anagen",
+                "Catagen",
+                "Telogen",
+                "Exogen"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Anagen is the active growth phase where the follicle is deeply rooted and the hair bulb is fully formed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12957,
+            "question_text": "Which gland type is found all over the body, except the palms and soles, and is associated with hair follicles?",
+            "options": [
+                "Eccrine gland",
+                "Apocrine gland",
+                "Sebaceous gland",
+                "Ceruminous gland"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sebaceous glands are holocrine glands connected to hair follicles that secrete sebum to lubricate skin and hair.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12958,
+            "question_text": "What describes the function of the desmosomes in the epidermis?",
+            "options": [
+                "They anchor cells to the basement membrane",
+                "They facilitate the shedding of dead skin cells",
+                "They hold neighboring keratinocytes together for structural integrity",
+                "They allow for the passage of electrical impulses"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Desmosomes are intercellular junctions that provide mechanical strength by 'spot-welding' cells together.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12959,
+            "question_text": "Which hormone is most responsible for stimulating oil production in sebaceous glands?",
+            "options": [
+                "Estrogen",
+                "Androgen",
+                "Thyroxine",
+                "Cortisol"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Androgens increase the size and secretory activity of sebaceous glands, often leading to acne breakouts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

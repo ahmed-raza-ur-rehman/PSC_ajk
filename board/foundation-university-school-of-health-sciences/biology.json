@@ -1,0 +1,193 @@
+{
+    "category": "Foundation University School of Health Sciences",
+    "name": "Biology",
+    "board": "foundation-university-school-of-health-sciences",
+    "subject": "biology",
+    "url": "/foundation-university-school-of-health-sciences/biology/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 13623,
+            "question_text": "Which organelle is known as the 'powerhouse' of the cell because it generates most of the cell's supply of adenosine triphosphate (ATP)?",
+            "options": [
+                "Nucleus",
+                "Mitochondrion",
+                "Ribosome",
+                "Golgi apparatus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mitochondria are the sites of aerobic respiration, where ATP is produced through the Krebs cycle and electron transport chain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13624,
+            "question_text": "In human nutrition, which enzyme is responsible for the initial breakdown of starch in the mouth?",
+            "options": [
+                "Pepsin",
+                "Lipase",
+                "Salivary amylase",
+                "Trypsin"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Salivary amylase begins the chemical digestion of carbohydrates by breaking down complex starch molecules into maltose.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13625,
+            "question_text": "Which nitrogenous base is found in RNA but not in DNA?",
+            "options": [
+                "Adenine",
+                "Guanine",
+                "Uracil",
+                "Thymine"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Uracil replaces Thymine in RNA molecules, pairing with Adenine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13626,
+            "question_text": "What is the primary function of the Golgi apparatus?",
+            "options": [
+                "Protein synthesis",
+                "Packaging and modifying proteins",
+                "DNA replication",
+                "ATP production"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Golgi apparatus modifies, sorts, and packages proteins for secretion or delivery to other organelles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13627,
+            "question_text": "In humans, which process occurs in the cytoplasm and results in the production of pyruvate?",
+            "options": [
+                "Krebs cycle",
+                "Glycolysis",
+                "Electron transport chain",
+                "Oxidative phosphorylation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Glycolysis is the anaerobic breakdown of glucose into pyruvate, occurring in the cytosol.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13628,
+            "question_text": "Which blood cell type is primarily responsible for the immune response through the production of antibodies?",
+            "options": [
+                "Erythrocytes",
+                "Platelets",
+                "B-lymphocytes",
+                "Basophils"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "B-lymphocytes are white blood cells that mature into plasma cells to produce specific antibodies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13629,
+            "question_text": "What is the result of mitosis in a human somatic cell?",
+            "options": [
+                "Four haploid cells",
+                "Two identical diploid cells",
+                "Two unique haploid cells",
+                "One polyploid cell"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mitosis is a process of cell division resulting in two daughter cells genetically identical to the parent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13630,
+            "question_text": "Which hormone regulates blood calcium levels by stimulating bone resorption?",
+            "options": [
+                "Insulin",
+                "Thyroxine",
+                "Parathyroid hormone",
+                "Cortisol"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Parathyroid hormone (PTH) increases blood calcium levels by stimulating the release of calcium from bones.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13631,
+            "question_text": "What structure in the human lung is the primary site of gas exchange?",
+            "options": [
+                "Bronchi",
+                "Trachea",
+                "Alveoli",
+                "Bronchioles"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Alveoli are tiny air sacs where oxygen enters the blood and carbon dioxide leaves it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13632,
+            "question_text": "Which process describes the movement of water molecules across a semi-permeable membrane from an area of high concentration to an area of low concentration?",
+            "options": [
+                "Active transport",
+                "Osmosis",
+                "Facilitated diffusion",
+                "Exocytosis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Osmosis is the specific term for the diffusion of water across a membrane.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13633,
+            "question_text": "Which vitamin is synthesized by human skin upon exposure to ultraviolet B (UVB) radiation?",
+            "options": [
+                "Vitamin A",
+                "Vitamin C",
+                "Vitamin D",
+                "Vitamin K"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Vitamin D is produced in the skin when 7-dehydrocholesterol reacts with UVB light.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13634,
+            "question_text": "In the human digestive tract, which organ is primarily responsible for the absorption of water and electrolytes?",
+            "options": [
+                "Stomach",
+                "Duodenum",
+                "Large intestine",
+                "Liver"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The large intestine (colon) reabsorbs water and electrolytes from indigestible food matter.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13635,
+            "question_text": "Which of the following describes the role of insulin in the human body?",
+            "options": [
+                "Increases blood glucose levels",
+                "Promotes glycogen breakdown",
+                "Facilitates glucose uptake into cells",
+                "Stimulates the adrenal glands"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Insulin allows cells to take up glucose from the bloodstream, thereby lowering blood sugar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "category": "University of Karachi",
+    "name": "Faculty of Engineering",
+    "board": "university-of-karachi",
+    "subject": "faculty-of-engineering",
+    "url": "/university-of-karachi/faculty-of-engineering/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 10622,
+            "question_text": "In electrical engineering, what does Ohm's Law state?",
+            "options": [
+                "Current equals Voltage times Resistance",
+                "Voltage equals Current divided by Resistance",
+                "Voltage equals Current times Resistance",
+                "Resistance equals Voltage times Current"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ohm's Law is expressed as V = I x R, where V is voltage, I is current, and R is resistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10623,
+            "question_text": "In control systems, what does a PID controller stand for?",
+            "options": [
+                "Proportional-Integral-Derivative",
+                "Power-Input-Design",
+                "Primary-Integrated-Device",
+                "Pulse-Interval-Dynamics"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A PID controller is a control loop mechanism employing feedback that is widely used in industrial control systems.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10624,
+            "question_text": "What is the unit of measure for electrical capacitance?",
+            "options": [
+                "Ohm",
+                "Henry",
+                "Farad",
+                "Coulomb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Farad is the SI derived unit of electrical capacitance, named after Michael Faraday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10625,
+            "question_text": "In computer engineering, what is a 'Cache Memory' primarily used for?",
+            "options": [
+                "Long-term storage of files",
+                "Increasing the speed of data access for the CPU",
+                "Power regulation of the motherboard",
+                "Graphic rendering output"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cache memory is a small, high-speed memory used to store frequently accessed data so the CPU can retrieve it faster than from main memory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10626,
+            "question_text": "Which fundamental principle governs the flow of fluid through a pipe in fluid mechanics?",
+            "options": [
+                "Bernoulli's Principle",
+                "Kirchhoff's Law",
+                "Newton's Third Law",
+                "Coulomb's Law"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Bernoulli's principle describes the relationship between the speed, pressure, and potential energy of a fluid in motion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10627,
+            "question_text": "In a MOSFET, what does the 'G' terminal stand for?",
+            "options": [
+                "Generator",
+                "Ground",
+                "Gate",
+                "Gain"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) consists of a Gate, Source, and Drain terminal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10628,
+            "question_text": "Which law describes the relationship between current, voltage, and resistance in an AC circuit including reactance?",
+            "options": [
+                "Kirchhoff's Law",
+                "Ohm's Law for AC",
+                "Faraday's Law",
+                "Lenz's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In AC circuits, Ohm's Law is expressed as V = I * Z, where Z represents the impedance (a combination of resistance and reactance).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

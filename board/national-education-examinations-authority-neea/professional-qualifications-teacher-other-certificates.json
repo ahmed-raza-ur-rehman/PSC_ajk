@@ -1,0 +1,123 @@
+{
+    "category": "National Education Examinations Authority (NEEA)",
+    "name": "Professional Qualifications (Teacher/Other Certificates)",
+    "board": "national-education-examinations-authority-neea",
+    "subject": "professional-qualifications-teacher-other-certificates",
+    "url": "/national-education-examinations-authority-neea/professional-qualifications-teacher-other-certificates/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 9101,
+            "question_text": "What is the main goal of the中小学教师资格考试 (NTCE)?",
+            "options": [
+                "To hire temporary substitute teachers",
+                "To assess if applicants have the ethics, basic quality, and teaching skills required for the profession",
+                "To rank current teachers by salary levels",
+                "To limit the number of students entering teaching universities"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The NTCE is designed to ensure that applicants possess the necessary professional standards, moral standing, and teaching capabilities before obtaining a teaching certificate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9102,
+            "question_text": "Where should a successful candidate go to complete the final teacher qualification certification after passing the NTCE?",
+            "options": [
+                "Directly to the school where they want to teach",
+                "To the China Teacher Qualification Website (jszg.edu.cn)",
+                "To the local police station",
+                "To the university's library"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The official certification process for teaching qualifications is handled through the China Teacher Qualification Website.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9103,
+            "question_text": "What is the primary objective of the NTCE (National Teacher Qualification Examination)?",
+            "options": [
+                "To increase tax revenue",
+                "To select individuals with teaching skills and professional potential",
+                "To replace university teacher training",
+                "To provide free employment services"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The NTCE is designed to ensure that applicants possess the necessary moral standards, fundamental pedagogical skills, and professional capacity to be effective teachers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9104,
+            "question_text": "After passing the NTCE, where should a successful candidate go to finalize their teaching qualification certification?",
+            "options": [
+                "The local police station",
+                "The official China Teacher Qualification Network (jszg.edu.cn)",
+                "The post office",
+                "The NEEA website"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The certification process, which grants the final teaching qualification, is managed through the Ministry of Education’s China Teacher Qualification website.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9105,
+            "question_text": "What specific area of growth are candidates evaluated on in the NTCE besides teaching knowledge?",
+            "options": [
+                "Physical athletics",
+                "Pedagogical ability and professional growth potential",
+                "Computer programming skills",
+                "Advanced research publishing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The exam tests not just subject knowledge, but the actual capability to teach and the candidate's potential to grow as a professional educator.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9106,
+            "question_text": "Which level of government typically sets the guidelines for teacher certification?",
+            "options": [
+                "The local village board",
+                "The Ministry of Education",
+                "A private company",
+                "The neighborhood association"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Teacher qualification standards and national certification exams are established at the national level by the Ministry of Education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9107,
+            "question_text": "What must an applicant do if they need to verify their NTCE certificate?",
+            "options": [
+                "Bring it to a local bank",
+                "Use the official verification portal on the NEEA website",
+                "Ask their current employer to check it",
+                "Reprint it at a shop"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The official NEEA platform provides a secure verification portal for employers and institutions to confirm the authenticity of NTCE certificates.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9108,
+            "question_text": "What is the primary goal of the中小学教师资格考试 (NTCE)?",
+            "options": [
+                "To rank candidates by age",
+                "To evaluate basic knowledge, ethics, and teaching ability",
+                "To provide funding for teacher training",
+                "To promote teachers to school principals"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The NTCE is designed to test the ethics, basic quality, and teaching capabilities of those wanting to enter the teaching profession.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "category": "Bahria University",
+    "name": "English Proficiency",
+    "board": "bahria-university",
+    "subject": "english-proficiency",
+    "url": "/bahria-university/english-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12817,
+            "question_text": "Choose the correct sentence.",
+            "options": [
+                "Neither the students nor the teacher are present.",
+                "Neither the students nor the teacher is present.",
+                "Neither the students nor the teacher were present.",
+                "Neither the students nor the teacher have been present."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the subject closest to it (the teacher).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12818,
+            "question_text": "What is a synonym for the word 'elucidate'?",
+            "options": [
+                "Confuse",
+                "Obscure",
+                "Clarify",
+                "Hasten"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To elucidate means to make something clear or explain it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12819,
+            "question_text": "Choose the correctly punctuated sentence.",
+            "options": [
+                "He went to the store; but he forgot his wallet.",
+                "He went to the store, but he forgot his wallet.",
+                "He went to the store but, he forgot his wallet.",
+                "He went to the store but he forgot; his wallet."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A comma is used before a coordinating conjunction (but) when joining two independent clauses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12820,
+            "question_text": "Which word is the antonym of 'benevolent'?",
+            "options": [
+                "Kind",
+                "Generous",
+                "Malevolent",
+                "Friendly"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Benevolent means well-meaning and kindly; malevolent means having or showing a wish to do evil to others.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12821,
+            "question_text": "Identify the part of speech of the word 'quickly' in the sentence: 'The cat ran quickly.'",
+            "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Verb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An adverb modifies a verb, describing how the action was performed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12822,
+            "question_text": "Fill in the blank: 'Neither the teacher nor the students ____ aware of the change.'",
+            "options": [
+                "was",
+                "were",
+                "is",
+                "has been"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "With 'neither/nor', the verb agrees with the subject closest to it ('students'), which is plural.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12823,
+            "question_text": "Which of these words is spelled correctly?",
+            "options": [
+                "Accomodate",
+                "Acomodate",
+                "Accommodate",
+                "Acommadate"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling is 'accommodate' (double c, double m).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12824,
+            "question_text": "Choose the sentence that is grammatically correct.",
+            "options": [
+                "She don't know the answer.",
+                "The data is accurate.",
+                "They was going to the park.",
+                "Me and him are friends."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subject-verb agreement is maintained correctly in this sentence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12825,
+            "question_text": "What is the meaning of the idiom 'to cut corners'?",
+            "options": [
+                "To make something shorter",
+                "To do something in the easiest or cheapest way, often sacrificing quality",
+                "To turn sharply",
+                "To be efficient and hardworking"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The idiom refers to skipping steps or cutting costs to save time, often to a detriment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12826,
+            "question_text": "Select the correct pronoun: 'Between you and ____, I think the project is failing.'",
+            "options": [
+                "I",
+                "me",
+                "my",
+                "mine"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The preposition 'between' requires an object pronoun, which is 'me'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12827,
+            "question_text": "Which prefix can be added to 'agree' to mean the opposite?",
+            "options": [
+                "un-",
+                "dis-",
+                "non-",
+                "in-"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The prefix 'dis-' turns 'agree' into 'disagree'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12828,
+            "question_text": "Identify the relative pronoun in: 'The book that I read was excellent.'",
+            "options": [
+                "book",
+                "read",
+                "that",
+                "was"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'That' is the relative pronoun connecting the subordinate clause to 'the book'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "category": "FSMB / NBME",
+    "name": "Clinical Knowledge",
+    "board": "fsmb-nbme",
+    "subject": "clinical-knowledge",
+    "url": "/fsmb-nbme/clinical-knowledge/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9587,
+            "question_text": "A 65-year-old male presents with sudden onset of chest pain radiating to the left arm. An ECG shows ST-segment elevation in leads V2-V4. What is the most likely diagnosis?",
+            "options": [
+                "Stable angina",
+                "Anterior wall myocardial infarction",
+                "Pericarditis",
+                "Pulmonary embolism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ST-segment elevation in the precordial leads (V2-V4) is classic for an acute myocardial infarction involving the anterior wall of the heart.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9598,
+            "question_text": "Which class of medications is the first-line treatment for chronic hypertension in patients with diabetes mellitus to provide renal protection?",
+            "options": [
+                "Beta-blockers",
+                "ACE inhibitors",
+                "Calcium channel blockers",
+                "Loop diuretics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ACE inhibitors are preferred in diabetic patients because they reduce intraglomerular pressure and provide long-term nephroprotection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9615,
+            "question_text": "A 55-year-old patient presents with polyuria, polydipsia, and weight loss. Laboratory results show a fasting blood glucose of 200 mg/dL. What is the most likely diagnosis?",
+            "options": [
+                "Type 1 Diabetes Mellitus",
+                "Type 2 Diabetes Mellitus",
+                "Diabetes Insipidus",
+                "Hyperthyroidism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Classic symptoms of hyperglycemia at 55 suggest Type 2 Diabetes, as Type 1 usually presents in younger individuals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9616,
+            "question_text": "Which antibiotic is known to cause grey baby syndrome in neonates?",
+            "options": [
+                "Amoxicillin",
+                "Chloramphenicol",
+                "Vancomycin",
+                "Ciprofloxacin"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Chloramphenicol toxicity in infants is caused by their inability to metabolize the drug efficiently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9617,
+            "question_text": "What is the classic triad of symptoms for meningitis?",
+            "options": [
+                "Fever, headache, and stiff neck",
+                "Chest pain, cough, and fever",
+                "Abdominal pain, nausea, and vomiting",
+                "Fatigue, joint pain, and rash"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The classic presentation of meningitis involves meningeal irritation leading to these three signs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9618,
+            "question_text": "Which imaging modality is the gold standard for diagnosing a pulmonary embolism?",
+            "options": [
+                "Chest X-ray",
+                "CT pulmonary angiography",
+                "Ultrasound",
+                "MRI"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "CT angiography provides clear visualization of the pulmonary vasculature to identify clots.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9619,
+            "question_text": "A patient with long-term alcohol use disorder presents with confusion, ophthalmoplegia, and ataxia. What is the diagnosis?",
+            "options": [
+                "Korsakoff syndrome",
+                "Wernicke encephalopathy",
+                "Delirium tremens",
+                "Hepatic encephalopathy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The triad of confusion, ataxia, and ophthalmoplegia is classic for Wernicke encephalopathy, caused by thiamine deficiency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9620,
+            "question_text": "Which antihypertensive medication is contraindicated in pregnancy?",
+            "options": [
+                "Labetalol",
+                "Methyldopa",
+                "Lisinopril",
+                "Nifedipine"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "ACE inhibitors like Lisinopril are teratogenic and contraindicated during pregnancy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9621,
+            "question_text": "What is the most common cause of community-acquired pneumonia?",
+            "options": [
+                "Streptococcus pneumoniae",
+                "Staphylococcus aureus",
+                "Mycoplasma pneumoniae",
+                "Haemophilus influenzae"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Streptococcus pneumoniae is consistently the most frequent bacterial pathogen in community-acquired pneumonia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9622,
+            "question_text": "Which finding is characteristic of iron deficiency anemia?",
+            "options": [
+                "Elevated ferritin levels",
+                "Microcytic, hypochromic RBCs",
+                "Increased serum iron",
+                "Macrocytic RBCs"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Iron deficiency leads to smaller, paler red blood cells due to impaired hemoglobin synthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9623,
+            "question_text": "Which drug is used to reverse the effects of warfarin?",
+            "options": [
+                "Protamine sulfate",
+                "Vitamin K",
+                "Heparin",
+                "Aspirin"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Warfarin acts as a Vitamin K antagonist, so administration of Vitamin K reverses its anticoagulation effect.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9624,
+            "question_text": "What is the primary treatment for an anaphylactic reaction?",
+            "options": [
+                "Antihistamines",
+                "Corticosteroids",
+                "Epinephrine",
+                "Oxygen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Epinephrine is the first-line treatment for anaphylaxis due to its alpha and beta-adrenergic effects.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

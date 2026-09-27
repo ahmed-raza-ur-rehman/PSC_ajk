@@ -1,0 +1,109 @@
+{
+    "category": "University of Karachi",
+    "name": "Faculty of Arts and Social Sciences",
+    "board": "university-of-karachi",
+    "subject": "faculty-of-arts-and-social-sciences",
+    "url": "/university-of-karachi/faculty-of-arts-and-social-sciences/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 10580,
+            "question_text": "Which sociological concept describes the process by which individuals internalize the values and norms of their society?",
+            "options": [
+                "Assimilation",
+                "Socialization",
+                "Stratification",
+                "Globalization"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Socialization is the lifelong process through which people learn and internalize the culture, norms, and values of their society.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10581,
+            "question_text": "Which psychological perspective focuses primarily on the role of the unconscious mind and early childhood experiences?",
+            "options": [
+                "Behaviorism",
+                "Cognitivism",
+                "Psychoanalysis",
+                "Humanism"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Psychoanalysis, founded by Sigmund Freud, emphasizes the influence of unconscious motives and past experiences on current behavior.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10582,
+            "question_text": "What term is used to describe the study of the structure and function of human societies?",
+            "options": [
+                "Psychology",
+                "Sociology",
+                "Anthropology",
+                "Political Science"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sociology is the systematic study of human social behavior, groups, and societies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10583,
+            "question_text": "Which macroeconomic concept refers to the total market value of all finished goods and services produced within a country's borders in a specific time period?",
+            "options": [
+                "Gross National Product",
+                "Gross Domestic Product",
+                "Consumer Price Index",
+                "Balance of Payments"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "GDP measures the economic output generated within a nation's geographical boundaries, regardless of the nationality of the producers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10584,
+            "question_text": "In political science, what is the term for a political system where power is held by a small group of people who are distinguished by nobility, wealth, or education?",
+            "options": [
+                "Democracy",
+                "Oligarchy",
+                "Theocracy",
+                "Anarchy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An oligarchy is a form of power structure in which power rests with a small number of people, often distinguished by specific criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10585,
+            "question_text": "Which linguistic term refers to the study of the rules that govern the structure of sentences in a language?",
+            "options": [
+                "Semantics",
+                "Syntax",
+                "Morphology",
+                "Phonetics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Syntax is the branch of linguistics that deals with the arrangement of words and phrases to create well-formed sentences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10586,
+            "question_text": "Who is traditionally considered the 'Father of History'?",
+            "options": [
+                "Thucydides",
+                "Herodotus",
+                "Plato",
+                "Aristotle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Herodotus is known as the Father of History for his work 'The Histories', which was the first to treat historical subjects as a method of investigation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "category": "FIA",
+    "name": "Islamic Studies — Articles of Faith (Iman)",
+    "board": "fia",
+    "subject": "islamic-studies-articles-of-faith-iman",
+    "url": "/fia/islamic-studies-articles-of-faith-iman/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 1628,
+            "question_text": "In which battle did the incident involving the Prophet's reliance on the wisdom of his companions, particularly regarding military strategy, become evident?",
+            "options": [
+                "The Battle of Khandaq",
+                "The Battle of Hunayn",
+                "The Battle of Badr",
+                "The Battle of Uhud"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Battle of Khandaq saw the strategic defense utilizing a trench (Khandaq), demonstrating the need for collective planning against overwhelming forces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1629,
+            "question_text": "Which key event or decision, preceding the Lahore Resolution of 1940, significantly solidified the demand for a separate Muslim homeland, emphasizing the need for defined geographical boundaries?",
+            "options": [
+                "The Lucknow Pact of 1916",
+                "The Delhi Resolution of 1927",
+                "The Jinnah-Council Conference of 1930",
+                "The Khilafat Movement peak (1919)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Delhi Resolution (1927) marked an early and decisive articulation of the separate political aspirations of Muslims in the northwestern parts of British India, foreshadowing the 1940 resolution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1630,
+            "question_text": "During the period leading up to the Lahore Resolution (1940), which political strategy emphasized securing representation for Muslims within the existing structure of British Indian governance?",
+            "options": [
+                "Joining the Congress party to negotiate rights through internal political pressure.",
+                "Formation of separate electorates and demanding constitutional safeguards.",
+                "Focusing solely on armed revolution to overthrow the British regime.",
+                "Boycotting all political activities until a fully independent state was guaranteed."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The initial demand for safeguards through separate electorates was a key political step that contributed to the later demand for separate statehood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1929,
+            "question_text": "Which major battle following the establishment of the Muslim community in Madinah is famously known as the 'Ditch' battle, where trench warfare was employed to defend the city?",
+            "options": [
+                "Hunayn",
+                "Khandaq",
+                "Uhud",
+                "Badr"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Battle of Khandaq (Trench) is significant because the Muslims dug a defensive trench, successfully repelling a coalition army from the outside.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1930,
+            "question_text": "The demand for separate Muslim state, formalized in the Lahore Resolution (1940), fundamentally shifted the focus of the movement from cultural protection to:",
+            "options": [
+                "Establishing a geographically defined homeland based on religious identity",
+                "Achieving representation parity with other major communities in government",
+                "Gaining constitutional safeguards for Islamic law across British India",
+                "Securing political autonomy within a federal structure"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Lahore Resolution explicitly called for separate Muslim states, marking the shift toward a standalone nation-state concept.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1931,
+            "question_text": "The Lahore Resolution of 1940 marked a critical turning point in the Pakistan Movement. Its core demand for 'separate Muslim states' fundamentally shifted the political objective from which earlier focus?",
+            "options": [
+                "Achieving guaranteed autonomy for Muslim cultural and religious institutions.",
+                "Securing reserved quotas and greater representation within a unitary Indian federal structure.",
+                "Reinstating the authority of the Caliphate and strengthening Ottoman ties.",
+                "Securing recognition of the Ahmadiyya community's rights across India."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Before 1940, the focus was primarily on constitutional reforms (like the Lucknow Pact), which aimed for greater power within the existing federal structure, rather than complete separation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2436,
+            "question_text": "Which phase of the Pakistan Movement was primarily marked by the failure of the Lucknow Pact to reconcile communal differences, leading to heightened political polarization among Muslims?",
+            "options": [
+                "Post-Khilafat/Lucknow Pact disillusionment (1920s-1930s)",
+                "Final struggle for independence (1937-1947)",
+                "Early phase (after 1857)",
+                "Period of moderate constitutional demands (1920s)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Lucknow Pact temporarily brought unity, but its subsequent fallout and failures led to greater disillusionment and polarization among the Muslim League followers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2486,
+            "question_text": "What was the immediate catalyst for the formation of the All-India Muslim League into a more unified, politically assertive entity during the early 20th century?",
+            "options": [
+                "The failure of the Lucknow Pact to secure full rights for Muslims.",
+                "The growing dissatisfaction with the lack of representation in legislative councils.",
+                "The partition plan proposed by the educated Muslim elite.",
+                "The direct reaction to the communal violence following the Bengal famine."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The failure to fully secure rights, especially after earlier agreements like the Lucknow Pact, led to increased demands for separate political identity and action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3918,
+            "question_text": "The resolution that formally articulated the demand for separate constitutional states for Muslim majority areas in British India, fundamentally establishing the political basis for Pakistan, was:",
+            "options": [
+                "Delhi Resolution (1927)",
+                "Objectives Resolution (1949)",
+                "Allahabad Address (1930)",
+                "Lahore Resolution (1940)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Lahore Resolution of 1940 explicitly demanded the constitutional separation of Muslim-majority areas into independent states, while the Objectives Resolution defined principles and the Objectives Resolution was adopted after Pakistan's creation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4781,
+            "question_text": "Which of the following decisions, made during the early stages of the Pakistan Movement, represented a shift from purely constitutional demands to the concept of separate self-determination for Muslims?",
+            "options": [
+                "The demands for separate electorates, initially put forth by the Muslim League.",
+                "The Lahore Resolution of 1940, demanding separate states for Muslims.",
+                "The commitment to the framework of the Government of India Act of 1935.",
+                "The resolution passed in the All-India Muslim League session in Dacca (1927)."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Lahore Resolution (1940) was the first clear political statement articulating the demand for separate states (Pakistan), marking the movement's major ideological turning point.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6130,
+            "question_text": "Which significant battle, known for its tactical siege and use of defensive engineering, resulted in the Muslims securing a decisive victory against the formidable forces of the Quraysh?",
+            "options": [
+                "Battle of Uhud",
+                "Battle of Hunayn",
+                "Battle of Badr",
+                "Battle of the Trench (Khandaq)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Battle of the Trench (Khandaq) utilized a defensive trench and siege tactics, proving highly effective against the larger invading armies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6131,
+            "question_text": "During the early phases of the Pakistan Movement, which major event galvanized Muslim political thought and provided a platform for discussing the need for separate political existence?",
+            "options": [
+                "The Delhi Durbar of 1921",
+                "The Khilafat Movement (1919)",
+                "The Calcutta Session of the All-India Muslim League (1916)",
+                "The Lucknow Pact (1916)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Khilafat Movement, though initially focused on the Ottoman Caliphate, significantly mobilized Muslim sentiment, leading to greater political engagement among Muslims in British India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

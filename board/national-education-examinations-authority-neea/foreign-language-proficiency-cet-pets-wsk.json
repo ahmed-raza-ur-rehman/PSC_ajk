@@ -1,0 +1,123 @@
+{
+    "category": "National Education Examinations Authority (NEEA)",
+    "name": "Foreign Language Proficiency (CET/PETS/WSK)",
+    "board": "national-education-examinations-authority-neea",
+    "subject": "foreign-language-proficiency-cet-pets-wsk",
+    "url": "/national-education-examinations-authority-neea/foreign-language-proficiency-cet-pets-wsk/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 9076,
+            "question_text": "When are the two main annual sessions for the CET written exams held?",
+            "options": [
+                "March and September",
+                "June and December",
+                "January and July",
+                "May and November"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The National College English Test (CET) written exams are typically held twice a year, specifically in June and December.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9077,
+            "question_text": "What is the primary purpose of the CET oral examination (CET-SET)?",
+            "options": [
+                "To test the student's ability to translate written literature",
+                "To assess the student's speaking and communication skills in English",
+                "To evaluate the student's knowledge of British history",
+                "To check if the student can memorize large amounts of English vocabulary"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The CET-SET is specifically designed to evaluate a candidate's practical oral proficiency and communication capability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9078,
+            "question_text": "When are the two annual written exam sessions for the CET held?",
+            "options": [
+                "March and September",
+                "June and December",
+                "January and July",
+                "May and November"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The written components of the College English Test (CET) are standardly scheduled twice a year, specifically in June and December.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9079,
+            "question_text": "What is the primary objective of the CET-SET (CET Oral Examination)?",
+            "options": [
+                "To test reading speed",
+                "To evaluate the candidate's spoken English communication ability",
+                "To replace the written exam entirely",
+                "To focus solely on British English grammar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The CET-SET (Spoken English Test) is specifically designed to assess and certify a candidate's proficiency in oral English communication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9080,
+            "question_text": "How many times per year is the CET oral exam (CET-SET) conducted?",
+            "options": [
+                "Once",
+                "Twice",
+                "Four times",
+                "Monthly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The CET oral test is conducted twice a year, typically scheduled before the written exams in May and November.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9081,
+            "question_text": "Which institution hosts the College English Test (CET)?",
+            "options": [
+                "Local high schools",
+                "The British Council",
+                "The Ministry of Education",
+                "Private language tutoring centers"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The College English Test is hosted by the Ministry of Education and implemented by the National Education Examinations Authority.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9082,
+            "question_text": "What should a candidate do if they need to check their CET score?",
+            "options": [
+                "Visit the local university administration office",
+                "Email a professor",
+                "Use the official NEEA score inquiry portal",
+                "Wait for a postal letter"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The official NEEA (National Education Examinations Authority) website provides the authorized portal for students to check their exam results.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9087,
+            "question_text": "How often is the CET oral exam (CET-SET) conducted per year?",
+            "options": [
+                "Once a year",
+                "Twice a year",
+                "Three times a year",
+                "Four times a year"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Like the written component, the CET-SET (oral exam) is conducted twice a year, usually in May and November.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

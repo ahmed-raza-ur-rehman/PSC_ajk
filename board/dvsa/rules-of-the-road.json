@@ -1,0 +1,95 @@
+{
+    "category": "DVSA",
+    "name": "Rules of the Road",
+    "board": "dvsa",
+    "subject": "rules-of-the-road",
+    "url": "/dvsa/rules-of-the-road/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 6,
+    "questions": [
+        {
+            "id": 6883,
+            "question_text": "At a roundabout, who should you give priority to?",
+            "options": [
+                "Traffic coming from the right",
+                "Traffic coming from the left",
+                "Traffic going straight over",
+                "All vehicles larger than yours"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "You must yield to traffic approaching from the right at a roundabout.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6884,
+            "question_text": "At a roundabout, which traffic should you normally give priority to?",
+            "options": [
+                "Traffic coming from the right",
+                "Traffic coming from the left",
+                "Traffic that is already on the roundabout",
+                "Traffic that has its indicators on"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "You must give way to traffic coming from your right unless signs or road markings state otherwise.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8443,
+            "question_text": "At a mini-roundabout, who has priority?",
+            "options": [
+                "Traffic coming from the right",
+                "Traffic coming from the left",
+                "The largest vehicle",
+                "Traffic going straight ahead"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "You should always give way to traffic approaching from the right at roundabouts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8444,
+            "question_text": "Who has priority at a mini-roundabout?",
+            "options": [
+                "Traffic coming from the right",
+                "Traffic coming from the left",
+                "Traffic going straight ahead",
+                "The largest vehicle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "At a mini-roundabout, you must give priority to traffic approaching from your right, just like a standard roundabout.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8445,
+            "question_text": "Who has the right of way at a mini-roundabout?",
+            "options": [
+                "Drivers coming from the right",
+                "The driver who reaches it first",
+                "Traffic going straight over",
+                "Drivers who are turning right"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Always give way to traffic coming from your right at roundabouts, unless signs or markings state otherwise.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8446,
+            "question_text": "When approaching a zebra crossing, what must you do?",
+            "options": [
+                "Speed up to clear the crossing",
+                "Be prepared to stop if pedestrians are waiting",
+                "Sound your horn to warn pedestrians",
+                "Only stop if someone is actually on the crossing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "You must be ready to stop to allow pedestrians to cross at a zebra crossing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

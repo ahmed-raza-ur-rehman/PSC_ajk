@@ -1,0 +1,151 @@
+{
+    "category": "Riphah International University",
+    "name": "Food Preparation Techniques",
+    "board": "riphah-international-university",
+    "subject": "food-preparation-techniques",
+    "url": "/riphah-international-university/food-preparation-techniques/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12119,
+            "question_text": "Which cooking method involves submerging food in fat at a high temperature to create a crispy exterior while maintaining moisture inside?",
+            "options": [
+                "Poaching",
+                "Deep-frying",
+                "Braising",
+                "Sautéing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Deep-frying is a dry-heat cooking method that uses fat to conduct heat, resulting in rapid moisture evaporation on the surface for a crispy texture.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12120,
+            "question_text": "What is the primary purpose of 'blanching' vegetables?",
+            "options": [
+                "To fully cook the vegetable through",
+                "To remove bitterness from all raw vegetables",
+                "To set the color and stop enzyme action",
+                "To caramelize the natural sugars"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Blanching involves briefly boiling food then plunging it into ice water, which sets the chlorophyll in green vegetables and halts the ripening process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12121,
+            "question_text": "Which technique involves cooking food slowly in a liquid at a temperature just below the boiling point?",
+            "options": [
+                "Poaching",
+                "Steaming",
+                "Braising",
+                "Sautéing"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Poaching is a gentle moist-heat cooking method where food is submerged in liquid at temperatures typically between 160°F and 180°F.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12122,
+            "question_text": "What is the primary technical difference between 'sweating' and 'sautéing' onions?",
+            "options": [
+                "Sweating uses higher heat to brown the exterior.",
+                "Sweating cooks vegetables in fat over low heat without browning.",
+                "Sautéing requires a closed lid to retain moisture.",
+                "Sautéing uses only water-based liquids."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sweating is meant to soften vegetables and release their aromatic flavors without triggering the Maillard reaction (browning).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12123,
+            "question_text": "When making a classic Hollandaise sauce, what is the crucial factor to prevent curdling the eggs?",
+            "options": [
+                "Adding the butter at boiling temperature.",
+                "Whisking the eggs continuously over indirect low heat.",
+                "Using cold butter exclusively.",
+                "Boiling the sauce for 5 minutes after emulsification."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hollandaise is an emulsion of egg yolks and butter; if the heat is too high or direct, the eggs will scramble, breaking the emulsion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12124,
+            "question_text": "Which knife cut involves cutting vegetables into small, uniform cubes measuring approximately 1/8 x 1/8 x 1/8 inch?",
+            "options": [
+                "Julienne",
+                "Brunoise",
+                "Macedoine",
+                "Chiffonade"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Brunoise is the technical term for the smallest uniform cube cut, typically derived from a julienne cut.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12125,
+            "question_text": "What is the primary function of 'resting' a piece of meat after cooking?",
+            "options": [
+                "To allow the surface proteins to oxidize",
+                "To prevent the exterior from becoming soggy",
+                "To allow juices to redistribute throughout the muscle fibers",
+                "To lower the temperature for safer carving"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Resting allows the muscle fibers to relax and reabsorb juices that were pushed to the center during high-heat cooking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12126,
+            "question_text": "Which cooking technique involves applying a small amount of liquid, covering the pot, and cooking at a low temperature to tenderize tough connective tissues?",
+            "options": [
+                "Poaching",
+                "Braising",
+                "Steaming",
+                "Grilling"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Braising is a combination cooking method that uses both dry heat (searing) and moist heat (liquid) to break down tough fibers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12127,
+            "question_text": "What is the purpose of 'deglazing' a pan?",
+            "options": [
+                "To cool the pan down before cleaning",
+                "To create a base for a sauce by loosening caramelized food particles",
+                "To increase the smoke point of the fat",
+                "To remove excess bitterness from the meat"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Deglazing uses liquid to lift 'fond' (browned bits) off the bottom of the pan to incorporate flavor into a sauce.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12128,
+            "question_text": "When making an emulsion, what is the purpose of adding the oil slowly in a steady stream?",
+            "options": [
+                "To ensure the eggs do not scramble",
+                "To allow the droplets of oil to disperse and stabilize within the liquid phase",
+                "To reach the desired volume more quickly",
+                "To prevent the mixture from reaching the danger zone"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Slow addition prevents the emulsion from breaking by ensuring consistent dispersion of the fat into the water-based phase.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

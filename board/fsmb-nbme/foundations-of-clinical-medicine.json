@@ -1,0 +1,179 @@
+{
+    "category": "FSMB / NBME",
+    "name": "Foundations of Clinical Medicine",
+    "board": "fsmb-nbme",
+    "subject": "foundations-of-clinical-medicine",
+    "url": "/fsmb-nbme/foundations-of-clinical-medicine/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9440,
+            "question_text": "What is the primary site of hematopoiesis in an adult?",
+            "options": [
+                "Liver",
+                "Spleen",
+                "Bone marrow",
+                "Lymph nodes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In adults, the production of blood cells occurs primarily within the red bone marrow.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9507,
+            "question_text": "Which hormone is responsible for increasing blood calcium levels?",
+            "options": [
+                "Calcitonin",
+                "Thyroxine",
+                "Parathyroid hormone",
+                "Insulin"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Parathyroid hormone (PTH) increases blood calcium by acting on bones, kidneys, and intestines.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9572,
+            "question_text": "What is the function of the myelin sheath in neurons?",
+            "options": [
+                "Storing neurotransmitters",
+                "Speeding up nerve impulse transmission",
+                "Preventing neuron cell death",
+                "Repairing damaged axons"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Myelin acts as an electrical insulator, allowing for saltatory conduction of action potentials.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9606,
+            "question_text": "Which of the following cellular processes is responsible for the production of adenosine triphosphate (ATP) in the presence of oxygen?",
+            "options": [
+                "Glycolysis",
+                "Oxidative phosphorylation",
+                "Fermentation",
+                "The urea cycle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Oxidative phosphorylation is the metabolic pathway in which cells use enzymes to oxidize nutrients, thereby releasing energy which is used to produce ATP.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9607,
+            "question_text": "A patient presents with a deficiency in Vitamin C. Which of the following conditions is most likely to develop?",
+            "options": [
+                "Rickets",
+                "Scurvy",
+                "Pellagra",
+                "Beriberi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Vitamin C deficiency leads to a defect in collagen synthesis, resulting in the connective tissue disease known as scurvy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9608,
+            "question_text": "Which organelle is primarily responsible for protein synthesis within a cell?",
+            "options": [
+                "Mitochondria",
+                "Ribosome",
+                "Lysosome",
+                "Golgi apparatus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ribosomes are the cellular structures that translate mRNA into protein chains.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9609,
+            "question_text": "In the cell cycle, during which phase does DNA replication occur?",
+            "options": [
+                "G1 phase",
+                "S phase",
+                "G2 phase",
+                "M phase"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DNA synthesis or replication occurs specifically during the S (synthesis) phase of interphase.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9610,
+            "question_text": "Which type of mutation results in a stop codon being produced prematurely?",
+            "options": [
+                "Missense mutation",
+                "Nonsense mutation",
+                "Silent mutation",
+                "Frameshift mutation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A nonsense mutation changes an amino acid codon into a premature stop codon, truncating the protein.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9611,
+            "question_text": "What is the primary function of the autonomic nervous system?",
+            "options": [
+                "Voluntary muscle control",
+                "Regulation of subconscious body functions",
+                "Sensory perception",
+                "Motor coordination"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The autonomic system controls involuntary actions like heart rate, digestion, and respiratory rate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9612,
+            "question_text": "Which immunoglobulin is the first to be produced in response to an initial infection?",
+            "options": [
+                "IgG",
+                "IgA",
+                "IgM",
+                "IgE"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "IgM is the first antibody isotype expressed by B cells during a primary immune response.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9613,
+            "question_text": "What is the main role of the proximal convoluted tubule in the kidney?",
+            "options": [
+                "Concentrating urine",
+                "Reabsorption of water and solutes",
+                "Secretion of hydrogen ions",
+                "Filtration of blood"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The majority of water, glucose, and electrolyte reabsorption happens in the proximal tubule.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9614,
+            "question_text": "Which neurotransmitter is primarily lost in patients with Parkinson's disease?",
+            "options": [
+                "Serotonin",
+                "Dopamine",
+                "Acetylcholine",
+                "GABA"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Parkinson's is characterized by the degeneration of dopamine-producing neurons in the substantia nigra.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "category": "PPSC",
+    "name": "General Knowledge",
+    "board": "ppsc",
+    "subject": "general-knowledge",
+    "url": "/ppsc/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 9717,
+            "question_text": "Which organization is responsible for the recruitment of provincial services in Punjab?",
+            "options": [
+                "Federal Public Service Commission",
+                "Punjab Public Service Commission",
+                "National Testing Service",
+                "Punjab Civil Service Board"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The PPSC is the constitutional body mandated to conduct exams and interviews for recruitment to provincial services in Punjab.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9718,
+            "question_text": "What is the primary function of the Punjab Public Service Commission?",
+            "options": [
+                "To manage the provincial budget",
+                "To select suitable candidates for provincial government posts through a merit-based process",
+                "To provide police security in Punjab",
+                "To oversee the provincial education curriculum"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to the PPSC mission, its function is to recommend candidates through a transparent and merit-based process to ensure professionalism.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9719,
+            "question_text": "Which Article of the Constitution of Pakistan acknowledges the Right to Information as a fundamental right?",
+            "options": [
+                "Article 15",
+                "Article 19/A",
+                "Article 25",
+                "Article 30"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Article 19/A of the Constitution of Pakistan guarantees the Right to Information as a fundamental right for citizens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9720,
+            "question_text": "How many marks are deducted for every incorrect answer in a PPSC MCQ-based written test?",
+            "options": [
+                "0.10 marks",
+                "0.25 marks",
+                "0.50 marks",
+                "1.00 mark"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "As per PPSC examination policy, there is negative marking, and 0.25 marks are deducted for each incorrect answer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9721,
+            "question_text": "Which is the highest peak in the world?",
+            "options": [
+                "K2",
+                "Mount Everest",
+                "Nanga Parbat",
+                "Broad Peak"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mount Everest is officially the highest mountain above sea level.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9722,
+            "question_text": "Which planet is known as the Red Planet?",
+            "options": [
+                "Earth",
+                "Venus",
+                "Mars",
+                "Jupiter"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mars appears reddish due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9723,
+            "question_text": "Which is the largest ocean on Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Pacific Ocean"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9724,
+            "question_text": "Who is known as the 'Father of Computer'?",
+            "options": [
+                "Charles Babbage",
+                "Alan Turing",
+                "Bill Gates",
+                "Steve Jobs"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Charles Babbage originated the concept of a digital programmable computer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9725,
+            "question_text": "Which country is the largest by land area?",
+            "options": [
+                "China",
+                "USA",
+                "Russia",
+                "Canada"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Russia is the largest country in the world covering more than 17 million square kilometers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9726,
+            "question_text": "The United Nations was established in which year?",
+            "options": [
+                "1942",
+                "1945",
+                "1948",
+                "1950"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The UN was officially created on October 24, 1945.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9727,
+            "question_text": "What is the capital of Japan?",
+            "options": [
+                "Seoul",
+                "Beijing",
+                "Tokyo",
+                "Bangkok"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tokyo is the capital and most populous city of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9728,
+            "question_text": "Which river is the longest in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile is widely considered the longest river in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9729,
+            "question_text": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plants use carbon dioxide, water, and light to create food.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9730,
+            "question_text": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "Gold",
+                "Osmium",
+                "Oxygen",
+                "Oganesson"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Oxygen is a chemical element with the symbol O and atomic number 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

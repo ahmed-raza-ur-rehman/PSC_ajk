@@ -1,0 +1,445 @@
+{
+    "category": "FIA",
+    "name": "Islamiat — Articles of Faith (Iman)",
+    "board": "fia",
+    "subject": "islamiat-articles-of-faith-iman",
+    "url": "/fia/islamiat-articles-of-faith-iman/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 31,
+    "questions": [
+        {
+            "id": 1018,
+            "question_text": "Which major battle, resulting in the tactical retreat of the Quraysh army, is famously known for the Muslims obtaining decisive victories despite numerical disadvantage?",
+            "options": [
+                "Battle of Khandaq",
+                "Battle of Hunayn",
+                "Battle of Uhud",
+                "Battle of Badr"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Battle of Badr was the first major conflict where the small Muslim force decisively defeated a much larger Quraysh army.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1019,
+            "question_text": "Which phase of the Pakistan Movement was primarily marked by the failure of the Lucknow Pact to reconcile communal differences, leading to heightened political polarization among Muslims?",
+            "options": [
+                "Period of moderate constitutional demands (1920s)",
+                "Early phase (after 1857)",
+                "Post-Khilafat/Lucknow Pact disillusionment (1920s-1930s)",
+                "Final struggle for independence (1937-1947)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Lucknow Pact temporarily brought unity, but its subsequent fallout and failures led to greater disillusionment and polarization among the Muslim League followers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1020,
+            "question_text": "The demand for separate Muslim state, formalized in the Lahore Resolution (1940), fundamentally shifted the focus of the movement from cultural protection to:",
+            "options": [
+                "Establishing a geographically defined homeland based on religious identity",
+                "Achieving representation parity with other major communities in government",
+                "Gaining constitutional safeguards for Islamic law across British India",
+                "Securing political autonomy within a federal structure"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Lahore Resolution explicitly called for separate Muslim states, marking the shift toward a standalone nation-state concept.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1528,
+            "question_text": "Which battle, primarily known for being a decisive strategic victory for the Muslims despite being outnumbered, established early Islamic authority and is often considered a turning point in early Islamic history?",
+            "options": [
+                "Battle of Uhud",
+                "Battle of Mut'ah",
+                "Battle of Khandaq",
+                "Battle of Badr"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Battle of Badr was a massive victory for the small Muslim army over the larger Meccan forces, affirming early Islamic claims.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1530,
+            "question_text": "Which key event or decision, preceding the Lahore Resolution of 1940, significantly solidified the demand for a separate Muslim homeland, emphasizing the need for defined geographical boundaries?",
+            "options": [
+                "The Jinnah-Council Conference of 1930",
+                "The Khilafat Movement peak (1919)",
+                "The Lucknow Pact of 1916",
+                "The Delhi Resolution of 1927"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Delhi Resolution (1927) marked an early and decisive articulation of the separate political aspirations of Muslims in the northwestern parts of British India, foreshadowing the 1940 resolution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1828,
+            "question_text": "The Battle of Khandaq (Trench) is historically significant because it marked the strategic turning point for which major event in the life of the Prophet Muhammad (PBUH)?",
+            "options": [
+                "The successful defense of Medina against a massive confederacy.",
+                "The conquest and opening of Mecca.",
+                "The migration (Hijra) from Mecca to Medina.",
+                "The initial revelation of the Quran in the Cave of Hira."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Khandaq saw the Muslims defending Medina by digging a trench, successfully repelling the confederate attack and ensuring the safety of the nascent Islamic state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1830,
+            "question_text": "Which of the following decisions, made during the early stages of the Pakistan Movement, represented a shift from purely constitutional demands to the concept of separate self-determination for Muslims?",
+            "options": [
+                "The demands for separate electorates, initially put forth by the Muslim League.",
+                "The resolution passed in the All-India Muslim League session in Dacca (1927).",
+                "The Lahore Resolution of 1940, demanding separate states for Muslims.",
+                "The commitment to the framework of the Government of India Act of 1935."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Lahore Resolution (1940) was the first clear political statement articulating the demand for separate states (Pakistan), marking the movement's major ideological turning point.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2226,
+            "question_text": "The resolution that formally articulated the demand for separate constitutional states for Muslim majority areas in British India, fundamentally establishing the political basis for Pakistan, was:",
+            "options": [
+                "Lahore Resolution (1940)",
+                "Objectives Resolution (1949)",
+                "Allahabad Address (1930)",
+                "Delhi Resolution (1927)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Lahore Resolution of 1940 explicitly demanded the constitutional separation of Muslim-majority areas into independent states, while the Objectives Resolution defined principles and the Objectives Resolution was adopted after Pakistan's creation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2536,
+            "question_text": "What was the immediate catalyst for the formation of the All-India Muslim League into a more unified, politically assertive entity during the early 20th century?",
+            "options": [
+                "The failure of the Lucknow Pact to secure full rights for Muslims.",
+                "The direct reaction to the communal violence following the Bengal famine.",
+                "The growing dissatisfaction with the lack of representation in legislative councils.",
+                "The partition plan proposed by the educated Muslim elite."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The failure to fully secure rights, especially after earlier agreements like the Lucknow Pact, led to increased demands for separate political identity and action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3367,
+            "question_text": "The Lahore Resolution of 1940 marked a critical turning point in the Pakistan Movement. Its core demand for 'separate Muslim states' fundamentally shifted the political objective from which earlier focus?",
+            "options": [
+                "Securing recognition of the Ahmadiyya community's rights across India.",
+                "Achieving guaranteed autonomy for Muslim cultural and religious institutions.",
+                "Securing reserved quotas and greater representation within a unitary Indian federal structure.",
+                "Reinstating the authority of the Caliphate and strengthening Ottoman ties."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Before 1940, the focus was primarily on constitutional reforms (like the Lucknow Pact), which aimed for greater power within the existing federal structure, rather than complete separation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5401,
+            "question_text": "During the period leading up to the Lahore Resolution (1940), which political strategy emphasized securing representation for Muslims within the existing structure of British Indian governance?",
+            "options": [
+                "Joining the Congress party to negotiate rights through internal political pressure.",
+                "Formation of separate electorates and demanding constitutional safeguards.",
+                "Focusing solely on armed revolution to overthrow the British regime.",
+                "Boycotting all political activities until a fully independent state was guaranteed."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The initial demand for safeguards through separate electorates was a key political step that contributed to the later demand for separate statehood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5867,
+            "question_text": "Which major battle, fought near Medina, was primarily known for solidifying the Muslim community's defensive position against a large coalition of forces and involved the digging of trenches?",
+            "options": [
+                "Battle of Khandaq (Trench)",
+                "Battle of Uhud",
+                "Battle of Badr",
+                "Battle of Hunain"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Battle of Khandaq (Trench) was famous for the strategic defensive measure of digging trenches, successfully repelling the massive confederacy of polytheists.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5869,
+            "question_text": "Which major intellectual shift contributed significantly to the political articulation of Muslim rights, accelerating the demand for separate Muslim identity and political representation leading up to 1947?",
+            "options": [
+                "The economic policies enacted by the Mughal administration during its later years.",
+                "The increased influence of British military patronage on local elite groups.",
+                "The development of modern political consciousness through engagement with Western liberal ideas.",
+                "The renaissance of Urdu literary circles focusing on historical narratives."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Engagement with Western ideas, especially democracy and self-determination, helped transform localized grievances into a structured, modern political demand.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5967,
+            "question_text": "Which significant battle following the migration (Hijra) is historically noted for the decisive victory of the Muslims against a superior enemy force, marking a pivotal moment in early Islamic history?",
+            "options": [
+                "Battle of Khandaq",
+                "Battle of Uhud",
+                "Battle of Badr",
+                "Battle of Mu'riqah"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Battle of Badr is famously recognized as the first major military victory for the Muslims over the Quraysh forces, solidifying their early claim to power.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5969,
+            "question_text": "Which event or development fundamentally shifted the focus of the Muslim League from solely advocating for communal rights to demanding a separate state?",
+            "options": [
+                "The establishment of the All-India Muslim League (AIML) in Dhaka.",
+                "The Lahore Resolution presented in 1940.",
+                "The Partition of Bengal in 1905.",
+                "The failure of the Khilafat Movement to achieve its aims."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Lahore Resolution (1940) explicitly demanded the creation of independent Muslim states, moving the goal beyond mere constitutional reforms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6200,
+            "question_text": "Which Islamic battle is historically significant because the Muslims successfully defended themselves against a massive siege utilizing trench warfare?",
+            "options": [
+                "Battle of Uhud",
+                "Battle of Badr",
+                "Battle of Khandaq",
+                "Battle of Yarmouk"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Battle of Khandaq (Trench) saw the Muslims utilizing defensive trenches against a coalition army, a major tactical achievement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6201,
+            "question_text": "Which constitutional/political shift primarily led to the decline of Muslim political influence within the Congress-dominated nationalist movement in the early 20th century?",
+            "options": [
+                "The establishment of the All-India Muslim League (AIML).",
+                "The failure of the Lucknow Pact to satisfy all Muslim leaders.",
+                "The impact of the Khilafat Movement's limitations.",
+                "The increasing demand for separate electorates."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The separate electorate system, advocated by the Muslim League, institutionalized communal representation and segregated political interests, reducing cooperation with non-Muslim parties.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6202,
+            "question_text": "Which event significantly accelerated the realization of separate political rights for Muslims in the subcontinent, leading to increased demands for a separate state?",
+            "options": [
+                "The Lahore Resolution of 1940",
+                "The Simla Deputation of 1906",
+                "The establishment of the All-India Muslim League in Dhaka (1906)",
+                "The Khilafat Movement of 1919"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Lahore Resolution (1940) explicitly demanded separate states for Muslims, providing the clearest political basis for the movement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6276,
+            "question_text": "Which key strategic mistake led to the Muslims' temporary setback during the Battle of Uhud?",
+            "options": [
+                "The archers remaining in their positions after the initial victory.",
+                "The failure to adequately mobilize manpower from the allied tribes.",
+                "The betrayal by key companions from outside Medina.",
+                "The timely intervention of the Prophet Muhammad (PBUH) leading the forces."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The archers were instructed to maintain their positions on the hill, but their departure led to the Prophet's army being exposed to the Meccan forces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6277,
+            "question_text": "The foundational political demand articulated in the Lahore Resolution (1940) primarily emphasized:",
+            "options": [
+                "Formation of a constitutional monarchy for the subcontinent",
+                "Increased autonomy for Muslim-majority provinces",
+                "Immediate British withdrawal and universal suffrage",
+                "An independent Muslim state (Pakistan) in united India"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Lahore Resolution fundamentally demanded the creation of a separate homeland for the Muslims of India, which eventually led to the concept of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6354,
+            "question_text": "The Battle of Uhud primarily highlighted which weakness among the Muslim forces?",
+            "options": [
+                "Inadequate weaponry compared to the neighboring Meccan armies.",
+                "Lack of unity between the different tribes present in Madinah.",
+                "Failure to receive timely counsel from the Prophet Muhammad (PBUH).",
+                "The tendency of some archers to abandon their positions prematurely."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The retreat of the archers from their assigned positions after seeing spoils was the key tactical error that led to significant losses during the Battle of Uhud.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6355,
+            "question_text": "Which key event during the Pakistan Movement dramatically highlighted the political gap between the Muslim League and the Congress, strengthening the demand for separate nations?",
+            "options": [
+                "The Khilafat Movement",
+                "The Lahore Resolution (1940)",
+                "The Simon Commission Report",
+                "The Non-Cooperation Movement"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Lahore Resolution of 1940 formally passed the demand for separate Muslim states, marking a pivotal shift toward the idea of a separate nation (Pakistan).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6500,
+            "question_text": "Which key feature characterizes the Battle of Badr, making it historically significant for early Islam?",
+            "options": [
+                "The battle was fought near Mecca and resulted in the immediate exile of the Qurayshi elite.",
+                "It is renowned for the Muslims achieving a major military victory despite the Quraysh having overwhelming superior numbers.",
+                "The battlefield was dominated by natural defensive trenches dug by the Prophet's forces.",
+                "The Muslims were significantly outnumbered and utilized only defensive tactics."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Badr is historically celebrated because the Muslims achieved a decisive victory against the highly powerful Quraysh forces, despite being outnumbered.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6501,
+            "question_text": "Which major event immediately preceded the formal establishment of the All-India Muslim League (AIML) in 1906?",
+            "options": [
+                "The recommendations of the Morley-Minto Reforms (1909)",
+                "The Delhi Durbar of Bahadur Shah Zafar",
+                "The formation of the Muslim Educational Congress (MEC)",
+                "The Calcutta Session of the Muslim League (1906)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Morley-Minto Reforms (1909) introduced separate electorates for Muslims, which galvanized the need for a unified political platform, directly leading to the formal establishment and success of the AIML.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6502,
+            "question_text": "The Cabinet Mission Plan (1946) was a constitutional proposal that aimed primarily to:",
+            "options": [
+                "Mandate an immediate transition to a fully democratic, unitary republic structure.",
+                "Immediately establish separate sovereign dominions based on the population ratios.",
+                "Dissolve all existing princely states without any constitutional mechanism.",
+                "Implement a federal structure with provincial autonomy while maintaining a central authority."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Cabinet Mission Plan aimed for a complex federal arrangement that gave significant self-rule and autonomy to the provinces while maintaining a central government.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6573,
+            "question_text": "The Battle of Badr is historically significant for which key reason?",
+            "options": [
+                "It marked the first decisive military victory of the Muslims over the Quraysh.",
+                "It was the last major battle fought before the conquest of Mecca.",
+                "It occurred when the Prophet (PBUH) first arrived in Madinah.",
+                "The treaty signed after this battle guaranteed religious autonomy to the Muslims."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Badr was the Muslims' first major military victory against the powerful Quraysh, significantly boosting early Islamic confidence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6574,
+            "question_text": "Which movement, active in the early 1920s, played a crucial role in raising Muslim political consciousness and solidifying the need for a separate Muslim identity in the subcontinent?",
+            "options": [
+                "Non-Cooperation Movement",
+                "Quit India Movement",
+                "Khilafat Movement",
+                "Bardoli Satyagraha"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Khilafat Movement galvanized Muslim sentiments by protesting the perceived humiliation of the Ottoman Caliph, significantly increasing Muslim political awareness leading up to the demand for self-determination.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6642,
+            "question_text": "Which battle, fought after the migration of the Muslims to Madinah, is famous for the decisive victory over the Meccan forces?",
+            "options": [
+                "Battle of Khandaq",
+                "Battle of Hunayn",
+                "Battle of Badr",
+                "Battle of Uhud"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Battle of Badr was fought early in the Islamic calendar and resulted in a major, decisive victory for the Muslims against the Meccan polytheists.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6643,
+            "question_text": "Which of the following organizations played a crucial role in unifying the Muslim political demand and was instrumental in the initial stages of the Pakistan Movement?",
+            "options": [
+                "All-India Muslim League",
+                "Jamaat-e-Islami",
+                "Khilafat Committee",
+                "Jamiat Ulema-e-Hind"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The All-India Muslim League was the primary political platform established to articulate and push the demand for a separate Muslim state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6723,
+            "question_text": "The Battle of Uhud is historically significant because the Muslim army faced a critical defeat primarily due to:",
+            "options": [
+                "A sudden change in weather conditions causing confusion among the ranks.",
+                "The failure of the cavalry unit to remain disciplined and positioned correctly.",
+                "The betrayal of key companions who deserted the battlefield.",
+                "Being overwhelmed by the superior numbers and weaponry of the enemy forces."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Muslim defeat at Uhud occurred when archers, stationed on the hills, left their positions after seeing the enemy's pursuit, leading to the enemy's successful flanking maneuver.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6724,
+            "question_text": "The early movement for political representation and rights in Punjab, which preceded the larger national movement, was significantly influenced by the formation of:",
+            "options": [
+                "The Muslim Educational Conference (MEC)",
+                "The Khilafat Movement Committee",
+                "The Punjab Frontier Scheme",
+                "The All-India Muslim League (AIML)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Muslim Educational Conference (MEC) was a crucial platform where educated elites began articulating political demands, setting the stage for later political movements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

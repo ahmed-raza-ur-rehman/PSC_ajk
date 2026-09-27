@@ -1,0 +1,193 @@
+{
+    "category": "Pearson",
+    "name": "Speaking & Writing",
+    "board": "pearson",
+    "subject": "speaking-writing",
+    "url": "/pearson/speaking-writing/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 10119,
+            "question_text": "Why do many test takers prefer the PTE Speaking section over other English tests?",
+            "options": [
+                "It is conducted in person with a human examiner.",
+                "It is computer-based, which helps reduce test anxiety.",
+                "It is done entirely through written essays.",
+                "It allows test takers to speak with other candidates."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Test takers mention that the computer-based format makes them feel more focused and less nervous compared to in-person interviews.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10120,
+            "question_text": "What is the primary benefit of the computer-based speaking test in PTE?",
+            "options": [
+                "It eliminates potential bias from a human examiner.",
+                "It requires candidates to memorize long speeches.",
+                "It allows candidates to take the test from home.",
+                "It provides unlimited time for each response."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The test uses AI scoring to ensure objective evaluation, removing prejudice or bias associated with human interaction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10121,
+            "question_text": "Which of the following is a key component of the Speaking & Writing section?",
+            "options": [
+                "An oral history presentation.",
+                "A group discussion with other students.",
+                "Various question types requiring both speaking and writing skills.",
+                "A 3-hour long creative writing project."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Part 1 of the PTE Academic and Core exams consists of multiple question types that specifically assess both speaking and writing abilities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10122,
+            "question_text": "What is the primary method of delivery for the PTE test?",
+            "options": [
+                "Face-to-face interview",
+                "Computer-based test",
+                "Paper-based examination",
+                "Group oral presentation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The PTE exam is delivered entirely via computer in a secure test center.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10123,
+            "question_text": "Which of these is a benefit of using a computer for the speaking section?",
+            "options": [
+                "You get to talk to a human examiner",
+                "It is faster than other methods",
+                "It reduces examiner bias",
+                "You can use notes during the test"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Computer-based testing eliminates human prejudice during the speaking assessment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10124,
+            "question_text": "How many question types are included in the Speaking & Writing section?",
+            "options": [
+                "5",
+                "7",
+                "9",
+                "12"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The PTE Academic Speaking & Writing section consists of 9 distinct question types.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10125,
+            "question_text": "What does the computer-based speaking test help test takers feel?",
+            "options": [
+                "More nervous and unfocused",
+                "Less focused and more anxious",
+                "More focused and less nervous",
+                "More talkative and less prepared"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Test takers often report feeling more relaxed and focused because they are not interacting with a human face-to-face.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10126,
+            "question_text": "Why do some students prefer the PTE over other English proficiency tests?",
+            "options": [
+                "It requires in-person interviews",
+                "It is entirely computer-based",
+                "It focuses only on writing skills",
+                "It takes over five hours to complete"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The absence of face-to-face interaction is a major reason test takers choose the computer-based PTE format.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10127,
+            "question_text": "Which device should you use for the speaking part of the test?",
+            "options": [
+                "A standard microphone on a desk",
+                "Wired headphones with a microphone",
+                "A smartphone app",
+                "A wireless Bluetooth headset"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Wired headphones with a microphone are recommended for the best recording quality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10128,
+            "question_text": "In the Speaking section, should you worry about neighbors speaking near you?",
+            "options": [
+                "Yes, it will lower your score",
+                "Yes, you should ask them to be quiet",
+                "No, the microphone will not pick up their voices",
+                "No, you should raise your voice to compete"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The test technology is designed to capture only your voice, so noise from neighbors does not impact your score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10129,
+            "question_text": "What is the typical time duration for the Speaking & Writing section?",
+            "options": [
+                "20-30 minutes",
+                "30-45 minutes",
+                "76-84 minutes",
+                "90-120 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Speaking and Writing section is the longest part of the test, taking between 76 and 84 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10130,
+            "question_text": "Why is the PTE scoring system considered fair?",
+            "options": [
+                "It uses human examiners only",
+                "It uses AI scoring and human oversight",
+                "It is based on the test taker's home country",
+                "It is based on random selection"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTE combines sophisticated AI with human expertise to ensure scores are objective and free from bias.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10131,
+            "question_text": "What happens if your account details do not match your passport?",
+            "options": [
+                "You are given extra time",
+                "You can correct them on the test day",
+                "You will not be allowed to take the test",
+                "You get a full refund"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Identity verification is strict; failing to match your booking details with your passport results in being denied entry.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

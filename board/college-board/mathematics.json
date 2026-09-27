@@ -1,0 +1,319 @@
+{
+    "category": "College Board",
+    "name": "Mathematics",
+    "board": "college-board",
+    "subject": "mathematics",
+    "url": "/college-board/mathematics/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 22,
+    "questions": [
+        {
+            "id": 8555,
+            "question_text": "If a registration deadline is August 7, 2026, and the late registration deadline is August 11, 2026, how many days after the standard deadline is the late registration deadline?",
+            "options": [
+                "2 days",
+                "3 days",
+                "4 days",
+                "5 days"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Subtracting 7 from 11 equals 4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8556,
+            "question_text": "A student needs to borrow a device from the College Board. If the test date is August 22, 2026, what is the latest date the student can register and request the device to meet the 30-day requirement?",
+            "options": [
+                "July 23, 2026",
+                "July 20, 2026",
+                "August 1, 2026",
+                "July 15, 2026"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "30 days before August 22 is July 23.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8557,
+            "question_text": "Test center data is updated every three hours. If data was last updated at 9:00 a.m., at what time will the next update occur?",
+            "options": [
+                "10:00 a.m.",
+                "11:00 a.m.",
+                "12:00 p.m.",
+                "1:00 p.m."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Adding 3 hours to 9:00 a.m. results in 12:00 p.m.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8561,
+            "question_text": "If a school decides to schedule a makeup test and moves the date by 14 days from the original date of December 5, what is the new makeup date?",
+            "options": [
+                "December 12",
+                "December 17",
+                "December 19",
+                "December 21"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "5 + 14 = 19.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8562,
+            "question_text": "If an exam section has 40 questions and the test taker must spend an equal amount of time on each of the 40 questions over a period of 80 minutes, how many minutes per question is allotted?",
+            "options": [
+                "1 minute",
+                "2 minutes",
+                "3 minutes",
+                "4 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "80 minutes / 40 questions = 2 minutes per question.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8563,
+            "question_text": "A student has 120 minutes to complete two test modules. If the first module takes 55 minutes, how many minutes remain for the second module?",
+            "options": [
+                "55 minutes",
+                "60 minutes",
+                "65 minutes",
+                "75 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "120 - 55 = 65.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8564,
+            "question_text": "If a test center's data updates every 3 hours starting at 6:00 a.m., how many updates will occur by 3:00 p.m. on the same day?",
+            "options": [
+                "2 updates",
+                "3 updates",
+                "4 updates",
+                "5 updates"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Updates at 9:00 a.m., 12:00 p.m., and 3:00 p.m. equals 3 updates.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8565,
+            "question_text": "A student receives a fee waiver that covers the registration cost of $65 and includes two free score reports. If additional score reports cost $12 each, how much would 5 additional reports cost?",
+            "options": [
+                "36 dollars",
+                "48 dollars",
+                "60 dollars",
+                "72 dollars"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "5 additional reports * $12 per report = $60.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8566,
+            "question_text": "If a test coordinator has 300 students and can place 25 students in each testing room, how many rooms are required?",
+            "options": [
+                "10 rooms",
+                "12 rooms",
+                "15 rooms",
+                "20 rooms"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "300 / 25 = 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8567,
+            "question_text": "If the total number of students taking the SAT in a year is approximately 2,000,000 and 15% take the test at an international center, how many students took the test internationally?",
+            "options": [
+                "150,000",
+                "200,000",
+                "300,000",
+                "450,000"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "2,000,000 * 0.15 = 300,000.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8570,
+            "question_text": "Test center data is updated every three hours starting at 6:00 a.m. How many updates will occur by 3:00 p.m. on the same day?",
+            "options": [
+                "2 updates",
+                "3 updates",
+                "4 updates",
+                "5 updates"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Updates occur at 6 a.m., 9 a.m., 12 p.m., and 3 p.m., totaling 4 updates.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8572,
+            "question_text": "If the total number of students taking the SAT in a year is 2,000,000 and 15% take the test internationally, how many students took the test internationally?",
+            "options": [
+                "150,000",
+                "200,000",
+                "300,000",
+                "450,000"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "2,000,000 * 0.15 = 300,000.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8573,
+            "question_text": "A student receives a fee waiver covering $65 for registration. If additional score reports cost $12 each, how much would 5 additional reports cost?",
+            "options": [
+                "$48",
+                "$55",
+                "$60",
+                "$72"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "5 reports * $12 per report = $60.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8574,
+            "question_text": "An exam section has 40 questions and the test taker must spend an equal amount of time on each over 80 minutes. How many minutes are allotted per question?",
+            "options": [
+                "1.5 minutes",
+                "2 minutes",
+                "2.5 minutes",
+                "3 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "80 minutes total / 40 questions = 2 minutes per question.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8575,
+            "question_text": "If a school moves a makeup test date by 14 days from December 5, what is the new date?",
+            "options": [
+                "December 18",
+                "December 19",
+                "December 20",
+                "December 21"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "5 + 14 = 19, so December 19.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8576,
+            "question_text": "A student needs to borrow a device. If the test date is August 22, 2026, what is the latest date to register to meet the 30-day requirement?",
+            "options": [
+                "July 20",
+                "July 23",
+                "July 25",
+                "July 28"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "30 days before August 22 is July 23.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8577,
+            "question_text": "A test center capacity is 200 students. If 85% of the capacity is filled, how many students are taking the test?",
+            "options": [
+                "150",
+                "160",
+                "170",
+                "180"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "200 * 0.85 = 170.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8578,
+            "question_text": "A student has 4 hours to complete the test. If they spend 2 hours and 15 minutes on the Reading section, how much time remains for Math?",
+            "options": [
+                "1 hour 30 minutes",
+                "1 hour 45 minutes",
+                "2 hours",
+                "2 hours 15 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "4 hours = 240 minutes. 2 hours 15 minutes = 135 minutes. 240 - 135 = 105 minutes, which is 1 hour 45 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8579,
+            "question_text": "If 1 out of every 5 students requests a loaner device, how many loaner devices are needed for 500 students?",
+            "options": [
+                "50",
+                "80",
+                "100",
+                "125"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "500 divided by 5 equals 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8580,
+            "question_text": "A testing fee is $68. If a student pays for the test and 3 extra score reports at $12 each, what is the total cost?",
+            "options": [
+                "$98",
+                "$100",
+                "$104",
+                "$112"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "$68 + (3 * $12) = $68 + $36 = $104.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8581,
+            "question_text": "If a room monitor checks 12 students every 15 minutes, how many students can they check in 2 hours?",
+            "options": [
+                "48",
+                "72",
+                "96",
+                "120"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "2 hours is 120 minutes. 120 minutes / 15 minutes = 8 intervals. 8 intervals * 12 students = 96 students.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8582,
+            "question_text": "A test has 98 questions total. If the Math section accounts for 50% of the questions, how many are in the Reading/Writing section?",
+            "options": [
+                "44",
+                "48",
+                "49",
+                "50"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If Math is 50%, then Reading/Writing is 50%. 50% of 98 is 49.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

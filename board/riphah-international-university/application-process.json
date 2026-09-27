@@ -1,0 +1,249 @@
+{
+    "category": "Riphah International University",
+    "name": "Application Process",
+    "board": "riphah-international-university",
+    "subject": "application-process",
+    "url": "/riphah-international-university/application-process/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 17,
+    "questions": [
+        {
+            "id": 11031,
+            "question_text": "Does the application process include a skills test?",
+            "options": [
+                "Never",
+                "Only for medical departments",
+                "Yes, if deemed necessary by the hiring manager",
+                "Only for administrative roles"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Departments reserve the right to include a practical assessment to test specific skills required for the assistantship.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11032,
+            "question_text": "How many references are typically required during the application phase?",
+            "options": [
+                "None",
+                "At least two",
+                "Only one",
+                "Five"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Two professional or academic references are usually requested to verify the applicant's performance and character.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11181,
+            "question_text": "What is the first step in the Riphah Alumni Assistantship application process?",
+            "options": [
+                "Direct interview with the Vice Chancellor",
+                "Submission of the online application form via the official portal",
+                "Physical submission of documents to the Rector’s office",
+                "Registration via a third-party recruitment website"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The standardized procedure requires all applicants to initiate their request through the official Riphah online portal to ensure data tracking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11182,
+            "question_text": "What happens after the initial screening of the application form?",
+            "options": [
+                "Immediate acceptance notification",
+                "Shortlisted candidates are invited for an interview",
+                "Automatic rejection for all applicants",
+                "Background check by the Ministry of Education"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Following the verification of eligibility, the selection committee shortlists candidates for a competency-based interview.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11183,
+            "question_text": "What is the consequence of providing incomplete information in the application?",
+            "options": [
+                "Application is returned for corrections",
+                "Immediate rejection of the application",
+                "Applicant is given a 24-hour extension",
+                "Applicant is asked to pay a penalty fee"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Incomplete or inaccurate applications are typically disqualified during the preliminary screening phase to maintain the integrity of the selection process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11184,
+            "question_text": "What is the primary method for submitting the Riphah Alumni Assistantship application?",
+            "options": [
+                "In-person submission only",
+                "Via email to the Dean",
+                "Through the official Riphah Online Portal",
+                "By postal mail"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Modern Riphah applications are primarily processed through the central digital portal for transparency and efficiency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11185,
+            "question_text": "What is the standard procedure if an applicant is shortlisted after initial screening?",
+            "options": [
+                "Automatic hiring",
+                "Interview invitation",
+                "Psychometric test",
+                "Reference check only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Shortlisted candidates are required to undergo a formal interview to assess their suitability for the department.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11186,
+            "question_text": "How will applicants typically be notified of their application status?",
+            "options": [
+                "Physical letter",
+                "Public notice board",
+                "Email or SMS",
+                "Phone call from the Chancellor"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Digital communication via email and SMS is the standard notification method for all university-related job/assistantship processes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11187,
+            "question_text": "Can an applicant apply for multiple departments simultaneously?",
+            "options": [
+                "Yes, unlimited",
+                "No, only one department at a time",
+                "Yes, up to three departments",
+                "Only with a special permit"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To manage administrative workflows, applicants are restricted to one application at a time to ensure focus and fairness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11188,
+            "question_text": "What is the status of the application once it has been submitted?",
+            "options": [
+                "Pending Review",
+                "Accepted",
+                "Rejected",
+                "Completed"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Once submitted, the system automatically tags the application as 'Pending Review' while it awaits HR assessment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11189,
+            "question_text": "Who is responsible for the final approval of the candidate?",
+            "options": [
+                "The Student Union",
+                "The department head and HR",
+                "The class representative",
+                "The local government"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The hiring decision is a collaborative process between the department needing the assistant and the HR office.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11190,
+            "question_text": "What is the deadline policy for the application process?",
+            "options": [
+                "Flexible deadlines",
+                "Strict adherence to published deadlines",
+                "Open-ended enrollment",
+                "Up to one month after term starts"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Applications received after the cutoff date are automatically excluded from the process to maintain the schedule.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11191,
+            "question_text": "If an applicant notices an error in their submission after hitting 'Submit', what should they do?",
+            "options": [
+                "Submit a second application",
+                "Contact the IT Helpdesk immediately",
+                "Wait for the interview to explain",
+                "They cannot change it"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Technical errors must be reported promptly to the IT department to rectify the application data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11193,
+            "question_text": "What is the mandatory follow-up action after receiving an interview invitation via email?",
+            "options": [
+                "Appear directly at the office without notice",
+                "Send a formal email confirmation of availability",
+                "Wait for a phone call for confirmation",
+                "Submit an additional updated CV"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Applicants are required to confirm their availability within the stipulated timeframe mentioned in the interview email to finalize the schedule.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11194,
+            "question_text": "Where should the application form be submitted if the online portal is undergoing maintenance?",
+            "options": [
+                "Departmental Dean's office",
+                "Alumni Relations Office via hard copy",
+                "Wait until the website is functional again",
+                "Email to the general university info address"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In the event of technical failure, the university mandates hard copy submission to ensure the application is processed within the deadline.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11195,
+            "question_text": "How many interview rounds are typically conducted for the final selection?",
+            "options": [
+                "One round",
+                "Two rounds",
+                "Three rounds",
+                "No interview required"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The process involves an initial screening interview followed by a technical/departmental panel interview for the final selection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11196,
+            "question_text": "What is the policy for candidates who fail to provide all required information in their initial application?",
+            "options": [
+                "Automatic rejection",
+                "Given a 48-hour window to rectify",
+                "Application is put on hold until requested",
+                "Application is processed with missing info"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Incomplete applications are treated as invalid and are automatically disqualified during the preliminary screening phase.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

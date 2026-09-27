@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "English Language and Literature",
+    "board": "aqa",
+    "subject": "english-language-and-literature",
+    "url": "/aqa/english-language-and-literature/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8837,
+            "question_text": "What is a 'metaphor'?",
+            "options": [
+                "Giving human qualities to non-human objects",
+                "A direct comparison between two things without using 'like' or 'as'",
+                "A word that sounds like its meaning",
+                "An exaggeration for effect"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A metaphor states that one thing IS another thing to create a symbolic connection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8839,
+            "question_text": "Which of these is the best definition of a metaphor?",
+            "options": [
+                "A comparison using 'like' or 'as'",
+                "A direct comparison stating one thing is another",
+                "The repetition of a consonant sound",
+                "Giving human traits to non-human objects"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A metaphor identifies one thing as being another for rhetorical effect, without using connecting words like 'as' or 'like'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8840,
+            "question_text": "Which of these is the best description of a metaphor?",
+            "options": [
+                "A comparison using the words 'like' or 'as'",
+                "An exaggeration used for effect",
+                "A direct comparison stating one thing IS another",
+                "Giving human qualities to non-human objects"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A metaphor describes something as being something else to highlight a shared characteristic without using 'like' or 'as'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8841,
+            "question_text": "What is the function of a 'verb' in a sentence?",
+            "options": [
+                "To describe a noun",
+                "To name a person, place, or thing",
+                "To show an action or state of being",
+                "To replace a noun"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Verbs are the 'doing' or 'being' words that drive the action of a sentence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

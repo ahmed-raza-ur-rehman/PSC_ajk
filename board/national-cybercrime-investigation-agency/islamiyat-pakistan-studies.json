@@ -1,0 +1,193 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Islamiyat & Pakistan Studies",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "islamiyat-pakistan-studies",
+    "url": "/national-cybercrime-investigation-agency/islamiyat-pakistan-studies/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 14392,
+            "question_text": "In which year did the Battle of Badr take place?",
+            "options": [
+                "1 AH",
+                "2 AH",
+                "3 AH",
+                "4 AH"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Battle of Badr, a key battle in early Islamic history, was fought on Tuesday, 13 March 624 CE (2 AH).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14393,
+            "question_text": "Who was the first formally appointed Caliph of Islam?",
+            "options": [
+                "Hazrat Umar (R.A)",
+                "Hazrat Usman (R.A)",
+                "Hazrat Ali (R.A)",
+                "Hazrat Abu Bakr (R.A)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Hazrat Abu Bakr Siddique (R.A) was elected as the first Caliph of Islam after the passing of Prophet Muhammad (PBUH).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14394,
+            "question_text": "Who delivered the historic Presidential Address at the Lahore session of the Muslim League in 1940?",
+            "options": [
+                "Allama Iqbal",
+                "Quaid-e-Azam Muhammad Ali Jinnah",
+                "Liaquat Ali Khan",
+                "Chaudhry Rahmat Ali"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Quaid-e-Azam delivered the famous presidential address at the 1940 Lahore session where the Pakistan Resolution was passed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14395,
+            "question_text": "What is the total length of Pakistan's coastline along the Arabian Sea?",
+            "options": [
+                "About 500 km",
+                "About 800 km",
+                "About 1,046 km",
+                "About 1,500 km"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Pakistan has a coastline of approximately 1,046 kilometers along the southern edge on the Arabian Sea.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14396,
+            "question_text": "Which Surah of the Holy Quran is known as 'Umul Quran' (Mother of the Quran)?",
+            "options": [
+                "Surah Al-Baqarah",
+                "Surah Yaseen",
+                "Surah Al-Fatiha",
+                "Surah Al-Ikhlas"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Surah Al-Fatiha is referred to as 'Umul Quran' because it encapsulates the primary themes of the entire Quran.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14397,
+            "question_text": "In which Islamic month was the Holy Quran first revealed?",
+            "options": [
+                "Rajab",
+                "Shaban",
+                "Ramadan",
+                "Muharram"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The revelation of the Holy Quran began in the month of Ramadan during Laylat al-Qadr.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14398,
+            "question_text": "Who was the first female martyr (Shaheeda) in Islam?",
+            "options": [
+                "Hazrat Khadija (R.A)",
+                "Hazrat Sumayah bint Khabbat (R.A)",
+                "Hazrat Fatima (R.A)",
+                "Hazrat Aisha (R.A)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hazrat Sumayah (R.A) is historically recognized as the first martyr in Islam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14399,
+            "question_text": "When was the Constitution of 1973 officially promulgated in Pakistan?",
+            "options": [
+                "14 August 1973",
+                "23 March 1973",
+                "12 October 1973",
+                "27 June 1973"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Constitution of Islamic Republic of Pakistan 1973 came into effect on August 14, 1973.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14400,
+            "question_text": "Which mountain pass connects Pakistan with Afghanistan?",
+            "options": [
+                "Khunjerab Pass",
+                "Khyber Pass",
+                "Bolan Pass",
+                "Tochi Pass"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Khyber Pass is a historic mountain pass connecting Pakistan and Afghanistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14401,
+            "question_text": "What is the total number of obligatory (Farz) prayers in a day?",
+            "options": [
+                "3",
+                "5",
+                "6",
+                "4"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Muslims are required to perform five daily prayers as one of the pillars of Islam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14402,
+            "question_text": "Who was the architect of the Pakistan Resolution passed in 1940?",
+            "options": [
+                "Allama Iqbal",
+                "A.K. Fazlul Huq",
+                "Liaquat Ali Khan",
+                "Chaudhry Rahmat Ali"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A.K. Fazlul Huq moved the historic Lahore Resolution (Pakistan Resolution) on March 23, 1940.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14403,
+            "question_text": "Which battle is referred to in Surah Al-Imran and Surah Al-Anfal?",
+            "options": [
+                "Battle of Badr",
+                "Battle of Uhud",
+                "Battle of Trench",
+                "Battle of Khaybar"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Battle of Badr is explicitly mentioned and detailed in Surah Al-Imran and Surah Al-Anfal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14404,
+            "question_text": "What is the highest peak of Pakistan?",
+            "options": [
+                "Nanga Parbat",
+                "K2",
+                "Rakaposhi",
+                "Tirich Mir"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "K2 is the highest peak in Pakistan and the second-highest in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

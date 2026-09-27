@@ -1,0 +1,151 @@
+{
+    "category": "Imperial College of Business Studies (ICBS)",
+    "name": "Accounting Principles",
+    "board": "imperial-college-of-business-studies-icbs",
+    "subject": "accounting-principles",
+    "url": "/imperial-college-of-business-studies-icbs/accounting-principles/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11500,
+            "question_text": "Which accounting concept dictates that expenses should be recognized in the period in which they help generate revenue?",
+            "options": [
+                "Going Concern Concept",
+                "Matching Principle",
+                "Consistency Concept",
+                "Prudence Concept"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The matching principle requires that expenses be reported in the same period as the revenues they helped to produce.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11501,
+            "question_text": "If a company purchases equipment for cash, what is the effect on the accounting equation?",
+            "options": [
+                "Increase in assets, increase in liabilities",
+                "Increase in assets, decrease in assets",
+                "Decrease in assets, decrease in equity",
+                "No change in total assets"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cash (an asset) decreases and Equipment (an asset) increases, leaving the total asset value unchanged.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11502,
+            "question_text": "Which principle requires that the same accounting methods be applied from one period to the next to allow for comparability?",
+            "options": [
+                "Going Concern Principle",
+                "Consistency Principle",
+                "Objectivity Principle",
+                "Materiality Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The consistency principle states that once an entity chooses an accounting method, it should continue to use that method unless a change would result in more meaningful information.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11503,
+            "question_text": "Under the accrual basis of accounting, when should revenue be recorded?",
+            "options": [
+                "When cash is received from the customer",
+                "When the order is placed by the customer",
+                "When the performance obligation is satisfied",
+                "At the end of the fiscal year"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Revenue recognition principle dictates that revenue is recognized when the company has performed its service or delivered goods to the customer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11504,
+            "question_text": "What does a credit entry increase in the accounting system?",
+            "options": [
+                "Assets and Expenses",
+                "Liabilities and Equity",
+                "Assets and Liabilities",
+                "Expenses and Equity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to the rules of double-entry bookkeeping, credits increase liabilities, equity, and revenue accounts, while debits increase assets and expenses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11505,
+            "question_text": "Which financial statement reports the financial position of a company at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Statement of Cash Flows",
+                "Balance Sheet",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Balance Sheet provides a snapshot of assets, liabilities, and equity at a specific date, unlike other statements that cover a period of time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11506,
+            "question_text": "The 'Going Concern' assumption implies that:",
+            "options": [
+                "The business will continue to operate indefinitely",
+                "The business will be liquidated within 12 months",
+                "All assets should be recorded at current market value",
+                "The business is immune to economic downturns"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Going Concern assumption assumes the business will remain in operation for the foreseeable future, allowing assets to be recorded at cost rather than liquidation value.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11507,
+            "question_text": "Which accounting principle suggests that only transactions capable of being expressed in terms of money should be included in the accounting records?",
+            "options": [
+                "Entity Concept",
+                "Monetary Unit Assumption",
+                "Periodicity Assumption",
+                "Historical Cost Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The monetary unit assumption states that only items that can be measured in monetary terms are included in the financial statements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11508,
+            "question_text": "When a business records a transaction at the original price paid for an asset, which principle is being followed?",
+            "options": [
+                "Fair Value Principle",
+                "Conservatism Principle",
+                "Historical Cost Principle",
+                "Revenue Recognition Principle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Historical cost principle dictates that assets should be recorded at their original purchase price rather than current market value.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11509,
+            "question_text": "The practice of anticipating potential losses but not potential gains is known as:",
+            "options": [
+                "Consistency",
+                "Materiality",
+                "Conservatism (Prudence)",
+                "Full Disclosure"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Conservatism ensures that financial statements do not overstate assets or income and provide for all possible losses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

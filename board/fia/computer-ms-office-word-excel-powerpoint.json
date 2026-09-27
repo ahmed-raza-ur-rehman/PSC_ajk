@@ -1,0 +1,641 @@
+{
+    "category": "FIA",
+    "name": "Computer — MS Office (Word, Excel, PowerPoint)",
+    "board": "fia",
+    "subject": "computer-ms-office-word-excel-powerpoint",
+    "url": "/fia/computer-ms-office-word-excel-powerpoint/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 45,
+    "questions": [
+        {
+            "id": 1084,
+            "question_text": "In the context of email security and communication, what does SPF (Sender Policy Framework) primarily validate?",
+            "options": [
+                "That the sending server is authorized by the domain owner.",
+                "The recipient's eligibility to receive messages.",
+                "The confidentiality of the email content through encryption.",
+                "The path taken by the email across different servers."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SPF records prevent spoofing by confirming that the IP addresses used to send the email are approved by the sender's domain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1085,
+            "question_text": "In networking and computer terminology, what does 'VPN' stand for and what is its primary function?",
+            "options": [
+                "Volatile Program Notifier; an error checking software tool",
+                "Vulnerable Privacy Net; a registry key used for secure logins",
+                "Virtual Private Network; creating a secure, encrypted connection over a public network",
+                "Very Personal Node; a device used for local area network expansion"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "VPN establishes a secure, encrypted tunnel over the internet, simulating a private connection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1086,
+            "question_text": "Which cyber security protocol is primarily used to encrypt data transmitted over the internet, ensuring secure communication between client and server?",
+            "options": [
+                "SSL/TLS",
+                "SMTP",
+                "HTTP",
+                "FTP"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SSL/TLS (Secure Sockets Layer/Transport Layer Security) encrypts communications, making it safe for data transfer over the web.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1185,
+            "question_text": "When assessing computer abbreviations related to network components, what does 'DHCP' specifically manage?",
+            "options": [
+                "Deep Hyperlink Connection Protocol; ensuring secure web browsing",
+                "Data Handling Control Program; monitoring network bandwidth usage",
+                "Digital High Connectivity Platform; managing local network hubs",
+                "Dynamic Host Configuration Protocol; automatically assigning IP addresses to devices on a network"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "DHCP automatically manages and assigns unique IP addresses and other network settings to devices joining a network.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1284,
+            "question_text": "Which term describes the process of obtaining a unique identifier on the internet that allows a user or device to connect to a private network, often used for residential internet service?",
+            "options": [
+                "DHCP Leasing",
+                "Authentication",
+                "MAC Spoofing",
+                "NAT Gatewaying"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "DHCP (Dynamic Host Configuration Protocol) assigns temporary IP addresses (leases) to devices joining a network.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1494,
+            "question_text": "In the context of email protocols, which protocol is primarily used to retrieve emails from a mail server to a local client?",
+            "options": [
+                "SMTP",
+                "IMAP",
+                "POP3",
+                "FTP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IMAP (Internet Message Access Protocol) allows users to access and manage emails on the server, which is useful for multiple devices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1594,
+            "question_text": "In the context of internet security and data transmission, what does SSL/TLS primarily provide?",
+            "options": [
+                "Confidentiality and integrity of data during transit",
+                "Increased network speed and bandwidth",
+                "Management of domain name system records",
+                "Automatic physical connection establishment"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SSL/TLS encrypts the connection between a client and a server, ensuring that data remains confidential and tamper-proof.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1694,
+            "question_text": "Which protocol is primarily used to transfer web pages (HTML documents) from a server to a web browser?",
+            "options": [
+                "FTP",
+                "HTTP",
+                "POP3",
+                "SMTP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "HTTP (Hypertext Transfer Protocol) is the foundational protocol for communication on the World Wide Web, enabling the transfer of web content.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1695,
+            "question_text": "What does the acronym 'DMCA' primarily address in the context of digital intellectual property protection?",
+            "options": [
+                "Database Mapping and Collection Agency",
+                "Data Management and Control Authority",
+                "Digital Multimedia Content Assessment",
+                "Digital Millennium Copyright Act"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The DMCA is a US copyright law that governs the use of digital copyrighted material online, protecting intellectual property rights.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1794,
+            "question_text": "In the context of email security and transmission, what function does an SPF (Sender Policy Framework) record perform?",
+            "options": [
+                "To guarantee end-to-end decryption for the recipient only.",
+                "To prevent spam by verifying the sending IP address's authorized sender list.",
+                "To block all unauthorized external recipients from receiving mail.",
+                "To encrypt the entire body and headers of the email message."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SPF records are DNS entries that specify which IP addresses are authorized to send email on behalf of a domain, mitigating email spoofing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1795,
+            "question_text": "Which acronym represents the process of converting digital data into an unreadable format to protect sensitive information, often required for compliance like GDPR or PCI DSS?",
+            "options": [
+                "Authorization",
+                "Decryption",
+                "Authentication",
+                "Encryption"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Encryption is the process of scrambling data to make it unreadable without the correct key, ensuring confidentiality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1895,
+            "question_text": "Which abbreviation represents the process of converting a physical key into digital security protocols, often used in network access control?",
+            "options": [
+                "MAC",
+                "PKI",
+                "VPN",
+                "API"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Public Key Infrastructure (PKI) manages keys and certificates for secure communication and identity verification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1897,
+            "question_text": "What is the primary function of a Firewall in a computer network?",
+            "options": [
+                "Encrypting data for transmission over insecure networks.",
+                "Removing malicious software (malware) from infected devices.",
+                "Increasing the overall processing speed of a computer system.",
+                "Monitoring and controlling incoming and outgoing network traffic based on predetermined security rules."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A firewall acts as a barrier, filtering traffic and allowing only authorized data packets to pass.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1995,
+            "question_text": "In email communication, what protocol is used to retrieve email messages from a mail server to a client application, supporting modern security standards?",
+            "options": [
+                "SMTP (Simple Mail Transfer Protocol)",
+                "IMAP (Internet Message Access Protocol)",
+                "HTTP (Hypertext Transfer Protocol)",
+                "POP3 (Post Office Protocol 3)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IMAP allows users to manage emails remotely across multiple devices by syncing changes with the server, making it superior to POP3 for modern use.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2058,
+            "question_text": "In the context of cyber security, what does 'DDoS' primarily refer to?",
+            "options": [
+                "Digital Data Oversight System",
+                "Disaster Disaster Operation System",
+                "Distributed Denial of Service",
+                "Deep Detection Output Standard"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "DDoS attacks aim to overload a server or network resource with excessive traffic from multiple sources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2159,
+            "question_text": "In networking, what does 'DNS' primarily resolve and what is its function?",
+            "options": [
+                "Distributed Node Service; controls the flow of information packets",
+                "Data Network Service; manages data transmission across networks",
+                "Domain Name System; translates domain names to IP addresses",
+                "Digital Number Scheme; defines unique identifiers for hardware"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "DNS is the directory service that translates human-readable domain names (like example.com) into machine-readable IP addresses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2209,
+            "question_text": "In networking security, what does the term 'DDoS' refer to, which is a common cyber threat faced by organizations?",
+            "options": [
+                "Dynamic Data Stream",
+                "Distributed Denial of Service",
+                "Data Detection System",
+                "Digital Disaster Sphere"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DDoS is an attack that overwhelms a network with massive amounts of traffic from multiple sources, making it unavailable to legitimate users.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2469,
+            "question_text": "In the context of networking and abbreviations, what does 'VPN' primarily stand for and what is its core function?",
+            "options": [
+                "Virtual Private Number, used for telephony routing protocols",
+                "Virtual Private Network, providing encrypted communication over public networks",
+                "Verify Packet Name, ensuring data integrity at the physical layer",
+                "Very Processed Node, handling routing in local area networks"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "VPN uses encryption and tunneling to create a secure, private connection over the internet, masking the user's true IP address.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2569,
+            "question_text": "Which abbreviation refers to the common practice of sending fraudulent emails that appear to come from reputable sources?",
+            "options": [
+                "Whaling",
+                "Spoofing",
+                "Phishing",
+                "Vishing"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Phishing is the act of acquiring sensitive information (like passwords) via deceptive emails or websites.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2619,
+            "question_text": "What does the acronym 'CIA Triad' represent in the context of information security?",
+            "options": [
+                "Client Identity Authentication, Authorization, Access",
+                "Cyber Incident Analysis, Continuous Improvement, Audit",
+                "Confidentiality, Integrity, Availability",
+                "Computer Integrity Assurance, Analysis, Architecture"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The CIA Triad is the foundational model for information security, focusing on keeping data private (Confidentiality), accurate (Integrity), and accessible (Availability).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3130,
+            "question_text": "Which abbreviation refers to the common protocol used to securely transfer data over the internet, often used for logging into secure websites?",
+            "options": [
+                "HTTP",
+                "FTP",
+                "SFTP",
+                "HTTPS"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "HTTPS (Hypertext Transfer Protocol Secure) is the encrypted version of HTTP, ensuring secure data transmission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3650,
+            "question_text": "Which of the following cryptographic concepts ensures that even if a message is intercepted, an attacker cannot read its content without the secret key?",
+            "options": [
+                "Encryption",
+                "Authentication",
+                "Integrity Check",
+                "Hashing"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Encryption is the process of converting plaintext into ciphertext, making it unreadable without the corresponding decryption key.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4101,
+            "question_text": "Which type of attack involves intercepting communication between two parties and potentially modifying the data without their knowledge?",
+            "options": [
+                "Man-in-the-Middle (MITM)",
+                "DDoS",
+                "Spoofing",
+                "Phishing"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "MITM attacks involve secretly positioning oneself between two communicating parties to intercept or alter data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5933,
+            "question_text": "When receiving an email, what protocol is commonly used by email clients (like Outlook or Thunderbird) to download and store emails on the local machine, requiring periodic synchronization?",
+            "options": [
+                "SSH",
+                "IMAP",
+                "POP3",
+                "SMTP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IMAP (Internet Message Access Protocol) allows users to access and manage emails across multiple devices, keeping the mail stored primarily on the server.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6033,
+            "question_text": "In email communication, what does the 'BCC' field stand for, and what is its primary function?",
+            "options": [
+                "Best Copy; it ensures the recipient receives the highest quality version of the attachment.",
+                "Bulk Contact Center; it is a directory service used only by corporate email systems.",
+                "Broadcast Copy; it is used for sending mass emails to all contacts simultaneously.",
+                "Blind Carbon Copy; it sends copies of the email without visible recipients."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "BCC sends copies discreetly, preventing recipients listed in the 'To' or 'CC' fields from knowing their addresses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6107,
+            "question_text": "When sending an email, which protocol is primarily used to retrieve emails from a mail server to the client?",
+            "options": [
+                "FTP",
+                "SMTP",
+                "POP3",
+                "IMAP"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While POP3 downloads emails and removes them, IMAP synchronizes emails across multiple devices, allowing access to the server state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6108,
+            "question_text": "In the context of networking and data transfer, what does the acronym 'VPN' primarily refer to?",
+            "options": [
+                "Virtual Private Network",
+                "Very Public Node",
+                "Video Point Network",
+                "Verification Protocol Number"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "VPN creates a secure, encrypted connection over a less secure network, making data transmission private.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6174,
+            "question_text": "In the context of email security, which type of attack involves intercepting network traffic between two parties to steal sensitive information like passwords or session cookies?",
+            "options": [
+                "Malware attack",
+                "Man-in-the-Middle (MITM) attack",
+                "Phishing attack",
+                "DDoS attack"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "MITM attacks involve an attacker secretly relaying and potentially altering the communication between two parties, allowing interception.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6175,
+            "question_text": "In the context of network security, what does the acronym 'DDoS' stand for, and what type of threat does it primarily pose?",
+            "options": [
+                "Digital Data Stream; rapid transfer of large amounts of information",
+                "Deep Detection System; monitoring network traffic anomalies",
+                "Dynamic Domain System; managing multiple network endpoints",
+                "Distributed Denial of Service; overwhelming a server with traffic"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "DDoS attacks involve multiple compromised systems flooding a target server, making it unavailable to legitimate users.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6247,
+            "question_text": "In the context of email security, what mechanism encrypts the email content and ensures that only the intended recipient can read it, even if intercepted?",
+            "options": [
+                "TLS (Transport Layer Security)",
+                "SPF (Sender Policy Framework)",
+                "DMARC (Domain-based Message Authentication, Reporting, and Conformance)",
+                "PGP (Pretty Good Privacy)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "PGP is an end-to-end encryption standard used to encrypt the message content itself, ensuring confidentiality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6248,
+            "question_text": "Which cryptographic technique is primarily used to ensure the authenticity and integrity of digital messages by creating a unique, fixed-length output based on input data?",
+            "options": [
+                "Digital Signing",
+                "Hashing",
+                "Encryption",
+                "Key Exchange"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hashing functions create a message digest (hash value) that verifies data integrity. Digital signing uses hashing along with private keys.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6329,
+            "question_text": "In networking terminology, an acronym used to describe a computer network that covers a limited geographical area, such as a single office building or campus, is:",
+            "options": [
+                "WAN",
+                "LAN",
+                "PAN",
+                "MAN"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "LAN stands for Local Area Network, covering a limited area like an office or campus. WAN covers large geographical areas, while MAN covers a metropolitan area, and PAN covers a personal area.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6408,
+            "question_text": "The common abbreviation for the World Wide Web, used in email addresses and URLs, is:",
+            "options": [
+                "HTML",
+                "WWW",
+                "FTP",
+                "HTTP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "WWW stands for World Wide Web, which is the system of interlinked hypertext documents accessed via the internet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6474,
+            "question_text": "Which acronym represents the global standard for secure networking and encryption protocols?",
+            "options": [
+                "SMTP",
+                "FTP",
+                "SSL",
+                "HTTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SSL (Secure Sockets Layer) and its successor, TLS, is the protocol that encrypts data exchanged between a web server and a client, ensuring secure and private transmission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6552,
+            "question_text": "Which standard service translates human-readable domain names (like google.com) into corresponding numerical IP addresses?",
+            "options": [
+                "HTTP",
+                "SMTP",
+                "FTP",
+                "DNS"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "DNS (Domain Name System) acts as the internet's phonebook, mapping domain names to IP addresses required for network communication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6553,
+            "question_text": "A malicious cyber attack that involves impersonating a legitimate entity (like a bank or government body) via email or text message to trick individuals into revealing confidential information is known as:",
+            "options": [
+                "Phishing",
+                "DDoS",
+                "Ransomware",
+                "Spyware"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Phishing is the primary method used by attackers to steal credentials by masquerading as a trustworthy source.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6554,
+            "question_text": "Which term refers to malicious software designed to block access to a computer system or specific files until a sum of money is paid?",
+            "options": [
+                "Ransomware",
+                "Adware",
+                "Rootkit",
+                "Spyware"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ransomware is malicious software that encrypts a victim's files, demanding a ransom payment for decryption. Spyware monitors activity, and Adware displays unwanted advertisements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6616,
+            "question_text": "Which networking device is used to connect different networks (e.g., connecting a private office network to the public internet) by forwarding data based on IP addresses?",
+            "options": [
+                "Switch",
+                "Router",
+                "Repeater",
+                "Hub"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A router connects dissimilar networks and determines the best path for data packets using IP addresses to reach their destination network.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6617,
+            "question_text": "Which concept refers to limiting access to information or services based on a user's permissions and credentials?",
+            "options": [
+                "Firewall Rule Setting",
+                "Virtual Private Network (VPN)",
+                "Authentication and Authorization",
+                "Phishing"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Authentication verifies identity, while Authorization dictates what resources an authenticated user is allowed to access.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6618,
+            "question_text": "What does the acronym DNS stand for in the context of internet infrastructure?",
+            "options": [
+                "Domain Name System",
+                "Distributed Network Setup",
+                "Digital Network Services",
+                "Data Navigation Structure"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "DNS translates human-readable domain names (like google.com) into numerical IP addresses that computers use to locate resources on the internet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6695,
+            "question_text": "In the context of digital forensics and data recovery, what does 'ACL' primarily restrict or define?",
+            "options": [
+                "The physical location of stored data backups.",
+                "The speed of data encryption and decryption.",
+                "The types of users who can access specific resources.",
+                "The network bandwidth capacity for a system."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "ACL (Access Control List) defines the permissions and rules for users (read, write, execute) regarding access to files or directories.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6697,
+            "question_text": "What security threat involves intercepting communication between two parties who believe they are communicating directly?",
+            "options": [
+                "MITM",
+                "SQL Injection",
+                "DDoS",
+                "Brute Force Attack"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "MITM stands for Man-in-the-Middle, describing an attack where an unauthorized party intercepts and potentially alters communication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6773,
+            "question_text": "Which cryptographic method uses a pair of keys (public and private) for encryption and decryption, ensuring that the sender's public key can encrypt and only the intended recipient's private key can decrypt?",
+            "options": [
+                "Asymmetric Cryptography",
+                "Hashing",
+                "Symmetric Cryptography",
+                "Digital Signatures"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Asymmetric cryptography (Public Key Infrastructure) uses a mathematically linked pair of keys—a public key for encryption and a private key for decryption—unlike symmetric methods which use a single shared key.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6845,
+            "question_text": "What protocol is mandatory for establishing secure communications, such as online banking or accessing sensitive academic portals?",
+            "options": [
+                "HTTP",
+                "HTTPS",
+                "SMTP",
+                "FTP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "HTTPS (Hypertext Transfer Protocol Secure) uses SSL/TLS encryption, ensuring that data transmitted over the web is confidential and secure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6846,
+            "question_text": "What does the acronym DNS, a critical internet protocol, stand for, and what is its primary function?",
+            "options": [
+                "Data Node Standard; verifies user credentials.",
+                "Digital Network Service; manages data packets.",
+                "Domain Name System; translates domain names into IP addresses.",
+                "Direct Network Synchronization; optimizes bandwidth."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "DNS translates the human-readable domain names (like google.com) into machine-readable numerical IP addresses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

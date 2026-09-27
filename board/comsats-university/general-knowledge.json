@@ -1,0 +1,361 @@
+{
+    "category": "COMSATS University",
+    "name": "General Knowledge",
+    "board": "comsats-university",
+    "subject": "general-knowledge",
+    "url": "/comsats-university/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 25,
+    "questions": [
+        {
+            "id": 12320,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mars is known as the Red Planet due to the prevalence of iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12321,
+            "question_text": "Who is considered the founder of modern Economics?",
+            "options": [
+                "Karl Marx",
+                "Adam Smith",
+                "John Maynard Keynes",
+                "Milton Friedman"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Adam Smith is widely cited as the father of modern economics, particularly for his book 'The Wealth of Nations'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12322,
+            "question_text": "Which is the largest ocean on Earth?",
+            "options": [
+                "Atlantic",
+                "Indian",
+                "Pacific",
+                "Arctic"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12323,
+            "question_text": "Who was the first person to step on the moon?",
+            "options": [
+                "Buzz Aldrin",
+                "Neil Armstrong",
+                "Yuri Gagarin",
+                "John Glenn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Neil Armstrong was the commander of Apollo 11 and the first to walk on the moon in 1969.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12324,
+            "question_text": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plants take in carbon dioxide and release oxygen during photosynthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12325,
+            "question_text": "What is the capital city of Australia?",
+            "options": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Perth"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Canberra is the capital city of Australia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12326,
+            "question_text": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "Gold",
+                "Oxygen",
+                "Osmium",
+                "Silver"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "O is the symbol for Oxygen on the periodic table.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12327,
+            "question_text": "Who painted the Mona Lisa?",
+            "options": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Claude Monet"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Mona Lisa is a 16th-century oil painting created by Leonardo da Vinci.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12328,
+            "question_text": "Which currency is used in Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Dollar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Japanese Yen is the official currency of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12329,
+            "question_text": "What is the longest river in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile is generally considered the longest river in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12330,
+            "question_text": "Which organ in the human body is primarily responsible for filtering blood?",
+            "options": [
+                "Heart",
+                "Liver",
+                "Kidneys",
+                "Lungs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The kidneys filter blood to remove waste and excess water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12331,
+            "question_text": "Which international organization is headquartered in Geneva, Switzerland?",
+            "options": [
+                "United Nations",
+                "World Health Organization",
+                "World Bank",
+                "NATO"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The WHO is headquartered in Geneva.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12332,
+            "question_text": "Which layer of the Earth's atmosphere contains the ozone layer?",
+            "options": [
+                "Troposphere",
+                "Stratosphere",
+                "Mesosphere",
+                "Thermosphere"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ozone layer is primarily found within the Stratosphere, approximately 15 to 35 km above Earth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12333,
+            "question_text": "Who is known as the 'Father of Computer Science'?",
+            "options": [
+                "Nikola Tesla",
+                "Alan Turing",
+                "Charles Babbage",
+                "Bill Gates"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Alan Turing is widely considered the father of theoretical computer science and artificial intelligence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12334,
+            "question_text": "Which country is the largest producer of coffee in the world?",
+            "options": [
+                "Colombia",
+                "Vietnam",
+                "Brazil",
+                "Ethiopia"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Brazil has been the world's largest producer of coffee beans for over 150 years.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13459,
+            "question_text": "Who is the current Secretary-General of the United Nations as of 2024?",
+            "options": [
+                "Ban Ki-moon",
+                "Kofi Annan",
+                "António Guterres",
+                "Tedros Adhanom"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "António Guterres has been serving as the Secretary-General of the UN since 2017.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13460,
+            "question_text": "Which country is known as the 'Land of the Rising Sun'?",
+            "options": [
+                "China",
+                "Japan",
+                "South Korea",
+                "Thailand"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Japan is geographically located to the east of Asian countries, hence the name.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13461,
+            "question_text": "Which river is the longest in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile is widely considered the longest river on Earth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13465,
+            "question_text": "What is the currency of Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Ringgit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Japanese Yen is the official currency of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13466,
+            "question_text": "Which layer of Earth's atmosphere contains the ozone layer?",
+            "options": [
+                "Troposphere",
+                "Stratosphere",
+                "Mesosphere",
+                "Thermosphere"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ozone layer is located within the stratosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13467,
+            "question_text": "Which planet has the most moons?",
+            "options": [
+                "Jupiter",
+                "Saturn",
+                "Mars",
+                "Neptune"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "As of recent discoveries, Saturn has the highest number of confirmed moons.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13468,
+            "question_text": "What is the hardest natural substance on Earth?",
+            "options": [
+                "Gold",
+                "Iron",
+                "Diamond",
+                "Quartz"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Diamond is known for its exceptional hardness compared to other natural minerals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13469,
+            "question_text": "Who is the founder of Microsoft?",
+            "options": [
+                "Steve Jobs",
+                "Bill Gates",
+                "Mark Zuckerberg",
+                "Elon Musk"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Bill Gates co-founded Microsoft in 1975.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13470,
+            "question_text": "Which international organization is headquartered in Geneva?",
+            "options": [
+                "United Nations",
+                "World Health Organization",
+                "World Bank",
+                "IMF"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The WHO headquarters is located in Geneva, Switzerland.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13471,
+            "question_text": "What is the capital of Canada?",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montreal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ottawa is the national capital of Canada.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "category": "Milestone Institute of Arts and Sciences",
+    "name": "Mathematics and Quantitative Reasoning",
+    "board": "milestone-institute-of-arts-and-sciences",
+    "subject": "mathematics-and-quantitative-reasoning",
+    "url": "/milestone-institute-of-arts-and-sciences/mathematics-and-quantitative-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 13334,
+            "question_text": "If the price of a laptop is increased by 20% and then decreased by 20%, what is the net percentage change in the price?",
+            "options": [
+                "0%",
+                "2% decrease",
+                "4% increase",
+                "4% decrease"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Let the initial price be 100. After a 20% increase, it becomes 120. A 20% decrease on 120 is 24 (120 * 0.20 = 24). 120 - 24 = 96. The change from 100 to 96 is a 4% decrease.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13335,
+            "question_text": "A man can finish a task in 10 days, and his son can finish the same task in 15 days. How long will they take if they work together?",
+            "options": [
+                "5 days",
+                "6 days",
+                "7.5 days",
+                "8 days"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the formula (A*B)/(A+B): (10*15) / (10+15) = 150 / 25 = 6 days.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13336,
+            "question_text": "If a triangle has sides of 3cm, 4cm, and 5cm, what is its area?",
+            "options": [
+                "6 sq cm",
+                "10 sq cm",
+                "12 sq cm",
+                "7.5 sq cm"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is a right-angled triangle (3^2+4^2=5^2). Area = 0.5 * base * height = 0.5 * 3 * 4 = 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13337,
+            "question_text": "What is the value of x if 3x + 7 = 22?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "3x = 22 - 7; 3x = 15; x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13338,
+            "question_text": "A store sells a shirt for $40 after a 20% discount. What was the original price?",
+            "options": [
+                "$48",
+                "$50",
+                "$52",
+                "$60"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Original price * 0.8 = 40; Original price = 40 / 0.8 = 50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13339,
+            "question_text": "What is the next number in the sequence: 2, 6, 12, 20, 30, ...?",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The gaps increase by 2: +4, +6, +8, +10. The next gap is +12. 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13340,
+            "question_text": "If 5 workers can build a wall in 8 days, how many days will 10 workers take to build the same wall?",
+            "options": [
+                "4 days",
+                "6 days",
+                "16 days",
+                "2 days"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is an inverse proportion. 5*8 = 10*x; 40 = 10x; x = 4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13341,
+            "question_text": "What is the average of the first five prime numbers?",
+            "options": [
+                "5",
+                "5.6",
+                "6.2",
+                "6"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Prime numbers: 2, 3, 5, 7, 11. Sum = 28. Average = 28 / 5 = 5.6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13342,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "0.15 * 200 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13343,
+            "question_text": "If the diameter of a circle is 10cm, what is its circumference? (Use pi = 3.14)",
+            "options": [
+                "15.7 cm",
+                "31.4 cm",
+                "62.8 cm",
+                "78.5 cm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Circumference = pi * diameter = 3.14 * 10 = 31.4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13344,
+            "question_text": "Calculate: (12 * 5) - (8 * 3) + 4.",
+            "options": [
+                "40",
+                "44",
+                "52",
+                "60"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "60 - 24 + 4 = 40.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13345,
+            "question_text": "Solve for x: x^2 - 9 = 0.",
+            "options": [
+                "3",
+                "-3",
+                "3 or -3",
+                "9"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "x^2 = 9; x = sqrt(9), which is both 3 and -3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13346,
+            "question_text": "If a rectangle has a length of 12m and a diagonal of 13m, what is its perimeter?",
+            "options": [
+                "34m",
+                "25m",
+                "17m",
+                "60m"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Using the Pythagorean theorem, width^2 + 12^2 = 13^2, so width = 5. Perimeter = 2*(12+5) = 34.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13347,
+            "question_text": "A box contains 5 red, 3 blue, and 2 green marbles. What is the probability of picking a blue marble?",
+            "options": [
+                "0.2",
+                "0.3",
+                "0.5",
+                "0.8"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Total marbles = 10. Blue marbles = 3. Probability = 3/10 = 0.3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

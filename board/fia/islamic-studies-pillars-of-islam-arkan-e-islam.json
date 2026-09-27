@@ -1,0 +1,109 @@
+{
+    "category": "FIA",
+    "name": "Islamic Studies — Pillars of Islam (Arkan-e-Islam)",
+    "board": "fia",
+    "subject": "islamic-studies-pillars-of-islam-arkan-e-islam",
+    "url": "/fia/islamic-studies-pillars-of-islam-arkan-e-islam/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 1625,
+            "question_text": "Which Surah of the Quran is known for its deep reflection on the concept of human accountability and the Day of Judgment, often being studied in relation to ultimate Divine justice?",
+            "options": [
+                "Surah Al-Baqarah",
+                "Surah An-Nas",
+                "Surah Al-Infitar",
+                "Surah Al-Qari'ah"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Al-Qari'ah ('The Calamity') vividly describes the signs and events of the Day of Judgment, focusing on human deeds being weighed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1626,
+            "question_text": "If a candidate needs to identify the primary theme of Surah Yusuf (Joseph) in terms of moral lessons and prophetic narratives, which concept is most prominently featured?",
+            "options": [
+                "Rules governing inheritance and social contracts.",
+                "Genealogical details of the Prophet Muhammad's family tree.",
+                "Detailed descriptions of Islamic rituals like prayer and fasting.",
+                "The importance of patience (Sabr) and overcoming treachery through divine help."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The narrative of Prophet Yusuf emphasizes themes of betrayal, patience, resilience, and divine providence leading to success.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1627,
+            "question_text": "What key strategic event immediately preceded the Battle of Khandaq (Trench)?",
+            "options": [
+                "The refusal of the Jewish tribes (Yathrib) to surrender fully.",
+                "The successful raid by the Muslim forces on the enemy camp.",
+                "The Battle of Uhud, which weakened the Meccan army's resolve.",
+                "The siege and blockade of Medina by the confederates."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Battle of Khandaq was the result of a comprehensive siege and blockade of Medina by the combined forces of the Quraysh and other tribes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1927,
+            "question_text": "Which Quranic Surah is primarily known for its detailed guidance on the oneness of Allah (Tawhid) and serves as a fundamental theological pillar in Islam?",
+            "options": [
+                "Surah Al-Fatiha",
+                "Surah Al-Falaq",
+                "Surah Al-Ikhlas",
+                "Surah An-Nas"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Surah Al-Ikhlas dedicates itself entirely to defining Allah's uniqueness and absolute oneness (Tawhid), stating 'Say He is Allah, the One'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1928,
+            "question_text": "In which battle did the incident involving the Prophet's reliance on the wisdom of his companions, particularly regarding military strategy, become evident?",
+            "options": [
+                "The Battle of Hunayn",
+                "The Battle of Khandaq",
+                "The Battle of Uhud",
+                "The Battle of Badr"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Battle of Khandaq saw the strategic defense utilizing a trench (Khandaq), demonstrating the need for collective planning against overwhelming forces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2996,
+            "question_text": "Which major battle following the establishment of the Muslim community in Madinah is famously known as the 'Ditch' battle, where trench warfare was employed to defend the city?",
+            "options": [
+                "Uhud",
+                "Badr",
+                "Hunayn",
+                "Khandaq"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Battle of Khandaq (Trench) is significant because the Muslims dug a defensive trench, successfully repelling a coalition army from the outside.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6129,
+            "question_text": "Which Quranic Surah is often known as the 'heart of the Quran' due to its comprehensive discussion on fundamental tenets of faith, law, and divine commandments?",
+            "options": [
+                "Surah Yusuf",
+                "Surah Al-Baqarah",
+                "Surah An-Nisa",
+                "Surah Muhammad"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Surah Al-Baqarah is the longest Surah and addresses foundational topics like prayer, fasting, and family law, making it exceptionally comprehensive.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

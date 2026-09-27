@@ -1,0 +1,151 @@
+{
+    "category": "ACT",
+    "name": "English Test",
+    "board": "act",
+    "subject": "english-test",
+    "url": "/act/english-test/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 9421,
+            "question_text": "Which of these best describes the primary goal of the ACT English Test?",
+            "options": [
+                "It tests your ability to write creative essays from scratch.",
+                "It measures your skill in editing and revising short texts.",
+                "It focuses on memorizing complex grammar rules.",
+                "It asks you to rewrite entire historical novels."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test measures your ability to make decisions to revise and edit short texts and essays in different genres.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9422,
+            "question_text": "What is the time limit for the English Test section?",
+            "options": [
+                "40 minutes",
+                "50 minutes",
+                "35 minutes",
+                "30 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The English Test is designed to be completed in 35 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9423,
+            "question_text": "What is the main purpose of the ACT English Test?",
+            "options": [
+                "To test your ability to read and understand complex literature.",
+                "To evaluate your skill in revising and editing short texts and essays.",
+                "To measure your knowledge of historical English documents.",
+                "To assess your speed in writing creative stories."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The English Test is specifically designed to measure a student's ability to edit and revise various texts for clarity and correctness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9424,
+            "question_text": "How many minutes are allotted for the English Test?",
+            "options": [
+                "35 minutes",
+                "45 minutes",
+                "50 minutes",
+                "40 minutes"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The ACT website states that the English Test is 35 minutes long.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9425,
+            "question_text": "Which of the following is evaluated in the ACT English Test?",
+            "options": [
+                "Ability to speak in public",
+                "Knowledge of classical poetry",
+                "Decision-making for editing texts in different genres",
+                "Memorization of English grammar rules"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The English section measures your ability to make decisions to revise and edit short texts and essays in different genres.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9426,
+            "question_text": "What is the primary focus of the ACT English Test?",
+            "options": [
+                "Solving complex mathematical equations",
+                "Evaluating and editing short texts and essays",
+                "Memorizing historical dates and figures",
+                "Analyzing scientific experiments"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The English Test specifically measures a student's ability to edit and revise texts in various genres.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9427,
+            "question_text": "How much time do students have to complete the English Test?",
+            "options": [
+                "35 minutes",
+                "40 minutes",
+                "50 minutes",
+                "60 minutes"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The ACT English Test is designed to be completed within a 35-minute timeframe.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9428,
+            "question_text": "Which of the following is true regarding the English Test?",
+            "options": [
+                "It covers advanced calculus.",
+                "It is an optional section.",
+                "It requires knowledge of various editing genres.",
+                "It is exclusively focused on poetry analysis."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The test measures editing and revision skills across different genres of text.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9429,
+            "question_text": "How many questions are included in the English Test section?",
+            "options": [
+                "36",
+                "40",
+                "45",
+                "50"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The ACT English Test contains 50 questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9430,
+            "question_text": "What type of skills does the ACT English Test evaluate?",
+            "options": [
+                "Writing and editing proficiency",
+                "Scientific observation",
+                "Mathematical logical reasoning",
+                "Foreign language translation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The test evaluates your ability to make revision and editing decisions in text.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

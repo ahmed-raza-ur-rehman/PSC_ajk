@@ -1,0 +1,221 @@
+{
+    "category": "COMSATS University",
+    "name": "English Language",
+    "board": "comsats-university",
+    "subject": "english-language",
+    "url": "/comsats-university/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 11941,
+            "question_text": "Which word is an abstract noun?",
+            "options": [
+                "Table",
+                "Courage",
+                "Dog",
+                "City"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Courage represents an idea or quality, not a physical object.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11961,
+            "question_text": "Choose the correct preposition: 'She is interested _____ learning French.'",
+            "options": [
+                "on",
+                "with",
+                "in",
+                "at"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The standard collocation is 'interested in'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12307,
+            "question_text": "Choose the correct synonym for 'Ephemeral'.",
+            "options": [
+                "Lasting",
+                "Fleeting",
+                "Eternal",
+                "Strong"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral refers to something lasting for a very short time, which is synonymous with fleeting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12308,
+            "question_text": "Identify the error: 'She don't like to walk in the rain.'",
+            "options": [
+                "She",
+                "don't",
+                "like",
+                "in the rain"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject 'She' is singular, so it requires the verb 'doesn't' instead of 'don't'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12309,
+            "question_text": "Choose the correct antonym for 'Benevolent'.",
+            "options": [
+                "Kind",
+                "Malicious",
+                "Generous",
+                "Friendly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means kind/charitable, so malicious is the opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12310,
+            "question_text": "Identify the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Accommodation is spelled with two c's and two m's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12311,
+            "question_text": "Fill in the blank: 'He has been working here _____ 2015.'",
+            "options": [
+                "for",
+                "since",
+                "in",
+                "from"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Since' is used for a specific starting point in time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12312,
+            "question_text": "Choose the sentence with correct grammar.",
+            "options": [
+                "Each of the students are happy.",
+                "Each of the students is happy.",
+                "Every students are happy.",
+                "The students is happy."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Each' takes a singular verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12313,
+            "question_text": "What is the synonym of 'Resilient'?",
+            "options": [
+                "Fragile",
+                "Tough",
+                "Weak",
+                "Breakable"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Resilient means able to withstand or recover quickly from difficult conditions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12314,
+            "question_text": "Identify the part of speech for the word 'quickly' in 'He ran quickly'.",
+            "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Verb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quickly describes how the action (ran) was performed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12315,
+            "question_text": "Select the correct collective noun for a group of lions.",
+            "options": [
+                "Pack",
+                "Herd",
+                "Pride",
+                "School"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A group of lions is officially called a pride.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12316,
+            "question_text": "Complete the idiom: 'A blessing in _____.'",
+            "options": [
+                "disguise",
+                "hiding",
+                "secret",
+                "sight"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The idiom is 'a blessing in disguise', meaning a good thing that seems bad initially.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12317,
+            "question_text": "Choose the correct sentence: 'Neither the teacher nor the students _____ present in the class.'",
+            "options": [
+                "was",
+                "were",
+                "has been",
+                "is"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the subject closest to it. 'Students' is plural, so 'were' is used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12318,
+            "question_text": "What is the synonym of 'Meticulous'?",
+            "options": [
+                "Careless",
+                "Thorough",
+                "Quick",
+                "Lazy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Meticulous means showing great attention to detail, which is synonymous with thorough.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12319,
+            "question_text": "Identify the word that is spelled incorrectly.",
+            "options": [
+                "Accommodate",
+                "Separate",
+                "Definately",
+                "Beginning"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling is 'Definitely'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

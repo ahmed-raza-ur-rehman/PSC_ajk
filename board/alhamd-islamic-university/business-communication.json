@@ -1,0 +1,179 @@
+{
+    "category": "Alhamd Islamic University",
+    "name": "Business Communication",
+    "board": "alhamd-islamic-university",
+    "subject": "business-communication",
+    "url": "/alhamd-islamic-university/business-communication/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12369,
+            "question_text": "Which of the following is considered a 'non-verbal' form of communication?",
+            "options": [
+                "A formal business letter",
+                "A telephonic conversation",
+                "Body language and facial expressions",
+                "An email report"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Non-verbal communication refers to the transmission of messages through cues other than words, such as posture or gestures.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12370,
+            "question_text": "What is the primary purpose of a memo in a business setting?",
+            "options": [
+                "To advertise products to the public",
+                "To provide internal updates or directives to employees",
+                "To draft a legal contract",
+                "To send a formal proposal to a client"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Memos (memorandums) are documents primarily used for internal communication within an organization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12371,
+            "question_text": "What is the 'Seven Cs' principle of communication that refers to being clear and avoiding unnecessary words?",
+            "options": [
+                "Conciseness",
+                "Completeness",
+                "Courtesy",
+                "Correctness"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Conciseness means expressing a message using the fewest words possible without losing the meaning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12426,
+            "question_text": "Which of the following is an example of 'internal' business communication?",
+            "options": [
+                "Press release",
+                "Company newsletter for employees",
+                "Sales proposal to a client",
+                "Annual report to shareholders"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Internal communication occurs within the organization, such as memos or newsletters directed at employees.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12427,
+            "question_text": "What is the primary role of active listening?",
+            "options": [
+                "To plan your response while the other person speaks",
+                "To fully concentrate, understand, and respond to the speaker",
+                "To interrupt the speaker to correct mistakes",
+                "To focus solely on the body language"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Active listening requires full engagement to ensure the message is correctly understood before responding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12428,
+            "question_text": "What is a major advantage of oral communication?",
+            "options": [
+                "It provides a permanent record",
+                "It allows for immediate feedback and clarification",
+                "It is always more professional than writing",
+                "It requires less preparation time"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Oral communication allows for real-time interaction, allowing parties to clarify points immediately.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12429,
+            "question_text": "Which barrier to communication occurs when the receiver has a different interpretation of a word than the sender?",
+            "options": [
+                "Physical barrier",
+                "Semantic barrier",
+                "Psychological barrier",
+                "Technical barrier"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Semantic barriers arise from misunderstandings of words, symbols, or language usage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12430,
+            "question_text": "In the communication process, what is 'decoding'?",
+            "options": [
+                "The process of writing a message",
+                "The translation of symbols into meaning by the receiver",
+                "The feedback provided by the receiver",
+                "The selection of a medium for the message"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Decoding is the process by which the receiver interprets the sender's message.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12431,
+            "question_text": "Which of the following is considered a 'Semantic' barrier to communication?",
+            "options": [
+                "Background noise",
+                "Use of overly technical jargon",
+                "A broken microphone",
+                "Lack of time to respond"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Semantic barriers occur when the words or symbols used carry different meanings to different people, such as technical jargon.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12432,
+            "question_text": "What is the primary advantage of a written communication over oral communication?",
+            "options": [
+                "It is faster",
+                "It provides a permanent record",
+                "It allows for immediate feedback",
+                "It is more personal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Written communication creates a verifiable, long-term record that can be referenced later.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12433,
+            "question_text": "What does it mean for a message to be 'Concise'?",
+            "options": [
+                "To include as much detail as possible",
+                "To be grammatically perfect",
+                "To use the fewest words possible without sacrificing meaning",
+                "To use highly emotional language"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Conciseness involves delivering the message using only the necessary information to keep the reader's attention.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12434,
+            "question_text": "Which communication channel is most appropriate for a complex, confidential performance review?",
+            "options": [
+                "Email",
+                "A post on the company intranet",
+                "Face-to-face meeting",
+                "A generic memo"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Face-to-face communication is ideal for sensitive or confidential matters because it allows for immediate non-verbal feedback and ensures privacy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

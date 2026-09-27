@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Accounting",
+    "board": "aqa",
+    "subject": "accounting",
+    "url": "/aqa/accounting/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8812,
+            "question_text": "What is the primary purpose of a Balance Sheet?",
+            "options": [
+                "To show profit and loss over a period",
+                "To show the financial position at a specific date",
+                "To record all daily cash transactions",
+                "To list only the debts owed to the business"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Balance Sheet acts as a snapshot of what a business owns (assets) and owes (liabilities) at a single point in time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8813,
+            "question_text": "What is the primary function of a Balance Sheet?",
+            "options": [
+                "To show profit over a period",
+                "To list assets, liabilities, and equity at a specific point in time",
+                "To track daily cash transactions",
+                "To outline future business strategy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Balance Sheet provides a snapshot of a business's financial position at a specific date, showing what it owns and owes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8814,
+            "question_text": "What is the primary goal of preparing a Balance Sheet?",
+            "options": [
+                "To show the company's profit or loss over time",
+                "To provide a snapshot of assets, liabilities, and equity at a specific date",
+                "To track daily cash transactions",
+                "To calculate the total tax owed by a business"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Balance Sheet acts as a financial 'snapshot' showing what a business owns (assets) and owes (liabilities) on a certain day.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8815,
+            "question_text": "Which of the following is considered a non-current asset?",
+            "options": [
+                "Inventory",
+                "Cash in hand",
+                "Machinery",
+                "Accounts payable"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Machinery is a long-term asset used to produce goods, not meant for immediate sale, unlike inventory or cash.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

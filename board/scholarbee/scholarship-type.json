@@ -1,0 +1,151 @@
+{
+    "category": "Scholarbee",
+    "name": "Scholarship Type",
+    "board": "scholarbee",
+    "subject": "scholarship-type",
+    "url": "/scholarbee/scholarship-type/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11548,
+            "question_text": "Which of the following is typically categorized under 'Scholarship Type' in a search portal?",
+            "options": [
+                "Merit-based",
+                "Monthly recurring",
+                "USD currency",
+                "Currently open"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Merit-based is a classification of scholarship criteria, which defines the 'Type' of award.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11549,
+            "question_text": "What does a 'Need-based' scholarship filter indicate in the Scholarbee portal?",
+            "options": [
+                "Awards based on athletic performance",
+                "Awards granted based on financial circumstances",
+                "Awards only for international students",
+                "Awards requiring a specific GPA"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Need-based scholarships are specifically designed to assist students who demonstrate financial necessity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11550,
+            "question_text": "A scholarship based exclusively on academic achievement, such as high GPA, is known as a:",
+            "options": [
+                "Merit-based scholarship",
+                "Need-based scholarship",
+                "Athletic scholarship",
+                "Fellowship"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Merit-based awards are granted based on a student's academic, artistic, or athletic achievements rather than financial need.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11551,
+            "question_text": "What does a 'Fellowship' usually imply in the context of Scholarship Types?",
+            "options": [
+                "Undergraduate tuition aid",
+                "Financial support for research or academic study",
+                "Emergency student loans",
+                "A discount on campus bookstore items"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fellowships are typically awarded to support advanced study or research projects at the postgraduate or doctoral level.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11552,
+            "question_text": "If a scholarship requires proof of family income to qualify, it is classified as:",
+            "options": [
+                "Merit-based",
+                "Need-based",
+                "Extracurricular-based",
+                "Regional"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Need-based scholarships are specifically designed to assist students who demonstrate financial necessity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11553,
+            "question_text": "Which type of scholarship is primarily awarded to students demonstrating exceptional ability in competitive sports?",
+            "options": [
+                "Athletic scholarship",
+                "Merit scholarship",
+                "Professional fellowship",
+                "Institutional grant"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Athletic scholarships are provided by institutions to students who show high-level proficiency in sports.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11554,
+            "question_text": "A scholarship that requires the recipient to complete a specific project or community service is often referred to as:",
+            "options": [
+                "Service-Learning Award",
+                "Merit-only award",
+                "Loan forgiveness",
+                "Travel grant"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Service-Learning Awards mandate that students contribute to a project or community goal as a condition of receiving funds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11555,
+            "question_text": "Which option represents a grant awarded specifically for cultural or student exchange programs?",
+            "options": [
+                "Exchange Grant",
+                "Merit-based",
+                "Need-based",
+                "Doctoral Fellowship"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Exchange grants are dedicated to students participating in international study abroad or cultural exchange initiatives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11556,
+            "question_text": "What is a 'Grant' in the Scholarbee portal typically synonymous with?",
+            "options": [
+                "A loan that must be repaid",
+                "Non-repayable financial aid",
+                "A tax-deductible investment",
+                "A student membership fee"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Grants, unlike loans, do not require repayment and are a form of gift aid for education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11557,
+            "question_text": "Scholarships awarded specifically to members of underrepresented groups are categorized as:",
+            "options": [
+                "Diversity-based",
+                "Athletic",
+                "Merit-only",
+                "Loan-based"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Diversity-based scholarships aim to promote inclusivity and support groups that are historically underrepresented in higher education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

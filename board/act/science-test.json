@@ -1,0 +1,137 @@
+{
+    "category": "ACT",
+    "name": "Science Test",
+    "board": "act",
+    "subject": "science-test",
+    "url": "/act/science-test/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 9420,
+            "question_text": "How much time do you get for the Science Test?",
+            "options": [
+                "35 minutes",
+                "40 minutes",
+                "50 minutes",
+                "60 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Science Test is allotted 40 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9452,
+            "question_text": "Which subject areas are included in the Science Test?",
+            "options": [
+                "Only Physics and Chemistry.",
+                "Biology, Chemistry, and Earth & Space Sciences.",
+                "Only Biology and Environmental Science.",
+                "Physics, Biology, and Calculus."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Science Test measures skills in biology, chemistry, and Earth & space sciences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9453,
+            "question_text": "Is the Science Test a mandatory section of the ACT?",
+            "options": [
+                "Yes, it is required for every student.",
+                "No, it is an optional add-on.",
+                "Only if you are pursuing a STEM degree.",
+                "Yes, but it does not count toward the composite score."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The science section is an optional add-on and does not affect your Composite score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9454,
+            "question_text": "Which of these scientific fields is NOT directly assessed on the Science Test?",
+            "options": [
+                "Biology",
+                "Chemistry",
+                "Earth & Space Sciences",
+                "Computer Science"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The science section measures reasoning and problem-solving in biology, chemistry, and Earth & space sciences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9456,
+            "question_text": "How many questions are in the Science Test?",
+            "options": [
+                "35 questions",
+                "40 questions",
+                "45 questions",
+                "50 questions"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Science Test contains 40 questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9457,
+            "question_text": "Which fields are assessed in the Science Test?",
+            "options": [
+                "Biology, chemistry, and Earth & space sciences.",
+                "Only physics and biology.",
+                "History, social studies, and politics.",
+                "Advanced computer science and mathematics."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Science Test covers interpretation, analysis, and problem-solving in biology, chemistry, and Earth & space sciences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9458,
+            "question_text": "Is the Science Test mandatory?",
+            "options": [
+                "Yes, for all students.",
+                "No, it is an optional add-on.",
+                "Only for STEM majors.",
+                "Only if you take the Writing test."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Science section is described as an optional add-on section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9459,
+            "question_text": "How many questions are included in the Science Test?",
+            "options": [
+                "36",
+                "40",
+                "45",
+                "50"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Science Test includes 40 questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9460,
+            "question_text": "What does the Science Test measure?",
+            "options": [
+                "Memorization of scientific formulas",
+                "Interpretation, analysis, reasoning, and problem-solving",
+                "Knowledge of laboratory safety procedures",
+                "The ability to conduct a new experiment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The science section measures these specific cognitive skills rather than rote memorization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

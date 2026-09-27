@@ -1,0 +1,221 @@
+{
+    "category": "Northern University",
+    "name": "Academic Eligibility Verification",
+    "board": "northern-university",
+    "subject": "academic-eligibility-verification",
+    "url": "/northern-university/academic-eligibility-verification/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 11298,
+            "question_text": "What is the primary purpose of verifying an applicant's 'Good Academic Standing' status before awarding a Zakat scholarship?",
+            "options": [
+                "To ensure the scholarship funds are invested in capable, performing students",
+                "To reduce the number of students applying",
+                "To check if the student has paid all previous tuition fees",
+                "To identify students who are eligible for athletic scholarships"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Zakat-based scholarships aim to support students who show promise and are maintaining academic progress to ensure degree completion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11299,
+            "question_text": "If an applicant has a disciplinary record on file, how should the Academic Eligibility Verification team proceed?",
+            "options": [
+                "Ignore it, as academic and disciplinary records are unrelated",
+                "Automatically approve the scholarship",
+                "Flag the application for a secondary review by the scholarship board",
+                "Immediately disqualify the applicant without notice"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Disciplinary records are relevant to the character and student conduct requirements often set for university-sponsored financial aid.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11300,
+            "question_text": "What is the primary indicator of 'Academic Potential' for a new student applying for a Zakat scholarship?",
+            "options": [
+                "Extracurricular activities",
+                "Cumulative Grade Point Average (GPA) or high school leaving marks",
+                "Number of siblings in the family",
+                "Participation in university sports"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Academic potential is best measured by objective past performance, ensuring that scholarship funds support students capable of completing their degree.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11301,
+            "question_text": "What is the protocol if an applicant fails to maintain the minimum required GPA during their first semester?",
+            "options": [
+                "Automatic scholarship renewal",
+                "Immediate dismissal from the university",
+                "Review of eligibility for a probationary period",
+                "Awarding a higher scholarship amount"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Institutions typically offer a grace period or probationary status to allow students to recover academically before terminating financial assistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11302,
+            "question_text": "Which office is responsible for validating the 'full-time enrollment status' of a Zakat scholarship applicant?",
+            "options": [
+                "The Admissions Office or Registrar",
+                "The Financial Aid Office",
+                "The Student Union",
+                "The Bursar's Office"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Registrar's office maintains the official academic records and confirms whether a student is registered for the required number of credits.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11303,
+            "question_text": "Why must the Academic Verification team flag applicants who have switched majors more than twice?",
+            "options": [
+                "To discourage students from exploring subjects",
+                "To identify students with lack of academic direction",
+                "To ensure they pay higher tuition fees",
+                "Because it is against university policy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Frequent major changes can lead to extended time-to-degree completion, which exhausts limited Zakat resources that are meant for timely graduation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11304,
+            "question_text": "How is a student's 'Progress toward Degree' tracked for multi-year scholarship eligibility?",
+            "options": [
+                "By counting the number of credit hours completed vs. credit hours required",
+                "By interviewing the student's professors",
+                "By measuring the student's personal development",
+                "By reviewing their social media activity"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Monitoring degree progress ensures that students are on track to graduate within the planned timeframe.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11305,
+            "question_text": "How is 'Academic Progress' typically measured for a returning student reapplying for a Zakat scholarship?",
+            "options": [
+                "By the total number of extracurricular clubs joined",
+                "By comparing earned credits against the degree roadmap requirements",
+                "By the number of textbooks purchased",
+                "By the student's participation in university social events"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Academic progress is objectively measured by the rate at which a student completes mandatory curriculum requirements within the expected timeframe.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11306,
+            "question_text": "What is the primary function of a 'Mid-Semester Academic Audit'?",
+            "options": [
+                "To penalize students for low grades",
+                "To intervene early if a student's performance drops below scholarship thresholds",
+                "To calculate the final cost of the scholarship",
+                "To decide which students receive extra pocket money"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Early audits allow the university to provide academic support or counseling before a student loses their scholarship eligibility entirely.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11307,
+            "question_text": "If a student changes their major to a more expensive program, how does the Academic Verification team usually respond?",
+            "options": [
+                "Automatically increase the scholarship grant",
+                "Re-evaluate the student's eligibility for the new program's cost structure",
+                "Deny the major change request",
+                "Ignore the change if the GPA is above 3.5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scholarship awards are often tied to specific budget categories; a significant shift in degree costs requires a new assessment of financial support capabilities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11308,
+            "question_text": "Which of the following is considered a 'violation of academic integrity' that may lead to the immediate revocation of a Zakat scholarship?",
+            "options": [
+                "Missing a lecture due to a family emergency",
+                "Documented plagiarism or exam cheating",
+                "Switching from full-time to part-time status",
+                "Volunteering for a local charity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scholarships are merit-based and trust-based; academic dishonesty undermines the character requirements mandated by the Zakat scholarship policy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11309,
+            "question_text": "What is the standard procedure if a student takes a 'Leave of Absence' for personal reasons?",
+            "options": [
+                "The scholarship is automatically transferred to the next academic year",
+                "The student must re-apply and provide documentation for the leave",
+                "The scholarship remains active but frozen",
+                "The student is permanently disqualified from future aid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scholarship funding is intended for continuous enrollment; a leave of absence necessitates a formal review to ensure the student still meets needs-based criteria upon return.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11310,
+            "question_text": "Why must the academic team cross-reference the registrar's records for full-time enrollment?",
+            "options": [
+                "To ensure the student is paying full tuition",
+                "To verify the student meets the minimum load required for scholarship disbursement",
+                "To see if the student has friends in the registrar's office",
+                "To check if the student is living in university housing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scholarship eligibility is frequently contingent upon maintaining a full-time status (credit hours); part-time status may alter the eligibility rules.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11311,
+            "question_text": "Which metric acts as the 'Gatekeeper' for continuing Zakat scholarship funding?",
+            "options": [
+                "Community service hours",
+                "Cumulative GPA",
+                "The number of years the student has been at the university",
+                "The department head's personal recommendation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The cumulative GPA serves as a standard academic metric to ensure the scholarship recipient is successfully fulfilling their end of the agreement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11312,
+            "question_text": "How are remedial or 'bridge' courses handled in the academic verification process?",
+            "options": [
+                "They are counted as standard degree credits regardless of grade",
+                "They must be reviewed to ensure they are part of the degree plan",
+                "They automatically disqualify the student",
+                "They are ignored until the student reaches senior status"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The committee must verify that the student is following an approved curriculum path to ensure progress toward graduation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

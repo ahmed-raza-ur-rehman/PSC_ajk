@@ -1,0 +1,151 @@
+{
+    "category": "Rashid Latif Khan University",
+    "name": "Economics",
+    "board": "rashid-latif-khan-university",
+    "subject": "economics",
+    "url": "/rashid-latif-khan-university/economics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13777,
+            "question_text": "Which economic term describes the additional satisfaction gained from consuming one extra unit of a good?",
+            "options": [
+                "Total Utility",
+                "Marginal Utility",
+                "Opportunity Cost",
+                "Diminishing Returns"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Marginal utility is the additional benefit or satisfaction a consumer gets from consuming an additional unit of a good or service.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13802,
+            "question_text": "Which of the following describes the condition where quantity demanded exceeds quantity supplied at a given price?",
+            "options": [
+                "Surplus",
+                "Equilibrium",
+                "Shortage",
+                "Market Efficiency"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A shortage occurs when demand exceeds supply, typically putting upward pressure on prices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13803,
+            "question_text": "What is the primary effect of an increase in interest rates by a central bank on the economy?",
+            "options": [
+                "Stimulates consumer spending",
+                "Increases business borrowing",
+                "Slows down inflation by reducing money supply",
+                "Decreases government debt"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Higher interest rates make borrowing more expensive, which reduces spending and investment, thereby cooling off inflation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13804,
+            "question_text": "What is the result of a price ceiling set below the equilibrium price?",
+            "options": [
+                "Surplus",
+                "Shortage",
+                "Market equilibrium",
+                "Increased production"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When the price is artificially held below equilibrium, quantity demanded exceeds quantity supplied, resulting in a shortage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13805,
+            "question_text": "Which of the following is an example of an 'automatic stabilizer' in fiscal policy?",
+            "options": [
+                "Progressive income taxes",
+                "Government infrastructure spending",
+                "Open market operations",
+                "Changing the reserve requirement"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Progressive taxes automatically dampen economic fluctuations without requiring new legislation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13806,
+            "question_text": "What does the 'Law of Demand' state?",
+            "options": [
+                "Price and quantity demanded are directly related",
+                "As price increases, quantity demanded decreases, ceteris paribus",
+                "Supply determines demand",
+                "Consumers buy more at higher prices"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The law of demand describes the inverse relationship between price and quantity demanded.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13807,
+            "question_text": "If a small increase in the price of a good leads to a large decrease in the quantity demanded, the demand is said to be:",
+            "options": [
+                "Inelastic",
+                "Elastic",
+                "Unitary",
+                "Perfectly Inelastic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Elastic demand means consumers are highly responsive to price changes; therefore, a small price change results in a significant change in demand.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13808,
+            "question_text": "What does a country's Gross Domestic Product (GDP) measure?",
+            "options": [
+                "The total value of all goods and services produced within a country's borders in a year",
+                "The total income of all citizens regardless of location",
+                "The total exports minus imports",
+                "The purchasing power of the national currency"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "GDP is the standard measure of the value of final goods and services produced within a country's geographic borders during a specific period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13809,
+            "question_text": "In a competitive market, what is the equilibrium price?",
+            "options": [
+                "Where supply exceeds demand",
+                "Where demand exceeds supply",
+                "Where quantity demanded equals quantity supplied",
+                "Where the government sets the price"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Equilibrium price occurs at the point where the market supply curve and market demand curve intersect, balancing quantity demanded and supplied.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13810,
+            "question_text": "What is 'Opportunity Cost'?",
+            "options": [
+                "The out-of-pocket cost of an item",
+                "The value of the next best alternative given up when making a choice",
+                "The total cost of production",
+                "The profit made from an investment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Opportunity cost represents the benefits an individual, investor, or business misses out on when choosing one alternative over another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "category": "AQA",
+    "name": "Physics",
+    "board": "aqa",
+    "subject": "physics",
+    "url": "/aqa/physics/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 3,
+    "questions": [
+        {
+            "id": 8862,
+            "question_text": "What is the formula for calculating Force?",
+            "options": [
+                "Force = Mass / Acceleration",
+                "Force = Mass * Acceleration",
+                "Force = Mass + Acceleration",
+                "Force = Mass * Velocity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to Newton's Second Law, Force is the product of mass and acceleration (F=ma).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8863,
+            "question_text": "Which formula is used to calculate Force?",
+            "options": [
+                "Force = mass × acceleration",
+                "Force = velocity / time",
+                "Force = mass / acceleration",
+                "Force = energy × distance"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "According to Newton's Second Law of Motion, force is defined as mass multiplied by acceleration (F=ma).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8865,
+            "question_text": "What is the SI unit for electric current?",
+            "options": [
+                "Volt",
+                "Watt",
+                "Ampere",
+                "Ohm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Ampere (or Amp) is the fundamental unit of measurement for electrical current.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

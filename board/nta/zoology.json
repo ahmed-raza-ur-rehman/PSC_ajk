@@ -1,0 +1,193 @@
+{
+    "category": "NTA",
+    "name": "Zoology",
+    "board": "nta",
+    "subject": "zoology",
+    "url": "/nta/zoology/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 9991,
+            "question_text": "Which organ in the human body is primarily responsible for filtering the blood and removing nitrogenous waste?",
+            "options": [
+                "Liver",
+                "Lungs",
+                "Kidneys",
+                "Heart"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The kidneys filter blood to remove waste products like urea and balance body fluids through urine formation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9992,
+            "question_text": "Which blood cells are primarily involved in the body's immune defense system?",
+            "options": [
+                "Red blood cells",
+                "Platelets",
+                "White blood cells",
+                "Plasma"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "White blood cells (leukocytes) are essential components of the immune system that fight off pathogens and infections.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9993,
+            "question_text": "Which organ filters your blood to remove nitrogen-containing waste?",
+            "options": [
+                "Liver",
+                "Lungs",
+                "Kidneys",
+                "Heart"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The kidneys filter blood to remove waste products like urea, forming urine in the process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9994,
+            "question_text": "Which blood cells form the main defense line of the immune system?",
+            "options": [
+                "Red blood cells",
+                "White blood cells",
+                "Platelets",
+                "Plasma cells"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "White blood cells (leukocytes) are responsible for fighting infections and foreign invaders.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9995,
+            "question_text": "Which chamber of the human heart pumps oxygenated blood to the entire body?",
+            "options": [
+                "Right atrium",
+                "Right ventricle",
+                "Left atrium",
+                "Left ventricle"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The left ventricle is the strongest chamber and pumps oxygen-rich blood through the aorta to the rest of the body.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9996,
+            "question_text": "What is the main function of the endocrine system?",
+            "options": [
+                "To pump blood",
+                "To release hormones",
+                "To digest food",
+                "To produce impulses"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The endocrine system consists of glands that secrete hormones directly into the bloodstream to regulate body functions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9997,
+            "question_text": "Which enzyme in the stomach is responsible for breaking down proteins?",
+            "options": [
+                "Amylase",
+                "Lipase",
+                "Pepsin",
+                "Trypsin"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Pepsin is the primary digestive enzyme in the stomach that initiates the breakdown of proteins into peptides.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9998,
+            "question_text": "What is the primary function of red blood cells (erythrocytes)?",
+            "options": [
+                "Fighting infection",
+                "Clotting blood",
+                "Transporting oxygen",
+                "Producing antibodies"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Red blood cells contain hemoglobin, which binds to oxygen to transport it throughout the body.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9999,
+            "question_text": "Which human organ is responsible for the production of bile?",
+            "options": [
+                "Pancreas",
+                "Liver",
+                "Gallbladder",
+                "Stomach"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The liver produces bile, which is then stored in the gallbladder and released into the small intestine to aid fat digestion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10000,
+            "question_text": "Which part of the human brain controls balance and posture?",
+            "options": [
+                "Cerebrum",
+                "Cerebellum",
+                "Medulla oblongata",
+                "Hypothalamus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The cerebellum is the part of the brain that coordinates voluntary movements, balance, and muscle tone.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10001,
+            "question_text": "Which vitamin is synthesized by bacteria in the human large intestine?",
+            "options": [
+                "Vitamin C",
+                "Vitamin K",
+                "Vitamin A",
+                "Vitamin E"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Gut flora (intestinal bacteria) synthesize Vitamin K, which is essential for the process of blood clotting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10002,
+            "question_text": "What is the structural and functional unit of the human kidney?",
+            "options": [
+                "Neuron",
+                "Nephron",
+                "Alveoli",
+                "Villi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The nephron is the microscopic unit that filters blood and forms urine in the kidneys.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10003,
+            "question_text": "Which gland is known as the 'Master Gland' of the endocrine system?",
+            "options": [
+                "Thyroid gland",
+                "Adrenal gland",
+                "Pituitary gland",
+                "Pineal gland"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pituitary gland is called the master gland because it produces hormones that regulate the activity of many other endocrine glands.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

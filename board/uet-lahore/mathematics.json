@@ -1,0 +1,221 @@
+{
+    "category": "UET Lahore",
+    "name": "Mathematics",
+    "board": "uet-lahore",
+    "subject": "mathematics",
+    "url": "/uet-lahore/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 10318,
+            "question_text": "What is the derivative of f(x) = sin(x^2)?",
+            "options": [
+                "cos(x^2)",
+                "2x cos(x^2)",
+                "x cos(x^2)",
+                "2 cos(x^2)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the chain rule, the derivative of sin(u) is cos(u) * du/dx. Here, u = x^2, so the derivative is cos(x^2) * 2x.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10319,
+            "question_text": "If a matrix A has a determinant of 0, then the matrix is:",
+            "options": [
+                "Invertible",
+                "Singular",
+                "Identity",
+                "Orthogonal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A matrix is defined as singular if its determinant is zero, meaning it does not have an inverse.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10320,
+            "question_text": "Evaluate the integral of cos(x) dx.",
+            "options": [
+                "sin(x) + C",
+                "-sin(x) + C",
+                "tan(x) + C",
+                "-cos(x) + C"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The integral of cosine is sine because the derivative of sine is cosine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10321,
+            "question_text": "What is the value of log_2(16)?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "8"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since 2 raised to the power of 4 equals 16, log base 2 of 16 is 4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10322,
+            "question_text": "Find the slope of the line perpendicular to 2x + 3y = 5.",
+            "options": [
+                "-2/3",
+                "2/3",
+                "3/2",
+                "-3/2"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The slope of 2x + 3y = 5 is -2/3. The perpendicular slope is the negative reciprocal, which is 3/2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10323,
+            "question_text": "If f(x) = x^2 + 1, find f(f(1)).",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "f(1) = 1^2 + 1 = 2. Then f(2) = 2^2 + 1 = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10324,
+            "question_text": "What is the sum of the interior angles of a pentagon?",
+            "options": [
+                "360 degrees",
+                "540 degrees",
+                "720 degrees",
+                "900 degrees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sum of interior angles is (n-2) * 180. For n=5, (3)*180 = 540.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10325,
+            "question_text": "What is the eccentricity of a circle?",
+            "options": [
+                "0",
+                "1",
+                "Between 0 and 1",
+                "Infinity"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A circle is a special case of an ellipse where the foci coincide, resulting in an eccentricity of 0.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10326,
+            "question_text": "Solve for x in: |2x - 4| = 6.",
+            "options": [
+                "x = 5, x = -1",
+                "x = 5, x = 1",
+                "x = 10, x = -2",
+                "x = 2, x = -6"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "2x - 4 = 6 implies 2x = 10 (x=5); 2x - 4 = -6 implies 2x = -2 (x=-1).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10327,
+            "question_text": "Which of the following is an imaginary number?",
+            "options": [
+                "sqrt(4)",
+                "sqrt(-1)",
+                "0",
+                "3.14"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The square root of a negative number is defined as an imaginary unit (i).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10328,
+            "question_text": "If x + y = 10 and x - y = 2, what is the value of xy?",
+            "options": [
+                "16",
+                "24",
+                "20",
+                "22"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Solving the system: 2x=12 -> x=6. Then 6+y=10 -> y=4. xy = 6*4 = 24.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10329,
+            "question_text": "What is the range of the function f(x) = |x|?",
+            "options": [
+                "All real numbers",
+                "All positive real numbers",
+                "All non-negative real numbers",
+                "x > 0"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The absolute value of any real number is always greater than or equal to zero.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10330,
+            "question_text": "Evaluate the limit: lim(x->0) (sin x / x).",
+            "options": [
+                "0",
+                "1",
+                "Infinity",
+                "Undefined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a standard trigonometric limit known as the fundamental limit of sine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10331,
+            "question_text": "The derivative of ln(x) with respect to x is:",
+            "options": [
+                "e^x",
+                "1/x",
+                "x",
+                "ln(x)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The derivative of the natural logarithm function ln(x) is 1/x.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10332,
+            "question_text": "How many distinct arrangements are possible for the letters in the word 'APPLE'?",
+            "options": [
+                "60",
+                "120",
+                "24",
+                "30"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Total letters = 5, with two P's. Formula: 5! / 2! = 120 / 2 = 60.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

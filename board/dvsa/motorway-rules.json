@@ -1,0 +1,109 @@
+{
+    "category": "DVSA",
+    "name": "Motorway Rules",
+    "board": "dvsa",
+    "subject": "motorway-rules",
+    "url": "/dvsa/motorway-rules/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 6874,
+            "question_text": "Which lane should you normally use on a three-lane motorway?",
+            "options": [
+                "The right-hand lane",
+                "The middle lane",
+                "The left-hand lane",
+                "The hard shoulder"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "You should always drive in the left-hand lane unless you are overtaking slower traffic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6875,
+            "question_text": "Which lane should you normally use when driving on a three-lane motorway?",
+            "options": [
+                "The right-hand lane",
+                "The middle lane",
+                "The left-hand lane",
+                "The hard shoulder"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "You should always stay in the left-hand lane unless you are overtaking other vehicles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8430,
+            "question_text": "What is the national speed limit for a car on a motorway?",
+            "options": [
+                "60 mph",
+                "70 mph",
+                "80 mph",
+                "50 mph"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The national speed limit for cars on motorways is 70 mph.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8431,
+            "question_text": "What is the national speed limit for a standard car on a motorway?",
+            "options": [
+                "50 mph",
+                "60 mph",
+                "70 mph",
+                "80 mph"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The national speed limit for cars on motorways in the UK is 70 mph.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8432,
+            "question_text": "What should you do if you become tired while driving on a motorway?",
+            "options": [
+                "Keep driving but reduce your speed",
+                "Exit at the next service area and take a break",
+                "Open the windows for fresh air and continue",
+                "Move to the hard shoulder to sleep"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Motorways are high-speed environments; if you are tired, you must stop at a designated rest area immediately.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8433,
+            "question_text": "What is the maximum speed limit for a car on a motorway?",
+            "options": [
+                "60 mph",
+                "70 mph",
+                "80 mph",
+                "50 mph"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The national speed limit for cars driving on a motorway in the UK is 70 mph.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8434,
+            "question_text": "If you start feeling tired while driving on a motorway, what is the safest action?",
+            "options": [
+                "Drive to the next service station to take a rest",
+                "Turn the air conditioning up high",
+                "Listen to loud, upbeat music",
+                "Continue driving at a slower speed"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Tiredness can impair your judgement significantly; resting at a service station is the only way to recover sufficiently to continue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

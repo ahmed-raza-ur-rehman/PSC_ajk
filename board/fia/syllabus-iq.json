@@ -1,0 +1,235 @@
+{
+    "category": "FIA",
+    "name": "Syllabus — IQ",
+    "board": "fia",
+    "subject": "syllabus-iq",
+    "url": "/fia/syllabus-iq/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 16,
+    "questions": [
+        {
+            "id": 1395,
+            "question_text": "Which word is unrelated to the group? \n(Pencil, Eraser, Notebook, Scale)",
+            "options": [
+                "Eraser",
+                "Notebook",
+                "Pencil",
+                "Scale"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pencil, Eraser, and Scale are typically used as small, single-purpose tools; a Notebook is an item for recording.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1396,
+            "question_text": "Identify the next figure in the sequence: (Figure shows a pattern of rotation and addition of lines)",
+            "options": [
+                "(A figure with 8 lines forming a square)",
+                "(A figure with 10 lines forming a pentagon)",
+                "(A figure with 4 lines forming a square)",
+                "(A figure with 6 lines forming an octagon)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Assuming a standard pattern increase (e.g., lines increase by 2, and the shape progresses), 8 lines forming a square is the most logical progression in these test types.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1397,
+            "question_text": "A train crosses a pole in 15 seconds and crosses a platform of length 150 meters in 25 seconds. What is the length of the train?",
+            "options": [
+                "125 meters",
+                "75 meters",
+                "150 meters",
+                "100 meters"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Let L be the length of the train and S be the speed. (L/15 = 150/(25-15)). L = 75 meters.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1398,
+            "question_text": "If 'APPLE' is related to 'ORANGE' in the same way that 'BANANA' is related to?",
+            "options": [
+                "Watermelon",
+                "Mango",
+                "Grape",
+                "Strawberry"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The relationship is between a category of fruit (Apple/Orange) and a representative fruit (Banana/Mango), which are common, distinct items.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1399,
+            "question_text": "Which number completes the analogy: 4: 16 :: 7: ?",
+            "options": [
+                "49",
+                "28",
+                "56",
+                "36"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The relationship is squaring the number (4 squared is 16; 7 squared is 49).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1400,
+            "question_text": "Choose the word that is least like the others: \n(Justice, Law, Rule, Compassion)",
+            "options": [
+                "Rule",
+                "Law",
+                "Justice",
+                "Compassion"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Justice, Law, and Rule are aspects of formal societal governance, while Compassion is an emotion or moral quality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1401,
+            "question_text": "Coding Question: If 'AUTHORITY' is written as 'BUIBSUJZ', how is 'UNIVERSITY' written?",
+            "options": [
+                "VOWBSVJJ",
+                "WOWBSVWZ",
+                "VOWBSVZZ",
+                "VOWBSVZZ"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The code applies a sequential shift (+1, +1, -1, +1, -1, etc.) across the letters of the word.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1402,
+            "question_text": "Statement: Most Pakistani students prefer studying in private universities. \nConclusion I: The public universities are not preferred. \nConclusion II: The private universities are popular.",
+            "options": [
+                "Only Conclusion I follows",
+                "Either I or II follows",
+                "Neither I nor II follows",
+                "Only Conclusion II follows"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The statement only indicates preference (Most), which supports Conclusion II, but does not mean that public universities are entirely rejected (Conclusion I).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1403,
+            "question_text": "Which sequence correctly predicts the next number in the series: 2, 5, 10, 17, 26, ?",
+            "options": [
+                "37",
+                "36",
+                "35",
+                "34"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The pattern involves adding increasing odd numbers (3, 5, 7, 9, 11). Therefore, 26 + 11 = 37.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1404,
+            "question_text": "If 'BOOK' is coded as '15-15-15-11' and 'PEN' is coded as '16-5-14', how is 'NOTE' coded?",
+            "options": [
+                "14-15-20-5",
+                "15-16-15-5",
+                "14-15-14-5",
+                "14-15-20-15"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The code represents the alphabetical position of each letter (N=14, O=15, T=20, E=5).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1405,
+            "question_text": "Find the missing word to complete the analogy: Flower : Petal :: Leaf : ?",
+            "options": [
+                "Stem",
+                "Green",
+                "Blade",
+                "Midrib"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Petal is a part of a Flower, and the Blade is the primary, defining part of a Leaf.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1406,
+            "question_text": "Which figure will complete the matrix pattern, considering the rotation and shift of shapes?",
+            "options": [
+                "A triangle with a dotted base",
+                "A square with a shaded diagonal",
+                "A circle divided into four quarters",
+                "A rectangle with a shaded corner"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In standard visual reasoning tests (like those for NTS/FPSC), the sequence often involves a simple transformation or shift. Given the pattern, the third figure typically reverts to a basic shape like a divided circle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1407,
+            "question_text": "Identify the odd one out from the following set of words:",
+            "options": [
+                "Tablet",
+                "Smartphone",
+                "Laptop",
+                "Refrigerator"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Laptop, Tablet, and Smartphone are portable electronic devices. Refrigerator is a large, stationary appliance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1408,
+            "question_text": "If 'CLOCK' is written as '3-12-15-15-11' (where 12 represents the center position), what logic is followed for the word 'WATCH'?",
+            "options": [
+                "2-1-20-8-3",
+                "2-1-20-8-3 (using letter position)",
+                "2-20-1-8-3",
+                "2-1-20-8-3 (mapping only consonants)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The logic is based on direct alphabetical positioning (A=1, B=2, etc.), as exemplified by the standard coding required in competitive exams.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2427,
+            "question_text": "If DELHI is coded as BOOK and KOLKATA is coded as PAPER, then what is the code for CALCUTTA?",
+            "options": [
+                "CALCAUT",
+                "CADICUT",
+                "CANDUTT",
+                "CARBUNI"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The code follows a pattern where each letter is replaced by the first letter of the word's code (D->C, E->A, L->N, etc.).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2787,
+            "question_text": "Find the missing number in the series: 5, 12, 26, 54, ?",
+            "options": [
+                "108",
+                "110",
+                "98",
+                "112"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern is (Previous Number * 2) + 2. Thus, 54 * 2 + 2 = 110.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

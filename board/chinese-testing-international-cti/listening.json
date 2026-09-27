@@ -1,0 +1,109 @@
+{
+    "category": "Chinese Testing International (CTI)",
+    "name": "Listening",
+    "board": "chinese-testing-international-cti",
+    "subject": "listening",
+    "url": "/chinese-testing-international-cti/listening/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 9028,
+            "question_text": "In a computer-based HSK exam, what should you do after the listening section ends?",
+            "options": [
+                "You can keep answering listening questions.",
+                "You must remove your headphones immediately.",
+                "You are not allowed to answer listening or writing questions during the reading section.",
+                "You should wait for the proctor to give you paper."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Exam rules state that cross-section answering is prohibited, meaning you cannot work on listening or writing tasks while in the reading section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9030,
+            "question_text": "If a candidate arrives after the listening section starts but before it finishes for a paper-based exam, what is the rule?",
+            "options": [
+                "They can enter immediately and start the test.",
+                "They can only enter after the listening section is completed, with no extra time granted.",
+                "They are allowed to take the test only if they pay an extra fee.",
+                "They will be given double time to complete the test."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to the exam procedures, late arrivals are only permitted entry after the listening section ends and no time compensation is given.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9031,
+            "question_text": "What is the primary method of conducting the HSK Speaking test?",
+            "options": [
+                "Written paper test",
+                "Face-to-face interview",
+                "Audio recording",
+                "Online live video call"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The HSK Speaking Test is officially conducted through audio recording.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9032,
+            "question_text": "During a computer-based exam, are candidates allowed to listen to audio while reading writing tasks?",
+            "options": [
+                "Yes, at any time",
+                "No, cross-section answering is prohibited",
+                "Only if they have headphones",
+                "Yes, during the last 5 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Computer-based exams forbid cross-section answering; you must only work on the specific section designated.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9033,
+            "question_text": "What must you do after finishing the listening section in a computer-based HSK exam?",
+            "options": [
+                "Continue to the writing section",
+                "Take a short break",
+                "Wait for further instructions",
+                "Log out immediately"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Candidates must follow the system and invigilator's flow and cannot jump ahead to other sections.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9034,
+            "question_text": "What is the rule for headphone use during the HSK Speaking test?",
+            "options": [
+                "Only used during the first minute",
+                "Optional for all candidates",
+                "Required throughout the entire test",
+                "Only for listening-heavy questions"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Candidates are required to wear headphones for the duration of the oral examination to ensure clear audio capture.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9035,
+            "question_text": "What happens if a candidate arrives late for an oral test?",
+            "options": [
+                "They can start late with no penalty",
+                "They are admitted to the next session",
+                "They are not admitted to the test",
+                "They can enter but must finish early"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to the test regulations, candidates arriving after the start time for an oral exam will not be admitted.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

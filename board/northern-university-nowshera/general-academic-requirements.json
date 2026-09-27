@@ -1,0 +1,179 @@
+{
+    "category": "Northern University, Nowshera",
+    "name": "General Academic Requirements",
+    "board": "northern-university-nowshera",
+    "subject": "general-academic-requirements",
+    "url": "/northern-university-nowshera/general-academic-requirements/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 13257,
+            "question_text": "According to standard APA style, what should be included in an in-text citation for a direct quotation?",
+            "options": [
+                "Author's name and title of the book.",
+                "Author's last name, year of publication, and page number.",
+                "The full bibliography entry.",
+                "The publisher's name and location."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "APA style requires the author, date, and specific page number to allow the reader to locate the source.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13258,
+            "question_text": "What does the term 'plagiarism' specifically refer to in an academic context?",
+            "options": [
+                "Writing an essay that has an incorrect thesis.",
+                "Using another person’s work or ideas without providing proper acknowledgment.",
+                "Citing too many sources in a research paper.",
+                "Submitting an essay past the deadline."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Plagiarism is the act of presenting someone else's intellectual property as one's own.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13259,
+            "question_text": "Which element is required for a reliable academic source?",
+            "options": [
+                "A large number of images.",
+                "Peer-review or academic editorial oversight.",
+                "The opinion of a popular blogger.",
+                "A vibrant color scheme."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Academic integrity relies on verified, peer-reviewed information to support scholarly claims.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13260,
+            "question_text": "What is the purpose of an abstract in a research paper?",
+            "options": [
+                "To provide a detailed bibliography.",
+                "To serve as a brief summary of the entire research study.",
+                "To thank the contributors of the paper.",
+                "To list the formatting guidelines used."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An abstract summarizes the problem, methodology, findings, and conclusions of a research paper.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13261,
+            "question_text": "Which of the following is considered 'paraphrasing'?",
+            "options": [
+                "Copying the sentence and changing only one word.",
+                "Restating someone else's ideas in your own words while citing the source.",
+                "Using direct quotes for the entire paper.",
+                "Summarizing your own personal feelings about a topic."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Paraphrasing demonstrates understanding of the source material by expressing it through your own writing style.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13262,
+            "question_text": "What does 'peer review' mean in the context of academic journals?",
+            "options": [
+                "Students review each other's work.",
+                "Experts in the field check the work for accuracy before publication.",
+                "The author checks the work with their friends.",
+                "The publisher checks the book for marketing potential."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Peer review is a quality control mechanism where independent experts assess the rigor and validity of research.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13263,
+            "question_text": "What is the main difference between primary and secondary sources?",
+            "options": [
+                "Primary sources are longer than secondary sources.",
+                "Primary sources are original data/documents; secondary sources analyze those data/documents.",
+                "Secondary sources are always more accurate.",
+                "Primary sources do not need to be cited."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Primary sources offer direct evidence, while secondary sources provide interpretation or commentary on that evidence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13264,
+            "question_text": "What is the main goal of academic integrity?",
+            "options": [
+                "To ensure all papers are the same length.",
+                "To promote honesty and prevent the use of someone else's work as your own.",
+                "To enforce a specific font size for all assignments.",
+                "To increase the speed of grading."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Academic integrity is the commitment to honest and ethical scholarly practice, particularly avoiding plagiarism.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13265,
+            "question_text": "When synthesizing sources, what should the writer do?",
+            "options": [
+                "List the summaries of each source separately.",
+                "Combine ideas from multiple sources to support a central argument.",
+                "Copy and paste the most relevant quotes.",
+                "Ignore sources that contradict the thesis."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Synthesis involves finding connections between sources and using those collective insights to build a cohesive argument.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13266,
+            "question_text": "What is a 'DOI' in the context of academic citation?",
+            "options": [
+                "Digital Object Identifier, a unique alphanumeric string for an electronic document.",
+                "Department of Information, the body that sets citation rules.",
+                "Document Original Index, used for library filing.",
+                "Data Origin Indicator, used for empirical research."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A DOI provides a permanent link to an online scholarly article or resource.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13267,
+            "question_text": "Why is it important to use peer-reviewed sources?",
+            "options": [
+                "They are usually shorter and easier to read.",
+                "They have been vetted by experts in the field to ensure accuracy and rigor.",
+                "They are always available for free online.",
+                "They are required by law for all college papers."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Peer review acts as a quality control mechanism, ensuring the research meets disciplinary standards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13268,
+            "question_text": "What should a strong concluding paragraph do?",
+            "options": [
+                "Introduce new evidence to strengthen the argument.",
+                "Restate the thesis in a new way and synthesize the main points.",
+                "Provide a list of all sources cited in the essay.",
+                "Apologize for any potential weaknesses in the argument."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A conclusion should wrap up the essay by reinforcing the argument without introducing brand new information.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

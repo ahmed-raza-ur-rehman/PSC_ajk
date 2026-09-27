@@ -1,0 +1,151 @@
+{
+    "category": "Imperial College of Business Studies (ICBS)",
+    "name": "Business Communication",
+    "board": "imperial-college-of-business-studies-icbs",
+    "subject": "business-communication",
+    "url": "/imperial-college-of-business-studies-icbs/business-communication/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11579,
+            "question_text": "Which of the following is considered a 'barrier' to effective communication?",
+            "options": [
+                "Active listening",
+                "Clear and concise language",
+                "Semantic noise",
+                "Immediate feedback"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Semantic noise occurs when the sender and receiver attach different meanings to the same words, acting as a barrier to understanding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11580,
+            "question_text": "When writing a formal business letter, where should the recipient's address be placed?",
+            "options": [
+                "At the bottom of the page",
+                "Above the salutation",
+                "In the subject line only",
+                "After the signature"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In standard business correspondence, the recipient's information appears below the date and above the formal salutation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11581,
+            "question_text": "Which of the following is an example of 'Non-Verbal' communication?",
+            "options": [
+                "Writing a memo",
+                "Making a phone call",
+                "Facial expressions",
+                "Giving a presentation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Non-verbal communication includes body language, gestures, facial expressions, and posture, which convey meaning without spoken or written words.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11582,
+            "question_text": "What is the '7 Cs' principle of communication that refers to being brief and to the point?",
+            "options": [
+                "Complete",
+                "Clear",
+                "Concise",
+                "Concrete"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Conciseness in communication means conveying the message using as few words as possible without sacrificing the quality or clarity of the information.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11583,
+            "question_text": "Which part of a business letter typically contains the sender's contact information?",
+            "options": [
+                "Salutation",
+                "Letterhead/Header",
+                "Body",
+                "Enclosure"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The letterhead or header section of a formal business letter includes the sender's name, address, and contact details.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11584,
+            "question_text": "Why is 'Active Listening' important in a business environment?",
+            "options": [
+                "It allows the speaker to dictate terms",
+                "It builds trust and prevents misunderstandings",
+                "It saves time by ignoring non-verbal cues",
+                "It forces the other party to agree"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Active listening ensures that the listener fully understands the speaker's message, which minimizes conflict and builds professional relationships.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11585,
+            "question_text": "In a professional email, what is the 'CC' field used for?",
+            "options": [
+                "Sending the email to people who need to see it but are not the primary recipients",
+                "Hiding the recipients from one another",
+                "Adding a digital signature",
+                "Scheduling the email for later delivery"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "CC stands for 'Carbon Copy' and is used to keep stakeholders informed without placing the primary burden of response on them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11586,
+            "question_text": "Which of the following is considered an 'internal' form of business communication?",
+            "options": [
+                "Press release",
+                "Annual report to shareholders",
+                "Memorandum to staff",
+                "Advertisement in a newspaper"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Internal communication occurs within an organization, such as memos, emails between employees, or staff meetings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11587,
+            "question_text": "What is the primary purpose of the 'BCC' field in an email?",
+            "options": [
+                "To send a copy to someone without other recipients knowing",
+                "To ensure the recipient replies to everyone",
+                "To provide a backup of the email",
+                "To formalize the tone of the email"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "BCC stands for Blind Carbon Copy; it hides the recipient's identity from others listed in the To or CC fields.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11588,
+            "question_text": "Which element of the '7 Cs' of communication emphasizes that the message should be supported by facts and figures?",
+            "options": [
+                "Conciseness",
+                "Clarity",
+                "Concreteness",
+                "Courtesy"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Concreteness implies being specific, definite, and vivid rather than vague and general.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Basic IT & MS Office",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "basic-it-ms-office",
+    "url": "/national-cybercrime-investigation-agency/basic-it-ms-office/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 14260,
+            "question_text": "Which shortcut key combination is used to open the 'Find and Replace' dialog box in MS Word?",
+            "options": [
+                "Ctrl + F",
+                "Ctrl + H",
+                "Ctrl + G",
+                "Ctrl + R"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ctrl + H opens the 'Replace' tab of the Find and Replace dialog box, whereas Ctrl + F directly opens the Navigation pane for searching.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14261,
+            "question_text": "In Microsoft Excel, which formula correctly calculates the average of cells A1 through A10?",
+            "options": [
+                "=AVERAGE(A1:A10)",
+                "=MEAN(A1:A10)",
+                "=SUM(A1:A10)/10",
+                "=AVG(A1:A10)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The built-in function in MS Excel to calculate the arithmetic mean is =AVERAGE(range).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14262,
+            "question_text": "What is the file extension of a macro-enabled presentation file in Microsoft PowerPoint?",
+            "options": [
+                ".pptx",
+                ".pptm",
+                ".potx",
+                ".ppsx"
+            ],
+            "correct_answer_index": 1,
+            "explanation": ".pptm is the standard file extension for PowerPoint presentations that contain macros or VBA code.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14263,
+            "question_text": "Which of the following is considered volatile memory in a computer system?",
+            "options": [
+                "Hard Disk Drive (HDD)",
+                "Read-Only Memory (ROM)",
+                "Random Access Memory (RAM)",
+                "Solid State Drive (SSD)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "RAM is volatile memory, meaning it loses all its stored data when the power supply to the computer is turned off.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14264,
+            "question_text": "In MS Excel, what symbol must precede every formula or function?",
+            "options": [
+                "#",
+                "@",
+                "=",
+                "$"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "All formulas and functions in Excel must start with an equals sign (=) so Excel knows to calculate a value rather than treat it as plain text.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14265,
+            "question_text": "Which shortcut key combination is used to paste copied content in MS Windows?",
+            "options": [
+                "Ctrl + C",
+                "Ctrl + V",
+                "Ctrl + X",
+                "Ctrl + P"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ctrl + V is the standard keyboard shortcut for pasting clipboard items.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14266,
+            "question_text": "In MS Excel, what type of chart is best suited for showing trends over a period of time?",
+            "options": [
+                "Pie Chart",
+                "Line Chart",
+                "Doughnut Chart",
+                "Radar Chart"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Line charts are ideal for displaying data trends across continuous intervals like time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14267,
+            "question_text": "What is the maximum number of worksheets that can be created by default in a new MS Excel workbook (in recent versions)?",
+            "options": [
+                "1",
+                "3",
+                "255",
+                "Unlimited (limited only by available memory)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While older versions defaulted to 3 sheets, modern Excel allows as many sheets as system memory permits, defaulting to 1 initially.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14268,
+            "question_text": "Which of the following is an example of an operating system?",
+            "options": [
+                "Microsoft Word",
+                "Ubuntu",
+                "Adobe Photoshop",
+                "Oracle Database"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ubuntu is a popular Linux-based operating system, whereas the others are application software.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14269,
+            "question_text": "What does LAN stand for in computer networking?",
+            "options": [
+                "Large Area Network",
+                "Local Access Node",
+                "Local Area Network",
+                "Logical Application Network"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "LAN connects computers within a limited geographical area such as a school, office, or building.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14270,
+            "question_text": "Which feature in MS Word allows you to send personalized letters or emails to a list of multiple recipients?",
+            "options": [
+                "Macro",
+                "Mail Merge",
+                "Track Changes",
+                "Format Painter"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mail Merge combines a main document with a data source to generate multiple customized documents efficiently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14271,
+            "question_text": "In computer terminology, what does 'HTTP' stand for?",
+            "options": [
+                "HyperText Transfer Protocol",
+                "Hyperlink Transmission Test Program",
+                "High Transfer Text Protocol",
+                "HyperText Transfer Process"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "HTTP is the foundational protocol used for transmitting hypermedia documents on the World Wide Web.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14272,
+            "question_text": "Which function in MS Excel is used to find the largest value in a range of cells?",
+            "options": [
+                "MIN",
+                "MAX",
+                "LARGE",
+                "TOP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The MAX function returns the highest numerical value in a given set of arguments or cell range.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14273,
+            "question_text": "What is the extension of a template file created in Microsoft Word?",
+            "options": [
+                ".docx",
+                ".dotx",
+                ".xlsx",
+                ".pptx"
+            ],
+            "correct_answer_index": 1,
+            "explanation": ".dotx is the standard file format extension for Word templates in modern Office versions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14274,
+            "question_text": "Which hardware device is considered the 'brain' of the computer?",
+            "options": [
+                "RAM",
+                "Hard Disk Drive",
+                "CPU",
+                "Power Supply Unit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Central Processing Unit (CPU) executes instructions and performs core computational tasks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

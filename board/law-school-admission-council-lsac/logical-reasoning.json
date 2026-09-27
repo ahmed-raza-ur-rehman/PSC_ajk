@@ -1,0 +1,165 @@
+{
+    "category": "Law School Admission Council (LSAC)",
+    "name": "Logical Reasoning",
+    "board": "law-school-admission-council-lsac",
+    "subject": "logical-reasoning",
+    "url": "/law-school-admission-council-lsac/logical-reasoning/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 9551,
+            "question_text": "LSAC states that the LSAT is the single best predictor of first-year law school performance. If this claim is true, which of the following must be true?",
+            "options": [
+                "Students with lower LSAT scores will always perform poorly in law school.",
+                "The LSAT is the only factor law schools consider during admissions.",
+                "Higher LSAT scores correlate more strongly with success in the first year of law school than other individual predictors.",
+                "Every student who takes the LSAT will succeed in law school."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To be the 'single best predictor' means that among all individual indicators used, it provides the most accurate forecast of performance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9552,
+            "question_text": "A legal certificate program takes less time and money than a JD degree. Earning a certificate will not allow you to practice law. Based on this, which conclusion is valid?",
+            "options": [
+                "Anyone with a legal certificate is a qualified attorney.",
+                "A legal certificate is only useful for people who want to become judges.",
+                "An individual aiming to represent clients in court should choose a JD program instead of a legal certificate program.",
+                "Legal certificates are the most effective way to become a practicing lawyer."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since the text explicitly states that a certificate will not allow you to become an attorney, those seeking to practice law must pursue the JD path.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9553,
+            "question_text": "LSAC claims the LSAT is the best predictor of first-year law school performance. If this claim is true, what must also be true?",
+            "options": [
+                "All law school applicants will have the same GPA.",
+                "High LSAT scores will likely be associated with higher first-year grades.",
+                "The LSAT is the only factor law schools use for admissions.",
+                "Students with lower LSAT scores will never succeed in law school."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If the LSAT is a strong predictor of success, it implies a positive correlation between the test score and academic performance in the first year.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9554,
+            "question_text": "An LSAC Forum starts at 10:00 a.m. Candidates are required to attend a workshop one hour before the forum. At what time must a candidate attend the workshop?",
+            "options": [
+                "9:00 a.m.",
+                "10:00 a.m.",
+                "11:00 a.m.",
+                "9:30 a.m."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "If the event begins at 10:00 a.m. and the workshop is one hour prior, the candidate must attend at 9:00 a.m.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9555,
+            "question_text": "To be eligible for the 'Plus, Guided Journey' program, an applicant must be a U.S. citizen, a permanent resident alien, or have DACA status. Which of the following applicants is definitely ineligible?",
+            "options": [
+                "A U.S. citizen applying for law school.",
+                "A person with DACA status.",
+                "A permanent resident alien with a green card.",
+                "A foreign student on a short-term visitor visa with no other listed status."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The eligibility requirements list specific statuses. A visitor visa is not included in the provided list of criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9556,
+            "question_text": "A law school is considering implementing an in-house loan program because federal loan limits have decreased. Which of the following arguments best supports this initiative?",
+            "options": [
+                "It will make the law school more expensive for all students.",
+                "It helps students continue their education despite changes in federal financial aid.",
+                "It will reduce the number of students applying to the school.",
+                "It ensures that students no longer need to study for the LSAT."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text notes that such programs are a response to federal loan limits, helping applicants who have exhausted federal options.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9557,
+            "question_text": "An LSAC Forum begins at 10:00 a.m. Attendees must participate in a workshop exactly one hour before the forum starts. At what time must a candidate attend the workshop?",
+            "options": [
+                "8:00 a.m.",
+                "9:00 a.m.",
+                "10:00 a.m.",
+                "11:00 a.m."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "One hour before 10:00 a.m. is 9:00 a.m.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9558,
+            "question_text": "To be eligible for the 'Plus, Guided Journey' program, an applicant must be a U.S. citizen, a permanent resident alien, or have DACA status. Which of the following individuals is ineligible?",
+            "options": [
+                "A U.S. citizen",
+                "A permanent resident alien",
+                "An individual with DACA status",
+                "An international student on a short-term visitor visa"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The criteria require status as a citizen, permanent resident, or DACA recipient; a short-term visitor visa does not meet these specific requirements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9559,
+            "question_text": "A student must attend exactly three of four available workshops: Ethics, Admissions, Financing, and Diversity. If the student attends Financing, they cannot attend Diversity. Which set of workshops could the student attend?",
+            "options": [
+                "Financing, Diversity, Ethics",
+                "Ethics, Admissions, Diversity",
+                "Financing, Admissions, Diversity",
+                "Financing, Admissions, Ethics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The rule states if Financing is chosen, Diversity cannot be chosen. Option 2 does not include Financing, so both Ethics, Admissions, and Diversity are valid.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9560,
+            "question_text": "Three candidates are applying for a scholarship. Candidate X has a higher LSAT score than Y. Candidate Z has a lower score than X but a higher score than Y. Who has the lowest score?",
+            "options": [
+                "Candidate X",
+                "Candidate Y",
+                "Candidate Z",
+                "Not enough information"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "X > Y and X > Z > Y. Therefore, Y has the lowest score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9561,
+            "question_text": "A law school is considering an in-house loan program because federal loan limits dropped. Which argument best supports this initiative?",
+            "options": [
+                "The school has extra office space for loan processing",
+                "The school wants to increase the number of total applicants",
+                "The loans help applicants who have exhausted federal funding continue their education",
+                "The school wants to make a profit from interest rates"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The text explicitly states the program is a response to help applicants who have exhausted federal options.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

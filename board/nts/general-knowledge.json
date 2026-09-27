@@ -1,0 +1,361 @@
+{
+    "category": "NTS",
+    "name": "General Knowledge",
+    "board": "nts",
+    "subject": "general-knowledge",
+    "url": "/nts/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 25,
+    "questions": [
+        {
+            "id": 12412,
+            "question_text": "Who is known as the founder of the modern computer?",
+            "options": [
+                "Albert Einstein",
+                "Alan Turing",
+                "Nikola Tesla",
+                "Thomas Edison"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Alan Turing is widely considered the father of theoretical computer science and artificial intelligence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12413,
+            "question_text": "What is the capital city of Japan?",
+            "options": [
+                "Kyoto",
+                "Osaka",
+                "Tokyo",
+                "Hiroshima"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tokyo has been the capital of Japan since 1868.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12414,
+            "question_text": "Which planet is known as the Red Planet?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars appears red due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12415,
+            "question_text": "Who was the first person to step on the Moon?",
+            "options": [
+                "Buzz Aldrin",
+                "Yuri Gagarin",
+                "Neil Armstrong",
+                "Michael Collins"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Neil Armstrong walked on the moon during the 1969 Apollo 11 mission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12416,
+            "question_text": "What is the currency of Turkey?",
+            "options": [
+                "Euro",
+                "Lira",
+                "Dinar",
+                "Dollar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Turkish Lira is the official currency of Turkey.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12417,
+            "question_text": "Which gas is most abundant in Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12418,
+            "question_text": "Who wrote the national anthem of Pakistan?",
+            "options": [
+                "Allama Iqbal",
+                "Hafeez Jalandhari",
+                "Ahmed Faraz",
+                "Faiz Ahmed Faiz"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hafeez Jalandhari wrote the lyrics for the Pakistani national anthem.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12419,
+            "question_text": "What is the capital of France?",
+            "options": [
+                "Berlin",
+                "Madrid",
+                "Paris",
+                "Rome"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Paris is the capital and most populous city of France.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12420,
+            "question_text": "Which organ in the human body is primarily responsible for pumping blood?",
+            "options": [
+                "Lungs",
+                "Brain",
+                "Heart",
+                "Kidney"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The heart acts as the pump for the circulatory system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12421,
+            "question_text": "Which continent is the largest by land area?",
+            "options": [
+                "Africa",
+                "North America",
+                "Asia",
+                "Europe"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Asia is the largest and most populous continent on Earth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12422,
+            "question_text": "What is the boiling point of water at sea level?",
+            "options": [
+                "90 degrees Celsius",
+                "100 degrees Celsius",
+                "110 degrees Celsius",
+                "95 degrees Celsius"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Under standard atmospheric pressure, water boils at 100 degrees Celsius.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12423,
+            "question_text": "Which of these is the largest ocean on Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Pacific Ocean",
+                "Arctic Ocean"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12424,
+            "question_text": "Which international organization is headquartered in Geneva, Switzerland?",
+            "options": [
+                "United Nations",
+                "World Trade Organization",
+                "UNESCO",
+                "World Bank"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The WTO is headquartered in Geneva, while the UN primary HQ is in New York.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12425,
+            "question_text": "What is the primary function of the 'Ozone Layer' in the Earth's atmosphere?",
+            "options": [
+                "Regulate oxygen levels",
+                "Absorb ultraviolet radiation",
+                "Increase greenhouse effect",
+                "Generate lightning"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ozone layer protects life on Earth by absorbing the majority of the sun's harmful ultraviolet rays.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13559,
+            "question_text": "Which international organization has its headquarters in Geneva, Switzerland?",
+            "options": [
+                "United Nations Security Council",
+                "World Trade Organization",
+                "World Bank",
+                "International Monetary Fund"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The WTO is headquartered in Geneva, Switzerland.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13560,
+            "question_text": "What is the primary purpose of a 'Fiscal Policy'?",
+            "options": [
+                "Control of money supply",
+                "Regulation of stock markets",
+                "Management of government revenue and expenditure",
+                "Fixing of exchange rates"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Fiscal policy relates to how a government adjusts its spending levels and tax rates to influence a nation's economy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13561,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mars is commonly referred to as the Red Planet due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13562,
+            "question_text": "What is the currency of Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Ringgit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Japanese Yen is the official currency of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13563,
+            "question_text": "Who is the author of 'The Republic'?",
+            "options": [
+                "Socrates",
+                "Plato",
+                "Aristotle",
+                "Homer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Plato wrote 'The Republic' as a Socratic dialogue concerning justice.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13564,
+            "question_text": "Which gas do plants primarily absorb from the atmosphere for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plants take in carbon dioxide and water to produce glucose and oxygen.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13565,
+            "question_text": "What is the largest ocean on Earth?",
+            "options": [
+                "Atlantic",
+                "Indian",
+                "Arctic",
+                "Pacific"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13566,
+            "question_text": "What is the capital city of Australia?",
+            "options": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Perth"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Canberra is the capital city of Australia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13567,
+            "question_text": "Which element has the chemical symbol 'K'?",
+            "options": [
+                "Krypton",
+                "Potassium",
+                "Calcium",
+                "Carbon"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "K is the symbol for Potassium, derived from the Latin 'kalium'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13568,
+            "question_text": "Who is the founder of Microsoft?",
+            "options": [
+                "Steve Jobs",
+                "Bill Gates",
+                "Mark Zuckerberg",
+                "Jeff Bezos"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Bill Gates co-founded Microsoft in 1975.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13569,
+            "question_text": "The 'Bretton Woods Agreement' was primarily concerned with:",
+            "options": [
+                "Environmental protection",
+                "International financial order",
+                "Space exploration",
+                "Nuclear disarmament"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 1944 agreement established the framework for international financial relations after WWII.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

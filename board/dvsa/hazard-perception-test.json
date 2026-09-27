@@ -1,0 +1,81 @@
+{
+    "category": "DVSA",
+    "name": "Hazard Perception Test",
+    "board": "dvsa",
+    "subject": "hazard-perception-test",
+    "url": "/dvsa/hazard-perception-test/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 5,
+    "questions": [
+        {
+            "id": 6908,
+            "question_text": "When watching the hazard perception clips, when should you click?",
+            "options": [
+                "As soon as you see a potential hazard",
+                "Only when the hazard actually happens",
+                "Whenever you see another car",
+                "At regular intervals regardless of the road"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The test measures how quickly you identify a hazard developing so you can respond safely.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6909,
+            "question_text": "How many clips are usually shown in the hazard perception part of the test?",
+            "options": [
+                "10",
+                "14",
+                "50",
+                "5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test typically consists of 14 video clips, with at least one hazard in each, and one clip containing two hazards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6910,
+            "question_text": "What happens if you click your mouse too many times during a hazard perception clip?",
+            "options": [
+                "You are disqualified from the test",
+                "You score zero for that specific clip",
+                "You get an extra chance to re-watch the clip",
+                "You have to wait for the next clip"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Excessive clicking or 'pattern clicking' is treated as cheating, and the system will award no points for that clip.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6911,
+            "question_text": "What is the maximum score you can get for a single hazard?",
+            "options": [
+                "1 point",
+                "3 points",
+                "5 points",
+                "10 points"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The earlier you identify the hazard and click, the higher your score, with 5 points being the maximum per hazard.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6912,
+            "question_text": "What should you do if you think you missed a hazard during a clip?",
+            "options": [
+                "Restart the clip immediately",
+                "Ask the examiner to play it again",
+                "Continue to scan the road and watch for the next one",
+                "Click on everything just in case"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "You cannot go back and watch clips again, so focus on the remainder of the clip and the following ones.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

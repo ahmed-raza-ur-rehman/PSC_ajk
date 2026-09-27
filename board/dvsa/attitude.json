@@ -1,0 +1,95 @@
+{
+    "category": "DVSA",
+    "name": "Attitude",
+    "board": "dvsa",
+    "subject": "attitude",
+    "url": "/dvsa/attitude/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 6,
+    "questions": [
+        {
+            "id": 6862,
+            "question_text": "How should you react if another driver is driving aggressively behind you?",
+            "options": [
+                "Brake sharply to warn them",
+                "Maintain your speed and ignore them",
+                "Pull over and let them pass when safe",
+                "Speed up to increase the gap"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Staying calm and allowing an aggressive driver to pass reduces the risk of an incident.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6863,
+            "question_text": "How should you respond if a driver behind you is behaving aggressively?",
+            "options": [
+                "Brake suddenly to warn them",
+                "Speed up to get away",
+                "Remain calm and let them overtake",
+                "Signal to them to stop"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Do not react to aggressive behavior. Stay calm, maintain your speed, and allow the other driver to pass safely to avoid further conflict.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8414,
+            "question_text": "Another driver is tailgating you. How should you react?",
+            "options": [
+                "Brake hard to warn them",
+                "Increase your speed to create a gap",
+                "Slow down and allow them to overtake",
+                "Ignore them and keep your current speed"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Staying calm and allowing a tailgater to pass reduces the risk of a collision.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8415,
+            "question_text": "What is the best way to deal with an aggressive driver?",
+            "options": [
+                "Beep your horn to warn them",
+                "Flash your lights to show them they are wrong",
+                "Stay calm and do not retaliate",
+                "Speed up to get away from them"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Retaliation can escalate situations; maintaining a calm attitude is the safest response.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8416,
+            "question_text": "Another driver is aggressively tailgating you. How should you respond?",
+            "options": [
+                "Brake hard to warn them",
+                "Ignore them and focus on the road ahead",
+                "Speed up to create more distance",
+                "Keep brake-testing them"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Retaliating or reacting to aggression is dangerous; it is best to remain calm and maintain a safe, steady speed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8417,
+            "question_text": "How should you manage a situation involving an aggressive driver?",
+            "options": [
+                "Stop your car and confront them",
+                "Use your horn to express your annoyance",
+                "Allow them to pass and avoid engagement",
+                "Drive close behind them to signal they are wrong"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Avoiding confrontation is essential for road safety. Let the aggressive driver pass and do not escalate the situation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

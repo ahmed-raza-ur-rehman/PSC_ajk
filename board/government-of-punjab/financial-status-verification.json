@@ -1,0 +1,137 @@
+{
+    "category": "Government of Punjab",
+    "name": "Financial Status Verification",
+    "board": "government-of-punjab",
+    "subject": "financial-status-verification",
+    "url": "/government-of-punjab/financial-status-verification/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 11407,
+            "question_text": "Which document is typically required to verify an applicant's financial status for the Honhaar Scholarship?",
+            "options": [
+                "A screenshot of a personal social media feed",
+                "Authentic income certificates or salary slips of the primary breadwinner",
+                "A handwritten note about family savings",
+                "A list of household assets including luxury items"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Verified income documentation is essential to ensure that financial assistance is directed toward those who truly need it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11408,
+            "question_text": "Why is the verification of financial status a critical step in the scholarship process?",
+            "options": [
+                "To determine the student's favorite subjects",
+                "To ensure equity by targeting deserving, underprivileged students",
+                "To check if the student has a bank account",
+                "To estimate the student's future tax contributions"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The scholarship is need-based; therefore, financial verification is key to maintaining fairness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11409,
+            "question_text": "Why is the verification of income documentation essential?",
+            "options": [
+                "To ensure the scholarship funds are directed to those who truly need financial assistance",
+                "To report the applicant to tax authorities",
+                "To determine the applicant's political affiliation",
+                "To check if the applicant has a bank account"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Scholarship programs have limited funds; verification ensures equity by prioritizing those facing genuine financial constraints.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11410,
+            "question_text": "What type of document is generally accepted as proof of income for self-employed parents?",
+            "options": [
+                "A personal letter from the parent",
+                "A tax return or official bank statement reflecting business income",
+                "A receipt from a grocery store",
+                "A statement written by the applicant"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Official financial documentation provides the necessary verification for income when standard salary slips are not available.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11411,
+            "question_text": "In the context of the Honhaar Scholarship, how is 'financial need' usually assessed?",
+            "options": [
+                "By comparing total household income against family size and mandatory expenses",
+                "By checking the applicant’s social media posts",
+                "By asking the applicant how much they want to receive",
+                "By only looking at the father’s income"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A holistic view of financial health considers the number of dependents and existing financial burdens, not just raw income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11412,
+            "question_text": "What is the penalty for submitting falsified financial documents?",
+            "options": [
+                "A warning and a request for new documents",
+                "Automatic disqualification and potential blacklisting",
+                "A reduction in the scholarship amount",
+                "No penalty as long as the student is smart"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Integrity is a core requirement; falsifying documents is a serious ethical breach that results in immediate removal from consideration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11413,
+            "question_text": "If a family has irregular income, what is the best way to present financial status?",
+            "options": [
+                "Estimate the income for one lucky month",
+                "Submit a detailed affidavit/statement explaining the average monthly earnings over the last year",
+                "Exclude the income from the application",
+                "Submit a loan request instead"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Providing context and evidence for irregular income helps the committee form an accurate picture of the applicant's financial reality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11414,
+            "question_text": "Why is the validation of utility bills important in the financial verification process?",
+            "options": [
+                "It serves as a secondary indicator of the household's standard of living",
+                "It is a legal requirement for university admission",
+                "It checks if the applicant pays taxes",
+                "It determines the applicant's academic merit"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Utility costs and usage patterns often serve as a proxy for socioeconomic status when income reports are difficult to verify.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11415,
+            "question_text": "Which of the following is considered the most reliable proof of income for an applicant from an agricultural background?",
+            "options": [
+                "A personal letter of promise",
+                "Land ownership records and certified yield reports",
+                "A copy of the family photo album",
+                "A statement from a neighbor"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tangible documentation like land records and yield data provides an objective basis for estimating financial stability in agricultural sectors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

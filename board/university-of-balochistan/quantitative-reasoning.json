@@ -1,0 +1,207 @@
+{
+    "category": "University of Balochistan",
+    "name": "Quantitative Reasoning",
+    "board": "university-of-balochistan",
+    "subject": "quantitative-reasoning",
+    "url": "/university-of-balochistan/quantitative-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 10771,
+            "question_text": "If a shirt costs 800 PKR after a 20% discount, what was the original price?",
+            "options": [
+                "960 PKR",
+                "1000 PKR",
+                "1040 PKR",
+                "900 PKR"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If 20% discount is applied, 800 represents 80% of the price. 800 / 0.8 = 1000.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10772,
+            "question_text": "Find the next number in the sequence: 2, 6, 12, 20, 30, ...",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern involves adding consecutive even numbers: +4, +6, +8, +10, +12. 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10773,
+            "question_text": "Solve for x: 3x + 7 = 22",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 7 from both sides to get 3x = 15, then divide by 3 to get x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10774,
+            "question_text": "A car travels 120 km in 2 hours. What is its average speed in km/h?",
+            "options": [
+                "50",
+                "60",
+                "70",
+                "80"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Speed = Distance / Time = 120 / 2 = 60 km/h.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10775,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "15% of 200 = (15/100) * 200 = 15 * 2 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10776,
+            "question_text": "Find the area of a rectangle with length 10cm and width 5cm.",
+            "options": [
+                "15 sq cm",
+                "25 sq cm",
+                "50 sq cm",
+                "100 sq cm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Area of a rectangle = length * width = 10 * 5 = 50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10777,
+            "question_text": "If a square has a perimeter of 36 cm, what is its side length?",
+            "options": [
+                "6 cm",
+                "8 cm",
+                "9 cm",
+                "12 cm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Perimeter = 4 * side. So, 36 = 4 * side, which means side = 9.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10778,
+            "question_text": "Calculate: 2 + 3 * (4 - 1)",
+            "options": [
+                "11",
+                "15",
+                "10",
+                "9"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Following PEMDAS/BODMAS: parentheses first (3), then multiply (3 * 3 = 9), then add (2 + 9 = 11).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10779,
+            "question_text": "A man buys a pen for 50 PKR and sells it for 75 PKR. What is his profit percentage?",
+            "options": [
+                "25%",
+                "33%",
+                "50%",
+                "75%"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Profit = 75 - 50 = 25. Profit% = (Profit / Cost Price) * 100 = (25 / 50) * 100 = 50%.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10780,
+            "question_text": "If x/3 = 4, what is x + 2?",
+            "options": [
+                "10",
+                "12",
+                "14",
+                "16"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If x/3 = 4, then x = 12. Therefore, x + 2 = 12 + 2 = 14.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10781,
+            "question_text": "What is the next prime number after 13?",
+            "options": [
+                "14",
+                "15",
+                "17",
+                "19"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A prime number is only divisible by 1 and itself. 14, 15, and 16 are composite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10782,
+            "question_text": "The ratio of boys to girls in a class is 3:2. If there are 30 students total, how many girls are there?",
+            "options": [
+                "10",
+                "12",
+                "15",
+                "18"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Total parts = 3 + 2 = 5. Each part = 30 / 5 = 6. Girls = 2 parts = 2 * 6 = 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10783,
+            "question_text": "If a rectangle has an area of 48 square meters and its length is 8 meters, what is its perimeter?",
+            "options": [
+                "14 meters",
+                "28 meters",
+                "32 meters",
+                "12 meters"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Width = Area / Length = 48 / 8 = 6m. Perimeter = 2 * (Length + Width) = 2 * (8 + 6) = 28m.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10784,
+            "question_text": "What is the value of 2^4 + 3^2 - 5?",
+            "options": [
+                "20",
+                "18",
+                "25",
+                "30"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "2^4 = 16, 3^2 = 9. 16 + 9 = 25. 25 - 5 = 20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

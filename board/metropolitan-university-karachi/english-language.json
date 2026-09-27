@@ -1,0 +1,207 @@
+{
+    "category": "Metropolitan University Karachi",
+    "name": "English Language",
+    "board": "metropolitan-university-karachi",
+    "subject": "english-language",
+    "url": "/metropolitan-university-karachi/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 13162,
+            "question_text": "Identify the sentence with the correct grammatical structure.",
+            "options": [
+                "Neither the manager nor the employees was aware of the change.",
+                "Neither the manager nor the employees were aware of the change.",
+                "Neither the manager nor the employees is aware of the change.",
+                "Neither the manager nor the employees has been aware of the change."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When using 'neither...nor', the verb should agree with the noun closer to it. Since 'employees' is plural, the verb must be 'were'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13163,
+            "question_text": "Choose the word that best completes the sentence: The company's decision to downsize was ________, leading to significant unrest among the staff.",
+            "options": [
+                "unilateral",
+                "unanimous",
+                "ambiguous",
+                "collaborative"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Unilateral' means done by one side only, which contextually explains why it would lead to unrest compared to a collaborative or unanimous decision.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13164,
+            "question_text": "Choose the correct sentence to complete the following: 'Neither the manager nor the employees _____ aware of the policy change.'",
+            "options": [
+                "was",
+                "were",
+                "has been",
+                "is"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When using 'neither/nor', the verb should agree with the noun closest to it. Since 'employees' is plural, the verb must be plural.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13165,
+            "question_text": "Select the word that is most nearly opposite in meaning to 'Prudent'.",
+            "options": [
+                "Cautious",
+                "Reckless",
+                "Wise",
+                "Sensible"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Prudent means acting with or showing care and thought for the future; reckless implies a lack of caution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13166,
+            "question_text": "Identify the correctly punctuated sentence.",
+            "options": [
+                "The meeting, which was scheduled for Monday, was postponed.",
+                "The meeting which was scheduled for Monday was postponed.",
+                "The meeting, which was scheduled for Monday was postponed.",
+                "The meeting which was scheduled for Monday, was postponed."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Non-restrictive clauses (information that can be removed without changing the core meaning) must be set off by commas.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13167,
+            "question_text": "Choose the correct form of the verb: 'If she _____ harder, she would have passed the exam.'",
+            "options": [
+                "studies",
+                "studied",
+                "had studied",
+                "would study"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This is a third conditional sentence, used for hypothetical past situations. It requires 'if + past perfect' and 'would have + past participle'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13168,
+            "question_text": "Which of the following sentences uses a passive voice construction?",
+            "options": [
+                "The committee reviewed the proposal yesterday.",
+                "The proposal was reviewed by the committee yesterday.",
+                "Yesterday, the committee finished the review.",
+                "They reviewed the proposal yesterday."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In passive voice, the subject of the sentence receives the action rather than performing it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13169,
+            "question_text": "Choose the word that best fits: 'The senator's speech was so _____ that the entire audience remained silent for several minutes after she finished.'",
+            "options": [
+                "profound",
+                "superficial",
+                "trivial",
+                "ambiguous"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Profound' implies deep insight or meaning, which explains why the audience was left in a state of contemplation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13170,
+            "question_text": "Identify the error in the following sentence: 'She don't know where the file is.'",
+            "options": [
+                "She",
+                "don't",
+                "know",
+                "where"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject 'She' is singular, so it requires the singular verb 'doesn't' instead of 'don't'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13171,
+            "question_text": "Which word is correctly spelled?",
+            "options": [
+                "Accomodate",
+                "Acomodate",
+                "Accommodate",
+                "Acommodate"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling requires two 'c's and two 'm's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13172,
+            "question_text": "Select the synonym for 'Ephemeral'.",
+            "options": [
+                "Eternal",
+                "Fleeting",
+                "Permanent",
+                "Enduring"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral refers to something lasting for a very short time, which is synonymous with fleeting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13173,
+            "question_text": "What is the meaning of the idiom 'to cut corners'?",
+            "options": [
+                "To travel a shorter distance",
+                "To finish a project ahead of time",
+                "To do something in the easiest or cheapest way, often sacrificing quality",
+                "To retire from a business"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Cutting corners refers to bypassing standard procedures to save time or money.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13174,
+            "question_text": "Which of the following sentences utilizes a gerund correctly?",
+            "options": [
+                "Swimming are my favorite hobby.",
+                "I enjoy to swim in the ocean.",
+                "Swimming is my favorite form of exercise.",
+                "He swam because he likes swimming."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A gerund acts as a noun; here 'Swimming' acts as the subject of the sentence correctly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13175,
+            "question_text": "Choose the word that best completes the sentence: 'The team's success was ________ tied to their collaborative spirit.'",
+            "options": [
+                "indubitably",
+                "indistinctly",
+                "randomly",
+                "rarely"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Indubitably means without a doubt, which fits the context of emphasizing the team's success.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "category": "NASTP Institute of Information Technology",
+    "name": "Chemistry",
+    "board": "nastp-institute-of-information-technology",
+    "subject": "chemistry",
+    "url": "/nastp-institute-of-information-technology/chemistry/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 13497,
+            "question_text": "What is the pH of a neutral aqueous solution at 25°C?",
+            "options": [
+                "0",
+                "7",
+                "14",
+                "1"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A neutral solution has an equal concentration of hydronium and hydroxide ions, resulting in a pH of 7 at standard temperature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13498,
+            "question_text": "Which subatomic particle has a negligible mass compared to protons and neutrons?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Nucleus"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The mass of an electron is approximately 1/1836th of a proton or neutron, making it effectively negligible in mass calculations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13499,
+            "question_text": "What is the atomic number of Carbon?",
+            "options": [
+                "4",
+                "6",
+                "8",
+                "12"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Carbon is the sixth element in the periodic table, meaning it has 6 protons.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13500,
+            "question_text": "Which bond type involves the sharing of electron pairs between atoms?",
+            "options": [
+                "Ionic",
+                "Covalent",
+                "Metallic",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Covalent bonding is characterized by the sharing of electron pairs between atoms to achieve stability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13501,
+            "question_text": "What is the chemical formula for Methane?",
+            "options": [
+                "CH4",
+                "C2H6",
+                "CO2",
+                "CH3OH"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Methane is the simplest alkane consisting of one carbon atom and four hydrogen atoms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13502,
+            "question_text": "Which gas is released when an acid reacts with a metal carbonate?",
+            "options": [
+                "Oxygen",
+                "Hydrogen",
+                "Carbon Dioxide",
+                "Nitrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The reaction of an acid and a metal carbonate produces salt, water, and carbon dioxide gas.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13503,
+            "question_text": "What does a catalyst do in a chemical reaction?",
+            "options": [
+                "Increases activation energy",
+                "Decreases activation energy",
+                "Is consumed in the reaction",
+                "Changes the products"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Catalysts increase the rate of reaction by providing an alternative pathway with lower activation energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13504,
+            "question_text": "How many moles of gas occupy 22.4 liters at STP (Standard Temperature and Pressure)?",
+            "options": [
+                "0.5",
+                "1",
+                "2",
+                "10"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to Avogadro's law, one mole of any ideal gas occupies 22.4 liters at STP.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13505,
+            "question_text": "Which element is the most electronegative in the periodic table?",
+            "options": [
+                "Oxygen",
+                "Fluorine",
+                "Chlorine",
+                "Nitrogen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fluorine is the most electronegative element due to its small size and high effective nuclear charge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13506,
+            "question_text": "What is an exothermic reaction?",
+            "options": [
+                "A reaction that absorbs heat",
+                "A reaction that releases heat",
+                "A reaction that produces no energy",
+                "A reaction that requires light"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Exothermic reactions release energy into the surroundings, usually in the form of heat.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13507,
+            "question_text": "Which quantum number describes the shape of the atomic orbital?",
+            "options": [
+                "Principal",
+                "Azimuthal",
+                "Magnetic",
+                "Spin"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The azimuthal quantum number (l) determines the shape of the orbital (s, p, d, f).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13508,
+            "question_text": "What is the common name for the reaction between an acid and a base to form water and a salt?",
+            "options": [
+                "Combustion",
+                "Neutralization",
+                "Oxidation",
+                "Reduction"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When an acid and a base react, they neutralize each other, producing water and a salt.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13509,
+            "question_text": "Which isotope of Hydrogen contains one neutron?",
+            "options": [
+                "Protium",
+                "Deuterium",
+                "Tritium",
+                "Helium"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Protium has zero neutrons, Deuterium has one, and Tritium has two.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

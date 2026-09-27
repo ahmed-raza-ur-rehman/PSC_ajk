@@ -1,0 +1,445 @@
+{
+    "category": "NTS",
+    "name": "Mathematics",
+    "board": "nts",
+    "subject": "mathematics",
+    "url": "/nts/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 31,
+    "questions": [
+        {
+            "id": 12179,
+            "question_text": "If 3x + 5 = 20, what is the value of x?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 5 from both sides to get 3x = 15, then divide by 3 to get x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12180,
+            "question_text": "What is the result of 2^3 + 4^2?",
+            "options": [
+                "12",
+                "20",
+                "24",
+                "32"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "2^3 is 8 and 4^2 is 16. 8 + 16 = 24.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12372,
+            "question_text": "If a triangle has a base of 10cm and a height of 5cm, what is its area?",
+            "options": [
+                "25 sq cm",
+                "50 sq cm",
+                "15 sq cm",
+                "30 sq cm"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The area of a triangle is calculated as (1/2) * base * height. (1/2) * 10 * 5 = 25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12373,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "20",
+                "30",
+                "40",
+                "25"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "(15/100) * 200 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12374,
+            "question_text": "Solve for x: 5x - 7 = 3x + 13",
+            "options": [
+                "5",
+                "8",
+                "10",
+                "12"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Subtract 3x from both sides to get 2x - 7 = 13. Add 7 to both sides to get 2x = 20. Divide by 2 to get x = 10.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12375,
+            "question_text": "A car travels at 60 km/h. How far will it travel in 2 hours and 30 minutes?",
+            "options": [
+                "120 km",
+                "150 km",
+                "180 km",
+                "140 km"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Distance = Speed * Time. 2 hours 30 mins = 2.5 hours. 60 * 2.5 = 150.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12376,
+            "question_text": "What is the square root of 144 plus the square root of 64?",
+            "options": [
+                "20",
+                "22",
+                "18",
+                "24"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "sqrt(144) = 12, sqrt(64) = 8. 12 + 8 = 20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12377,
+            "question_text": "If a shirt is discounted by 20% and the original price was $50, what is the new price?",
+            "options": [
+                "30",
+                "35",
+                "40",
+                "45"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Discount = 0.20 * 50 = 10. New price = 50 - 10 = 40.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12378,
+            "question_text": "Evaluate: (8 + 2) * (5 - 3)^2",
+            "options": [
+                "20",
+                "40",
+                "60",
+                "80"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using BODMAS: 10 * (2)^2 = 10 * 4 = 40.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12379,
+            "question_text": "What is the value of x if 4^x = 64?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "4^1=4, 4^2=16, 4^3=64.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12380,
+            "question_text": "A bag contains 3 red, 4 blue, and 5 green marbles. What is the probability of picking a red marble?",
+            "options": [
+                "1/4",
+                "1/3",
+                "3/10",
+                "3/12"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Total marbles = 12. P(red) = 3/12 = 1/4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12381,
+            "question_text": "If the perimeter of a square is 36cm, what is the length of one side?",
+            "options": [
+                "6cm",
+                "8cm",
+                "9cm",
+                "12cm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Perimeter = 4 * side. 36/4 = 9.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12382,
+            "question_text": "If the sum of two numbers is 45 and their difference is 13, what is the value of the larger number?",
+            "options": [
+                "29",
+                "31",
+                "34",
+                "36"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Let x + y = 45 and x - y = 13. Adding the equations: 2x = 58, so x = 29.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12383,
+            "question_text": "A clock strikes once at 1 o'clock, twice at 2 o'clock, and so on. How many times does it strike in a 12-hour period?",
+            "options": [
+                "66",
+                "72",
+                "78",
+                "84"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sum of integers from 1 to 12 = n(n+1)/2 = 12(13)/2 = 78.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12707,
+            "question_text": "If f(x) = 3x^2 - 5, what is the value of f(-2)?",
+            "options": [
+                "7",
+                "1",
+                "-17",
+                "-7"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "f(-2) = 3(-2)^2 - 5 = 3(4) - 5 = 12 - 5 = 7.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12795,
+            "question_text": "What is the sum of the first 10 positive even integers?",
+            "options": [
+                "100",
+                "110",
+                "90",
+                "120"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sum is given by n(n+1) where n=10. So 10 * 11 = 110.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12831,
+            "question_text": "Solve for x: 2(x + 3) = 5x - 9.",
+            "options": [
+                "3",
+                "5",
+                "7",
+                "4"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "2x + 6 = 5x - 9 => 15 = 3x => x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13523,
+            "question_text": "If a triangle has sides of length 5, 12, and 13, what is its area?",
+            "options": [
+                "30",
+                "60",
+                "65",
+                "78"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is a right-angled triangle (5^2 + 12^2 = 13^2). Area = 0.5 * base * height = 0.5 * 5 * 12 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13524,
+            "question_text": "What is the slope of the line represented by the equation 4x - 2y = 8?",
+            "options": [
+                "4",
+                "2",
+                "-2",
+                "-4"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Rewrite as y = mx + c. -2y = -4x + 8 => y = 2x - 4. The slope is 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13525,
+            "question_text": "Solve for x: log_2(x) = 5",
+            "options": [
+                "10",
+                "25",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "By definition of logarithms, log_b(a) = c means b^c = a. Thus, 2^5 = 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13526,
+            "question_text": "If the probability of rain is 0.35, what is the probability that it will NOT rain?",
+            "options": [
+                "0.35",
+                "0.60",
+                "0.65",
+                "0.75"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sum of complementary probabilities is 1. P(not rain) = 1 - 0.35 = 0.65.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13527,
+            "question_text": "What is the value of 5! (5 factorial)?",
+            "options": [
+                "20",
+                "60",
+                "120",
+                "240"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "5! = 5 * 4 * 3 * 2 * 1 = 120.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13528,
+            "question_text": "Find the sum of the infinite geometric series: 10 + 5 + 2.5 + ...",
+            "options": [
+                "15",
+                "20",
+                "25",
+                "30"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sum = a / (1 - r). Here a = 10, r = 0.5. Sum = 10 / (1 - 0.5) = 10 / 0.5 = 20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13529,
+            "question_text": "If a shirt is discounted by 20% and now costs $40, what was the original price?",
+            "options": [
+                "48",
+                "50",
+                "52",
+                "55"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Let x be original price. 0.8x = 40 => x = 40 / 0.8 = 50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13530,
+            "question_text": "What are the roots of the quadratic equation x^2 - 7x + 12 = 0?",
+            "options": [
+                "2 and 6",
+                "3 and 4",
+                "-3 and -4",
+                "1 and 12"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Factoring (x-3)(x-4) = 0 gives roots x=3 and x=4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13531,
+            "question_text": "Calculate the median of the following dataset: 3, 8, 2, 10, 5.",
+            "options": [
+                "2",
+                "5",
+                "8",
+                "5.6"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ordered: 2, 3, 5, 8, 10. The middle value is 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13532,
+            "question_text": "If f(x) = x^2 and g(x) = x + 1, what is f(g(2))?",
+            "options": [
+                "5",
+                "6",
+                "9",
+                "10"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "g(2) = 2 + 1 = 3. f(3) = 3^2 = 9.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13533,
+            "question_text": "If a matrix A has dimensions 2x3 and matrix B has dimensions 3x4, what is the dimension of the product AB?",
+            "options": [
+                "2x4",
+                "3x3",
+                "4x2",
+                "2x3"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "When multiplying an m x n matrix by an n x p matrix, the resulting matrix has dimensions m x p.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13534,
+            "question_text": "What is the derivative of f(x) = e^(3x)?",
+            "options": [
+                "e^(3x)",
+                "3e^(3x)",
+                "x*e^(3x)",
+                "e^x"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the chain rule, the derivative of e^u is e^u * u'. Here, u = 3x, so u' = 3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13535,
+            "question_text": "Evaluate the integral of 2x dx from 0 to 3.",
+            "options": [
+                "3",
+                "6",
+                "9",
+                "12"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The integral of 2x is x^2. Evaluating x^2 from 0 to 3 gives 3^2 - 0^2 = 9.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13536,
+            "question_text": "If log(x) + log(2) = log(10), what is the value of x?",
+            "options": [
+                "4",
+                "5",
+                "8",
+                "20"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the log rule log(a) + log(b) = log(a*b), we get log(2x) = log(10), so 2x = 10, x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

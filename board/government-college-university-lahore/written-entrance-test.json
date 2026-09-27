@@ -1,0 +1,235 @@
+{
+    "category": "Government College University Lahore",
+    "name": "Written Entrance Test",
+    "board": "government-college-university-lahore",
+    "subject": "written-entrance-test",
+    "url": "/government-college-university-lahore/written-entrance-test/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 16,
+    "questions": [
+        {
+            "id": 10927,
+            "question_text": "Identify the primary purpose of the 'Analytical Reasoning' component in the GCU Entrance Test.",
+            "options": [
+                "To test physical strength",
+                "To measure critical thinking and problem-solving skills",
+                "To memorize historical dates",
+                "To evaluate musical talent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Analytical reasoning tests assess a student's ability to logically analyze information and reach valid conclusions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10928,
+            "question_text": "In the English proficiency section, which of the following is most commonly tested?",
+            "options": [
+                "Advanced C++ coding syntax",
+                "Grammar, vocabulary, and reading comprehension",
+                "Fluid dynamics",
+                "Ancient political history"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "University entrance exams focus on fundamental language skills necessary for academic research and study.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10929,
+            "question_text": "Which mathematical concept is most frequently tested in the Quantitative Reasoning section of the GCU entrance test?",
+            "options": [
+                "Advanced Differential Calculus",
+                "Basic Arithmetic, Ratios, and Proportions",
+                "Topology",
+                "Non-Euclidean Geometry"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The entrance test aims to evaluate fundamental numeracy and logic, focusing on ratios, percentages, and basic algebraic problems.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10930,
+            "question_text": "What type of questions are usually included in the 'Critical Thinking' portion of the written test?",
+            "options": [
+                "Recall-based history questions",
+                "Logical syllogisms and argument evaluation",
+                "Poetry analysis",
+                "Programming syntax errors"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Critical thinking questions test a candidate's ability to identify assumptions, evaluate conclusions, and spot logical fallacies in a provided text.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10931,
+            "question_text": "Why is the vocabulary section included in the English proficiency component?",
+            "options": [
+                "To test memory of the dictionary",
+                "To assess reading comprehension and context-based language usage",
+                "To prove the student has studied literature",
+                "To penalize students who didn't take advanced English"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Vocabulary in context ensures that students can understand the nuances of academic language, which is vital for university-level coursework.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10932,
+            "question_text": "Which of these is a standard format for the GCU Written Entrance Test?",
+            "options": [
+                "Essay-only format",
+                "A mix of MCQs and short descriptive answers",
+                "Oral-only assessment",
+                "Practical laboratory demonstration"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test is structured to measure both quick logical processing (MCQs) and the ability to articulate thoughts coherently (short descriptive answers).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10933,
+            "question_text": "What is the standard penalty for marking multiple options for a single question in the MCQ section?",
+            "options": [
+                "Full marks awarded",
+                "Zero marks for that question",
+                "Half marks deducted",
+                "Disqualification from the test"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Automated grading systems (OMR) treat multiple marks as an error, resulting in a zero score for that specific item.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10934,
+            "question_text": "In the Analytical Reasoning section, if a question provides conditions about the seating arrangement of five students, what is the core skill being tested?",
+            "options": [
+                "Mathematical computation",
+                "Logical deduction and spatial relationship mapping",
+                "Vocabulary retention",
+                "Historical knowledge"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Analytical reasoning tests the ability to deduce conclusions from a given set of constraints or rules.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10935,
+            "question_text": "Which of the following best describes the 'Reading Comprehension' task in the English section?",
+            "options": [
+                "Identifying synonyms of complex words",
+                "Summarizing the main argument and inferring the author's tone",
+                "Correcting grammatical errors in a long paragraph",
+                "Translating academic texts into another language"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Reading comprehension assesses the ability to interpret meaning, tone, and main themes rather than just identifying grammar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10936,
+            "question_text": "When solving quantitative word problems, what is the first step recommended for candidates?",
+            "options": [
+                "Guessing the answer",
+                "Translating the text into algebraic equations",
+                "Calculating the final sum immediately",
+                "Ignoring the units of measurement"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Systematic problem solving involves converting natural language descriptions into mathematical models.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10937,
+            "question_text": "What does an 'Analogy' question in the English proficiency test require?",
+            "options": [
+                "Identifying the historical origin of a word",
+                "Selecting a pair of words that shares a similar relationship to the target pair",
+                "Correcting the spelling of two words",
+                "Defining a scientific term"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Analogies test the ability to recognize relationships between concepts (e.g., part-to-whole, degree of intensity).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10938,
+            "question_text": "In the quantitative section, if a shopkeeper sells an item for 120 PKR at a 20% profit, what was the cost price?",
+            "options": [
+                "96 PKR",
+                "100 PKR",
+                "104 PKR",
+                "110 PKR"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cost Price = Selling Price / (1 + Profit%). 120 / 1.20 = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10939,
+            "question_text": "Choose the word that is most nearly opposite in meaning to 'Ephemeral'.",
+            "options": [
+                "Momentary",
+                "Enduring",
+                "Fleeting",
+                "Fragile"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means short-lived; Enduring means long-lasting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10940,
+            "question_text": "If 'All books are paper' and 'Some paper is recycled', which conclusion is logically sound?",
+            "options": [
+                "All books are recycled",
+                "Some books are recycled",
+                "No books are recycled",
+                "None of the above are definitely true"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The premises do not establish a definite link between books and the recycled category.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10941,
+            "question_text": "Which of the following is a common trap in the 'Analytical Reasoning' section?",
+            "options": [
+                "Spending too much time on a single complex scenario",
+                "Solving the questions too quickly",
+                "Reading the instructions in detail",
+                "Using a scratchpad"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Time management is critical in entrance tests; getting stuck on a single logic puzzle can lead to failing the overall test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10942,
+            "question_text": "What is the correct way to identify the main idea in a reading comprehension passage?",
+            "options": [
+                "Focusing solely on the first sentence of the first paragraph",
+                "Scanning for the author's tone and recurring themes throughout the text",
+                "Ignoring the conclusion",
+                "Memorizing the vocabulary words used"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The main idea is best synthesized by looking at the comprehensive message rather than a single sentence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

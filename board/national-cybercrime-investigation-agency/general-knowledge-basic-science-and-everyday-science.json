@@ -1,0 +1,207 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "General Knowledge — Basic Science and Everyday Science",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "general-knowledge-basic-science-and-everyday-science",
+    "url": "/national-cybercrime-investigation-agency/general-knowledge-basic-science-and-everyday-science/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 15342,
+            "question_text": "In the context of developing economies, what is the primary function of the International Monetary Fund (IMF) regarding member states facing balance of payments crises?",
+            "options": [
+                "Guaranteeing debt repayment solely through interest rate hikes.",
+                "Directly managing a nation's national budget expenditure.",
+                "Funding infrastructure projects entirely through global taxation.",
+                "Providing structural adjustment loans conditional on policy reforms."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "IMF loans typically come with policy conditions (Structural Adjustment Programs) requiring fiscal reforms, monetary stabilization, and institutional improvements.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15343,
+            "question_text": "In the context of international diplomacy and global governance, what specific measure is used by the UN Security Council (UNSC) that obligates all member states to cooperate with the Council's investigations, often leading to a debate over state sovereignty?",
+            "options": [
+                "Treaty of Westphalia ratification",
+                "Resolution under Chapter VII (Action with Respect to Threats to the Peace)",
+                "General Assembly Consensus Recommendation (GACR)",
+                "Universal Declaration of Human Rights adoption"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Chapter VII resolutions grant the UNSC powers to enforce international law, overriding national sovereignty when a threat to peace is declared.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15344,
+            "question_text": "In the context of Pakistan's relations with global institutions, which body represents a grouping of states that primarily emphasize Islamic identity and cooperation, rather than purely geographical or economic alignment?",
+            "options": [
+                "Organization of Islamic Cooperation (OIC)",
+                "Commonwealth of Nations",
+                "Economic Cooperation Organization (ECO)",
+                "Non-Aligned Movement (NAM)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The OIC is a diplomatic body representing states with Muslim-majority populations, focusing on political, economic, and social cooperation based on Islamic principles.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15345,
+            "question_text": "The scope of the Shanghai Cooperation Organization (SCO) primarily encompasses cooperation in which of the following areas?",
+            "options": [
+                "Political stability, economic development, counter-terrorism, and regional security.",
+                "Cultural exchange restricted only to South Asian and Central Asian countries.",
+                "Joint academic research and professional accreditation for emerging economies.",
+                "Exclusively focused on humanitarian aid and disaster relief among neighboring states."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SCO's mandate is comprehensive, focusing primarily on collective security, regional stability, combating terrorism, and fostering economic connectivity among its diverse member states.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15346,
+            "question_text": "The Shanghai Cooperation Organization (SCO) primarily aims to enhance regional stability and cooperation in the Eurasian region. Which of the following is NOT a permanent member of the SCO Council?",
+            "options": [
+                "India",
+                "Iran",
+                "Russia",
+                "China"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "China, India, and Russia are key permanent/major institutional members of the SCO Council. Iran, while a member, does not hold the status of a core permanent pillar in the structure compared to the other options.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15347,
+            "question_text": "The United Nations Security Council (UNSC) possesses the power to impose mandatory measures, including sanctions, through its resolutions. Which condition must be met for the UNSC to exercise this power?",
+            "options": [
+                "Resolution must be unanimously supported by all five permanent members (P5).",
+                "It requires the explicit endorsement of the General Assembly's majority vote.",
+                "The measure must explicitly relate to threats to international peace and security.",
+                "The resolution must pass by a two-thirds majority of the non-permanent members."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The power to impose mandatory measures is derived from Chapter VII of the UN Charter, which mandates that the Council must first determine the existence of a threat to international peace and security. This legal finding triggers the Council's authority.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15348,
+            "question_text": "What is the main functional mandate of the Shanghai Cooperation Organization (SCO) among its member states?",
+            "options": [
+                "Ensuring regional security cooperation and combating extremism and terrorism.",
+                "Promoting free trade and customs union within Central Asia.",
+                "Providing a platform for diplomatic consultations on climate change mitigation.",
+                "Facilitating cultural exchange and educational mobility across Eurasia."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The SCO emphasizes collective security and has its anti-terrorism and counter-extremism mechanisms as core components of its mandate.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15349,
+            "question_text": "Which body aims to foster cooperation in conflict resolution and counter-terrorism efforts among Muslim-majority nations, often addressing issues of transnational extremism?",
+            "options": [
+                "UN Human Rights Council",
+                "SCO",
+                "UN Security Council",
+                "Organization of Islamic Cooperation (OIC)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The OIC is a political, economic, and social bloc representing 57 member states, predominantly Muslim-majority nations, focusing on shared Islamic concerns.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15350,
+            "question_text": "Which global body, though primarily focused on international law and human rights, does not have direct mandatory enforcement powers over the sovereign military actions or internal political decisions of its member states?",
+            "options": [
+                "International Court of Justice (ICJ)",
+                "United Nations Security Council (UNSC)",
+                "World Trade Organization (WTO)",
+                "International Criminal Court (ICC)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Although the UNSC has powerful mandates (Chapter VII), its practical enforcement power is often limited by the political will and veto power of its permanent members, especially regarding sovereign military or internal political decisions.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15351,
+            "question_text": "Which international body mandates the establishment of a council that addresses challenges of inter-state conflict resolution and security cooperation among its member states?",
+            "options": [
+                "South Asian Association for Regional Cooperation (SAARC)",
+                "Organization of Islamic Cooperation (OIC)",
+                "African Union (AU)",
+                "Shanghai Cooperation Organisation (SCO)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The OIC’s structure includes the Islamic Solidarity Council (ISC), which is designed to address various issues, including conflict resolution and fostering unity among member states.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15352,
+            "question_text": "Which international body was initially established with the primary goal of promoting economic cooperation and stability among developing countries in the region?",
+            "options": [
+                "OIC (Organization of Islamic Cooperation)",
+                "SCO (Shanghai Cooperation Organisation)",
+                "SAARC (South Asian Association for Regional Cooperation)",
+                "Non-Aligned Movement (NAM)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SAARC was specifically established in 1985 with the primary goal of promoting economic cooperation and stability among the geographically grouped South Asian developing nations.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15353,
+            "question_text": "Which of the following international organizations is primarily focused on promoting Islamic solidarity and cooperation among member states?",
+            "options": [
+                "SCO",
+                "OIC",
+                "UN",
+                "SAARC"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Organization of Islamic Cooperation (OIC) is the key intergovernmental body coordinating cooperation among member states that are predominantly Muslim.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15354,
+            "question_text": "Which organization, founded primarily to promote cultural, economic, and political cooperation among Muslim-majority states, is headquartered in Jeddah, Saudi Arabia?",
+            "options": [
+                "League of Arab States",
+                "Arab League",
+                "Gulf Cooperation Council (GCC)",
+                "Organisation of Islamic Cooperation (OIC)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The OIC is an intergovernmental organization comprising 57 member states that aims to promote cultural, economic, and political cooperation among Muslim-majority states.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15355,
+            "question_text": "While SAARC focuses heavily on regional political cooperation among South Asian nations, which specialized organization promotes dialogue and connectivity among countries bordering the Bay of Bengal region?",
+            "options": [
+                "APEC",
+                "BBIN Initiative",
+                "ASEAN",
+                "BIMSTEC"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "BIMSTEC includes countries like Bangladesh, India, Myanmar, Sri Lanka, Thailand, Nepal, and Bhutan, focusing on holistic regional development and cooperation.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "Punjab Educational Endowment Fund (PEEF)",
+    "name": "Merit-Based Assessment",
+    "board": "punjab-educational-endowment-fund-peef",
+    "subject": "merit-based-assessment",
+    "url": "/punjab-educational-endowment-fund-peef/merit-based-assessment/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11237,
+            "question_text": "How does PEEF ensure 'Merit-Based Assessment' for applicants with equal academic marks?",
+            "options": [
+                "By conducting a random draw",
+                "By evaluating financial status and extracurricular achievements",
+                "By awarding the scholarship to the oldest candidate",
+                "By considering the distance from home to the university"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When academic scores are tied, PEEF utilizes secondary merit indicators such as financial hardship and extracurricular achievements to finalize the selection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11238,
+            "question_text": "How does PEEF prioritize candidates in case of a tie in academic scores during the merit-based assessment?",
+            "options": [
+                "Random lottery",
+                "Prioritizing the candidate with the lower family income",
+                "Prioritizing the candidate from a specific city",
+                "Prioritizing the candidate who applied first"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When academic scores are identical, PEEF prioritizes financial need to ensure the most vulnerable students receive the scholarship.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11239,
+            "question_text": "Does extracurricular achievement play a role in PEEF's merit-based assessment?",
+            "options": [
+                "It is the primary criteria",
+                "It is given equal weight to academic scores",
+                "It may be considered as a tie-breaker or additional credential",
+                "It is strictly ignored"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "While academic merit is the core, exceptional extracurricular performance can sometimes distinguish candidates in a competitive pool.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11240,
+            "question_text": "Is the merit assessment strictly based on the entrance exam or the previous degree's GPA?",
+            "options": [
+                "Only entrance exam score",
+                "Previous degree's GPA/percentage",
+                "Both, with a specific weighted average",
+                "It depends on the university policy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For Master's level PEEF scholarships, the merit is typically derived from the academic performance (percentage/GPA) of the preceding Bachelor's degree.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11241,
+            "question_text": "Does PEEF reserve quotas for specific groups (e.g., special needs students) in its merit-based assessment?",
+            "options": [
+                "No, it is 100% open merit",
+                "Yes, there are reserved quotas for special categories",
+                "Only if the university demands it",
+                "Only for orphans"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF operates with special quotas for students with disabilities, minorities, and other marginalized groups to promote inclusive education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11242,
+            "question_text": "Why is the 'Merit-Based Assessment' strictly supervised by a PEEF internal committee?",
+            "options": [
+                "To increase the application fee",
+                "To maintain transparency and prevent favoritism",
+                "To speed up the application process",
+                "To ensure only local students apply"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Strict oversight ensures that the selection process remains meritocratic, transparent, and fair for all applicants.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11243,
+            "question_text": "If an applicant has a gap year in their education, how is it handled during merit assessment?",
+            "options": [
+                "It leads to immediate rejection",
+                "It is ignored provided the total aggregate is high",
+                "A deduction of 5% is applied to the final score",
+                "The student must pay double the fees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Gap years generally do not disqualify a student, provided they meet the overall academic percentage requirement for the scholarship.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11244,
+            "question_text": "In the context of merit, how is 'hardship' factored into the scholarship selection process?",
+            "options": [
+                "It replaces the need for academic marks",
+                "It is used as a secondary criterion if marks are identical",
+                "It is irrelevant to the PEEF assessment",
+                "It automatically increases the marks by 10%"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF merit-based assessment first looks at academic performance, using hardship (financial or social) as a tie-breaker or priority factor.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11245,
+            "question_text": "Is the merit for the PEEF scholarship determined solely by the university entrance exam?",
+            "options": [
+                "Yes, it is the only metric",
+                "No, it is based on the aggregate of the previous degree and the entry test",
+                "No, it is based on an interview only",
+                "Yes, but only for top-ranked universities"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The merit is typically calculated based on a weighted aggregate of the candidate's previous academic degree and the Master's level entry exam results.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11246,
+            "question_text": "What is the role of the PEEF Scholarship Selection Committee?",
+            "options": [
+                "To manage the university budget",
+                "To shortlist candidates strictly according to the approved merit criteria",
+                "To change the scholarship policy annually",
+                "To recruit professors for the university"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The committee's primary mandate is to ensure the integrity and transparency of the merit-based selection process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

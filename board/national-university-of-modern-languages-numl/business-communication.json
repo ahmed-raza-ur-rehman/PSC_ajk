@@ -1,0 +1,151 @@
+{
+    "category": "National University of Modern Languages (NUML)",
+    "name": "Business Communication",
+    "board": "national-university-of-modern-languages-numl",
+    "subject": "business-communication",
+    "url": "/national-university-of-modern-languages-numl/business-communication/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12110,
+            "question_text": "What is the primary purpose of a 'persuasive' business message?",
+            "options": [
+                "To inform about policy changes",
+                "To request a routine service",
+                "To convince the reader to take a specific action",
+                "To provide factual data only"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Persuasive communication aims to influence the audience to change their perspective or perform an action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12111,
+            "question_text": "Which element in the communication process refers to the interference or distortion that prevents a message from being received clearly?",
+            "options": [
+                "Feedback",
+                "Encoding",
+                "Noise",
+                "Channel"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Noise represents any barrier or disturbance that disrupts the transmission or understanding of the message.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12112,
+            "question_text": "What is the purpose of a 'feedback' mechanism in the communication loop?",
+            "options": [
+                "To initiate a new message",
+                "To confirm the receiver has understood the message",
+                "To filter out the noise",
+                "To encode the message"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Feedback allows the sender to know if the message was received and interpreted as intended.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12113,
+            "question_text": "Which of the following is an example of 'non-verbal' communication?",
+            "options": [
+                "Writing a report",
+                "Sending an email",
+                "Facial expressions",
+                "Giving a speech"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Non-verbal communication includes body language, facial expressions, and gestures without using words.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12114,
+            "question_text": "Why should business writing be concise?",
+            "options": [
+                "To make the document look shorter",
+                "To save the reader's time and increase clarity",
+                "To reduce printing costs",
+                "To use fewer words"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Conciseness removes unnecessary words, ensuring the reader focuses on the core message quickly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12115,
+            "question_text": "Which of these is a barrier to effective communication?",
+            "options": [
+                "Active listening",
+                "Jargon",
+                "Conciseness",
+                "Immediate feedback"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Jargon is specialized language that may not be understood by the receiver, thus creating a barrier to clear understanding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12116,
+            "question_text": "What is the 'Seven Cs' principle 'Clarity' in business writing?",
+            "options": [
+                "Including as much detail as possible",
+                "Using complex vocabulary to sound professional",
+                "Expressing ideas simply so the message is easy to understand",
+                "Keeping the email very short"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Clarity requires the writer to use simple language and direct structure to ensure the reader understands the intended meaning immediately.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12117,
+            "question_text": "Which type of communication follows the formal hierarchy of an organization?",
+            "options": [
+                "Grapevine communication",
+                "Vertical communication",
+                "Informal communication",
+                "Lateral communication"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Vertical communication (upward or downward) follows the formal chain of command within an organizational structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12118,
+            "question_text": "What is the primary purpose of a 'memo' in a business setting?",
+            "options": [
+                "External marketing",
+                "Internal communication",
+                "Legal contract agreement",
+                "Informal social gathering"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Memos are specifically designed for communication within an organization to convey policies, updates, or instructions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12168,
+            "question_text": "Which of these is an example of an 'Upward' communication flow?",
+            "options": [
+                "Manager to subordinate",
+                "Employee to supervisor",
+                "Departmental newsletter",
+                "Customer feedback survey"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Upward communication occurs when information flows from lower levels of the hierarchy to higher levels, such as reporting progress.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

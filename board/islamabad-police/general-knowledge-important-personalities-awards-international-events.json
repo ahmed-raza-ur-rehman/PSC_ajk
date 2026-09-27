@@ -1,0 +1,305 @@
+{
+    "category": "Islamabad Police",
+    "name": "General Knowledge — Important Personalities, Awards & International Events",
+    "board": "islamabad-police",
+    "subject": "general-knowledge-important-personalities-awards-international-events",
+    "url": "/islamabad-police/general-knowledge-important-personalities-awards-international-events/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 21,
+    "questions": [
+        {
+            "id": 6983,
+            "question_text": "Which country's currency is the Riyal, and what is its capital city?",
+            "options": [
+                "Egypt, Cairo",
+                "Saudi Arabia, Riyadh",
+                "Jordan, Amman",
+                "United Arab Emirates, Abu Dhabi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Riyal is the official currency of Saudi Arabia, and Riyadh is its capital city.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7239,
+            "question_text": "If a currency is known as the Baht, which major Southeast Asian country uses this currency, distinguishing it from neighboring countries that use similar names?",
+            "options": [
+                "Indonesia",
+                "Malaysia",
+                "Philippines",
+                "Thailand"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Baht is the official currency of Thailand. Indonesia uses the Rupiah, the Philippines uses the Peso, and Malaysia uses the Ringgit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7303,
+            "question_text": "Identify the country from the list that does NOT share a primary language or linguistic group with the other three countries mentioned.",
+            "options": [
+                "Morocco",
+                "Tunisia",
+                "Algeria",
+                "Libya"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "While all North African nations are multilingual, Algeria's linguistic makeup, which features a distinct and historically powerful indigenous Berber identity, is considered the most distinct outlier compared to the generally interconnected linguistic groups of Morocco, Tunisia, and Libya.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7367,
+            "question_text": "Which of the following countries, known for its major natural gas reserves, has a currency named the 'Dinar'?",
+            "options": [
+                "Bahrain",
+                "Oman",
+                "Kuwait",
+                "Qatar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Kuwait uses the Kuwaiti Dinar (KWD). This currency is distinct from the Bahraini Dinar or Jordanian Dinars, making Kuwait the correct choice among these options.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7431,
+            "question_text": "Which country shares a land border with Pakistan and utilizes the local currency that is modeled after the Indian Rupee?",
+            "options": [
+                "Nepal",
+                "China",
+                "Afghanistan",
+                "Iran"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Nepal is a neighbor of Pakistan that uses the Nepali Rupee, which is heavily modeled after the Indian Rupee.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7495,
+            "question_text": "Consider the following sets of country-capital pairs. Which set contains a country whose capital city is not located in its most populous province or state?",
+            "options": [
+                "Thailand: Bangkok (in Central Region)",
+                "Indonesia: Jakarta (near highly populated Java)",
+                "Nigeria: Abuja (outside Lagos State)",
+                "Philippines: Manila (in highly populated Luzon)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nigeria's capital, Abuja, was constructed and strategically placed outside Lagos, which is Nigeria's most populous and economically significant metropolitan area.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7559,
+            "question_text": "Which of the following sovereign nations is characterized by its capital city being Kyiv, and its currency being the Hryvnia?",
+            "options": [
+                "Georgia",
+                "Moldova",
+                "Belarus",
+                "Ukraine"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Ukraine has Kyiv as its capital and uses the Ukrainian Hryvnia (UAH) as its currency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7673,
+            "question_text": "If a traveler is looking for a country with the official currency ‘Ringgit’ and a capital city that is geographically located on the island of Klang, which nation should they visit?",
+            "options": [
+                "Malaysia",
+                "Thailand",
+                "Philippines",
+                "Singapore"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Malaysia uses the Malaysian Ringgit (MYR) and its administrative capital region includes Klang.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7777,
+            "question_text": "The capital city of which country is located on the confluence of two major rivers, making its historical and geopolitical importance particularly high?",
+            "options": [
+                "Port Blair",
+                "Lagos",
+                "Dhaka",
+                "Kolkata"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Dhaka is situated on the Padma (Ganges) and Jamuna (Brahmaputra) confluence, making it a critical geographical and historical hub in Bangladesh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7829,
+            "question_text": "If a travel itinerary requires passing through three countries—one in the Caucasus region, one in the Levant region, and one in the Arabian Peninsula—and the primary currencies are the Ruble, the Lira, and the Riyal, what is the most probable sequence of countries?",
+            "options": [
+                "Armenia, Israel, Oman",
+                "Turkey, Jordan, Yemen",
+                "Georgia, Lebanon, Saudi Arabia",
+                "Azerbaijan, Syria, Qatar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Georgia (Caucasus, Ruble), Lebanon (Levant, Lira), and Saudi Arabia (Arabian Peninsula, Riyal) fit the regional and currency criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7879,
+            "question_text": "Consider the following pairs: 1. Comoros: Comorian Franc; 2. Seychelles: Seychellois Rupee; 3. Maldives: Rufiyaa; 4. Mauritius: Rupees. Which combination correctly links a country to its main currency?",
+            "options": [
+                "2, 3 and 4 only",
+                "1, 3 and 4 only",
+                "1, 2 and 4 only",
+                "1, 2, 3 and 4"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pairs 1 (Comoros: Comorian Franc), 3 (Maldives: Rufiyaa), and 4 (Mauritius: Rupees) correctly link the country to its main currency. Pair 2 is incorrect; while Seychelles has a local currency, general knowledge sources often emphasize its link to the Indian Rupee or note currency changes, making the listed pairing questionable for a definitive multiple-choice test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7925,
+            "question_text": "Which of the following pairs correctly matches the country to its associated national currency?",
+            "options": [
+                "North Macedonia: Denar; Bulgaria: Lev",
+                "Lithuania: Euro; Czech Republic: Koruna",
+                "Bosnia and Herzegovina: Euro; Slovenia: Euro",
+                "Georgia: Lari; Armenia: Dram"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Georgia's national currency is the Lari, and Armenia's national currency is the Dram. The pairing in option C is correct.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8025,
+            "question_text": "Consider the currency exchange relationship: If a country's currency is highly correlated with a major global reserve currency, what does this typically suggest about the local economy's stability and trade orientation?",
+            "options": [
+                "It indicates a stable historical exchange rate managed primarily by local monetary policy alone.",
+                "It implies the economy is largely self-sufficient and insulated from international fluctuations.",
+                "It signifies negligible dependency on foreign investment, leading to commodity export focus.",
+                "It suggests deep integration into global financial markets and reliance on foreign trade."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "High correlation suggests that the local currency's value is heavily influenced by the global reserve currency, indicating deep integration into global trade and finance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8121,
+            "question_text": "Which major South American country uses the currency 'Guaraní' and has its capital located in the same city name?",
+            "options": [
+                "Venezuela; Caracas",
+                "Colombia; Bogotá",
+                "Paraguay; Asunción",
+                "Bolivia; La Paz"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Paraguay uses the Guaraní currency, and its capital city, Asunción, shares its name.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8171,
+            "question_text": "If a country's capital is Islamabad, and its major port city is Karachi, what country is being referenced?",
+            "options": [
+                "Bahrain",
+                "Pakistan",
+                "Nepal",
+                "Sri Lanka"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Islamabad is the capital, and Karachi is a major port city in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8221,
+            "question_text": "Which of the following pairs correctly matches the country with its official currency, excluding those that use a major global reserve currency?",
+            "options": [
+                "Egypt - Pound; Sudan - Dinar",
+                "Nigeria - Naira; Algeria - Dinar",
+                "Ghana - Cedi; Djibouti - Franc",
+                "Kenya - Shilling; Morocco - Dirham"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Kenya uses the Kenyan Shilling and Morocco uses the Moroccan Dirham. The other options contain incorrect currency pairings (e.g., Sudan's currency is the Sudanese Pound, not Dinar).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8269,
+            "question_text": "Consider the following pairs: 1. Belize: Dollar; 2. Saint Kitts and Nevis: Dollar; 3. Guyana: Dollar. Which option correctly identifies the common currency for these three nations?",
+            "options": [
+                "Jamaican Dollar",
+                "British Dollar",
+                "Trinidad and Tobago Dollar",
+                "Eastern Caribbean Dollar"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Belize, St. Kitts and Nevis, and Guyana all use the Eastern Caribbean Dollar (XCD).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8319,
+            "question_text": "Consider the following pairs of country and its currency: 1) Brazil - Real; 2) South Korea - Won; 3) Argentina - Peso; 4) Ethiopia - Lira. Which option contains only correct pairs?",
+            "options": [
+                "1, 2, and 3 only",
+                "2 and 3 only",
+                "1 and 2 only",
+                "1, 2, 3, and 4"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The currency of Ethiopia is the Birr, not the Lira. Therefore, only the pairs 1, 2, and 3 (Brazil - Real, South Korea - Won, and Argentina - Peso) are accurate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8368,
+            "question_text": "Among the countries listed, which one shares a capital city that is also the largest city in its respective country, based on population size and economic influence?",
+            "options": [
+                "France (Paris)",
+                "Iran (Tehran)",
+                "Italy (Rome)",
+                "Mexico (Mexico City)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Mexico City is both the capital and the most populous and economically dominant city of Mexico.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20398,
+            "question_text": "The country known as the 'Land of the Rising Sun' and its currency are associated with which pair?",
+            "options": [
+                "Vietnam, Dong",
+                "China, Yuan",
+                "Japan, Yen",
+                "South Korea, Won"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Japan translates to the Land of the Rising Sun, and the Yen is its national currency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20442,
+            "question_text": "Consider the following statements regarding the geographical relationships of countries: I. Djibouti is bordered by the Red Sea and the Gulf of Aden. II. Eritrea's coastline touches the Bab el Mandeb strait. III. Yemen is geographically part of the Horn of Africa.",
+            "options": [
+                "II and III only",
+                "I and III only",
+                "I, II, and III",
+                "I and II only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The only factually correct statement is I. As 'I only' is not an available option, the question cannot be answered accurately with the given choices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

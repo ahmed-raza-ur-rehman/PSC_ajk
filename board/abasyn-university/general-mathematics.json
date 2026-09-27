@@ -1,0 +1,193 @@
+{
+    "category": "Abasyn University",
+    "name": "General Mathematics",
+    "board": "abasyn-university",
+    "subject": "general-mathematics",
+    "url": "/abasyn-university/general-mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 12557,
+            "question_text": "A machine produces 150 units in 3 hours. How many units does it produce in 8 hours at the same rate?",
+            "options": [
+                "300",
+                "400",
+                "450",
+                "500"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Rate = 150 / 3 = 50 units/hour. 50 * 8 = 400 units.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12584,
+            "question_text": "If a product is sold at a 15% profit margin on its cost price of $200, what is the profit amount?",
+            "options": [
+                "$15",
+                "$20",
+                "$30",
+                "$35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Profit = 15% of $200. 0.15 * 200 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12596,
+            "question_text": "If a business product costs $80 and is marked up by 25%, what is the final selling price?",
+            "options": [
+                "$95",
+                "$100",
+                "$105",
+                "$120"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "25% of $80 is $20. Adding the markup to the cost gives $80 + $20 = $100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12597,
+            "question_text": "Solve for x in the equation: 3x + 12 = 30",
+            "options": [
+                "4",
+                "6",
+                "8",
+                "14"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 12 from both sides to get 3x = 18. Divide by 3 to find x = 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12598,
+            "question_text": "If a rectangle has a length of 12 cm and a width of 5 cm, what is its perimeter?",
+            "options": [
+                "60 cm",
+                "34 cm",
+                "17 cm",
+                "24 cm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Perimeter = 2 * (length + width) = 2 * (12 + 5) = 2 * 17 = 34.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12599,
+            "question_text": "What is the value of 2^4 * 3^2?",
+            "options": [
+                "144",
+                "72",
+                "48",
+                "36"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "2^4 = 16, 3^2 = 9. 16 * 9 = 144.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12600,
+            "question_text": "If an item is sold for $150 after a 20% discount, what was the original price?",
+            "options": [
+                "$180",
+                "$187.50",
+                "$175",
+                "$120"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Let original price be X. X * 0.80 = 150. X = 150 / 0.80 = 187.50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12601,
+            "question_text": "Solve for y: 5y - 7 = 3y + 11",
+            "options": [
+                "y = 2",
+                "y = 4",
+                "y = 9",
+                "y = 18"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Subtract 3y from both sides: 2y - 7 = 11. Add 7: 2y = 18. Divide by 2: y = 9.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12602,
+            "question_text": "What is the average of 14, 22, 36, and 48?",
+            "options": [
+                "30",
+                "32",
+                "28",
+                "35"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Sum = 14 + 22 + 36 + 48 = 120. Average = 120 / 4 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12603,
+            "question_text": "Solve for n: 4n - 10 = 2n + 6",
+            "options": [
+                "n = 4",
+                "n = 8",
+                "n = 12",
+                "n = 16"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 2n from both sides: 2n - 10 = 6. Add 10 to both sides: 2n = 16. Divide by 2: n = 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12604,
+            "question_text": "A circle has a diameter of 14 cm. Using 22/7 for pi, what is the circumference (C = πd)?",
+            "options": [
+                "22 cm",
+                "44 cm",
+                "88 cm",
+                "154 cm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Circumference = (22/7) * 14. 14 divided by 7 is 2. 22 * 2 = 44.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12605,
+            "question_text": "What is the compound interest on $1,000 for 2 years at an annual rate of 10%?",
+            "options": [
+                "$200",
+                "$210",
+                "$1,200",
+                "$1,210"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Year 1: 10% of 1000 = 100. New balance = 1100. Year 2: 10% of 1100 = 110. Total interest = 100 + 110 = 210.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12606,
+            "question_text": "A student scored 80, 90, and 70 in three exams. What score is needed on the fourth exam to have an average of 85?",
+            "options": [
+                "90",
+                "95",
+                "100",
+                "105"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Target total for 4 exams = 85 * 4 = 340. Current total = 80 + 90 + 70 = 240. 340 - 240 = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "category": "Islamabad Police",
+    "name": "General Knowledge — Information Technology & General Awareness",
+    "board": "islamabad-police",
+    "subject": "general-knowledge-information-technology-general-awareness",
+    "url": "/islamabad-police/general-knowledge-information-technology-general-awareness/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 27,
+    "questions": [
+        {
+            "id": 6990,
+            "question_text": "Which of the following best describes the primary mechanism by which the human body utilizes glucose molecules from digestion?",
+            "options": [
+                "It is directly expelled through sweat pores to maintain osmotic balance.",
+                "It is broken down into methane gas via bacterial action in the large intestine.",
+                "It is primarily metabolized in the liver and then used in the brain and red blood cells as the main fuel source.",
+                "It is immediately converted into fatty acids and stored in adipose tissue for long-term energy."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The liver regulates blood glucose, and the brain and red blood cells are highly dependent on glucose metabolism (glycolysis) for continuous energy supply.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6991,
+            "question_text": "In biochemistry, the process by which microorganisms derive chemical energy from inorganic compounds, such as ammonium or nitrates, is known as:",
+            "options": [
+                "Methanogenesis",
+                "Heterotrophic nitrification",
+                "Photofermentation",
+                "Chemoautotrophy"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Chemoautotrophy involves using chemical energy (from inorganic sources) to fix carbon dioxide and produce organic matter.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7054,
+            "question_text": "In the context of biological systems and human physiology, what is the primary metabolic role of the enzyme carbonic anhydrase, which is crucial for regulating acid-base balance?",
+            "options": [
+                "Activating vitamin B12 by removing an adenosyl group",
+                "Facilitating the breakdown of lactate into pyruvic acid in anaerobic glycolysis",
+                "Catalyzing the hydration of carbon dioxide (CO2 + H2O <=> H2CO3) in red blood cells",
+                "Converting glucose into glycogen via the action of glucokinase in the liver"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Carbonic anhydrase rapidly catalyzes the reversible reaction involving CO2 and water, generating bicarbonate ions, which is central to blood buffering.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7055,
+            "question_text": "What is the function of the renal corpuscle in the human kidney?",
+            "options": [
+                "Reabsorbing necessary salts and glucose",
+                "Concentrating urine through loop of Henle",
+                "Secreting excess hormones into the blood",
+                "Filtration of blood plasma to form primary filtrate"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The renal corpuscle (glomerulus and Bowman's capsule) is where blood filtration occurs to remove waste products from the blood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7246,
+            "question_text": "Which component of blood is primarily responsible for initiating blood clotting (coagulation)?",
+            "options": [
+                "Platelets (Thrombocytes)",
+                "Erythrocytes (Red Blood Cells)",
+                "Lymphocytes (White Blood Cells)",
+                "Plasma proteins (e.g., Albumin)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Platelets are cell fragments that initiate the coagulation cascade upon vascular injury by adhering to the site and triggering the formation of a fibrin mesh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7247,
+            "question_text": "Which fundamental concept of chemistry explains the tendency of atoms to achieve the stable electron configuration of a noble gas?",
+            "options": [
+                "Hund's Rule",
+                "Pauli Exclusion Principle",
+                "Valence Bonding Concept",
+                "Octet Rule"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Octet Rule states that atoms tend to gain, lose, or share electrons to achieve eight valence electrons, mimicking noble gases.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7310,
+            "question_text": "Which structural component of the Earth's atmosphere is crucial for absorbing high-energy ultraviolet (UV) radiation, thereby protecting life on the surface?",
+            "options": [
+                "Nitrogen layer, which provides atmospheric stability.",
+                "Ozone layer, located primarily in the stratosphere.",
+                "Mesospheric aerosols, which scatter light.",
+                "Tropospheric gases, which contain water vapor."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ozone layer (O₃) in the stratosphere is highly effective at absorbing the harmful UV-B and UV-C wavelengths of solar radiation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7374,
+            "question_text": "If a solution's pH value increases significantly, what primary change is most likely occurring to the concentration of hydrogen ions?",
+            "options": [
+                "The concentration of hydroxide ions (OH-) increases.",
+                "The total salt concentration increases.",
+                "The concentration of hydrogen ions (H+) decreases.",
+                "The solution's temperature must also increase."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "pH is defined as -log[H+]. Therefore, an increase in pH signifies a decrease in the hydrogen ion concentration ([H+]), indicating that the solution is becoming more basic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7375,
+            "question_text": "In the context of human physiology and biochemistry, what specific function distinguishes creatine phosphate stores in muscle cells from general ATP reserves, making it crucial for short, intense bursts of activity?",
+            "options": [
+                "It acts as a rapid, readily available donor of high-energy phosphate groups to regenerate ATP quickly.",
+                "It functions chiefly as a buffer against systemic lactic acid buildup during anaerobic respiration.",
+                "It is primarily involved in stabilizing the cell membrane potential during periods of high exertion.",
+                "Its primary role is the long-term storage of metabolic waste products that requires detoxification."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Creatine phosphate (CrP) rapidly donates a phosphate group to regenerate ADP into ATP, powering immediate, high-intensity muscle contractions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7438,
+            "question_text": "Which component is primarily responsible for initiating the coagulation cascade in the blood, often involving contact with negatively charged surfaces?",
+            "options": [
+                "Complement system C3a anaphylatoxin action",
+                "Prothrombin activation by Tissue Factor",
+                "Fibrinogen binding to Thrombin receptors",
+                "Platelet phospholipids and Factor XII activation"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The initial phase involves the activation of intrinsic pathways (like Factor XII) upon contact with foreign or negatively charged surfaces, triggering the cascade.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7439,
+            "question_text": "Total Internal Reflection (TIR), a fundamental principle in fiber optics, can only occur when light travels from which type of medium?",
+            "options": [
+                "From a more optically dense medium to a less optically dense medium",
+                "From a vacuum to any transparent medium",
+                "From a less optically dense medium to a more optically dense medium",
+                "Through a polarized medium perpendicular to the boundary surface"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "TIR requires light to travel from a higher refractive index (optically dense) medium to a lower refractive index (optically less dense) medium, and the angle of incidence must exceed the critical angle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7503,
+            "question_text": "In human physiology, which component of blood is crucial for the coagulation cascade and formation of a stable clot?",
+            "options": [
+                "Platelets (Thrombocytes)",
+                "Erythrocytes (Red Blood Cells)",
+                "Plasma proteins (e.g., Fibrinogen)",
+                "Lymphocytes (Immune Cells)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plasma proteins, specifically fibrinogen, are converted into fibrin threads, which form the structural meshwork of a blood clot.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7566,
+            "question_text": "Which biological phenomenon, crucial for the stability of DNA, involves the spontaneous formation of hydrogen bonds between complementary nitrogenous bases, which is subsequently maintained by enzymes?",
+            "options": [
+                "Watson-Crick pairing",
+                "Gibbs free energy change",
+                "Electrostatic shielding effect",
+                "Polymerase chain reaction (PCR) cycle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Watson-Crick pairing describes the specific hydrogen bonding rules (A-T, G-C) that maintain the integrity of the DNA double helix.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7567,
+            "question_text": "Which natural process is responsible for the phenomenon of tides in the ocean, and how does this force primarily interact with Earth's gravitational pull?",
+            "options": [
+                "Earth's rotation speed causing centrifugal force that pushes water away from the equator.",
+                "Interaction of high-altitude winds creating pressure gradients perpendicular to the coastline.",
+                "Atmospheric pressure changes coupled with thermal expansion of ocean water.",
+                "Gravitational pull from the Moon and Sun creating differential forces (spring/neap tides)."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Tides are primarily caused by the differential gravitational forces exerted by the Moon and Sun, resulting in high (spring) and low (neap) tides.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7679,
+            "question_text": "Which type of force is responsible for keeping the planets in stable elliptical orbits around the Sun?",
+            "options": [
+                "Electromagnetic force",
+                "Nuclear force",
+                "Gravitational force",
+                "Frictional force"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Gravity is the attractive force exerted by masses, and it provides the necessary centripetal force for orbital motion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7783,
+            "question_text": "In the context of everyday science, what common household material is most effective for detecting the presence of starch due to its iodine-based chemical reaction?",
+            "options": [
+                "Betadine Solution",
+                "Lugol's Solution",
+                "Tincture of Iodine",
+                "Potassium Iodide"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tincture of Iodine (Iodine solution) reacts with starch to produce a characteristic blue-black color.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7930,
+            "question_text": "If a solution has a pH of 3, what can be accurately stated about its hydrogen ion concentration ($\text{[H}^+]$)?",
+            "options": [
+                "The concentration is significantly lower than neutral water.",
+                "The concentration is exactly one-thousandth (1/1000th) that of neutral water.",
+                "The concentration is 1000 times higher than that of neutral water.",
+                "The concentration is equal to that of pure water."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A pH of 3 means the hydrogen ion concentration is $10^{-3}$ M. Compared to neutral water ($\text{pH}=7$ and $[\text{H}^+] = 10^{-7}$ M), this concentration is $10^4$ (or 10,000) times higher, establishing it as a highly acidic solution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8030,
+            "question_text": "Which process involves the conversion of light energy into chemical energy, primarily occurring in plant chloroplasts?",
+            "options": [
+                "Fermentation",
+                "Photosynthesis",
+                "Respiration",
+                "Transpiration"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Photosynthesis is the process where plants use sunlight (light energy) to convert carbon dioxide and water into glucose (chemical energy).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8077,
+            "question_text": "The chemical formula for rust, which is commonly formed on iron exposed to moist air, is:",
+            "options": [
+                "Fe(OH)₃",
+                "FeO",
+                "Fe₂O₃·xH₂O",
+                "FeSO₄"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Rust is hydrated iron(III) oxide, represented chemically as Fe₂O₃·xH₂O.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8127,
+            "question_text": "Which mechanism is responsible for the change in color of certain natural indicators, such as those found in certain flowers?",
+            "options": [
+                "Catalytic breakdown of pigments due to temperature change.",
+                "Chemiluminescence induced by pH variation.",
+                "Oxidation-reduction reactions triggered by atmospheric pollutants.",
+                "Acid-base equilibrium involving the ionization state of molecular groups."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Natural indicators change color because their chemical structure, and thus their absorption spectrum, changes when the concentration of hydrogen ions ($\text{H}^+$) or hydroxide ions ($\text{OH}^-$) shifts, altering their ionization state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8177,
+            "question_text": "In the context of sound waves, why does the perceived pitch lower significantly as a vibrating object moves away from the observer (the Doppler effect)?",
+            "options": [
+                "Atmospheric humidity levels absorb higher frequency sound waves disproportionately.",
+                "The amplitude decreases, causing the ear to misinterpret the frequency.",
+                "The speed of sound itself changes proportionally to the distance traveled.",
+                "The wavelength is stretched due to the relative motion of source and receiver."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Doppler effect causes a perceived decrease in frequency (lower pitch) because the wavelength is stretched relative to the stationary observer's frame of reference.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8275,
+            "question_text": "When observing the sunrise or sunset, the sky often appears dramatically red or orange. This atmospheric phenomenon is primarily due to:",
+            "options": [
+                "Differential refraction of ultraviolet rays by dust particles.",
+                "Absorption of blue light by ozone molecules at low altitudes.",
+                "The increased path length of sunlight through denser atmospheric layers.",
+                "Increased humidity levels scattering shorter wavelengths (blue)."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "At sunrise/sunset, sunlight travels through more of the atmosphere, causing blue light to scatter away via Rayleigh scattering, leaving only the longer red wavelengths visible.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8372,
+            "question_text": "If a student performs an experiment involving the rapid mixing of household vinegar (acetic acid) and baking soda (sodium bicarbonate), what gas is primarily responsible for the resulting visible effervescence?",
+            "options": [
+                "Carbon dioxide ($\text{CO}_2$) gas resulting from an acid-carbonate reaction.",
+                "Oxygen ($\text{O}_2$) gas released through thermal decomposition.",
+                "Methane ($\text{CH}_4$) gas formed by acid neutralization.",
+                "Nitrogen ($\text{N}_2$) gas produced by decomposition."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Acetic acid ($\text{CH}_3\text{COOH}$) reacts with sodium bicarbonate ($\text{NaHCO}_3$) in an acid-carbonate reaction, producing carbonic acid ($\text{H}_2\text{CO}_3$), which immediately decomposes into water and carbon dioxide gas ($\text{CO}_2$).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14091,
+            "question_text": "Which type of chemical bond involves the electrostatic attraction between oppositely charged ions formed by the transfer of electrons?",
+            "options": [
+                "Hydrogen bond, occurring between highly electronegative atoms.",
+                "Covalent bond, where electrons are shared between atoms.",
+                "Ionic bond, formed by the complete transfer of valence electrons.",
+                "Metallic bond, characterized by a 'sea' of delocalized electrons."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ionic bonds are formed by the transfer of electrons from one atom (becoming positive) to another (becoming negative), resulting in strong electrostatic attraction between ions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20313,
+            "question_text": "Which type of energy conversion mechanism is fundamental to the functioning of a photoelectric cell (solar cell)?",
+            "options": [
+                "Potential energy to kinetic energy",
+                "Electromagnetic energy (photons) to electrical energy",
+                "Chemical energy to thermal energy",
+                "Mechanical energy to electrical energy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Photoelectric cells convert incoming light energy (electromagnetic energy, specifically photons) directly into usable electrical current, demonstrating the photon photoelectric effect.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20403,
+            "question_text": "When describing the solubility of gases in liquids, what relationship dictates that solubility is generally higher at lower temperatures?",
+            "options": [
+                "Dalton's Law of Partial Pressures.",
+                "Henry's Law (Partial Pressure consideration).",
+                "Graham's Law of Diffusion.",
+                "General rule of gases (volume relationship)."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The general solubility of gases decreases as temperature increases (thermodynamic principle), which is not directly governed by any of the named laws in the options.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20446,
+            "question_text": "In physics, if a body is undergoing motion with uniform acceleration, how does its kinetic energy ($KE$) change with respect to time ($t$)?",
+            "options": [
+                "It decreases exponentially due to air resistance and friction.",
+                "It increases quadratically with time, proportional to the square of the velocity.",
+                "It increases linearly with time, provided the acceleration is constant.",
+                "The kinetic energy remains constant, regardless of the acceleration applied."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Kinetic energy (KE = ½mv²) is proportional to the square of velocity (v²). Since v is linearly proportional to time (v = u + at), KE is proportional to t² (quadratic).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

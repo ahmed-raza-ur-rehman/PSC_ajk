@@ -1,0 +1,179 @@
+{
+    "category": "Air University",
+    "name": "Mathematics",
+    "board": "air-university",
+    "subject": "mathematics",
+    "url": "/air-university/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12638,
+            "question_text": "If f(x) = 2x^2 - 4x + 5, what is the value of f(3)?",
+            "options": [
+                "5",
+                "11",
+                "17",
+                "23"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "f(3) = 2(3)^2 - 4(3) + 5 = 2(9) - 12 + 5 = 18 - 12 + 5 = 11.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12639,
+            "question_text": "What is the slope of the line represented by the equation 3x - 5y = 10?",
+            "options": [
+                "3/5",
+                "-3/5",
+                "5/3",
+                "-5/3"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Rearranging to y = mx + b, we get -5y = -3x + 10, so y = (3/5)x - 2. The slope m is 3/5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12640,
+            "question_text": "If log(x) 81 = 4, what is the value of x?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "9"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since log(x) 81 = 4, this is equivalent to x^4 = 81. Taking the fourth root of 81 gives 3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12641,
+            "question_text": "What is the derivative of f(x) = x^3 + 5x with respect to x?",
+            "options": [
+                "x^2 + 5",
+                "3x^2 + 5",
+                "3x^2 + 5x",
+                "x^3 + 5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the power rule, the derivative of x^n is nx^(n-1). Thus, 3x^2 + 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12642,
+            "question_text": "If a triangle has sides 6, 8, and 10, what type of triangle is it?",
+            "options": [
+                "Acute",
+                "Obtuse",
+                "Right",
+                "Equilateral"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Using the Pythagorean theorem, 6^2 + 8^2 = 36 + 64 = 100, which equals 10^2. This satisfies a^2 + b^2 = c^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12643,
+            "question_text": "What is the sum of the first 10 terms of an arithmetic progression where the first term is 2 and the common difference is 3?",
+            "options": [
+                "150",
+                "155",
+                "160",
+                "165"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sum = n/2 * [2a + (n-1)d]. 10/2 * [2(2) + 9(3)] = 5 * [4 + 27] = 5 * 31 = 155.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12644,
+            "question_text": "What is the value of sin(90 degrees)?",
+            "options": [
+                "0",
+                "0.5",
+                "1",
+                "undefined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sine of 90 degrees in a unit circle is always 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12645,
+            "question_text": "If a matrix A is 2x3 and B is 3x2, what are the dimensions of the product AB?",
+            "options": [
+                "2x2",
+                "3x3",
+                "2x3",
+                "3x2"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "When multiplying an m x n matrix by an n x p matrix, the resulting matrix has dimensions m x p.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12647,
+            "question_text": "Which of the following is the solution to 2x + 5 > 11?",
+            "options": [
+                "x > 3",
+                "x < 3",
+                "x > 8",
+                "x < 8"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Subtract 5 from both sides: 2x > 6. Divide by 2: x > 3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12648,
+            "question_text": "What is the probability of rolling a sum of 7 with two fair six-sided dice?",
+            "options": [
+                "1/6",
+                "1/12",
+                "1/36",
+                "7/36"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "There are 6 combinations that result in 7 (1+6, 2+5, 3+4, 4+3, 5+2, 6+1) out of 36 total outcomes. 6/36 = 1/6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12649,
+            "question_text": "Find the equation of the line passing through (0, 0) and (2, 4).",
+            "options": [
+                "y = x",
+                "y = 2x",
+                "y = 4x",
+                "y = 1/2x"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The slope m = (4-0)/(2-0) = 2. Since it passes through the origin, the intercept is 0, so y = 2x.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12650,
+            "question_text": "What is the value of i^2, where i is the imaginary unit?",
+            "options": [
+                "1",
+                "-1",
+                "i",
+                "-i"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "By definition, the imaginary unit i is the square root of -1, so i^2 = -1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

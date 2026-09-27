@@ -1,0 +1,109 @@
+{
+    "category": "Chinese Testing International (CTI)",
+    "name": "Writing",
+    "board": "chinese-testing-international-cti",
+    "subject": "writing",
+    "url": "/chinese-testing-international-cti/writing/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 9049,
+            "question_text": "In a computer-based exam, can candidates use personal scratch paper for the writing section?",
+            "options": [
+                "Yes, as long as it is blank.",
+                "No, candidates are not permitted to bring personal paper or pencils.",
+                "Yes, but only if the invigilator inspects it first.",
+                "Only for the writing section, not the reading section."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In computer-based tests, candidates are prohibited from bringing their own scratch paper or pencils; a draft area is provided in the software.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9050,
+            "question_text": "What happens if you record exam questions or answers during the writing section?",
+            "options": [
+                "It is encouraged as a learning tool.",
+                "The examiner will allow you to continue if you pay a fine.",
+                "The examiner will terminate your exam and your results will be invalidated.",
+                "You can only do this if you are a research student."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Copying, photographing, or recording test questions is considered a violation, which leads to immediate termination of the exam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9051,
+            "question_text": "In a computer-based exam, can you use personal scratch paper for the writing section?",
+            "options": [
+                "Yes, if it is blank",
+                "No, it is strictly prohibited",
+                "Yes, with invigilator approval",
+                "Only for the first 5 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For computer-based exams, bringing paper or pencils is prohibited; drafting is handled via the system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9052,
+            "question_text": "What is the penalty for recording exam questions during the writing section?",
+            "options": [
+                "A verbal warning",
+                "Point deduction",
+                "Test termination and invalidation",
+                "Higher marking requirement"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Copying, recording, or removing test questions is considered a severe violation leading to test termination.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9053,
+            "question_text": "How do you log in to the computer-based writing section?",
+            "options": [
+                "Your email and password",
+                "The admission ticket and a specific password",
+                "Your personal identification number",
+                "No login required"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Candidates log in using the credentials provided by the invigilator for that specific session.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9054,
+            "question_text": "What is forbidden regarding the online password for the exam?",
+            "options": [
+                "Writing it down",
+                "Exchanging passwords with other candidates",
+                "Changing it",
+                "Logging out"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Exchanging passwords or logging into another's account is strictly prohibited and treated as proxy testing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9055,
+            "question_text": "What must be done with provided scratch paper after a paper-based writing test?",
+            "options": [
+                "Take it home as a souvenir",
+                "Leave it on the desk",
+                "Hand it back to the invigilator",
+                "Shred it"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "All scratch paper must be returned to ensure security of exam materials.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

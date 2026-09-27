@@ -1,0 +1,151 @@
+{
+    "category": "University of Engineering and Technology (UET) Lahore",
+    "name": "Physics",
+    "board": "university-of-engineering-and-technology-uet-lahore",
+    "subject": "physics",
+    "url": "/university-of-engineering-and-technology-uet-lahore/physics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 10823,
+            "question_text": "A particle moves in a circular path of radius r with constant speed v. What is its acceleration?",
+            "options": [
+                "v²/r towards the center",
+                "v²/r away from the center",
+                "0",
+                "vr towards the center"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Centripetal acceleration is always directed towards the center of the circular path and is defined by the formula a = v²/r.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10824,
+            "question_text": "In an adiabatic process, which of the following is always true?",
+            "options": [
+                "ΔU = 0",
+                "Q = 0",
+                "ΔT = 0",
+                "W = 0"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An adiabatic process is defined as one where no heat transfer occurs between the system and the surroundings (Q = 0).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10825,
+            "question_text": "Two resistors of 10 ohms and 20 ohms are connected in parallel. What is the equivalent resistance?",
+            "options": [
+                "30 ohms",
+                "15 ohms",
+                "6.67 ohms",
+                "200 ohms"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "1/R_eq = 1/10 + 1/20 = 3/20. R_eq = 20/3 = 6.67 ohms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10826,
+            "question_text": "What is the escape velocity from Earth if the gravitational constant G, Earth's mass M, and radius R are given?",
+            "options": [
+                "sqrt(2GM/R)",
+                "sqrt(GM/R)",
+                "2GM/R",
+                "GM/R^2"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The formula for escape velocity is derived from equating kinetic energy to gravitational potential energy: 0.5mv^2 = GMm/R.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10827,
+            "question_text": "A sound wave travels from air into water. Which property remains constant?",
+            "options": [
+                "Speed",
+                "Wavelength",
+                "Frequency",
+                "Amplitude"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Frequency is a characteristic of the source and remains unchanged when a wave enters a new medium.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10828,
+            "question_text": "Which law states that the induced EMF in a circuit is equal to the rate of change of magnetic flux?",
+            "options": [
+                "Coulomb's Law",
+                "Faraday's Law",
+                "Ampere's Law",
+                "Gauss's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Faraday's law of induction explicitly relates the induced electromotive force to the change in magnetic flux over time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10829,
+            "question_text": "In a perfectly elastic collision, what is conserved?",
+            "options": [
+                "Only kinetic energy",
+                "Only momentum",
+                "Both momentum and kinetic energy",
+                "Neither momentum nor kinetic energy"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "By definition, an elastic collision is one where both total momentum and total kinetic energy are conserved.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10830,
+            "question_text": "A block of mass 5 kg is pulled across a frictionless surface by a horizontal force of 20 N. What is the acceleration?",
+            "options": [
+                "2 m/s²",
+                "4 m/s²",
+                "5 m/s²",
+                "100 m/s²"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using Newton's Second Law, F = ma. a = F / m = 20 / 5 = 4 m/s².",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10831,
+            "question_text": "What is the unit of magnetic flux density (B-field) in the SI system?",
+            "options": [
+                "Weber",
+                "Tesla",
+                "Henry",
+                "Ampere"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Tesla (T) is the SI unit for magnetic flux density. Weber is the unit for magnetic flux.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10832,
+            "question_text": "If the distance between two point charges is doubled, the electrostatic force between them becomes:",
+            "options": [
+                "Double",
+                "Half",
+                "Four times",
+                "One-fourth"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Coulomb's Law states F ∝ 1/r². If r becomes 2r, F becomes 1/(2r)² = 1/4 of the original force.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

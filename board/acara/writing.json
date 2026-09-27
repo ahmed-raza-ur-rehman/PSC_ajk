@@ -1,0 +1,179 @@
+{
+    "category": "ACARA",
+    "name": "Writing",
+    "board": "acara",
+    "subject": "writing",
+    "url": "/acara/writing/2026/subject-mcqs",
+    "country": "AU",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9062,
+            "question_text": "Which of these is a correct way to start a formal letter?",
+            "options": [
+                "Hey there,",
+                "Dear Sir or Madam,",
+                "To whom it may concern...",
+                "What's up,"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In formal writing, 'Dear Sir or Madam' is a standard and appropriate salutation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9140,
+            "question_text": "Identify the sentence that uses the correct past tense of 'run'.",
+            "options": [
+                "She had run to the store yesterday.",
+                "She runned to the store yesterday.",
+                "She running to the store yesterday.",
+                "She is run to the store yesterday."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The past participle of 'run' is 'run', used here with 'had' to form the past perfect tense.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9149,
+            "question_text": "If a student in Year 9 needs to write a persuasive essay, which of the following is most important?",
+            "options": [
+                "Including as many long words as possible",
+                "Using a clear, logical structure to support their argument",
+                "Writing the longest essay in the class",
+                "Focusing only on creative storytelling"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A persuasive essay requires logical flow and strong evidence to convince the reader, which is a key component of formal writing standards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9150,
+            "question_text": "Why is it important to proofread your writing?",
+            "options": [
+                "To change the meaning of your text",
+                "To ensure the text is free of spelling and grammar errors",
+                "To make the writing look longer",
+                "To avoid using punctuation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Proofreading is a critical step in writing to ensure clarity, correctness, and professionalism by identifying and fixing errors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9151,
+            "question_text": "When writing a persuasive essay for Year 9, which is most important?",
+            "options": [
+                "Using the longest words possible",
+                "Presenting a clear, well-supported argument",
+                "Writing the essay without any paragraphs",
+                "Copying facts directly from an encyclopedia"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A persuasive essay relies on a clear position supported by evidence and logical reasoning, rather than just style or length.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9152,
+            "question_text": "Why is it important to check your writing for errors before submitting it?",
+            "options": [
+                "To make your writing more interesting",
+                "To ensure clarity and professional presentation",
+                "Because the teacher likes long essays",
+                "To make the font size bigger"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Proofreading helps remove mistakes that might distract the reader, ensuring the message is clear and the work appears professional.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9153,
+            "question_text": "Which sentence is written with correct punctuation?",
+            "options": [
+                "The students finished their work and they went outside.",
+                "The students finished their work, and they went outside.",
+                "The students finished their work and, they went outside.",
+                "The students finished their work; and they went outside."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A comma is used before a coordinating conjunction (and) when joining two independent clauses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9154,
+            "question_text": "Which word correctly completes the sentence: 'The team _____ practicing for the big game all week.'",
+            "options": [
+                "has been",
+                "have being",
+                "is been",
+                "were being"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since 'team' is a singular collective noun, 'has been' is the correct verb agreement for an action occurring over a period of time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9155,
+            "question_text": "Which option is an example of an imperative sentence?",
+            "options": [
+                "Can you open the door?",
+                "Open the door.",
+                "The door is open.",
+                "Wow, what an open door!"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An imperative sentence gives a command or makes a request, typically starting with a verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9156,
+            "question_text": "Select the sentence with the correct use of a possessive apostrophe.",
+            "options": [
+                "The dog wagged its tail.",
+                "The dog wagged it's tail.",
+                "The dogs wagged its tail.",
+                "The dog wagged its' tail."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Its' is the possessive form, while 'it's' is a contraction for 'it is'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9157,
+            "question_text": "Choose the most appropriate word to join these sentences: 'I wanted to go to the park. It was raining.'",
+            "options": [
+                "and",
+                "because",
+                "however",
+                "so"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'However' clearly expresses the contrast between wanting to go out and the bad weather.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9158,
+            "question_text": "Identify the word that is a synonym for 'happy'.",
+            "options": [
+                "Joyful",
+                "Sad",
+                "Gloomy",
+                "Angry"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A synonym is a word that has the same or a very similar meaning to another word.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

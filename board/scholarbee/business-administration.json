@@ -1,0 +1,151 @@
+{
+    "category": "ScholarBee",
+    "name": "Business Administration",
+    "board": "scholarbee",
+    "subject": "business-administration",
+    "url": "/scholarbee/business-administration/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12872,
+            "question_text": "Which marketing concept focuses on the 'Four Ps'?",
+            "options": [
+                "Planning, Processing, Promoting, Purchasing",
+                "Product, Price, Place, Promotion",
+                "People, Production, Profit, Positioning",
+                "Performance, Perception, Price, Placement"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Marketing Mix (Four Ps) is a foundational tool used by businesses to develop a strategy for bringing a product to market.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12907,
+            "question_text": "According to Porter's Five Forces, which of the following is NOT one of the forces that determine industry competition?",
+            "options": [
+                "Threat of new entrants",
+                "Bargaining power of buyers",
+                "Government intervention",
+                "Threat of substitute products"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Porter's Five Forces are: Threat of New Entrants, Bargaining Power of Buyers, Bargaining Power of Suppliers, Threat of Substitutes, and Competitive Rivalry.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12908,
+            "question_text": "Which leadership style involves a leader who provides little to no direction and gives employees complete freedom to make decisions?",
+            "options": [
+                "Autocratic",
+                "Democratic",
+                "Laissez-faire",
+                "Transformational"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Laissez-faire leadership is characterized by a 'hands-off' approach where subordinates are empowered to self-manage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12909,
+            "question_text": "Which management theory emphasizes the importance of employee social needs and group dynamics over just monetary incentives?",
+            "options": [
+                "Scientific Management",
+                "Bureaucratic Theory",
+                "Human Relations Movement",
+                "Total Quality Management"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Human Relations Movement (stemming from the Hawthorne Studies) suggests that worker productivity is highly influenced by social factors and organizational climate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12910,
+            "question_text": "What is the primary focus of 'Operations Management'?",
+            "options": [
+                "The design and control of the process of production and redesigning business operations",
+                "The recruitment of executive talent",
+                "The public perception of the corporate brand",
+                "The legal structure of the firm"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Operations management concerns the efficient conversion of inputs (materials, labor) into outputs (goods, services).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12911,
+            "question_text": "In a SWOT analysis, which two factors are considered 'Internal'?",
+            "options": [
+                "Strengths and Weaknesses",
+                "Opportunities and Threats",
+                "Strengths and Opportunities",
+                "Weaknesses and Threats"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Strengths and Weaknesses are internal attributes of the organization, while Opportunities and Threats are external environmental factors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12912,
+            "question_text": "What is 'Corporate Social Responsibility' (CSR)?",
+            "options": [
+                "A strategy to minimize corporate tax payments",
+                "The obligation of an organization to act in ways that serve its own interest",
+                "The practice of integrating social and environmental concerns into business operations",
+                "The legal requirement to pay dividends to shareholders"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "CSR refers to a self-regulating business model that helps a company be socially accountable to itself, its stakeholders, and the public.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12913,
+            "question_text": "What is the primary function of a 'Span of Control' in organizational structure?",
+            "options": [
+                "Determining the salary range for managers",
+                "Defining the number of subordinates a manager can effectively supervise",
+                "Measuring the market share within an industry",
+                "Controlling the flow of inventory"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Span of control refers to the chain of command and the number of direct reports assigned to a single supervisor.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12914,
+            "question_text": "What is 'Organizational Culture'?",
+            "options": [
+                "The legal department of a company",
+                "The sum of values, beliefs, and behaviors that define how a firm operates",
+                "The total profit earned in a fiscal year",
+                "The physical office layout"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Culture represents the unwritten 'personality' of a company that influences how employees interact and conduct business.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12915,
+            "question_text": "Which strategic tool is used to analyze the external macro-environmental factors affecting a business?",
+            "options": [
+                "PESTEL Analysis",
+                "VRIO Framework",
+                "Value Chain Analysis",
+                "Balanced Scorecard"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "PESTEL stands for Political, Economic, Social, Technological, Environmental, and Legal factors, used to assess the external environment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

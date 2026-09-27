@@ -1,0 +1,179 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Mathematics",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "mathematics",
+    "url": "/national-cybercrime-investigation-agency/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 14581,
+            "question_text": "In the context of Pakistan's current institutional reforms, which federal body is primarily responsible for regulating and standardizing the practice of legal education and professional lawyering?",
+            "options": [
+                "Law Council of Pakistan (LCP)",
+                "Pakistan Legal Circle (PLC)",
+                "Pakistan Bar Councils Association (PBCA)",
+                "Higher Education Commission (HEC)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Law Council of Pakistan (LCP) is the main regulatory body tasked with maintaining ethical standards, regulating legal practice, and overseeing the enrollment of advocates across various provinces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 15588,
+            "question_text": "A person who habitually speaks trivialities and nonsensical phrases is called a:",
+            "options": [
+                "onanist",
+                "vociferant",
+                "jabberer",
+                "buffoon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A jabberer is a person who talks incessantly and nonsensically. Buffoon refers to a jester or clown.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15589,
+            "question_text": "Choose the antonym for 'Ephemeral' (meaning lasting for a very short time).",
+            "options": [
+                "Fleeting",
+                "Momentary",
+                "Transitory",
+                "Perpetual"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Perpetual means never ending or endless, making it the direct opposite of ephemeral. Fleeting, transitory, and momentary are all synonyms for short-lived.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15590,
+            "question_text": "Choose the word that means 'belonging to no particular owner; public':",
+            "options": [
+                "Communal",
+                "Universal",
+                "Public domain",
+                "Commonplace"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Communal refers to things used or belonging to the community as a whole, meaning it belongs to the public. Public domain, while related, is a legal phrase, not the single word answer sought.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15591,
+            "question_text": "Loss of consciousness due to temporary cerebral hypoperfusion is medically termed:",
+            "options": [
+                "Seizure",
+                "Hypoglycemia",
+                "Coma",
+                "Syncope"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Syncope is the medical term for temporary loss of consciousness caused by reduced blood flow (hypoperfusion) to the brain.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15592,
+            "question_text": "Sudden and inexplicable change in a person's behavior or relationships is termed:",
+            "options": [
+                "Transience",
+                "Egregiousness",
+                "Ephemera",
+                "Idiosyncrasy"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Transience refers to the state of being temporary or fleeting, often used in the context of changing emotions or relationships. Idiosyncrasy means unique mannerisms.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15593,
+            "question_text": "The adjective form of 'ephemeral' is best described as:",
+            "options": [
+                "Momentary",
+                "Perishable",
+                "Transitory",
+                "Fugacious"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While B and D are synonyms, 'fugacious' is the most precise and formal adjective meaning fleeting or having a very short duration, aligning with the high difficulty required for such exams.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15594,
+            "question_text": "The practice of having no regular meal or eating only once a day is known as:",
+            "options": [
+                "Polyphagia",
+                "OMAD",
+                "Anorexia",
+                "Hypocaloric"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "OMAD stands for One Meal a Day, which is a specific type of intermittent fasting protocol. Polyphagia means excessive eating.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15595,
+            "question_text": "The word 'fastidious' means:",
+            "options": [
+                "Quick to anger",
+                "Having poor manners",
+                "Overly careful and attentive to detail",
+                "Disinclined to work"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Fastidious describes someone with demanding, often exaggerated, standards for cleanliness or perfection. B, C, and D are incorrect synonyms or related concepts.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15596,
+            "question_text": "What is the one-word substitute for 'an agreement or understanding that is implied rather than openly stated'?",
+            "options": [
+                "Manifest",
+                "Tacit",
+                "Peremptory",
+                "Explicitness"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tacit means understood or implied without being stated. Manifest means obvious or clear, while Explicit means stated clearly and in detail.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15597,
+            "question_text": "Which of the following phrases is the best substitute for 'man of leisure'?",
+            "options": [
+                "Dandy",
+                "Non-working person",
+                "Idler",
+                "Occupational professional"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An idler is someone who spends time doing nothing or little. This is the most suitable and formal one-word substitute meaning someone without occupation.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15598,
+            "question_text": "Which word best describes a sudden, violent outbreak or upheaval, often used metaphorically?",
+            "options": [
+                "Tranquility",
+                "Tempest",
+                "Lull",
+                "Reprieve"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tempest means a severe or violent storm; it is used metaphorically to denote a period of emotional or sudden upheaval.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        }
+    ]
+}

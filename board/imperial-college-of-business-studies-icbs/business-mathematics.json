@@ -1,0 +1,151 @@
+{
+    "category": "Imperial College of Business Studies (ICBS)",
+    "name": "Business Mathematics",
+    "board": "imperial-college-of-business-studies-icbs",
+    "subject": "business-mathematics",
+    "url": "/imperial-college-of-business-studies-icbs/business-mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11520,
+            "question_text": "Calculate the simple interest on a principal of $5,000 at an annual rate of 5% for 3 years.",
+            "options": [
+                "$750",
+                "$250",
+                "$500",
+                "$1,000"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Simple interest is calculated as Principal × Rate × Time. 5,000 × 0.05 × 3 = 750.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11521,
+            "question_text": "What is the break-even point in units if fixed costs are $20,000, selling price per unit is $50, and variable cost per unit is $30?",
+            "options": [
+                "400 units",
+                "1,000 units",
+                "667 units",
+                "500 units"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Break-even units = Fixed Costs / (Selling Price - Variable Cost) = 20,000 / (50 - 30) = 1,000 units.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11522,
+            "question_text": "If a product costs $80 and you want to earn a 25% profit margin on the selling price, what should the selling price be?",
+            "options": [
+                "$100.00",
+                "$106.67",
+                "$105.00",
+                "$120.00"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Margin = (Price - Cost) / Price. 0.25 = (P - 80) / P -> 0.25P = P - 80 -> 0.75P = 80 -> P = 106.67.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11523,
+            "question_text": "Calculate the compound interest on $2,000 at 10% for 2 years, compounded annually.",
+            "options": [
+                "$400",
+                "$410",
+                "$420",
+                "$440"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Year 1: 2000 * 0.10 = 200. Year 2: (2000 + 200) * 0.10 = 220. Total = 200 + 220 = 420.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11524,
+            "question_text": "If a machine depreciates by 10% per year using the straight-line method, and its initial cost is $10,000 with a salvage value of $0, what is the annual depreciation?",
+            "options": [
+                "$500",
+                "$1,000",
+                "$1,500",
+                "$2,000"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Straight-line depreciation = (Cost - Salvage Value) / Useful Life. 10% rate implies a 10-year life. $10,000 / 10 = $1,000.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11525,
+            "question_text": "A store offers a 20% discount on a $50 shirt. If sales tax is 5%, what is the final price?",
+            "options": [
+                "$40.00",
+                "$42.00",
+                "$44.00",
+                "$45.00"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Discounted price = 50 * 0.80 = $40. Tax = 40 * 0.05 = $2. Total = $42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11526,
+            "question_text": "Solve for x: 3x + 15 = 45",
+            "options": [
+                "5",
+                "10",
+                "15",
+                "20"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "3x = 45 - 15 = 30; x = 30 / 3 = 10.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11527,
+            "question_text": "If an item is sold for $120 after a 20% markup on the cost price, what was the original cost?",
+            "options": [
+                "$96",
+                "$100",
+                "$144",
+                "$108"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If Cost is X, then X + 0.20X = 120. 1.2X = 120, so X = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11528,
+            "question_text": "Calculate the future value of $1,000 invested at 5% interest compounded annually for 2 years.",
+            "options": [
+                "$1,100",
+                "$1,102.50",
+                "$1,105",
+                "$1,200"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "FV = PV * (1 + r)^n = 1000 * (1.05)^2 = 1000 * 1.1025 = 1102.50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11529,
+            "question_text": "If a company's total sales are $500,000 and the contribution margin ratio is 40%, what is the total contribution margin?",
+            "options": [
+                "$100,000",
+                "$200,000",
+                "$300,000",
+                "$400,000"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Contribution Margin = Sales * CM Ratio = 500,000 * 0.40 = 200,000.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

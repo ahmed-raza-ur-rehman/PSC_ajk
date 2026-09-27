@@ -1,0 +1,179 @@
+{
+    "category": "British Council, IDP, Cambridge English",
+    "name": "Reading",
+    "board": "british-council-idp-cambridge-english",
+    "subject": "reading",
+    "url": "/british-council-idp-cambridge-english/reading/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 8890,
+            "question_text": "How long is the IELTS Reading test?",
+            "options": [
+                "30 minutes",
+                "45 minutes",
+                "60 minutes",
+                "90 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The IELTS Reading test is 60 minutes long, which includes the time taken to transfer answers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8891,
+            "question_text": "What is the primary difference between the Academic and General Training Reading tests regarding scoring?",
+            "options": [
+                "Academic tests use a different 10-band scale.",
+                "General Training Reading requires more correct answers to achieve the same band score.",
+                "Academic Reading is not graded.",
+                "There is no difference in scoring."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Because Academic Reading texts can be more complex, it is typical that a higher number of correct answers are needed on the General Training test to achieve the same band score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8892,
+            "question_text": "What type of equipment is permitted to assist in reading test papers for someone with a visual impairment?",
+            "options": [
+                "A personal laptop with spellcheck enabled.",
+                "A smartphone with internet access.",
+                "A handheld magnifier.",
+                "An electronic translator."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Test takers with visual impairments are permitted to use specific assistive equipment like handheld magnifiers, but functions like spellcheck or internet access are strictly prohibited.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8893,
+            "question_text": "How long is the total time allotted for the IELTS Reading test?",
+            "options": [
+                "30 minutes",
+                "45 minutes",
+                "60 minutes",
+                "90 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The IELTS Reading test is officially 60 minutes long, which includes time for transferring your answers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8895,
+            "question_text": "What is a key difference between Academic and General Training Reading tests regarding scoring?",
+            "options": [
+                "Academic tests have more questions",
+                "General Training Reading usually requires more correct answers to achieve the same band score",
+                "Academic tests are shorter",
+                "General Training Reading is always harder"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Because the texts in the Academic Reading test are generally more complex, it is common that you need a higher number of correct answers on the General Training test to reach a specific band score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8896,
+            "question_text": "What type of equipment might be permitted for a candidate with a visual impairment during the Reading test?",
+            "options": [
+                "A dictionary",
+                "A smartphone",
+                "Handheld magnifiers or screen magnification software",
+                "An internet-connected laptop"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Test takers with visual impairments may use assistive technology like magnifiers or screen software, subject to approval.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8897,
+            "question_text": "Are test takers allowed to use spellcheckers when using a computer for the Reading test?",
+            "options": [
+                "Yes, always",
+                "No, spellcheckers and grammar tools are not permitted",
+                "Only if they have a learning disability",
+                "Yes, but only for the final 5 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Even with access arrangements, candidates are strictly forbidden from using automated spelling or grammar checking tools.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8898,
+            "question_text": "What is the consequence of needing 100% extra time in the Reading test?",
+            "options": [
+                "You fail automatically",
+                "You may be permitted to take the paper over two separate days",
+                "You must finish it in one sitting without breaks",
+                "You cannot take the test"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Candidates who require significant extra time (100%) may be allowed to split the test components over two days.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8899,
+            "question_text": "How much time is allotted for the IELTS Reading test?",
+            "options": [
+                "30 minutes",
+                "60 minutes",
+                "45 minutes",
+                "90 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test duration for the Reading section is 60 minutes, which includes the time to transfer answers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8900,
+            "question_text": "What is a primary difference between the Academic and General Training Reading tests regarding scoring?",
+            "options": [
+                "Academic Reading is scored out of 100",
+                "General Training Reading requires more correct answers to achieve the same band score",
+                "Academic Reading has no band scores",
+                "There is no difference in the grading scale"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The page mentions that it is usual that a greater number of questions must be answered correctly on a General Training Reading test to secure a given band score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8901,
+            "question_text": "Which equipment might be permitted for a candidate with a visual impairment during the Reading test?",
+            "options": [
+                "A standard dictionary",
+                "A handheld magnifier",
+                "A mobile phone for scanning",
+                "A calculator"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The page lists handheld magnifiers as permitted assistive equipment for candidates with visual impairments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8903,
+            "question_text": "What happens if a test taker is entitled to 100% extra time in the Reading test?",
+            "options": [
+                "They must finish in one session with a break",
+                "They can take the test papers on different days",
+                "They are automatically given a higher band score",
+                "They are not allowed to use a computer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The webpage indicates that if a candidate is entitled to 100% extra time, it may be possible to take test papers on different days.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

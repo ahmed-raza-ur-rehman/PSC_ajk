@@ -1,0 +1,179 @@
+{
+    "category": "Bahria University",
+    "name": "Mathematics",
+    "board": "bahria-university",
+    "subject": "mathematics",
+    "url": "/bahria-university/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12046,
+            "question_text": "If f(x) = 2x + 5, what is the value of f(f(1))?",
+            "options": [
+                "7",
+                "12",
+                "19",
+                "14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "First, find f(1) = 2(1)+5 = 7. Then, find f(7) = 2(7)+5 = 19.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12075,
+            "question_text": "What is the slope of the line represented by the equation 3x - 4y = 12?",
+            "options": [
+                "3",
+                "4/3",
+                "3/4",
+                "-3/4"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Rewrite in y = mx + b form: -4y = -3x + 12, so y = (3/4)x - 3. The slope is 3/4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12447,
+            "question_text": "What is the value of log2(32)?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since 2 raised to the power of 5 equals 32 (2*2*2*2*2 = 32), the log base 2 of 32 is 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12796,
+            "question_text": "If a triangle has sides of length 6, 8, and 10, what type of triangle is it?",
+            "options": [
+                "Equilateral",
+                "Isosceles",
+                "Right-angled",
+                "Obtuse"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The side lengths satisfy the Pythagorean theorem (6^2 + 8^2 = 10^2, or 36 + 64 = 100).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12797,
+            "question_text": "Solve for x: 4(x - 3) = 2x + 10.",
+            "options": [
+                "8",
+                "11",
+                "12",
+                "14"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Expanding gives 4x - 12 = 2x + 10. Subtracting 2x and adding 12 gives 2x = 22, so x = 11.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12798,
+            "question_text": "What is the derivative of f(x) = x^2 + 5x?",
+            "options": [
+                "2x",
+                "x + 5",
+                "2x + 5",
+                "x^2 + 5"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Using the power rule, the derivative of x^2 is 2x and the derivative of 5x is 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12799,
+            "question_text": "What is the sum of the interior angles of a pentagon?",
+            "options": [
+                "360 degrees",
+                "540 degrees",
+                "720 degrees",
+                "900 degrees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The formula for the sum of interior angles is (n-2) * 180. For n=5, (5-2) * 180 = 3 * 180 = 540.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12800,
+            "question_text": "Evaluate the determinant of the matrix [[2, 1], [3, 4]].",
+            "options": [
+                "5",
+                "8",
+                "11",
+                "14"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The determinant of [[a, b], [c, d]] is ad - bc. Thus, (2*4) - (1*3) = 8 - 3 = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12801,
+            "question_text": "If a circle has a radius of 7 cm, what is its approximate circumference? (Use pi = 22/7)",
+            "options": [
+                "22 cm",
+                "44 cm",
+                "154 cm",
+                "88 cm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Circumference = 2 * pi * r. So, 2 * (22/7) * 7 = 44.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12802,
+            "question_text": "What is the probability of rolling a sum of 7 with two fair six-sided dice?",
+            "options": [
+                "1/6",
+                "1/12",
+                "7/36",
+                "1/7"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "There are 6 combinations that sum to 7 (1+6, 2+5, 3+4, 4+3, 5+2, 6+1) out of 36 possible outcomes. 6/36 = 1/6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12803,
+            "question_text": "Simplify (x^6) / (x^2).",
+            "options": [
+                "x^3",
+                "x^4",
+                "x^8",
+                "x^12"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When dividing like bases, subtract the exponents: 6 - 2 = 4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12804,
+            "question_text": "What is the value of sin(90 degrees)?",
+            "options": [
+                "0",
+                "0.5",
+                "1",
+                "-1"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "By definition in the unit circle, sin(90 degrees) is 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

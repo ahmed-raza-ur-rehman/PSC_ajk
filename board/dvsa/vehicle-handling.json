@@ -1,0 +1,95 @@
+{
+    "category": "DVSA",
+    "name": "Vehicle Handling",
+    "board": "dvsa",
+    "subject": "vehicle-handling",
+    "url": "/dvsa/vehicle-handling/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 6,
+    "questions": [
+        {
+            "id": 6892,
+            "question_text": "What should you do if your car starts to skid on a wet road?",
+            "options": [
+                "Brake hard immediately",
+                "Steer firmly in the direction of the skid",
+                "Take your foot off the accelerator and steer gently into the skid",
+                "Pull the handbrake up"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Removing power and steering into the skid helps regain control of the vehicle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6893,
+            "question_text": "What is the correct action if your vehicle begins to skid on a wet road surface?",
+            "options": [
+                "Brake as hard as you can",
+                "Steer into the skid and ease off the accelerator",
+                "Steer away from the skid and accelerate",
+                "Pull the handbrake up to stop the car"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Steering into the direction of the skid helps regain control, while removing power allows the tires to regain grip.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8456,
+            "question_text": "How does driving on an icy road affect your vehicle's handling?",
+            "options": [
+                "It improves steering",
+                "It makes braking distances much shorter",
+                "It significantly reduces grip and increases stopping distances",
+                "It has no effect on braking"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ice reduces friction, making it harder to steer and significantly increasing the distance needed to stop.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8457,
+            "question_text": "How does driving on an icy road surface affect vehicle handling?",
+            "options": [
+                "It increases tyre grip",
+                "It makes steering lighter and braking more effective",
+                "It significantly reduces tyre grip and increases stopping distances",
+                "It allows for faster acceleration"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ice prevents the tires from gripping the road properly, making it much harder to control the car.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8458,
+            "question_text": "How does driving on icy roads affect your vehicle's handling?",
+            "options": [
+                "It improves cornering stability",
+                "It makes the steering feel lighter and reduces grip",
+                "It allows you to brake much faster",
+                "It has no impact on vehicle control"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ice significantly reduces the traction between your tyres and the road, making control much more difficult.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8459,
+            "question_text": "What should you do if your car begins to skid on a slippery road?",
+            "options": [
+                "Brake firmly and steer hard",
+                "Take your foot off the accelerator and steer gently into the skid",
+                "Apply the handbrake",
+                "Accelerate to regain traction"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Avoiding harsh braking or sudden movements is key to regaining control during a skid.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

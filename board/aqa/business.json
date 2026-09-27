@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Business",
+    "board": "aqa",
+    "subject": "business",
+    "url": "/aqa/business/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8800,
+            "question_text": "What does 'market share' represent?",
+            "options": [
+                "The total number of staff in a company",
+                "The percentage of total sales in an industry controlled by one business",
+                "The total amount of profit made in a year",
+                "The cost of producing one unit of a product"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Market share is calculated by dividing a firm's sales by the total industry sales.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8801,
+            "question_text": "What does the term 'market share' indicate in a business environment?",
+            "options": [
+                "The total number of employees in a company",
+                "The percentage of total industry sales controlled by one firm",
+                "The price of shares on the stock exchange",
+                "The amount of advertising budget spent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Market share represents the portion of the market that a particular company captures compared to its competitors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8802,
+            "question_text": "What does the term 'market share' reveal about a company?",
+            "options": [
+                "The total profit made by the business",
+                "The percentage of total industry sales controlled by the business",
+                "The amount of debt the company owes",
+                "The number of employees a business has"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Market share represents a company's portion of total sales within its industry compared to competitors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8803,
+            "question_text": "What is a 'variable cost' in a business?",
+            "options": [
+                "A cost that stays the same regardless of output",
+                "A cost that increases as production volume increases",
+                "The amount of tax paid on profits",
+                "The cost of buying a building"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Variable costs (like raw materials) fluctuate directly with the level of output a business produces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

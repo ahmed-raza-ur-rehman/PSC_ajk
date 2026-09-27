@@ -1,0 +1,123 @@
+{
+    "category": "Universities Admissions Centre (UAC)",
+    "name": "English Language Proficiency",
+    "board": "universities-admissions-centre-uac",
+    "subject": "english-language-proficiency",
+    "url": "/universities-admissions-centre-uac/english-language-proficiency/2026/subject-mcqs",
+    "country": "AU",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 9217,
+            "question_text": "Are you automatically exempt from English language proficiency requirements if you were born in Australia?",
+            "options": [
+                "Yes, being born in Australia is sufficient",
+                "No, you must also have an assessable qualification undertaken in English",
+                "Only if you provide a birth certificate",
+                "Only if your parents are Australian citizens"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Being born in an English-speaking country does not automatically exempt you; you still need to demonstrate your proficiency through an assessable qualification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9218,
+            "question_text": "Which of these is a commonly accepted English proficiency test by many institutions?",
+            "options": [
+                "IELTS",
+                "A standard school essay",
+                "A verbal interview with a teacher",
+                "Your high school report card only"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "IELTS (International English Language Testing System) is a widely recognized test for proving English proficiency for university entry.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9219,
+            "question_text": "Are you automatically exempt from English language proficiency requirements simply because you were born in Australia?",
+            "options": [
+                "Yes, if you were born in Australia you are always exempt",
+                "No, you must also hold an assessable qualification undertaken in English",
+                "Yes, provided you speak English at home",
+                "Only if you attended a private school"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Being born in Australia does not automatically satisfy English language proficiency requirements; you must also possess an assessable qualification (such as Year 12) undertaken in English.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9220,
+            "question_text": "Which of the following is a commonly accepted English proficiency test by many Australian institutions?",
+            "options": [
+                "The driving theory test",
+                "The International English Language Testing System (IELTS)",
+                "A casual interview with a friend",
+                "Your high school report card from a non-English country"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IELTS (Academic) is widely recognized by Australian tertiary institutions as proof of English language proficiency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9221,
+            "question_text": "What happens if your English language proficiency test is not listed among the commonly accepted tests?",
+            "options": [
+                "You cannot apply to any university",
+                "UAC will automatically approve it",
+                "You should write to the Admissions Office at each institution for a determination",
+                "You must take the test again until you pass"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If your specific test is not pre-approved, you should contact the relevant institutions directly with supporting documentation so they can determine if your qualification is acceptable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9222,
+            "question_text": "What is the requirement regarding English language proficiency for nursing and midwifery courses?",
+            "options": [
+                "There are no specific requirements",
+                "A high level of English proficiency must be demonstrated",
+                "You only need to prove proficiency after graduating",
+                "You must have lived in an English-speaking country for at least 10 years"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Due to accreditation standards, nursing and midwifery applicants must demonstrate a high level of English language proficiency as part of the application process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9226,
+            "question_text": "If your English proficiency test is not listed among the commonly accepted tests, what should you do?",
+            "options": [
+                "Assume it is not accepted and stop applying",
+                "Write to the Admissions Office at each institution you are applying to for a decision",
+                "Upload it to UAC and wait for an automatic update",
+                "Ask your friends if they think it is equivalent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "UAC cannot decide on proficiency on behalf of institutions; you must contact the institutions directly to see if they will accept your specific test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9227,
+            "question_text": "What happens if you are a Year 12 student born in a non-English-speaking country?",
+            "options": [
+                "You are automatically disqualified",
+                "You must provide proof of proficiency through your Year 12 results",
+                "You must take an extra test before applying",
+                "You are immediately granted an exemption"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "All applicants born in non-English-speaking countries must provide proof of proficiency, which is usually satisfied by their Year 12 qualification results.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

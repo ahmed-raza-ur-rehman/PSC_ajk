@@ -1,0 +1,151 @@
+{
+    "category": "MUET",
+    "name": "Mathematics",
+    "board": "muet",
+    "subject": "mathematics",
+    "url": "/muet/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 10863,
+            "question_text": "If the roots of the quadratic equation x² - kx + 16 = 0 are equal, what is the value of k?",
+            "options": [
+                "4",
+                "8",
+                "±8",
+                "±16"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "For equal roots, the discriminant (b² - 4ac) must be zero. Here, k² - 4(1)(16) = 0, so k² = 64, which means k = ±8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10864,
+            "question_text": "What is the derivative of f(x) = e^(3x) with respect to x?",
+            "options": [
+                "e^(3x)",
+                "3e^(3x)",
+                "e^(x)",
+                "3x e^(3x-1)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "By the chain rule, the derivative of e^u is e^u * du/dx. Here, u = 3x, so the derivative is e^(3x) * 3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10865,
+            "question_text": "If the sum of an infinite geometric series is 12 and the first term is 4, what is the common ratio?",
+            "options": [
+                "1/3",
+                "2/3",
+                "3/4",
+                "1/2"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Formula for sum of infinite geometric series is S = a / (1 - r). 12 = 4 / (1 - r) implies 1 - r = 4/12 = 1/3, so r = 2/3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10866,
+            "question_text": "What is the value of the determinant of a 2x2 identity matrix?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "-1"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The identity matrix is [[1,0],[0,1]]. Determinant = (1*1) - (0*0) = 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10867,
+            "question_text": "If f(x) = 2x + 5, what is the value of f⁻¹(7)?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "To find f⁻¹(7), set 2x + 5 = 7. 2x = 2, so x = 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10868,
+            "question_text": "The angle of elevation of the top of a tower from a point 30m away on the ground is 30°. What is the height of the tower?",
+            "options": [
+                "10√3 m",
+                "15√3 m",
+                "30√3 m",
+                "20 m"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "tan(30°) = height / 30. Height = 30 * (1/√3) = 10√3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10869,
+            "question_text": "What is the slope of the line represented by the equation 3x - 4y + 12 = 0?",
+            "options": [
+                "3/4",
+                "-3/4",
+                "4/3",
+                "-4/3"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Rearranging to y = mx + c form: 4y = 3x + 12, so y = (3/4)x + 3. The slope m is 3/4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10870,
+            "question_text": "What is the value of log₂(32) + log₃(81)?",
+            "options": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "log₂(32) = 5 because 2^5=32, and log₃(81) = 4 because 3^4=81. 5 + 4 = 9.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10871,
+            "question_text": "If a matrix A is 3x3 and its determinant is 5, what is the determinant of 2A?",
+            "options": [
+                "10",
+                "20",
+                "40",
+                "80"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "For an n x n matrix, det(kA) = k^n * det(A). Here, 2^3 * 5 = 8 * 5 = 40.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10872,
+            "question_text": "What is the area of a circle with a circumference of 10π?",
+            "options": [
+                "10π",
+                "25π",
+                "50π",
+                "100π"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Circumference = 2πr = 10π, so r = 5. Area = πr² = π(5)² = 25π.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

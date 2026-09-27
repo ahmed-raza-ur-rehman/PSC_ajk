@@ -1,0 +1,81 @@
+{
+    "category": "Ministry of Education (MoE), UAE",
+    "name": "Arabic Language",
+    "board": "ministry-of-education-moe-uae",
+    "subject": "arabic-language",
+    "url": "/ministry-of-education-moe-uae/arabic-language/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 5,
+    "questions": [
+        {
+            "id": 9301,
+            "question_text": "ما هو إعراب كلمة 'الطالبُ' في جملة 'جاء الطالبُ إلى المدرسة'؟",
+            "options": [
+                "مفعول به",
+                "فاعل",
+                "مبتدأ",
+                "خبر"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "كلمة 'الطالب' هي التي قامت بفعل المجيء، لذا فهي فاعل مرفوع بالضمة.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9302,
+            "question_text": "ما نوع الفعل في جملة 'كتبَ الطالبُ الدرسَ'؟",
+            "options": [
+                "فعل مضارع",
+                "فعل ماضٍ",
+                "فعل أمر",
+                "اسم"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "كلمة 'كتب' تدل على وقوع الحدث في الزمن الماضي.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9303,
+            "question_text": "ما هي علامة رفع المثنى؟",
+            "options": [
+                "الضمة",
+                "الفتحة",
+                "الألف",
+                "الواو"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "يرفع المثنى بالألف بدلاً من الضمة.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9304,
+            "question_text": "ما هو جمع كلمة 'كتاب'؟",
+            "options": [
+                "كتبة",
+                "كاتبون",
+                "كتب",
+                "مكتبات"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "جمع تكسير كلمة كتاب هو كتب.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9309,
+            "question_text": "ما هو حرف الجر في جملة 'ذهب الولد إلى النادي'؟",
+            "options": [
+                "ذهب",
+                "الولد",
+                "إلى",
+                "النادي"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "إلى من حروف الجر المعروفة في اللغة العربية.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

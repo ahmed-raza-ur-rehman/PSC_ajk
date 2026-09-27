@@ -1,0 +1,221 @@
+{
+    "category": "University of Peshawar",
+    "name": "Quantitative Reasoning",
+    "board": "university-of-peshawar",
+    "subject": "quantitative-reasoning",
+    "url": "/university-of-peshawar/quantitative-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 10659,
+            "question_text": "If a shirt is priced at 1200 PKR and is offered at a 20% discount, what is the final price?",
+            "options": [
+                "960 PKR",
+                "1000 PKR",
+                "1040 PKR",
+                "840 PKR"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "20% of 1200 is 240. 1200 - 240 = 960.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10660,
+            "question_text": "What is the value of x if 3x + 12 = 45?",
+            "options": [
+                "9",
+                "11",
+                "13",
+                "15"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 12 from 45 to get 33, then divide by 3 to get 11.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10661,
+            "question_text": "If 15% of a number is 45, what is the number?",
+            "options": [
+                "250",
+                "300",
+                "350",
+                "400"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If 0.15 * x = 45, then x = 45 / 0.15 = 300.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10662,
+            "question_text": "What is the next number in the sequence: 2, 6, 12, 20, 30, ...?",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences are 4, 6, 8, 10. The next difference is 12. 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10663,
+            "question_text": "If a car travels 120 km in 2 hours, what is its average speed in km/h?",
+            "options": [
+                "50",
+                "60",
+                "70",
+                "80"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Speed = Distance / Time = 120 / 2 = 60 km/h.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10664,
+            "question_text": "Solve for y: 2y + 5 = 19 - 5y.",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "7y = 14; y = 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10665,
+            "question_text": "A rectangular garden has a length of 10m and a width of 5m. What is its area?",
+            "options": [
+                "15 sq m",
+                "30 sq m",
+                "50 sq m",
+                "100 sq m"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Area = length * width = 10 * 5 = 50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10666,
+            "question_text": "If 3 apples cost 60 PKR, how much do 7 apples cost?",
+            "options": [
+                "120 PKR",
+                "140 PKR",
+                "150 PKR",
+                "210 PKR"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cost per apple = 60/3 = 20 PKR. 7 * 20 = 140 PKR.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10667,
+            "question_text": "What is the square root of 144?",
+            "options": [
+                "10",
+                "11",
+                "12",
+                "14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "12 * 12 = 144.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10668,
+            "question_text": "Find the average of 10, 20, 30, and 40.",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "(10+20+30+40)/4 = 100/4 = 25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10669,
+            "question_text": "If 5 workers take 10 days to build a wall, how many days will 10 workers take?",
+            "options": [
+                "2",
+                "5",
+                "7",
+                "20"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is an inverse proportion. 5 * 10 = 10 * x. x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10670,
+            "question_text": "What is 25% of 1/2 of 200?",
+            "options": [
+                "25",
+                "50",
+                "100",
+                "125"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "1/2 of 200 is 100. 25% of 100 is 25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10671,
+            "question_text": "If a rectangle has a perimeter of 40 cm and the length is 12 cm, what is the width?",
+            "options": [
+                "8 cm",
+                "10 cm",
+                "14 cm",
+                "16 cm"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Perimeter = 2(L + W). 40 = 2(12 + W) -> 20 = 12 + W -> W = 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10672,
+            "question_text": "What is the result of 2^4 + 3^2 - 5?",
+            "options": [
+                "18",
+                "20",
+                "22",
+                "25"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "2^4 = 16, 3^2 = 9. 16 + 9 = 25. 25 - 5 = 20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10673,
+            "question_text": "A store increases the price of an item by 10% and then decreases the new price by 10%. What is the net percentage change?",
+            "options": [
+                "0%",
+                "1% decrease",
+                "1% increase",
+                "2% decrease"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Let price be 100. 100 * 1.1 = 110. 110 * 0.9 = 99. The final price is 99, which is 1% lower.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

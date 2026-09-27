@@ -1,0 +1,445 @@
+{
+    "category": "FIA",
+    "name": "Syllabus — General Knowledge",
+    "board": "fia",
+    "subject": "syllabus-general-knowledge",
+    "url": "/fia/syllabus-general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 31,
+    "questions": [
+        {
+            "id": 1367,
+            "question_text": "What is the primary function of the constitutional petition filed through the Supreme Court in Pakistan?",
+            "options": [
+                "To challenge governmental tax policies.",
+                "To resolve purely commercial disputes between private parties.",
+                "To appeal decisions from District Courts only.",
+                "To enforce fundamental rights violations."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Constitutional petitions are used to protect fundamental rights guaranteed by the Constitution (Article 199).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1368,
+            "question_text": "When discussing local governance in Pakistan, which body is responsible for overseeing local municipal services and civic administration?",
+            "options": [
+                "LGA",
+                "DC's Office",
+                "ZCOs",
+                "TECs"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Local Government Authorities (LGA) are the designated bodies managing municipal services and local civic administration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1369,
+            "question_text": "The concept of 'Checks and Balances' in a democracy primarily ensures that:",
+            "options": [
+                "The executive, legislative, and judicial branches limit each other's power.",
+                "Only the military has the final say on national policy.",
+                "Citizens must approve every minor government decision.",
+                "Judges cannot review legislation passed by Parliament."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This principle prevents any single branch of government from becoming too powerful or absolute.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1370,
+            "question_text": "Which national body is primarily responsible for setting standards and managing accreditation for engineering institutions in Pakistan?",
+            "options": [
+                "Pakistan Council of Arts and Letters (PCAL)",
+                "Higher Education Commission (HEC)",
+                "Pakistan Engineering Council (PEC)",
+                "Board of Intermediate and Secondary Education (BISE)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "PEC is the statutory body dedicated to regulating and accrediting professional engineering education in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1371,
+            "question_text": "The General Athletic Test (GAT) administered by various universities primarily assesses which area for admission purposes?",
+            "options": [
+                "Academic records and GPA",
+                "Specific subject knowledge from pre-university grades",
+                "Written examination performance only",
+                "General aptitude and knowledge base"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "GAT measures a candidate's general academic aptitude and cognitive skills rather than specific subject knowledge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1372,
+            "question_text": "What does the acronym 'NUST' represent in the context of Pakistani higher education?",
+            "options": [
+                "Nizamabad University of Studies and Technology",
+                "National Urban Studies and Technology",
+                "National Universities Standards Team",
+                "National University of Sciences and Technology"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "NUST stands for National University of Sciences and Technology, a prominent private university in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1373,
+            "question_text": "In the context of federal job recruitment in Pakistan, which body manages the advertisements and recruitment for various federal civil service positions?",
+            "options": [
+                "Punjab Public Service Commission (PPSC)",
+                "Federal Public Service Commission (FPSC)",
+                "Central Superior Services Board (CSSB)",
+                "Sindh Merit Board (SMB)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "FPSC is the primary commission responsible for conducting examinations for federal government posts across various departments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1374,
+            "question_text": "When preparing for academic exams like those for UET or FAST, candidates are generally expected to demonstrate strength in which core academic disciplines?",
+            "options": [
+                "Humanities and Social Sciences",
+                "Economics and Business Studies",
+                "Languages and Literature",
+                "Mathematics and Sciences"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "UET and FAST are technical universities, making Mathematics and Sciences the core focus areas for their entrance and academic requirements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1375,
+            "question_text": "Which body is mandated to regulate the professional standards for architecture in Pakistan?",
+            "options": [
+                "Pakistan Council of Architects (PCA)",
+                "Board of Intermediate and Secondary Education (BISE)",
+                "Pakistan Institute of Architects (PIA)",
+                "Pakistan Engineering Council (PEC)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "PIA is the professional body dedicated to regulating and advancing architectural practices and standards in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1376,
+            "question_text": "The difference between a university entry test (like those for COMSATS) and a general aptitude test (like GAT) is that the entry test usually measures:",
+            "options": [
+                "Previous professional work experience",
+                "Fluency in a foreign language",
+                "General intelligence and academic potential",
+                "Subject-specific knowledge relevant to the course intake"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While GAT is broad, entry tests are tailored to assess if a candidate has the necessary specific background for the chosen program.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1377,
+            "question_text": "Which type of computer memory loses its stored data when the power is turned off?",
+            "options": [
+                "Cache Memory",
+                "RAM (Random Access Memory)",
+                "ROM (Read-Only Memory)",
+                "Hard Disk Drive (HDD)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "RAM is volatile memory, meaning its contents are lost when power is removed. ROM contains permanent, non-volatile data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1378,
+            "question_text": "The primary function of the Arithmetic Logic Unit (ALU) within the CPU is to:",
+            "options": [
+                "Store temporary data during processing",
+                "Translate high-level programming code into machine code",
+                "Perform mathematical calculations and logical operations",
+                "Manage the flow of instructions between memory and CPU"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The ALU is the component responsible for all basic calculations (arithmetic) and comparison operations (logic).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1379,
+            "question_text": "What does the acronym 'URL' stand for in the context of web browsing?",
+            "options": [
+                "Uniform Remote Link",
+                "Universal Resource Link",
+                "User Retrieval Layer",
+                "Uniform Resource Locator"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "URL is the standard format used to specify the location of a resource on the World Wide Web.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1380,
+            "question_text": "In networking, which protocol is typically used for transferring web pages and requires data to be sent over HTTP?",
+            "options": [
+                "SSH (Secure Shell)",
+                "FTP (File Transfer Protocol)",
+                "HTTP (Hypertext Transfer Protocol)",
+                "SMTP (Simple Mail Transfer Protocol)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "HTTP is the foundation protocol for client-server communication on the World Wide Web.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2408,
+            "question_text": "What does the acronym 'SDG' primarily refer to in the field of international development and sustainable goals?",
+            "options": [
+                "Service Delivery Group",
+                "Sustainable Development Goals",
+                "Socio-Economic Development Group",
+                "Special Disaster Governance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SDGs are a set of 17 global goals established by the United Nations to be achieved by 2030.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2409,
+            "question_text": "In the context of the Pakistani Constitution, which article guarantees the fundamental right to freedom of speech and expression?",
+            "options": [
+                "Article 19",
+                "Article 17",
+                "Article 20",
+                "Article 14"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Article 19 specifically guarantees the fundamental right to freedom of speech and expression to every citizen.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2411,
+            "question_text": "A sequence of characters representing a physical address in a network, such as 192.168.1.1, is known as:",
+            "options": [
+                "Domain Name",
+                "MAC Address",
+                "Hostname",
+                "IP Address"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "IP addresses are logical identifiers used to route data packets across networks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2413,
+            "question_text": "What does 'GUI' stand for in computer operating system terminology?",
+            "options": [
+                "Graphical Utility Integration",
+                "Graphical User Interface",
+                "General User Interface",
+                "Global Utility Information"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "GUI refers to the visual system of icons, buttons, and windows used for interacting with the computer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2768,
+            "question_text": "Which international body focuses specifically on the prevention and treatment of diseases, playing a critical role during global health crises?",
+            "options": [
+                "UNESCO",
+                "IMF",
+                "WHO",
+                "World Bank"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The World Health Organization (WHO) is the specialized UN agency concerned with global public health.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2769,
+            "question_text": "Which of the following bodies is primarily responsible for conducting examinations for services falling under the federal government structure in Pakistan?",
+            "options": [
+                "FPSC",
+                "SPSC",
+                "NTS",
+                "PPSC"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Federal Public Service Commission (FPSC) conducts exams for federal government services, while PPSC handles provincial services.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2771,
+            "question_text": "In computer networking, which layer is responsible for defining the logical addressing (IP addressing) and handling routing between different networks?",
+            "options": [
+                "Network Layer",
+                "Data Link Layer",
+                "Physical Layer",
+                "Transport Layer"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Network Layer, using protocols like IP, handles logical addressing and determines the best path (routing) for data packets across interconnected networks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2773,
+            "question_text": "In the context of file formats, what does the acronym GIF stand for?",
+            "options": [
+                "Graphics Interchange Format",
+                "Global Image File",
+                "Graphic Internet File",
+                "General Information File"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "GIF is a popular image format recognized for supporting animation and a limited color palette.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3230,
+            "question_text": "Which prominent engineering and technology university, highly competitive for Pakistani students, is often considered a benchmark for advanced technical education?",
+            "options": [
+                "FAST-NTU",
+                "COMSATS",
+                "NUST",
+                "UET Lahore"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "NUST (National University of Sciences and Technology) is known for its high standards and rigorous technical programs, attracting top talent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3231,
+            "question_text": "In Pakistani administrative law, the Ombudsman is established to protect citizens from:",
+            "options": [
+                "Misbehavior by civil servants and government entities.",
+                "Financial misconduct by private businesses.",
+                "International disputes over border lines.",
+                "Legal challenges filed only by private citizens."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Ombudsman investigates complaints regarding maladministration or misuse of power by government officials.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3232,
+            "question_text": "What is the primary function of the CSS (Cascading Style Sheets) language in web development?",
+            "options": [
+                "Specifying the visual presentation and layout of the elements.",
+                "Defining the structure and content of a webpage.",
+                "Creating interactive client-side scripts and dynamic behavior.",
+                "Handling server-side logic and database interactions."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "CSS dictates how HTML elements look—their colors, fonts, spacing, and arrangement—without changing the underlying structure (which is the role of HTML).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3234,
+            "question_text": "Which type of memory is volatile and requires constant electrical power to retain the stored data?",
+            "options": [
+                "ROM",
+                "RAM",
+                "Cache Memory",
+                "Flash Memory"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "RAM (Random Access Memory) is volatile memory, meaning it loses its data when the power supply is removed. ROM retains data even without power.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3338,
+            "question_text": "The principle of ‘Rule of Law’ implies that:",
+            "options": [
+                "Criminal charges are only applicable to poor citizens.",
+                "Military power is superior to civilian authority.",
+                "The government must always consult the judiciary first.",
+                "The law applies equally to all citizens, regardless of status."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Rule of Law dictates that no one is above the law, ensuring equal justice for all.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3343,
+            "question_text": "If a database table has redundant data stored in multiple fields that describe the same entity (e.g., customer name repeated across multiple transactions), which principle is violated?",
+            "options": [
+                "Atomicity",
+                "Normalization",
+                "Concurrency Control",
+                "Referential Integrity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Normalization is the process of structuring a database to reduce data redundancy and improve data integrity, solving issues like repeated entity data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3344,
+            "question_text": "If a file is saved in the '.pdf' format, it most likely indicates that the file contains:",
+            "options": [
+                "Portable document content",
+                "Vector graphic information",
+                "Editable structured text and data",
+                "Spreadsheet calculations"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "PDF (Portable Document Format) is designed to ensure documents look consistent regardless of the software or hardware used to view them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4153,
+            "question_text": "In operating systems, what is the primary role of the Kernel?",
+            "options": [
+                "To manage the internet connection settings and protocols",
+                "To provide the graphical user interface (GUI) for the user",
+                "To manage hardware resources and coordinate processes",
+                "To write and compile application-specific code"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Kernel is the core component of the OS that handles the crucial functions of resource management (CPU, memory, I/O).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4155,
+            "question_text": "What concept describes the process of converting plain text into an unreadable format to protect sensitive information?",
+            "options": [
+                "Encryption",
+                "Authentication",
+                "Hashing",
+                "Decryption"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Encryption is the technique of encoding data to secure it from unauthorized access.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

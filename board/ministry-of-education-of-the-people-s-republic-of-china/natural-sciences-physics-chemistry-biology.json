@@ -1,0 +1,375 @@
+{
+    "category": "Ministry of Education of the People's Republic of China",
+    "name": "Natural Sciences (Physics, Chemistry, Biology)",
+    "board": "ministry-of-education-of-the-people-s-republic-of-china",
+    "subject": "natural-sciences-physics-chemistry-biology",
+    "url": "/ministry-of-education-of-the-people-s-republic-of-china/natural-sciences-physics-chemistry-biology/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 26,
+    "questions": [
+        {
+            "id": 8500,
+            "question_text": "What is the atomic number of Carbon?",
+            "options": [
+                "4",
+                "6",
+                "8",
+                "12"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The atomic number represents the number of protons in an atom; Carbon has 6 protons in its nucleus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8501,
+            "question_text": "Which particle is found in the nucleus of an atom and has no electric charge?",
+            "options": [
+                "Proton",
+                "Electron",
+                "Neutron",
+                "Photon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Neutrons are neutral particles located in the atomic nucleus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8502,
+            "question_text": "What is the process by which green plants use sunlight to synthesize food?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Fermentation",
+                "Digestion"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Photosynthesis is the chemical process plants use to convert light energy into chemical energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8503,
+            "question_text": "In physics, what is the standard unit of force?",
+            "options": [
+                "Joule",
+                "Watt",
+                "Newton",
+                "Pascal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Newton (N) is the SI unit for force, defined as 1 kg·m/s^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8504,
+            "question_text": "Which organelle is often referred to as the 'powerhouse' of the cell?",
+            "options": [
+                "Nucleus",
+                "Mitochondrion",
+                "Ribosome",
+                "Golgi apparatus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mitochondria produce adenosine triphosphate (ATP), the main energy molecule of the cell.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8505,
+            "question_text": "What happens during a chemical reduction?",
+            "options": [
+                "Loss of electrons",
+                "Gain of electrons",
+                "Loss of oxygen",
+                "Gain of protons"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Reduction is defined as the gain of electrons during a chemical reaction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8506,
+            "question_text": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+            "options": [
+                "Newton's First Law",
+                "Newton's Second Law",
+                "Newton's Third Law",
+                "Kepler's Law"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Newton's Third Law defines the nature of paired forces acting between objects.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8507,
+            "question_text": "Which chemical element is the primary component of organic life?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Carbon's ability to form stable bonds with many elements makes it the backbone of organic chemistry and life.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8508,
+            "question_text": "During meiosis, what is the primary outcome regarding genetic material?",
+            "options": [
+                "Identical clones are produced",
+                "The cell count remains the same",
+                "Chromosome number is reduced by half",
+                "The nucleus disappears"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Meiosis is a special type of cell division that results in four daughter cells with half the chromosomes of the parent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8509,
+            "question_text": "What is the pH range of an acidic solution?",
+            "options": [
+                "Above 7",
+                "Exactly 7",
+                "Below 7",
+                "Above 14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A pH level below 7 indicates an acidic solution, while 7 is neutral and above 7 is basic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8510,
+            "question_text": "In physics, what happens to the velocity of an object in free fall as it descends?",
+            "options": [
+                "It decreases",
+                "It stays constant",
+                "It increases due to gravity",
+                "It stops"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Gravity causes a constant acceleration (approx 9.8 m/s²), which increases the downward velocity over time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8511,
+            "question_text": "Which gas do plants primarily absorb from the atmosphere for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Carbon dioxide",
+                "Nitrogen",
+                "Helium"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Photosynthesis uses carbon dioxide, water, and light energy to produce glucose.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8512,
+            "question_text": "What is the chemical symbol for Gold?",
+            "options": [
+                "Gd",
+                "Au",
+                "Ag",
+                "Fe"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Au comes from the Latin word 'aurum'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8513,
+            "question_text": "What does the 'Big Bang' theory attempt to explain?",
+            "options": [
+                "The origin of life on Earth",
+                "The evolution of species",
+                "The origin and expansion of the universe",
+                "The tectonic shifts of continents"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Big Bang theory describes the universe beginning from a hot, dense singularity and expanding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8514,
+            "question_text": "Which organ in the human body is responsible for filtering blood?",
+            "options": [
+                "Liver",
+                "Kidneys",
+                "Stomach",
+                "Heart"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The kidneys filter waste products and excess water from the blood to create urine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8515,
+            "question_text": "What is a covalent bond?",
+            "options": [
+                "Transfer of electrons between atoms",
+                "Sharing of electron pairs between atoms",
+                "Attraction between oppositely charged ions",
+                "Weak hydrogen interactions"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Covalent bonding involves the sharing of electron pairs to stabilize atoms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8516,
+            "question_text": "Which of these is a non-renewable energy source?",
+            "options": [
+                "Solar",
+                "Wind",
+                "Coal",
+                "Hydroelectric"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Fossil fuels like coal take millions of years to form and are finite in supply.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8517,
+            "question_text": "What is the process of water changing from gas to liquid called?",
+            "options": [
+                "Evaporation",
+                "Condensation",
+                "Sublimation",
+                "Freezing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Condensation is the process where gas turns into liquid, typically when cooling.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8518,
+            "question_text": "What type of energy is stored in a compressed spring?",
+            "options": [
+                "Kinetic",
+                "Thermal",
+                "Elastic potential",
+                "Chemical"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Energy stored due to deformation of an elastic object is potential energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8519,
+            "question_text": "Which part of the neuron transmits signals away from the cell body?",
+            "options": [
+                "Dendrite",
+                "Axon",
+                "Synapse",
+                "Nucleus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The axon is the long extension of a nerve cell that transmits electrical impulses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8520,
+            "question_text": "What is the charge of a neutron?",
+            "options": [
+                "Positive",
+                "Negative",
+                "Neutral",
+                "Variable"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Neutrons have no electric charge, unlike protons (positive) and electrons (negative).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8521,
+            "question_text": "What is the primary function of DNA in a cell?",
+            "options": [
+                "To generate energy",
+                "To act as a structural barrier",
+                "To store genetic information",
+                "To break down waste"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "DNA carries the instructions for the development, functioning, and reproduction of organisms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8522,
+            "question_text": "Which law describes the relationship between the current, voltage, and resistance?",
+            "options": [
+                "Faraday's Law",
+                "Ohm's Law",
+                "Hooke's Law",
+                "Boyle's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ohm's law states V=IR, where V is voltage, I is current, and R is resistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8523,
+            "question_text": "What determines the atomic number of an element?",
+            "options": [
+                "Number of neutrons",
+                "Number of protons",
+                "Mass of the atom",
+                "Number of shells"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The atomic number is defined strictly by the count of protons in an atom's nucleus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8524,
+            "question_text": "What is the main atmospheric gas that humans breathe in?",
+            "options": [
+                "Carbon dioxide",
+                "Nitrogen",
+                "Oxygen",
+                "Argon"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While we need oxygen, Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8525,
+            "question_text": "In a chemical reaction, a catalyst is used to:",
+            "options": [
+                "Increase the reaction rate",
+                "Decrease the temperature needed",
+                "Change the final product",
+                "Absorb heat"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A catalyst lowers the activation energy required for a reaction to proceed, thus speeding it up.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

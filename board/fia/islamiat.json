@@ -1,0 +1,1901 @@
+{
+    "category": "FIA",
+    "name": "Islamiat",
+    "board": "fia",
+    "subject": "islamiat",
+    "url": "/fia/islamiat/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 135,
+    "questions": [
+        {
+            "id": 1009,
+            "question_text": "Which event is historically significant as the moment the Prophet Muhammad (PBUH) received the divine mandate (Wahy) to preach Islam, marking the start of prophethood?",
+            "options": [
+                "Meeting the angels near Madinah",
+                "Receiving revelations in the Cave Hira",
+                "The migration (Hijra) to Abyssinia",
+                "The incident at the Kaaba"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Prophethood began when the Prophet received the first revelation from Allah through Angel Jibreel (Gabriel) while meditating in Cave Hira.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1010,
+            "question_text": "During the boycott imposed on the Prophet Muhammad (PBUH) and his clan in boycott of the Quraysh, which tribe showed support and broke the boycott restrictions?",
+            "options": [
+                "Bani Adiy",
+                "Thaqif",
+                "Banu Makhzum",
+                "Banu Hashim"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Bani Adiy tribe, specifically through the role of Hamza, challenged the blockade and helped restore rights to the Prophet's family.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1011,
+            "question_text": "According to Islamic teachings, which pillar requires believers to fast from dawn until dusk?",
+            "options": [
+                "Salat (Prayer)",
+                "Hajj (Pilgrimage)",
+                "Sawm (Fasting)",
+                "Zakah (Charity)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sawm is the pillar that mandates fasting during the month of Ramadan, observing abstinence from food and drink from dawn till dusk.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1111,
+            "question_text": "The payment of Zakat is primarily an act of:",
+            "options": [
+                "Securing exemption from sin",
+                "Reward for piety",
+                "Worship and purification of wealth",
+                "Social obligation only"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Zakat is viewed as both an act of worship (ibadah) and a purification process (tazkiyah) for the wealth of the rich.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1419,
+            "question_text": "What significant event marked the beginning of Prophet Muhammad's (PBUH) public prophethood?",
+            "options": [
+                "The encounter with the Prophet's uncle, Abu Talib.",
+                "The Hijra (migration) from Makkah to Madinah.",
+                "Receiving the revelation of Surah Al-Alaq from Angel Jibreel in the Cave Hira.",
+                "The first successful prayer gathering in the Kaaba."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The revelation of Surah Al-Alaq in the Cave Hira initiated the public call to monotheism (Tawhid), marking the start of his prophetic mission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1420,
+            "question_text": "During the early life of Prophet Muhammad (PBUH), what event was considered a significant sign of his prophethood and divine favor?",
+            "options": [
+                "His successful mediation in a major tribal conflict in Mecca.",
+                "His father, Abdullah, predicting his future role as a statesman.",
+                "His ability to miraculously soothe wild animals.",
+                "The reception of the revelation (Wahi) in the Cave of Hira."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The revelation of the Quran in the Cave of Hira marked the beginning of prophethood and confirmed his status as Rasulullah.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1422,
+            "question_text": "Which pillar of Islam emphasizes the purification of both body and mind through ritual acts, distinguishing it from mere financial charity?",
+            "options": [
+                "Hajj",
+                "Zakat",
+                "Sawm",
+                "Salat"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Salat (prayer) is the pillar that focuses on ritual purity and devotion, requiring specific physical and mental presence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1423,
+            "question_text": "According to Islamic theology, which concept represents the fundamental pillars of faith (Iman) that a Muslim must believe in?",
+            "options": [
+                "Maintaining Taqwa, fulfilling Ihsan, and seeking Rizq",
+                "Adhering to Sunnah, following Ijma, and respecting Muhaddithin",
+                "Performing Salah, Sawm, Zakat, Hajj, and Shahada",
+                "Belief in Allah, His Angels, Books, Prophets, and the Day of Judgment"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The core pillars of Iman are belief in the Six Articles: Allah, Angels, Books, Messengers, Day of Judgment, and Qadar (Fate).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1424,
+            "question_text": "According to Islamic belief, which concept represents the fundamental cornerstone of faith that requires belief in the unseen?",
+            "options": [
+                "Taqwa (Piety)",
+                "Ihsan (Perfection)",
+                "Islam (Submission)",
+                "Iman (Faith)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Iman specifically denotes belief in the unseen matters of faith, such as angels, books, and the Day of Judgment, making it the cornerstone.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1425,
+            "question_text": "Which Surah is frequently emphasized in basic Islamic education for its comprehensive teachings regarding Tawheed (Oneness of Allah) and guidance for human conduct, often used as a foundational text?",
+            "options": [
+                "Surah Al-Ikhlas",
+                "Surah An-Nas",
+                "Surah Al-Falaq",
+                "Surah Al-Fatiha"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Surah Al-Fatiha is often called 'Ummul Kitab' (Mother of the Book) because it summarizes the core tenets of Islam and is recited in every prayer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1426,
+            "question_text": "Which Quranic Surah is frequently cited as establishing the core principle of social justice and economic equality among believers?",
+            "options": [
+                "Surah Al-Ikhlas",
+                "Surah Al-Baqarah",
+                "Surah Al-Fatiha",
+                "Surah Al-Ma'un"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Surah Al-Baqarah contains detailed injunctions regarding financial dealings, zakat, and rights, making it foundational for social justice.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1427,
+            "question_text": "Which battle, often considered a pivotal moment in Islamic history, occurred at the site of a deep trench (khaṇq) and utilized strategic defensive warfare against the forces of the Quraysh?",
+            "options": [
+                "Badr",
+                "Uhud",
+                "Hunayn",
+                "Khandaq"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Battle of Khandaq involved the digging of a defensive trench, making it distinct from battles fought in open fields.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1428,
+            "question_text": "Which major battle following the treaty of Hudaybiyyah saw the Muslims face the combined forces of Quraysh and allied tribes, leading to the digging of the famous defensive trench?",
+            "options": [
+                "Battle of Badr",
+                "Battle of Khandaq (Trench)",
+                "Battle of Hunayn",
+                "Battle of Uhud"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Battle of Khandaq (Trench) was a defensive battle where Muslims constructed a trench around Madina to counter the siege by Quraysh and their allies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1429,
+            "question_text": "The demand for separate Muslim state, formalized in the Lahore Resolution (1940), fundamentally shifted the focus of the movement from cultural protection to:",
+            "options": [
+                "Establishing a geographically defined homeland based on religious identity",
+                "Gaining constitutional safeguards for Islamic law across British India",
+                "Securing political autonomy within a federal structure",
+                "Achieving representation parity with other major communities in government"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Lahore Resolution explicitly called for separate Muslim states, marking the shift toward a standalone nation-state concept.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1430,
+            "question_text": "What was the immediate catalyst for the formation of the All-India Muslim League into a more unified, politically assertive entity during the early 20th century?",
+            "options": [
+                "The growing dissatisfaction with the lack of representation in legislative councils.",
+                "The failure of the Lucknow Pact to secure full rights for Muslims.",
+                "The partition plan proposed by the educated Muslim elite.",
+                "The direct reaction to the communal violence following the Bengal famine."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The failure to fully secure rights, especially after earlier agreements like the Lucknow Pact, led to increased demands for separate political identity and action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1431,
+            "question_text": "Which key aspect was implicitly endorsed by the Lahore Resolution, leading to the eventual demand for Pakistan?",
+            "options": [
+                "The establishment of an Islamic identity as the basis for political grouping.",
+                "The principle of communal representation in all legislative bodies.",
+                "The recognition of separate administrative zones based on religious demographics.",
+                "The concept of self-determination for distinct cultural groups."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The resolution’s demand for separate states emphasized the right of self-determination for the Muslim population in the subcontinent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1432,
+            "question_text": "Which major political demand did the Lahore Resolution of 1940 primarily advocate for?",
+            "options": [
+                "The establishment of independent sovereign states in the Muslim-majority areas of British India.",
+                "The implementation of communal electorates across all provinces of India.",
+                "The immediate transfer of all governance powers to a federal government structure.",
+                "The unification of all princely states under direct British administration."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The resolution demanded separate independent states for Muslims, which led to the concept of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1433,
+            "question_text": "Which constitutional amendment greatly reinforced the federal nature of Pakistan's governance structure by redefining the relationship between federal and provincial domains?",
+            "options": [
+                "Seventeenth Amendment (2018)",
+                "Eighteenth Amendment (2010)",
+                "First Amendment (1974)",
+                "Eighth Amendment (2010)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Eighteenth Amendment (2010) restored the federal structure, eliminating key remnants of the presidential system and decentralizing power to the provinces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1434,
+            "question_text": "Which of the following statements accurately describes the federal nature of the Constitution of Pakistan (1973) regarding provincial autonomy?",
+            "options": [
+                "It granted absolute legislative authority to provinces, thus dismantling the centralized federal structure.",
+                "It mandates that all provincial laws must be ratified by the federal parliament without exception.",
+                "It primarily gave control over foreign policy and defense to the center, minimizing provincial input.",
+                "It established a bicameral legislature with specific provisions to safeguard provincial rights and ensure a shared federation."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Constitution established a system of shared power through the bicameral parliament (National and Provincial Assemblies) to balance federal needs with provincial rights.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1435,
+            "question_text": "The mountainous region that forms the border between Khyber Pakhtunkhwa and Afghanistan, and contains the Khyber Pass, is best characterized as part of which major mountain range?",
+            "options": [
+                "Karakoram Range",
+                "Himalayas",
+                "Hindu Kush",
+                "Sulaiman Range"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Sulaiman Range runs through the region and includes passes like the Khyber Pass, which is critical for connectivity with Afghanistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1436,
+            "question_text": "Which of the following mountain ranges significantly influences the climate and agricultural patterns of the Punjab and Sindh provinces through localized precipitation and shelter?",
+            "options": [
+                "The Chitral Range",
+                "The Kirthar Range",
+                "The Sulaiman Range",
+                "The Himalayas"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Sulaiman Range runs parallel to the Sindh province, creating localized microclimates and influencing river flow and agricultural zoning in the region.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1437,
+            "question_text": "The Lahore Resolution of 1940 fundamentally articulated which core demand that led to the creation of Pakistan?",
+            "options": [
+                "Separate state for Muslims of India",
+                "A constitutional overhaul of the British Raj",
+                "Increased representation in the central government",
+                "Automatic adoption of an Islamic constitution"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Lahore Resolution explicitly demanded a separate homeland for Muslims in British India, which later became Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1438,
+            "question_text": "Which national institution is primarily responsible for setting the national educational curriculum standards and accrediting universities in Pakistan?",
+            "options": [
+                "National Testing Service (NTS)",
+                "Pakistan Council of Arts & Culture (PCAC)",
+                "Higher Education Commission (HEC)",
+                "Federal Board of Inter-Secondary Education (FBISE)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The HEC oversees the entire higher education sector, including curriculum standards and accreditation of degrees and institutions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1520,
+            "question_text": "Which significant event marks the beginning of the public phase of Prophet Muhammad's (PBUH) mission, following the revelation in the Cave of Hira?",
+            "options": [
+                "The Farewell Pilgrimage",
+                "The revelation of the first verses (Iqra)",
+                "The declaration of the Constitution of Madinah",
+                "The Hijra (Migration) to Madinah"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The public mission began with the initial revelation (Iqra), which was the starting point of his preaching to the people of Makkah.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1720,
+            "question_text": "Which event marked the formal beginning of prophethood (Nubuwwat) for Prophet Muhammad (PBUH)?",
+            "options": [
+                "The migration (Hijra) from Mecca to Medina.",
+                "The Farewell Pilgrimage (Wada' Tulwa).",
+                "The acceptance of Islam by his uncle Abu Talib.",
+                "Receiving the first revelation in the Cave Hira."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The first revelation, involving the angel Gabriel (Jibraeel), occurred in the Cave Hira, initiating his prophethood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1721,
+            "question_text": "Among the pillars of Islam, which pillar is primarily concerned with the purification of accumulated wealth and is obligatory only on those who meet specific financial benchmarks (Nisab)?",
+            "options": [
+                "Zakat",
+                "Sawm",
+                "Hajj",
+                "Salah"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Zakat is the mandatory payment on accumulated wealth (like gold, silver, and savings) to achieve financial and spiritual purification, making it distinct from ritual acts like prayer or fasting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1722,
+            "question_text": "In the context of the Pillars of Islam, which pillar involves the physical giving of charity and is distinct from the pillar of fasting?",
+            "options": [
+                "Sawm",
+                "Zakat",
+                "Salat",
+                "Hajj"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Zakat is the mandatory annual purification charity paid on wealth, distinguishing it from Salat (prayer) and Sawm (fasting).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1724,
+            "question_text": "Which article of faith dictates the obligation of Muslims to adhere to the teachings and practices of Prophet Muhammad (PBUH)?",
+            "options": [
+                "Belief in the Quran",
+                "Belief in the Day of Judgment",
+                "Belief in the Prophets",
+                "Belief in Divine Decree (Qadar)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The belief in Prophets establishes the entire religious system, requiring adherence to the final and most complete message delivered by Muhammad (PBUH).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1725,
+            "question_text": "Which Quranic Surah is most commonly associated with the theme of divine oneness (Tawhid) and is often referenced for its concise declaration of God's singularity?",
+            "options": [
+                "Surah Al-Fatiha",
+                "Surah An-Nas",
+                "Surah Al-Ikhlas",
+                "Surah Al-Falaq"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Surah Al-Ikhlas explicitly defines the oneness of Allah, starting with 'Qul huwallahu ahad' (Say, He is Allah, the One).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1726,
+            "question_text": "Which Surah is often referred to as the 'Heart of the Quran' due to its comprehensive coverage of core Islamic beliefs, including Tawhid and prophethood?",
+            "options": [
+                "Imran",
+                "An-Nisa",
+                "Yasin",
+                "Fatiha"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Surah Al-Fatiha is fundamental as it encapsulates the belief in Allah's Oneness (Tawhid) and the guidance sought from Him, making it central to every prayer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1727,
+            "question_text": "The strategy adopted during the Battle of Khandaq (Trench) was primarily designed to counter the advantages held by the confederates, emphasizing which key defensive element?",
+            "options": [
+                "Reliance on strong cavalry charges.",
+                "Utilization of deep defensive trenches (akhd).",
+                "Engaging in open-field skirmishes near Mecca.",
+                "Immediate confrontation with heavy weaponry."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The construction of the trench (Khandaq) was the crucial defensive move that nullified the cavalry advantage of the besieging forces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1728,
+            "question_text": "Which strategic event involving digging a trench was instrumental in the Umayyad forces' defeat and marked a turning point in the Prophet Muhammad's confrontation with the Quraysh?",
+            "options": [
+                "The Battle of Uhud",
+                "The Battle of Hunayn",
+                "The Battle of Khandaq (Trench)",
+                "The Battle of Badr"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Battle of Khandaq (Trenches) was a major defensive victory for the Muslims, neutralizing the massive siege force from the Quraysh and their allies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1730,
+            "question_text": "The resolution that formally articulated the demand for separate constitutional states for Muslim majority areas in British India, fundamentally establishing the political basis for Pakistan, was:",
+            "options": [
+                "Objectives Resolution (1949)",
+                "Allahabad Address (1930)",
+                "Lahore Resolution (1940)",
+                "Delhi Resolution (1927)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Lahore Resolution of 1940 explicitly demanded the constitutional separation of Muslim-majority areas into independent states, while the Objectives Resolution defined principles and the Objectives Resolution was adopted after Pakistan's creation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1731,
+            "question_text": "The Lahore Resolution of 1940 primarily demanded:",
+            "options": [
+                "A constitutional restructuring of the Indian government based on federal principles.",
+                "The creation of separate states for Muslims in Northwest and East India.",
+                "The immediate separation of Bengal from the Indian Union.",
+                "Full autonomy for the princely states within British India."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The resolution called for the creation of 'independent states' for Muslims in the areas of Northwest and East India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1732,
+            "question_text": "Which resolution demanded the subdivision of British India into independent states, explicitly incorporating the geographical unit of 'Pakistan'?",
+            "options": [
+                "Cabinet Mission Plan (1946)",
+                "Lahore Resolution (1940)",
+                "Declaring Independence (1947)",
+                "Jinnah's Fourteen Points (1929)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Lahore Resolution (1940) formally articulated the demand for separate Muslim states, replacing the earlier Lahore Resolution (1930).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1733,
+            "question_text": "The 1973 Constitution of Pakistan primarily established which form of governance, thereby consolidating parliamentary democracy?",
+            "options": [
+                "Unitary Military Regime",
+                "Parliamentary Federal System",
+                "Presidential Dictatorship",
+                "Confederal Republic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 1973 Constitution mandated a Parliamentary system where the Prime Minister and Council of Ministers are accountable to the National Assembly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1734,
+            "question_text": "Which fundamental principle established by the Constitution of Pakistan (1973) ensures the supremacy of the Constitution over all other laws and institutions?",
+            "options": [
+                "Article 2",
+                "The Federal List",
+                "Article 50",
+                "The Objectives Resolution"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Article 2 mandates that any law or action inconsistent with the Constitution shall be void, establishing the Constitution's supremacy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1736,
+            "question_text": "Which major river system is primarily responsible for irrigating the fertile plains of Punjab and Sindh, making them the agricultural breadbaskets of Pakistan?",
+            "options": [
+                "Indus River System",
+                "Chenab River System",
+                "Sutlej River System",
+                "Jhelum River System"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Indus River System, along with its tributaries (Jhelum, Chenab, Ravi, etc.), forms the lifeblood for the vast agricultural lands of Punjab and Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1738,
+            "question_text": "Which of the following historical events significantly contributed to the institutionalization of the concept of a national identity among the educated elite in pre-partition India?",
+            "options": [
+                "The peasant uprisings in Punjab against colonial taxation.",
+                "The commercial trade agreements signed between Karachi and Peshawar in the late 19th century.",
+                "The establishment of the All India Muslim League (AIML) and its legislative efforts.",
+                "The academic curricula promoted by missionary schools in Bombay and Calcutta."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The AIML provided a centralized platform for articulating political, cultural, and religious demands, helping to solidify the notion of a separate Muslim political entity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1820,
+            "question_text": "Which event, which marked a key turning point in the Prophet Muhammad's (PBUH) life, involved his journey to seek divine revelation and guidance?",
+            "options": [
+                "The Hijra to Abyssinia",
+                "Isra and Mi'raj",
+                "Marriage to Khadijah",
+                "Battle of Badr"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Isra and Mi'raj encompassed his night journey from Mecca to Jerusalem (Isra) and his subsequent ascent to the heavens (Mi'raj), leading to divine revelations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2123,
+            "question_text": "Which pillar of Iman (Faith) encompasses belief in the eternal divine decree and divine will, encompassing both predestination and human free will?",
+            "options": [
+                "Belief in Qadar (Divine Decree)",
+                "Belief in the Qur'an (Kalamullah)",
+                "Belief in Day of Judgment (Akhirah)",
+                "Belief in Prophets (Nubuwwat)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Qadar is the article of faith concerning the divine decree (Al-Qadar), which covers predestination and divine control over all affairs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2124,
+            "question_text": "The primary theme of Surah Luqman is best described as:",
+            "options": [
+                "Historical accounts of the prophets and their miracles.",
+                "Commands related to ritual purity and prayer.",
+                "Moral and ethical guidance through the counsel of a father.",
+                "Detailed descriptions of the afterlife and Day of Judgment."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Surah Luqman contains wisdom and advice given by Luqman to his son, focusing heavily on character building, piety, and proper conduct.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2127,
+            "question_text": "What was the primary immediate demand addressed by the Lahore Resolution of 1940?",
+            "options": [
+                "Recognition of Islamic law (Sharia) as the sole basis for legislation in British India.",
+                "The establishment of independent Muslim states in the Northwestern Frontier Province (NWFP) and Sindh.",
+                "The grouping of Muslim-majority areas into independent wings of Pakistan.",
+                "The transfer of administrative power to the Islamic State of Pakistan."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The resolution advocated for the creation of 'independent states' for Muslims in subcontinent's various parts, leading to the concept of composite states rather than just Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2128,
+            "question_text": "Under the Constitution of Pakistan (1973), which principle dictates that all citizens are equal before the law, regardless of religion or background?",
+            "options": [
+                "Islamic principles",
+                "Fundamental Rights",
+                "Federalism",
+                "Equality before law"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Equality before law is a core constitutional principle ensuring that the law applies equally to all citizens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2222,
+            "question_text": "Which pillar of Islam relates to observing obligatory fasts during the month of Ramadan, requiring abstaining from food, drink, and other physical sustenance from dawn till sunset?",
+            "options": [
+                "Hajj",
+                "Zakat",
+                "Salah",
+                "Sawm"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Sawm is the Arabic term for fasting, which is mandated during Ramadan. Zakat relates to charity, Salah to prayer, and Hajj to the pilgrimage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2323,
+            "question_text": "If a person doubts the divine decree (Qadar) governing worldly events, which article of faith are they primarily failing to uphold?",
+            "options": [
+                "Belief in the Messengers (Rusul)",
+                "Belief in the Day of Judgment (Yawm al-Qiyamah)",
+                "Belief in the divine revelation through Books (Kutub",
+                "Belief in Divine Pre-determination (Qadar)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Qadar (Divine Pre-determination) is the belief that everything happens by the will and knowledge of Allah. Doubt in this aspect constitutes a flaw in Iman.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2329,
+            "question_text": "Which region of Pakistan is characterized by a mix of arid plateaus, fertile river valleys, and proximity to the Arabian Sea, significantly impacting its agricultural and commercial structure?",
+            "options": [
+                "Sindh Plain and Coastal Area",
+                "Thar Desert and Balochistan Interior",
+                "Kaghan Valley and Upper Himalayas",
+                "Potwar Plateau and Salt Range Foothills"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Sindh Plain and Coastal Area combine diverse physical features, making it a major agricultural and trade hub near the Arabian Sea.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2330,
+            "question_text": "During which period was the Lahore Resolution, advocating for separate Muslim state, formally passed by the Muslim League?",
+            "options": [
+                "Lucknow Pact",
+                "Cripps Mission meeting",
+                "Minto-Childrie Reforms",
+                "Lahore Session (1940)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Lahore Resolution was formally passed at the annual session of the All-India Muslim League held in Lahore in 1940.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2582,
+            "question_text": "Which of the following actions is considered the most fundamental pillar of Islam, establishing the relationship between the individual and Allah?",
+            "options": [
+                "Shahadah (Declaration of Faith)",
+                "Salat (Prayer)",
+                "Hajj (Pilgrimage)",
+                "Zakat (Charity)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Shahadah is the gateway to Islam, as it is the verbal declaration of belief in the Oneness of Allah and Muhammad's prophethood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2590,
+            "question_text": "Which constitutional amendment formally established the concept of a federal structure and decentralized powers significantly following the political turmoil of the 1970s?",
+            "options": [
+                "Eighteenth Amendment",
+                "Twenty-Third Amendment",
+                "Thirteenth Amendment",
+                "Seventeenth Amendment"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 18th Amendment (2010) devolved substantial powers from the federal to the provincial governments, reinforcing the federal structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2683,
+            "question_text": "Which of the following is the foundational pillar of Iman (faith) according to orthodox Islamic theology, requiring belief in the divine books?",
+            "options": [
+                "Belief in the prophets (Rusul)",
+                "Belief in Allah's oneness (Tawhid)",
+                "Belief in the Day of Judgment (Akhirah)",
+                "Belief in the divine books (Kutub)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While all are pillars, belief in the divine books specifically pertains to accepting the revelation given by Allah, including the Torah, Gospel, and Qur'an.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2684,
+            "question_text": "Which Quranic Surah is primarily known for emphasizing the oneness of Allah (Tawhid) and establishing core beliefs, making it often considered the foundation of Islamic creed?",
+            "options": [
+                "Surah Al-Ikhlas",
+                "Surah Al-Fatihah",
+                "Surah Al-Baqarah",
+                "Surah Al-Nasr"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Surah Al-Ikhlas explicitly states 'Say: He is Allah, the One' (Qul Huwa Allahu Ahad), making it the most concise declaration of Tawhid.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2686,
+            "question_text": "Which key event or decision, preceding the Lahore Resolution of 1940, significantly solidified the demand for a separate Muslim homeland, emphasizing the need for defined geographical boundaries?",
+            "options": [
+                "The Lucknow Pact of 1916",
+                "The Khilafat Movement peak (1919)",
+                "The Jinnah-Council Conference of 1930",
+                "The Delhi Resolution of 1927"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Delhi Resolution (1927) marked an early and decisive articulation of the separate political aspirations of Muslims in the northwestern parts of British India, foreshadowing the 1940 resolution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2688,
+            "question_text": "Which key feature of the 1973 Constitution of Pakistan established a parliamentary system while maintaining a strong federal structure, significantly influencing provincial autonomy?",
+            "options": [
+                "The requirement of a Prime Minister chosen by the National Assembly, under the supervision of the President.",
+                "The establishment of a bicameral legislature with equal representation for all provinces.",
+                "The division of powers outlined in the Federal and Provincial Lists (Concurrent List).",
+                "The mandatory inclusion of emergency powers vesting solely in the federal government."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The PM-led federal government system (parliamentary structure) was enshrined, making the executive responsible to the elected lower house (National Assembly).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2689,
+            "question_text": "Which major river system is primarily responsible for the agriculture and irrigation of Sindh province, originating from the Indus River?",
+            "options": [
+                "River Chenab",
+                "River Sutlej",
+                "River Ravi",
+                "River Indus"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Indus River is the main artery passing through and providing the primary water source for large parts of Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2845,
+            "question_text": "Which battle, primarily known for being a decisive strategic victory for the Muslims despite being outnumbered, established early Islamic authority and is often considered a turning point in early Islamic history?",
+            "options": [
+                "Battle of Uhud",
+                "Battle of Khandaq",
+                "Battle of Badr",
+                "Battle of Mut'ah"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Battle of Badr was a massive victory for the small Muslim army over the larger Meccan forces, affirming early Islamic claims.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2846,
+            "question_text": "Which of the following decisions, made during the early stages of the Pakistan Movement, represented a shift from purely constitutional demands to the concept of separate self-determination for Muslims?",
+            "options": [
+                "The Lahore Resolution of 1940, demanding separate states for Muslims.",
+                "The commitment to the framework of the Government of India Act of 1935.",
+                "The resolution passed in the All-India Muslim League session in Dacca (1927).",
+                "The demands for separate electorates, initially put forth by the Muslim League."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Lahore Resolution (1940) was the first clear political statement articulating the demand for separate states (Pakistan), marking the movement's major ideological turning point.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2848,
+            "question_text": "Under the 1973 Constitution, which key provision was introduced to ensure that the President acts on the advice of the Prime Minister?",
+            "options": [
+                "Article 58(2) (Suspension of Constitution)",
+                "Article 254 (Applicability of Constitution)",
+                "Article 242 (Representation)",
+                "The Council of Common Interests (CCI) recommendation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Article 58(2) previously allowed the President to dismiss the government, but subsequent amendments have curtailed this power, solidifying the PM's advisory role.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2849,
+            "question_text": "Which major river system is crucial for the agricultural economy of Sindh, originating in the mountains and flowing through the Indus floodplain?",
+            "options": [
+                "Chenab River",
+                "Jhelum River",
+                "Indus River",
+                "Sutlej River"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Indus River and its tributaries form the primary lifelines for Sindh's agriculture and economy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3097,
+            "question_text": "The Lahore Resolution of 1940 marked a critical turning point in the Pakistan Movement. Its core demand for 'separate Muslim states' fundamentally shifted the political objective from which earlier focus?",
+            "options": [
+                "Securing recognition of the Ahmadiyya community's rights across India.",
+                "Achieving guaranteed autonomy for Muslim cultural and religious institutions.",
+                "Securing reserved quotas and greater representation within a unitary Indian federal structure.",
+                "Reinstating the authority of the Caliphate and strengthening Ottoman ties."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Before 1940, the focus was primarily on constitutional reforms (like the Lucknow Pact), which aimed for greater power within the existing federal structure, rather than complete separation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3516,
+            "question_text": "Which major battle, resulting in the tactical retreat of the Quraysh army, is famously known for the Muslims obtaining decisive victories despite numerical disadvantage?",
+            "options": [
+                "Battle of Badr",
+                "Battle of Uhud",
+                "Battle of Hunayn",
+                "Battle of Khandaq"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Battle of Badr was the first major conflict where the small Muslim force decisively defeated a much larger Quraysh army.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3518,
+            "question_text": "The Lahore Resolution (1940) primarily demanded:",
+            "options": [
+                "Separate states for Muslim-majority areas outside British India.",
+                "The establishment of a federal structure including representation for all religious groups.",
+                "The immediate transfer of power to local provincial governments.",
+                "The rejection of the concept of a separate Muslim homeland altogether."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The resolution called for separate states (Pakistan) in the Muslim-majority areas of India, advocating for geographical separation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4020,
+            "question_text": "According to the Constitution of Pakistan (1973), which constitutional body holds the primary authority for interpreting the provisions of the Constitution?",
+            "options": [
+                "Supreme Court of Pakistan",
+                "Council of Islamic Ideology (CII)",
+                "National Assembly",
+                "Ministry of Law and Justice"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Supreme Court is the final interpreter of the Constitution, acting as the guardian of the constitutional provisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4022,
+            "question_text": "Which national institution is primarily responsible for advising the Government on the constitutional and legal framework of Pakistan, especially concerning disputes between federal and provincial levels?",
+            "options": [
+                "National Accountability Bureau (NAB)",
+                "Parliamentary Committee on Oversight",
+                "Council of Common Interest (CCI)",
+                "Pakistan Penal Code (PPC)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The CCI coordinates legislative and fiscal matters between the federal and provincial governments, serving as a key advisory body on constitutional disputes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4068,
+            "question_text": "During the period leading up to the Lahore Resolution (1940), which political strategy emphasized securing representation for Muslims within the existing structure of British Indian governance?",
+            "options": [
+                "Focusing solely on armed revolution to overthrow the British regime.",
+                "Joining the Congress party to negotiate rights through internal political pressure.",
+                "Formation of separate electorates and demanding constitutional safeguards.",
+                "Boycotting all political activities until a fully independent state was guaranteed."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The initial demand for safeguards through separate electorates was a key political step that contributed to the later demand for separate statehood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4333,
+            "question_text": "Which historical event led to the institutionalization of federal control over foreign relations and diplomatic affairs in Pakistan?",
+            "options": [
+                "The Lahore Resolution defining the geographical boundaries of Pakistan.",
+                "The establishment of the Foreign Office and diplomatic missions shortly after 1947.",
+                "The constitutional amendments following the separation of East Pakistan.",
+                "The military intervention during the Ayub Khan regime."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The immediate post-independence period necessitated the formal establishment of foreign relations structures (Foreign Office) to manage international diplomacy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4428,
+            "question_text": "Which Surah is often considered the 'heart' of the Quran due to its comprehensive coverage of Islamic doctrine, faith, and divine law?",
+            "options": [
+                "Al-Baqarah (The Cow)",
+                "Al-Fatiha (The Opening)",
+                "An-Nisa (Women)",
+                "Yusuf (Joseph)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Surah Al-Baqarah is the longest Surah and covers foundational principles like prayer, fasting, and detailed legal rulings, giving it immense importance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4728,
+            "question_text": "Which of the following aspects constitutes the core belief in Allah's singular nature and divinity, forming the fundamental pillar of Iman?",
+            "options": [
+                "Belief in Qadar (Divine Decree)",
+                "Belief in the Prophets (Risalat)",
+                "Tawhid (Belief in Oneness of Allah)",
+                "Belief in Akhirah (Day of Judgment)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tawhid is the foundational article of faith, asserting that Allah is one and has no partners or equals in divinity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4735,
+            "question_text": "Which institution is primarily responsible for conducting and setting the standards for public service examinations across various provincial civil services in Pakistan?",
+            "options": [
+                "Higher Education Commission (HEC)",
+                "Provincial Management Service Board (PMSB)",
+                "Pakistan Institute of Management (PIM)",
+                "Federal Public Service Commission (FPSC)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "FPSC is the federal body responsible for recruitment and standards setting for civil services, while provincial boards handle local examinations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4880,
+            "question_text": "The Battle of Khandaq (Trench) is historically significant because it marked the strategic turning point for which major event in the life of the Prophet Muhammad (PBUH)?",
+            "options": [
+                "The successful defense of Medina against a massive confederacy.",
+                "The migration (Hijra) from Mecca to Medina.",
+                "The initial revelation of the Quran in the Cave of Hira.",
+                "The conquest and opening of Mecca."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Khandaq saw the Muslims defending Medina by digging a trench, successfully repelling the confederate attack and ensuring the safety of the nascent Islamic state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4884,
+            "question_text": "Which major river system primarily supports agriculture and population density in the Sindh province and flows through major cities like Hyderabad and Sukkur?",
+            "options": [
+                "Sutlej River",
+                "River Ravi",
+                "Indus River",
+                "Chenab River"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Indus River is the largest river system in Pakistan, crucial for agriculture and life in Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5663,
+            "question_text": "Which phase of the Pakistan Movement was primarily marked by the failure of the Lucknow Pact to reconcile communal differences, leading to heightened political polarization among Muslims?",
+            "options": [
+                "Post-Khilafat/Lucknow Pact disillusionment (1920s-1930s)",
+                "Period of moderate constitutional demands (1920s)",
+                "Final struggle for independence (1937-1947)",
+                "Early phase (after 1857)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Lucknow Pact temporarily brought unity, but its subsequent fallout and failures led to greater disillusionment and polarization among the Muslim League followers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5859,
+            "question_text": "What major event, marking the beginning of divine revelation, is believed to have occurred to Prophet Muhammad (PBUH) at Cave Hira?",
+            "options": [
+                "Receiving the first verses of Surah Al-Alaq",
+                "Seeing the pillar of light (Minar)",
+                "Encountering the angel Gabriel (Jibreel) for the first time",
+                "Having a dream confirming his prophethood"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The first revelation received was the first five verses of Surah Al-Alaq (The Clot), confirming the commencement of divine guidance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5959,
+            "question_text": "Which event marks the beginning of the Prophet Muhammad's (PBUH) prophethood (Nubuwwat) and where did it occur?",
+            "options": [
+                "The migration (Hijra) from Makkah to Madinah.",
+                "The conquest of Makkah (Fatah Makkah).",
+                "The revelation of the first verses of Surah Al-Alaq in the Cave of Hira.",
+                "The wedding ceremony with Khadijah bint Khuwaylid."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The first revelation, starting with Surah Al-Alaq, occurred in the Cave of Hira, marking the start of his prophethood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6059,
+            "question_text": "Before receiving divine revelation, Prophet Muhammad (PBUH) is known for which characteristic, which greatly enhanced his standing in Makkah society?",
+            "options": [
+                "Exceptional skill in poetry recitation",
+                "Proficiency in trade negotiations",
+                "Honesty and trustworthiness (Al-Amin)",
+                "Knowledge of astronomical calculations"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Prophet Muhammad (PBUH) earned the title Al-Amin (The Trustworthy) due to his unwavering honesty and reliability in all his dealings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6060,
+            "question_text": "Which pillar of Islam requires Muslims to give charity to the needy and poor, fulfilling a financial obligation?",
+            "options": [
+                "Salah",
+                "Hajj",
+                "Zakat",
+                "Sawm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Zakat is the compulsory annual charity calculated on accumulated wealth, making it a pillar of Islam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6061,
+            "question_text": "Which pillar of Islam emphasizes purifying one's faith and sincerity from polytheism, requiring believers to dedicate their worship solely to Allah?",
+            "options": [
+                "Kalimah (Declaration of Faith)",
+                "Salat (Prayer)",
+                "Sawm (Fasting)",
+                "Zakat (Charity)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Kalimah-e-Tawheed is the declaration of faith (La ilaha illallah), establishing the core principle of Tawheed and rejecting Shirk (polytheism).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6062,
+            "question_text": "Which of the following concepts best describes the belief in the unseen aspects of religion, such as angels and the afterlife, which is fundamental to Islamic faith (Iman)?",
+            "options": [
+                "Understanding the scientific basis of creation",
+                "Commitment to social justice and political reform",
+                "Belief in the supernatural realities beyond sensory perception",
+                "Strict adherence to all rituals prescribed in the Qur'an"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Iman requires belief in unseen elements (Ghayb) like angels, resurrection, and the afterlife, making 'belief in supernatural realities' the most accurate definition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6063,
+            "question_text": "Which Surah is often cited as a foundational text for the concept of divine judgment (Yawm al-Qiyamah) and includes verses that emphasize accountability for one's deeds?",
+            "options": [
+                "Surah Al-Baqarah",
+                "Surah Al-Fatihah",
+                "Surah An-Nas",
+                "Surah Al-Qari'ah"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Surah Al-Qari'ah describes the dramatic events of the Day of Judgment, focusing heavily on the weighing of deeds and accountability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6064,
+            "question_text": "Which significant battle following the migration (Hijra) is historically noted for the decisive victory of the Muslims against a superior enemy force, marking a pivotal moment in early Islamic history?",
+            "options": [
+                "Battle of Uhud",
+                "Battle of Mu'riqah",
+                "Battle of Badr",
+                "Battle of Khandaq"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Battle of Badr is famously recognized as the first major military victory for the Muslims over the Quraysh forces, solidifying their early claim to power.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6065,
+            "question_text": "Which major Islamic battle is famously known for the strategic digging of a trench around Medina, leading to the failure of the Meccan siege?",
+            "options": [
+                "Battle of Uhud",
+                "Battle of Khandaq (Trench)",
+                "Battle of Badr",
+                "Battle of Hunain"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Battle of Khandaq involved building a defensive trench around Medina to thwart the larger confederacy's attack.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6066,
+            "question_text": "Which constitutional/political shift primarily led to the decline of Muslim political influence within the Congress-dominated nationalist movement in the early 20th century?",
+            "options": [
+                "The failure of the Lucknow Pact to satisfy all Muslim leaders.",
+                "The establishment of the All-India Muslim League (AIML).",
+                "The increasing demand for separate electorates.",
+                "The impact of the Khilafat Movement's limitations."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The separate electorate system, advocated by the Muslim League, institutionalized communal representation and segregated political interests, reducing cooperation with non-Muslim parties.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6067,
+            "question_text": "The Lahore Resolution (Pakistan Resolution) of 1940 primarily demanded:",
+            "options": [
+                "Complete immediate withdrawal of British forces from India",
+                "An autonomous federal system with limited provincial powers",
+                "The grouping of Muslim-majority areas into independent states",
+                "Separate electorates for Muslims within British India"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The resolution called for the grouping of all areas where Muslims were a majority, forming separate states, not just Pakistan as a single entity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6068,
+            "question_text": "Which key demand articulated by the Lahore Resolution in 1940 fundamentally shifted the focus of the Pakistan Movement from a constitutional plea to a claim for sovereign homeland?",
+            "options": [
+                "The establishment of an Islamic privy council at the federal level.",
+                "The principle of communal electorates for Muslims in the central legislature.",
+                "The guarantee of Muslims' rights within the existing Indian Union structure.",
+                "The demand for separate free states for Muslims of Northwest and East India."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Resolution called for separate, independent states (Pakistan) in the Muslim majority areas, marking a decisive break from unified constitutional negotiations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6069,
+            "question_text": "Which article of the Constitution of Pakistan (1973) deals with the core principles of democracy and mandates the electoral system, thereby defining the basic structure of governance?",
+            "options": [
+                "Article 6",
+                "Article 25",
+                "Article 5",
+                "Article 2"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Article 2 is the fundamental article that outlines the core principles and structure of the state, including democracy and the supremacy of the Constitution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6070,
+            "question_text": "Historically, which major mountain range provided critical geographical connectivity and passage for vital trade routes linking the Indus River plain civilization with the Iranian plateau and Central Asia?",
+            "options": [
+                "Hindu Kush",
+                "Salt Range",
+                "Himalayas",
+                "Karakoram"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Hindu Kush mountains served as a crucial natural corridor, facilitating ancient trade routes (like those connecting to Gandhara) between the Indus basin and Persia/Central Asia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6071,
+            "question_text": "Which major river system traverses Pakistan and is crucial for the agricultural prosperity of Punjab, having originated from the Tibetan Plateau?",
+            "options": [
+                "Indus River",
+                "Sutlej River",
+                "Chenab River",
+                "Jhelum River"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Indus River is the largest transboundary river system in Pakistan, forming the backbone of the Indus Plain and providing life to the entire Punjab region.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6073,
+            "question_text": "Which national institution played a critical role in drafting the foundational structure of Pakistan's governmental framework in the immediate post-independence period, particularly concerning the initial constitutional debates?",
+            "options": [
+                "Pakistan Planning Board (PPB)",
+                "Constituent Assembly of Pakistan (CAP)",
+                "Economic and Social Council (ESC)",
+                "Defence Services Lahore Directorate (DSLD)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Constituent Assembly of Pakistan (CAP) was the body tasked with creating the basic laws and constitutional structure of the newly formed Pakistani state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6194,
+            "question_text": "Which event is traditionally considered the beginning of the Islamic calendar (Hijri)?",
+            "options": [
+                "Receiving of the first revelation in the Cave Hira",
+                "Trophy taking (Fathu Makkah)",
+                "Migration of Prophet Muhammad (PBUH) from Mecca to Medina (Hijra)",
+                "Battle of Badr"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Islamic calendar begins with the Hijra, the migration of the Prophet Muhammad (PBUH) and his companions from Mecca to Medina.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6268,
+            "question_text": "Before his prophethood, which title was Prophet Muhammad (PBUH) widely recognized for, indicating his impeccable character and trustworthiness?",
+            "options": [
+                "Faruq",
+                "Siraj-ul-Amsha",
+                "Al-Amin",
+                "Sayyid-ul-Anbiya"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Al-Amin literally means 'The Trustworthy,' a title earned by Prophet Muhammad (PBUH) for his honesty and integrity in Mecca.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6269,
+            "question_text": "During the period of early prophethood in Makkah, what significant event marked the revelation of the first verses of the Quran to Prophet Muhammad (PBUH)?",
+            "options": [
+                "The Cave Hira (Ghar-e-Hira)",
+                "The Kaaba reconstruction",
+                "The Prophet's visit to the well of Zamzam",
+                "The incident at Mount Safa"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The first revelations occurred to the Prophet Muhammad (PBUH) while meditating in the Cave Hira near Makkah.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6270,
+            "question_text": "According to Islamic doctrine, which pillar constitutes the fundamental commitment of faith and belief?",
+            "options": [
+                "Zakah (Charity)",
+                "Hajj (Pilgrimage)",
+                "Sawm (Fasting)",
+                "Shahada (Declaration of Faith)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Shahada is the declaration 'La ilaha illallah, Muhammadur rasulullah,' establishing the core belief in One God and Prophet Muhammad, making it the fundamental pillar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6346,
+            "question_text": "During which period of the Prophet's life did he perform the Farewell Pilgrimage (Wida' Tahnoon)?",
+            "options": [
+                "During the early days in Madinah after the Hijra.",
+                "Shortly before his death in Madinah.",
+                "After the Conquest of Mecca.",
+                "The year of the Prophet's childhood."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Farewell Pilgrimage took place from Arafat just two years before his passing, marking a culmination of his teachings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6347,
+            "question_text": "During which significant event did Prophet Muhammad (PBUH) famously organize the brotherhood between the Muhajirun and Ansar?",
+            "options": [
+                "Before the Battle of Badr.",
+                "When compiling the Quran in Madinah.",
+                "During the treaty negotiation at Uhud.",
+                "Upon reaching Madinah after the Hijra."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Prophet organized brotherhood (Muakhat) between the migrating Muslims (Muhajirun) and the local helpers (Ansar) immediately upon settling in Madinah.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6348,
+            "question_text": "If a Muslim is unable to fast due to severe illness or travel, which pillar of Islam provides the concessionary alternative?",
+            "options": [
+                "Giving extra money beyond Zakat requirements",
+                "Making up the missed fasts (Qada) or paying Fidyah",
+                "Sending an apology to the Imam",
+                "Performing voluntary Salah (Nawafil)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fasting (Sawm) is a pillar; if inability exists, the concession is to perform Qada (making up the fast) or pay Fidyah (feeding the poor).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6422,
+            "question_text": "During Prophet Muhammad's (PBUH) time, what major event led the Muslims to migrate from Mecca to Medina?",
+            "options": [
+                "The growing persecution and need for a safe haven in Yathrib (Medina).",
+                "The Battle of Uhud, requiring them to seek military support.",
+                "The call for a grand pilgrimage (Hajj) requiring a change of location.",
+                "The conquest of Mecca by the forces of Islam."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The continuous persecution faced in Mecca necessitated the Hijra (migration) to Yathrib, which was later renamed Medina.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6423,
+            "question_text": "Before the Prophet Muhammad (PBUH) embraced Islam, what was his profession and title among the people of Mecca?",
+            "options": [
+                "Poet known for his eloquence (Shair).",
+                "Merchant and leader of the Banu Hashim.",
+                "Shepherd, due to his modest background.",
+                "Trader specializing in luxury goods from Yemen."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "He was a respected merchant and a key member of the noble Banu Hashim clan, earning him local standing and respect.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6426,
+            "question_text": "Which article of Iman (Articles of Faith) relates to accepting that all events, good or bad, happen by the will of Allah?",
+            "options": [
+                "Iman bi al-Qadar (Belief in Divine Decree)",
+                "Iman bi al-Rasul (Belief in Messengers)",
+                "Iman bi al-Kitab (Belief in Books)",
+                "Iman bi al-Malā'ikah (Belief in Angels)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Belief in Divine Decree (Qadar) means accepting that Allah is the sole creator and controller of all events and occurrences in existence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6427,
+            "question_text": "What is the primary concept that distinguishes belief in Divine Decree (Qadar) from merely accepting fate?",
+            "options": [
+                "Limiting human actions only to worship acts.",
+                "Recognition that humans are given free will (Ikhtiyar) and accountability.",
+                "Belief that humans have no free will at all.",
+                "Denying that Divine Decree applies to worldly events."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Iman in Qadar means believing that while everything happens by Allah's will, humans are given the capacity for choice and accountability (free will).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6428,
+            "question_text": "Which Quranic Surah emphasizes the concept of accountability and the Day of Judgment (Yawm al-Qiyamah) as a central theme?",
+            "options": [
+                "Surah Al-Fatiha",
+                "Surah Al-Ikhlas",
+                "Surah Al-Infitar",
+                "Surah Al-Kafirun"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Surah Al-Infitar specifically describes the catastrophic events and signs marking the Day of Judgment, detailing the breaking of the heavens and earth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6429,
+            "question_text": "The core message of Tawheed, which is a central theme in the Quran, refers to:",
+            "options": [
+                "Recognizing that there is only one Almighty God (Allah) and acknowledging His singularity.",
+                "Following the established customs and traditions of the righteous predecessors.",
+                "The mandatory observance of five daily prayers (Salat).",
+                "Belief in the Prophet Muhammad (PBUH) as the ultimate law-giver."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Tawheed is the fundamental doctrine of believing in the Oneness of Allah, negating any form of polytheism or partnership in divinity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6430,
+            "question_text": "The Battle of Badr is historically significant for which key reason?",
+            "options": [
+                "It marked the first decisive military victory of the Muslims over the Quraysh.",
+                "It occurred when the Prophet (PBUH) first arrived in Madinah.",
+                "The treaty signed after this battle guaranteed religious autonomy to the Muslims.",
+                "It was the last major battle fought before the conquest of Mecca."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Badr was the Muslims' first major military victory against the powerful Quraysh, significantly boosting early Islamic confidence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6431,
+            "question_text": "Which movement, active in the early 1920s, played a crucial role in raising Muslim political consciousness and solidifying the need for a separate Muslim identity in the subcontinent?",
+            "options": [
+                "Bardoli Satyagraha",
+                "Quit India Movement",
+                "Non-Cooperation Movement",
+                "Khilafat Movement"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Khilafat Movement galvanized Muslim sentiments by protesting the perceived humiliation of the Ottoman Caliph, significantly increasing Muslim political awareness leading up to the demand for self-determination.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6432,
+            "question_text": "Which significant agreement in 1916 marked a period of cooperation where both the Indian National Congress and the All-India Muslim League jointly presented political demands to the British?",
+            "options": [
+                "Bombay Plan",
+                "Lucknow Pact",
+                "Delhi Resolution",
+                "Simla Accord"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Lucknow Pact (1916) saw the League and the Congress agree on several constitutional goals, marking a temporary alliance between the two major political parties.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6433,
+            "question_text": "The Lahore Resolution (Pakistan Resolution) of 1940 primarily articulated the demand for:",
+            "options": [
+                "The immediate accession of Punjab and Sindh to the Congress fold.",
+                "Independent states for Muslims in India, separated into geographical units.",
+                "A unitary federal structure dominated by a central Muslim authority.",
+                "The establishment of provincial autonomy within an existing Indian federation."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The resolution demanded 'independent states' for Muslims in India, advocating for separate geographical units rather than merely provincial autonomy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6434,
+            "question_text": "Which of the following dates marks the formal passing of the Lahore Resolution?",
+            "options": [
+                "March 1, 1930",
+                "February 25, 1942",
+                "March 23, 1940",
+                "August 14, 1947"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Lahore Resolution was formally passed on March 23, 1940, during the session held in Lahore.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6435,
+            "question_text": "According to the Constitution of Pakistan (1973), the federal structure mandates that the primary legislative and executive authority resides with which constitutional body?",
+            "options": [
+                "The Council of Common Interests (CCI)",
+                "The Parliament of Pakistan",
+                "The Federal and Provincial Cabinets",
+                "The President of Pakistan"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Parliament, consisting of the Senate and the National Assembly, is the supreme body where the primary legislative and executive functions are housed under the federal structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6436,
+            "question_text": "According to the Constitution of Pakistan (1973), which body is responsible for overseeing the election of members to the Senate?",
+            "options": [
+                "National Accountability Bureau (NAB)",
+                "Prime Minister of Pakistan",
+                "President of Pakistan",
+                "Electoral Commission of Pakistan (ECP)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The ECP is constitutionally mandated to conduct and oversee all elections, including those for the Senate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6437,
+            "question_text": "Which major river system flows through the Punjab and Sindh provinces, sustaining the majority of Pakistan's agricultural activities and historically forming the basis of its civilization?",
+            "options": [
+                "The Indus River System",
+                "The Sutlej River System",
+                "The Ravi River System",
+                "The Chenab-Jhelum System"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Indus River System is the most extensive and vital river network in Pakistan, supporting massive agricultural economies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6438,
+            "question_text": "Which constitution is widely recognized for re-establishing a stable parliamentary system and providing the current constitutional framework for Pakistan?",
+            "options": [
+                "Interim Constitution of 1956",
+                "Constitution of 1973",
+                "Government of India Act, 1935",
+                "Objectives Resolution of 1949"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Constitution of 1973 is the foundational legal document that reinstated the parliamentary form of government in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6439,
+            "question_text": "Which primary body in Pakistan is constitutionally mandated to supervise and conduct elections, ensuring fairness and transparency?",
+            "options": [
+                "Federal Investigation Agency (FIA)",
+                "Ministry of Interior",
+                "Election Commission of Pakistan (ECP)",
+                "Council of Common Interests (CCI)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The ECP is the constitutional authority responsible for organizing and overseeing all public and general elections in Pakistan to ensure democratic integrity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6491,
+            "question_text": "Before the Prophet's life was changed by prophethood, which profession did he primarily engage in?",
+            "options": [
+                "Trade in livestock and camels.",
+                "Merchant of goods from Yemen.",
+                "Craftsman of leather goods.",
+                "Shepherding and tending flocks."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Prophet Muhammad (PBUH) spent time in herding sheep and goats, a role which helped him gain trust and reputation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6492,
+            "question_text": "What significant event marked the migration (Hijra) of Prophet Muhammad (PBUH) and his followers from Mecca to Medina?",
+            "options": [
+                "The signing of the Charter of Medina.",
+                "The conquest of Mecca.",
+                "The establishment of the first mosque (Masjid an-Nabawi).",
+                "The migration (Hijra) itself."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The migration (Hijra) was the physical journey of the Prophet Muhammad (PBUH) and his followers from Mecca to Medina, marking the beginning of the Islamic calendar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6493,
+            "question_text": "Performing Salah (prayer) regularly and correctly is considered obligatory upon:",
+            "options": [
+                "Only men who are physically able.",
+                "All adult Muslims, regardless of gender.",
+                "Only those who have taken a vow to pray.",
+                "Only those residing in Muslim-majority countries."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Salah is one of the Five Pillars and is obligatory for every sane, adult Muslim, encompassing both males and females.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6568,
+            "question_text": "The performance of Salat (prayer) five times a day is a mandatory obligation. During which time is the 'Zuhr' prayer typically performed?",
+            "options": [
+                "Sunset, when the sun begins to set.",
+                "Midday, after the sun reaches its zenith.",
+                "Midnight, in the late hours of the night.",
+                "Early morning, before sunrise."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Zuhr prayer is performed around midday when the sun is high (after its peak), marking the transition from morning to afternoon.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6633,
+            "question_text": "Which treaty established a period of relative peace and defined the rights and responsibilities of different communities in Medina?",
+            "options": [
+                "Constitution of Medina (Sahifat al-Madinah)",
+                "Treaty of Aqabah",
+                "Treaty of Khaybar",
+                "Treaty of Hudaybiyyah"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Constitution of Medina was a pivotal document that laid out the guidelines for communal life and conflict resolution among the various groups in Medina.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6634,
+            "question_text": "Which of the following events marked the beginning of Prophet Muhammad's (PBUH) prophethood?",
+            "options": [
+                "The Kaaba rebuilding project in Mecca.",
+                "The migration (Hijra) from Mecca to Medina.",
+                "The revelation of the first five verses of Surah Al-Alaq.",
+                "His marriage to Khadijah bint Khuwaylid."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Prophet Muhammad (PBUH) received the first revelation (Iqra) in the Cave of Hira, which was the beginning of his prophethood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6635,
+            "question_text": "What is the foundational pillar of Islam that requires every Muslim to recite the Shahada (declaration of faith)?",
+            "options": [
+                "Hajj (Pilgrimage)",
+                "Zakat (Charity)",
+                "Shahada (Faith)",
+                "Salat (Prayer)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Shahada is the testimony of faith, stating 'La Ilaha illallah Muhammadan Rasulullah,' which confirms the basic tenets of Islam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6715,
+            "question_text": "During the Prophet's life, which major event led the early Muslims to emigrate from Mecca to Abyssinia (Ethiopia)?",
+            "options": [
+                "The refusal of the Jewish tribes to accept Islamic teachings.",
+                "The threat of a military invasion from Yaman.",
+                "A direct command from Allah (SWT) to establish a new state.",
+                "The escalating persecution and torture from the Quraysh."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The primary reason for the first Hijra (emigration) to Abyssinia was the severe and increasing persecution faced by the early Muslims in Mecca.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6716,
+            "question_text": "Which pillar mandates performing the pilgrimage to the Kaaba in Mecca, which is obligatory only once in a lifetime for those who are financially and physically able?",
+            "options": [
+                "Hajj (Pilgrimage)",
+                "Charity (Sadaqah)",
+                "Sawm (Fasting)",
+                "Ihsan (Excellence)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Hajj is the compulsory pilgrimage to Mecca, considered the fifth pillar of Islam, required for every able Muslim at least once.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6791,
+            "question_text": "Which event marked the beginning of Prophet Muhammad's (PBUH) public calling (Nubuwwat)?",
+            "options": [
+                "The death of his grandfather, Abdul Muttalib.",
+                "The migration (Hijra) from Mecca to Medina.",
+                "The marriage to Khadijah (R.A.).",
+                "The revelation of the first verses of Surah Al-Alaq."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Prophet's public life began with the revelation of the first verses of Surah Al-Alaq (Iqra) in the Cave Hira.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6793,
+            "question_text": "If a person is physically unable to perform Hajj or Umrah due to illness or advanced age, what is the required religious alternative, according to Islamic jurisprudence?",
+            "options": [
+                "Simply making sincere repentance (Tawbah).",
+                "Sending a relative or friend on their behalf.",
+                "Fasting an equivalent number of days on the day of Arafat.",
+                "Paying a specified monetary fine (Fidya) to the state."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "For those unable to perform Hajj due to valid reasons, alternative compensatory measures (Badal or Fidyah) are accepted. These alternatives often include specific forms of fasting or charity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6794,
+            "question_text": "The belief in the Day of Judgment (Yawm-ul-Qiyamah) primarily necessitates which action or understanding from a Muslim?",
+            "options": [
+                "Increased focus on acquiring wealth for the afterlife.",
+                "Minimizing interaction with the physical world to focus solely on meditation.",
+                "Greater accountability and commitment to righteous deeds (Ihsan).",
+                "Delegating all religious responsibility entirely to scholars (Ulema)."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Belief in the Day of Judgment motivates Muslims to live righteously, knowing every deed will be accounted for.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6795,
+            "question_text": "Regarding the belief in Divine Decree (Qadar), which principle accurately reflects the balance between divine will and human responsibility?",
+            "options": [
+                "Qadar implies that humans must challenge divine decrees through continuous prayer, as predestination is flawed.",
+                "The human effort has no consequence because divine will supersedes all actions, making efforts meaningless.",
+                "Allah determines the ultimate outcome, but humans are given the capacity (Ikhtiyar) and accountability for their choices and efforts.",
+                "All actions, including good deeds, are completely predetermined and cannot be influenced by human choice."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Islamic theology maintains that while Allah has perfect knowledge and control (Qadar), humans are given free will and are accountable for the choices they make (Ikhtiyar).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6796,
+            "question_text": "The primary teaching theme of Surah Al-Fatiha is:",
+            "options": [
+                "Warnings about the Day of Judgment and accountability.",
+                "Praise of God and asking for guidance on the straight path.",
+                "Narrations about Prophet Stories and miracles.",
+                "Detailed laws of inheritance and family relations."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Surah Al-Fatiha is fundamentally a declaration of faith and a prayer, consisting of praise (Hamd) and the request for guidance (Ihdina's-Sirat al-Mustaqim).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6797,
+            "question_text": "Which Quranic Surah is often described as a comprehensive summary of the teachings of Islam, encompassing themes of belief, worship, judgment, and guidance?",
+            "options": [
+                "Surah Al-Fatiha",
+                "Surah Ikhlas",
+                "Surah Al-Baqarah",
+                "Surah Al-Falaq"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Surah Al-Baqarah is the second and longest Surah, covering extensive topics including the pillars of Islam, jurisprudence, social laws, and historical narratives, making it a comprehensive summary of Islamic teachings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6798,
+            "question_text": "The Battle of Uhud taught Muslims a vital lesson regarding military conduct, specifically highlighting the danger of:",
+            "options": [
+                "Failing to adequately fortify the rear flanks of the army.",
+                "Disregarding battle protocols and abandoning assigned positions.",
+                "Over-reliance on divine intervention alone.",
+                "Engaging enemies before establishing proper defensive formations."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The key mistake at Uhud was the failure of some archers to maintain their positions when the initial battle was favorable, leading to a significant tactical setback for the Muslims.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6799,
+            "question_text": "What was the primary military objective of the Meccan Quraysh forces when they launched the attack that culminated in the Battle of Uhud?",
+            "options": [
+                "To destroy the Prophet Muhammad's leadership and forces.",
+                "To weaken the Muslim community by attacking their allies.",
+                "To secure control of the Kaaba itself.",
+                "To capture key trade routes leading through Medina."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The primary goal was the comprehensive defeat of the Muslim army, aiming to dismantle the Prophet Muhammad's political and military authority permanently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6800,
+            "question_text": "Which major event immediately preceded the formal establishment of the All-India Muslim League (AIML) in 1906?",
+            "options": [
+                "The recommendations of the Morley-Minto Reforms (1909)",
+                "The Calcutta Session of the Muslim League (1906)",
+                "The Delhi Durbar of Bahadur Shah Zafar",
+                "The formation of the Muslim Educational Congress (MEC)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Morley-Minto Reforms (1909) introduced separate electorates for Muslims, which galvanized the need for a unified political platform, directly leading to the formal establishment and success of the AIML.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6801,
+            "question_text": "What was the primary demand put forth by the Lahore Resolution (Pakistan Resolution) of 1940?",
+            "options": [
+                "Immediate merger of Punjab and Sindh provinces.",
+                "Complete dominion status for all Indian provinces.",
+                "The carving out of independent Muslim states in Northwest and Eastern zones.",
+                "Establishment of a centralized unitary state based on Islamic principles."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The resolution demanded the creation of independent Muslim states in two or more groups (Northwest and East), which led to the concept of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6802,
+            "question_text": "Constitutional amendments to the Constitution of Pakistan (1973) generally require:",
+            "options": [
+                "A simple majority vote in the National Assembly, with no requirements from provincial assemblies.",
+                "Approval only from the Prime Minister and the Council of Common Interests.",
+                "A special majority in both houses of the Parliament and ratification by a specified number of provincial assemblies.",
+                "A two-thirds majority in the Supreme Court and assent from the President."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Amendments typically require a special majority in Parliament. Furthermore, upholding the federal nature of the state generally necessitates consensus or ratification among the provincial assemblies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6803,
+            "question_text": "Regarding the structure of the Parliament under the 1973 Constitution, how many houses were primarily established?",
+            "options": [
+                "One House (unicameral)",
+                "Three Houses (bicameral plus a Council)",
+                "Variable, depending on the government's decree",
+                "Two Houses (bicameral)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Parliament consists of two houses: the National Assembly (Lower House) and the Senate (Upper House).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6804,
+            "question_text": "Which geographic feature primarily divides the Punjab province into two distinct agricultural and topographical regions?",
+            "options": [
+                "Potohar Plateau",
+                "Jhelum River",
+                "Salt Range",
+                "River Ravi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Salt Range is a prominent geological structure that acts as a significant natural barrier, dividing and influencing the topography and agricultural patterns within the Punjab region.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6805,
+            "question_text": "The geographical feature that defines the boundary between the Himalayan Range to the north and the Indus River system to the west, passing through parts of Punjab, is primarily defined by which natural physiographic element?",
+            "options": [
+                "The Salt Range, limiting movement into the Punjab Basin.",
+                "The Balochistan Plateaus, marking a shift to arid geography.",
+                "The Thar Desert, acting as a continental separator.",
+                "The Indus-Jhelum Valley system, which acts as a major drainage corridor."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Indus-Jhelum Valley system forms a critical and wide drainage corridor, channeling the flow of the major rivers that define the transition between the mountain foothills and the plains.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6806,
+            "question_text": "The landmark Objectives Resolution, which fundamentally influenced the drafting of Pakistan's constitution, was passed by the Constituent Assembly in which year?",
+            "options": [
+                "1962",
+                "1947",
+                "1956",
+                "1949"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Objectives Resolution was passed by the Constituent Assembly in 1949, laying the groundwork for the ideals enshrined in the constitution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

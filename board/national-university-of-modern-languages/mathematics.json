@@ -1,0 +1,459 @@
+{
+    "category": "National University of Modern Languages",
+    "name": "Mathematics",
+    "board": "national-university-of-modern-languages",
+    "subject": "mathematics",
+    "url": "/national-university-of-modern-languages/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 32,
+    "questions": [
+        {
+            "id": 11817,
+            "question_text": "If f(x) = 3x + 5, what is the value of f(4)?",
+            "options": [
+                "12",
+                "15",
+                "17",
+                "20"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Substituting x = 4 into the function: 3(4) + 5 = 12 + 5 = 17.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11818,
+            "question_text": "What is the derivative of x^2 with respect to x?",
+            "options": [
+                "x",
+                "2x",
+                "x^2",
+                "1/2x"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the power rule d/dx(x^n) = nx^(n-1), the derivative of x^2 is 2x^(2-1) = 2x.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11819,
+            "question_text": "A set A has 3 elements, and set B has 2 elements. How many elements are in the Cartesian product A x B?",
+            "options": [
+                "5",
+                "6",
+                "8",
+                "9"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The number of elements in the Cartesian product of two finite sets is the product of their sizes: 3 * 2 = 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11820,
+            "question_text": "What is the value of log2(16)?",
+            "options": [
+                "2",
+                "4",
+                "8",
+                "16"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since 2 raised to the power of 4 equals 16 (2*2*2*2 = 16), log2(16) is 4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11821,
+            "question_text": "If a triangle has angles of 45 and 45 degrees, what is the third angle?",
+            "options": [
+                "45 degrees",
+                "90 degrees",
+                "135 degrees",
+                "180 degrees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sum of angles in a triangle is 180 degrees. 180 - (45 + 45) = 90.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11836,
+            "question_text": "What is the slope of the line represented by the equation y = 5x - 3?",
+            "options": [
+                "5",
+                "-3",
+                "3",
+                "1/5"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The equation is in slope-intercept form y = mx + c, where m is the slope.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11867,
+            "question_text": "Simplify: (x^2 * x^3) / x^4",
+            "options": [
+                "x",
+                "x^2",
+                "x^9",
+                "x^24"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "x^2 * x^3 = x^5. Then x^5 / x^4 = x^(5-4) = x.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11876,
+            "question_text": "What is the probability of rolling a 3 on a fair six-sided die?",
+            "options": [
+                "1/2",
+                "1/3",
+                "1/6",
+                "3/6"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "There is one '3' on a six-sided die, so the probability is 1/6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11877,
+            "question_text": "Find the integral of 2x dx.",
+            "options": [
+                "x + C",
+                "2x^2 + C",
+                "x^2 + C",
+                "x^2/2 + C"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The power rule for integration states the integral of nx^(n-1) is x^n.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11878,
+            "question_text": "If 2x + 10 = 20, what is x?",
+            "options": [
+                "2",
+                "5",
+                "10",
+                "15"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 10 from both sides to get 2x = 10, then divide by 2 to get x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11879,
+            "question_text": "Which value is the median of the set {3, 1, 7, 5, 9}?",
+            "options": [
+                "3",
+                "5",
+                "7",
+                "9"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Arranging in order {1, 3, 5, 7, 9}, the middle value is 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11880,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "15",
+                "20",
+                "30",
+                "45"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "0.15 * 200 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11881,
+            "question_text": "Solve for x: sin(x) = 0.5 in the range [0, 90 degrees].",
+            "options": [
+                "30 degrees",
+                "45 degrees",
+                "60 degrees",
+                "90 degrees"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The sine of 30 degrees is 0.5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11882,
+            "question_text": "What is the value of 5! (factorial)?",
+            "options": [
+                "15",
+                "60",
+                "120",
+                "240"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11886,
+            "question_text": "If a circle has a radius of 7cm, what is its circumference (use π ≈ 22/7)?",
+            "options": [
+                "14cm",
+                "22cm",
+                "44cm",
+                "154cm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Circumference = 2 × π × r = 2 × (22/7) × 7 = 44cm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11887,
+            "question_text": "Solve for x in the equation: 3(x - 4) = 15.",
+            "options": [
+                "3",
+                "7",
+                "9",
+                "11"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Divide by 3: x - 4 = 5. Add 4: x = 9.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11888,
+            "question_text": "What is the slope of the line passing through points (2, 3) and (4, 7)?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Slope = (y2 - y1) / (x2 - x1) = (7 - 3) / (4 - 2) = 4 / 2 = 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12448,
+            "question_text": "If 3x + 5 = 20, what is the value of x?",
+            "options": [
+                "3",
+                "5",
+                "7",
+                "8"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 5 from both sides to get 3x = 15, then divide by 3 to get x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12450,
+            "question_text": "Solve for x: x^2 - 9 = 0",
+            "options": [
+                "3",
+                "-3",
+                "Both 3 and -3",
+                "9"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "x^2 = 9, therefore x = sqrt(9), which is both 3 and -3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12451,
+            "question_text": "If a rectangle has a length of 12 cm and a perimeter of 40 cm, what is its width?",
+            "options": [
+                "8 cm",
+                "10 cm",
+                "14 cm",
+                "28 cm"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Perimeter = 2(length + width). 40 = 2(12 + width) => 20 = 12 + width => width = 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12452,
+            "question_text": "Evaluate the expression: 5 + 3 * (8 - 2) / 2.",
+            "options": [
+                "11",
+                "14",
+                "24",
+                "16"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using PEMDAS: 8-2=6, 3*6=18, 18/2=9, 5+9=14.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12453,
+            "question_text": "What is the next number in the sequence: 2, 6, 12, 20, 30, ...?",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences are 4, 6, 8, 10. The next difference should be 12. 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12454,
+            "question_text": "If the price of an item increases from $50 to $75, what is the percentage increase?",
+            "options": [
+                "25%",
+                "33.3%",
+                "50%",
+                "75%"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Percentage increase = (Change / Original) * 100 = (25 / 50) * 100 = 50%.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12455,
+            "question_text": "Solve for y: 4y - 7 = 2y + 9.",
+            "options": [
+                "1",
+                "4",
+                "8",
+                "16"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Subtract 2y from both sides (2y - 7 = 9) then add 7 (2y = 16) then divide by 2 (y = 8).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12456,
+            "question_text": "A car travels at 60 km/h. How far will it travel in 150 minutes?",
+            "options": [
+                "90 km",
+                "120 km",
+                "150 km",
+                "180 km"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "150 minutes is 2.5 hours. 60 * 2.5 = 150 km.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12457,
+            "question_text": "What is the square root of 0.25?",
+            "options": [
+                "0.05",
+                "0.5",
+                "5",
+                "0.025"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "0.5 * 0.5 = 0.25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12458,
+            "question_text": "If 5 workers can finish a task in 10 days, how long will it take 2 workers to finish the same task?",
+            "options": [
+                "15 days",
+                "20 days",
+                "25 days",
+                "4 days"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This is an inverse proportion: 5 * 10 = 2 * x. 50 = 2x, so x = 25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12459,
+            "question_text": "Simplify: (x^3 * x^2) / x^4.",
+            "options": [
+                "x",
+                "x^2",
+                "x^9",
+                "1"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "x^(3+2) / x^4 = x^5 / x^4 = x^(5-4) = x^1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12460,
+            "question_text": "What is the average of 12, 18, 24, and 30?",
+            "options": [
+                "20",
+                "21",
+                "22",
+                "24"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "(12+18+24+30)/4 = 84/4 = 21.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12461,
+            "question_text": "If a triangle has angles 40 and 60 degrees, what is the third angle?",
+            "options": [
+                "60",
+                "70",
+                "80",
+                "90"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sum of angles in a triangle is 180 degrees. 180 - (40 + 60) = 80.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12462,
+            "question_text": "What is 2/5 as a decimal?",
+            "options": [
+                "0.2",
+                "0.25",
+                "0.4",
+                "0.5"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Divide 2 by 5 to get 0.4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12463,
+            "question_text": "A circle has a radius of 7 cm. What is its circumference? (Use pi = 22/7)",
+            "options": [
+                "22 cm",
+                "44 cm",
+                "154 cm",
+                "88 cm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Circumference = 2 * pi * r = 2 * (22/7) * 7 = 44 cm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "category": "Northern University",
+    "name": "Financial Documents Review",
+    "board": "northern-university",
+    "subject": "financial-documents-review",
+    "url": "/northern-university/financial-documents-review/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 18,
+    "questions": [
+        {
+            "id": 11280,
+            "question_text": "Which document is primarily used to verify the total annual household income of an applicant for Zakat-based assistance?",
+            "options": [
+                "University admission letter",
+                "Notarized income affidavit or salary certificate",
+                "Previous semester transcript",
+                "Character reference letter"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Official salary certificates or notarized affidavits are the standard legal documents used to confirm an applicant's actual financial standing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11281,
+            "question_text": "When reviewing an applicant's bank statements for Zakat eligibility, which of the following is considered a 'red flag'?",
+            "options": [
+                "Regular monthly utility payments",
+                "Large, unexplained cash deposits that contradict declared income",
+                "Small deposits from student part-time work",
+                "Consistent balance below the Nisaab threshold"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Discrepancies between declared income and bank inflows suggest that the applicant may not be genuinely eligible for Zakat support.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11282,
+            "question_text": "Why must an applicant provide proof of dependency (such as family registration certificates)?",
+            "options": [
+                "To calculate the total number of people sharing the household's income",
+                "To check if the applicant has siblings at other universities",
+                "To confirm the applicant's citizenship status",
+                "To verify the applicant's permanent home address"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Per capita income calculation requires knowing the total number of dependents supported by the household's limited financial resources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11283,
+            "question_text": "When reviewing a tax return for a Zakat scholarship, which figure represents the applicant's gross annual income before deductions?",
+            "options": [
+                "Adjusted Gross Income (AGI)",
+                "Total Taxable Income",
+                "Total Wages and Salaries",
+                "Net Profit after Taxes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Total wages and salaries reflect the raw earnings before any tax exemptions or deductions are applied, which is essential for determining true financial capacity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11284,
+            "question_text": "Which of the following is considered a 'non-liquid asset' when calculating Zakat eligibility?",
+            "options": [
+                "Savings account balance",
+                "Real estate property used for family housing",
+                "Investment stocks",
+                "Cash on hand"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Primary residence and essential property are generally excluded from Zakat eligibility calculations as they are considered basic necessities, not surplus wealth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11285,
+            "question_text": "If an applicant submits an expired utility bill as proof of residence, how should the documents review team respond?",
+            "options": [
+                "Accept it if the address is correct",
+                "Reject it and request a recent bill from the last 3 months",
+                "Verify the address via a phone call only",
+                "Ignore the document and proceed with the application"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Financial and residential documents must be current to accurately reflect the applicant's living situation and financial stability at the time of the application.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11286,
+            "question_text": "What is the significance of the 'Debt-to-Income Ratio' in the financial review process?",
+            "options": [
+                "It shows how much the student plans to borrow",
+                "It helps determine if the family is overburdened by financial liabilities",
+                "It verifies the applicant's academic history",
+                "It measures the Zakat committee's success"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A high debt-to-income ratio indicates severe financial distress, which is a key factor in prioritizing candidates for Zakat support.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11287,
+            "question_text": "Why is an official salary certificate from an employer preferred over a self-declared income statement?",
+            "options": [
+                "It is easier to process",
+                "It provides verifiable, third-party confirmation of income",
+                "It is usually longer than a self-declaration",
+                "It allows the university to contact the employer for hiring"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Employer-provided documentation minimizes the risk of fraudulent income reporting, ensuring Zakat funds reach those most in need.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11288,
+            "question_text": "Which document is most effective for verifying the income of an applicant from an informal or self-employed sector?",
+            "options": [
+                "University transcript",
+                "Sworn affidavit of income from a local authority",
+                "Bank statement showing high transaction volume",
+                "Personal reference letter"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For those without formal payroll records, a notarized affidavit from a local official or community leader serves as official validation of income levels.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11289,
+            "question_text": "Which of the following documents is most appropriate for validating the recurring monthly expenses of a household seeking Zakat assistance?",
+            "options": [
+                "Current semester course registration form",
+                "Signed affidavit of personal character",
+                "Itemized ledger of utility payments and rent receipts",
+                "A copy of the applicant's national identification card"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Utility bills and rent receipts provide concrete evidence of unavoidable monthly living expenditures, which helps in calculating the applicant's net disposable income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11290,
+            "question_text": "How should the review team treat an applicant who reports high debt but fails to provide a credit report or bank statement verifying the loan?",
+            "options": [
+                "Automatically approve the debt as a reduction in net income",
+                "Disregard the debt claim until official third-party verification is provided",
+                "Assign an arbitrary value to the debt to speed up the process",
+                "Request the student to increase their part-time work hours"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Financial claims regarding debt must be substantiated by official documentation to prevent fraud and ensure equitable distribution of Zakat funds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11291,
+            "question_text": "What does a 'discrepancy in income consistency' usually indicate during a review of bank statements?",
+            "options": [
+                "The applicant is eligible for a full scholarship",
+                "The applicant has failed to disclose secondary income sources",
+                "The applicant is academically gifted",
+                "The applicant has paid all tuition fees in advance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sudden, unexplained large deposits or inconsistent income patterns often suggest undisclosed earnings that may disqualify the applicant from Zakat eligibility.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11292,
+            "question_text": "When calculating 'Nisab' eligibility in the context of the scholarship, what does the review team specifically look for?",
+            "options": [
+                "The student's cumulative grade point average",
+                "The total value of the applicant's assets minus essential liabilities",
+                "The distance of the student's residence from the university",
+                "The number of siblings currently attending the same university"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Zakat eligibility is fundamentally based on whether an individual's net wealth exceeds the Nisab threshold; subtracting liabilities provides the true net financial position.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11293,
+            "question_text": "Why is an 'Employer Verification Letter' considered more reliable than a 'Personal Financial Statement'?",
+            "options": [
+                "It is shorter and easier to file",
+                "It is a third-party document that validates income against official payroll records",
+                "It is not required for Zakat applications",
+                "It guarantees that the student will pass their exams"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Third-party documentation provides an independent audit trail, reducing the likelihood of self-reporting bias.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11294,
+            "question_text": "If an applicant submits an incomplete tax return with missing schedules, what is the standard administrative action?",
+            "options": [
+                "Request the missing schedules and pause the application review",
+                "Accept the document as-is to avoid delaying the applicant",
+                "Automatically deny the application based on incompleteness",
+                "Contact the tax office directly on the student's behalf"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A complete file is necessary for accurate assessment; pausing allows the applicant to rectify the error without immediate rejection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11295,
+            "question_text": "Which document is essential for confirming the financial burden of an applicant's family if they are 'Gharim' (in debt)?",
+            "options": [
+                "Medical insurance certificate",
+                "Academic transcript",
+                "Loan repayment schedule or court-ordered debt document",
+                "Photocopy of national identity card"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To categorize an applicant as 'Gharim' for Zakat purposes, the committee requires proof of the legal debt obligations currently impacting the family's solvency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11296,
+            "question_text": "When assessing agricultural income for rural applicants, what is the primary indicator used to estimate yield value?",
+            "options": [
+                "The total acreage of the family land",
+                "Records of harvest sales or certified agricultural output statements",
+                "The number of family members working on the farm",
+                "A verbal estimate provided by a community leader"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Objective financial records are required to estimate the monetary value of agricultural income to determine if the household meets the Zakat need criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11297,
+            "question_text": "Which of the following should be excluded when calculating an applicant's household net assets?",
+            "options": [
+                "Equity in a secondary property",
+                "Investment portfolios",
+                "Essential household appliances and primary residence",
+                "Savings accounts with high interest"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In Zakat calculation, basic necessities required for daily living are generally exempt from the definition of 'excess wealth' or assets used to determine need.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

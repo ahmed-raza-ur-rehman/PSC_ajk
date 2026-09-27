@@ -1,0 +1,137 @@
+{
+    "category": "Green International University",
+    "name": "Cosmetic Chemistry",
+    "board": "green-international-university",
+    "subject": "cosmetic-chemistry",
+    "url": "/green-international-university/cosmetic-chemistry/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 13843,
+            "question_text": "Which of the following ingredients acts as a humectant in skin care products?",
+            "options": [
+                "Mineral oil",
+                "Glycerin",
+                "Beeswax",
+                "Stearic acid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Glycerin is a humectant, meaning it attracts water from the atmosphere and holds it to the skin surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13844,
+            "question_text": "What is the function of an emulsifier in a cosmetic cream?",
+            "options": [
+                "To act as a preservative",
+                "To bind oil and water together in a stable mixture",
+                "To increase the fragrance of the product",
+                "To act as a physical sunscreen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Emulsifiers have both hydrophilic and lipophilic ends, allowing oil and water to mix without separating.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13845,
+            "question_text": "What is the primary function of a surfactant in a cleansing product?",
+            "options": [
+                "To balance the pH",
+                "To reduce surface tension and lift dirt and oil",
+                "To provide fragrance",
+                "To provide UV protection"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Surfactants have hydrophilic and lipophilic heads/tails that allow water and oil to mix, effectively lifting debris.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13846,
+            "question_text": "Which of the following describes a 'water-in-oil' emulsion?",
+            "options": [
+                "Droplets of oil dispersed in water",
+                "Droplets of water dispersed in oil",
+                "Solid particles suspended in a liquid",
+                "A clear, homogenous solution"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In a water-in-oil emulsion, water is the internal phase (droplets) and oil is the external phase.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13847,
+            "question_text": "What is the function of a chelating agent in a cosmetic formulation?",
+            "options": [
+                "To act as a thickener",
+                "To increase the shelf life by binding to metal ions that cause product instability",
+                "To exfoliate dead skin cells",
+                "To provide a cooling sensation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Chelating agents bond with metal ions (like calcium/magnesium) to prevent them from destabilizing the formula.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13848,
+            "question_text": "Why is the pH level of a skin care product significant?",
+            "options": [
+                "It determines the product's color",
+                "It affects the stability of the product and the skin's acid mantle balance",
+                "It dictates the scent strength of the product",
+                "It is only relevant for soap-based products"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The skin has a natural acidic pH (approx 5.5). Products should be formulated to respect this to avoid barrier disruption.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13849,
+            "question_text": "Which chemical is a common exfoliating AHA (Alpha Hydroxy Acid)?",
+            "options": [
+                "Salicylic acid",
+                "Glycolic acid",
+                "Benzoyl peroxide",
+                "Hyaluronic acid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Glycolic acid is a common AHA derived from sugar cane used for chemical exfoliation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13850,
+            "question_text": "What is the primary role of a preservative in a cosmetic formulation?",
+            "options": [
+                "To change the skin color",
+                "To prevent microbial growth",
+                "To act as a surfactant",
+                "To increase pH balance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Preservatives are essential to inhibit the growth of bacteria, fungi, and mold, ensuring the safety and shelf-life of products.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13851,
+            "question_text": "Which ingredient is classified as a 'silicone' used to provide a silky, non-greasy texture?",
+            "options": [
+                "Cyclomethicone",
+                "Glycerin",
+                "Lactic Acid",
+                "Sodium Lauryl Sulfate"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Cyclomethicone is a common volatile silicone used to give products a smooth feel and improve spreadability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

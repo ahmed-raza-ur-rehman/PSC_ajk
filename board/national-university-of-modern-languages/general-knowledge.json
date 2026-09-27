@@ -1,0 +1,193 @@
+{
+    "category": "National University of Modern Languages",
+    "name": "General Knowledge",
+    "board": "national-university-of-modern-languages",
+    "subject": "general-knowledge",
+    "url": "/national-university-of-modern-languages/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 12490,
+            "question_text": "Which is the largest continent by land area?",
+            "options": [
+                "Africa",
+                "North America",
+                "Asia",
+                "Europe"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Asia is the largest and most populous continent on Earth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12491,
+            "question_text": "Who is known as the founder of modern Economics?",
+            "options": [
+                "Karl Marx",
+                "Adam Smith",
+                "John Maynard Keynes",
+                "Milton Friedman"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Adam Smith is widely cited as the father of modern economics, particularly for his work 'The Wealth of Nations'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12492,
+            "question_text": "What is the currency of Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Ringgit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Japanese Yen is the official currency of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12493,
+            "question_text": "Which is the longest river in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile is widely considered the longest river on Earth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12494,
+            "question_text": "Who was the first person to step on the moon?",
+            "options": [
+                "Buzz Aldrin",
+                "Yuri Gagarin",
+                "Neil Armstrong",
+                "Michael Collins"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Neil Armstrong made history as the first human on the moon in 1969.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12495,
+            "question_text": "Which country is known as the Land of the Rising Sun?",
+            "options": [
+                "China",
+                "Thailand",
+                "Japan",
+                "South Korea"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Japan is referred to as the 'Land of the Rising Sun'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12496,
+            "question_text": "What is the capital city of Australia?",
+            "options": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Perth"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Canberra is the capital city of Australia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12497,
+            "question_text": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Plants use carbon dioxide, water, and light to perform photosynthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12498,
+            "question_text": "Which organization is responsible for global health standards?",
+            "options": [
+                "UNICEF",
+                "WHO",
+                "UNESCO",
+                "WTO"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The World Health Organization (WHO) coordinates international health efforts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12499,
+            "question_text": "What is the hardest natural substance on Earth?",
+            "options": [
+                "Gold",
+                "Iron",
+                "Diamond",
+                "Quartz"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Diamond is the hardest known natural mineral.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12500,
+            "question_text": "Who painted the Mona Lisa?",
+            "options": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Claude Monet"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The famous portrait was painted by Leonardo da Vinci in the early 16th century.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12501,
+            "question_text": "Which planet is known as the Red Planet?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mars appears red due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12502,
+            "question_text": "In which country would you find the Great Sphinx of Giza?",
+            "options": [
+                "Greece",
+                "Egypt",
+                "Turkey",
+                "Iraq"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Great Sphinx is a limestone statue in Giza, Egypt.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

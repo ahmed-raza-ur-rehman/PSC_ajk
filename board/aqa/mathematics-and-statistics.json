@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Mathematics and Statistics",
+    "board": "aqa",
+    "subject": "mathematics-and-statistics",
+    "url": "/aqa/mathematics-and-statistics/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8850,
+            "question_text": "What is the result of 15% of 200?",
+            "options": [
+                "15",
+                "20",
+                "30",
+                "45"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "15/100 * 200 = 0.15 * 200 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8851,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "15",
+                "20",
+                "30",
+                "45"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To calculate 15% of 200, you multiply 200 by 0.15, which equals 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8852,
+            "question_text": "What is the value of 15% of 200?",
+            "options": [
+                "15",
+                "20",
+                "30",
+                "40"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To calculate 15% of 200, you multiply 200 by 0.15, which equals 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8853,
+            "question_text": "What is the solution for 3x + 5 = 20?",
+            "options": [
+                "x = 3",
+                "x = 4",
+                "x = 5",
+                "x = 6"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Subtract 5 from both sides to get 3x = 15, then divide by 3 to get x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

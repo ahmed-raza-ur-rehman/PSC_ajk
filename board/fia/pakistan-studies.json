@@ -1,0 +1,473 @@
+{
+    "category": "FIA",
+    "name": "Pakistan Studies",
+    "board": "fia",
+    "subject": "pakistan-studies",
+    "url": "/fia/pakistan-studies/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 33,
+    "questions": [
+        {
+            "id": 1026,
+            "question_text": "Which major river system is primarily responsible for the agriculture and irrigation of Sindh province, originating from the Indus River?",
+            "options": [
+                "River Ravi",
+                "River Sutlej",
+                "River Chenab",
+                "River Indus"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Indus River is the main artery passing through and providing the primary water source for large parts of Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1027,
+            "question_text": "Which institution is primarily responsible for conducting and setting the standards for public service examinations across various provincial civil services in Pakistan?",
+            "options": [
+                "Pakistan Institute of Management (PIM)",
+                "Higher Education Commission (HEC)",
+                "Provincial Management Service Board (PMSB)",
+                "Federal Public Service Commission (FPSC)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "FPSC is the federal body responsible for recruitment and standards setting for civil services, while provincial boards handle local examinations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1028,
+            "question_text": "The Lahore Resolution of 1940 fundamentally articulated which core demand that led to the creation of Pakistan?",
+            "options": [
+                "Increased representation in the central government",
+                "Separate state for Muslims of India",
+                "Automatic adoption of an Islamic constitution",
+                "A constitutional overhaul of the British Raj"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Lahore Resolution explicitly demanded a separate homeland for Muslims in British India, which later became Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1536,
+            "question_text": "Which major river system primarily supports agriculture and population density in the Sindh province and flows through major cities like Hyderabad and Sukkur?",
+            "options": [
+                "Chenab River",
+                "Indus River",
+                "Sutlej River",
+                "River Ravi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Indus River is the largest river system in Pakistan, crucial for agriculture and life in Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1538,
+            "question_text": "Which national institution is primarily responsible for advising the Government on the constitutional and legal framework of Pakistan, especially concerning disputes between federal and provincial levels?",
+            "options": [
+                "Pakistan Penal Code (PPC)",
+                "Parliamentary Committee on Oversight",
+                "National Accountability Bureau (NAB)",
+                "Council of Common Interest (CCI)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The CCI coordinates legislative and fiscal matters between the federal and provincial governments, serving as a key advisory body on constitutional disputes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1636,
+            "question_text": "Which region of Pakistan is characterized by a mix of arid plateaus, fertile river valleys, and proximity to the Arabian Sea, significantly impacting its agricultural and commercial structure?",
+            "options": [
+                "Thar Desert and Balochistan Interior",
+                "Potwar Plateau and Salt Range Foothills",
+                "Sindh Plain and Coastal Area",
+                "Kaghan Valley and Upper Himalayas"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Sindh Plain and Coastal Area combine diverse physical features, making it a major agricultural and trade hub near the Arabian Sea.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1638,
+            "question_text": "Which historical event led to the institutionalization of federal control over foreign relations and diplomatic affairs in Pakistan?",
+            "options": [
+                "The Lahore Resolution defining the geographical boundaries of Pakistan.",
+                "The establishment of the Foreign Office and diplomatic missions shortly after 1947.",
+                "The constitutional amendments following the separation of East Pakistan.",
+                "The military intervention during the Ayub Khan regime."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The immediate post-independence period necessitated the formal establishment of foreign relations structures (Foreign Office) to manage international diplomacy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1836,
+            "question_text": "Which constitutional amendment formally established the concept of a federal structure and decentralized powers significantly following the political turmoil of the 1970s?",
+            "options": [
+                "Twenty-Third Amendment",
+                "Thirteenth Amendment",
+                "Seventeenth Amendment",
+                "Eighteenth Amendment"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The 18th Amendment (2010) devolved substantial powers from the federal to the provincial governments, reinforcing the federal structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1838,
+            "question_text": "Which major river system flows through the Punjab and Sindh provinces, sustaining the majority of Pakistan's agricultural activities and historically forming the basis of its civilization?",
+            "options": [
+                "The Chenab-Jhelum System",
+                "The Sutlej River System",
+                "The Ravi River System",
+                "The Indus River System"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Indus River System is the most extensive and vital river network in Pakistan, supporting massive agricultural economies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1937,
+            "question_text": "Which major river system is crucial for the agricultural economy of Sindh, originating in the mountains and flowing through the Indus floodplain?",
+            "options": [
+                "Chenab River",
+                "Sutlej River",
+                "Jhelum River",
+                "Indus River"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Indus River and its tributaries form the primary lifelines for Sindh's agriculture and economy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1938,
+            "question_text": "Which national institution is primarily responsible for setting the national educational curriculum standards and accrediting universities in Pakistan?",
+            "options": [
+                "Higher Education Commission (HEC)",
+                "Federal Board of Inter-Secondary Education (FBISE)",
+                "Pakistan Council of Arts & Culture (PCAC)",
+                "National Testing Service (NTS)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The HEC oversees the entire higher education sector, including curriculum standards and accreditation of degrees and institutions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1939,
+            "question_text": "During which period was the Lahore Resolution, advocating for separate Muslim state, formally passed by the Muslim League?",
+            "options": [
+                "Cripps Mission meeting",
+                "Minto-Childrie Reforms",
+                "Lahore Session (1940)",
+                "Lucknow Pact"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Lahore Resolution was formally passed at the annual session of the All-India Muslim League held in Lahore in 1940.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3051,
+            "question_text": "Which of the following historical events significantly contributed to the institutionalization of the concept of a national identity among the educated elite in pre-partition India?",
+            "options": [
+                "The establishment of the All India Muslim League (AIML) and its legislative efforts.",
+                "The commercial trade agreements signed between Karachi and Peshawar in the late 19th century.",
+                "The academic curricula promoted by missionary schools in Bombay and Calcutta.",
+                "The peasant uprisings in Punjab against colonial taxation."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The AIML provided a centralized platform for articulating political, cultural, and religious demands, helping to solidify the notion of a separate Muslim political entity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5506,
+            "question_text": "The mountainous region that forms the border between Khyber Pakhtunkhwa and Afghanistan, and contains the Khyber Pass, is best characterized as part of which major mountain range?",
+            "options": [
+                "Himalayas",
+                "Hindu Kush",
+                "Karakoram Range",
+                "Sulaiman Range"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Sulaiman Range runs through the region and includes passes like the Khyber Pass, which is critical for connectivity with Afghanistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5875,
+            "question_text": "Historically, which major mountain range provided critical geographical connectivity and passage for vital trade routes linking the Indus River plain civilization with the Iranian plateau and Central Asia?",
+            "options": [
+                "Himalayas",
+                "Salt Range",
+                "Hindu Kush",
+                "Karakoram"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Hindu Kush mountains served as a crucial natural corridor, facilitating ancient trade routes (like those connecting to Gandhara) between the Indus basin and Persia/Central Asia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5877,
+            "question_text": "Which national institution or historical event most profoundly emphasized the concept of 'Islamic identity' and played a crucial role in early political mobilization leading up to Pakistan's formation?",
+            "options": [
+                "The Khilafat Movement and subsequent socio-political awakening",
+                "The establishment of the All India Muslim League (AIML)",
+                "The formation of the Punjab Provincial Conference",
+                "The Allahabad Address of Quaid-e-Azam Muhammad Ali Jinnah"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Khilafat Movement provided a widely accessible platform for political mobilization rooted in religious and cultural sentiments, which profoundly influenced later calls for separate Muslim identity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5975,
+            "question_text": "Which geographical feature significantly influences the agricultural patterns and settlement density along the Punjab region, making it a breadbasket area of Pakistan?",
+            "options": [
+                "The Balochistan plateau",
+                "The Indus River and its tributaries",
+                "The Karakoram mountain range",
+                "The Arabian Sea coast"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Indus River and its extensive canal network provide fertile alluvial soil and water, supporting intensive agriculture in Punjab.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5977,
+            "question_text": "Which national institution in Pakistan was established primarily to oversee and standardize the recruitment process for federal and provincial civil services, gaining prominence among various public sector entry tests?",
+            "options": [
+                "Pakistan Civil Service Selection Board (PCSB)",
+                "National Testing Service (NTS)",
+                "Higher Education Commission (HEC)",
+                "Federal Public Service Commission (FPSC)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The FPSC is the constitutional body mandated to conduct recruitment and establish service rules for the federal civil service, making it the most significant body for civil service exams.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6135,
+            "question_text": "Which geographical feature forms a natural boundary between the Punjab and Khyber Pakhtunkhwa provinces of Pakistan, often defining regional trade routes?",
+            "options": [
+                "Potwar Plateau",
+                "Salt Range and connecting foothills",
+                "Gandhara Plain",
+                "Khyber Pass valley itself"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Salt Range, being a distinct and prominent topographical feature, acts as a natural dividing boundary and landmark between the two regions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6136,
+            "question_text": "Which national institution played a critical role in drafting the foundational structure of Pakistan's governmental framework in the immediate post-independence period, particularly concerning the initial constitutional debates?",
+            "options": [
+                "Pakistan Planning Board (PPB)",
+                "Economic and Social Council (ESC)",
+                "Constituent Assembly of Pakistan (CAP)",
+                "Defence Services Lahore Directorate (DSLD)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Constituent Assembly of Pakistan (CAP) was the body tasked with creating the basic laws and constitutional structure of the newly formed Pakistani state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6137,
+            "question_text": "Which constitutional amendment established the concept of the 'Islamic Republic' and defined Pakistan's constitutional identity?",
+            "options": [
+                "The Interim Constitution of 1973",
+                "The Sixth Amendment to the Constitution",
+                "The Government of Islam Ordinance, 1979",
+                "The Seventeenth Amendment to the Constitution"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Government of Islam Ordinance (1979) significantly contributed to defining Pakistan as an Islamic republic, solidifying this identity in the constitutional discourse.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6206,
+            "question_text": "Which of the following major rivers drains through multiple provinces, forming significant economic and agricultural lifelines across Pakistan?",
+            "options": [
+                "Sutlej River",
+                "Indus River",
+                "Jhelum River",
+                "Chenab River"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Indus River system is the most dominant and longest river, traversing multiple major provinces (Sindh, Punjab, KPK, Balochistan) and is central to Pakistan's water resources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6208,
+            "question_text": "Which constitutional amendment officially established the mechanism for the appointment of the Election Commission of Pakistan (ECP) by the President, following key political recommendations?",
+            "options": [
+                "Twenty-Fifth Amendment",
+                "Nineteenth Amendment",
+                "Seventeenth Amendment",
+                "Thirteenth Amendment"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Seventeen Amendment (2010) significantly restructured various institutions and gave the President specified powers regarding the ECP structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6281,
+            "question_text": "Which institution is primarily responsible for conducting competitive examinations for government positions within the Federation of Pakistan?",
+            "options": [
+                "SPSC",
+                "NTS",
+                "FPSC",
+                "PPSC"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Federal Public Service Commission (FPSC) manages and conducts recruitment examinations for federal government services across Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6360,
+            "question_text": "The Lahore Resolution, which demanded a separate Muslim state, was formally adopted by which committee?",
+            "options": [
+                "Junoon Committee",
+                "All-Pakistan Congress",
+                "All-India Muslim League Working Committee",
+                "Lahore Resolution Congress"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Lahore Resolution was formally adopted by the All-India Muslim League Working Committee in Lahore on March 23, 1940.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6507,
+            "question_text": "The region known for the highest peaks and glacial formation in Pakistan is primarily located in:",
+            "options": [
+                "Balochistan Plateau",
+                "Salt Range Foothills",
+                "Karakoram and Himalayas Range",
+                "Potohar Plateau"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Karakoram and Himalayas Ranges contain the world's highest peaks, including K2, making them the primary source of glacial runoff for major rivers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6508,
+            "question_text": "In the context of federal civil services and employment in Pakistan, which body is primarily responsible for conducting examinations for various federal civil service posts, such as those requiring specialized governmental knowledge?",
+            "options": [
+                "Federal Public Service Commission (FPSC)",
+                "Punjab Public Service Commission (PPSC)",
+                "Nativo Testing Service (NTS)",
+                "Higher Education Commission (HEC)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The FPSC is the constitutional body designated to conduct and manage examinations for various federal civil service positions, ensuring merit-based recruitment across different government wings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6509,
+            "question_text": "During the period of constitutional crisis leading up to the 18th Amendment, which major national institutional reform focused on devolving powers to the provinces?",
+            "options": [
+                "The implementation of a true federation model.",
+                "The creation of specialized military courts.",
+                "The centralization of all educational curricula at the federal level.",
+                "The establishment of Zakat Councils."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 18th Amendment significantly emphasized true federalism and the devolution of powers, thereby modifying the constitutional structure to empower provinces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6580,
+            "question_text": "The passage of which river is considered the most vital for the direct sustenance and civilization history of Balochistan?",
+            "options": [
+                "River Makran",
+                "River Zhob",
+                "River Nuga",
+                "River Dasht"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Nuga River is historically recognized as a vital waterway in the northern regions of Balochistan, significantly contributing to localized agriculture and supporting historical settlements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6581,
+            "question_text": "Which constitutional body is exclusively responsible for regulating and conducting free and fair elections in Pakistan?",
+            "options": [
+                "Election Commission of Pakistan (ECP)",
+                "Ministry of Law and Justice",
+                "Federal Investigation Agency (FIA)",
+                "Ministry of Interior"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Election Commission of Pakistan (ECP) is a constitutional body vested with the sole authority to oversee and conduct all elections in the country.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6647,
+            "question_text": "Which institution is primarily responsible for conducting civil service exams and providing career guidance for federal government employment in Pakistan?",
+            "options": [
+                "National Testing Service (NTS)",
+                "Higher Education Commission (HEC)",
+                "Federal Public Service Commission (FPSC)",
+                "Punjab Public Service Commission (PPSC)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Federal Public Service Commission (FPSC) is the constitutional body responsible for conducting competitive exams for entry into various federal civil services.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6648,
+            "question_text": "Which of the following major rivers is primarily associated with the cultivation of rice and is crucial to the economy of Sindh and Punjab?",
+            "options": [
+                "River Swat",
+                "River Indus",
+                "River Jhelum",
+                "River Kabul"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Indus River and its tributaries are the lifeline of Pakistan, sustaining massive agriculture in both Sindh and Punjab, particularly for rice cultivation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6729,
+            "question_text": "Which of the following mountain ranges significantly influences the climate and agricultural patterns of the Punjab and Sindh provinces through localized precipitation and shelter?",
+            "options": [
+                "The Kirthar Range",
+                "The Himalayas",
+                "The Sulaiman Range",
+                "The Chitral Range"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Himalayas are the major geographical feature influencing the climate patterns (especially monsoon and precipitation) across the entire region, critically determining the agricultural patterns in both Punjab and Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

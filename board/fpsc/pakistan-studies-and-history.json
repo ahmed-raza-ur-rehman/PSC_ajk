@@ -1,0 +1,179 @@
+{
+    "category": "FPSC",
+    "name": "Pakistan Studies and History",
+    "board": "fpsc",
+    "subject": "pakistan-studies-and-history",
+    "url": "/fpsc/pakistan-studies-and-history/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9678,
+            "question_text": "In which year did Pakistan become an independent nation?",
+            "options": [
+                "1945",
+                "1946",
+                "1947",
+                "1948"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Pakistan gained its independence from British rule on August 14, 1947.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9679,
+            "question_text": "Who was the first Governor-General of Pakistan?",
+            "options": [
+                "Liaquat Ali Khan",
+                "Allama Iqbal",
+                "Quaid-e-Azam Muhammad Ali Jinnah",
+                "Ayub Khan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Muhammad Ali Jinnah served as the first Governor-General of Pakistan from independence until his death.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9680,
+            "question_text": "In which city was the All India Muslim League founded in 1906?",
+            "options": [
+                "Karachi",
+                "Dhaka",
+                "Lahore",
+                "Delhi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The All India Muslim League was established in Dhaka, British India, in 1906.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9681,
+            "question_text": "What is the national flower of Pakistan?",
+            "options": [
+                "Rose",
+                "Jasmine",
+                "Tulip",
+                "Sunflower"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Jasmine (Chambeli) is recognized as the national flower of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9682,
+            "question_text": "Who gave the famous address at Allahabad in 1930?",
+            "options": [
+                "Sir Syed Ahmed Khan",
+                "Allama Iqbal",
+                "Maulana Azad",
+                "Chaudhry Rahmat Ali"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Allama Iqbal delivered the historic Allahabad Address in 1930, proposing a separate state for Muslims.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9683,
+            "question_text": "The Indus Water Treaty was signed between Pakistan and which country?",
+            "options": [
+                "China",
+                "Afghanistan",
+                "India",
+                "Iran"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Indus Water Treaty was signed in 1960 between Pakistan and India regarding the distribution of river waters.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9684,
+            "question_text": "In which calendar year did Pakistan achieve independence?",
+            "options": [
+                "1945",
+                "1946",
+                "1947",
+                "1948"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Pakistan became a sovereign nation on August 14, 1947.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9685,
+            "question_text": "Who served as the first Governor-General of Pakistan?",
+            "options": [
+                "Allama Iqbal",
+                "Liaquat Ali Khan",
+                "Muhammad Ali Jinnah",
+                "Ayub Khan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quaid-e-Azam Muhammad Ali Jinnah was the first Governor-General.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9686,
+            "question_text": "In which city was the All India Muslim League established in 1906?",
+            "options": [
+                "Delhi",
+                "Dhaka",
+                "Aligarh",
+                "Lahore"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Muslim League was formed in Dhaka, then part of British India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9687,
+            "question_text": "What is the official national flower of Pakistan?",
+            "options": [
+                "Rose",
+                "Jasmine",
+                "Tulip",
+                "Sunflower"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Jasmine (Chambeli) is the recognized national flower of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9688,
+            "question_text": "Who delivered the historical presidential address at Allahabad in 1930?",
+            "options": [
+                "Muhammad Ali Jinnah",
+                "Sir Syed Ahmed Khan",
+                "Allama Muhammad Iqbal",
+                "Chaudhry Rahmat Ali"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Allama Iqbal presented the vision of a separate Muslim state in his 1930 address.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9689,
+            "question_text": "The Indus Waters Treaty was signed between Pakistan and which neighbor?",
+            "options": [
+                "China",
+                "Afghanistan",
+                "India",
+                "Iran"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The treaty was brokered by the World Bank between Pakistan and India in 1960.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

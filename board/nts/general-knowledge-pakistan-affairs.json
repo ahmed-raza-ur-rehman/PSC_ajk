@@ -1,0 +1,151 @@
+{
+    "category": "NTS",
+    "name": "General Knowledge & Pakistan Affairs",
+    "board": "nts",
+    "subject": "general-knowledge-pakistan-affairs",
+    "url": "/nts/general-knowledge-pakistan-affairs/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 9133,
+            "question_text": "Who was the first Governor General of Pakistan?",
+            "options": [
+                "Liaquat Ali Khan",
+                "Allama Iqbal",
+                "Quaid-e-Azam Muhammad Ali Jinnah",
+                "Ayub Khan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Muhammad Ali Jinnah served as the first Governor General of Pakistan after independence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9134,
+            "question_text": "Which is the largest province of Pakistan by area?",
+            "options": [
+                "Punjab",
+                "Sindh",
+                "Khyber Pakhtunkhwa",
+                "Balochistan"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Balochistan covers the largest land area among all the provinces of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9135,
+            "question_text": "Who was the first Governor-General of Pakistan?",
+            "options": [
+                "Allama Iqbal",
+                "Liaquat Ali Khan",
+                "Quaid-e-Azam Muhammad Ali Jinnah",
+                "Ayub Khan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Muhammad Ali Jinnah served as the first Governor-General of Pakistan after independence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9239,
+            "question_text": "Which province of Pakistan has the largest land area?",
+            "options": [
+                "Punjab",
+                "Sindh",
+                "Khyber Pakhtunkhwa",
+                "Balochistan"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Balochistan covers approximately 44% of the total land area of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9240,
+            "question_text": "Which is the national flower of Pakistan?",
+            "options": [
+                "Rose",
+                "Jasmine",
+                "Tulip",
+                "Sunflower"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Jasmine (Chambeli) is the official national flower of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9241,
+            "question_text": "Who served as the first Governor-General of Pakistan?",
+            "options": [
+                "Liaquat Ali Khan",
+                "Muhammad Ali Jinnah",
+                "Ayub Khan",
+                "Iskander Mirza"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Quaid-e-Azam Muhammad Ali Jinnah was the first Governor-General.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9242,
+            "question_text": "Which Pakistani province is largest in terms of area?",
+            "options": [
+                "Punjab",
+                "Sindh",
+                "Balochistan",
+                "Khyber Pakhtunkhwa"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Balochistan covers the largest land area among all provinces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9243,
+            "question_text": "What is the national flower of Pakistan?",
+            "options": [
+                "Rose",
+                "Jasmine",
+                "Tulip",
+                "Sunflower"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Jasmine (Chambeli) is the official national flower of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9244,
+            "question_text": "Which mountain range is home to K2?",
+            "options": [
+                "Himalayas",
+                "Karakoram",
+                "Hindu Kush",
+                "Sulaiman"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "K2 is located in the Karakoram range.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9245,
+            "question_text": "In which year did Pakistan become a nuclear power?",
+            "options": [
+                "1990",
+                "1995",
+                "1998",
+                "2000"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Pakistan conducted its nuclear tests in May 1998.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

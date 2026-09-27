@@ -1,0 +1,151 @@
+{
+    "category": "National University of Modern Languages (NUML)",
+    "name": "Principles of Management",
+    "board": "national-university-of-modern-languages-numl",
+    "subject": "principles-of-management",
+    "url": "/national-university-of-modern-languages-numl/principles-of-management/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12100,
+            "question_text": "According to Fayol, which management function involves setting goals and determining the best way to achieve them?",
+            "options": [
+                "Organizing",
+                "Leading",
+                "Controlling",
+                "Planning"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Planning is the primary management function that involves defining objectives and mapping out the actions required.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12101,
+            "question_text": "Which organizational structure groups employees based on specialized functions such as Marketing, Finance, and HR?",
+            "options": [
+                "Divisional Structure",
+                "Functional Structure",
+                "Matrix Structure",
+                "Flat Structure"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A functional structure organizes a company based on the specific specialized tasks performed by employees.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12102,
+            "question_text": "Which management level is responsible for long-term strategic planning?",
+            "options": [
+                "First-line managers",
+                "Middle managers",
+                "Top-level managers",
+                "Supervisors"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Top-level managers, such as CEOs, are responsible for organizational-wide goals and long-term strategy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12103,
+            "question_text": "According to Maslow's Hierarchy of Needs, which need must be satisfied first?",
+            "options": [
+                "Safety needs",
+                "Esteem needs",
+                "Physiological needs",
+                "Self-actualization"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Physiological needs (food, water, shelter) are the base of the pyramid and must be satisfied before higher-level needs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12104,
+            "question_text": "What does the 'span of control' refer to in an organization?",
+            "options": [
+                "The number of levels in the hierarchy",
+                "The geographical reach of the company",
+                "The number of subordinates managed by one supervisor",
+                "The total number of employees"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Span of control measures the breadth of a manager's authority in terms of how many people report directly to them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12105,
+            "question_text": "Which management function involves monitoring organizational performance and taking corrective action?",
+            "options": [
+                "Planning",
+                "Organizing",
+                "Leading",
+                "Controlling"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Controlling is the process of comparing actual performance against established standards to ensure goals are met.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12106,
+            "question_text": "Which management theory emphasizes the importance of social and psychological factors in the workplace?",
+            "options": [
+                "Scientific Management",
+                "Bureaucratic Management",
+                "Human Relations Movement",
+                "Classical Theory"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Human Relations movement, highlighted by the Hawthorne Studies, focused on how employee attitudes and social needs affect productivity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12107,
+            "question_text": "What is 'Delegation' in management?",
+            "options": [
+                "Assigning authority and responsibility to subordinates",
+                "Promoting managers to higher levels",
+                "Merging two departments",
+                "Setting the vision for the company"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Delegation is the process where a manager gives tasks and the authority to complete them to a subordinate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12108,
+            "question_text": "Which management skill involves the ability to see the organization as a whole and understand the relationships between its parts?",
+            "options": [
+                "Technical skill",
+                "Conceptual skill",
+                "Interpersonal skill",
+                "Operational skill"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Conceptual skills involve the ability to think strategically and view the organization from a holistic perspective.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12109,
+            "question_text": "What is the main focus of 'Scientific Management' as proposed by Frederick Taylor?",
+            "options": [
+                "Employee social relationships",
+                "Efficiency and productivity",
+                "Organizational structure",
+                "Leadership styles"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scientific management emphasizes optimizing task performance to improve efficiency and labor productivity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

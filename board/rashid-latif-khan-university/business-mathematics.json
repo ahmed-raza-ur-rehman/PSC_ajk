@@ -1,0 +1,151 @@
+{
+    "category": "Rashid Latif Khan University",
+    "name": "Business Mathematics",
+    "board": "rashid-latif-khan-university",
+    "subject": "business-mathematics",
+    "url": "/rashid-latif-khan-university/business-mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13782,
+            "question_text": "What is the simple interest earned on $5,000 at an annual interest rate of 6% for 2 years?",
+            "options": [
+                "$300",
+                "$600",
+                "$500",
+                "$1,200"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Simple Interest = Principal × Rate × Time. $5,000 × 0.06 × 2 = $600.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13783,
+            "question_text": "If a product costs $80 and is sold at a 25% markup on cost, what is the selling price?",
+            "options": [
+                "$100",
+                "$105",
+                "$120",
+                "$90"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Selling price = Cost + (Cost × Markup%). $80 + ($80 × 0.25) = $80 + $20 = $100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13784,
+            "question_text": "If the present value of an investment is $2,000 and the future value after 3 years is $2,662, what is the annual compound interest rate?",
+            "options": [
+                "8%",
+                "9%",
+                "10%",
+                "12%"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Using the formula FV = PV(1+r)^n, 2662 = 2000(1+r)^3, which solves to (1.331)^(1/3) = 1.10.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13785,
+            "question_text": "A store offers a 20% discount on a jacket originally priced at $150. What is the final price after applying the discount?",
+            "options": [
+                "$110",
+                "$120",
+                "$130",
+                "$100"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The discount is 20% of $150 ($30). $150 - $30 = $120.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13786,
+            "question_text": "Calculate the break-even point in units if fixed costs are $50,000, the selling price per unit is $50, and variable cost per unit is $30.",
+            "options": [
+                "1,000 units",
+                "2,000 units",
+                "2,500 units",
+                "5,000 units"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Break-even = Fixed Costs / (Price - Variable Cost) = 50,000 / (50 - 30) = 2,500.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13787,
+            "question_text": "If a company’s sales increased from $200,000 to $250,000, what is the percentage increase?",
+            "options": [
+                "20%",
+                "25%",
+                "50%",
+                "125%"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Percentage increase = (New Value - Old Value) / Old Value * 100. (250,000 - 200,000) / 200,000 = 0.25 or 25%.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13788,
+            "question_text": "What is the future value of a $1,000 investment at 10% annual interest compounded annually for 2 years?",
+            "options": [
+                "$1,200",
+                "$1,210",
+                "$1,100",
+                "$1,250"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Formula: FV = PV * (1 + r)^n. 1000 * (1.10)^2 = 1000 * 1.21 = 1210.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13789,
+            "question_text": "An item is sold for $120 after a 20% discount. What was the original price?",
+            "options": [
+                "$144",
+                "$150",
+                "$160",
+                "$140"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Original price * (1 - 0.20) = 120. Original price = 120 / 0.8 = 150.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13790,
+            "question_text": "A firm has total fixed costs of $10,000, a selling price of $20 per unit, and variable cost of $15 per unit. What is the contribution margin per unit?",
+            "options": [
+                "$5",
+                "$10",
+                "$15",
+                "$35"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Contribution margin = Selling price - Variable cost. 20 - 15 = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13791,
+            "question_text": "If an asset depreciates at a constant rate of 10% per year, what is its book value after 2 years if the initial cost was $1,000?",
+            "options": [
+                "$800",
+                "$810",
+                "$820",
+                "$900"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Year 1: 1000 - (0.10 * 1000) = 900. Year 2: 900 - (0.10 * 900) = 810.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

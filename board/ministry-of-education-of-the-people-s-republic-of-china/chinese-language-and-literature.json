@@ -1,0 +1,333 @@
+{
+    "category": "Ministry of Education of the People's Republic of China",
+    "name": "Chinese Language and Literature",
+    "board": "ministry-of-education-of-the-people-s-republic-of-china",
+    "subject": "chinese-language-and-literature",
+    "url": "/ministry-of-education-of-the-people-s-republic-of-china/chinese-language-and-literature/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 23,
+    "questions": [
+        {
+            "id": 8468,
+            "question_text": "Which of the following literary works is considered one of the 'Four Great Classical Novels' of Chinese literature?",
+            "options": [
+                "The Scholars",
+                "Dream of the Red Chamber",
+                "Strange Tales from a Chinese Studio",
+                "Flowers in the Mirror"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dream of the Red Chamber is widely recognized as one of the four masterpieces of classical Chinese literature, alongside Romance of the Three Kingdoms, Water Margin, and Journey to the West.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8469,
+            "question_text": "Who is the famous Tang Dynasty poet known as the 'Poet Immortal'?",
+            "options": [
+                "Du Fu",
+                "Li Bai",
+                "Wang Wei",
+                "Bai Juyi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Li Bai is traditionally honored as the 'Poet Immortal' (Shixian) due to his imaginative and romantic style.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8470,
+            "question_text": "Which classical novel focuses on the journey of a monk and his three disciples to the West?",
+            "options": [
+                "Dream of the Red Chamber",
+                "Water Margin",
+                "Romance of the Three Kingdoms",
+                "Journey to the West"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Journey to the West depicts the pilgrimage of Xuanzang to India accompanied by Sun Wukong, Zhu Bajie, and Sha Wujing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8471,
+            "question_text": "In Confucian thought, which virtue emphasizes filial piety and respect for parents?",
+            "options": [
+                "Ren",
+                "Yi",
+                "Xiao",
+                "Zhi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Xiao is the specific Chinese character and philosophical concept for filial piety.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8472,
+            "question_text": "Which literary style is most characteristic of the Song Dynasty?",
+            "options": [
+                "Tang Poetry",
+                "Ci Poetry",
+                "Yuan Drama",
+                "Ming Vernacular Fiction"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Song Dynasty is most famous for the development and popularity of 'Ci' (lyric poetry set to music).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8474,
+            "question_text": "The phrase 'Searching for something that cannot be found' appears in which classic collection of poetry?",
+            "options": [
+                "The Book of Songs",
+                "Chu Ci",
+                "The Analects",
+                "Classic of Mountains and Seas"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Book of Songs (Shijing) is the oldest existing collection of Chinese poetry, often using repetitive folk styles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8475,
+            "question_text": "Which influential ancient thinker founded the school of philosophy known as Taoism?",
+            "options": [
+                "Confucius",
+                "Laozi",
+                "Mencius",
+                "Zhuangzi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Laozi is traditionally credited with writing the Tao Te Ching and founding Taoist philosophy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8476,
+            "question_text": "In the context of traditional Chinese metrics, what is the defining feature of a 'Jueju' poem?",
+            "options": [
+                "It consists of exactly four lines",
+                "It must contain exactly ten lines",
+                "It focuses solely on war themes",
+                "It does not use rhyme"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A Jueju is a classic form of regulated verse in Chinese poetry consisting of four lines.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8938,
+            "question_text": "Which of the following literary works is a representative masterpiece of the 'Four Great Classical Novels' of Chinese literature?",
+            "options": [
+                "Dream of the Red Chamber",
+                "The Scholars",
+                "Strange Tales from a Chinese Studio",
+                "The Travels of Lao Can"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Dream of the Red Chamber is widely recognized as one of the Four Great Classical Novels, alongside Romance of the Three Kingdoms, Water Margin, and Journey to the West.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8939,
+            "question_text": "Who is the famous Tang Dynasty poet often referred to as the 'Poet Immortal'?",
+            "options": [
+                "Du Fu",
+                "Li Bai",
+                "Wang Wei",
+                "Bai Juyi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Li Bai is widely celebrated in Chinese history as the 'Poet Immortal' for his romantic and imaginative style.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8940,
+            "question_text": "Which of these works is a famous collection of short stories by Pu Songling that features supernatural entities?",
+            "options": [
+                "Dream of the Red Chamber",
+                "Strange Tales from a Chinese Studio",
+                "Journey to the West",
+                "Romance of the Three Kingdoms"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Strange Tales from a Chinese Studio (Liaozhai Zhiyi) is Pu Songling's masterpiece focusing on folklore and ghosts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8941,
+            "question_text": "In 'The Analects', which virtue is emphasized as the foundation of interpersonal relationships?",
+            "options": [
+                "Ren (Benevolence)",
+                "Li (Ritual)",
+                "Yi (Righteousness)",
+                "Zhi (Wisdom)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ren is considered the central concept in Confucianism, representing humaneness and kindness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8942,
+            "question_text": "Which classical novel focuses on the monk Xuanzang's pilgrimage to India?",
+            "options": [
+                "Water Margin",
+                "Journey to the West",
+                "Jin Ping Mei",
+                "Dream of the Red Chamber"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Journey to the West follows the mythological journey of Xuanzang accompanied by the Monkey King.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8943,
+            "question_text": "Identify the 'Four Books' that were the basis of the imperial civil service examination.",
+            "options": [
+                "The Analects, Mencius, Great Learning, Doctrine of the Mean",
+                "I Ching, Shijing, Shangshu, Chunqiu",
+                "Liji, Zhouli, Yili, Analects",
+                "Tao Te Ching, Zhuangzi, Huainanzi, Liezi"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "These four books were codified by Zhu Xi during the Song Dynasty as the core curriculum for scholars.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8944,
+            "question_text": "Which classical novel features the story of the fall of the Jia family?",
+            "options": [
+                "Dream of the Red Chamber",
+                "Water Margin",
+                "Romance of the Three Kingdoms",
+                "The Scholars"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Dream of the Red Chamber is famous for its detailed account of the rise and fall of the Jia clan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8945,
+            "question_text": "Who is the 'Poet Sage' of the Tang Dynasty, known for his realist poetry?",
+            "options": [
+                "Li Bai",
+                "Du Fu",
+                "Wang Wei",
+                "Bai Juyi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Du Fu is historically honored as the 'Poet Sage' due to the profound social commentary in his work.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8946,
+            "question_text": "Which literary era in China is often associated with the 'Ci' poetry style?",
+            "options": [
+                "Han Dynasty",
+                "Tang Dynasty",
+                "Song Dynasty",
+                "Ming Dynasty"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Ci poetry form reached its peak artistic development during the Song Dynasty.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8947,
+            "question_text": "Which of these is a well-known novel about the monkey king Sun Wukong and his journey to the west?",
+            "options": [
+                "Dream of the Red Chamber",
+                "Water Margin",
+                "Journey to the West",
+                "Romance of the Three Kingdoms"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Journey to the West is the classic novel featuring the adventures of Sun Wukong, the Monkey King, protecting a monk on his pilgrimage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8948,
+            "question_text": "Who is the legendary poet from the Tang Dynasty known for his deep, often sorrowful realist poems?",
+            "options": [
+                "Li Bai",
+                "Du Fu",
+                "Wang Wei",
+                "Bai Juyi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Du Fu is historically honored as the 'Poet Sage' for his realistic and socially conscious poetry, contrasting with the 'Poet Immortal' Li Bai.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8949,
+            "question_text": "Which of these collections contains bizarre stories involving spirits, demons, and supernatural events?",
+            "options": [
+                "Strange Tales from a Chinese Studio",
+                "The Scholars",
+                "Tales of the New World",
+                "Investiture of the Gods"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Pu Songling wrote 'Strange Tales from a Chinese Studio' (Liaozhai Zhiyi), which is famous for its collection of supernatural and ghost stories.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8950,
+            "question_text": "In Confucian philosophy, what is considered the most fundamental virtue governing family and social harmony?",
+            "options": [
+                "Li (Ritual)",
+                "Xiao (Filial Piety)",
+                "Yi (Righteousness)",
+                "Zhi (Wisdom)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Filial piety is described in the Analects as the root or foundation of all other virtues.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8951,
+            "question_text": "Which literary collection describes the downfall of a wealthy and aristocratic family living in a grand garden?",
+            "options": [
+                "Dream of the Red Chamber",
+                "Water Margin",
+                "The Golden Lotus",
+                "Journey to the West"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Dream of the Red Chamber centers on the decline of the Jia family and captures the social complexities of the Qing Dynasty.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8952,
+            "question_text": "Which ancient Chinese philosopher advocated for the concept of 'Wu Wei' or effortless action?",
+            "options": [
+                "Confucius",
+                "Laozi",
+                "Mencius",
+                "Han Feizi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Laozi is the founder of Taoism, which promotes living in harmony with the Dao through the principle of Wu Wei.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "category": "Fatima Jinnah Women University",
+    "name": "Academic Eligibility",
+    "board": "fatima-jinnah-women-university",
+    "subject": "academic-eligibility",
+    "url": "/fatima-jinnah-women-university/academic-eligibility/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 12844,
+            "question_text": "What is the minimum educational qualification required to apply for the Associate Degree in Economics at FJWU?",
+            "options": [
+                "Master's Degree",
+                "Intermediate (HSSC) or equivalent",
+                "Bachelor's Degree",
+                "Matriculation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Admission to the Associate Degree program typically requires completion of 12 years of formal education, commonly known as Intermediate or HSSC level.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12845,
+            "question_text": "Which stream of study at the Intermediate level is typically preferred for candidates seeking admission to the Associate Degree in Economics?",
+            "options": [
+                "Pre-Medical only",
+                "Pre-Engineering only",
+                "I.Com, F.A (with Economics/Math), or F.Sc",
+                "Arts only"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "While open to various streams, students with a background in Commerce, Economics, or Mathematics are generally better prepared for the core curriculum of an Economics degree.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12846,
+            "question_text": "Does Fatima Jinnah Women University require candidates to have a specific minimum percentage in their HSSC for the Associate Degree in Economics?",
+            "options": [
+                "No minimum percentage",
+                "At least 45%",
+                "At least 60%",
+                "At least 80%"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Most public sector universities in Pakistan set a minimum merit threshold, which is generally 45% for undergraduate-level admissions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12848,
+            "question_text": "What is the policy regarding age limits for applicants to the Associate Degree in Economics at FJWU?",
+            "options": [
+                "No upper age limit for any applicant",
+                "Maximum age limit is 22 years",
+                "Maximum age limit is 25 years",
+                "Must be under 30 years of age"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "FJWU typically does not impose an upper age limit for admission into undergraduate Associate Degree programs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12849,
+            "question_text": "Are students who have completed their A-Levels eligible to apply for the Associate Degree in Economics?",
+            "options": [
+                "No, only HSSC students are eligible",
+                "Yes, provided they provide an Equivalence Certificate from IBCC",
+                "Yes, but they must repeat their O-Levels",
+                "No, FJWU only accepts local HSSC boards"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Candidates with A-Levels must submit an official Equivalence Certificate issued by the Inter Board Committee of Chairmen (IBCC) to be considered.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12850,
+            "question_text": "Is a gap year after HSSC a disqualifying factor for admission to the Associate Degree program?",
+            "options": [
+                "Yes, only fresh graduates are eligible",
+                "No, gap years are allowed as long as the applicant meets criteria",
+                "Yes, unless they provide a gap justification letter",
+                "Only one gap year is permitted"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "FJWU accepts applications from students regardless of when they completed their previous studies, provided they meet the minimum percentage requirement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12851,
+            "question_text": "What is the minimum HSSC subject requirement, if any, for students from a non-economics background to be considered for the Associate Degree in Economics?",
+            "options": [
+                "Mathematics must be a core subject",
+                "Any stream of HSSC (FA/FSc/I.Com) is generally eligible",
+                "Only Science stream students are eligible",
+                "History must be passed at the HSSC level"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "FJWU typically accepts students from diverse academic backgrounds for the Associate Degree, provided they meet the minimum percentage criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12852,
+            "question_text": "How is the 'Equivalence Certificate' used in the admission of A-Level students?",
+            "options": [
+                "It replaces the need for a secondary school certificate",
+                "It validates that the candidate's A-Level grades meet the local HSSC standards",
+                "It is only required for international students",
+                "It serves as a character reference"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The IBCC Equivalence Certificate is mandatory for A-Level students to ensure their grades are comparable to the Pakistani HSSC system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12853,
+            "question_text": "Is there an upper age limit for female candidates applying to the Associate Degree program at FJWU?",
+            "options": [
+                "Yes, 20 years",
+                "Yes, 22 years",
+                "No specific upper age limit is enforced",
+                "Yes, 25 years"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "FJWU programs are generally open to applicants who meet the academic qualifications without a restrictive upper age barrier.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12854,
+            "question_text": "To be eligible for the Associate Degree in Economics at FJWU, what is the minimum required status of a candidate's intermediate result?",
+            "options": [
+                "Result awaited",
+                "Final pass certificate obtained",
+                "Enrolled in university",
+                "Completed a diploma"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Admission typically requires the candidate to have successfully cleared their Higher Secondary School Certificate (HSSC) or equivalent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12855,
+            "question_text": "In addition to HSSC, which academic record is mandatory for internal verification of the student's eligibility?",
+            "options": [
+                "Primary school report card",
+                "Secondary School Certificate (SSC) or Matric equivalent",
+                "Internship completion certificate",
+                "University entrance exam card"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Verification of basic schooling is essential to establish educational continuity and eligibility.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

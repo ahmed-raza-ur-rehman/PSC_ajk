@@ -1,0 +1,207 @@
+{
+    "category": "Punjab Educational Endowment Fund (PEEF)",
+    "name": "Institutional Admission Validation",
+    "board": "punjab-educational-endowment-fund-peef",
+    "subject": "institutional-admission-validation",
+    "url": "/punjab-educational-endowment-fund-peef/institutional-admission-validation/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 11247,
+            "question_text": "To be eligible for PEEF Master's level support, the student must be enrolled in which type of institution?",
+            "options": [
+                "Only private universities",
+                "Any vocational training center",
+                "Partner public sector universities",
+                "Only distance learning programs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "PEEF scholarships are specifically awarded to students enrolled in designated partner public sector universities across Punjab.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11248,
+            "question_text": "What serves as proof of 'Institutional Admission Validation' for a PEEF applicant?",
+            "options": [
+                "A receipt of the admission form fee",
+                "An official admission letter or enrollment certificate from the Registrar",
+                "A student identity card copy only",
+                "A confirmation email from a fellow student"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Formal validation requires verified documentation from the university's administration confirming the student's current enrollment status.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11249,
+            "question_text": "What is the primary role of the university's 'Focal Person' in the institutional admission validation process?",
+            "options": [
+                "To handle the student's daily complaints",
+                "To verify the admission and academic data of the student to PEEF",
+                "To teach the students how to fill forms",
+                "To collect the scholarship money for the university"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Focal Person acts as the bridge between PEEF and the institution, ensuring that only legitimately admitted students receive the funds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11250,
+            "question_text": "Why must an institution be recognized by the HEC for a student to be eligible for PEEF?",
+            "options": [
+                "Because PEEF only supports public universities",
+                "To ensure the degrees earned are valid and the institution maintains quality standards",
+                "Because PEEF manages the HEC budget",
+                "Only for international accreditation purposes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "HEC recognition is a mandatory requirement to ensure the quality of education provided to the scholarship recipients.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11251,
+            "question_text": "If a student transfers from one university to another, what happens to their PEEF scholarship?",
+            "options": [
+                "It is automatically transferred",
+                "It is canceled and requires re-application",
+                "The student loses 50% of the funding",
+                "It remains valid without notice"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scholarships are usually tied to specific institutions and academic programs; transfers often invalidate the current award.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11252,
+            "question_text": "What document does the university submit to confirm that the student is physically present and continuing their studies?",
+            "options": [
+                "An attendance log",
+                "A Semester Progress Report/Verification Letter",
+                "A copy of the library card",
+                "A student ID card photograph"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Institutions must periodically verify that the student is actively attending classes and maintaining the required academic standing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11253,
+            "question_text": "Is the scholarship directly paid to the student or the institution?",
+            "options": [
+                "Directly to the student's bank account",
+                "To the institution's account to cover fees, and stipend to the student",
+                "To the student's parents only",
+                "Through a government treasury check"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF usually transfers tuition fees to the institution and may disburse the stipend to the student to ensure proper utilization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11254,
+            "question_text": "What constitutes 'Institutional Admission Validation' in terms of enrollment status?",
+            "options": [
+                "Having paid the registration fee only",
+                "Full-time enrollment as a regular student in the current semester",
+                "Waiting for admission confirmation",
+                "Having applied for admission"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Validation requires that the student is officially enrolled and actively pursuing the degree, not just having an application in progress.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11255,
+            "question_text": "What does 'Institutional Admission Validation' verify regarding the student's status?",
+            "options": [
+                "That the student has a high GPA",
+                "That the student is currently enrolled as a 'Full-time' student",
+                "That the student is working while studying",
+                "That the student has paid all previous semester fees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Full-time enrollment is a mandatory condition for PEEF eligibility, which must be validated by the institution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11256,
+            "question_text": "If a student pauses their studies for one semester, how does it affect their institutional validation for PEEF?",
+            "options": [
+                "The scholarship continues as normal",
+                "The institution must inform PEEF of the status change, potentially freezing the scholarship",
+                "The student automatically becomes eligible for an extension",
+                "The institution pays the student's fees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scholarship eligibility is tied to active, continuous status; gaps in studies must be reported and usually result in suspension of funds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11257,
+            "question_text": "Why must the institution be a public sector university to be automatically eligible for the PEEF Master's program?",
+            "options": [
+                "Because private universities charge too little",
+                "Because PEEF primarily partners with public sector institutions for quality assurance",
+                "Because private universities do not have focal persons",
+                "Because public universities are always HEC recognized"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF maintains strict partnerships with public sector institutions to ensure standards and regulatory compliance are met.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11258,
+            "question_text": "What is the primary function of the 'Focal Person' at the university level?",
+            "options": [
+                "To teach the students",
+                "To act as the liaison between PEEF and the students for documentation and verification",
+                "To provide loans to students",
+                "To conduct the university entry exams"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The focal person is responsible for ensuring all institutional documents and student details are communicated correctly to PEEF.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11259,
+            "question_text": "If an institution loses its HEC recognition, what happens to the PEEF scholarships of currently enrolled students?",
+            "options": [
+                "They remain active for the duration of the degree",
+                "They are immediately terminated",
+                "They are doubled to help the students",
+                "They are transferred to the HEC head office"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "HEC recognition is a fundamental eligibility requirement; without it, the institution no longer meets the criteria for the PEEF scholarship program.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11260,
+            "question_text": "How is the 'Institutional Admission Validation' performed for students changing their degree program midway?",
+            "options": [
+                "It is automatically updated",
+                "The student must re-apply to PEEF as the validation is program-specific",
+                "It doesn't require any action",
+                "The focal person can approve it internally without PEEF notification"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scholarships are granted for specific academic programs. A change in program necessitates a fresh validation and approval from PEEF.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

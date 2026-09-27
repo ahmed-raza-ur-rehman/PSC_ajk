@@ -1,0 +1,249 @@
+{
+    "category": "FIA",
+    "name": "Islamic Studies — Important Islamic Battles (Badr, Uhud, Khandaq, etc.)",
+    "board": "fia",
+    "subject": "islamic-studies-important-islamic-battles-badr-uhud-khandaq-etc",
+    "url": "/fia/islamic-studies-important-islamic-battles-badr-uhud-khandaq-etc/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 17,
+    "questions": [
+        {
+            "id": 1633,
+            "question_text": "Which constitutional amendment greatly reinforced the federal nature of Pakistan's governance structure by redefining the relationship between federal and provincial domains?",
+            "options": [
+                "Seventeenth Amendment (2018)",
+                "First Amendment (1974)",
+                "Eighth Amendment (2010)",
+                "Eighteenth Amendment (2010)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Eighteenth Amendment (2010) restored the federal structure, eliminating key remnants of the presidential system and decentralizing power to the provinces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1634,
+            "question_text": "The 1973 Constitution of Pakistan primarily established which form of governance, thereby consolidating parliamentary democracy?",
+            "options": [
+                "Parliamentary Federal System",
+                "Unitary Military Regime",
+                "Presidential Dictatorship",
+                "Confederal Republic"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 1973 Constitution mandated a Parliamentary system where the Prime Minister and Council of Ministers are accountable to the National Assembly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1635,
+            "question_text": "Which major river system is primarily responsible for the agriculture and irrigation of Sindh province, originating from the Indus River?",
+            "options": [
+                "River Indus",
+                "River Chenab",
+                "River Ravi",
+                "River Sutlej"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Indus River is the main artery passing through and providing the primary water source for large parts of Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1934,
+            "question_text": "According to the Constitution of Pakistan (1973), which constitutional body holds the primary authority for interpreting the provisions of the Constitution?",
+            "options": [
+                "Supreme Court of Pakistan",
+                "Ministry of Law and Justice",
+                "Council of Islamic Ideology (CII)",
+                "National Assembly"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Supreme Court is the final interpreter of the Constitution, acting as the guardian of the constitutional provisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1935,
+            "question_text": "Under the Constitution of Pakistan (1973), which principle dictates that all citizens are equal before the law, regardless of religion or background?",
+            "options": [
+                "Islamic principles",
+                "Equality before law",
+                "Fundamental Rights",
+                "Federalism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Equality before law is a core constitutional principle ensuring that the law applies equally to all citizens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1936,
+            "question_text": "The mountainous region that forms the border between Khyber Pakhtunkhwa and Afghanistan, and contains the Khyber Pass, is best characterized as part of which major mountain range?",
+            "options": [
+                "Karakoram Range",
+                "Hindu Kush",
+                "Himalayas",
+                "Sulaiman Range"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Sulaiman Range runs through the region and includes passes like the Khyber Pass, which is critical for connectivity with Afghanistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2178,
+            "question_text": "Under the 1973 Constitution, which key provision was introduced to ensure that the President acts on the advice of the Prime Minister?",
+            "options": [
+                "Article 242 (Representation)",
+                "Article 254 (Applicability of Constitution)",
+                "Article 58(2) (Suspension of Constitution)",
+                "The Council of Common Interests (CCI) recommendation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Article 58(2) previously allowed the President to dismiss the government, but subsequent amendments have curtailed this power, solidifying the PM's advisory role.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2279,
+            "question_text": "Which region of Pakistan is characterized by a mix of arid plateaus, fertile river valleys, and proximity to the Arabian Sea, significantly impacting its agricultural and commercial structure?",
+            "options": [
+                "Potwar Plateau and Salt Range Foothills",
+                "Kaghan Valley and Upper Himalayas",
+                "Thar Desert and Balochistan Interior",
+                "Sindh Plain and Coastal Area"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Sindh Plain and Coastal Area combine diverse physical features, making it a major agricultural and trade hub near the Arabian Sea.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2439,
+            "question_text": "Which major river system is crucial for the agricultural economy of Sindh, originating in the mountains and flowing through the Indus floodplain?",
+            "options": [
+                "Indus River",
+                "Sutlej River",
+                "Chenab River",
+                "Jhelum River"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Indus River and its tributaries form the primary lifelines for Sindh's agriculture and economy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2489,
+            "question_text": "Which major river system flows through the Punjab and Sindh provinces, sustaining the majority of Pakistan's agricultural activities and historically forming the basis of its civilization?",
+            "options": [
+                "The Indus River System",
+                "The Chenab-Jhelum System",
+                "The Sutlej River System",
+                "The Ravi River System"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Indus River System is the most extensive and vital river network in Pakistan, supporting massive agricultural economies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2898,
+            "question_text": "Which of the following statements accurately describes the federal nature of the Constitution of Pakistan (1973) regarding provincial autonomy?",
+            "options": [
+                "It granted absolute legislative authority to provinces, thus dismantling the centralized federal structure.",
+                "It primarily gave control over foreign policy and defense to the center, minimizing provincial input.",
+                "It established a bicameral legislature with specific provisions to safeguard provincial rights and ensure a shared federation.",
+                "It mandates that all provincial laws must be ratified by the federal parliament without exception."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Constitution established a system of shared power through the bicameral parliament (National and Provincial Assemblies) to balance federal needs with provincial rights.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2999,
+            "question_text": "Which fundamental principle established by the Constitution of Pakistan (1973) ensures the supremacy of the Constitution over all other laws and institutions?",
+            "options": [
+                "The Federal List",
+                "Article 50",
+                "The Objectives Resolution",
+                "Article 2"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Article 2 mandates that any law or action inconsistent with the Constitution shall be void, establishing the Constitution's supremacy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3000,
+            "question_text": "Which of the following mountain ranges significantly influences the climate and agricultural patterns of the Punjab and Sindh provinces through localized precipitation and shelter?",
+            "options": [
+                "The Chitral Range",
+                "The Himalayas",
+                "The Kirthar Range",
+                "The Sulaiman Range"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Sulaiman Range runs parallel to the Sindh province, creating localized microclimates and influencing river flow and agricultural zoning in the region.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3050,
+            "question_text": "Which major river system primarily supports agriculture and population density in the Sindh province and flows through major cities like Hyderabad and Sukkur?",
+            "options": [
+                "Sutlej River",
+                "River Ravi",
+                "Indus River",
+                "Chenab River"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Indus River is the largest river system in Pakistan, crucial for agriculture and life in Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3419,
+            "question_text": "Which key feature of the 1973 Constitution of Pakistan established a parliamentary system while maintaining a strong federal structure, significantly influencing provincial autonomy?",
+            "options": [
+                "The division of powers outlined in the Federal and Provincial Lists (Concurrent List).",
+                "The establishment of a bicameral legislature with equal representation for all provinces.",
+                "The mandatory inclusion of emergency powers vesting solely in the federal government.",
+                "The requirement of a Prime Minister chosen by the National Assembly, under the supervision of the President."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The PM-led federal government system (parliamentary structure) was enshrined, making the executive responsible to the elected lower house (National Assembly).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3670,
+            "question_text": "Which major river system is primarily responsible for irrigating the fertile plains of Punjab and Sindh, making them the agricultural breadbaskets of Pakistan?",
+            "options": [
+                "Indus River System",
+                "Jhelum River System",
+                "Chenab River System",
+                "Sutlej River System"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Indus River System, along with its tributaries (Jhelum, Chenab, Ravi, etc.), forms the lifeblood for the vast agricultural lands of Punjab and Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6134,
+            "question_text": "According to the Constitution of Pakistan (1973), which fundamental concept guides the state's objective to promote public service and socio-economic justice?",
+            "options": [
+                "Adherence to Islamic principles and principles of democracy",
+                "Maintenance of law and order above all other rights",
+                "Economic liberalization without state intervention",
+                "Prioritization of military strength and national defense"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Constitution emphasizes Islamic principles (Sharia) and democratic processes as foundational pillars for justice and public service.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "MUET",
+    "name": "English",
+    "board": "muet",
+    "subject": "english",
+    "url": "/muet/english/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 10893,
+            "question_text": "Identify the synonym for 'Ephemeral'.",
+            "options": [
+                "Eternal",
+                "Fleeting",
+                "Strong",
+                "Colorful"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means lasting for a very short time, which is synonymous with fleeting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10894,
+            "question_text": "Choose the correctly punctuated sentence.",
+            "options": [
+                "I need to buy eggs, milk, and bread.",
+                "I need to buy eggs milk and bread.",
+                "I need to buy, eggs, milk, and bread.",
+                "I need to buy eggs; milk; and bread."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Items in a series should be separated by commas, including the Oxford comma before the coordinating conjunction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10895,
+            "question_text": "Choose the correct preposition: He is interested ___ learning new languages.",
+            "options": [
+                "on",
+                "at",
+                "in",
+                "to"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct idiom is 'interested in'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10896,
+            "question_text": "Identify the antonym of 'Generous'.",
+            "options": [
+                "Kind",
+                "Stingy",
+                "Helpful",
+                "Broad"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Stingy is the direct opposite of generous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10897,
+            "question_text": "Select the correct sentence structure.",
+            "options": [
+                "She runs quickly to the park.",
+                "She to the park runs quickly.",
+                "Runs she quickly to the park.",
+                "Quickly she to the park runs."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Standard English follows Subject-Verb-Adverb-Prepositional Phrase order.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10898,
+            "question_text": "What is the past participle of the verb 'write'?",
+            "options": [
+                "Wrote",
+                "Writing",
+                "Written",
+                "Writ"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The three forms are write, wrote, written.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10899,
+            "question_text": "Which word is misspelled?",
+            "options": [
+                "Accommodation",
+                "Separate",
+                "Definately",
+                "Necessary"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling is 'Definitely'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10900,
+            "question_text": "Select the sentence that uses the correct past perfect tense.",
+            "options": [
+                "He has went to the store.",
+                "He had gone to the store.",
+                "He has go to the store.",
+                "He was go to the store."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The past perfect tense is formed using 'had' + past participle of the verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10901,
+            "question_text": "Choose the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Accomodation",
+                "Acommodation",
+                "Accommodation"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The correct spelling requires two c's and two m's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10902,
+            "question_text": "What is the synonym of 'Resilient'?",
+            "options": [
+                "Fragile",
+                "Tough",
+                "Weak",
+                "Rigid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Resilient means able to withstand or recover quickly from difficult conditions, synonymous with tough.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

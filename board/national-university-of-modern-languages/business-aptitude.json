@@ -1,0 +1,193 @@
+{
+    "category": "National University of Modern Languages",
+    "name": "Business Aptitude",
+    "board": "national-university-of-modern-languages",
+    "subject": "business-aptitude",
+    "url": "/national-university-of-modern-languages/business-aptitude/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 12477,
+            "question_text": "What is the primary objective of a business entity?",
+            "options": [
+                "Social work",
+                "Profit maximization",
+                "Increasing staff",
+                "Government control"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While businesses have various goals, profit maximization is generally considered the primary motive for commercial enterprises.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12478,
+            "question_text": "Which of these is a 'fixed cost' for a manufacturing company?",
+            "options": [
+                "Raw materials",
+                "Electricity usage",
+                "Rent",
+                "Sales commissions"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Rent remains constant regardless of the production level, making it a fixed cost.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12479,
+            "question_text": "What does 'SWOT' stand for in business analysis?",
+            "options": [
+                "Strengths, Weaknesses, Opportunities, Threats",
+                "Sales, Wages, Operations, Tactics",
+                "Systems, Work, Output, Trends",
+                "Strategies, Wealth, Options, Tasks"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SWOT analysis is a strategic planning tool used to evaluate these four components.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12480,
+            "question_text": "Which of the following is an example of an 'intangible asset'?",
+            "options": [
+                "Office furniture",
+                "Patents",
+                "Inventory",
+                "Cash"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Intangible assets are non-physical assets like patents, copyrights, and trademarks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12481,
+            "question_text": "What does the 'B' stand for in the BCG Matrix?",
+            "options": [
+                "Boston",
+                "Business",
+                "Brand",
+                "Budget"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "BCG stands for Boston Consulting Group.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12482,
+            "question_text": "Which leadership style allows team members to make decisions with little interference?",
+            "options": [
+                "Autocratic",
+                "Democratic",
+                "Laissez-faire",
+                "Bureaucratic"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Laissez-faire leadership is characterized by a hands-off approach.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12483,
+            "question_text": "Which document outlines the primary goals and operational plan of a new business?",
+            "options": [
+                "Balance Sheet",
+                "Business Plan",
+                "Income Statement",
+                "Ledger"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A business plan describes a business's objectives and how it intends to achieve them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12484,
+            "question_text": "What is the primary function of 'Human Resource Management'?",
+            "options": [
+                "Managing finances",
+                "Manufacturing products",
+                "Managing employees",
+                "Marketing goods"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "HR focuses on recruitment, management, and providing direction for the people in an organization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12485,
+            "question_text": "What is the 'break-even point'?",
+            "options": [
+                "When revenue equals costs",
+                "When profit is maximized",
+                "When sales are low",
+                "When tax is paid"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The break-even point is where total costs equal total revenue, resulting in zero profit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12486,
+            "question_text": "Which of the following is considered a 'current liability'?",
+            "options": [
+                "Long-term loan",
+                "Accounts payable",
+                "Equipment",
+                "Land"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Current liabilities are obligations due within one year; accounts payable represents short-term debt.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12487,
+            "question_text": "What is a target market?",
+            "options": [
+                "All potential customers",
+                "Competitors",
+                "A specific group of potential customers",
+                "A supplier"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A target market is the specific group of consumers a company aims to reach with its marketing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12488,
+            "question_text": "Which term describes a business owned by two or more people who share profits and liability?",
+            "options": [
+                "Sole proprietorship",
+                "Partnership",
+                "Corporation",
+                "Non-profit"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A partnership is a business structure where two or more individuals own and operate the firm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12489,
+            "question_text": "What is 'Marketing Mix' commonly known as?",
+            "options": [
+                "The 4 Ps",
+                "The 4 Cs",
+                "The 4 Ms",
+                "The 4 Ts"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The marketing mix consists of Product, Price, Place, and Promotion (The 4 Ps).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

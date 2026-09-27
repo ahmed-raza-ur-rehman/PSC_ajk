@@ -1,0 +1,81 @@
+{
+    "category": "DVSA",
+    "name": "Other Types of Vehicle",
+    "board": "dvsa",
+    "subject": "other-types-of-vehicle",
+    "url": "/dvsa/other-types-of-vehicle/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 5,
+    "questions": [
+        {
+            "id": 6877,
+            "question_text": "Why should you give large vehicles extra room when they are turning left?",
+            "options": [
+                "They accelerate slower than cars",
+                "They need extra space as their rear wheels follow a tighter path",
+                "They have blind spots at the front",
+                "They are usually carrying hazardous loads"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Large vehicles 'cut in' at corners, meaning the rear wheels follow a path inside the front wheels.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6878,
+            "question_text": "Why must you leave extra room for large vehicles that are turning left?",
+            "options": [
+                "They need more time to accelerate",
+                "They have poor visibility in their side mirrors",
+                "They swing out wide and the rear wheels follow a tighter path",
+                "They are required by law to drive slowly"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Large vehicles like lorries and buses often need extra space to turn, meaning the back of the vehicle can 'cut' across the lane next to them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8435,
+            "question_text": "When following a large vehicle, why should you stay well back?",
+            "options": [
+                "To keep your car clean from mud",
+                "To see the road ahead more clearly",
+                "To prevent the driver from getting angry",
+                "To save fuel"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Staying back allows you a wider field of view, helping you spot hazards earlier.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8437,
+            "question_text": "Why should you maintain a large gap when following a heavy goods vehicle?",
+            "options": [
+                "To keep your car cleaner",
+                "To see the road ahead more clearly",
+                "Because they have more blind spots",
+                "To allow them to accelerate faster"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Staying back from large vehicles improves your visibility of the road ahead, allowing you to react better to hazards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8438,
+            "question_text": "What should you do when driving near a large vehicle that is turning left?",
+            "options": [
+                "Overtake it quickly on the left",
+                "Stay behind it, as it may cut across you",
+                "Flash your headlights to let them know you are there",
+                "Drive alongside it to prevent others from cutting in"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Large vehicles often have to swing wide when turning, creating a risk for anyone nearby.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

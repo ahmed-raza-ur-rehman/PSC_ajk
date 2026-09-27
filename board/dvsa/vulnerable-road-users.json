@@ -1,0 +1,165 @@
+{
+    "category": "DVSA",
+    "name": "Vulnerable Road Users",
+    "board": "dvsa",
+    "subject": "vulnerable-road-users",
+    "url": "/dvsa/vulnerable-road-users/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 6898,
+            "question_text": "When overtaking a cyclist, how much space should you provide?",
+            "options": [
+                "Just enough to pass safely",
+                "As much as you would give a car",
+                "At least 1.5 meters",
+                "You should not overtake cyclists"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Providing extra space ensures that if a cyclist wobbles or avoids a road defect, they are still safe.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6899,
+            "question_text": "How much space should you leave when overtaking a cyclist?",
+            "options": [
+                "Only a few centimeters since they are small",
+                "The same space you would give to a car",
+                "As much space as you would give when overtaking a car",
+                "You should not overtake a cyclist under any circumstances"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Cyclists are vulnerable; you must allow them plenty of room to ensure their safety, as they may need to swerve to avoid obstacles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6901,
+            "question_text": "What is the most common cause of accidents at junctions?",
+            "options": [
+                "Failure to look properly",
+                "Driving too slowly",
+                "Using a hands-free phone",
+                "Having high-beam headlights on"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Many accidents at junctions occur because drivers do not check their mirrors or surroundings carefully enough before proceeding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6902,
+            "question_text": "When approaching a pedestrian crossing, what should you do?",
+            "options": [
+                "Speed up to clear the crossing",
+                "Slow down and be ready to stop",
+                "Flash your lights to tell them to cross",
+                "Drive around them if they are slow"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pedestrians have priority at crossings, and you must always be prepared to stop for them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6903,
+            "question_text": "Which of these are most likely to be affected by strong side winds?",
+            "options": [
+                "Motorcyclists",
+                "Heavy lorries",
+                "Four-wheel drive vehicles",
+                "Newer cars"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Motorcyclists are light and unstable compared to cars, making them highly susceptible to being blown off-course by strong winds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6904,
+            "question_text": "What should you do when approaching a horse being ridden on the road?",
+            "options": [
+                "Sound your horn to warn the rider",
+                "Pass slowly and leave plenty of room",
+                "Maintain your speed and drive past closely",
+                "Rev your engine to let them know you are there"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Horses are easily startled; passing slowly and quietly minimizes the risk of the horse panicking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6905,
+            "question_text": "When a school bus is dropping off children, what should you do?",
+            "options": [
+                "Overtake as quickly as possible",
+                "Be prepared for children to step out suddenly",
+                "Keep your speed consistent",
+                "Flash your lights to warn the bus driver"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Children may be excited or unaware of traffic and can unexpectedly cross the road near buses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6906,
+            "question_text": "What does a flashing amber light on a school bus indicate?",
+            "options": [
+                "The bus is turning left",
+                "The bus is warning that children are getting on or off",
+                "The bus has a mechanical fault",
+                "The bus is parked on a clearway"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This light serves as a specific warning to other road users to proceed with extra caution near the bus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6907,
+            "question_text": "Why should you be extra careful around elderly pedestrians?",
+            "options": [
+                "They always walk on the road",
+                "They may have slower reactions or hearing",
+                "They do not know traffic rules",
+                "They are usually carrying heavy items"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Older road users might take longer to cross or be less able to judge traffic speed, requiring you to show patience.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8466,
+            "question_text": "When you see a pedestrian standing on a traffic island, what should you expect?",
+            "options": [
+                "They will definitely wait for you to pass",
+                "They might suddenly step into the road",
+                "They are just waiting for a friend",
+                "They will always face away from traffic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Always be cautious around pedestrians, as they can behave unpredictably near traffic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8467,
+            "question_text": "Why must you allow extra room when passing a cyclist?",
+            "options": [
+                "Because they travel faster than you",
+                "To avoid hitting them if they swerve or wobble",
+                "To show them the right of way",
+                "To comply with noise regulations"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cyclists are vulnerable; leaving plenty of space provides a buffer if they need to avoid an obstacle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

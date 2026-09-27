@@ -1,0 +1,179 @@
+{
+    "category": "PPSC",
+    "name": "Everyday Science",
+    "board": "ppsc",
+    "subject": "everyday-science",
+    "url": "/ppsc/everyday-science/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9754,
+            "question_text": "What is the primary method used to verify a candidate's identity at an examination center?",
+            "options": [
+                "Fingerprint scanning only",
+                "Original valid CNIC",
+                "University ID card",
+                "Written affidavit"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PPSC mandates the production of an original valid Computerized National Identity Card (CNIC) to verify identity at the exam center.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9755,
+            "question_text": "How does the system calculate the age of a candidate for PPSC recruitment?",
+            "options": [
+                "From the date of current employment",
+                "From the date of birth listed in the Matriculation certificate",
+                "From the year of graduation",
+                "From the application submission date"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PPSC rules state that age is determined by the date of birth on the Secondary School Certificate (Matriculation).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9756,
+            "question_text": "What is the chemical symbol for Gold?",
+            "options": [
+                "Ag",
+                "Au",
+                "Fe",
+                "Pb"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Au comes from the Latin word 'Aurum'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9757,
+            "question_text": "Which part of the human body produces insulin?",
+            "options": [
+                "Liver",
+                "Kidney",
+                "Pancreas",
+                "Stomach"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pancreas produces insulin to regulate blood sugar levels.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9758,
+            "question_text": "What is the speed of light in vacuum?",
+            "options": [
+                "300,000 km/s",
+                "150,000 km/s",
+                "300,000 m/s",
+                "200,000 km/s"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The speed of light is approximately 299,792,458 meters per second, rounded to 300,000 km/s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9759,
+            "question_text": "Which vitamin is synthesized by the human skin when exposed to sunlight?",
+            "options": [
+                "Vitamin A",
+                "Vitamin C",
+                "Vitamin D",
+                "Vitamin K"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "UV rays from the sun trigger vitamin D synthesis in the skin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9760,
+            "question_text": "What is the most abundant gas in Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Argon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up about 78% of Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9761,
+            "question_text": "Which human organ is responsible for blood filtration?",
+            "options": [
+                "Heart",
+                "Liver",
+                "Kidneys",
+                "Lungs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Kidneys filter waste products and excess water from the blood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9762,
+            "question_text": "What is the boiling point of water at sea level?",
+            "options": [
+                "90 degrees Celsius",
+                "100 degrees Celsius",
+                "110 degrees Celsius",
+                "80 degrees Celsius"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Water boils at 100 degrees Celsius at atmospheric pressure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9763,
+            "question_text": "What is the powerhouse of the cell?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondria",
+                "Cytoplasm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are organelles that produce energy (ATP) for the cell.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9764,
+            "question_text": "Which metal is liquid at room temperature?",
+            "options": [
+                "Mercury",
+                "Iron",
+                "Copper",
+                "Sodium"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Mercury is the only metal that remains liquid at standard room temperature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9765,
+            "question_text": "What does pH measure?",
+            "options": [
+                "Pressure",
+                "Temperature",
+                "Acidity or alkalinity",
+                "Density"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pH scale indicates how acidic or basic a water-based solution is.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

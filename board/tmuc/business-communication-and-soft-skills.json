@@ -1,0 +1,151 @@
+{
+    "category": "TMUC",
+    "name": "Business Communication and Soft Skills",
+    "board": "tmuc",
+    "subject": "business-communication-and-soft-skills",
+    "url": "/tmuc/business-communication-and-soft-skills/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11655,
+            "question_text": "Which component of the communication process involves the receiver providing a response to the sender?",
+            "options": [
+                "Encoding",
+                "Decoding",
+                "Feedback",
+                "Noise"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Feedback is the response given by the receiver, which completes the loop of the communication process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11656,
+            "question_text": "When writing a formal business email, what is the primary purpose of a concise subject line?",
+            "options": [
+                "To express emotions",
+                "To ensure the recipient opens the email by providing clarity on the content",
+                "To bypass spam filters only",
+                "To make the email look professional"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A clear subject line allows the recipient to quickly identify the importance and topic of the message.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11657,
+            "question_text": "What is the '7 Cs' principle of communication?",
+            "options": [
+                "Clear, Concise, Concrete, Correct, Coherent, Complete, Courteous",
+                "Capital, Cost, Communication, Control, Correct, Clever, Calm",
+                "Clear, Creative, Cautious, Correct, Confident, Collaborative, Costly",
+                "Concise, Correct, Clever, Comprehensive, Calm, Civil, Constant"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 7 Cs are the professional standards for effective business communication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11658,
+            "question_text": "Which of the following is considered a 'non-verbal' communication cue?",
+            "options": [
+                "A written report",
+                "An email",
+                "Facial expressions",
+                "A phone conversation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Non-verbal communication includes gestures, body language, facial expressions, and posture.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11659,
+            "question_text": "What is active listening?",
+            "options": [
+                "Hearing words without focusing",
+                "Interrupting the speaker to clarify points",
+                "Fully concentrating, understanding, and responding to the speaker",
+                "Focusing solely on the speaker's tone of voice"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Active listening involves engaging with the message, providing feedback, and showing genuine interest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11660,
+            "question_text": "Why should you avoid using jargon in a business presentation?",
+            "options": [
+                "It is too short",
+                "It may confuse the audience if they are not from the same field",
+                "It makes the speaker sound uneducated",
+                "It is against corporate policy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Effective communication requires clarity; jargon can create barriers between the speaker and the audience.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11661,
+            "question_text": "What is the primary function of a 'cover letter' when applying for a job?",
+            "options": [
+                "To list all previous salary history",
+                "To express interest and highlight how your skills fit the specific role",
+                "To replace the resume entirely",
+                "To provide a list of references"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A cover letter provides context to the resume and demonstrates the applicant's specific value to the employer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11713,
+            "question_text": "What is 'Kinesics' in the study of communication?",
+            "options": [
+                "The study of space and distance",
+                "The study of body language and gestures",
+                "The tone of voice used in a speech",
+                "The use of written documents"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Kinesics refers to the interpretation of body movement, facial expressions, and gestures as a form of non-verbal communication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11714,
+            "question_text": "In the '7 Cs' of communication, what does 'Coherence' mean?",
+            "options": [
+                "Using as many words as possible",
+                "Ensuring ideas are logically connected and flow well",
+                "Avoiding all technical terms",
+                "Being polite to the receiver"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Coherence ensures that the message makes sense as a whole and that all points are relevant and connected.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11715,
+            "question_text": "What is the main goal of empathetic listening?",
+            "options": [
+                "To correct the speaker's errors",
+                "To understand the speaker's emotions and perspective",
+                "To prepare a counter-argument",
+                "To quickly end the conversation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Empathetic listening focuses on connecting with the speaker's feelings, building rapport, and understanding their intent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

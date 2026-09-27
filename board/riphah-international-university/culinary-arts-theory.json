@@ -1,0 +1,151 @@
+{
+    "category": "Riphah International University",
+    "name": "Culinary Arts Theory",
+    "board": "riphah-international-university",
+    "subject": "culinary-arts-theory",
+    "url": "/riphah-international-university/culinary-arts-theory/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12129,
+            "question_text": "Which of the following is considered the mother sauce base for a Velouté?",
+            "options": [
+                "Tomato purée and herbs",
+                "White stock thickened with blond roux",
+                "Milk thickened with white roux",
+                "Brown stock and espagnole"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Velouté is a classic French mother sauce made by thickening a light-colored stock (chicken, fish, or veal) with a blond roux.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12130,
+            "question_text": "In the context of the Maillard reaction, what is the chemical result of heating proteins and sugars together?",
+            "options": [
+                "The food becomes more acidic",
+                "The food develops complex flavors and a brown color",
+                "The food loses all its nutritional value",
+                "The food turns transparent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor and aroma.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12132,
+            "question_text": "What is the primary role of an acid in a marinade for meat?",
+            "options": [
+                "To increase the shelf life of the raw meat.",
+                "To provide a crispy crust during cooking.",
+                "To denature proteins and tenderize the texture.",
+                "To act as a binding agent for spices."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Acids like vinegar or citrus juice break down the molecular structure of meat proteins, which can soften the texture if applied for the correct duration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12133,
+            "question_text": "In professional culinary terminology, what is a 'Roux'?",
+            "options": [
+                "A mixture of equal parts flour and fat cooked together.",
+                "A reduction of red wine and shallots.",
+                "A type of vegetable julienne.",
+                "A classic French equipment cleaning solution."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Roux is the foundation for many thickening agents in cooking, consisting of fat and flour cooked to varying degrees of color (white, blond, or brown).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12134,
+            "question_text": "Which of the following is an example of an unstable emulsion?",
+            "options": [
+                "Mayonnaise",
+                "Vinaigrette",
+                "Beurre Blanc",
+                "Hollandaise"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A vinaigrette is a temporary or unstable emulsion because the oil and vinegar will eventually separate without constant agitation or an emulsifier.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12135,
+            "question_text": "Which of the following describes the 'Umami' flavor profile?",
+            "options": [
+                "A sharp, biting sensation on the sides of the tongue",
+                "A savory, meaty, or broth-like richness often found in glutamates",
+                "The cooling sensation found in mint-based ingredients",
+                "The bitterness associated with dark, leafy greens"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Umami is the fifth basic taste, characterized by the presence of glutamates found in foods like soy sauce, tomatoes, and mushrooms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12136,
+            "question_text": "What is the primary difference between a 'Stock' and a 'Broth'?",
+            "options": [
+                "Stocks are made primarily from bones, while broths are made primarily from meat",
+                "Broths are always thickened with roux",
+                "Stocks require more salt than broths",
+                "Broths are always served chilled"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Stocks derive their body and flavor from the collagen in bones, whereas broths focus on the flavor of the meat.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12137,
+            "question_text": "In professional cooking, what does the term 'Al Dente' specifically refer to?",
+            "options": [
+                "Pasta cooked until completely soft",
+                "Vegetables cooked until they lose their bright color",
+                "Pasta cooked until firm to the bite",
+                "Meat cooked until the juices run clear"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Al dente translates to 'to the tooth,' meaning the food should have a slight resistance when chewed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12138,
+            "question_text": "What is the definition of a 'Mother Sauce' in Escoffier's system?",
+            "options": [
+                "A sauce made only from mother-approved recipes",
+                "A basic sauce that acts as a foundation for secondary sauces",
+                "A sauce that must be served with every meal",
+                "A sauce that uses cream as the primary ingredient"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The five mother sauces (Béchamel, Velouté, Espagnole, Hollandaise, and Tomato) serve as the starting point for countless derivatives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12139,
+            "question_text": "Which component in herbs and spices is responsible for their aromatic qualities?",
+            "options": [
+                "Volatile oils",
+                "Amino acids",
+                "Complex carbohydrates",
+                "Saturated fats"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Volatile oils evaporate at room temperature, releasing the scents that we perceive as aroma.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

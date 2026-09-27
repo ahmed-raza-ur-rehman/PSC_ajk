@@ -1,0 +1,151 @@
+{
+    "category": "Riphah International University",
+    "name": "Kitchen Management",
+    "board": "riphah-international-university",
+    "subject": "kitchen-management",
+    "url": "/riphah-international-university/kitchen-management/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12148,
+            "question_text": "What is the primary function of a standard 'mise en place' in a professional kitchen?",
+            "options": [
+                "To calculate the total food cost for the month",
+                "To organize ingredients and tools before beginning production",
+                "To clean the kitchen floors after service",
+                "To determine the menu prices"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mise en place, literally 'everything in its place,' is the fundamental organizational system that ensures efficiency and consistency during service.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12149,
+            "question_text": "What does the term 'FIFO' stand for in inventory management?",
+            "options": [
+                "First-In, First-Out",
+                "Fast-In, Fast-Out",
+                "Fresh-Ingredients-First-Order",
+                "Full-Inventory-For-Operations"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "FIFO is an inventory management technique where the oldest products are used before newer items to minimize spoilage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12150,
+            "question_text": "Which position in a professional kitchen is responsible for the overall operation and menu creation?",
+            "options": [
+                "Sous Chef",
+                "Commis Chef",
+                "Executive Chef",
+                "Chef de Partie"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Executive Chef manages the kitchen, including administrative duties, menu development, and personnel oversight.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12151,
+            "question_text": "What is 'par stock' in inventory management?",
+            "options": [
+                "The minimum amount of an item needed to get through a shift.",
+                "The total cost of all food purchased in a year.",
+                "The inventory count done during a holiday.",
+                "The leftover food from the previous day's service."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Par stock levels ensure the kitchen always has enough ingredients to handle the expected volume of customers without over-ordering.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12152,
+            "question_text": "What does a 'standardized recipe' primarily ensure in a professional kitchen?",
+            "options": [
+                "That every customer receives the exact same portion size.",
+                "Consistent quality and controlled food costs.",
+                "That the chef can improvise ingredients daily.",
+                "That the kitchen uses fewer staff members."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Standardized recipes ensure that the product tastes the same every time and helps the kitchen calculate exact portion costs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12153,
+            "question_text": "What is the primary goal of an efficient 'Mise en Place'?",
+            "options": [
+                "To keep the kitchen looking clean for guests",
+                "To ensure all ingredients and equipment are prepared and organized before cooking begins",
+                "To calculate the total cost of the menu",
+                "To reduce the number of staff needed for service"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mise en place translates to 'everything in its place,' ensuring the kitchen operates smoothly under pressure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12154,
+            "question_text": "What does a 'Prime Cost' analysis typically include?",
+            "options": [
+                "Fixed costs and variable costs",
+                "Total food costs and total labor costs",
+                "Marketing expenses and insurance",
+                "Equipment depreciation and utilities"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Prime cost is the sum of Cost of Goods Sold (COGS) and labor, representing the largest expenditures for a restaurant.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12155,
+            "question_text": "In a kitchen hierarchy, which position is generally responsible for the preparation of sauces, stews, and sautéed items?",
+            "options": [
+                "Commis Chef",
+                "Saucier",
+                "Entremetier",
+                "Poissonier"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Saucier is a vital role in the brigade system, handling sauces and complex hot preparations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12156,
+            "question_text": "What is the purpose of conducting a 'Physical Inventory' count?",
+            "options": [
+                "To find new suppliers",
+                "To reconcile the actual items on hand against the theoretical inventory records",
+                "To estimate next month's sales",
+                "To organize the walk-in cooler aesthetics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Physical inventory identifies shrinkage, theft, or errors in ordering and tracking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12157,
+            "question_text": "What is an 'Invoice' used for in kitchen management?",
+            "options": [
+                "To display the daily specials to customers",
+                "To provide a detailed record of items purchased from a vendor for payment purposes",
+                "To record the number of hours employees worked",
+                "To request a vacation day from the Executive Chef"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Invoices are essential for tracking purchases, confirming deliveries, and managing accounts payable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

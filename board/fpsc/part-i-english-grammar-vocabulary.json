@@ -1,0 +1,641 @@
+{
+    "category": "FPSC",
+    "name": "Part I - English (Grammar & Vocabulary)",
+    "board": "fpsc",
+    "subject": "part-i-english-grammar-vocabulary",
+    "url": "/fpsc/part-i-english-grammar-vocabulary/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 45,
+    "questions": [
+        {
+            "id": 1,
+            "question_text": "Synonym for 'Eleemosynary':",
+            "options": [
+                "Charitable",
+                "Complicated",
+                "Deceitful",
+                "Ancient"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Relates to charity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2,
+            "question_text": "Error: 'Were he to understand the code, he would not have deleted it.'",
+            "options": [
+                "Were he to",
+                "understand the code",
+                "would not have",
+                "deleted it"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mixed conditional. Should be 'would not delete it'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3,
+            "question_text": "Antonym for 'Lugubrious':",
+            "options": [
+                "Mournful",
+                "Cheerful",
+                "Clumsy",
+                "Heavy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Lugubrious means sad; Cheerful is opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4,
+            "question_text": "Idiom 'Sword of Damocles':",
+            "options": [
+                "A weapon of great power",
+                "An imminent, ever-present threat",
+                "A decisive action",
+                "A victory that costs too much"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An imminent, ever-present threat.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5,
+            "question_text": "Preposition: 'Impervious ___ modern optimizations.'",
+            "options": [
+                "against",
+                "to",
+                "for",
+                "from"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Impervious is followed by 'to'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6,
+            "question_text": "Subjunctive use:",
+            "options": [
+                "I insist that the developer tests the module.",
+                "I insist that the developer test the module.",
+                "I insist that the developer will test the module.",
+                "I insist the developer testing the module."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subjunctive uses base form 'test'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7,
+            "question_text": "Complete: 'Not only ___ the database crash, but backups corrupted.'",
+            "options": [
+                "did",
+                "has",
+                "had",
+                "does"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Inversion required: 'Not only did...'",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8,
+            "question_text": "Correct spelling:",
+            "options": [
+                "Surrepticious",
+                "Surreptitious",
+                "Surreptitios",
+                "Surreptishious"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Surreptitious (kept secret).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9,
+            "question_text": "Synonym for 'Sycophancy':",
+            "options": [
+                "Flattery",
+                "Rebellion",
+                "Ignorance",
+                "Transparency"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Obsequious behavior; flattery.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10,
+            "question_text": "Analogy LION : PRIDE ::",
+            "options": [
+                "Dog : Pack",
+                "Bird : Flock",
+                "Fish : School",
+                "All of the above"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "All are correct animal group names.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11,
+            "question_text": "Complete: 'She is one of the few engineers who ___ mastered Kubernetes.'",
+            "options": [
+                "has",
+                "have",
+                "is having",
+                "having"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Relative pronoun 'who' refers to plural 'engineers', so 'have'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12,
+            "question_text": "Antonym for 'Enervate':",
+            "options": [
+                "Exhaust",
+                "Invigorate",
+                "Confuse",
+                "Determine"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Enervate means to drain energy; Invigorate means to give energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13,
+            "question_text": "Dangling modifier:",
+            "options": [
+                "Having compiled successfully, the developer pushed the code.",
+                "The developer pushed the code after compiling it.",
+                "Having compiled successfully, the code was pushed.",
+                "After successful compilation, the code was pushed."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Implies the developer compiled, not the code.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14,
+            "question_text": "Idiom 'To tilt at windmills':",
+            "options": [
+                "To cut down trees",
+                "To waste time on an imaginary enemy",
+                "To attack an ally",
+                "To build infrastructure"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pursuing an impossible task.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 15,
+            "question_text": "Preposition: 'Absolved ___ all responsibility.'",
+            "options": [
+                "from",
+                "of",
+                "for",
+                "with"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Absolve takes 'of'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 16,
+            "question_text": "Synonym for 'Mellifluous':",
+            "options": [
+                "Stagnant",
+                "Harsh",
+                "Harmonious",
+                "Complex"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sweet or musical; harmonious.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 18,
+            "question_text": "Passive voice: 'They are building a new data center.'",
+            "options": [
+                "A new data center is being built.",
+                "A new data center was being built.",
+                "A new data center has been built.",
+                "A new data center is built."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Present continuous becomes 'is being built'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 19,
+            "question_text": "Error: 'The criteria for selecting the best candidate is highly rigorous.'",
+            "options": [
+                "The criteria",
+                "for selecting",
+                "is",
+                "highly rigorous"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Criteria is plural; verb must be 'are'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20,
+            "question_text": "Antonym for 'Obfuscate':",
+            "options": [
+                "Clarify",
+                "Confuse",
+                "Bury",
+                "Intensify"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Obfuscate means to obscure; Clarify is opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 21,
+            "question_text": "Meaning of 'Mutatis mutandis':",
+            "options": [
+                "With the necessary changes having been made",
+                "In equal fault",
+                "From the beginning",
+                "By the fact itself"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Latin for 'necessary changes made'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 22,
+            "question_text": "Correct sentence:",
+            "options": [
+                "Each of the nodes are failing.",
+                "Each of the nodes is failing.",
+                "Each of the node is failing.",
+                "Each nodes are failing."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Each of' takes a plural noun but singular verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 23,
+            "question_text": "Meaning of 'Pernicious':",
+            "options": [
+                "Helpful",
+                "Harmless",
+                "Gradually harmful",
+                "Loud"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Having a harmful effect in a gradual way.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 24,
+            "question_text": "Synonym for 'Ephemeral':",
+            "options": [
+                "Enduring",
+                "Transient",
+                "Pervasive",
+                "Robust"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Lasting for a very short time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 25,
+            "question_text": "Idiom 'To cross the Rubicon':",
+            "options": [
+                "To pass a point of no return",
+                "To sign a peace treaty",
+                "To build a bridge",
+                "To forgive an enemy"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "To make an irrevocable decision.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 26,
+            "question_text": "Synonym for 'Abate':",
+            "options": [
+                "Intensify",
+                "Subside",
+                "Prolong",
+                "Instigate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To become less intense.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 27,
+            "question_text": "Antonym for 'Cacophony':",
+            "options": [
+                "Noise",
+                "Harmony",
+                "Dissonance",
+                "Clamor"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cacophony is harsh sound; harmony is opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 29,
+            "question_text": "Idiom 'A blessing in disguise':",
+            "options": [
+                "A hidden curse",
+                "Something good not recognized at first",
+                "A blatant lie",
+                "An obvious advantage"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Good result from apparent misfortune.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 30,
+            "question_text": "Preposition: 'He insisted ___ paying for the meal.'",
+            "options": [
+                "on",
+                "for",
+                "in",
+                "about"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Insist is followed by 'on'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 31,
+            "question_text": "Sentence completion: 'The bouquet of red roses ___ beautiful.'",
+            "options": [
+                "are",
+                "were",
+                "is",
+                "have been"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Subject 'bouquet' is singular.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 32,
+            "question_text": "Analogy SURGEON : SCALPEL ::",
+            "options": [
+                "Carpenter : Wood",
+                "Author : Book",
+                "Tailor : Needle",
+                "Chef : Recipe"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Primary tool analogy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 33,
+            "question_text": "Error identification: 'She does not knows how to swim.'",
+            "options": [
+                "She",
+                "does not",
+                "knows",
+                "how to swim"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Base verb 'know' must follow 'does not'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 34,
+            "question_text": "Synonym for 'Lucid':",
+            "options": [
+                "Confusing",
+                "Clear",
+                "Dark",
+                "Heavy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Expressed clearly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 35,
+            "question_text": "Antonym for 'Frugal':",
+            "options": [
+                "Thrifty",
+                "Economical",
+                "Extravagant",
+                "Miserly"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Frugal is sparing; Extravagant is reckless.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 37,
+            "question_text": "Idiom 'To let the cat out of the bag':",
+            "options": [
+                "To adopt a pet",
+                "To reveal a secret",
+                "To misplace something",
+                "To get angry"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Reveal a secret accidentally.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 38,
+            "question_text": "Preposition: 'She is completely absorbed ___ her work.'",
+            "options": [
+                "in",
+                "with",
+                "by",
+                "into"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Absorbed 'in' something.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 39,
+            "question_text": "Synonym for 'Tenacious':",
+            "options": [
+                "Weak",
+                "Yielding",
+                "Persistent",
+                "Fragile"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Keeping a firm hold.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 41,
+            "question_text": "Change to passive: 'The chef cooked the meal.'",
+            "options": [
+                "The meal was cooked by the chef.",
+                "The meal cooked the chef.",
+                "The chef is cooking the meal.",
+                "The meal had been cooked."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Object becomes subject.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 42,
+            "question_text": "Antonym for 'Ameliorate':",
+            "options": [
+                "Improve",
+                "Worsen",
+                "Amend",
+                "Relieve"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ameliorate means improve; Worsen is opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 43,
+            "question_text": "Analogy WATER : THIRST ::",
+            "options": [
+                "Food : Hunger",
+                "Sleep : Bed",
+                "Fire : Heat",
+                "Book : Knowledge"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Water quenches thirst; food satisfies hunger.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 44,
+            "question_text": "Error: 'Between you and I, he is wrong.'",
+            "options": [
+                "Between",
+                "you and I",
+                "he is",
+                "wrong"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Prepositions take objective pronouns: 'you and me'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 45,
+            "question_text": "Meaning of 'Vindicate':",
+            "options": [
+                "To accuse",
+                "To clear from blame",
+                "To punish",
+                "To demand"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To clear from blame or suspicion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 46,
+            "question_text": "Sentence completion: 'Neither the teacher nor the students ___ present.'",
+            "options": [
+                "was",
+                "were",
+                "is",
+                "has been"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Verb agrees with closer subject (students).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 47,
+            "question_text": "Idiom 'Hit the nail on the head':",
+            "options": [
+                "Get a headache",
+                "Do exactly right",
+                "Make a mistake",
+                "Work as a carpenter"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Do or say something exactly right.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 48,
+            "question_text": "Synonym for 'Candid':",
+            "options": [
+                "Deceitful",
+                "Frank",
+                "Shy",
+                "Reserved"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Truthful and straightforward.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 49,
+            "question_text": "Preposition: 'We should comply ___ the rules.'",
+            "options": [
+                "by",
+                "to",
+                "with",
+                "in"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Comply 'with'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

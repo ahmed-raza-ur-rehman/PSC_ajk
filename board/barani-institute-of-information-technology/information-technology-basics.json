@@ -1,0 +1,179 @@
+{
+    "category": "Barani Institute of Information Technology",
+    "name": "Information Technology Basics",
+    "board": "barani-institute-of-information-technology",
+    "subject": "information-technology-basics",
+    "url": "/barani-institute-of-information-technology/information-technology-basics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 13038,
+            "question_text": "What is the primary function of a Load Balancer in a network architecture?",
+            "options": [
+                "To increase internet speed for end-users",
+                "To distribute incoming network traffic across multiple servers",
+                "To store backups of user data",
+                "To encrypt network traffic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Load balancers ensure high availability and reliability by spreading incoming traffic across a pool of backend servers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13039,
+            "question_text": "Which protocol is commonly used for secure web communication?",
+            "options": [
+                "HTTP",
+                "FTP",
+                "HTTPS",
+                "SMTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "HTTPS (HyperText Transfer Protocol Secure) uses TLS/SSL to encrypt data transmitted between a web browser and a server.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13040,
+            "question_text": "What does HTTPS stand for?",
+            "options": [
+                "Hypertext Transfer Protocol Security",
+                "Hyperlink Transfer Protocol Secure",
+                "Hypertext Transfer Protocol Secure",
+                "Hypertext Transmission Protocol Secure"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "HTTPS adds a layer of encryption (SSL/TLS) to the standard HTTP protocol for secure communication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13041,
+            "question_text": "Which of the following is a primary key in a database?",
+            "options": [
+                "A column with non-unique values",
+                "A column that uniquely identifies a row in a table",
+                "A tool used to query the database",
+                "A backup copy of the data"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A primary key is a field that must contain unique values and cannot be NULL, used to identify each record.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13042,
+            "question_text": "What is the primary purpose of a firewall?",
+            "options": [
+                "To speed up internet connection",
+                "To monitor and control incoming and outgoing network traffic",
+                "To encrypt all hard drive data",
+                "To back up files to the cloud"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A firewall acts as a security barrier between a trusted internal network and untrusted external networks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13043,
+            "question_text": "Which cloud computing model provides virtualized computing resources over the internet?",
+            "options": [
+                "IaaS",
+                "On-premise",
+                "Physical Storage",
+                "Local Server"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Infrastructure as a Service (IaaS) provides virtualized computing resources like servers and networking via the cloud.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13044,
+            "question_text": "What is the definition of 'Phishing'?",
+            "options": [
+                "A technique to speed up CPU performance",
+                "A type of cyberattack using deceptive emails to steal information",
+                "A method to fix software bugs",
+                "A way to organize file directories"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Phishing involves sending fraudulent communications that appear to come from a reputable source.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13045,
+            "question_text": "Which network topology connects all devices to a single central cable?",
+            "options": [
+                "Star",
+                "Mesh",
+                "Bus",
+                "Ring"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In a bus topology, all network nodes are connected to a single central cable, often called the backbone.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13046,
+            "question_text": "What does SQL stand for?",
+            "options": [
+                "Standard Query Language",
+                "Structured Query Language",
+                "System Query Language",
+                "Sequential Query Language"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SQL is the standard language used for managing and manipulating relational databases.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13047,
+            "question_text": "What is an API?",
+            "options": [
+                "An Application Programming Interface that allows software programs to interact",
+                "A type of virus that attacks servers",
+                "A hardware component for graphics",
+                "A method to format hard drives"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An API is a set of rules and protocols that allows different software applications to communicate with each other.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13048,
+            "question_text": "What does a 'Subnet Mask' do in a TCP/IP network?",
+            "options": [
+                "Encrypts outgoing data packets",
+                "Distinguishes between the network address and host address",
+                "Translates domain names to IP addresses",
+                "Assigns dynamic IP addresses to devices"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A subnet mask determines which part of an IP address refers to the network and which part refers to the host.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13049,
+            "question_text": "Which OSI layer is responsible for logical addressing and routing?",
+            "options": [
+                "Data Link Layer",
+                "Transport Layer",
+                "Network Layer",
+                "Session Layer"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Network Layer (Layer 3) handles the routing of data packets across different networks using logical addressing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

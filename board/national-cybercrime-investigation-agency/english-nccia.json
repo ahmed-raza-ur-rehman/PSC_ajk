@@ -1,0 +1,445 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "English (NCCIA)",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "english-nccia",
+    "url": "/national-cybercrime-investigation-agency/english-nccia/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 31,
+    "questions": [
+        {
+            "id": 14290,
+            "question_text": "Choose the word that is nearest in meaning (synonym) to the word 'METICULOUS'.",
+            "options": [
+                "Careless",
+                "Thorough",
+                "Rapid",
+                "Casual"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Meticulous' means showing great attention to detail; very careful and precise, which is synonymous with 'thorough'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14291,
+            "question_text": "Identify the antonym of the word 'AMBIGUOUS'.",
+            "options": [
+                "Vague",
+                "Uncertain",
+                "Clear",
+                "Obscure"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Ambiguous' means open to more than one interpretation or having a double meaning; its exact antonym among the choices is 'clear'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14292,
+            "question_text": "Choose the correct preposition to complete the sentence: 'She has been suffering _________ fever since Monday.'",
+            "options": [
+                "from",
+                "with",
+                "by",
+                "of"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The standard idiom in English for illness or physical affliction over a duration is 'suffering from'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14293,
+            "question_text": "Identify the correct passive voice of the sentence: 'The manager approved the new office budget.'",
+            "options": [
+                "The new office budget is approved by the manager.",
+                "The new office budget was approved by the manager.",
+                "The new office budget has been approved by the manager.",
+                "The manager was approving the new office budget."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The active sentence is in simple past tense ('approved'), so its passive form requires 'was/were + past participle' ('was approved').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14294,
+            "question_text": "Find the grammatically correct sentence among the following options:",
+            "options": [
+                "Neither of the two candidates were selected for the post.",
+                "Neither of the two candidates was selected for the post.",
+                "Neither of the two candidates are selected for the post.",
+                "Neither of the candidate were selected for the post."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Neither of' takes a plural noun ('candidates') but requires a singular verb ('was') because 'neither' is singular in grammatical structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14295,
+            "question_text": "Choose the correct spelling from the options given below:",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling has double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14296,
+            "question_text": "What is the synonym of the word 'BENEVOLENT'?",
+            "options": [
+                "Hostile",
+                "Kind-hearted",
+                "Greedy",
+                "Arrogant"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly, making 'kind-hearted' the closest synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14297,
+            "question_text": "Identify the antonym of the word 'ANCIENT'.",
+            "options": [
+                "Antique",
+                "Modern",
+                "Stale",
+                "Venerable"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ancient means belonging to the very distant past; its direct antonym is modern.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14298,
+            "question_text": "Choose the correct idiom to complete the sentence: 'When asked about his mistake, he tried to _________ the issue.'",
+            "options": [
+                "beat around the bush",
+                "spill the beans",
+                "burn the midnight oil",
+                "break the ice"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Beat around the bush' means avoiding the main topic or speaking evasively.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14299,
+            "question_text": "Identify the correct indirect speech for the sentence: He said to me, 'Where are you going?'",
+            "options": [
+                "He asked me where I was going.",
+                "He told me that where I am going.",
+                "He asked me where were you going.",
+                "He questioned that where am I going."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "In indirect speech for interrogative sentences, 'said to' changes to 'asked', and the tense shifts from present continuous to past continuous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14300,
+            "question_text": "Fill in the blank with the correct article: 'She is _________ university graduate.'",
+            "options": [
+                "an",
+                "a",
+                "the",
+                "no article needed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Although 'university' begins with a vowel letter, it starts with a consonant sound ('y'), so 'a' is used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14301,
+            "question_text": "Choose the word that means 'a person who hates mankind'.",
+            "options": [
+                "Philanthropist",
+                "Misanthrope",
+                "Optometrist",
+                "Polyglot"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A misanthrope is someone who dislikes humankind and avoids human society.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14302,
+            "question_text": "Identify the part of speech of the underlined word in the sentence: 'The quick brown fox jumps over the lazy dog.' (Quick)",
+            "options": [
+                "Noun",
+                "Verb",
+                "Adjective",
+                "Adverb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Quick' describes the noun 'fox', making it an adjective.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14303,
+            "question_text": "Choose the correct preposition: 'He jumped _________ the river to save the drowning child.'",
+            "options": [
+                "in",
+                "into",
+                "on",
+                "over"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Into' is used to express movement with direction toward the inside of something.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14304,
+            "question_text": "Find the sentence with correct grammatical structure:",
+            "options": [
+                "Neither of the two candidates were selected.",
+                "Neither of the two candidates was selected.",
+                "Neither of the two candidates are selected.",
+                "Neither of the two candidates have selected."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Neither' is singular and takes a singular verb ('was') in formal English.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14350,
+            "question_text": "Choose the synonym of the word 'Benevolent'.",
+            "options": [
+                "Hostile",
+                "Kind-hearted",
+                "Selfish",
+                "Apathetic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Benevolent' means well-meaning and kindly, making 'kind-hearted' its correct synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14351,
+            "question_text": "Identify the correct antonym of 'Abundant'.",
+            "options": [
+                "Plentiful",
+                "Scarse",
+                "Ample",
+                "Profuse"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Abundant' means existing or available in large quantities; 'scarce' is its opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14352,
+            "question_text": "Choose the correct preposition to complete the sentence: 'She is proficient ___ mathematics.'",
+            "options": [
+                "in",
+                "at",
+                "on",
+                "with"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The standard preposition used with the adjective 'proficient' when denoting a skill in a subject is 'in'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14353,
+            "question_text": "What does the idiom 'A blessing in disguise' mean?",
+            "options": [
+                "A good thing that seemed bad at first",
+                "An unexpected financial loss",
+                "A hidden enemy",
+                "An open secret"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An idiom used to describe a misfortune or difficult situation that eventually results in something good happening.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14354,
+            "question_text": "Identify the correct passive voice of the sentence: 'The police caught the criminal.'",
+            "options": [
+                "The criminal is caught by the police.",
+                "The criminal was caught by the police.",
+                "The criminal has been caught by the police.",
+                "The criminal caught the police."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since the active sentence is in the simple past tense ('caught'), the passive voice must use 'was/were + past participle' ('was caught').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14355,
+            "question_text": "Choose the correct spelling from the given options:",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling has double 'c' and double 'm': accommodation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14356,
+            "question_text": "What is the synonym of the word 'Paucity'?",
+            "options": [
+                "Abundance",
+                "Scarcity",
+                "Surplus",
+                "Wealth"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Paucity' means the presence of something in only small or insufficient quantities; scarcity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14357,
+            "question_text": "Identify the antonym of the word 'Mortal'.",
+            "options": [
+                "Fatal",
+                "Deadly",
+                "Immortal",
+                "Ephemeral"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Mortal' means subject to death, so its direct antonym is 'immortal' (living forever).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14358,
+            "question_text": "Choose the correct preposition: 'He is addicted ___ gambling.'",
+            "options": [
+                "in",
+                "to",
+                "with",
+                "on"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The adjective 'addicted' is standardly followed by the preposition 'to'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14359,
+            "question_text": "What does the idiom 'To miss the boat' mean?",
+            "options": [
+                "To be late for a vacation",
+                "To miss an opportunity",
+                "To lose a maritime case",
+                "To change one's mind"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The idiom 'to miss the boat' means to miss out on an opportunity by being slow to act.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14360,
+            "question_text": "Identify the correct indirect speech for: He said, 'I am going to Lahore today.'",
+            "options": [
+                "He said that he was going to Lahore today.",
+                "He said that he is going to Lahore that day.",
+                "He said that he was going to Lahore that day.",
+                "He says he was going to Lahore that day."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In indirect speech, present tense 'am going' changes to past 'was going', and 'today' changes to 'that day'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14361,
+            "question_text": "Choose the correct plural form of the noun 'Analysis'.",
+            "options": [
+                "Analysises",
+                "Analyses",
+                "Analysises",
+                "Analysis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Words ending in '-sis' of Greek origin form their plural by changing '-sis' to '-ses' (analyses).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14362,
+            "question_text": "What is the meaning of the phrasal verb 'give up'?",
+            "options": [
+                "To distribute gifts",
+                "To surrender or stop trying",
+                "To lift something high",
+                "To elevate someone"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'To give up' means to cease making an effort; to resign or surrender.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14363,
+            "question_text": "Identify the sentence with correct grammatical structure:",
+            "options": [
+                "She do not like apples.",
+                "She does not likes apples.",
+                "She does not like apples.",
+                "She not like apples."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Third-person singular present tense negation uses 'does not' followed by the base form of the verb ('like').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14364,
+            "question_text": "Choose the word that best completes the sentence: 'Despite his best efforts, he could not ___ the exam.'",
+            "options": [
+                "pass",
+                "past",
+                "paused",
+                "pace"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Pass' is a verb meaning to succeed in a test or examination.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14572,
+            "question_text": "The phrase 'decentralized power sources' suggests a shift away from:",
+            "options": [
+                "Relying solely on renewable energy inputs.",
+                "Investing heavily in international energy partnerships.",
+                "Large, centralized power generation facilities and grids.",
+                "The implementation of modern energy storage technologies."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Decentralized means power generation is spread out (like solar panels on rooftops), contrasting with large, centralized power plants.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "category": "University of the Punjab",
+    "name": "Analytical Skills",
+    "board": "university-of-the-punjab",
+    "subject": "analytical-skills",
+    "url": "/university-of-the-punjab/analytical-skills/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 10434,
+            "question_text": "If all roses are flowers and some flowers fade quickly, which statement must be true?",
+            "options": [
+                "All roses fade quickly.",
+                "Some roses fade quickly.",
+                "No roses fade quickly.",
+                "None of the above are necessarily true."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "We know some flowers fade, but we do not have enough information to confirm if roses are among those specific flowers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10435,
+            "question_text": "In a sequence 2, 6, 12, 20, ?, what is the next number?",
+            "options": [
+                "24",
+                "28",
+                "30",
+                "32"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences are 4, 6, 8. The next difference should be 10. 20 + 10 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10436,
+            "question_text": "If all cats have tails and some animals with tails are fuzzy, which conclusion is definitely true?",
+            "options": [
+                "All cats are fuzzy",
+                "Some fuzzy animals are cats",
+                "Some cats might be fuzzy",
+                "No cats are fuzzy"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "We know cats have tails, but we don't know if the 'fuzzy' group includes cats. Thus, we can only conclude it's possible.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10437,
+            "question_text": "In a race, Ali finished before Bilal, and Bilal finished before Charlie. Who finished last?",
+            "options": [
+                "Ali",
+                "Bilal",
+                "Charlie",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The order is Ali > Bilal > Charlie. Thus, Charlie is last.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10438,
+            "question_text": "If 'APPLE' is coded as 'BQQMF', how is 'ORANGE' coded?",
+            "options": [
+                "PSBOHF",
+                "PQBOHF",
+                "PSBOIF",
+                "PSBOHF"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted by +1. O->P, R->S, A->B, N->O, G->H, E->F.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10439,
+            "question_text": "Five books are on a shelf. A is to the left of B, C is to the right of D, E is between B and C. Which book is in the middle?",
+            "options": [
+                "A",
+                "B",
+                "E",
+                "C"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The order is D, C, E, B, A (or similar); the central position is E.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10440,
+            "question_text": "If Monday is the 1st of the month, what day is the 15th?",
+            "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "15 days later: 15 / 7 = 2 weeks and 1 day remaining. 1 + 1 = 1st, so 15th is also a Monday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10441,
+            "question_text": "Look at the series: 1, 4, 9, 16, 25, ?. What is the next number?",
+            "options": [
+                "30",
+                "36",
+                "40",
+                "49"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "These are perfect squares: 1^2, 2^2, 3^2, 4^2, 5^2, so 6^2 = 36.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10442,
+            "question_text": "If X > Y and Y > Z, which of the following is true?",
+            "options": [
+                "X < Z",
+                "X = Z",
+                "X > Z",
+                "Z > X"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Transitive property: If X > Y and Y > Z, then X must be greater than Z.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10443,
+            "question_text": "If all P are Q and all Q are R, then all P are R. Is this logic valid?",
+            "options": [
+                "Yes",
+                "No",
+                "Only sometimes",
+                "It depends on the subject"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is a standard syllogism that is logically sound.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10444,
+            "question_text": "Find the odd one out: Car, Bus, Bicycle, Ship.",
+            "options": [
+                "Car",
+                "Bus",
+                "Bicycle",
+                "Ship"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Ship travels on water; the others travel on land.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10445,
+            "question_text": "If you turn left and then turn left again, which direction are you facing compared to the original?",
+            "options": [
+                "North",
+                "East",
+                "South",
+                "West"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Two left turns (90 degrees each) result in a 180-degree rotation, which is the opposite direction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10446,
+            "question_text": "If 'TABLE' is coded as 'UBCMF', how is 'CHAIR' coded?",
+            "options": [
+                "DIBJS",
+                "DIAJS",
+                "DIJBS",
+                "CIDJS"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted by one position in the alphabet (T->U, A->B, B->C, L->M, E->F). Applying this to CHAIR: C->D, H->I, A->B, I->J, R->S.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10447,
+            "question_text": "Five students are sitting in a row. Ali is sitting next to Bilal. Bilal is sitting next to Sara. Sara is not next to Omer. If Omer is at one end and Ali is in the middle, who is at the other end?",
+            "options": [
+                "Bilal",
+                "Sara",
+                "Tariq",
+                "None of these"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The order is Omer, [blank], Ali, Bilal, Sara. Since Sara cannot be next to Omer, she must be at the far end.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

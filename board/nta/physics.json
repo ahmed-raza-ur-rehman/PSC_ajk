@@ -1,0 +1,193 @@
+{
+    "category": "NTA",
+    "name": "Physics",
+    "board": "nta",
+    "subject": "physics",
+    "url": "/nta/physics/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 9952,
+            "question_text": "If a body is moving in a circular path with a constant speed, what is the nature of its acceleration?",
+            "options": [
+                "It is zero",
+                "It is directed towards the center",
+                "It is directed along the tangent",
+                "It is constant in both magnitude and direction"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In uniform circular motion, the velocity changes direction continuously, resulting in centripetal acceleration directed toward the center.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9953,
+            "question_text": "What is the dimensional formula of Planck's constant (h)?",
+            "options": [
+                "[ML^2T^-1]",
+                "[MLT^-1]",
+                "[ML^2T^-2]",
+                "[ML^-1T^-1]"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since E = hf, h = E/f. Energy (E) has dimensions [ML^2T^-2] and frequency (f) has [T^-1], resulting in [ML^2T^-1].",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9954,
+            "question_text": "How does the acceleration of an object change when it moves in a circle at a steady speed?",
+            "options": [
+                "It remains zero.",
+                "It is directed toward the center of the circle.",
+                "It is directed outward from the center.",
+                "It is constant in both magnitude and direction."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In uniform circular motion, the speed is constant, but the direction changes, resulting in centripetal acceleration pointing toward the center.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9955,
+            "question_text": "What are the dimensions of Planck's constant (h)?",
+            "options": [
+                "[ML^2T^-1]",
+                "[MLT^-2]",
+                "[ML^2T^-2]",
+                "[M^-1L^2T]"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since Energy (E) = h * frequency (f), h = E / f. Units are (kg·m²/s²) / (1/s) = kg·m²/s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9956,
+            "question_text": "A ball is thrown vertically upwards with a velocity of 20 m/s. How high will it reach before stopping? (Take g = 10 m/s²)",
+            "options": [
+                "10 m",
+                "20 m",
+                "30 m",
+                "40 m"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using v² = u² + 2as, where v=0, u=20, a=-10. 0 = 400 - 20s, so s = 20m.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9957,
+            "question_text": "What is the relationship between the force and the rate of change of momentum according to Newton's Second Law?",
+            "options": [
+                "Force is independent of momentum.",
+                "Force is directly proportional to the rate of change of momentum.",
+                "Force is inversely proportional to momentum.",
+                "Force is the product of mass and momentum."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Newton's second law states that the net force applied is equal to the rate of change of linear momentum (F = dp/dt).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9958,
+            "question_text": "Two resistors of 2 ohms and 4 ohms are connected in series. What is the equivalent resistance?",
+            "options": [
+                "1 ohm",
+                "2 ohms",
+                "6 ohms",
+                "8 ohms"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In a series circuit, resistors are added directly: R_total = R1 + R2 = 2 + 4 = 6 ohms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9959,
+            "question_text": "If a particle moves with a constant velocity, what is its acceleration?",
+            "options": [
+                "Positive",
+                "Negative",
+                "Zero",
+                "Infinite"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Acceleration is the rate of change of velocity. If velocity is constant, the rate of change is zero.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9960,
+            "question_text": "Which physical quantity has the unit 'Joule-second'?",
+            "options": [
+                "Energy",
+                "Power",
+                "Angular momentum",
+                "Force"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Angular momentum (L) has units of (kg·m²/s), which simplifies to Joule-second.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9961,
+            "question_text": "What happens to the escape velocity if the mass of the planet is doubled while its radius remains the same?",
+            "options": [
+                "It remains the same",
+                "It increases by a factor of square root of 2",
+                "It doubles",
+                "It becomes half"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Escape velocity is given by v = sqrt(2GM/R). If M is doubled, v becomes sqrt(2) times the original.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9962,
+            "question_text": "In an adiabatic process, which of the following remains constant?",
+            "options": [
+                "Temperature",
+                "Pressure",
+                "Heat content",
+                "Volume"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "By definition, an adiabatic process is one where no heat is exchanged with the surroundings (dQ=0).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9963,
+            "question_text": "What is the unit of self-inductance?",
+            "options": [
+                "Weber",
+                "Henry",
+                "Tesla",
+                "Farad"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Henry (H) is the SI unit of electrical inductance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9964,
+            "question_text": "Which color of light deviates the most when passing through a prism?",
+            "options": [
+                "Red",
+                "Yellow",
+                "Green",
+                "Violet"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Violet light has the shortest wavelength and thus the highest refractive index in glass, causing maximum deviation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "category": "The Millennium Universal College (TMUC)",
+    "name": "Academic Eligibility Assessment",
+    "board": "the-millennium-universal-college-tmuc",
+    "subject": "academic-eligibility-assessment",
+    "url": "/the-millennium-universal-college-tmuc/academic-eligibility-assessment/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 13921,
+            "question_text": "If a degree program requires a minimum GPA of 2.50 on a 4.0 scale, which of the following GPA scores meets the eligibility criteria?",
+            "options": [
+                "2.45",
+                "2.49",
+                "2.51",
+                "2.48"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "2.51 is the only value provided that is greater than or equal to the 2.50 minimum requirement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13922,
+            "question_text": "To qualify for admission, an applicant must have completed at least 12 years of formal schooling. If an applicant has completed 11 years of schooling, what is their status?",
+            "options": [
+                "Eligible",
+                "Ineligible",
+                "Provisionally admitted",
+                "Exempt"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since 11 years is less than the minimum requirement of 12 years, the applicant does not meet the criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13923,
+            "question_text": "A transcript document must be 'official' to be accepted. Which of the following is considered an official transcript?",
+            "options": [
+                "A scanned copy emailed by the student",
+                "A photocopy signed by the student",
+                "A sealed envelope sent directly from the issuing institution",
+                "A screenshot of the online portal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Official transcripts require verification through secure transmission directly from the issuing body to ensure authenticity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13924,
+            "question_text": "If a university requires a minimum TOEFL score of 80 for international applicants, which applicant is eligible?",
+            "options": [
+                "Applicant A with a score of 78",
+                "Applicant B with a score of 80",
+                "Applicant C with a score of 75",
+                "Applicant D with a score of 79"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To meet a minimum requirement, the applicant must score at least the threshold value; 80 meets the criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13925,
+            "question_text": "An admissions policy states that late applications are accepted only with a verified medical excuse. If an applicant submits a late application due to a family vacation, what is the status?",
+            "options": [
+                "Accepted under special consideration",
+                "Rejected as it fails the criteria",
+                "Automatically deferred to the next semester",
+                "Eligible for a secondary review"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The policy specifies that late applications require a medical excuse; a vacation does not meet this requirement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13926,
+            "question_text": "If the prerequisite for an advanced course is 'Grade C or better' in 'Intro to Business', which grade allows a student to enroll?",
+            "options": [
+                "D+",
+                "D",
+                "C-",
+                "C"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A grade of C is equivalent to 'C or better', whereas D grades are lower than the required threshold.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13927,
+            "question_text": "To qualify for a transfer credit, a student must have earned the credit at an accredited institution. An applicant presents credits from an unaccredited online provider. What happens?",
+            "options": [
+                "Credits are accepted pending a fee payment",
+                "Credits are denied as they do not meet the accreditation policy",
+                "Credits are accepted if the GPA is above 3.0",
+                "Credits are accepted with a written letter of appeal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The policy explicitly requires accreditation; unaccredited coursework is ineligible for transfer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13928,
+            "question_text": "A scholarship requires the student to maintain full-time status (12+ credits). If a student drops to 9 credits, what is the result?",
+            "options": [
+                "They remain eligible for the full scholarship",
+                "They are eligible for 75% of the scholarship",
+                "They become ineligible for the scholarship",
+                "The scholarship is converted to a loan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Falling below the 12-credit threshold violates the full-time enrollment requirement for the scholarship.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13929,
+            "question_text": "If an admission deadline is set for 5:00 PM EST on November 1st, when is the latest an applicant can submit their materials?",
+            "options": [
+                "At 11:59 PM EST on November 1st",
+                "At 5:00 PM EST on November 1st",
+                "At 9:00 AM EST on November 2nd",
+                "At 5:00 PM EST on October 31st"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The deadline specifies both the time and date; submissions after 5:00 PM on that day are considered late.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13930,
+            "question_text": "A program requires a background check for admission. If an applicant refuses to authorize the check, what is the impact on their application?",
+            "options": [
+                "The application is processed without the check",
+                "The applicant is placed on a waitlist",
+                "The application is automatically disqualified",
+                "The applicant is given a 30-day grace period"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mandatory background checks are non-negotiable prerequisites; refusal to comply results in disqualification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13931,
+            "question_text": "If a degree program requires proof of English proficiency, which of the following is typically NOT accepted as proof?",
+            "options": [
+                "A TOEFL score report",
+                "A high school diploma from an English-speaking country",
+                "An expired passport",
+                "An IELTS score report"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An expired passport is a document of identity and does not verify English language proficiency, unlike testing scores or diplomas from English-speaking regions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13932,
+            "question_text": "If an applicant has a conditional offer based on their final semester grades, what must occur for the offer to become unconditional?",
+            "options": [
+                "The applicant must pay the tuition deposit early",
+                "The applicant must maintain a minimum GPA in their final term",
+                "The applicant must pass an additional entrance exam",
+                "The applicant must request a waiver from the Dean"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Conditional offers often depend on the applicant sustaining their academic performance through the end of their current enrollment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13933,
+            "question_text": "An applicant has a criminal record that requires board review. What is the standard purpose of this review?",
+            "options": [
+                "To charge the applicant a processing fee",
+                "To assess if the record poses a risk to the campus community",
+                "To automatically deny the application",
+                "To publish the record in the school newspaper"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Admissions boards conduct reviews to ensure campus safety and to evaluate the context of the applicant's record.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13934,
+            "question_text": "An admissions policy requires an applicant to have a minimum of 3 years of work experience for executive-track programs. If an applicant has 34 months of experience, are they eligible?",
+            "options": [
+                "Yes, they are eligible.",
+                "No, they are ineligible.",
+                "Yes, if they submit a letter of intent.",
+                "Only if they have a degree."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "3 years is equivalent to 36 months; since the applicant has only 34 months, they fall short of the requirement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

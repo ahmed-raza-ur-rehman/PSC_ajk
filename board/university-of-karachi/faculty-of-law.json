@@ -1,0 +1,123 @@
+{
+    "category": "University of Karachi",
+    "name": "Faculty of Law",
+    "board": "university-of-karachi",
+    "subject": "faculty-of-law",
+    "url": "/university-of-karachi/faculty-of-law/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 10636,
+            "question_text": "Which legal principle holds that no one can be punished for an act that was not legally defined as a crime at the time of its commission?",
+            "options": [
+                "Nullum crimen sine lege",
+                "Habeas Corpus",
+                "Stare Decisis",
+                "Res Judicata"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Nullum crimen sine lege translates to 'no crime without law', a fundamental principle of criminal justice.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10637,
+            "question_text": "Which principle suggests that a person should not be judged twice for the same offense?",
+            "options": [
+                "Habeas Corpus",
+                "Double Jeopardy",
+                "Due Process",
+                "Stare Decisis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Double jeopardy is a procedural defense that prevents an accused person from being tried again on the same charges following a valid acquittal or conviction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10638,
+            "question_text": "What does the Latin term 'Mens Rea' translate to in legal contexts?",
+            "options": [
+                "The guilty act",
+                "The guilty mind",
+                "By the law",
+                "Beyond reasonable doubt"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mens rea refers to the mental element of a person's intention to commit a crime; it is the 'guilty mind'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10639,
+            "question_text": "What does the legal principle 'Stare Decisis' mean?",
+            "options": [
+                "The burden of proof rests on the state",
+                "To stand by things decided (precedent)",
+                "The right to a speedy trial",
+                "Freedom of speech"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Stare decisis is the legal doctrine that obligates courts to follow historical cases when making a ruling on a similar case.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10640,
+            "question_text": "In criminal law, what refers to the physical act of committing a crime?",
+            "options": [
+                "Mens Rea",
+                "Actus Reus",
+                "Habeas Corpus",
+                "Prima Facie"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Actus reus represents the 'guilty act' or physical element of a crime, as opposed to the mental state (mens rea).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10641,
+            "question_text": "What does the legal principle 'Burden of Proof' typically imply in criminal law?",
+            "options": [
+                "The defendant must prove innocence",
+                "The judge decides without evidence",
+                "The prosecution must prove guilt beyond a reasonable doubt",
+                "The victim must provide the evidence"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In criminal cases, the burden of proof lies with the prosecution to prove the accused's guilt beyond a reasonable doubt.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10642,
+            "question_text": "Which legal term describes a civil wrong that causes harm to another person, resulting in legal liability?",
+            "options": [
+                "Felony",
+                "Tort",
+                "Misdemeanor",
+                "Contract"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A tort is an act or omission that gives rise to injury or harm to another and amounts to a civil wrong for which courts impose liability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10643,
+            "question_text": "Which type of law governs the relationship between individuals and the state?",
+            "options": [
+                "Private Law",
+                "Public Law",
+                "Corporate Law",
+                "Family Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Public Law encompasses constitutional, administrative, and criminal law, governing the relationship between the state and its citizens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

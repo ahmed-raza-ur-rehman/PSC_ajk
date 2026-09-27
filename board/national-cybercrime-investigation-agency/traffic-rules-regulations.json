@@ -1,0 +1,179 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Traffic Rules & Regulations",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "traffic-rules-regulations",
+    "url": "/national-cybercrime-investigation-agency/traffic-rules-regulations/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 14506,
+            "question_text": "What does a triangular traffic sign with a red border and a white background pointing downwards indicate?",
+            "options": [
+                "Stop sign",
+                "Give Way / Yield sign",
+                "No Entry sign",
+                "Pedestrian Crossing ahead"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An inverted red-and-white triangle specifically designates a 'Give Way' or 'Yield' sign, requiring drivers to give priority to traffic on the major road.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14507,
+            "question_text": "According to standard traffic regulations, when is overtaking on the left side permitted?",
+            "options": [
+                "On any multi-lane highway at any time",
+                "When the vehicle ahead is signaling and turning right, and there is sufficient lane width",
+                "Whenever traffic is moving slowly in the right lane",
+                "Overtaking on the left is strictly prohibited under all circumstances"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Standard rules require overtaking on the right, but overtaking on the left is legally permitted only if the vehicle in front has clearly indicated a right turn and room is available.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14508,
+            "question_text": "What action must a driver take upon approaching a steady amber (yellow) traffic light?",
+            "options": [
+                "Accelerate rapidly to clear the intersection before it turns red",
+                "Stop before entering the intersection unless the vehicle is too close to stop safely",
+                "Sound the horn and proceed without slowing down",
+                "Treat it as a green light and maintain speed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A yellow light warns that the signal is about to turn red; drivers must stop if it is safe to do so to prevent intersection collisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14509,
+            "question_text": "What is the legal implication of driving a motor vehicle without a valid third-party insurance policy in public areas?",
+            "options": [
+                "It is a punishable offense subject to fines and potential legal penalties",
+                "It is permitted only during daylight hours",
+                "It is allowed if the driver has an international driving permit",
+                "It only applies to commercial transport vehicles, not private ones"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Valid third-party insurance is legally mandatory for all motor vehicles operating in public spaces to cover liabilities arising from accidents.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14510,
+            "question_text": "What does a continuous white line painted along the center of a roadway signify?",
+            "options": [
+                "Overtaking is permitted with caution",
+                "Crossing or overtaking across the line is strictly prohibited",
+                "Parking is allowed on both sides of the road",
+                "The speed limit is automatically doubled"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A solid (continuous) center line indicates hazardous road conditions where crossing over into the oncoming lane is illegal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14511,
+            "question_text": "What does a sign featuring a red circle with a horizontal white bar indicate?",
+            "options": [
+                "No entry for all vehicular traffic",
+                "Mandatory parking area ahead",
+                "Priority for oncoming traffic",
+                "End of all speed restrictions"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A red circle with a white horizontal bar is the universal regulatory sign for 'No Entry'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14512,
+            "question_text": "When approaching a zebra crossing (pedestrian crossing) where pedestrians are waiting to cross, what is the driver's legal obligation?",
+            "options": [
+                "Sound the horn to alert pedestrians and drive past cautiously",
+                "Stop the vehicle and yield the right-of-way to pedestrians",
+                "Speed up to pass the crossing before pedestrians step onto the road",
+                "Maintain current speed unless traffic police signal you to stop"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Drivers must legally yield to pedestrians waiting or walking on marked pedestrian crosswalks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14513,
+            "question_text": "What is the legal rule regarding towing a disabled vehicle on a public highway using a rope or chain?",
+            "options": [
+                "The towing rope length must be unlimited to maintain safe distance",
+                "The rope or chain must be clearly flagged, and the towed vehicle must have a competent driver steering it",
+                "Headlights and indicators of both vehicles must remain turned off to save battery",
+                "Towing with a rope is permitted only on expressways at high speeds"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Safety regulations require clear visibility markers on the tow link and active steering control in the disabled vehicle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14514,
+            "question_text": "What does a broken (dashed) yellow line painted along the center of a two-way road signify?",
+            "options": [
+                "Overtaking is strictly prohibited under all circumstances",
+                "Overtaking is permitted with caution, provided the oncoming lane is clear",
+                "The lane is reserved exclusively for public transport buses",
+                "Parking is allowed on both sides of the roadway"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A dashed yellow centerline indicates that passing is allowed when safe to do so.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14515,
+            "question_text": "What action should a driver take upon hearing the siren of an approaching emergency vehicle (ambulance or fire truck)?",
+            "options": [
+                "Accelerate rapidly to stay ahead of the emergency vehicle",
+                "Safely pull over to the extreme left side of the road and stop to clear a path",
+                "Maintain your exact speed and position in the center lane",
+                "Turn on your hazard lights and brake sharply in your current lane"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Drivers are legally required to give immediate, unobstructed passage to emergency vehicles by pulling to the side.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14526,
+            "question_text": "What is the mandatory minimum age for obtaining a permanent driving license for a commercial transport vehicle in India?",
+            "options": [
+                "16 years",
+                "18 years",
+                "20 years",
+                "21 years"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Under the Motor Vehicles Act, applicants for transport/commercial driving licenses must be at least 20 years old.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14527,
+            "question_text": "What does a blue circular sign with a white arrow pointing right indicate?",
+            "options": [
+                "Mandatory turn right ahead",
+                "Right turn prohibited",
+                "Optional right lane",
+                "Dead end on the right"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Blue circular signs with white arrows give mandatory instructions that drivers must follow.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

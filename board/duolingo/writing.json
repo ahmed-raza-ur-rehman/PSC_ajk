@@ -1,0 +1,277 @@
+{
+    "category": "Duolingo",
+    "name": "Writing",
+    "board": "duolingo",
+    "subject": "writing",
+    "url": "/duolingo/writing/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 19,
+    "questions": [
+        {
+            "id": 10198,
+            "question_text": "Which of the following is a key requirement for a valid test session?",
+            "options": [
+                "Having a friend present to help with the computer",
+                "Ensuring your face is clearly visible and your ears are not covered",
+                "Using a physical dictionary during the writing section",
+                "Writing the test on a mobile phone while commuting"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Test security protocols require that your face and ears remain visible to the proctoring software throughout the exam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10199,
+            "question_text": "When writing an essay for the exam, why is it important to use a variety of sentence structures?",
+            "options": [
+                "To meet the minimum word count",
+                "To demonstrate a high level of language proficiency",
+                "To make the essay easier for the computer to grade",
+                "To confuse the reader"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using a mix of simple, compound, and complex sentences shows the evaluator that you have advanced control over English grammar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10200,
+            "question_text": "What is the consequence of writing 'off-topic' in your essay response?",
+            "options": [
+                "You will get extra points for creativity",
+                "Your score for the writing task will be significantly lowered",
+                "The system will automatically restart the section",
+                "It has no effect on the score"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Essays are graded based on relevance to the prompt; failing to address the topic directly negatively impacts the score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10201,
+            "question_text": "How should you approach a prompt that asks you to describe an image?",
+            "options": [
+                "List every single object you see",
+                "Write a creative story that has nothing to do with the image",
+                "Describe the scene, the people, and the actions clearly",
+                "Only write one short sentence"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A strong description provides a cohesive overview of the image, including the 'who', 'what', and 'where' shown in the picture.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10202,
+            "question_text": "Which of the following is best practice when reviewing your writing?",
+            "options": [
+                "Check for spelling and punctuation errors",
+                "Change all your words to more complex synonyms",
+                "Remove all adjectives to save time",
+                "Delete the introduction if you run out of time"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Proofreading is essential to catch simple mistakes that could lower your score despite your vocabulary knowledge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10203,
+            "question_text": "If you are asked to write about a personal experience, what should you focus on?",
+            "options": [
+                "Abstract theories",
+                "Clear, logical storytelling with descriptive details",
+                "Using as many technical terms as possible",
+                "Writing in a highly formal, academic style only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Personal narratives should be engaging and organized, showing the examiner you can articulate a sequence of events.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10204,
+            "question_text": "What is a key requirement for a valid test session?",
+            "options": [
+                "A fast internet connection and a working webcam.",
+                "A second monitor to display the questions.",
+                "Having a friend present to verify your work.",
+                "Writing your answers on paper first."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The test requires a stable connection and a camera to ensure security throughout the exam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10205,
+            "question_text": "Why is using varied sentence structures important in your essay?",
+            "options": [
+                "It makes the essay shorter.",
+                "It demonstrates a higher level of language proficiency.",
+                "It is required to fill up the word count.",
+                "It ensures the spelling checker works correctly."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Varying structure shows you can handle complex grammatical rules and nuance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10206,
+            "question_text": "What happens if your essay response is off-topic?",
+            "options": [
+                "The system automatically gives you a passing score.",
+                "The score will be negatively impacted because you failed the prompt.",
+                "You are given a second chance to rewrite it.",
+                "The word count is ignored."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Prompt adherence is a critical part of the assessment criteria for writing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10207,
+            "question_text": "How should you approach a prompt asking you to describe an image?",
+            "options": [
+                "Focus only on the background.",
+                "Provide a detailed description of objects, actions, and settings.",
+                "Ignore the image and write about your favorite hobby.",
+                "Ask a question to the proctor about the image."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Image description tasks test your ability to use descriptive language and vocabulary.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10208,
+            "question_text": "What is best practice when reviewing your writing?",
+            "options": [
+                "Change all your words to more complex ones at the last second.",
+                "Check for spelling, grammar, and clarity.",
+                "Delete half the essay to make it more concise.",
+                "Translate it into another language to check it."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Proofreading ensures that you haven't made careless mistakes that could lower your score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10209,
+            "question_text": "If asked to write about a personal experience, what should you focus on?",
+            "options": [
+                "Using as many technical terms as possible.",
+                "Sharing your feelings and specific details about the event.",
+                "Writing as many words as you can in the time limit.",
+                "Avoiding the use of 'I' or 'me'."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Personal experience essays are scored based on the ability to narrate and reflect naturally.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10210,
+            "question_text": "Why should you use varied sentence structures in your essays?",
+            "options": [
+                "It makes the essay shorter.",
+                "It demonstrates advanced writing proficiency and keeps the reader engaged.",
+                "It is required by the computer to count the words faster.",
+                "It helps you avoid using punctuation."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Varied sentence length and complexity are key indicators of high-level language fluency in writing assessments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10211,
+            "question_text": "What is the consequence of writing 'off-topic' in your response?",
+            "options": [
+                "You receive extra points for creativity.",
+                "The score will be negatively impacted because you failed to answer the prompt.",
+                "The test will automatically restart.",
+                "It is ignored as long as the spelling is correct."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Answering the specific prompt is essential; writing about an unrelated topic proves a lack of comprehension.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10212,
+            "question_text": "How should you approach a prompt to describe an image?",
+            "options": [
+                "List every single pixel you see.",
+                "Write a coherent paragraph covering the main subjects and the context of the scene.",
+                "Copy a generic description from a book.",
+                "Only describe the colors used in the image."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A good description provides context and detailed observations rather than a simple, disjointed list.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10213,
+            "question_text": "What is best practice when reviewing your written response?",
+            "options": [
+                "Check for spelling, grammar, and ensure you answered the entire prompt.",
+                "Change all your sentences to be very short.",
+                "Delete your work and start over if you have time.",
+                "Add as many filler words as possible."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Reviewing allows you to correct minor errors and ensure the content fully addresses the task requirements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10215,
+            "question_text": "Which element is crucial for a valid test session?",
+            "options": [
+                "Writing your essay in a public area.",
+                "Ensuring your face remains visible to the camera at all times.",
+                "Using a thesaurus to find obscure words.",
+                "Writing for as long as the timer allows, even if finished."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Security protocols require you to stay in the view of the camera to prevent cheating.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10216,
+            "question_text": "How do you ensure your writing remains cohesive?",
+            "options": [
+                "By repeating the prompt at the end of each paragraph.",
+                "By using transition words to connect your ideas logically.",
+                "By using only one sentence per paragraph.",
+                "By avoiding all pronouns."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cohesion is built by logically linking sentences and ideas using transition words like 'however,' 'furthermore,' and 'therefore.'",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10217,
+            "question_text": "What should be your primary goal in a 5-minute writing task?",
+            "options": [
+                "Producing as many pages as possible.",
+                "Writing a clear, well-structured response that directly answers the prompt.",
+                "Including as many complex idioms as possible.",
+                "Using only passive voice."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Quality and clarity are prioritized over length, provided the prompt is answered thoroughly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

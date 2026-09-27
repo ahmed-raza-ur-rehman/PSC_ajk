@@ -1,0 +1,207 @@
+{
+    "category": "Government College University Lahore",
+    "name": "Academic Record Assessment",
+    "board": "government-college-university-lahore",
+    "subject": "academic-record-assessment",
+    "url": "/government-college-university-lahore/academic-record-assessment/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 10913,
+            "question_text": "How is the 'Academic Record Assessment' score primarily weighted for GCU Lahore admissions?",
+            "options": [
+                "Based solely on the entrance exam score",
+                "Based on the cumulative percentage of previous board examinations",
+                "Based on physical fitness tests",
+                "Based on interview performance only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Academic assessment typically evaluates the candidate's historical performance in Matric and Intermediate board examinations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10914,
+            "question_text": "Which document is mandatory to verify academic credentials during the assessment phase?",
+            "options": [
+                "Character Certificate only",
+                "Original Detailed Marks Certificate (DMC)",
+                "Library Card",
+                "Gym Membership"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DMCs are the official record of marks required to calculate the merit score for university admission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10915,
+            "question_text": "Which component of the previous educational record carries the highest significance in the GCU admission merit formula?",
+            "options": [
+                "Extracurricular achievements",
+                "Matriculation/O-Level aggregate marks",
+                "Intermediate/A-Level equivalent results",
+                "Primary school certificates"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "For undergraduate admissions at GCU, Intermediate or A-Level (equivalent) grades are weighted most heavily as they represent the most recent academic performance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10916,
+            "question_text": "How does the admission committee treat 'Equivalent Certificates' issued by the IBCC for foreign qualification holders?",
+            "options": [
+                "They are ignored in favor of internal entrance tests",
+                "They must be converted into percentage marks to be considered for merit",
+                "They are only used to verify student identity",
+                "They are weighted 10% lower than local board results"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To ensure parity between local and international students, GCU requires IBCC equivalence certificates to standardize foreign grades into a percentage format.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10917,
+            "question_text": "If a student has a gap year between intermediate and university admission, how is this reflected in the assessment?",
+            "options": [
+                "It results in an automatic rejection",
+                "It is recorded and may require a valid affidavit/reasoning",
+                "It is completely disregarded without question",
+                "It adds bonus points to the merit aggregate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Gap years are noted during the administrative processing phase, and students are often required to justify the period to ensure transparency in the academic history.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10918,
+            "question_text": "What is the policy regarding 'improved' grades in board examinations for the academic record assessment?",
+            "options": [
+                "Only the first attempt is considered for merit",
+                "The higher of the two attempts is generally considered",
+                "Improved marks are penalized by 5 marks per subject",
+                "Only the marks from the improvement exam are considered"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "GCU typically allows the best academic result (the higher score) to count towards the merit aggregate, provided the documentation is verified.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10919,
+            "question_text": "In the context of Academic Record Assessment, what does 'Aggregate Merit' refer to?",
+            "options": [
+                "The sum of all subject marks without any weighing",
+                "The calculated weighted average of previous academic results and entrance test scores",
+                "The total number of students who applied for a specific program",
+                "The physical weight of the application file"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Aggregate merit is the final number used to rank students, combining their previous academic performance with their entrance test performance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10920,
+            "question_text": "How does the admission committee evaluate candidates who have completed O-Levels and A-Levels regarding their academic record?",
+            "options": [
+                "By directly converting letter grades to GCU standard percentages",
+                "By using IBCC equivalence certificates to map grades to the local percentage scale",
+                "By exclusively looking at the last completed grade",
+                "By ignoring O-Level results entirely"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To ensure a level playing field, GCU requires IBCC equivalence to translate foreign qualifications into a numerical score comparable with local intermediate results.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10921,
+            "question_text": "What is the primary implication of a 'Supplementary Result' appearing on a student's transcript during the record assessment?",
+            "options": [
+                "The candidate is immediately disqualified",
+                "The candidate must provide evidence that the supplement was cleared on the first attempt",
+                "The candidate's aggregate merit score is automatically reduced",
+                "It has no effect on the merit calculation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Most university merit formulas apply a specific deduction for each attempt required to pass a subject, impacting the final aggregate calculation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10922,
+            "question_text": "What is the primary significance of the matriculation result in the GCU aggregate calculation?",
+            "options": [
+                "It is completely ignored in favor of intermediate results",
+                "It serves as the base benchmark for academic consistency",
+                "It is only considered if the intermediate result is missing",
+                "It acts as a tie-breaker for students with identical intermediate marks"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Matriculation results provide the foundational academic performance indicator used to verify consistent progress leading up to university level.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10923,
+            "question_text": "How does the GCU assessment handle candidates who have studied in a non-traditional educational system?",
+            "options": [
+                "They are rejected automatically",
+                "They must pass a separate internal board exam",
+                "The IBCC conversion formula is applied to normalize scores",
+                "Their scores are reduced by 20% by default"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To ensure fairness, candidates from foreign or non-traditional systems must have their marks converted to the Pakistani grading system by the IBCC.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10924,
+            "question_text": "What does a 'Percentage-to-Grade' conversion mainly aim to achieve in merit calculation?",
+            "options": [
+                "Inflation of student scores",
+                "Standardization of performance across different educational boards",
+                "Simplification of the application form",
+                "Reduction of total merit seats"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Different boards have varying grading policies; a standardized conversion ensures a level playing field for all applicants.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10925,
+            "question_text": "In academic assessment, what does the term 'Weighted Aggregate' imply?",
+            "options": [
+                "The sum of marks regardless of the subject",
+                "The proportional contribution of matriculation, intermediate, and entry test scores",
+                "The average score of all candidates in the province",
+                "The weight of the student's physical textbooks"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The aggregate merit is a weighted average where each component (Matric, Inter, Entry Test) contributes a specific percentage to the final score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10926,
+            "question_text": "How are 'Additional Marks' for Hifz-e-Quran generally applied in the academic assessment?",
+            "options": [
+                "They are added to the final entry test marks",
+                "They are granted after verification of the certificate by the committee",
+                "They are automatically applied at the time of online registration",
+                "They replace the English proficiency score"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Government institutions require formal verification of Hifz certificates before credit is added to an applicant's aggregate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

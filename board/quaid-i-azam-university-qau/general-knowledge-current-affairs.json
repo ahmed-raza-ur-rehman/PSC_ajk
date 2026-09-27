@@ -1,0 +1,165 @@
+{
+    "category": "Quaid-i-Azam University (QAU)",
+    "name": "General Knowledge & Current Affairs",
+    "board": "quaid-i-azam-university-qau",
+    "subject": "general-knowledge-current-affairs",
+    "url": "/quaid-i-azam-university-qau/general-knowledge-current-affairs/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10558,
+            "question_text": "Which organization's headquarters is located in Geneva, Switzerland?",
+            "options": [
+                "United Nations",
+                "World Health Organization",
+                "International Monetary Fund",
+                "World Bank"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The World Health Organization (WHO) is headquartered in Geneva, Switzerland.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10559,
+            "question_text": "Which river is known as the lifeblood of Pakistan?",
+            "options": [
+                "Jhelum",
+                "Chenab",
+                "Indus",
+                "Ravi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Indus River is the longest and most vital river for Pakistan's agriculture and economy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10560,
+            "question_text": "Who is the current Secretary-General of the United Nations?",
+            "options": [
+                "Ban Ki-moon",
+                "António Guterres",
+                "Kofi Annan",
+                "Javier Pérez de Cuéllar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "António Guterres assumed office as the UN Secretary-General on January 1, 2017.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10561,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mars appears red due to iron oxide (rust) on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10562,
+            "question_text": "The G20 summit 2024 was hosted by which country?",
+            "options": [
+                "Brazil",
+                "India",
+                "Italy",
+                "Japan"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Brazil held the G20 presidency for 2024.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10563,
+            "question_text": "Which gas is most abundant in the Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10564,
+            "question_text": "Which historical monument was built by Shah Jahan for his wife Mumtaz Mahal?",
+            "options": [
+                "Badshahi Mosque",
+                "Taj Mahal",
+                "Red Fort",
+                "Lahore Fort"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Taj Mahal is an ivory-white marble mausoleum commissioned by Shah Jahan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10565,
+            "question_text": "What is the capital city of Japan?",
+            "options": [
+                "Kyoto",
+                "Osaka",
+                "Tokyo",
+                "Seoul"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tokyo is the capital and largest city of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10566,
+            "question_text": "Which scientist developed the theory of General Relativity?",
+            "options": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Niels Bohr",
+                "Galileo Galilei"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Albert Einstein published the theory of general relativity in 1915.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10567,
+            "question_text": "The 'Nobel Peace Prize' is awarded in which city?",
+            "options": [
+                "Stockholm",
+                "Oslo",
+                "Copenhagen",
+                "Geneva"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While most Nobel Prizes are awarded in Stockholm, the Peace Prize is awarded in Oslo, Norway.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10568,
+            "question_text": "Which organization focuses on global health?",
+            "options": [
+                "WHO",
+                "IMF",
+                "UNESCO",
+                "WTO"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The World Health Organization (WHO) is a specialized agency of the UN responsible for international public health.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "category": "National Testing Agency (NTA)",
+    "name": "Mathematics",
+    "board": "national-testing-agency-nta",
+    "subject": "mathematics",
+    "url": "/national-testing-agency-nta/mathematics/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 10028,
+            "question_text": "What is the value of the derivative of x^2 with respect to x?",
+            "options": [
+                "x",
+                "2x",
+                "x^2",
+                "2"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the power rule for differentiation, the derivative of x^n is nx^(n-1). For x^2, this is 2x^(2-1) = 2x.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10029,
+            "question_text": "If a triangle has angles of 45, 45, and 90 degrees, what type of triangle is it?",
+            "options": [
+                "Equilateral",
+                "Scalene",
+                "Isosceles Right Triangle",
+                "Obtuse"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since two angles are equal (45 degrees), it is isosceles, and because one angle is 90 degrees, it is a right triangle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10030,
+            "question_text": "If you find the derivative of x² with respect to x, what is the result?",
+            "options": [
+                "x",
+                "2x",
+                "x/2",
+                "1"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the power rule for derivatives, the derivative of x^n is nx^(n-1).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10031,
+            "question_text": "A triangle has internal angles of 45, 45, and 90 degrees. What is this type of triangle called?",
+            "options": [
+                "Equilateral",
+                "Scalene",
+                "Isosceles right triangle",
+                "Obtuse triangle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "It is a right triangle because of the 90-degree angle, and isosceles because two angles are equal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10032,
+            "question_text": "What is the next value in this sequence: 2, 4, 8, 16, ...?",
+            "options": [
+                "20",
+                "24",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number is double the previous one, so 16 * 2 = 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10033,
+            "question_text": "What is the value of 5 factorial (5!)?",
+            "options": [
+                "15",
+                "25",
+                "120",
+                "60"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "5! = 5 * 4 * 3 * 2 * 1 = 120.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10034,
+            "question_text": "What is the sum of the interior angles of a quadrilateral?",
+            "options": [
+                "180 degrees",
+                "270 degrees",
+                "360 degrees",
+                "540 degrees"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sum of interior angles of a polygon with n sides is (n-2) * 180. For n=4, this is 360.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10035,
+            "question_text": "What is the value of the integral of cos(x) with respect to x?",
+            "options": [
+                "sin(x) + C",
+                "-sin(x) + C",
+                "tan(x) + C",
+                "-cos(x) + C"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The derivative of sin(x) is cos(x), so the integral of cos(x) is sin(x).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10036,
+            "question_text": "How many tangents can be drawn from a point outside a circle to the circle?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "Infinite"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Exactly two tangents can be drawn from an external point to a circle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10037,
+            "question_text": "What is the determinant of a 2x2 identity matrix?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "-1"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For an identity matrix [[1,0],[0,1]], the determinant is (1*1) - (0*0) = 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10038,
+            "question_text": "What is the sum of the first 10 natural numbers?",
+            "options": [
+                "45",
+                "50",
+                "55",
+                "60"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sum formula is n(n+1)/2. For n=10, 10*11/2 = 55.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10039,
+            "question_text": "What is the value of log_2(8)?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "8"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "2 raised to the power of 3 equals 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "category": "University of Balochistan",
+    "name": "General Knowledge",
+    "board": "university-of-balochistan",
+    "subject": "general-knowledge",
+    "url": "/university-of-balochistan/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 10785,
+            "question_text": "Which mountain range separates Balochistan from the Iranian plateau?",
+            "options": [
+                "Himalayas",
+                "Karakoram",
+                "Sulaiman Range",
+                "Makran Range"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Makran coastal range and mountains form the western boundary of the Balochistan province.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10786,
+            "question_text": "Who was the first Governor-General of Pakistan?",
+            "options": [
+                "Liaquat Ali Khan",
+                "Muhammad Ali Jinnah",
+                "Ayub Khan",
+                "Iskander Mirza"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Quaid-e-Azam Muhammad Ali Jinnah served as the first Governor-General of Pakistan after independence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10787,
+            "question_text": "Which is the largest province of Pakistan by land area?",
+            "options": [
+                "Punjab",
+                "Sindh",
+                "Balochistan",
+                "Khyber Pakhtunkhwa"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Balochistan covers approximately 44% of the total land area of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10788,
+            "question_text": "What is the capital city of Pakistan?",
+            "options": [
+                "Lahore",
+                "Karachi",
+                "Islamabad",
+                "Quetta"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Islamabad became the capital of Pakistan in 1967.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10789,
+            "question_text": "Which river is known as the 'Lifeline of Pakistan'?",
+            "options": [
+                "Indus River",
+                "Jhelum River",
+                "Chenab River",
+                "Ravi River"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Indus River supports most of the agriculture and economy of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10790,
+            "question_text": "Who is known as the 'National Poet of Pakistan'?",
+            "options": [
+                "Allama Iqbal",
+                "Faiz Ahmed Faiz",
+                "Ahmed Faraz",
+                "Habib Jalib"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Allama Muhammad Iqbal is recognized as the national poet for his philosophy and contribution to the Pakistan Movement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10791,
+            "question_text": "What is the currency of Pakistan?",
+            "options": [
+                "Dollar",
+                "Rial",
+                "Rupee",
+                "Dinar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The official currency of Pakistan is the Pakistani Rupee (PKR).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10792,
+            "question_text": "In which city is the Ziarat Residency located?",
+            "options": [
+                "Quetta",
+                "Ziarat",
+                "Chaman",
+                "Gwadar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Quaid-e-Azam Residency is located in the town of Ziarat, Balochistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10793,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars appears red due to iron oxide (rust) on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10794,
+            "question_text": "Who was the first woman Prime Minister of Pakistan?",
+            "options": [
+                "Fatima Jinnah",
+                "Benazir Bhutto",
+                "Begum Ra'ana Liaquat",
+                "Hina Rabbani Khar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benazir Bhutto served as the Prime Minister twice, becoming the first woman to lead a Muslim nation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10795,
+            "question_text": "What does the 'K2' in mountain climbing refer to?",
+            "options": [
+                "A region in Balochistan",
+                "The second highest mountain in the world",
+                "A type of climate",
+                "A major dam"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "K2, located in the Karakoram range, is the second highest mountain on Earth after Mount Everest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10796,
+            "question_text": "Which international organization is headquartered in New York?",
+            "options": [
+                "World Health Organization",
+                "United Nations",
+                "World Bank",
+                "Red Cross"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The headquarters of the United Nations is located in New York City.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10797,
+            "question_text": "Which of the following is the official language of the Balochistan Provincial Assembly?",
+            "options": [
+                "Urdu",
+                "English",
+                "Balochi",
+                "All of the above"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "While Balochi, Pashto, and Brahui are spoken, Urdu is the official language used for legislative proceedings in provincial assemblies in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10798,
+            "question_text": "What is the primary source of water for the Gwadar Port project?",
+            "options": [
+                "Indus River",
+                "Mirani Dam",
+                "Hub Dam",
+                "Groundwater wells"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Mirani Dam is a key water infrastructure project in Balochistan built to provide water for irrigation and local use.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

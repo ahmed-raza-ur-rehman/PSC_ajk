@@ -1,0 +1,137 @@
+{
+    "category": "NTS",
+    "name": "Quantitative Skills",
+    "board": "nts",
+    "subject": "quantitative-skills",
+    "url": "/nts/quantitative-skills/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 8620,
+            "question_text": "What comes next: 3, 6, 12, 24, ...?",
+            "options": [
+                "36",
+                "48",
+                "42",
+                "30"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each number is doubled (24 * 2 = 48).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8763,
+            "question_text": "What is 50 percent of 50 percent of 100?",
+            "options": [
+                "25",
+                "50",
+                "75",
+                "10"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "50% of 100 is 50; 50% of 50 is 25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9246,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "15",
+                "20",
+                "30",
+                "40"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To calculate 15% of 200, multiply 200 by 0.15, which equals 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9247,
+            "question_text": "Solve: 5 + 3 * 2 - 1",
+            "options": [
+                "10",
+                "15",
+                "16",
+                "9"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Using the order of operations (PEMDAS/BODMAS), multiply first: 3*2=6, then add/subtract: 5+6-1=10.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9255,
+            "question_text": "What is 20% of 500?",
+            "options": [
+                "50",
+                "80",
+                "100",
+                "120"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "(20/100) * 500 = 0.2 * 500 = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9256,
+            "question_text": "Solve: 10 + 2 * 5 - 4",
+            "options": [
+                "16",
+                "56",
+                "20",
+                "24"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Following BODMAS: 2*5=10, 10+10=20, 20-4=16.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9257,
+            "question_text": "What is the next number in the series: 3, 6, 12, 24, ?",
+            "options": [
+                "36",
+                "48",
+                "30",
+                "42"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each number is multiplied by 2 to get the next number.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9258,
+            "question_text": "Calculate 15 percent of 200.",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "15/100 * 200 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9599,
+            "question_text": "What is 20 percent of 500?",
+            "options": [
+                "80",
+                "100",
+                "120",
+                "150"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "0.20 * 500 = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

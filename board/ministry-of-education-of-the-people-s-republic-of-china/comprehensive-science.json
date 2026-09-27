@@ -1,0 +1,263 @@
+{
+    "category": "Ministry of Education of the People's Republic of China",
+    "name": "Comprehensive Science",
+    "board": "ministry-of-education-of-the-people-s-republic-of-china",
+    "subject": "comprehensive-science",
+    "url": "/ministry-of-education-of-the-people-s-republic-of-china/comprehensive-science/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 18,
+    "questions": [
+        {
+            "id": 8990,
+            "question_text": "Which subatomic particle carries a negative electrical charge?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Positron"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Electrons are negatively charged subatomic particles that orbit the nucleus of an atom.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8991,
+            "question_text": "What is the chemical symbol for gold?",
+            "options": [
+                "Gd",
+                "Au",
+                "Ag",
+                "Fe"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Au is derived from the Latin word for gold, 'aurum'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8992,
+            "question_text": "Which organ in the human body is responsible for filtering blood?",
+            "options": [
+                "Heart",
+                "Lungs",
+                "Kidneys",
+                "Stomach"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The kidneys play a vital role in filtering waste products from the blood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8993,
+            "question_text": "What is the speed of light in a vacuum approximately?",
+            "options": [
+                "300,000 km/s",
+                "150,000 km/s",
+                "3,000 km/s",
+                "30,000 km/s"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The speed of light is approximately 299,792,458 meters per second.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8994,
+            "question_text": "Which law states that for every action, there is an equal and opposite reaction?",
+            "options": [
+                "Newton's First Law",
+                "Newton's Second Law",
+                "Newton's Third Law",
+                "Hooke's Law"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Newton's Third Law defines the nature of action-reaction pairs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8995,
+            "question_text": "What is the primary gas found in the Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up about 78% of Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8996,
+            "question_text": "Which organelle is known as the 'powerhouse' of the cell?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondria",
+                "Golgi Apparatus"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8997,
+            "question_text": "What is the pH level of a neutral solution at room temperature?",
+            "options": [
+                "0",
+                "7",
+                "10",
+                "14"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A pH of 7 is the baseline for neutral solutions like pure water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8998,
+            "question_text": "Which law describes the relationship between the pressure and volume of a gas?",
+            "options": [
+                "Newton's Law",
+                "Boyle's Law",
+                "Ohm's Law",
+                "Kepler's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Boyle's Law states that pressure is inversely proportional to volume for a gas at constant temperature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8999,
+            "question_text": "Which subatomic particle is negatively charged?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Nucleus"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Electrons carry a negative electrical charge, while protons are positive and neutrons are neutral.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9001,
+            "question_text": "Which organ filters waste from the blood?",
+            "options": [
+                "Heart",
+                "Liver",
+                "Kidney",
+                "Lungs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The kidneys are primarily responsible for filtering waste products from the blood and excreting them as urine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9002,
+            "question_text": "What is the approximate speed of light in a vacuum?",
+            "options": [
+                "300,000 km/s",
+                "150,000 km/s",
+                "1,000 km/s",
+                "3,000,000 km/s"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The speed of light in a vacuum is approximately 299,792 kilometers per second, often rounded to 300,000 km/s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9003,
+            "question_text": "Which physical law states that every action has an equal and opposite reaction?",
+            "options": [
+                "Newton's First Law",
+                "Newton's Second Law",
+                "Newton's Third Law",
+                "Law of Gravity"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Newton's Third Law states that for every action, there is an equal and opposite reaction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9004,
+            "question_text": "What is the most abundant gas in Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9005,
+            "question_text": "Which cell structure is the 'powerhouse' of the cell?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondria",
+                "Golgi apparatus"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are known as the powerhouses of the cell because they generate most of the cell's ATP.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9006,
+            "question_text": "What is the pH level of a neutral solution?",
+            "options": [
+                "0",
+                "7",
+                "14",
+                "1"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A pH of 7 represents a neutral solution, such as pure water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9007,
+            "question_text": "Which law states that pressure and volume of a gas are inversely proportional?",
+            "options": [
+                "Boyle's Law",
+                "Charles's Law",
+                "Ideal Gas Law",
+                "Dalton's Law"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Boyle's Law states that for a fixed amount of gas at a constant temperature, pressure and volume are inversely related.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9008,
+            "question_text": "Which process do plants use to convert light into chemical energy?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Fermentation",
+                "Transpiration"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Plants use photosynthesis to transform sunlight, water, and CO2 into food (glucose) and oxygen.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

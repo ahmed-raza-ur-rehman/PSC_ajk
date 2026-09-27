@@ -1,0 +1,179 @@
+{
+    "category": "National University of Modern Languages (NUML)",
+    "name": "Business Mathematics and Statistics",
+    "board": "national-university-of-modern-languages-numl",
+    "subject": "business-mathematics-and-statistics",
+    "url": "/national-university-of-modern-languages-numl/business-mathematics-and-statistics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12088,
+            "question_text": "What is the simple interest on $5,000 at an annual rate of 6% for 2 years?",
+            "options": [
+                "$300",
+                "$600",
+                "$900",
+                "$1,200"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Simple Interest = Principal * Rate * Time. $5,000 * 0.06 * 2 = $600.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12089,
+            "question_text": "Which measure of central tendency is most sensitive to extreme outliers in a dataset?",
+            "options": [
+                "Median",
+                "Mode",
+                "Arithmetic Mean",
+                "Range"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The arithmetic mean uses the sum of all values, so a very large or small outlier significantly shifts the average.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12090,
+            "question_text": "If a product costs $80 and is marked up by 25%, what is the final selling price?",
+            "options": [
+                "$90",
+                "$100",
+                "$105",
+                "$110"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "25% of $80 is $20. $80 + $20 = $100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12091,
+            "question_text": "Which statistical measure represents the middle value of a dataset when arranged in ascending order?",
+            "options": [
+                "Mean",
+                "Mode",
+                "Median",
+                "Range"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The median is defined as the middle value in a sorted data set.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12092,
+            "question_text": "Calculate the compound interest on $1,000 at 10% per annum for 2 years, compounded annually.",
+            "options": [
+                "$100",
+                "$200",
+                "$210",
+                "$1210"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Year 1 interest: $100. Year 2 interest on $1,100: $110. Total interest: $100 + $110 = $210.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12093,
+            "question_text": "What is the probability of rolling a 4 on a fair six-sided die?",
+            "options": [
+                "1/6",
+                "1/4",
+                "1/2",
+                "4/6"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since there is only one '4' and six possible outcomes, the probability is 1/6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12094,
+            "question_text": "In a distribution, if the mean, median, and mode are all equal, the distribution is said to be:",
+            "options": [
+                "Positively skewed",
+                "Negatively skewed",
+                "Symmetrical",
+                "Bimodal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In a perfectly symmetrical distribution (like the normal distribution), the center of data is identical for the mean, median, and mode.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12095,
+            "question_text": "What is the value of 'x' if 3x + 15 = 45?",
+            "options": [
+                "5",
+                "10",
+                "15",
+                "20"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 15 from 45 to get 30, then divide by 3 to get 10.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12096,
+            "question_text": "If a dataset has a standard deviation of 0, what does this imply?",
+            "options": [
+                "All values in the dataset are the same",
+                "The mean is zero",
+                "The sample size is zero",
+                "There is extreme variance"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Standard deviation measures dispersion. If there is no dispersion, all numbers must be identical to the mean.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12097,
+            "question_text": "If a sample size is 25 and the sum of values is 500, what is the arithmetic mean?",
+            "options": [
+                "20",
+                "25",
+                "12500",
+                "50"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The arithmetic mean is calculated by dividing the sum of values (500) by the number of items (25), resulting in 20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12098,
+            "question_text": "Which of the following describes a set of data with two modes?",
+            "options": [
+                "Unimodal",
+                "Bimodal",
+                "Multimodal",
+                "Symmetrical"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A dataset with two distinct values that appear most frequently is defined as bimodal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12099,
+            "question_text": "What is the result of 15% of 800?",
+            "options": [
+                "100",
+                "110",
+                "120",
+                "130"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "15% is equivalent to 0.15. Multiplying 0.15 by 800 equals 120.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

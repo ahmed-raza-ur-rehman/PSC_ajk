@@ -1,0 +1,165 @@
+{
+    "category": "University of Management and Technology",
+    "name": "Physics",
+    "board": "university-of-management-and-technology",
+    "subject": "physics",
+    "url": "/university-of-management-and-technology/physics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 12712,
+            "question_text": "According to Newton's Second Law of Motion, force is equal to mass multiplied by what?",
+            "options": [
+                "Velocity",
+                "Acceleration",
+                "Distance",
+                "Time"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Newton's Second Law is expressed by the formula F = ma, where F is force, m is mass, and a is acceleration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12713,
+            "question_text": "What is the unit of electrical resistance?",
+            "options": [
+                "Ampere",
+                "Volt",
+                "Ohm",
+                "Watt"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Ohm is the SI unit of electrical resistance, named after Georg Simon Ohm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12714,
+            "question_text": "Which physical quantity is a measure of the amount of matter in an object?",
+            "options": [
+                "Weight",
+                "Mass",
+                "Density",
+                "Volume"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mass is a scalar quantity representing the amount of matter, while weight is the force exerted by gravity on that mass.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12715,
+            "question_text": "What is the phenomenon where light waves bend as they pass from one medium to another?",
+            "options": [
+                "Reflection",
+                "Diffraction",
+                "Refraction",
+                "Polarization"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Refraction is the bending of a wave resulting from a change in its speed when entering a different medium.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12716,
+            "question_text": "Which law states that energy cannot be created or destroyed, only transformed?",
+            "options": [
+                "First Law of Thermodynamics",
+                "Second Law of Thermodynamics",
+                "Newton's Third Law",
+                "Hooke's Law"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The conservation of energy principle is defined by the First Law of Thermodynamics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12717,
+            "question_text": "What is the SI unit for pressure?",
+            "options": [
+                "Joule",
+                "Watt",
+                "Pascal",
+                "Newton"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Pascal (Pa) is defined as one Newton per square meter.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12718,
+            "question_text": "If an object is in free fall near the Earth's surface, what is the acceleration due to gravity approximately?",
+            "options": [
+                "8.9 m/s²",
+                "9.8 m/s²",
+                "10.5 m/s²",
+                "9.2 m/s²"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Standard acceleration due to gravity on Earth is approximately 9.8 m/s².",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12719,
+            "question_text": "What is the work done if a force of 10 N moves an object 5 meters in the direction of the force?",
+            "options": [
+                "2 Joules",
+                "15 Joules",
+                "50 Joules",
+                "500 Joules"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Work is calculated as Force times Distance (W = F * d). 10 N * 5 m = 50 J.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12720,
+            "question_text": "Which color of visible light has the shortest wavelength?",
+            "options": [
+                "Red",
+                "Yellow",
+                "Green",
+                "Violet"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "In the visible spectrum, violet light has the highest frequency and shortest wavelength.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12721,
+            "question_text": "According to Ohm's Law, what is the current in a circuit with a resistance of 10 ohms and a voltage of 20 volts?",
+            "options": [
+                "0.5 Amps",
+                "2 Amps",
+                "30 Amps",
+                "200 Amps"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Current (I) = Voltage (V) / Resistance (R). 20 / 10 = 2 A.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12722,
+            "question_text": "What is the speed of light in a vacuum approximately?",
+            "options": [
+                "3 x 10^5 m/s",
+                "3 x 10^8 m/s",
+                "3 x 10^10 m/s",
+                "3 x 10^12 m/s"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The speed of light in a vacuum is a universal physical constant equal to approximately 300,000,000 meters per second.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

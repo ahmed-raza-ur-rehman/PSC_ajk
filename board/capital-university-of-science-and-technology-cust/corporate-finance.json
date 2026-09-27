@@ -1,0 +1,151 @@
+{
+    "category": "Capital University of Science and Technology (CUST)",
+    "name": "Corporate Finance",
+    "board": "capital-university-of-science-and-technology-cust",
+    "subject": "corporate-finance",
+    "url": "/capital-university-of-science-and-technology-cust/corporate-finance/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11865,
+            "question_text": "What is the Weighted Average Cost of Capital (WACC)?",
+            "options": [
+                "The cost of debt only",
+                "The average return expected by shareholders",
+                "The minimum return a company must earn on existing assets to satisfy creditors and shareholders",
+                "The total interest paid on corporate bonds"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "WACC is the weighted average of the costs of different sources of capital (debt, equity, preference shares).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11866,
+            "question_text": "Which capital budgeting technique considers the time value of money?",
+            "options": [
+                "Payback Period",
+                "Accounting Rate of Return",
+                "Net Present Value (NPV)",
+                "Average Rate of Return"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "NPV discounts future cash flows back to the present value using a required rate of return, thus accounting for the time value of money.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11868,
+            "question_text": "What is the Internal Rate of Return (IRR) of a project?",
+            "options": [
+                "The rate that equates the present value of inflows to the initial investment",
+                "The interest rate charged by the bank",
+                "The dividend yield of the company",
+                "The rate of inflation expected over the project life"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "IRR is the discount rate that makes the Net Present Value (NPV) of all cash flows from a project equal to zero.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11869,
+            "question_text": "Which of the following is considered an 'equity' source of financing?",
+            "options": [
+                "Bank loans",
+                "Corporate bonds",
+                "Common stock issuance",
+                "Accounts payable"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Issuing common stock represents ownership interest in the firm, which is defined as equity financing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11870,
+            "question_text": "What does a company's 'Capital Structure' refer to?",
+            "options": [
+                "The total assets owned by the company",
+                "The mix of debt and equity used to finance operations",
+                "The total number of employees",
+                "The geographic location of corporate headquarters"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Capital structure is the specific mix of debt and equity used to finance a company's assets and growth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11871,
+            "question_text": "What does the Net Present Value (NPV) rule suggest?",
+            "options": [
+                "Accept projects with positive NPV",
+                "Accept projects with negative NPV",
+                "Reject all projects regardless of NPV",
+                "Accept projects with zero NPV only"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A positive NPV indicates that the project is expected to create value for the firm and increase shareholder wealth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11872,
+            "question_text": "Which component of the WACC represents the cost of equity?",
+            "options": [
+                "The interest rate on corporate bonds",
+                "The expected return required by shareholders",
+                "The tax shield on debt",
+                "The cost of short-term bank loans"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The cost of equity is the return that shareholders require for providing capital to the firm, often calculated using CAPM.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11873,
+            "question_text": "Financial leverage is defined as:",
+            "options": [
+                "The use of debt in a firm's capital structure",
+                "The amount of cash held by the firm",
+                "The total assets divided by total liabilities",
+                "The ratio of net income to total revenue"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Leverage involves borrowing funds to finance assets, with the goal of increasing the return on equity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11874,
+            "question_text": "Which of the following is an example of a capital budgeting decision?",
+            "options": [
+                "Determining the level of inventory to hold",
+                "Deciding whether to replace old machinery with new technology",
+                "Setting the dividend payout policy",
+                "Deciding how much cash to keep in the bank"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Capital budgeting involves long-term investments in assets that will provide returns over several years.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11875,
+            "question_text": "What is the primary purpose of a 'rights issue' in corporate finance?",
+            "options": [
+                "To pay off short-term debt",
+                "To raise new capital by offering existing shareholders the right to buy new shares",
+                "To reduce the number of shares outstanding",
+                "To increase the market price of the stock immediately"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A rights issue allows current shareholders to purchase additional shares, usually at a discount, to raise equity capital.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "ETS (Educational Testing Service)",
+    "name": "Listening",
+    "board": "ets-educational-testing-service",
+    "subject": "listening",
+    "url": "/ets-educational-testing-service/listening/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 9384,
+            "question_text": "What is a main feature of the TOEFL iBT Listening section?",
+            "options": [
+                "It only tests the ability to understand formal lectures.",
+                "It includes tasks like listening to conversations and academic talks.",
+                "It requires the student to record their own voice responses.",
+                "It focuses primarily on identifying regional accents."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test structure table lists 'Listen to a Conversation' and 'Listen to an Academic Talk' as part of the Listening section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9385,
+            "question_text": "Which of the following is NOT listed as a task type in the Listening section?",
+            "options": [
+                "Listening to a conversation",
+                "Listening to an announcement",
+                "Writing a formal email",
+                "Listening and choosing a response"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Writing a formal email is a task listed under the Writing section, not the Listening section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9386,
+            "question_text": "What is the main format of the Listening section?",
+            "options": [
+                "Watching silent films and describing them",
+                "Listening to audio clips and responding to questions",
+                "Reading a transcript and answering questions",
+                "Listening to music and identifying the genre"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Listening section involves listening to conversations, announcements, and talks, then choosing the best response based on that audio.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9387,
+            "question_text": "Which of these is a typical source material in the Listening section?",
+            "options": [
+                "A technical science textbook",
+                "An academic talk or lecture",
+                "A poem written in an archaic language",
+                "A personal diary entry"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Academic talks and lectures are core components of the Listening section because they mimic university classroom environments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9388,
+            "question_text": "What is the approximate base time for the Listening section?",
+            "options": [
+                "5 minutes",
+                "29 minutes",
+                "60 minutes",
+                "120 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Based on the test structure table, the base time for the Listening section is approximately 29 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9389,
+            "question_text": "Which task type is part of the Listening section?",
+            "options": [
+                "Listen and Repeat",
+                "Listen to an Announcement",
+                "Write an Email",
+                "Build a Sentence"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Listening to an announcement is a documented task type in the TOEFL iBT Listening section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9390,
+            "question_text": "Can a student take notes during the Listening section?",
+            "options": [
+                "No, note-taking is prohibited",
+                "Yes, notes are allowed",
+                "Only at the end of the section",
+                "Only if they use a tablet"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Test takers are allowed to take notes during the test using provided materials like scratch paper or whiteboards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9392,
+            "question_text": "Is taking notes allowed during the Listening section?",
+            "options": [
+                "Yes, taking notes is permitted",
+                "No, note-taking is strictly forbidden",
+                "Only at the beginning of the section",
+                "Only if you have a medical reason"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Test takers are encouraged to take notes during the listening portions to help them answer questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9393,
+            "question_text": "Which of the following is an example of source material in the Listening section?",
+            "options": [
+                "A technical instruction manual",
+                "An academic talk or lecture",
+                "A popular song with lyrics",
+                "A silent film without audio"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Academic talks and lectures are standard materials used to assess listening skills in an academic setting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9395,
+            "question_text": "Which item type would you likely encounter in the Listening section?",
+            "options": [
+                "Listen to a conversation",
+                "Write an essay based on a prompt",
+                "Read a poem aloud",
+                "Complete a math equation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Listening to conversations between students or students and professors is a core task in this section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

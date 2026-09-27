@@ -1,0 +1,221 @@
+{
+    "category": "UET Lahore",
+    "name": "Chemistry / Computer Science / Statistics / Biology",
+    "board": "uet-lahore",
+    "subject": "chemistry-computer-science-statistics-biology",
+    "url": "/uet-lahore/chemistry-computer-science-statistics-biology/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 10333,
+            "question_text": "Which of the following compounds exhibits hydrogen bonding?",
+            "options": [
+                "CH4",
+                "H2O",
+                "HCl",
+                "H2S"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hydrogen bonding occurs when hydrogen is covalently bonded to highly electronegative atoms like oxygen, nitrogen, or fluorine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10334,
+            "question_text": "What is the oxidation state of Manganese in KMnO4?",
+            "options": [
+                "+2",
+                "+4",
+                "+7",
+                "+6"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Potassium is +1, Oxygen is -2. 1 + Mn + 4(-2) = 0 => 1 + Mn - 8 = 0 => Mn = +7.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10335,
+            "question_text": "Which element has the highest electronegativity?",
+            "options": [
+                "Oxygen",
+                "Fluorine",
+                "Nitrogen",
+                "Chlorine"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fluorine is the most electronegative element in the periodic table.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10336,
+            "question_text": "In a computer system, what does RAM stand for?",
+            "options": [
+                "Readily Available Memory",
+                "Random Access Memory",
+                "Rapid Access Memory",
+                "Read Access Module"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "RAM is the standard term for the volatile memory used in computers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10337,
+            "question_text": "What is the primary function of Mitochondria in a cell?",
+            "options": [
+                "Protein synthesis",
+                "Energy production",
+                "Waste removal",
+                "DNA storage"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mitochondria are known as the powerhouses of the cell because they generate ATP.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10338,
+            "question_text": "Which statistical measure is most sensitive to outliers?",
+            "options": [
+                "Mean",
+                "Median",
+                "Mode",
+                "Range"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The mean is calculated by summing all values, so extreme values significantly shift the average.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10339,
+            "question_text": "Which reagent is used to test for the presence of starch?",
+            "options": [
+                "Benedict's solution",
+                "Iodine solution",
+                "Biuret reagent",
+                "Ethanol"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Iodine turns blue-black in the presence of starch.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10340,
+            "question_text": "Which of the following is a non-volatile memory?",
+            "options": [
+                "RAM",
+                "Cache",
+                "ROM",
+                "Registers"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "ROM (Read-Only Memory) retains its data even when power is turned off.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10341,
+            "question_text": "What is the pH of a neutral aqueous solution at 25 degrees Celsius?",
+            "options": [
+                "0",
+                "1",
+                "7",
+                "14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A pH of 7 represents neutrality, where hydrogen and hydroxide ion concentrations are equal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10342,
+            "question_text": "What is the variance of a constant set of data, e.g., {5, 5, 5}?",
+            "options": [
+                "5",
+                "1",
+                "0",
+                "Undefined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Variance measures dispersion; if all numbers are the same, there is no dispersion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10343,
+            "question_text": "In C++, which operator is used for memory allocation?",
+            "options": [
+                "malloc",
+                "alloc",
+                "new",
+                "create"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 'new' operator is used in C++ for dynamic memory allocation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10344,
+            "question_text": "Which organelle is known as the 'powerhouse of the cell'?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondria",
+                "Lysosome"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10345,
+            "question_text": "Which of the following is a standard deviation property?",
+            "options": [
+                "It is always positive",
+                "It is independent of origin",
+                "It is independent of scale",
+                "All of the above"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Standard deviation is the square root of variance and is by definition non-negative.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10346,
+            "question_text": "What is the hybridization of carbon in methane (CH4)?",
+            "options": [
+                "sp",
+                "sp2",
+                "sp3",
+                "dsp2"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Methane has four single bonds around the central carbon, resulting in sp3 hybridization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10347,
+            "question_text": "Which SQL command is used to retrieve data from a database?",
+            "options": [
+                "GET",
+                "EXTRACT",
+                "SELECT",
+                "FETCH"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The SELECT statement is used to fetch data from a database table.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

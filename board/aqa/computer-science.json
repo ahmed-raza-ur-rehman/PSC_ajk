@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Computer Science",
+    "board": "aqa",
+    "subject": "computer-science",
+    "url": "/aqa/computer-science/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8808,
+            "question_text": "Which of these is an example of volatile memory?",
+            "options": [
+                "Hard Disk Drive",
+                "ROM",
+                "RAM",
+                "Flash Drive"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "RAM (Random Access Memory) is volatile because it loses its data when the power is turned off.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8809,
+            "question_text": "Which of these is classified as volatile memory?",
+            "options": [
+                "Hard Disk Drive (HDD)",
+                "Random Access Memory (RAM)",
+                "Read Only Memory (ROM)",
+                "Solid State Drive (SSD)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Volatile memory, like RAM, requires power to maintain the stored information; it is cleared when the computer is turned off.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8810,
+            "question_text": "Which of the following is considered volatile memory?",
+            "options": [
+                "Hard Disk Drive",
+                "Random Access Memory (RAM)",
+                "Solid State Drive",
+                "USB Flash Drive"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "RAM is volatile because it loses all stored data when the power supply is turned off.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8811,
+            "question_text": "What is the smallest unit of data in a computer?",
+            "options": [
+                "Byte",
+                "Gigabyte",
+                "Bit",
+                "Kilobyte"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A 'bit' is a binary digit, representing either 0 or 1, and is the smallest unit of digital data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

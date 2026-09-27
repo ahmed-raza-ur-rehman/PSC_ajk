@@ -1,0 +1,655 @@
+{
+    "category": "Islamabad Police",
+    "name": "English",
+    "board": "islamabad-police",
+    "subject": "english",
+    "url": "/islamabad-police/english/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 46,
+    "questions": [
+        {
+            "id": 6992,
+            "question_text": "Which structural component of the Earth's atmosphere is crucial for absorbing high-energy ultraviolet (UV) radiation, thereby protecting life on the surface?",
+            "options": [
+                "Nitrogen layer, which provides atmospheric stability.",
+                "Ozone layer, located primarily in the stratosphere.",
+                "Tropospheric gases, which contain water vapor.",
+                "Mesospheric aerosols, which scatter light."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ozone layer (O₃) in the stratosphere is highly effective at absorbing the harmful UV-B and UV-C wavelengths of solar radiation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6993,
+            "question_text": "Which Nobel laureate, renowned for his work in theoretical physics, was born in Peshawar and contributed significantly to the field of quantum mechanics?",
+            "options": [
+                "Syed Akhtar Khan",
+                "N/A (No such laureate)",
+                "Altaf Hussain",
+                "Muhammad Rashid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "No Nobel laureate in theoretical physics has been found to have been born in Peshawar. This question tests knowledge of biographical facts and requires identifying the flaw in the premise.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7056,
+            "question_text": "Which of the following biological macromolecules are primarily responsible for maintaining the structural integrity and tensile strength of connective tissues like bone and tendons?",
+            "options": [
+                "Fibronectin",
+                "Elastin",
+                "Collagen",
+                "Keratin"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Collagen is the most abundant protein in the body and provides immense tensile strength to connective tissues.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7057,
+            "question_text": "The Nobel Peace Prize is traditionally awarded to institutions or individuals for efforts to prevent or alleviate human suffering. Which of the following groups has repeatedly been honored for promoting civil rights and self-determination across various nations?",
+            "options": [
+                "The Council on Foreign Relations (CFR)",
+                "The European Council on Foreign Relations (ECFR)",
+                "The Carnegie Endowment for International Peace",
+                "Amnesty International"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Amnesty International is a highly recognized human rights organization frequently cited and honored for its work in civil liberties. While the others are think tanks, they are not the primary recipients of this specific recognition for its activism.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7248,
+            "question_text": "Which type of wave propagation is responsible for the phenomenon of 'super-refraction' in radio communication, making long-distance broadcast signals more reliable?",
+            "options": [
+                "Total internal reflection at the mesosphere boundary",
+                "Normal incidence through an atmospheric layer gradient",
+                "Dispersion caused by plasma frequency shifts in the ionosphere",
+                "Gradient-induced bending due to varying atmospheric permittivity"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Super-refraction is the bending of radio waves due to the gradient of the refractive index (permittivity) in the atmosphere, enhancing line-of-sight signal propagation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7249,
+            "question_text": "Which Nobel Peace Prize winner, known for his activism in South Africa, was awarded the prize following the end of apartheid and advocated for non-violent resistance?",
+            "options": [
+                "Mandela",
+                "Nkrumah",
+                "Mandella's",
+                "Mandella"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Nelson Mandela was a key figure in the anti-apartheid struggle, winning the Nobel Peace Prize in 1993.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7312,
+            "question_text": "In modern electrical circuits, what instrument is used specifically to measure the rate of flow of electrical charge (current)?",
+            "options": [
+                "Wattmeter (measuring power).",
+                "Ammeter (measuring current).",
+                "Galvanometer (measuring resistance).",
+                "Voltmeter (measuring potential difference)."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Current is defined as the rate of flow of electrical charge (measured in Amperes). An Ammeter is the dedicated instrument designed specifically to measure this current (I).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7313,
+            "question_text": "Which global initiative, primarily aimed at combating climate change and promoting sustainable development, was adopted at the Rio Earth Summit and later formalized into the 2030 Agenda for Sustainable Development?",
+            "options": [
+                "Agenda 21",
+                "Kyoto Protocol",
+                "Paris Agreement",
+                "Sustainable Development Goals (SDGs)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The SDGs are the comprehensive 17 goals adopted following the 2015 Sustainable Development Summit, encompassing broader goals beyond the scope of the Paris Agreement (which focuses on climate). (Note: While the Paris Agreement is critical, the SDGs are the overarching framework.)",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7376,
+            "question_text": "If a patient's blood glucose level is critically high (hyperglycemia), which biological process is primarily responsible for the subsequent increased excretion of glucose through the urine?",
+            "options": [
+                "Osmotic pressure imbalance across the glomerulus.",
+                "The action of kidney tubules absorbing excess sodium ions.",
+                "Increased renin activity causing systemic blood pressure drops.",
+                "The inability of the renal tubules to reabsorb glucose effectively (renal threshold exceeded)."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The kidneys normally reabsorb virtually all glucose filtered. When the glucose load exceeds the tubular maximum capacity (the renal threshold), the excess glucose is excreted in the urine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7377,
+            "question_text": "The historical treaty that officially marked the beginning of the Partition of India, leading to the creation of Pakistan, was signed in which city?",
+            "options": [
+                "Sealdah",
+                "Mecca",
+                "Lahore",
+                "Karachi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "While the final partition arrangements were complex, the resolution and formal movement for Pakistan were solidified by the Lahore Resolution (Pakistan Resolution) passed in Lahore in 1940.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7440,
+            "question_text": "In simple terms, the basic unit of energy transfer in biological systems, utilized by mitochondria, is:",
+            "options": [
+                "Glucose",
+                "Electrons",
+                "ATP (Adenosine Triphosphate)",
+                "Carbon Dioxide"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "ATP is the primary energy-carrying molecule that all living organisms use to perform chemical work.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7441,
+            "question_text": "Which international forum mandates cooperation among member states regarding climate change mitigation and sustainable development goals (SDGs), making it highly relevant for Pakistani policy objectives?",
+            "options": [
+                "International Monetary Fund (IMF)",
+                "United Nations Framework Convention on Climate Change (UNFCCC)",
+                "World Bank Group (WBG)",
+                "World Trade Organization (WTO)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The UNFCCC coordinates global efforts, setting policy frameworks and targets for reducing greenhouse gas emissions and addressing climate change, which is critical for developing nations like Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7504,
+            "question_text": "If a solution's pH value increases significantly, what primary change is most likely occurring to the concentration of hydrogen ions?",
+            "options": [
+                "The solution's temperature must also increase.",
+                "The total salt concentration increases.",
+                "The concentration of hydrogen ions (H+) decreases.",
+                "The concentration of hydroxide ions (OH-) increases."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "pH is defined as -log[H+]. Therefore, an increase in pH signifies a decrease in the hydrogen ion concentration ([H+]), indicating that the solution is becoming more basic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7505,
+            "question_text": "Which major international economic body provides financial assistance to member countries to stabilize their economies and prevent crises, often requiring structural adjustments?",
+            "options": [
+                "International Monetary Fund (IMF)",
+                "Asian Development Bank (ADB)",
+                "World Bank (IBRD)",
+                "New Development Bank (NDB)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The IMF focuses on overseeing the international monetary system and providing temporary financial support to countries facing balance of payments difficulties.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7569,
+            "question_text": "Which national regulatory body in Pakistan is responsible for supervising and regulating the establishment and operations of private educational institutions, ensuring adherence to academic standards and quality control?",
+            "options": [
+                "Federal Public Service Commission (FPSC)",
+                "Pakistan Engineering Council (PEC)",
+                "Higher Education Commission (HEC)",
+                "National Council of Testing (NCT)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Higher Education Commission (HEC) is the apex body overseeing quality assurance, standards, and regulation across all levels of higher education in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7680,
+            "question_text": "When exposed to high temperatures, which component of the skin acts as the primary protective barrier against dehydration?",
+            "options": [
+                "Sebum secreted by the sebaceous glands.",
+                "Melanin granules produced by melanocytes.",
+                "Keratinocytes in the stratum basale.",
+                "Water content within the stratum corneum."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The stratum corneum layer contains water trapped within its dead cells, which minimizes trans-epidermal water loss and acts as the primary defense against dehydration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7681,
+            "question_text": "The concept of 'Sustainable Development Goals' (SDGs) was formally adopted by which international body in 2015?",
+            "options": [
+                "World Trade Organization (WTO)",
+                "International Monetary Fund (IMF)",
+                "World Bank Group (WBG)",
+                "United Nations (UN)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The UN adopted the 17 Sustainable Development Goals (SDGs) as a universal call to action for all countries.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7784,
+            "question_text": "Which natural process is responsible for the phenomenon of tides in the ocean, and how does this force primarily interact with Earth's gravitational pull?",
+            "options": [
+                "Atmospheric pressure changes coupled with thermal expansion of ocean water.",
+                "Interaction of high-altitude winds creating pressure gradients perpendicular to the coastline.",
+                "Earth's rotation speed causing centrifugal force that pushes water away from the equator.",
+                "Gravitational pull from the Moon and Sun creating differential forces (spring/neap tides)."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Tides are primarily caused by the differential gravitational forces exerted by the Moon and Sun, resulting in high (spring) and low (neap) tides.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7785,
+            "question_text": "Which award recognizes the highest level of achievement in Pakistan's scientific and technological fields, often presented at a national level?",
+            "options": [
+                "National Achievement Award (NAA)",
+                "Platinum Research Fellowship (PRF)",
+                "Distinguished Scientist Prize (DSP)",
+                "Pakistan Science Award (PSA)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Pakistan Science Award (PSA) is the established national recognition for significant contributions to science and technology in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7836,
+            "question_text": "Which biological process is primarily responsible for converting solar energy into chemical energy stored in glucose molecules?",
+            "options": [
+                "Photosynthesis",
+                "Respiration",
+                "Transpiration",
+                "Glycolysis"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Photosynthesis is the process utilized by plants and certain organisms to convert light energy (solar energy) into stored chemical energy (glucose) using carbon dioxide and water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7837,
+            "question_text": "In the context of global economic forums, which grouping of major developing and rapidly industrializing economies is most often associated with promoting coordinated economic policy and structural reforms on an international scale?",
+            "options": [
+                "G77 (Group of 77)",
+                "SCO (Shanghai Cooperation Organization)",
+                "BRICS (Brazil, Russia, India, China, South Africa)",
+                "G20 (Group of Twenty)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The G20 is an international forum that includes major developed and emerging economies, focusing specifically on coordinating global economic policy and financial stability among its diverse members.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7886,
+            "question_text": "Which biological process is primarily responsible for converting solar energy into chemical energy (glucose) within plant chloroplasts?",
+            "options": [
+                "Photosynthesis",
+                "Glycolysis",
+                "Respiration",
+                "Transpiration"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Photosynthesis is the process that utilizes sunlight, water, and CO2 to produce glucose (chemical energy).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7887,
+            "question_text": "The award given for exceptional contributions to the field of environmental science and global sustainability, often recognized by prominent academic bodies, is typically associated with which international honor?",
+            "options": [
+                "The Pulitzer Prize for Journalism",
+                "The Stockholm Environment Council Medal",
+                "The Kyoto Prize",
+                "The Nobel Peace Prize"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Kyoto Prize, established by the Japan Academy for Sciences, specifically honors those who contribute to the sustainability of human civilization and the environment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7931,
+            "question_text": "Which natural substance is primarily responsible for maintaining the slightly alkaline pH of human blood?",
+            "options": [
+                "Sodium chloride (NaCl).",
+                "Bicarbonate buffer system ($\text{HCO}_3^{-}$).",
+                "Calcium carbonate ($\text{CaCO}_3$).",
+                "Phosphate buffer system ($\text{HPO}_4^{2-}$)."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The bicarbonate buffer system is the most crucial extracellular buffer system that helps regulate blood pH.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7932,
+            "question_text": "Which major international summit primarily focuses on coordinating efforts to address climate change and environmental degradation on a global scale?",
+            "options": [
+                "G20 Summit",
+                "Asian Development Bank Meeting",
+                "COP (Conference of the Parties)",
+                "BRICS Summit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The COP meetings, organized under the UN Framework Convention on Climate Change (UNFCCC), are the primary global platform for addressing climate change.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7980,
+            "question_text": "Total Internal Reflection (TIR), a fundamental principle in fiber optics, can only occur when light travels from which type of medium?",
+            "options": [
+                "From a less optically dense medium to a more optically dense medium",
+                "From a more optically dense medium to a less optically dense medium",
+                "From a vacuum to any transparent medium",
+                "Through a polarized medium perpendicular to the boundary surface"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "TIR requires light to travel from a higher refractive index (optically dense) medium to a lower refractive index (optically less dense) medium, and the angle of incidence must exceed the critical angle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7981,
+            "question_text": "The Nobel Peace Prize is traditionally awarded to an individual or organization that has made outstanding contributions to:",
+            "options": [
+                "Scientific research and global health initiatives.",
+                "Advancing international trade agreements and economic stability.",
+                "Promoting peace and promoting human rights.",
+                "Diplomatic mediation between permanent UN Security Council members."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The prize is awarded for promoting international peace and undertaking efforts to abolish war and institute lasting peace.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8031,
+            "question_text": "Which atmospheric phenomenon is primarily responsible for the blue hue observed during the early morning and late evening hours, a phenomenon often referred to as 'twilight'? (Note: This phenomenon is distinct from the general scattering of light by Rayleigh scattering)",
+            "options": [
+                "Fluorescence reaction triggered by ozone depletion in the mesosphere",
+                "Differential refraction caused by temperature inversions near the horizon",
+                "Atmospheric scattering of blue light due to longer path lengths",
+                "The combination of Mie and Rayleigh scattering at low solar angles"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The visible spectrum during twilight involves both Rayleigh scattering (responsible for blue) and Mie scattering (responsible for hazier colors), combined over long paths.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8032,
+            "question_text": "The Nobel Prize in Literature was initially intended to recognize literary contribution based on which foundational concept?",
+            "options": [
+                "Historical narrative and geopolitical commentary",
+                "Outstanding contributions to world literature",
+                "Excellence in dramatic poetry and verse",
+                "Scientific literary translation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nobel Prize in Literature is awarded for outstanding work in an area of literature that enhances global knowledge and appreciation, encompassing all forms of world literature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8078,
+            "question_text": "In the context of basic physics and material science, what phenomenon best describes the resistance of an electrical conductor to changes in the magnitude of an applied electric field?",
+            "options": [
+                "Dielectric constant",
+                "Conductance",
+                "Resistivity",
+                "Permeability"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The dielectric constant measures a material's ability to store electrical energy when placed in an electric field, characterizing its response to field changes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8128,
+            "question_text": "When a non-volatile solute (like salt) is added to a solvent (like water), the resulting solution demonstrates which colligative property?",
+            "options": [
+                "Increase in the boiling point and freezing point",
+                "Change in molecular polarity and viscosity",
+                "Decrease in vapor pressure and chemical potential",
+                "Lowering of the boiling point and freezing point"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The addition of solutes lowers the freezing point (freezing point depression) and also lowers the boiling point (boiling point elevation), a principle known as colligative properties.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8129,
+            "question_text": "In the context of Pakistan's academic and civil service history, which board is responsible for setting the standards and conducting recruitment exams for government positions across various provinces, often working in tandem with provincial governments?",
+            "options": [
+                "Pakistan Engineering Council (PEC)",
+                "Higher Education Commission (HEC)",
+                "National Testing Service (NTS)",
+                "Federal Public Service Commission (FPSC)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The FPSC is the constitutional body tasked with recruiting civil servants for federal government services across Pakistan. HEC relates to university degrees, PEC to engineering practice, and NTS conducts various standardized tests.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8178,
+            "question_text": "Which common household item is used to convert electrical energy into mechanical energy by utilizing the principles of electromagnetic induction?",
+            "options": [
+                "Electric Motor",
+                "Vacuum Cleaner Motor",
+                "Incandescent Bulb",
+                "Transformer"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An electric motor converts electrical energy into mechanical energy by utilizing the principles of electromagnetic induction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8228,
+            "question_text": "If a solution has a pH of 3, what can be accurately stated about its hydrogen ion concentration ($\text{[H}^+]$)?",
+            "options": [
+                "The concentration is significantly lower than neutral water.",
+                "The concentration is 1000 times higher than that of neutral water.",
+                "The concentration is exactly one-thousandth (1/1000th) that of neutral water.",
+                "The concentration is equal to that of pure water."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A pH of 3 means the hydrogen ion concentration is $10^{-3}$ M. Compared to neutral water ($\text{pH}=7$ and $[\text{H}^+] = 10^{-7}$ M), this concentration is $10^4$ (or 10,000) times higher, establishing it as a highly acidic solution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8229,
+            "question_text": "The recent World Economic Forum (WEF) summit held in Davos focused heavily on which emerging global geopolitical challenge, prompting new collaborative governance models?",
+            "options": [
+                "Mitigating the impact of transboundary climate change effects",
+                "The integration of AI ethics into global labor markets",
+                "Standardizing global digital currency exchange rates",
+                "Addressing the resource scarcity caused by rapid urbanization"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Climate change remains the most critical and complex issue consistently highlighted at the WEF, requiring multilateral cooperation and advanced mitigation strategies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8276,
+            "question_text": "Consider the following pairings of Pakistani historical figures and the associated awards/titles they received: 1. Allama Iqbal: Poet-Philosopher; 2. Muhammad Ali Jinnah: Quaid-e-Azam; 3. Liaquat Ali Khan: Beacon of Pakistan. Which of the above pairings are correctly matched?",
+            "options": [
+                "1 and 2 only",
+                "All are correctly matched",
+                "1 only",
+                "2 and 3 only"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Allama Iqbal is famously known as the Poet-Philosopher. Muhammad Ali Jinnah is known as Quaid-e-Azam. Liaquat Ali Khan was titled 'Nawab of Pakistan' or 'Second Founder', not 'Beacon of Pakistan'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8325,
+            "question_text": "Which component is primarily responsible for initiating the coagulation cascade in the blood, often involving contact with negatively charged surfaces?",
+            "options": [
+                "Prothrombin activation by Tissue Factor",
+                "Complement system C3a anaphylatoxin action",
+                "Fibrinogen binding to Thrombin receptors",
+                "Platelet phospholipids and Factor XII activation"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The initial phase involves the activation of intrinsic pathways (like Factor XII) upon contact with foreign or negatively charged surfaces, triggering the cascade.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8326,
+            "question_text": "The Paris Agreement (under the UNFCCC) fundamentally shifted global climate commitments toward which mechanism, emphasizing national ownership of climate action?",
+            "options": [
+                "Binding multilateral quotas set by the UN Security Council.",
+                "Mandatory adoption of renewable energy sources by all industrialized economies.",
+                "Global carbon tax levied uniformly across all developed nations.",
+                "Nationally Determined Contributions (NDCs) set by signatory nations."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Paris Agreement operationalizes a 'bottom-up' approach where each participating country sets and updates its own climate goals, formally known as Nationally Determined Contributions (NDCs).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8373,
+            "question_text": "Which prominent scientist, known for his contributions to theoretical physics, is associated with the concept of general relativity, which fundamentally changed our understanding of gravity and spacetime?",
+            "options": [
+                "Max Planck",
+                "Werner Heisenberg",
+                "Albert Einstein",
+                "Niels Bohr"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Albert Einstein developed the theory of general relativity, describing gravity not as a force, but as the curvature of spacetime caused by mass and energy. Bohr relates to atomic structure, and Planck introduced quantum theory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14092,
+            "question_text": "The principle behind the working of a centrifuge is based on which physical concept?",
+            "options": [
+                "Newton's First Law of Motion (inertia).",
+                "Buoyancy force (Archimedes' Principle).",
+                "Bernoulli's Principle (fluid dynamics).",
+                "Centrifugal force and sedimentation rate."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A centrifuge utilizes high rotational speed to create immense centrifugal force, causing components of different densities to sediment or separate based on their relative weight.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14093,
+            "question_text": "Which international body primarily recommends the 'list of countries not adequately possessing human rights,' thereby influencing international diplomatic pressure and potential sanctions?",
+            "options": [
+                "World Trade Organization (WTO) Dispute Settlement Body",
+                "Council of Foreign Ministers (CFM)",
+                "International Criminal Court (ICC) Prosecutor's Office",
+                "Universal Periodic Review (UPR) of the Human Rights Council"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The UPR is a mechanism of the UN Human Rights Council that reviews the human rights record of all UN member states, leading to recommendations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20361,
+            "question_text": "Which constitutional landmark introduced in Pakistan mandated the establishment of the Council of Common Interests (CCI) to resolve disputes between federating units?",
+            "options": [
+                "The Constitution of 1973 (amended over time)",
+                "The Local Government Ordinance (LGO) of 2001",
+                "The Second Amendment Act of 1974",
+                "The Interim Constitution of 1973"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The framework for the Council of Common Interests (CCI) was established and continually amended within the Constitution of 1973, which remains the fundamental law governing its structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20447,
+            "question_text": "Which type of lens is typically used in corrective eyewear to help individuals suffering from hypermetropia (farsightedness)?",
+            "options": [
+                "Convex (Converging) lens",
+                "Prismatic lens",
+                "Cylinder lens",
+                "Concave (Diverging) lens"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Hypermetropia is corrected using convex (converging) lenses because these lenses increase the converging power of the eye, allowing light to focus correctly on the retina.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20448,
+            "question_text": "Which international body is primarily responsible for monitoring and advising on best practices regarding cross-border data security and digital forensics standards?",
+            "options": [
+                "INTERPOL",
+                "OECD",
+                "ITU",
+                "UNESCO"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "INTERPOL plays a central role in providing coordination and standards for global law enforcement cooperation, including digital crime and forensics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20488,
+            "question_text": "In the context of biological systems and environmental health, what process is primarily responsible for converting atmospheric nitrogen (N2) into ammonia (NH3) or nitrates (NO3-)?",
+            "options": [
+                "Nitrogen Fixation",
+                "Assimilation",
+                "Ammonification",
+                "Denitrification"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Nitrogen fixation is the critical process, carried out by certain bacteria, that converts inert atmospheric nitrogen into biologically usable forms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20489,
+            "question_text": "Who among the following Pakistani personalities was awarded the Nishan-e-Pakistan for outstanding contributions to the nation's culture and literary field?",
+            "options": [
+                "Faiz Ahmed Faiz",
+                "Shaad Akhtar",
+                "Nusrat Fateh Ali Khan",
+                "Hasrat Masood"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Faiz Ahmed Faiz, a towering figure in Urdu literature, is widely recognized for his profound contributions to Pakistani culture and literary thought, often receiving high national recognition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

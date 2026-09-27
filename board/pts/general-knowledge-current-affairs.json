@@ -1,0 +1,151 @@
+{
+    "category": "PTS",
+    "name": "General Knowledge & Current Affairs",
+    "board": "pts",
+    "subject": "general-knowledge-current-affairs",
+    "url": "/pts/general-knowledge-current-affairs/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 9811,
+            "question_text": "Which city is known as the capital of Pakistan?",
+            "options": [
+                "Lahore",
+                "Islamabad",
+                "Karachi",
+                "Peshawar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Islamabad is the federal capital of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9812,
+            "question_text": "What is the primary objective of the Pakistan Testing Service (PTS)?",
+            "options": [
+                "To provide government loans",
+                "To promote merit and transparency in testing",
+                "To provide free medical treatment",
+                "To organize political elections"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to the official website, PTS is dedicated to promoting merit with integrity in testing and assessments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9815,
+            "question_text": "In the context of the Sindh Prisons & Corrections Service, what is the required height for male candidates?",
+            "options": [
+                "5 feet 2 inches",
+                "5 feet 4 inches",
+                "5 feet 5 inches",
+                "5 feet 7 inches"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to the official physical standards for the SPCS project, the minimum height for male candidates is 5 feet 5 inches.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9816,
+            "question_text": "Which city is the capital of Pakistan?",
+            "options": [
+                "Karachi",
+                "Lahore",
+                "Islamabad",
+                "Peshawar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Islamabad became the federal capital of Pakistan in the 1960s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9817,
+            "question_text": "What is the main goal of the Pakistan Testing Service (PTS)?",
+            "options": [
+                "To provide loans",
+                "To promote merit and transparency in testing",
+                "To build schools",
+                "To regulate political elections"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTS is a testing organization focused on fair and transparent assessment for jobs and admissions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9818,
+            "question_text": "Which city is the official capital of Pakistan?",
+            "options": [
+                "Lahore",
+                "Islamabad",
+                "Karachi",
+                "Rawalpindi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Islamabad was established as the federal capital of Pakistan in the 1960s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9819,
+            "question_text": "What is the main purpose of the Pakistan Testing Service (PTS)?",
+            "options": [
+                "To provide government loans",
+                "To construct roads and bridges",
+                "To conduct fair and transparent recruitment tests",
+                "To manage public parks"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "PTS is an organization dedicated to carrying out merit-based, transparent recruitment and admission assessments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9820,
+            "question_text": "According to the Sindh Prisons and Corrections Service standards, what is the minimum height required for a male candidate?",
+            "options": [
+                "5 feet 4 inches",
+                "5 feet 5 inches",
+                "5 feet 6 inches",
+                "5 feet 7 inches"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The official physical criteria for male candidates applying to the SPCS requires a minimum height of 5 feet 5 inches.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9821,
+            "question_text": "Which of these documents must be included with a PTS application form?",
+            "options": [
+                "A copy of the utility bill",
+                "A character certificate from a school",
+                "An original bank deposit slip (PTS copy)",
+                "A photocopy of a passport"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "PTS requires the original paid bank deposit slip as proof of fee payment to process the application.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9822,
+            "question_text": "What is the outcome if a candidate brings a mobile phone into the exam hall?",
+            "options": [
+                "A warning",
+                "A fine",
+                "Disqualification",
+                "Confiscation until the end of the test"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Carrying prohibited items like mobile phones is a violation of exam rules, leading to immediate disqualification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

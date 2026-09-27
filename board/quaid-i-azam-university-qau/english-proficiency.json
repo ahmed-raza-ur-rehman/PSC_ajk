@@ -1,0 +1,179 @@
+{
+    "category": "Quaid-i-Azam University (QAU)",
+    "name": "English Proficiency",
+    "board": "quaid-i-azam-university-qau",
+    "subject": "english-proficiency",
+    "url": "/quaid-i-azam-university-qau/english-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 10523,
+            "question_text": "Select the word that is most nearly opposite in meaning to 'Ephemeral'.",
+            "options": [
+                "Transient",
+                "Enduring",
+                "Fleeting",
+                "Momentary"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means lasting for a very short time; enduring is its direct opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10524,
+            "question_text": "Choose the correct sentence structure: 'Neither the manager nor the employees ___ aware of the new policy.'",
+            "options": [
+                "was",
+                "were",
+                "is",
+                "has been"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the closer subject, which is plural (employees).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10525,
+            "question_text": "Identify the word that is most nearly similar in meaning to 'Pragmatic'.",
+            "options": [
+                "Idealistic",
+                "Practical",
+                "Theoretical",
+                "Erratic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pragmatic refers to dealing with things sensibly and realistically, which is synonymous with being practical.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10526,
+            "question_text": "Choose the correctly punctuated sentence.",
+            "options": [
+                "The project was completed, however; it was late.",
+                "The project was completed; however, it was late.",
+                "The project was completed, however, it was late.",
+                "The project was completed however it was late."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A semicolon is used to join two independent clauses with a conjunctive adverb like 'however', followed by a comma.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10527,
+            "question_text": "Select the correct idiomatic expression to fill the blank: 'After years of hard work, he finally decided to ____ his business to focus on his family.'",
+            "options": [
+                "wind up",
+                "break down",
+                "put off",
+                "take out"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Wind up' is an idiom meaning to bring something to an end or close something down.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10528,
+            "question_text": "Choose the word that correctly completes the analogy: 'Artist is to Gallery as Curator is to ____.'",
+            "options": [
+                "Studio",
+                "Museum",
+                "Paint",
+                "Frame"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An artist exhibits work in a gallery, while a curator manages or oversees collections in a museum.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10529,
+            "question_text": "Which of the following sentences uses the passive voice?",
+            "options": [
+                "The chef prepared the meal.",
+                "The meal was prepared by the chef.",
+                "The chef is preparing the meal.",
+                "The chef will prepare the meal."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In passive voice, the object (the meal) becomes the subject of the action (prepared).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10530,
+            "question_text": "Select the most appropriate synonym for 'Resilient'.",
+            "options": [
+                "Fragile",
+                "Adaptable",
+                "Stubborn",
+                "Vulnerable"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Resilient describes someone who can recover quickly from difficulties, similar to being adaptable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10531,
+            "question_text": "Complete the sentence: 'Despite his ____ nature, he spoke eloquently during the debate.'",
+            "options": [
+                "reticent",
+                "gregarious",
+                "verbose",
+                "exuberant"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Reticent' means reserved or shy, which contrasts with speaking eloquently in a debate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10532,
+            "question_text": "Which word is spelled incorrectly?",
+            "options": [
+                "Accommodation",
+                "Necessary",
+                "Seperate",
+                "Occasion"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling is 'Separate'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10533,
+            "question_text": "Find the correct preposition: 'He has been waiting ____ the bus stop for an hour.'",
+            "options": [
+                "in",
+                "at",
+                "on",
+                "by"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'At' is used for a specific point or location like a bus stop.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10534,
+            "question_text": "Identify the tone of the sentence: 'Oh, fantastic! Another flat tire to add to my miserable day.'",
+            "options": [
+                "Sincere",
+                "Sarcastic",
+                "Optimistic",
+                "Formal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The speaker uses 'fantastic' to describe a negative event, indicating sarcasm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "category": "FPSC",
+    "name": "Islamic Studies",
+    "board": "fpsc",
+    "subject": "islamic-studies",
+    "url": "/fpsc/islamic-studies/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9690,
+            "question_text": "What is the meaning of the word 'Zakat' in Islam?",
+            "options": [
+                "Prayer",
+                "Fasting",
+                "Purification or Alms-giving",
+                "Pilgrimage"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Zakat is a form of compulsory alms-giving which acts as a means of purification for the giver's wealth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9691,
+            "question_text": "Which Surah of the Quran is known as the 'Heart of the Quran'?",
+            "options": [
+                "Surah Al-Baqarah",
+                "Surah Yaseen",
+                "Surah Al-Kahf",
+                "Surah Ar-Rahman"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Surah Yaseen is traditionally referred to as the heart of the Quran.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9693,
+            "question_text": "Who was the first female to accept Islam?",
+            "options": [
+                "Aisha bint Abu Bakr",
+                "Khadija bint Khuwaylid",
+                "Fatima bint Muhammad",
+                "Hafsa bint Umar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hazrat Khadija (RA) was the first person to embrace Islam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9694,
+            "question_text": "How many pillars are there in Islam?",
+            "options": [
+                "Four",
+                "Five",
+                "Six",
+                "Seven"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "There are five fundamental pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9695,
+            "question_text": "What is the term for the migration of the Prophet Muhammad (PBUH) from Makkah to Madinah?",
+            "options": [
+                "Fatah",
+                "Hijrah",
+                "Isra",
+                "Miraj"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hijrah is the migration of the Prophet (PBUH) and his followers from Makkah to Madinah in 622 CE.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9696,
+            "question_text": "In which month is the fast of Ramadan observed?",
+            "options": [
+                "Rajab",
+                "Shaban",
+                "Ramadan",
+                "Muharram"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ramadan is the ninth month of the Islamic lunar calendar, during which Muslims fast.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9697,
+            "question_text": "What is the primary significance of 'Zakat' in Islam?",
+            "options": [
+                "Optional charity",
+                "Obligatory almsgiving",
+                "A form of prayer",
+                "A type of fasting"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Zakat is one of the five pillars of Islam, requiring the giving of a portion of wealth to the needy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9698,
+            "question_text": "Which chapter of the Holy Quran is referred to as the 'Heart of the Quran'?",
+            "options": [
+                "Surah Al-Baqarah",
+                "Surah Yaseen",
+                "Surah Ar-Rahman",
+                "Surah Al-Mulk"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Surah Yaseen is traditionally known as the heart of the Quran.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9699,
+            "question_text": "Who is recognized as the first woman to embrace Islam?",
+            "options": [
+                "Aisha (R.A)",
+                "Fatima (R.A)",
+                "Khadija (R.A)",
+                "Hafsa (R.A)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Khadija (R.A) was the first person and first woman to accept Islam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9700,
+            "question_text": "How many fundamental pillars are there in Islam?",
+            "options": [
+                "Three",
+                "Four",
+                "Five",
+                "Six"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pillars are Shahada, Salat, Zakat, Sawm, and Hajj.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9701,
+            "question_text": "What term is used for the Prophet's (PBUH) migration from Makkah to Madinah?",
+            "options": [
+                "Fatah",
+                "Hijrah",
+                "Wahi",
+                "Isra"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hijrah denotes the migration, which marks the start of the Islamic calendar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9702,
+            "question_text": "During which month is the fast of Ramadan observed?",
+            "options": [
+                "Muharram",
+                "Rajab",
+                "Ramadan",
+                "Dhul-Hijjah"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ramadan is the ninth month of the Islamic calendar, dedicated to fasting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

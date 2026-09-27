@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Chemistry",
+    "board": "aqa",
+    "subject": "chemistry",
+    "url": "/aqa/chemistry/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8804,
+            "question_text": "What is the pH range of an acidic substance?",
+            "options": [
+                "Above 7",
+                "Exactly 7",
+                "Below 7",
+                "Between 8 and 14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "On the pH scale, substances with a value less than 7 are classified as acidic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8805,
+            "question_text": "On the pH scale, which range represents a substance that is acidic?",
+            "options": [
+                "7 to 10",
+                "0 to 6",
+                "8 to 14",
+                "Exactly 7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Acids have a pH value lower than 7, whereas 7 is neutral and above 7 is alkaline.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8806,
+            "question_text": "Which range on the pH scale indicates an acidic substance?",
+            "options": [
+                "Above 7",
+                "Exactly 7",
+                "Below 7",
+                "0 to 14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pH scale ranges from 0-14; anything below 7 is acidic, 7 is neutral, and above 7 is alkaline.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8807,
+            "question_text": "Which subatomic particle has a negative charge?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Nucleus"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Electrons carry a negative charge and orbit the positive nucleus of an atom.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

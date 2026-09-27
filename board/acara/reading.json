@@ -1,0 +1,179 @@
+{
+    "category": "ACARA",
+    "name": "Reading",
+    "board": "acara",
+    "subject": "reading",
+    "url": "/acara/reading/2026/subject-mcqs",
+    "country": "AU",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9136,
+            "question_text": "What is the primary purpose of the National Assessment Program (NAPLAN)?",
+            "options": [
+                "To rank schools against each other",
+                "To measure student progress in literacy and numeracy",
+                "To replace teacher assessments",
+                "To limit the Australian Curriculum content"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "NAPLAN is designed to determine if students are meeting important educational outcomes in essential skills like literacy and numeracy as defined in the Australian Curriculum.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9137,
+            "question_text": "Based on the provided information, why are NAPLAN tests conducted?",
+            "options": [
+                "To test students on everything in the curriculum",
+                "To check if students are developing essential life skills",
+                "To assign grades to individual students",
+                "To determine school funding based on performance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "NAPLAN assessments test knowledge of the Australian Curriculum to determine if students are developing essential skills they will need in life.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9138,
+            "question_text": "What is the primary function of ACARA's NAPLAN assessments?",
+            "options": [
+                "To grade students on their social behavior",
+                "To measure students' knowledge of the Australian Curriculum",
+                "To rank schools by their yearly budget",
+                "To determine which students get into university"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The website states that NAPLAN assessments test students' knowledge of the Australian Curriculum and identify whether they are developing essential literacy and numeracy skills.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9139,
+            "question_text": "According to the text, why does ACARA publish reports on NAPLAN results?",
+            "options": [
+                "To compare the salaries of teachers across Australia",
+                "To provide consistent information on student performance",
+                "To help private companies sell textbooks",
+                "To show which school has the most students"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ACARA reports NAPLAN results to provide nationally comparable data on student achievement for educators, policymakers, and the community.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9141,
+            "question_text": "Why must NAPLAN tests be conducted, as implied by the information?",
+            "options": [
+                "To ensure students can use calculators for every subject",
+                "To help identify if students are reaching key educational outcomes",
+                "To make sure every student lives in the same location",
+                "To provide a reason to cancel all other school subjects"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The website explains that NAPLAN is used as a nationally consistent measure to determine if students are meeting essential educational outcomes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9142,
+            "question_text": "Based on the 2026 update, what is a key takeaway regarding AI in schools?",
+            "options": [
+                "AI tools are banned from all Australian schools",
+                "Students are using AI, though overall test results have decreased",
+                "AI is not popular among Australian students",
+                "AI has caused a massive spike in literacy scores"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A 2026 report noted that Australian students are enthusiastic users of digital tools and AI, even while overall academic results showed a decline.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9143,
+            "question_text": "What is the main purpose of the 'My School' website?",
+            "options": [
+                "To sell school merchandise to parents",
+                "To offer private tutoring services to students",
+                "To share comparable information about schools in Australia",
+                "To host online classes for all schools"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The website is described as a resource for parents and the community to find comparable information about the performance and resources of schools.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9144,
+            "question_text": "What does 'decluttering' the curriculum imply in the 2022 media release?",
+            "options": [
+                "Removing unnecessary content to allow for deeper teaching",
+                "Adding more subjects to the school day",
+                "Removing all testing from primary schools",
+                "Making the curriculum longer and more complex"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The media release explains that decluttering involves the removal and reduction of content so that subjects can be taught with greater depth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9145,
+            "question_text": "What is the primary reason the Australian Curriculum was introduced?",
+            "options": [
+                "To improve quality, equity, and transparency in education",
+                "To charge parents more for school supplies",
+                "To ensure all students move to the same city",
+                "To make sure every school uses the same building design"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The curriculum was introduced to ensure consistency and to improve the transparency and quality of the national education system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9146,
+            "question_text": "What is the role of the 'ICSEA' value on the My School website?",
+            "options": [
+                "To measure the physical size of a school's library",
+                "To account for a school's socio-educational advantage when comparing results",
+                "To track how many students play sports each year",
+                "To determine the number of teachers employed at a school"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ICSEA stands for Index of Community Socio-Educational Advantage and is used to provide context for school performance comparisons.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9147,
+            "question_text": "What is the primary focus of the Foundation to Year 2 Mathematics iterative review?",
+            "options": [
+                "To remove all homework in mathematics",
+                "To strengthen curriculum through targeted refinements",
+                "To replace mathematics with art history",
+                "To mandate that all students use paper-based calculators"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The review aims to strengthen the F-2 maths curriculum through specific refinements, content sequencing, and clarifying support for teachers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9148,
+            "question_text": "Why is the NAPLAN national result report important for policy?",
+            "options": [
+                "It dictates the exact salary of every government minister",
+                "It helps identify where changes and support might be needed",
+                "It helps schools decide what color to paint their walls",
+                "It provides a list of recommended vacation spots for teachers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "NAPLAN results help government and education authorities understand how current approaches are working and guide system-wide policy decisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

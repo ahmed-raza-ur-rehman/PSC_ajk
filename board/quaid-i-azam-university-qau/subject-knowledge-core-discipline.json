@@ -1,0 +1,165 @@
+{
+    "category": "Quaid-i-Azam University (QAU)",
+    "name": "Subject Knowledge (Core Discipline)",
+    "board": "quaid-i-azam-university-qau",
+    "subject": "subject-knowledge-core-discipline",
+    "url": "/quaid-i-azam-university-qau/subject-knowledge-core-discipline/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10569,
+            "question_text": "In Physics, what is the SI unit of power?",
+            "options": [
+                "Joule",
+                "Newton",
+                "Watt",
+                "Pascal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Power is defined as energy transferred per unit time, and its SI unit is the Watt.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10570,
+            "question_text": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+            "options": [
+                "First Law",
+                "Second Law",
+                "Third Law",
+                "Law of Inertia"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Newton's Third Law states that every action has an equal and opposite reaction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10571,
+            "question_text": "What is the chemical symbol for Gold?",
+            "options": [
+                "Ag",
+                "Au",
+                "Gd",
+                "Fe"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Au comes from the Latin word 'aurum' for gold.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10572,
+            "question_text": "In biology, which organelle is known as the 'powerhouse of the cell'?",
+            "options": [
+                "Nucleus",
+                "Mitochondria",
+                "Ribosome",
+                "Golgi Apparatus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10573,
+            "question_text": "Which part of the brain controls balance and coordination?",
+            "options": [
+                "Cerebrum",
+                "Cerebellum",
+                "Brainstem",
+                "Thalamus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The cerebellum plays a major role in motor control, balance, and coordination.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10574,
+            "question_text": "What is the atomic number of Carbon?",
+            "options": [
+                "4",
+                "6",
+                "8",
+                "12"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Carbon has 6 protons in its nucleus, thus its atomic number is 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10575,
+            "question_text": "Which of these is a noble gas?",
+            "options": [
+                "Nitrogen",
+                "Oxygen",
+                "Neon",
+                "Chlorine"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Neon is a noble gas found in Group 18 of the periodic table.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10576,
+            "question_text": "What is the primary function of the enzyme 'Amylase'?",
+            "options": [
+                "Digestion of proteins",
+                "Digestion of starch",
+                "Digestion of fats",
+                "Regulation of blood sugar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Amylase is an enzyme that catalyzes the hydrolysis of starch into sugars.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10577,
+            "question_text": "What is the phenomenon where light bends when passing through different media?",
+            "options": [
+                "Reflection",
+                "Diffraction",
+                "Refraction",
+                "Polarization"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Refraction is the bending of light due to a change in its speed when passing through different densities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10578,
+            "question_text": "Which compound is the primary component of natural gas?",
+            "options": [
+                "Ethane",
+                "Propane",
+                "Methane",
+                "Butane"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Methane (CH4) makes up the vast majority of natural gas.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10579,
+            "question_text": "What is the pH range of an acidic solution?",
+            "options": [
+                "Above 7",
+                "Exactly 7",
+                "Below 7",
+                "0 to 14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A pH value less than 7 indicates an acidic solution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

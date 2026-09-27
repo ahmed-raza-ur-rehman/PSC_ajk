@@ -1,0 +1,165 @@
+{
+    "category": "Hands Institute of Development Studies",
+    "name": "Analytical Reasoning",
+    "board": "hands-institute-of-development-studies",
+    "subject": "analytical-reasoning",
+    "url": "/hands-institute-of-development-studies/analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 12011,
+            "question_text": "If A is taller than B, and B is taller than C, who is the shortest?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since A > B and B > C, the order is A > B > C, making C the shortest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12012,
+            "question_text": "Find the missing number in the sequence: 2, 4, 8, 16, ___.",
+            "options": [
+                "20",
+                "24",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern is doubling the previous number (2^n). 16 * 2 = 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12013,
+            "question_text": "If 'CAT' is coded as 'DBU', how is 'DOG' coded?",
+            "options": [
+                "EPH",
+                "FPI",
+                "EQH",
+                "DPH"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted forward by one in the alphabet (C->D, A->B, T->U). D->E, O->P, G->H.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12014,
+            "question_text": "If all Bloops are Razzies, and all Razzies are Lazzies, which of the following must be true?",
+            "options": [
+                "All Bloops are Lazzies",
+                "All Lazzies are Bloops",
+                "Some Lazzies are not Bloops",
+                "No Bloops are Lazzies"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This follows the transitive property: if A is part of B, and B is part of C, then A is part of C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12015,
+            "question_text": "Look at this series: 80, 70, 60, 50, ___. What number should come next?",
+            "options": [
+                "40",
+                "45",
+                "50",
+                "30"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is a simple subtraction series where 10 is subtracted from each previous number.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12016,
+            "question_text": "Five people are standing in a line. A is behind B. C is in front of D. E is between C and D. B is behind D. Who is at the front of the line?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ordering: C - E - D - B - A. C is the first in line.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12017,
+            "question_text": "If 'TABLE' is coded as 'UCBMF', how is 'CHAIR' coded?",
+            "options": [
+                "DIBJS",
+                "DIBSJ",
+                "DJBIS",
+                "CIDJS"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is replaced by the next letter in the alphabet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12018,
+            "question_text": "Which choice completes the pattern: 1, 3, 9, 27, ___?",
+            "options": [
+                "30",
+                "54",
+                "81",
+                "100"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number is multiplied by 3 to get the next number in the sequence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12019,
+            "question_text": "If Monday is the first day of the month, what day of the week is the 20th?",
+            "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "20 divided by 7 is 2 weeks with a remainder of 6 days. Counting 6 days from Monday lands on Sunday; however, since the 1st is Monday, the 20th is 19 days after the 1st, so 19 mod 7 = 5. Adding 5 days to Monday is Saturday, but counting from the 1st, we arrive at Tuesday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12020,
+            "question_text": "In a certain code, 'APPLE' is 'ELPPA'. How is 'GRAPE' coded?",
+            "options": [
+                "EPARG",
+                "EPAGR",
+                "PEARG",
+                "ERGPA"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The word is simply reversed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12021,
+            "question_text": "A man is 3 times as old as his son. In 10 years, he will be twice as old as his son. How old is the son now?",
+            "options": [
+                "5",
+                "10",
+                "15",
+                "20"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Let son be x, man be 3x. (3x + 10) = 2(x + 10). 3x + 10 = 2x + 20. x = 10.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

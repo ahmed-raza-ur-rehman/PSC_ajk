@@ -1,0 +1,697 @@
+{
+    "category": "FIA",
+    "name": "General Knowledge — Current Affairs (National & International)",
+    "board": "fia",
+    "subject": "general-knowledge-current-affairs-national-international",
+    "url": "/fia/general-knowledge-current-affairs-national-international/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 49,
+    "questions": [
+        {
+            "id": 1062,
+            "question_text": "In biochemistry, the process by which microorganisms derive chemical energy from inorganic compounds, such as ammonium or nitrates, is known as:",
+            "options": [
+                "Methanogenesis",
+                "Photofermentation",
+                "Heterotrophic nitrification",
+                "Chemoautotrophy"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Chemoautotrophy involves using chemical energy (from inorganic sources) to fix carbon dioxide and produce organic matter.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1063,
+            "question_text": "Which type of wave propagation is responsible for the phenomenon of 'super-refraction' in radio communication, making long-distance broadcast signals more reliable?",
+            "options": [
+                "Gradient-induced bending due to varying atmospheric permittivity",
+                "Dispersion caused by plasma frequency shifts in the ionosphere",
+                "Normal incidence through an atmospheric layer gradient",
+                "Total internal reflection at the mesosphere boundary"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Super-refraction is the bending of radio waves due to the gradient of the refractive index (permittivity) in the atmosphere, enhancing line-of-sight.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1064,
+            "question_text": "When investigating materials for structural engineering (common in civil service exams), which property describes a material's ability to absorb energy and deform plastically before fracturing, indicating its toughness?",
+            "options": [
+                "Yield Strength",
+                "Ductility Index",
+                "Fracture Toughness",
+                "Modulus of Resilience"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Fracture toughness is the material's measure of resistance to crack propagation, crucial for structural integrity under stress.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1262,
+            "question_text": "Which of the following biological macromolecules are primarily responsible for maintaining the structural integrity and tensile strength of connective tissues like bone and tendons?",
+            "options": [
+                "Collagen",
+                "Fibronectin",
+                "Elastin",
+                "Keratin"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Collagen is the most abundant protein in the body and provides immense tensile strength to connective tissues.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1473,
+            "question_text": "When observing the sunrise or sunset, the sky often appears dramatically red or orange. This atmospheric phenomenon is primarily due to:",
+            "options": [
+                "The increased path length of sunlight through denser atmospheric layers.",
+                "Absorption of blue light by ozone molecules at low altitudes.",
+                "Differential refraction of ultraviolet rays by dust particles.",
+                "Increased humidity levels scattering shorter wavelengths (blue)."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "At sunrise/sunset, sunlight travels through more of the atmosphere, causing blue light to scatter away, leaving only the longer red wavelengths visible.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1474,
+            "question_text": "If a patient's blood glucose level is critically high (hyperglycemia), which biological process is primarily responsible for the subsequent increased excretion of glucose through the urine?",
+            "options": [
+                "Increased renin activity causing systemic blood pressure drops.",
+                "The action of kidney tubules absorbing excess sodium ions.",
+                "The inability of the renal tubules to reabsorb glucose effectively (renal threshold exceeded).",
+                "Osmotic pressure imbalance across the glomerulus."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The kidneys typically reabsorb virtually all glucose; when levels exceed the maximum capacity (renal threshold), glucose is excreted in the urine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1573,
+            "question_text": "Which atmospheric phenomenon is primarily responsible for the blue hue observed during the early morning and late evening hours, a phenomenon often referred to as 'twilight'? (Note: This phenomenon is distinct from the general scattering of light by Rayleigh scattering)",
+            "options": [
+                "The combination of Mie and Rayleigh scattering at low solar angles",
+                "Differential refraction caused by temperature inversions near the horizon",
+                "Fluorescence reaction triggered by ozone depletion in the mesosphere",
+                "Atmospheric scattering of blue light due to longer path lengths"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The visible spectrum during twilight involves both Rayleigh scattering (responsible for blue) and Mie scattering (responsible for hazier colors), combined over long paths.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1574,
+            "question_text": "In the context of biological systems and human physiology, what is the primary metabolic role of the enzyme carbonic anhydrase, which is crucial for regulating acid-base balance?",
+            "options": [
+                "Activating vitamin B12 by removing an adenosyl group",
+                "Converting glucose into glycogen via the action of glucokinase in the liver",
+                "Facilitating the breakdown of lactate into pyruvic acid in anaerobic glycolysis",
+                "Catalyzing the hydration of carbon dioxide (CO2 + H2O <=> H2CO3) in red blood cells"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Carbonic anhydrase rapidly catalyzes the reversible reaction involving CO2 and water, generating bicarbonate ions, which is central to blood buffering.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1673,
+            "question_text": "Which fundamental concept of chemistry explains the tendency of atoms to achieve the stable electron configuration of a noble gas?",
+            "options": [
+                "Pauli Exclusion Principle",
+                "Valence Bonding Concept",
+                "Octet Rule",
+                "Hund's Rule"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Octet Rule states that atoms tend to gain, lose, or share electrons to achieve eight valence electrons, mimicking noble gases.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1674,
+            "question_text": "In the context of biological systems and environmental health, what process is primarily responsible for converting atmospheric nitrogen (N2) into ammonia (NH3) or nitrates (NO3-)?",
+            "options": [
+                "Assimilation",
+                "Denitrification",
+                "Nitrogen Fixation",
+                "Ammonification"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen fixation is the critical process, carried out by certain bacteria, that converts inert atmospheric nitrogen into biologically usable forms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1773,
+            "question_text": "Which fundamental biological process, crucial for the decomposition of organic matter in ecosystems, primarily relies on the anaerobic respiration of specific microbial communities?",
+            "options": [
+                "Nitrification, converting ammonia to nitrates",
+                "Methanogenesis, leading to methane release",
+                "Denitrification, converting nitrates to nitrogen gas",
+                "Sulfate reduction, producing hydrogen sulfide"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Methanogenesis, performed by archaea, is the key anaerobic process responsible for generating methane in environments like swamps and landfills.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1774,
+            "question_text": "In the context of basic physics and material science, what phenomenon best describes the resistance of an electrical conductor to changes in the magnitude of an applied electric field?",
+            "options": [
+                "Conductance",
+                "Dielectric constant",
+                "Permeability",
+                "Resistivity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The dielectric constant measures a material's ability to store electrical energy when placed in an electric field, characterizing its response to field changes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1873,
+            "question_text": "Which common household item is used to convert electrical energy into mechanical energy by utilizing the principles of electromagnetic induction?",
+            "options": [
+                "Incandescent Bulb",
+                "Electric Motor",
+                "Vacuum Cleaner Motor",
+                "Transformer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An electric motor converts electrical energy into kinetic (mechanical) energy by generating a rotating magnetic field.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1874,
+            "question_text": "If a solution's pH value increases significantly, what primary change is most likely occurring to the concentration of hydrogen ions?",
+            "options": [
+                "The solution's temperature must also increase.",
+                "The total salt concentration increases.",
+                "The concentration of hydroxide ions (OH-) increases.",
+                "The concentration of hydrogen ions (H+) decreases."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "pH is defined as -log[H+]; thus, an increase in pH indicates a decrease in hydrogen ion concentration (becoming more basic).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1875,
+            "question_text": "In the context of Pakistani history and literary contributions, which personality is most associated with the modern revival of Urdu poetry and its critical analysis?",
+            "options": [
+                "Mir Taqi Mir",
+                "Faiz Ahmed Faiz",
+                "Ahmad Faraz",
+                "Jigar Moradabadi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While Faiz is known for poetry, his revolutionary writings and critical social commentary established him as a major voice in modern intellectual thought and literary revival.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1974,
+            "question_text": "Which physical phenomenon is primarily responsible for the blue tint observed in the sky, a process that becomes less noticeable at higher altitudes?",
+            "options": [
+                "Rayleigh Scattering",
+                "Tyndall Effect",
+                "Interference Pattern",
+                "Dispersion"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Rayleigh scattering explains that atmospheric gases scatter shorter wavelengths (blue light) more efficiently than longer wavelengths (red light).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1975,
+            "question_text": "In basic chemistry, what compound is most commonly used as a powerful, non-corrosive disinfectant agent in hospital settings, particularly against bacteria and viruses?",
+            "options": [
+                "Sodium Hypochlorite (Bleach)",
+                "Quaternary Ammonium Compounds (QACs)",
+                "Ethanol (Alcohol) 70%",
+                "Hydrogen Peroxide"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "QACs are favored in many settings because they are effective broad-spectrum disinfectants and typically less damaging to surfaces and skin than strong oxidizers like bleach.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2098,
+            "question_text": "Which global initiative, primarily aimed at combating climate change and promoting sustainable development, was adopted at the Rio Earth Summit and later formalized into the 2030 Agenda for Sustainable Development?",
+            "options": [
+                "Kyoto Protocol",
+                "Agenda 21",
+                "Sustainable Development Goals (SDGs)",
+                "Paris Agreement"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The SDGs are the comprehensive 17 goals adopted following the 2015 Sustainable Development Summit, encompassing broader goals beyond the scope of the Paris Agreement (which focuses on climate). (Note: While the Paris Agreement is critical, the SDGs are the overarching framework.)",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2969,
+            "question_text": "Which international treaty, ratified by Pakistan and many nations, aims to prohibit the use of chemical and biological weapons in warfare?",
+            "options": [
+                "Geneva Protocol",
+                "Outer Space Treaty",
+                "Biological Weapons Convention (BWC)",
+                "Chemical Weapons Convention (CWC)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The CWC specifically prohibits the development, production, and use of chemical weapons, marking a critical step in global disarmament efforts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3740,
+            "question_text": "Which international body recently elevated the status of climate change action from mere policy recommendation to a core component of national security strategies, significantly impacting global development goals?",
+            "options": [
+                "World Bank",
+                "UN Security Council",
+                "G20",
+                "IMF"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The UN Security Council treats climate change as a threat to international peace and security, requiring binding resolutions and national strategies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4301,
+            "question_text": "The 'Booker Prize' for Fiction, which celebrates literature that raises awareness of global humanitarian issues, is often associated with advocacy and social justice themes. Which prominent Pakistani literary figure is known for receiving international recognition related to human rights or social commentary?",
+            "options": [
+                "Hasrat Mohani",
+                "Nabeel Qureshi",
+                "Manto",
+                "Bano Qudsia"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "While Manto is globally recognized, his short stories frequently deal with social decay, moral ambiguity, and human suffering, echoing the themes of Booker-style international literature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4402,
+            "question_text": "The Nobel Prize in Economics (Sveriges Riksbank Prize) is unique among Nobel Prizes because it was established and awarded by:",
+            "options": [
+                "The International Monetary Fund (IMF)",
+                "The World Bank Group (WBG)",
+                "The United Nations Economic Commission for Europe (UNECE)",
+                "The Bank of Sweden (Sveriges Riksbank)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Unlike other Nobel Prizes, the prize for economics is awarded by the Swedish Academy, but the prize money and institution are linked to the Bank of Sweden.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4503,
+            "question_text": "Who is credited with founding the modern concept of 'Comparative Study of Islamic Jurisprudence' (Usul al-Fiqh) as a systematic academic discipline, influencing later reform movements?",
+            "options": [
+                "Imam Abu Yusuf",
+                "Imam Abu Hanifa",
+                "Imam Malik bin Anas",
+                "Imam Muhammad al-Shaybani"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While the Four Imams are foundational, Imam Muhammad al-Shaybani is often associated with systematizing and expanding the theoretical framework of Usul al-Fiqh into a comprehensive academic study.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5424,
+            "question_text": "The 'Silk Road Economic Belt' (SREB) is a multinational infrastructural initiative primarily intended to boost trade and connectivity between which major geographical regions?",
+            "options": [
+                "South America, Brazil, and Argentina",
+                "Central Asia, China, and the Middle East",
+                "Europe, North Africa, and the Balkans",
+                "East Asia, Japan, and Southeast Asia"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SREB is a key element of China's Belt and Road Initiative (BRI), linking China's economy through Central Asian corridor to the Middle East and beyond, reviving historical trade routes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5525,
+            "question_text": "The award given for exceptional contributions to the field of environmental science and global sustainability, often recognized by prominent academic bodies, is typically associated with which international honor?",
+            "options": [
+                "The Pulitzer Prize for Journalism",
+                "The Stockholm Environment Council Medal",
+                "The Nobel Peace Prize",
+                "The Kyoto Prize"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Kyoto Prize, established by the Japan Academy for Sciences, specifically honors those who contribute to the sustainability of human civilization and the environment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5912,
+            "question_text": "Which biological process is primarily responsible for converting solar energy into chemical energy (glucose) within plant chloroplasts?",
+            "options": [
+                "Photosynthesis",
+                "Transpiration",
+                "Respiration",
+                "Glycolysis"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Photosynthesis is the process that utilizes sunlight, water, and CO2 to produce glucose (chemical energy).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5913,
+            "question_text": "In the context of everyday science, what common household material is most effective for detecting the presence of starch due to its iodine-based chemical reaction?",
+            "options": [
+                "Tincture of Iodine",
+                "Lugol's Solution",
+                "Betadine Solution",
+                "Potassium Iodide"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Tincture of Iodine (Iodine solution) reacts with starch to produce a characteristic blue-black color.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6012,
+            "question_text": "Which natural process is responsible for the phenomenon of tides in the ocean, and how does this force primarily interact with Earth's gravitational pull?",
+            "options": [
+                "Gravitational pull from the Moon and Sun creating differential forces (spring/neap tides).",
+                "Interaction of high-altitude winds creating pressure gradients perpendicular to the coastline.",
+                "Earth's rotation speed causing centrifugal force that pushes water away from the equator.",
+                "Atmospheric pressure changes coupled with thermal expansion of ocean water."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Tides are primarily caused by the differential gravitational forces exerted by the Moon and Sun, resulting in high (spring) and low (neap) tides.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6013,
+            "question_text": "In the context of human physiology and biochemistry, what specific function distinguishes creatine phosphate stores in muscle cells from general ATP reserves, making it crucial for short, intense bursts of activity?",
+            "options": [
+                "It functions chiefly as a buffer against systemic lactic acid buildup during anaerobic respiration.",
+                "It is primarily involved in stabilizing the cell membrane potential during periods of high exertion.",
+                "Its primary role is the long-term storage of metabolic waste products that requires detoxification.",
+                "It acts as a rapid, readily available donor of high-energy phosphate groups to regenerate ATP quickly."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Creatine phosphate (CrP) rapidly donates a phosphate group to regenerate ADP into ATP, powering immediate, high-intensity muscle contractions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6095,
+            "question_text": "Which phenomenon causes the reddish-orange glow observed in the sky just after sunrise or just before sunset, primarily due to atmospheric scattering?",
+            "options": [
+                "Rayleigh Scattering",
+                "Mie Scattering",
+                "Chromatic Aberration",
+                "Tyndall Effect"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Rayleigh scattering is responsible for the blue appearance of the sky because shorter wavelengths (blue) are scattered more efficiently by atmospheric gases than longer wavelengths (red/orange).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6096,
+            "question_text": "In the context of biological waste management and environmental science, what process describes the decomposition of organic matter by specialized microorganisms, often leading to nutrient cycling?",
+            "options": [
+                "Composting",
+                "Biomagnification",
+                "Mineralization",
+                "Humification"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mineralization is the process where complex organic compounds are broken down into inorganic mineral forms, making nutrients available for plants.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6160,
+            "question_text": "Which component is primarily responsible for initiating the coagulation cascade in the blood, often involving contact with negatively charged surfaces?",
+            "options": [
+                "Prothrombin activation by Tissue Factor",
+                "Complement system C3a anaphylatoxin action",
+                "Platelet phospholipids and Factor XII activation",
+                "Fibrinogen binding to Thrombin receptors"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The initial phase involves the activation of intrinsic pathways (like Factor XII) upon contact with foreign or negatively charged surfaces, triggering the cascade.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6161,
+            "question_text": "In the context of sound waves, why does the perceived pitch lower significantly as a vibrating object moves away from the observer (the Doppler effect)?",
+            "options": [
+                "The speed of sound itself changes proportionally to the distance traveled.",
+                "The amplitude decreases, causing the ear to misinterpret the frequency.",
+                "Atmospheric humidity levels absorb higher frequency sound waves disproportionately.",
+                "The wavelength is stretched due to the relative motion of source and receiver."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Doppler effect causes a perceived decrease in frequency (lower pitch) because the wavelength is stretched relative to the stationary observer's frame of reference.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6233,
+            "question_text": "Which biological phenomenon, crucial for the stability of DNA, involves the spontaneous formation of hydrogen bonds between complementary nitrogenous bases, which is subsequently maintained by enzymes?",
+            "options": [
+                "Polymerase chain reaction (PCR) cycle",
+                "Watson-Crick pairing",
+                "Electrostatic shielding effect",
+                "Gibbs free energy change"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Watson-Crick pairing describes the specific hydrogen bonding rules (A-T, G-C) that maintain the integrity of the DNA double helix.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6234,
+            "question_text": "In everyday chemistry, what is the primary source of the acidic nature observed in most natural rain (acid rain), necessitating chemical neutralization processes?",
+            "options": [
+                "Volcanic sulfur compounds reacting with ozone",
+                "Nitrogen oxides reacting with atmospheric water",
+                "Dissolved industrial particulate matter",
+                "Sulfur dioxide oxidized to sulfuric acid"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The most significant contributor to acid rain is the reaction of sulfur dioxide (SO2), typically from burning fossil fuels, forming sulfuric acid.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6391,
+            "question_text": "Which type of force is responsible for keeping the planets in stable elliptical orbits around the Sun?",
+            "options": [
+                "Electromagnetic force",
+                "Nuclear force",
+                "Gravitational force",
+                "Frictional force"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Gravity is the attractive force exerted by masses, and it provides the necessary centripetal force for orbital motion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6392,
+            "question_text": "Which natural process is primarily responsible for the formation of sedimentary rocks?",
+            "options": [
+                "Volcanic eruptions and cooling of magma",
+                "High-pressure metamorphism in continental collision zones",
+                "The deposition and cementation of weathered materials",
+                "Underwater chemical precipitation from hydrothermal vents"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sedimentary rocks are formed by the accumulation (deposition) and hardening (cementation) of sediments, which originate from the weathering of pre-existing rocks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6461,
+            "question_text": "Which type of energy conversion mechanism is fundamental to the functioning of a photoelectric cell (solar cell)?",
+            "options": [
+                "Mechanical energy to electrical energy",
+                "Chemical energy to thermal energy",
+                "Electromagnetic energy (photons) to electrical energy",
+                "Potential energy to kinetic energy"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Photoelectric cells convert incoming light energy (electromagnetic energy, specifically photons) directly into usable electrical current, demonstrating the photon photoelectric effect.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6462,
+            "question_text": "If a student performs an experiment involving the rapid mixing of household vinegar (acetic acid) and baking soda (sodium bicarbonate), what gas is primarily responsible for the resulting visible effervescence?",
+            "options": [
+                "Nitrogen ($\text{N}_2$) gas produced by decomposition.",
+                "Carbon dioxide ($\text{CO}_2$) gas resulting from an acid-carbonate reaction.",
+                "Oxygen ($\text{O}_2$) gas released through thermal decomposition.",
+                "Methane ($\text{CH}_4$) gas formed by acid neutralization."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Acetic acid ($\text{CH}_3\text{COOH}$) reacts with sodium bicarbonate ($\text{NaHCO}_3$) in an acid-carbonate reaction, producing carbonic acid ($\text{H}_2\text{CO}_3$), which immediately decomposes into water and carbon dioxide gas ($\text{CO}_2$).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6534,
+            "question_text": "If a solution has a pH of 3, what can be accurately stated about its hydrogen ion concentration ($\text{[H}^+]$)?",
+            "options": [
+                "The concentration is exactly one-thousandth (1/1000th) that of neutral water.",
+                "The concentration is significantly lower than neutral water.",
+                "The concentration is 1000 times higher than that of neutral water.",
+                "The concentration is equal to that of pure water."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A pH of 3 means the hydrogen ion concentration is $10^{-3}$ M. Compared to neutral water ($\text{pH}=7$ and $[\text{H}^+] = 10^{-7}$ M), this concentration is $10^4$ (or 10,000) times higher, establishing it as a highly acidic solution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6535,
+            "question_text": "The principle behind the working of a centrifuge is based on which physical concept?",
+            "options": [
+                "Buoyancy force (Archimedes' Principle).",
+                "Centrifugal force and sedimentation rate.",
+                "Newton's First Law of Motion (inertia).",
+                "Bernoulli's Principle (fluid dynamics)."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A centrifuge utilizes high rotational speed to create immense centrifugal force, causing components of different densities to sediment or separate based on their relative weight.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6536,
+            "question_text": "In physics, if a body is undergoing motion with uniform acceleration, how does its kinetic energy ($KE$) change with respect to time ($t$)?",
+            "options": [
+                "It decreases exponentially due to air resistance and friction.",
+                "The kinetic energy remains constant, regardless of the acceleration applied.",
+                "It increases linearly with time, provided the acceleration is constant.",
+                "It increases quadratically with time, proportional to the square of the velocity."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Kinetic energy (KE = ½mv²) is proportional to the square of velocity (v²). Since v is linearly proportional to time (v = u + at), KE is proportional to t² (quadratic).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6606,
+            "question_text": "Enzymes, which are biological catalysts, are proteins whose function is most severely and irreversibly compromised by changes in which environmental factor?",
+            "options": [
+                "Slight variations in salinity",
+                "Low atmospheric pressure",
+                "Excessive temperature or pH levels",
+                "High humidity levels"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Extreme temperatures or drastically deviated pH values cause enzymes to undergo denaturation, which disrupts their complex tertiary structure and permanently compromises their catalytic function.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6607,
+            "question_text": "Which biological process is primarily responsible for converting solar energy into chemical energy stored in glucose molecules?",
+            "options": [
+                "Photosynthesis",
+                "Glycolysis",
+                "Transpiration",
+                "Respiration"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Photosynthesis is the process utilized by plants and certain organisms to convert light energy (solar energy) into stored chemical energy (glucose) using carbon dioxide and water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6679,
+            "question_text": "Which Nobel Peace Prize laureate, known for his non-violent movement, was instrumental in the formation of the Swarnarekha mission focused on women's rights and education in South Asia?",
+            "options": [
+                "M. K. Gandhi",
+                "Mother Teresa",
+                "Mahatma Gandhi",
+                "Nelson Mandela"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mahatma Gandhi is the figure most strongly associated with non-violent civil rights and educational movements across South Asia, making him the intended answer despite the specific historical reference to the 'Swarnarekha mission'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6757,
+            "question_text": "Which natural substance is primarily responsible for maintaining the slightly alkaline pH of human blood?",
+            "options": [
+                "Calcium carbonate ($\text{CaCO}_3$).",
+                "Phosphate buffer system ($\text{HPO}_4^{2-}$).",
+                "Bicarbonate buffer system ($\text{HCO}_3^{-}$).",
+                "Sodium chloride (NaCl)."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The bicarbonate buffer system is the most crucial extracellular buffer system that helps regulate blood pH.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6759,
+            "question_text": "The Nobel Peace Prize 2023 was awarded to groups representing which of the following causes?",
+            "options": [
+                "Citizens for civil rights and marginalized groups",
+                "Environmental activists combating climate change",
+                "Women's rights advocates for gender equality",
+                "Journalists advocating freedom of press"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 2023 Nobel Peace Prize was awarded to Nicaragua for its efforts towards dialogue, democracy, and human rights, which falls under the scope of civil rights and marginalized groups.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6827,
+            "question_text": "The chemical formula for rust, which is commonly formed on iron exposed to moist air, is:",
+            "options": [
+                "Fe(OH)₃",
+                "FeO",
+                "Fe₂O₃·xH₂O",
+                "FeSO₄"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Rust is hydrated iron(III) oxide, represented chemically as Fe₂O₃·xH₂O.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6828,
+            "question_text": "Which mechanism is responsible for the change in color of certain natural indicators, such as those found in certain flowers?",
+            "options": [
+                "Catalytic breakdown of pigments due to temperature change.",
+                "Chemiluminescence induced by pH variation.",
+                "Acid-base equilibrium involving the ionization state of molecular groups.",
+                "Oxidation-reduction reactions triggered by atmospheric pollutants."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Natural indicators change color because their chemical structure, and thus their absorption spectrum, changes when the concentration of hydrogen ions ($\text{H}^+$) or hydroxide ions ($\text{OH}^-$) shifts, altering their ionization state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

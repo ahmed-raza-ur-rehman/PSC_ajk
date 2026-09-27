@@ -1,0 +1,193 @@
+{
+    "category": "Riphah International University",
+    "name": "Quantitative Analysis",
+    "board": "riphah-international-university",
+    "subject": "quantitative-analysis",
+    "url": "/riphah-international-university/quantitative-analysis/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 13050,
+            "question_text": "A dealer buys an item for $200 and sells it for $250. What is the profit percentage?",
+            "options": [
+                "20%",
+                "25%",
+                "30%",
+                "35%"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Profit = (50 / 200) * 100 = 25%.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13283,
+            "question_text": "If a shirt is marked down by 20% and the sale price is $40, what was the original price?",
+            "options": [
+                "$48",
+                "$50",
+                "$52",
+                "$60"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Let original price be X. 0.80X = 40. X = 40 / 0.80 = 50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13284,
+            "question_text": "What is the next number in the sequence: 2, 6, 12, 20, 30, ...?",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences are 4, 6, 8, 10. The next difference should be 12. 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13285,
+            "question_text": "If a product costs $80 after a 20% discount, what was the original price?",
+            "options": [
+                "$96",
+                "$100",
+                "$104",
+                "$120"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If x is original price, 0.8x = 80, so x = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13286,
+            "question_text": "What is 15% of 250?",
+            "options": [
+                "35.5",
+                "37.5",
+                "38.5",
+                "40.5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "0.15 * 250 = 37.5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13287,
+            "question_text": "If 5 employees can complete a task in 10 days, how long will it take 2 employees to do the same task?",
+            "options": [
+                "20 days",
+                "25 days",
+                "30 days",
+                "15 days"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Work = 5 * 10 = 50 units. 50 units / 2 employees = 25 days.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13288,
+            "question_text": "Solve for x: 3x + 7 = 22.",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "3x = 15, so x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13289,
+            "question_text": "What is the average of the numbers: 12, 15, 23, and 30?",
+            "options": [
+                "18",
+                "20",
+                "22",
+                "25"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "(12 + 15 + 23 + 30) / 4 = 80 / 4 = 20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13290,
+            "question_text": "A rectangle has a length of 10cm and a perimeter of 36cm. What is the width?",
+            "options": [
+                "6cm",
+                "8cm",
+                "10cm",
+                "12cm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Perimeter = 2(L + W). 36 = 2(10 + W) => 18 = 10 + W => W = 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13291,
+            "question_text": "A car travels 150 miles in 3 hours. What is its average speed?",
+            "options": [
+                "40 mph",
+                "45 mph",
+                "50 mph",
+                "55 mph"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Speed = Distance / Time. 150 / 3 = 50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13292,
+            "question_text": "If the radius of a circle is 7, what is its area? (Use π ≈ 3.14)",
+            "options": [
+                "153.86",
+                "43.96",
+                "49",
+                "31.4"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Area = π * r^2. 3.14 * 49 = 153.86.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13293,
+            "question_text": "What is the next number in the sequence: 3, 9, 27, 81, ...?",
+            "options": [
+                "162",
+                "243",
+                "270",
+                "324"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each term is multiplied by 3. 81 * 3 = 243.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13294,
+            "question_text": "If x^2 = 64, what is the value of x?",
+            "options": [
+                "8",
+                "-8",
+                "Both 8 and -8",
+                "4"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Both (8)^2 and (-8)^2 equal 64.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

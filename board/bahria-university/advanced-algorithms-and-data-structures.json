@@ -1,0 +1,151 @@
+{
+    "category": "Bahria University",
+    "name": "Advanced Algorithms and Data Structures",
+    "board": "bahria-university",
+    "subject": "advanced-algorithms-and-data-structures",
+    "url": "/bahria-university/advanced-algorithms-and-data-structures/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12745,
+            "question_text": "What is the amortized time complexity of the 'delete-min' operation in a Fibonacci Heap?",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n log n)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In a Fibonacci heap, the delete-min operation involves consolidating the root list, which takes amortized O(log n) time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12746,
+            "question_text": "Which algorithm is best suited for finding the shortest path in a graph with negative edge weights but no negative cycles?",
+            "options": [
+                "Dijkstra's Algorithm",
+                "Bellman-Ford Algorithm",
+                "Prim's Algorithm",
+                "Kruskal's Algorithm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dijkstra fails with negative edges, while Bellman-Ford can handle them correctly by relaxing edges V-1 times.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12747,
+            "question_text": "In a B-tree of order m, what is the minimum number of children a non-root internal node must have?",
+            "options": [
+                "m/2",
+                "ceil(m/2)",
+                "floor(m/2)",
+                "m-1"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To maintain the balance of a B-tree, non-root internal nodes must be at least half full, defined as ceil(m/2) children.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12748,
+            "question_text": "Which data structure is most efficient for implementing a priority queue where priority decreases over time?",
+            "options": [
+                "Binary Max-Heap",
+                "Pairing Heap",
+                "Van Emde Boas Tree",
+                "Sorted Linked List"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Van Emde Boas trees provide O(log log U) time complexity for priority queue operations, where U is the universe size, outperforming standard heaps for certain integer ranges.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12749,
+            "question_text": "What is the worst-case time complexity of the QuickSort algorithm when the pivot is consistently the smallest or largest element?",
+            "options": [
+                "O(n log n)",
+                "O(n)",
+                "O(n^2)",
+                "O(log n)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When the pivot is consistently extreme, the partition becomes highly unbalanced, resulting in a depth of n, leading to O(n^2) complexity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12750,
+            "question_text": "Which algorithm uses a greedy approach to find the Minimum Spanning Tree of a connected, undirected, weighted graph?",
+            "options": [
+                "Dijkstra's Algorithm",
+                "Kruskal's Algorithm",
+                "Bellman-Ford Algorithm",
+                "Floyd-Warshall Algorithm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Kruskal's algorithm sorts all edges by weight and adds them sequentially if they do not form a cycle, which is a greedy strategy for MST.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12751,
+            "question_text": "What is the primary advantage of using a Skip List over a balanced Binary Search Tree?",
+            "options": [
+                "Guaranteed O(1) search time",
+                "Lower space complexity",
+                "Easier implementation for concurrent operations",
+                "Smaller constant factors"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Skip lists are highly preferred in concurrent programming because they allow localized updates, avoiding the global rebalancing locks required by trees like AVL or Red-Black trees.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12752,
+            "question_text": "Which algorithm approach is primarily used in solving the Knapsack Problem to achieve an optimal solution in pseudopolynomial time?",
+            "options": [
+                "Greedy Algorithm",
+                "Dynamic Programming",
+                "Backtracking",
+                "Divide and Conquer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dynamic programming is used to solve the Knapsack problem by breaking it down into overlapping subproblems and storing results to build the optimal solution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12753,
+            "question_text": "What is the primary constraint that must be met for the Master Theorem to be applicable in solving recurrence relations?",
+            "options": [
+                "The recurrence must be in the form T(n) = aT(n/b) + f(n)",
+                "The subproblems must be solved sequentially",
+                "The function f(n) must be logarithmic",
+                "The problem must be non-recursive"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Master Theorem provides a cookbook solution for recurrences of the specific form T(n) = aT(n/b) + f(n).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12754,
+            "question_text": "In a Red-Black tree, what is the maximum possible height of the tree for n nodes?",
+            "options": [
+                "log2(n+1)",
+                "2 log2(n+1)",
+                "n",
+                "log2(n)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Due to the balancing properties (red nodes cannot have red children, paths have equal black nodes), the height is guaranteed to be at most 2 log2(n+1).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

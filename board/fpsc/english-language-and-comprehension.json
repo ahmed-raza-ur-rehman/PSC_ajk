@@ -1,0 +1,193 @@
+{
+    "category": "FPSC",
+    "name": "English Language and Comprehension",
+    "board": "fpsc",
+    "subject": "english-language-and-comprehension",
+    "url": "/fpsc/english-language-and-comprehension/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 9652,
+            "question_text": "Select the synonym for the word 'transparent'.",
+            "options": [
+                "Opaque",
+                "Clear",
+                "Dark",
+                "Solid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Transparent means allowing light to pass through so that objects behind can be distinctly seen; 'clear' shares this meaning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9653,
+            "question_text": "Choose the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Accomodationn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling of the word for a room or place to stay is 'Accommodation'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9654,
+            "question_text": "Complete the sentence: 'He has been working here _____ 2020.'",
+            "options": [
+                "for",
+                "since",
+                "from",
+                "at"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Since' is used to specify a starting point in time for an action that continues to the present.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9655,
+            "question_text": "Select the option that is closest in meaning to the word 'visible'.",
+            "options": [
+                "Hidden",
+                "Clear",
+                "Obscure",
+                "Vague"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Something that is visible can be seen, which matches the meaning of clear.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9656,
+            "question_text": "Identify the word that is correctly spelled.",
+            "options": [
+                "Accomodate",
+                "Accommodate",
+                "Acomodate",
+                "Acommodate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling of the word meaning to provide space is 'Accommodate', with two c's and two m's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9657,
+            "question_text": "Fill in the blank: 'She has been living in this city _____ 2015.'",
+            "options": [
+                "for",
+                "since",
+                "from",
+                "by"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Since' is used to specify a starting point in time for an action that continues to the present.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9658,
+            "question_text": "Choose the correct antonym for the word 'generous'.",
+            "options": [
+                "Kind",
+                "Stingy",
+                "Helpful",
+                "Bighearted"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Generous means showing a readiness to give more than is strictly necessary; stingy is the opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9659,
+            "question_text": "Complete the sentence: 'If I _____ you, I would take that opportunity.'",
+            "options": [
+                "was",
+                "am",
+                "were",
+                "be"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In hypothetical situations (subjunctive mood), we use 'were' instead of 'was'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9660,
+            "question_text": "Select the option that acts as a synonym for the word 'clear'.",
+            "options": [
+                "Opaque",
+                "Transparent",
+                "Hidden",
+                "Obscure"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Transparent means allowing light to pass through, which is synonymous with clear.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9662,
+            "question_text": "Complete the sentence: 'They have been waiting for the bus _____ 8:00 AM.'",
+            "options": [
+                "for",
+                "since",
+                "at",
+                "in"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Since' is used to specify a starting point in time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9663,
+            "question_text": "Select the word that is closest in meaning to 'perceptible'.",
+            "options": [
+                "Invisible",
+                "Hidden",
+                "Visible",
+                "Vague"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Visible means able to be seen or perceived.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9664,
+            "question_text": "Choose the correct antonym for the word 'stingy'.",
+            "options": [
+                "Miserly",
+                "Generous",
+                "Greedy",
+                "Selfish"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A generous person gives freely, making it the opposite of stingy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9665,
+            "question_text": "Complete the sentence: 'If she _____ harder, she would have passed the exam.'",
+            "options": [
+                "studies",
+                "had studied",
+                "would study",
+                "will study"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a third conditional sentence, requiring 'had + past participle' in the if-clause.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

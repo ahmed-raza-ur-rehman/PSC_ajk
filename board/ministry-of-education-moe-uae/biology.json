@@ -1,0 +1,151 @@
+{
+    "category": "Ministry of Education (MoE), UAE",
+    "name": "Biology",
+    "board": "ministry-of-education-moe-uae",
+    "subject": "biology",
+    "url": "/ministry-of-education-moe-uae/biology/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 9282,
+            "question_text": "Which organelle is known as the 'powerhouse' of the cell?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondria",
+                "Golgi apparatus"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are responsible for generating most of the cell's supply of adenosine triphosphate (ATP), the source of chemical energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9283,
+            "question_text": "What is the process by which plants convert sunlight into energy?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Fermentation",
+                "Transpiration"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Photosynthesis is the process used by plants to convert light energy into chemical energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9284,
+            "question_text": "What is the primary function of red blood cells?",
+            "options": [
+                "Fighting infection",
+                "Clotting blood",
+                "Carrying oxygen",
+                "Digesting nutrients"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Red blood cells contain hemoglobin which binds to oxygen for transport.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9285,
+            "question_text": "Which molecule carries genetic information in most organisms?",
+            "options": [
+                "RNA",
+                "DNA",
+                "Protein",
+                "Lipid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DNA contains the hereditary instructions for all living organisms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9286,
+            "question_text": "What is the process of cell division resulting in two identical daughter cells?",
+            "options": [
+                "Meiosis",
+                "Mitosis",
+                "Fertilization",
+                "Osmosis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mitosis is the somatic cell division that creates identical clones.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9287,
+            "question_text": "Which part of the cell is known as the 'powerhouse'?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondria",
+                "Cytoplasm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are responsible for generating most of the cell's supply of adenosine triphosphate (ATP).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9288,
+            "question_text": "What is the name of the process plants use to turn sunlight into energy?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Digestion",
+                "Fermentation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Photosynthesis is the process used by plants to convert light energy into chemical energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9289,
+            "question_text": "What is the main role of red blood cells?",
+            "options": [
+                "Fighting infection",
+                "Clotting blood",
+                "Carrying oxygen",
+                "Producing hormones"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Red blood cells contain hemoglobin, which binds to oxygen and carries it throughout the body.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9290,
+            "question_text": "Which molecule stores genetic information in most living things?",
+            "options": [
+                "RNA",
+                "DNA",
+                "Protein",
+                "Lipid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Deoxyribonucleic acid (DNA) is the primary carrier of genetic instructions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9291,
+            "question_text": "What is the specific type of cell division that creates two identical daughter cells?",
+            "options": [
+                "Meiosis",
+                "Mitosis",
+                "Fertilization",
+                "Replication"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mitosis is the process of nuclear division in eukaryotic cells that occurs when a parent cell divides to produce two identical daughter cells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

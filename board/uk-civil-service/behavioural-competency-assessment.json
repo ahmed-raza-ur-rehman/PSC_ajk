@@ -1,0 +1,109 @@
+{
+    "category": "UK Civil Service",
+    "name": "Behavioural Competency Assessment",
+    "board": "uk-civil-service",
+    "subject": "behavioural-competency-assessment",
+    "url": "/uk-civil-service/behavioural-competency-assessment/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 8604,
+            "question_text": "When making a decision that affects a diverse group of stakeholders, which approach best reflects the principle of objectivity?",
+            "options": [
+                "Focus primarily on the feedback from the loudest group",
+                "Consider all evidence and data impartially without personal bias",
+                "Base the decision on your previous experience with similar projects",
+                "Wait for a senior leader to tell you what to decide"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Objectivity in the Civil Service requires decision-making based on evidence and fair assessment rather than preference or seniority.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8605,
+            "question_text": "If you witness a colleague acting in a way that goes against the core values of integrity and honesty, what should you do?",
+            "options": [
+                "Ignore it, as it does not affect your work",
+                "Report the concern through the appropriate internal channels",
+                "Speak to the colleague privately and then do nothing else",
+                "Publicly challenge them in a team meeting"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Integrity is a core value; the Civil Service requires staff to uphold standards by following formal reporting procedures for misconduct.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8606,
+            "question_text": "When building a new professional network, what is the most effective approach?",
+            "options": [
+                "Only communicate with people who are more senior than you.",
+                "Engage with a diverse range of people and share your own expertise willingly.",
+                "Wait for others to reach out to you first so you don't seem pushy.",
+                "Focus only on colleagues within your specific department."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Fast Stream values building professional networks across boundaries to support collective success.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8607,
+            "question_text": "Which behavior best demonstrates 'working together' in a fast-paced environment?",
+            "options": [
+                "Competing with colleagues to prove you are the most productive.",
+                "Sharing information and resources to help the whole team succeed.",
+                "Working in isolation to ensure your specific tasks are done perfectly.",
+                "Blaming others if the project deadline is missed."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Collaboration is essential to the Civil Service, especially when tackling complex, real-world issues.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8608,
+            "question_text": "When you receive critical feedback on your work, how should you respond?",
+            "options": [
+                "Explain why the feedback is wrong to defend your choices.",
+                "Take the feedback personally and lose confidence in your abilities.",
+                "Thank the person, reflect on the points raised, and outline how you will improve.",
+                "Ignore the feedback since the work is already finished."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Continuous improvement and growth are key; responding to feedback with a constructive mindset is highly valued.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8609,
+            "question_text": "Why is it important to consider equality and diversity when designing a public service policy?",
+            "options": [
+                "Because it is a legal box-ticking exercise.",
+                "To ensure the policy meets the needs of all citizens, reflecting the diversity of the UK.",
+                "Because it will make the policy document look longer and more thorough.",
+                "So that you can avoid any potential criticism from the media."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Civil Service aims to reflect the communities it serves, and policies must be inclusive to be effective for everyone.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8610,
+            "question_text": "You are struggling to balance multiple urgent tasks. What is the best way to manage your workload?",
+            "options": [
+                "Try to do everything at once to keep pace with expectations.",
+                "Ask your manager to help you prioritize the tasks based on urgency and impact.",
+                "Work late every night until everything is finished.",
+                "Pick the easiest task first and hope the urgent ones go away."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Proactive communication and effective prioritization are key skills for future leaders.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

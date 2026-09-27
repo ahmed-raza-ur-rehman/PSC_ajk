@@ -1,0 +1,123 @@
+{
+    "category": "Ministry of Education of the People's Republic of China",
+    "name": "Humanities (History, Politics, Geography)",
+    "board": "ministry-of-education-of-the-people-s-republic-of-china",
+    "subject": "humanities-history-politics-geography",
+    "url": "/ministry-of-education-of-the-people-s-republic-of-china/humanities-history-politics-geography/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 8473,
+            "question_text": "What is the primary function of the legislative branch in a government?",
+            "options": [
+                "Enforcing laws",
+                "Interpreting laws",
+                "Making laws",
+                "Collecting taxes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The primary role of a legislature is to draft, debate, and pass laws.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8493,
+            "question_text": "Which historical event is credited with ending the rule of the Qing Dynasty in China?",
+            "options": [
+                "The Opium War",
+                "The Boxer Rebellion",
+                "The Xinhai Revolution",
+                "The May Fourth Movement"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Xinhai Revolution of 1911 successfully overthrew the Qing Dynasty, leading to the establishment of the Republic of China.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8494,
+            "question_text": "Which explorer is known for his seven voyages in the Ming Dynasty?",
+            "options": [
+                "Marco Polo",
+                "Zheng He",
+                "Christopher Columbus",
+                "Vasco da Gama"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Zheng He commanded expeditionary treasure voyages to Southeast Asia, South Asia, Western Asia, and East Africa.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8495,
+            "question_text": "Which geographic feature is the 'Roof of the World'?",
+            "options": [
+                "The Himalayas",
+                "The Andes",
+                "The Qinghai-Tibet Plateau",
+                "The Alps"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Qinghai-Tibet Plateau is famously known as the 'Roof of the World' due to its extreme average elevation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8496,
+            "question_text": "Which ancient philosophy focuses on the balance of Yin and Yang?",
+            "options": [
+                "Legalism",
+                "Daoism",
+                "Buddhism",
+                "Confucianism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Daoism emphasizes the flow of the universe and the interconnectedness of opposites, represented by Yin and Yang.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8497,
+            "question_text": "What is a common effect of inflation on currency?",
+            "options": [
+                "Purchasing power increases",
+                "Purchasing power decreases",
+                "Prices remain stable",
+                "Unemployment vanishes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inflation reduces the value of a currency, meaning each unit buys fewer goods and services.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8498,
+            "question_text": "Which river is widely considered the cradle of Chinese civilization?",
+            "options": [
+                "Yangtze River",
+                "Yellow River",
+                "Pearl River",
+                "Mekong River"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Yellow River valley is known as the birthplace of ancient Chinese culture and civilization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8499,
+            "question_text": "What is the main purpose of a 'Market Economy' in modern economic theory?",
+            "options": [
+                "Total government control of prices",
+                "Supply and demand drive resource allocation",
+                "Production is purely for state use",
+                "Elimination of international trade"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In a market economy, decisions are primarily dictated by the interaction of consumers and producers in the market.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

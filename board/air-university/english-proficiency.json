@@ -1,0 +1,179 @@
+{
+    "category": "Air University",
+    "name": "English Proficiency",
+    "board": "air-university",
+    "subject": "english-proficiency",
+    "url": "/air-university/english-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12663,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "Neither the students nor the teacher were there.",
+                "Neither the students nor the teacher was there.",
+                "Neither the students nor the teacher are there.",
+                "Neither the students nor the teacher have been there."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the subject closest to it (the teacher).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12664,
+            "question_text": "Choose the synonym for 'Ephemeral'.",
+            "options": [
+                "Eternal",
+                "Permanent",
+                "Fleeting",
+                "Constant"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ephemeral refers to something lasting for a very short time, which is synonymous with fleeting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12665,
+            "question_text": "Choose the correct word to complete the sentence: 'The team _____ playing very well lately.'",
+            "options": [
+                "is",
+                "are",
+                "were",
+                "been"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The word 'team' is a collective noun usually treated as a singular unit in this context.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12666,
+            "question_text": "Identify the antonym of 'Generous'.",
+            "options": [
+                "Kind",
+                "Stingy",
+                "Brave",
+                "Wealthy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Generous means giving, whereas stingy means reluctant to give.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12667,
+            "question_text": "Which sentence is punctuated correctly?",
+            "options": [
+                "He went to the store, and bought milk.",
+                "He went to the store and, bought milk.",
+                "He went to the store and bought milk.",
+                "He, went to the store and bought milk."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "There is no need for a comma before 'and' when connecting two verbs with the same subject.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12668,
+            "question_text": "Select the correct spelling.",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Acommodattion"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Accommodation is spelled with two c's and two m's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12669,
+            "question_text": "What is the meaning of the idiom 'piece of cake'?",
+            "options": [
+                "Something very difficult",
+                "Something very easy",
+                "A dessert",
+                "A surprise"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The idiom 'piece of cake' refers to a task that is simple to complete.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12670,
+            "question_text": "Choose the correct preposition: 'She is interested _____ learning new languages.'",
+            "options": [
+                "at",
+                "on",
+                "in",
+                "with"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct idiomatic preposition following 'interested' is 'in'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12671,
+            "question_text": "Complete the analogy: 'Book is to Author as Painting is to ____.'",
+            "options": [
+                "Gallery",
+                "Frame",
+                "Artist",
+                "Brush"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An author creates a book, just as an artist creates a painting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12672,
+            "question_text": "Which word is a synonym for 'Vivid'?",
+            "options": [
+                "Dull",
+                "Bright",
+                "Obscure",
+                "Faded"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Vivid means producing powerful feelings or strong, clear images in the mind; bright is a synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12673,
+            "question_text": "Choose the sentence that uses the past perfect tense.",
+            "options": [
+                "I eat lunch.",
+                "I have eaten lunch.",
+                "I had eaten lunch.",
+                "I was eating lunch."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The past perfect tense is formed by 'had' + past participle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12674,
+            "question_text": "What is the plural of 'Criterion'?",
+            "options": [
+                "Criterions",
+                "Criteria",
+                "Criterias",
+                "Criterion"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Criteria is the plural form of the singular noun criterion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

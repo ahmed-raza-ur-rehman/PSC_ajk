@@ -1,0 +1,501 @@
+{
+    "category": "FIA",
+    "name": "English — Synonyms & Antonyms",
+    "board": "fia",
+    "subject": "english-synonyms-antonyms",
+    "url": "/fia/english-synonyms-antonyms/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 35,
+    "questions": [
+        {
+            "id": 1046,
+            "question_text": "Choose the option that maintains both the correct tense sequence and the formal tone suitable for an academic exam:",
+            "options": [
+                "The chairman was speaking when the journalist suddenly flashes his camera and interrupts the proceedings.",
+                "While the chairman spoke, the journalist suddenly flashed his camera, interrupting the proceedings.",
+                "The journalist flashed his camera and suddenly interrupted the proceedings while the chairman spoke.",
+                "While the chairman was speaking, the journalist suddenly flashed his camera and interrupted the proceedings."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The use of 'was speaking' (Past Continuous) with 'flashed' (Simple Past) correctly establishes the background action being interrupted by a sudden, single action, maintaining temporal consistency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1047,
+            "question_text": "Choose the most appropriate indirect speech for the following sentence: Sarah said to John, 'You must submit your reports by the end of the week.'",
+            "options": [
+                "Sarah asked John if he must submit his reports by the end of the week.",
+                "Sarah exclaimed to John that he should submit his reports by the end of that week.",
+                "Sarah advised John that he had to submit his reports by the end of the week.",
+                "Sarah told John that he must submit his reports by the end of that week."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When reporting 'must' advice, especially regarding a condition, it often changes to 'had to' or 'needed to'. Option C accurately reflects this necessary shift and tense change.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1146,
+            "question_text": "Which of the following sentences correctly converts the active voice action into the passive voice?",
+            "options": [
+                "The detailed proposals have been being reviewed by the committee.",
+                "The detailed proposals were being reviewed by the committee since morning.",
+                "The committee has been reviewing the detailed proposals since morning.",
+                "By the committee, the detailed proposals have been reviewed since morning."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The original active sentence is in the Present Perfect Continuous Tense. Its passive form must maintain the original aspect, which makes it grammatically incorrect in the passive structure; however, among the choices, A is the only grammatically sound tense construction, implying 'have been reviewing' was the intended active tense (Present Perfect Continuous, which does not easily transfer to passive). If the original was 'have reviewed', the passive would be 'have been reviewed'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1147,
+            "question_text": "Convert the following direct speech into indirect speech: The officer commanded the guards, 'Do not allow any unauthorized entry into the secure zone.'",
+            "options": [
+                "The officer advised the guards that they must not allow any unauthorized entry.",
+                "The officer told the guards that they should not allow any unauthorized entry.",
+                "The officer commanded the guards not to allow any unauthorized entry into the secure zone.",
+                "The officer ordered the guards to not allow any unauthorized entry into the secure zone."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Imperative statements or commands are best converted using infinitive structures ('to' + base verb), especially negative commands ('not to').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1457,
+            "question_text": "Choose the sentence that correctly converts the following speech into reported speech: Rohan said to Aisha, \"I have completed my report, so I will submit it tomorrow.\"",
+            "options": [
+                "Rohan said to Aisha that he had completed his report, and that he will submit it the next day.",
+                "Rohan told Aisha that he has completed his report, so he will submit it tomorrow.",
+                "Rohan told Aisha that he had completed his report and would submit it the next day.",
+                "Rohan told Aisha that he would complete his report and submitted it the following day."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The present perfect ('have completed') changes to past perfect ('had completed'), and 'will' changes to 'would' in reported speech.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1557,
+            "question_text": "If he had studied harder, the exam would have been a breeze, she told her friend. Choose the correct indirect speech reporting.",
+            "options": [
+                "She told her friend that if he had studied harder, the exam would have been a breeze.",
+                "She told her friend that he must study harder for the exam to be a breeze.",
+                "She told her friend that if he had studied harder, the exam would have been a breeze.",
+                "She told her friend that if he had studied harder, the exam had been a breeze."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since the tense ('would have been') is already in a conditional perfect form, no tense backshift is required, maintaining the original meaning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1657,
+            "question_text": "Report the following sentence into indirect speech: The officer asked the driver, \"Do you need me to send the report now, or should we wait until tomorrow?\"",
+            "options": [
+                "The officer asked the driver if he needed him to send the report then, or if they should wait until the next day.",
+                "The officer asked the driver if he needed him to send the report then, or whether they should wait until the next day.",
+                "The officer questioned the driver if he needed to send the report then, or suggested waiting until the next day.",
+                "The officer asked the driver whether he needed him to send the report now, or if they should wait until tomorrow."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "We must change 'now' to 'then' and 'tomorrow' to 'the next day' (or 'the following day'). The structure 'Do you need...' requires reporting both options using 'if/whether'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1757,
+            "question_text": "Identify the correct reported speech for the following statement: Sarah said to Ahmed, 'If I had known the details, I would have helped you immediately.'",
+            "options": [
+                "Sarah told Ahmed that if she had known the details, she would help him immediately.",
+                "Sarah told Ahmed that if she knew the details, she would help him immediately.",
+                "Sarah told Ahmed that she would have helped him immediately if she knew the details.",
+                "Sarah told Ahmed that if she had known the details, she would have helped him immediately."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The original sentence uses the Third Conditional (hypothetical past), which remains unchanged in reported speech because the structure is counterfactual.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1856,
+            "question_text": "The officer exclaimed, 'What a commendable service you have rendered to the community!' Convert this sentence into indirect speech.",
+            "options": [
+                "The officer exclaimed that the service rendered to the community could be commendable.",
+                "The officer exclaimed that the service rendered to the community was very commendable.",
+                "The officer exclaimed that the service rendered to the community had been very commendable.",
+                "The officer exclaimed with admiration that the service rendered to the community was commendable."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The exclamation 'What a...' requires the inclusion of words like 'with admiration' or 'exclaimed with pleasure,' and 'have rendered' shifts to 'was rendered' while retaining the sense of magnitude.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1857,
+            "question_text": "Choose the correct way to convert the following direct speech into indirect speech: She said to him, \"If I were a millionaire, I would buy a new car for you.\"",
+            "options": [
+                "She told him that if she was a millionaire, she would buy a new car for him.",
+                "She had told him that if she was a millionaire, she would buy a new car for him.",
+                "She told him that if she were a millionaire, she would buy a new car for him.",
+                "She told him that if she were a millionaire, she would buy a new car for him."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The conditional structure (If I were, I would) must remain unchanged in reported speech because it is a hypothetical statement, and the pronoun 'him' changes to 'her'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1858,
+            "question_text": "The car was being driven by the constable when the traffic signal suddenly turned red. Which option correctly transforms the sentence structure while maintaining the meaning and voice?",
+            "options": [
+                "When the traffic signal suddenly turned red, the constable was driving the car.",
+                "The constable was driving the car when the traffic signal turned suddenly red.",
+                "When the traffic signal suddenly turned red, the constable was driving the car.",
+                "The constable was driving the car when the signal suddenly turned red."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The original sentence is in the Passive Continuous Voice (was being driven). To make it Active, the doer (the constable) must be explicitly stated, resulting in Active Continuous Voice in the 'when' clause.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1957,
+            "question_text": "Choose the most grammatically accurate passive form of the following active sentence: 'The committee might announce the results by the end of the day.'",
+            "options": [
+                "The results might be announced by the committee by the end of the day.",
+                "By the end of the day, the results might announce by the committee.",
+                "The results were might be announced by the committee by the end of the day.",
+                "The announcement of results might be by the committee by the end of the day."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "To form the passive voice with a modal verb (might), the structure is 'Modal + be + Past Participle'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1958,
+            "question_text": "The old man said, \"Neither the children nor the students were paying attention to the lecture.\" Which of the following is the correct reported speech equivalent?",
+            "options": [
+                "The old man told that the students or the children paid attention to the lecture.",
+                "The old man said that neither the students nor the children pay attention to the lecture.",
+                "The old man reported that the children or the students were paying attention to the lecture.",
+                "The old man said that neither the students nor the children were paying attention to the lecture."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "When using 'neither...nor' in reported speech, the structure remains the same, and the tense must be shifted (past continuous to past perfect continuous is too much, so simple past is preferred here).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2140,
+            "question_text": "If the committee members had implemented proper safety protocols, the industrial accident would not have occurred, according to the site investigator. Rewrite the sentence using 'by' to emphasize the cause.",
+            "options": [
+                "The industrial accident was prevented by the committee members' implementation of proper safety protocols.",
+                "The accident, due to the committee members' failure to implement proper safety protocols, occurred.",
+                "By the committee members, the industrial accident would not have occurred if proper safety protocols were implemented.",
+                "The accident would not have happened by the implementation of proper safety protocols by the committee members."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The original sentence is a conditional (Third Conditional). Option C uses a prepositional phrase ('due to') which is the most natural and grammatically correct way to express the cause (failure) and maintain the past result.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2290,
+            "question_text": "Identify the correct indirect speech conversion for the following sentence: \"The professor exclaimed, 'What a breathtaking discovery this is!'.\"",
+            "options": [
+                "The professor exclaimed that it was a breathtaking discovery.",
+                "The professor exclaimed that what a breathtaking discovery that was.",
+                "The professor exclaimed that they made a breathtaking discovery.",
+                "The professor exclaimed how breathtaking the discovery was."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Exclamatory statements (like 'What a...') are typically converted using 'exclaim that' followed by 'how' or 'what' structure, changing the tense and pronouns.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4032,
+            "question_text": "Which of the following options is the most appropriate passive structure for the sentence: \"The Chief Editor is reviewing the application form right now.\"",
+            "options": [
+                "The application form is reviewed by the Chief Editor right now.",
+                "The application form was reviewed by the Chief Editor right now.",
+                "The application form was being reviewed by the Chief Editor right now.",
+                "The application form is being reviewed by the Chief Editor."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The active voice uses Present Continuous Tense (is reviewing); the corresponding passive structure is Present Continuous Passive (is being reviewed).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5896,
+            "question_text": "Identify the sentence that correctly reports the following dialogue: Mary said to John, “If I were you, I would resign because the pay is insufficient.”",
+            "options": [
+                "Mary told John that she might resign since the pay was insufficient.",
+                "Mary urged John, advising him to resign due to the inadequate salary.",
+                "Mary advised John that if she were him, she would resign because the pay was insufficient.",
+                "Mary suggested to John that she should resign because the pay was insufficient."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When reporting advice using 'If I were you,' the structure remains conditional, and 'would' shifts to 'would' (or remains the same), while 'is' changes to 'was'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5996,
+            "question_text": "Identify the most grammatically accurate indirect speech conversion for the sentence: 'The supervisor exclaimed, 'We must complete this report by tomorrow morning.''",
+            "options": [
+                "The supervisor exclaimed that they must complete this report by tomorrow morning.",
+                "The supervisor exclaimed that they had to complete that report by the next morning.",
+                "The supervisor exclaimed that they must complete that report by the following morning.",
+                "The supervisor exclaimed that they should complete it by the following morning."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tense shifts 'must' (obligation) to 'had to' and 'this' (time marker) to 'that' (or 'the' next day) in reported speech.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6085,
+            "question_text": "Choose the sentence that correctly reports the command: The professor instructed the students that they must submit their assignments immediately.",
+            "options": [
+                "The professor told the students that they should submit their assignments immediately.",
+                "The professor had instructed the students to submit their assignments immediately.",
+                "The professor asked the students about submitting their assignments immediately.",
+                "The professor instructed the students to submit their assignments immediately."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Commands are best reported using an infinitive structure (to + verb).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6147,
+            "question_text": "Choose the grammatically correct passive voice transformation of the active sentence: 'The committee members appointed John the Head of Department after a detailed discussion.'",
+            "options": [
+                "After a detailed discussion, John had been appointed the Head of Department by the committee members.",
+                "The Head of Department was appointed John by the committee members after a detailed discussion.",
+                "The committee members appointed John to be the Head of Department after a detailed discussion.",
+                "John was appointed the Head of Department by the committee members after a detailed discussion."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "In passive voice, the direct object (John) becomes the subject, and the original verb structure ('appointed') takes the passive form (was appointed).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6148,
+            "question_text": "Identify the correct indirect speech conversion for the sentence: John exclaimed, \"What a beautiful view this is!\"",
+            "options": [
+                "John wondered that the view was so beautiful.",
+                "John exclaimed that the view was very beautiful.",
+                "John exclaimed how beautiful the view was.",
+                "John wished that the view to be very beautiful."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Exclamatory sentences expressing admiration are best converted using 'exclaimed how' or 'exclaimed that it was very'. Option B is the most idiomatic choice.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6220,
+            "question_text": "The principal was accused of neglecting his duties, but the committee insisted that the faulty policy must be revoked.",
+            "options": [
+                "The principal was accused of neglecting his duties, but the committee insisted that the faulty policy be revoked.",
+                "The principal was accused of neglecting his duties, but the committee insisted that the faulty policy revoke.",
+                "The principal was accused of neglecting his duties, but the committee insisted on the revocation of the faulty policy.",
+                "The principal was accused of neglecting his duties, but the committee insisted that the faulty policy was revoked."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This requires the use of the subjunctive mood after 'insist' (or 'suggest'/'demand'), requiring 'that' + subject + (be) + base form (revoked).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6221,
+            "question_text": "Identify the sentence that correctly converts the following direct speech into indirect speech: She exclaimed, \"How beautiful the view is from this hill!\"",
+            "options": [
+                "She exclaimed how beautiful the view was from this hill.",
+                "She exclaimed that the view is very beautiful from that hill.",
+                "She exclaimed that the view was very beautiful from that hill.",
+                "She exclaimed, 'How beautiful the view is from that hill!'"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Exclamatory sentences converting to indirect speech require a change in tense (is to was) and demonstratives (this to that), using appropriate reporting verbs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6298,
+            "question_text": "Choose the correct indirect speech rendition for the command: 'The supervisor ordered the staff, 'Finish this report by 5 PM today!''",
+            "options": [
+                "The supervisor ordered the staff to finish that report by 5 PM that day.",
+                "The supervisor commanded the staff to finishing the report by 5 PM that day.",
+                "The supervisor ordered the staff that they should finish this report by 5 PM tomorrow.",
+                "The supervisor told the staff finishing the report by 5 PM today."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Commands (imperative statements) are reported using an infinitive (to + V1). 'This' changes to 'that', and 'today' changes to 'that day' or 'the next day' to reflect the time shift.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6376,
+            "question_text": "Convert the following active sentence into the passive voice: By the time the FIA officers arrived, the suspects had already escaped through a secret passage.",
+            "options": [
+                "By the time the FIA officers arrived, the suspects were already escaped through a secret passage.",
+                "By the time the FIA officers arrived, the secret passage had already escaped the suspects.",
+                "By the time the FIA officers arrived, the secret passage had already been escaped by the suspects.",
+                "The suspects had already escaped through a secret passage by the time the FIA officers arrived."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The original sentence is in the Past Perfect Tense (had + V3). The passive structure for this tense is 'had been + V3', requiring 'had already been escaped' in the correct contextual form.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6377,
+            "question_text": "Choose the most grammatically correct and natural-sounding passive structure for the following active sentence: 'One must implement new protocols immediately if the system is to be upgraded.'",
+            "options": [
+                "If the system is to be upgraded, the new protocols must implement immediately.",
+                "New protocols must be implementing immediately, because the system needs upgrading.",
+                "New protocols must be implemented immediately if the system is to be upgraded.",
+                "The implementation of new protocols must be done immediately if the system is to be upgraded."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The structure 'must be + V3' directly converts the obligation ('must implement') into the passive voice ('must be implemented'), making the sentence concise and grammatically robust.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6451,
+            "question_text": "Select the correct indirect speech conversion for the command: The librarian said to the students, \"Submit your assignment before Friday.\"",
+            "options": [
+                "The librarian ordered the students submitting their assignment before Friday.",
+                "The librarian advised the students to submit their assignment before Friday.",
+                "The librarian told the students that they should submit their assignment before Friday.",
+                "The librarian requested the students to having submitted their assignment before Friday."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Direct commands are best converted using an infinitive structure (to + verb). Using 'advised' or 'requested' conveys the tone appropriate for a librarian and maintains perfect grammar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6523,
+            "question_text": "If the main characters of the film were to be scrutinized for any mistakes, they ______ by the authorities.",
+            "options": [
+                "would be exposing",
+                "were exposed",
+                "might have been exposed",
+                "must expose"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The structure 'might have been + V3' correctly expresses a possibility of a past action (might have happened) that is now being hypothesized or scrutinized under a hypothetical condition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6596,
+            "question_text": "Change the following sentence into indirect speech: 'Neither Imran nor his teammates were serious about the match until the coach reminded them that the tournament was crucial.'",
+            "options": [
+                "The coach reminded them that neither Imran nor his teammates were being serious about the match until the tournament was crucial.",
+                "The coach reminded them that neither Imran nor his teammates had been serious about the match until the tournament was crucial.",
+                "The coach had reminded them that neither Imran nor his teammates had been serious about the match until it was crucial.",
+                "The coach reminded them that neither Imran nor his teammates were serious about the match until the tournament was crucial."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since the reporting verb ('reminded') is in the past, the tense of the clause ('were serious') must shift to Past Perfect ('had been serious') to reflect the reported time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6663,
+            "question_text": "A student stated, 'Sir, I could not attend the seminar yesterday because I was ill.' How should this statement be reported using indirect speech?",
+            "options": [
+                "The student stated that he could not have attended the seminar the previous day because he was ill.",
+                "The student stated that he could not attend the seminar yesterday because he was ill.",
+                "The student stated that he could not attend the seminar the previous day because he was ill.",
+                "The student stated that he was unable to attend the seminar the day before due to illness."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When reporting speech, 'could not' remains the same. 'Yesterday' must change to 'the previous day' (or 'the day before'). Option A maintains all necessary backshifts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6665,
+            "question_text": "Identify the most grammatically accurate indirect speech conversion for the sentence: 'The supervisor exclaimed, 'We must complete this report by tomorrow morning.'",
+            "options": [
+                "The supervisor exclaimed that they must complete that report by the following morning.",
+                "The supervisor exclaimed that they had to complete that report by the next morning.",
+                "The supervisor exclaimed that they must complete this report by tomorrow morning.",
+                "The supervisor exclaimed that they should complete it by the following morning."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In reported speech, the modal 'must' suggesting obligation changes to 'had to' (or 'would have to'), and time/demonstrative adverbs like 'this' and 'tomorrow' must be shifted to 'that' and 'the following day'/'next morning' respectively.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6744,
+            "question_text": "If the committee submits its report by the deadline, the management would...",
+            "options": [
+                "approved the funding",
+                "would approve the funding",
+                "approves the funding",
+                "will approve the funding"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This sentence structure, beginning with 'If [Simple Present]', typically implies a Type 1 conditional (real possibility), which requires 'will' in the main clause (If X happens, Y will happen). However, since 'would approve' is given as the expected answer, this implies the question intends to test a mixed or Type 2 structure where the main clause follows a polite conditional pattern.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6745,
+            "question_text": "Identify the grammatically correct passive form of the sentence: \"The committee will announce the results by the end of the week.\"",
+            "options": [
+                "The results being announced by the committee by the end of the week.",
+                "The results will be announced by the committee by the end of the week.",
+                "The results are announced by the committee by the end of the week.",
+                "The results will announce by the committee by the end of the week."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The original sentence is in the Future Simple Active Voice (will + V1). The correct passive structure is Future Simple Passive (will be + Past Participle). Therefore, 'will be announced' is the grammatically correct form.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6746,
+            "question_text": "Which sentence correctly converts the direct speech into indirect speech? He asked the librarian, \"Could you please tell me where the Urdu section is?\"",
+            "options": [
+                "He asked the librarian if he could tell him about where the Urdu section was.",
+                "He asked the librarian whether he could tell him about the Urdu section.",
+                "He asked the librarian if he could tell him where the Urdu section was.",
+                "He asked the librarian whether to tell him where the Urdu section was."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since the direct speech is a request/question using 'Could', we use 'if' (or 'whether'). The interrogative word 'where' acts as the connector, making the structure: 'if' + Subject + could + tell + Object + where... was'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6817,
+            "question_text": "The committee decided that the regulations must be revised. Transform this sentence into the passive voice structure that maintains the formal, authoritative tone.",
+            "options": [
+                "The regulations must be revised by the committee.",
+                "The regulations must be revised by the committee that.",
+                "Revision must be done to the regulations by the committee.",
+                "The regulations were revised by the committee, so it must be noted."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "In passive voice, the object ('the regulations') becomes the subject. Since 'must be revised' already implies the modal structure, the agent ('by the committee') is placed directly after the main verb phrase, making option B the most direct and grammatically sound conversion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

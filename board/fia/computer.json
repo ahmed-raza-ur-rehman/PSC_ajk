@@ -1,0 +1,613 @@
+{
+    "category": "FIA",
+    "name": "Computer",
+    "board": "fia",
+    "subject": "computer",
+    "url": "/fia/computer/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 43,
+    "questions": [
+        {
+            "id": 1076,
+            "question_text": "Which component of an Operating System is responsible for managing the CPU time and allocating it among various processes?",
+            "options": [
+                "Memory Allocator",
+                "File System Manager",
+                "Device Driver Manager",
+                "Process Scheduler"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Process Scheduler selects and assigns CPU time slices to processes to ensure fair resource sharing among running tasks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1077,
+            "question_text": "Which keyboard shortcut is primarily used in MS Word to quickly remove paragraph formatting and restore the text to its default state?",
+            "options": [
+                "Ctrl + Space",
+                "Ctrl + Shift + P",
+                "Ctrl + U",
+                "Ctrl + Z"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ctrl + Space is the dedicated shortcut to remove manual formatting (like explicit font sizing or paragraph spacing) and reset it to the style definition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1078,
+            "question_text": "In MS Excel, if you want to calculate the average of a range of cells (A1 to A10) but exclude any cells that contain the text 'N/A', which function should you use?",
+            "options": [
+                "=AVERAGE(A1:A10)",
+                "=AVERAGE.IF(A1:A10, \"<>N/A\")",
+                "=AVERAGEIFS(A1:A10, \"N/A\")",
+                "=AVERAGEIF(A1:A10, \"<>N/A\")"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The AVERAGEIF function allows specifying a criterion (in this case, 'not equal to N/A') to calculate the average only for valid numeric cells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1486,
+            "question_text": "In Windows OS, what is the primary function of the Task Manager (Ctrl+Shift+Esc)?",
+            "options": [
+                "To monitor and manage running applications and system resources.",
+                "To change the computer's display resolution and monitor settings.",
+                "To manage user accounts and set global system policies.",
+                "To recover deleted files and restore previous system states."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Task Manager allows users to view, manage, and terminate problematic programs and analyze resource usage (CPU, Memory, Network).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1487,
+            "question_text": "When designing a presentation in MS PowerPoint, what feature should be utilized to ensure that a specific slide sequence is presented automatically, without the presenter needing to click through each slide?",
+            "options": [
+                "Transition Effects",
+                "Slide Show Timing",
+                "Animation Pane",
+                "Custom Slide Show"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A Custom Slide Show allows the user to select a specific, non-linear sequence of slides to be displayed automatically or manually, controlling the flow of the presentation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1586,
+            "question_text": "Which Linux command is used to view the usage statistics and resource consumption of currently running processes?",
+            "options": [
+                "ifconfig",
+                "top",
+                "ls -l",
+                "pwd -a"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'top' command provides a dynamic, real-time view of system resources and running processes, essential for system monitoring.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1588,
+            "question_text": "In Microsoft Excel, which function is most appropriate for counting the number of cells within a specified range that contain values meeting a given criterion?",
+            "options": [
+                "COUNTIFS",
+                "COUNTA",
+                "COUNTBLANK",
+                "COUNTIF"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "COUNTIF specifically counts cells that satisfy a single condition, making it ideal for criterion-based counting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1686,
+            "question_text": "In an Operating System context, what is the primary purpose of a 'Process Scheduler'?",
+            "options": [
+                "To determine which process should receive CPU time next.",
+                "To manage the physical memory allocation between processes.",
+                "To handle the graphical user interface (GUI) rendering.",
+                "To permanently store all user files and system data."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The scheduler is responsible for allocating CPU time to competing processes efficiently, managing multi-tasking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1786,
+            "question_text": "When comparing Windows and Linux operating systems, which feature best describes the foundational difference in managing system resources and allowing for decentralized customization?",
+            "options": [
+                "Linux does not require administrator passwords for basic user operations.",
+                "Linux uses a kernel architecture that is inherently modular and open-source, unlike Windows.",
+                "Windows offers superior hardware compatibility across all peripheral devices.",
+                "Windows exclusively supports GUI interfaces, limiting its console functionality."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Linux's modular, open-source kernel structure allows for extensive customization and transparency, which is its core architectural advantage over Windows.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1788,
+            "question_text": "In Microsoft Excel, which function is best suited for counting the number of cells within a given range that meet a specific criterion (e.g., counting all salaries greater than 50000)?",
+            "options": [
+                "COUNTIF",
+                "COUNTA",
+                "COUNTBLANK",
+                "SUMIF"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "COUNTIF specifically counts cells that meet a defined single criterion, making it ideal for range checking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1887,
+            "question_text": "In MS Excel, if a dataset contains many cells that appear to be blank but actually contain hidden spaces or non-printing characters, which function or tool is most effective for cleaning the data and removing these spurious entries?",
+            "options": [
+                "CLEAN function",
+                "LEN function",
+                "VALUE function",
+                "TRIM function"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The TRIM function removes excess spaces from text strings, ensuring data purity in the specified cells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1889,
+            "question_text": "Which function in Microsoft Excel is used to count the number of cells in a range that meet a specified criterion or criteria?",
+            "options": [
+                "SUMIF",
+                "COUNTIF",
+                "COUNTALL",
+                "COUNTA"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "COUNTIF counts cells based on one specified condition, making it ideal for criterion-based counting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1987,
+            "question_text": "In a Linux environment, which command is used to monitor the current usage of CPU, memory, and other system resources in real-time and is generally considered a comprehensive system monitor?",
+            "options": [
+                "lsof -i",
+                "ps aux",
+                "top",
+                "df -h"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 'top' command offers a dynamic, real-time view of system resource consumption, including CPU load and memory usage, making it the most comprehensive monitoring tool.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1988,
+            "question_text": "When designing a professional presentation in PowerPoint, which feature should be used to ensure consistent formatting (like font style, size, and colors) across multiple slides?",
+            "options": [
+                "Design Theme",
+                "Animation Pane",
+                "Notes Pane",
+                "Slide Master"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Slide Master allows users to modify the core layout and formatting of the entire presentation template.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1989,
+            "question_text": "When preparing a professional report in MS Word, which feature should be used to ensure consistent formatting and sequential numbering for chapter titles and subheadings?",
+            "options": [
+                "Watermark feature for branding the document",
+                "Style Gallery for basic text formatting",
+                "Table of Contents (TOC) generated with Heading Styles",
+                "Find and Replace function for consistent spelling"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Using Heading Styles (Heading 1, Heading 2, etc.) allows Word to automatically build a dynamically updated Table of Contents.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2104,
+            "question_text": "In Microsoft Excel, which function is most appropriate for counting the number of cells within a specified range that meet a given criterion, such as counting all 'Pass' entries?",
+            "options": [
+                "SUMIF",
+                "COUNTA",
+                "COUNTALL",
+                "COUNTIF"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "COUNTIF counts cells based on a single specified criterion (e.g., counting 'Pass' values).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2105,
+            "question_text": "Which feature in Microsoft Word allows a user to automatically generate customized documents, such as formal letters or certificates, by combining data from a source like an Excel spreadsheet?",
+            "options": [
+                "Cross-Referencing",
+                "Index Generation",
+                "Track Changes",
+                "Mail Merge"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Mail Merge automates the process of merging a standardized document template with variable data fields.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2515,
+            "question_text": "When designing a presentation in Microsoft PowerPoint, which feature allows you to pre-set the timings and transitions for specific slides to create a synchronized viewing experience?",
+            "options": [
+                "Rehearse Timings",
+                "Speaker Notes",
+                "Slide Master",
+                "Custom Animation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Rehearse Timings records the time spent on each slide, synchronizing the presentation for practice or delivery.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2565,
+            "question_text": "When preparing a professional document in MS Word, what is the best practice to ensure consistent formatting and structure across multiple sections?",
+            "options": [
+                "Manually applying font size and bold formatting throughout",
+                "Using Heading Styles and Table of Contents feature",
+                "Inserting section breaks between every chapter",
+                "Applying the same character spacing to all paragraphs"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Heading Styles automatically structure the document, enabling dynamic and consistent table generation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3076,
+            "question_text": "In Microsoft Excel, which function is used to count the number of cells within a range that meet a specified criterion?",
+            "options": [
+                "COUNTIF",
+                "AVERAGEIF",
+                "SUMIF",
+                "COUNTIFS"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "COUNTIF counts cells based on a single condition, making it suitable for simple criterion checks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3696,
+            "question_text": "When designing a professional presentation using PowerPoint, what is the primary function of the 'Slide Master' view?",
+            "options": [
+                "To embed multiple media types like videos and audio files.",
+                "To ensure visual consistency (fonts, layout, themes) across all slides.",
+                "To protect the presentation from unauthorized editing.",
+                "To insert custom animations and transitions between slides."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Slide Master controls the overall design template, ensuring consistent branding and formatting across the entire presentation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5925,
+            "question_text": "In Linux, which command is primarily used to view network configuration details, such as IP addresses, subnet masks, and broadcast addresses, on a machine?",
+            "options": [
+                "ifconfig -a",
+                "netstat -l",
+                "ip a",
+                "ip addr show"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While 'ip a' and 'ifconfig -a' are used, 'ip addr show' is the modern and recommended utility in newer Linux distributions for detailed IP configuration viewing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6025,
+            "question_text": "In the context of operating systems, what is the primary function of a 'kernel'?",
+            "options": [
+                "To serve as the Graphical User Interface (GUI) layer for user interaction.",
+                "To manage hardware resources and provide core services to applications.",
+                "To allow remote connectivity and network browsing only.",
+                "To store user-created data and configuration settings."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The kernel is the core component of an OS, mediating between the hardware and the application software.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6102,
+            "question_text": "In the context of file systems on Linux, what command is used to check the filesystem integrity and repair common structural issues?",
+            "options": [
+                "df -h",
+                "chmod -v",
+                "fsck",
+                "mount"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The fsck (file system check) utility is designed to examine and fix inconsistencies within the structure of the filesystem.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6170,
+            "question_text": "Which command is used in Linux to display the total amount of used and available memory in a human-readable format?",
+            "options": [
+                "top -u",
+                "vmstat -s",
+                "df -h",
+                "free -h"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The 'free -h' command provides a clear, human-readable summary of all available and used system memory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6241,
+            "question_text": "In the context of Windows operating systems, what is the primary function of the Task Manager?",
+            "options": [
+                "Managing user passwords and creating new local accounts.",
+                "Viewing system resources and managing running applications/processes.",
+                "Changing the system's graphical user interface theme and wallpaper.",
+                "Restoring the operating system to a previous state after a failure."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Task Manager monitors system performance and allows users to view, manage, and terminate processes and resource usage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6322,
+            "question_text": "Which concept allows a modern operating system, like Windows or Linux, to execute multiple processes concurrently, making it appear as if they are running simultaneously?",
+            "options": [
+                "Kernel Scheduling",
+                "Multi-processing",
+                "Memory Virtualization",
+                "Time-sharing"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Time-sharing is the technique that rapidly switches CPU execution between different tasks, giving the illusion of simultaneous execution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6323,
+            "question_text": "A user needs to calculate the total sum of sales only for the 'Punjab' region, but only if the sales amount is above PKR 50,000. Which Excel function should be used?",
+            "options": [
+                "SUM(criteria1, criteria2)",
+                "AGGREGATE(function, [..., omitted], [..., omitted], data_array)",
+                "COUNTIFS(range1, criteria1, range2, criteria2)",
+                "SUMIFS(sum_range, criteria_range1, criteria1, criteria_range2, criteria2)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The SUMIFS function is specifically designed to sum values based on multiple criteria (e.g., Region = Punjab AND Sales > 50,000).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6324,
+            "question_text": "In Microsoft Word, which method is best suited for creating a large volume of personalized documents, such as certificates or letters with varying recipient details?",
+            "options": [
+                "Mail Merge",
+                "Track Changes feature",
+                "Using Styles and Themes",
+                "Templates Gallery"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Mail Merge is specifically designed to combine a main document (like a letter) with a data source (like an Excel sheet) to generate personalized bulk documents.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6401,
+            "question_text": "Which process in an operating system manages the physical memory allocation and ensures that different running programs do not interfere with each other's memory space?",
+            "options": [
+                "Kernel Module Loader",
+                "Memory Management Unit (MMU)",
+                "Process Scheduler",
+                "File System Driver"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The MMU translates virtual addresses to physical addresses, which is the core mechanism that provides isolation and prevents memory conflicts between processes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6402,
+            "question_text": "Which keystroke combination is the standard shortcut used to undo the last action performed in most Microsoft Office applications?",
+            "options": [
+                "Ctrl + Z",
+                "Ctrl + X",
+                "Ctrl + A",
+                "Ctrl + Y"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ctrl + Z is the universally accepted shortcut command for undoing the most recently executed action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6403,
+            "question_text": "Which feature in MS PowerPoint allows users to display a customized set of slides, skipping or reorganizing the standard presentation flow, making it ideal for board reports or selective review?",
+            "options": [
+                "Slideshow Show",
+                "Animation Pane",
+                "Slide Master",
+                "Presenter View"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The feature described is 'Custom Show', which allows the user to select and display specific, non-sequential slides. None of the listed options (A, B, C, D) correctly identify this functionality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6467,
+            "question_text": "In Linux, if a user needs to grant read (r) and write (w) permissions to the owner (user) and the group (group), while restricting permissions for others (world), which symbolic chmod command should they use?",
+            "options": [
+                "chmod u+rw,g+rw,o- filename",
+                "chmod u=rw,g=rw,o= filename",
+                "chmod 660 filename",
+                "chmod 770 filename"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The symbolic mode (u=rw, g=rw, o=) explicitly sets the desired permissions: owner (u) read/write, group (g) read/write, and others (o) no permissions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6469,
+            "question_text": "In Microsoft Excel, which function is used to count the number of cells in a range that meet specific criteria?",
+            "options": [
+                "SUMIF",
+                "COUNTIFS",
+                "COUNTIF",
+                "AVERAGEIF"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "COUNTIFS is the function used to count cells that satisfy multiple specified criteria across different ranges.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6545,
+            "question_text": "In Linux operating system, which command is typically used to change the permissions of a file or directory (read, write, execute) for different user classes?",
+            "options": [
+                "ls -l",
+                "chmod",
+                "chown",
+                "mv"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'chmod' command changes file permissions (read, write, execute) for different users, while 'chown' changes the owner of the file.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6547,
+            "question_text": "When creating a professional presentation in PowerPoint, which feature allows a user to display specific information or visuals exactly when needed, controlling the flow of information?",
+            "options": [
+                "Slide Master",
+                "Animations",
+                "Hyperlinking",
+                "Triggers"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Triggers allow specific animations or actions to be executed only when a corresponding object or click occurs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6613,
+            "question_text": "In PowerPoint, if you want to ensure that specific elements (like slide numbers or corporate logos) appear consistently on every slide without manually adding them, you should utilize:",
+            "options": [
+                "Slide Layout View",
+                "Animation Pane",
+                "Notes Master",
+                "Slide Master"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Slide Master view allows users to apply consistent changes to the design, formatting, and background elements (like logos and slide numbers) of all slides in the presentation at once.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6689,
+            "question_text": "Which feature in Microsoft Excel allows users to automatically calculate and update multiple related calculations across different sheets or parts of the workbook?",
+            "options": [
+                "Conditional Formatting",
+                "Data Validation",
+                "Named Range",
+                "VLOOKUP function"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Named Range allows you to assign a descriptive name to a specific cell or range of cells. This name can then be used in formulas across different sheets, ensuring that if the source data changes, the calculation automatically updates consistently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6690,
+            "question_text": "To ensure consistent formatting and style across a long document in MS Word, what feature is most efficiently used?",
+            "options": [
+                "Mail Merge",
+                "Styles Pane",
+                "Header and Footer",
+                "Track Changes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Styles Pane allows the user to define, apply, and modify predefined formatting (like Heading 1, Normal) consistently throughout the entire document.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6766,
+            "question_text": "In PowerPoint, if you want to apply a visual effect (like Fade or Zoom) that occurs when moving from one slide to the next, which feature should you utilize?",
+            "options": [
+                "Motion Path",
+                "Custom Slide Show",
+                "Transition Tab",
+                "Animation Pane"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Transitions control how one slide leaves the view and the next slide enters it, while Animations control the movement of specific objects *on* a single slide.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6767,
+            "question_text": "When linking data from an Excel sheet to a PowerPoint slide, what method ensures that the embedded graph updates automatically if the source data in Excel is modified?",
+            "options": [
+                "Copy and Paste Special (Keep Source Formatting)",
+                "Linking the Object",
+                "Pasting as Picture",
+                "Embedding the Sheet"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Linking the object creates a dynamic connection. Any change to the original Excel file will automatically update the linked visualization in PowerPoint.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6839,
+            "question_text": "In Windows OS, what is the primary function of the Control Panel, as opposed to the Settings app?",
+            "options": [
+                "It provides a comprehensive, classic interface for managing system hardware and software settings.",
+                "Its use is deprecated in modern Windows versions and should not be used.",
+                "It is an outdated interface that cannot access modern network settings.",
+                "It is restricted only to advanced system administrators."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Control Panel offers a traditional, deep, and comprehensive set of tools for managing various aspects of the OS, while Settings aims for a more modern, streamlined user experience.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6840,
+            "question_text": "In Microsoft Excel, which function is correctly used to count the number of cells within a specified range that contain only numerical values?",
+            "options": [
+                "COUNTA",
+                "NUMCOUNT",
+                "COUNT",
+                "COUNTALL"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The COUNT function specifically counts cells containing numerical values. COUNTA counts non-empty cells, and COUNTALL counts all non-empty cell types.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

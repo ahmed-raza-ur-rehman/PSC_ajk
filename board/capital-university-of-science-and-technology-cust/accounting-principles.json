@@ -1,0 +1,165 @@
+{
+    "category": "Capital University of Science and Technology (CUST)",
+    "name": "Accounting Principles",
+    "board": "capital-university-of-science-and-technology-cust",
+    "subject": "accounting-principles",
+    "url": "/capital-university-of-science-and-technology-cust/accounting-principles/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11823,
+            "question_text": "Which accounting principle dictates that expenses should be recorded in the same period as the revenues they help generate?",
+            "options": [
+                "Revenue Recognition Principle",
+                "Matching Principle",
+                "Cost Principle",
+                "Going Concern Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The matching principle requires that expenses be recognized in the same period as the related revenues to accurately measure profit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11824,
+            "question_text": "If a company purchases office supplies on credit, which of the following is the correct journal entry?",
+            "options": [
+                "Debit Office Supplies, Credit Cash",
+                "Debit Accounts Payable, Credit Office Supplies",
+                "Debit Office Supplies, Credit Accounts Payable",
+                "Debit Cash, Credit Office Supplies"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Purchasing supplies on credit increases assets (Supplies) and increases liabilities (Accounts Payable).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11825,
+            "question_text": "Which accounting principle requires that financial statements be prepared assuming the entity will continue to operate in the foreseeable future?",
+            "options": [
+                "Historical Cost Principle",
+                "Going Concern Principle",
+                "Consistency Principle",
+                "Full Disclosure Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Going Concern Principle assumes a business will operate indefinitely, allowing assets to be recorded at cost rather than liquidation value.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11826,
+            "question_text": "Which principle suggests that small items that do not significantly impact the decisions of financial statement users can be handled in the most convenient manner?",
+            "options": [
+                "Materiality Principle",
+                "Revenue Recognition Principle",
+                "Objectivity Principle",
+                "Prudence Principle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Materiality allows accountants to ignore strictly rigorous accounting for insignificant amounts if it does not mislead stakeholders.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11827,
+            "question_text": "Under the accrual basis of accounting, when should a company recognize revenue?",
+            "options": [
+                "When the cash is received from the customer",
+                "When the performance obligation is satisfied",
+                "When the invoice is printed",
+                "At the end of the fiscal year"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Revenue recognition under accrual accounting occurs when control of goods or services is transferred to the customer, regardless of cash timing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11828,
+            "question_text": "Which financial statement serves as a snapshot of the entity's financial position at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Cash Flow Statement",
+                "Balance Sheet",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Balance Sheet reports assets, liabilities, and equity at a single specific date.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11829,
+            "question_text": "Which principle dictates that financial statements should reflect the economic substance of transactions rather than just their legal form?",
+            "options": [
+                "Substance over form",
+                "Consistency principle",
+                "Full disclosure principle",
+                "Historical cost principle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This principle ensures that the accounting treatment reflects the reality of the transaction, even if the legal structure suggests otherwise.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11830,
+            "question_text": "When a company chooses to use the same depreciation method for all years, which principle is being followed?",
+            "options": [
+                "Objectivity",
+                "Consistency",
+                "Revenue recognition",
+                "Conservatism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The consistency principle requires that once an accounting method is chosen, it should be followed consistently across periods to allow for comparability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11831,
+            "question_text": "Which principle implies that accountants should anticipate potential losses but not potential gains?",
+            "options": [
+                "Prudence (Conservatism)",
+                "Matching",
+                "Economic Entity",
+                "Monetary Unit"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The prudence principle dictates that when uncertainty exists, one should choose the option that does not overstate assets or income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11832,
+            "question_text": "The assumption that a business will exist long enough to fulfill its obligations is known as:",
+            "options": [
+                "Business entity assumption",
+                "Periodicity assumption",
+                "Going concern assumption",
+                "Accrual assumption"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The going concern assumption posits that the business will continue its operations indefinitely, justifying the valuation of assets at historical cost.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11833,
+            "question_text": "Which principle requires that all information relevant to the user's understanding of the financial statements be included?",
+            "options": [
+                "Full disclosure",
+                "Cost-benefit",
+                "Relevance",
+                "Reliability"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Full disclosure ensures that financial reports provide all necessary info to prevent users from being misled.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

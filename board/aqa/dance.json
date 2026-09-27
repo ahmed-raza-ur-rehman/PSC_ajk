@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Dance",
+    "board": "aqa",
+    "subject": "dance",
+    "url": "/aqa/dance/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8587,
+            "question_text": "Which element of dance relates to the force and flow of movement?",
+            "options": [
+                "Space",
+                "Energy",
+                "Time",
+                "Relationship"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Energy (or effort) describes how a movement is performed, such as sharp, smooth, or heavy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8822,
+            "question_text": "In dance, which element relates specifically to the weight, force, and flow of a performer's movement?",
+            "options": [
+                "Space",
+                "Dynamics",
+                "Time",
+                "Relationship"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dynamics describes the quality of movement, including the speed, energy, and force applied by the dancer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8823,
+            "question_text": "Which element of dance relates to the power and manner in which a dancer moves?",
+            "options": [
+                "Space",
+                "Dynamics",
+                "Relationships",
+                "Choreography"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dynamics in dance refer to the energy, force, weight, and flow used to perform movements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8824,
+            "question_text": "What does the 'space' element in dance primarily describe?",
+            "options": [
+                "The timing of the steps",
+                "The emotions of the dancer",
+                "The pathways, levels, and directions used on stage",
+                "The background music choice"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Space concerns how the performer uses the stage area, including levels, directions, and spatial patterns.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

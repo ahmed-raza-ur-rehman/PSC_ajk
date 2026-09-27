@@ -1,0 +1,151 @@
+{
+    "category": "Department of Motor Vehicles (DMV)",
+    "name": "Right-of-Way Rules",
+    "board": "department-of-motor-vehicles-dmv",
+    "subject": "right-of-way-rules",
+    "url": "/department-of-motor-vehicles-dmv/right-of-way-rules/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 6949,
+            "question_text": "Under what condition is it legal to turn right on a red light in most of the United States?",
+            "options": [
+                "You never have to stop at a red light",
+                "After coming to a complete stop and yielding to pedestrians and traffic",
+                "Only if there is no other traffic in sight",
+                "At any time as long as you use your turn signal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Turning right on red is permitted in all 50 states after a full stop and checking for safety, provided no signs prohibit it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6950,
+            "question_text": "What does the 'Move Over' law require you to do when passing a stopped emergency vehicle with flashing lights?",
+            "options": [
+                "Maintain your speed and stay in your lane",
+                "Change lanes or slow down to provide space",
+                "Speed up to pass quickly and clear the area",
+                "Stop completely in the travel lane"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Move Over law is designed to protect emergency responders and utility workers by requiring drivers to safely distance themselves from stopped vehicles with flashing lights.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6952,
+            "question_text": "When approaching a four-way stop at the same time as another vehicle, who has the right of way?",
+            "options": [
+                "The vehicle on the left",
+                "The vehicle that arrived first, or the vehicle on the right if arriving simultaneously",
+                "The vehicle that is going faster",
+                "The larger vehicle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The basic rule at a four-way stop is that the person who reaches the intersection first goes first. If two people arrive at the same time, the person on the right has priority.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6953,
+            "question_text": "What should you do when you see a vehicle entering a roundabout?",
+            "options": [
+                "Accelerate to get in front of them",
+                "Yield to traffic already in the roundabout",
+                "Stop and wait for the roundabout to be empty",
+                "Enter immediately regardless of traffic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Drivers entering a roundabout must yield to the vehicles already circulating inside it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6954,
+            "question_text": "If an emergency vehicle with flashing lights is approaching from behind, what should you do?",
+            "options": [
+                "Stay in your lane and maintain speed",
+                "Pull over to the right and stop if safe",
+                "Speed up to get out of the way",
+                "Make an immediate U-turn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Drivers are required to pull over to the right side of the road and stop to allow emergency vehicles to pass safely.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6955,
+            "question_text": "At an uncontrolled intersection, who must yield?",
+            "options": [
+                "The driver on the left must yield to the driver on the right",
+                "The driver going faster must yield",
+                "The driver going straight must yield to turning vehicles",
+                "Nobody has to yield"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "When two vehicles reach an uncontrolled intersection at the same time, the vehicle on the left should yield to the vehicle on the right.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6957,
+            "question_text": "If you arrive at a four-way stop at the same time as another vehicle, who has the right-of-way?",
+            "options": [
+                "The vehicle on the left",
+                "The vehicle on the right",
+                "The fastest vehicle",
+                "The larger vehicle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "At a four-way stop, if two cars arrive simultaneously, the vehicle on the right has the right-of-way.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6958,
+            "question_text": "What must you do when approaching a roundabout?",
+            "options": [
+                "Stop and wait for a green light",
+                "Yield to traffic already circulating in the roundabout",
+                "Always enter at high speed",
+                "Drive to the left of the center island"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Traffic inside the roundabout has the right-of-way; entering vehicles must yield to them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6959,
+            "question_text": "At an uncontrolled intersection, what should you do?",
+            "options": [
+                "Always accelerate through",
+                "Yield to the vehicle on your right",
+                "Only yield to buses",
+                "Stop only if there is a sign"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "At intersections without signs or signals, the general rule is to yield to the traffic approaching from the right.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6960,
+            "question_text": "If an emergency vehicle with flashing lights is approaching from behind, what is the safest action?",
+            "options": [
+                "Stay in your lane",
+                "Pull over to the right edge of the road and stop",
+                "Increase your speed",
+                "Stop immediately in the middle of the road"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Drivers are required to pull to the right and stop to allow emergency vehicles clear passage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

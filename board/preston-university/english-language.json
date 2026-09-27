@@ -1,0 +1,151 @@
+{
+    "category": "Preston University",
+    "name": "English Language",
+    "board": "preston-university",
+    "subject": "english-language",
+    "url": "/preston-university/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13681,
+            "question_text": "Choose the correct verb to complete the sentence: 'The team _____ practicing for the tournament every day.'",
+            "options": [
+                "is",
+                "are",
+                "were",
+                "been"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Collective nouns like 'team' take a singular verb when acting as a single unit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13682,
+            "question_text": "Identify the synonym for the word 'Prudent'.",
+            "options": [
+                "Careless",
+                "Wise",
+                "Hasty",
+                "Loud"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Prudent means acting with or showing care and thought for the future; wise.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13683,
+            "question_text": "Choose the correct sentence to complete the following: 'Neither the manager nor the employees _____ satisfied with the new policy.'",
+            "options": [
+                "was",
+                "were",
+                "is",
+                "has been"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When using 'neither/nor', the verb agrees with the subject closest to it. Here, 'employees' is plural, so 'were' is correct.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13684,
+            "question_text": "Which word is an antonym of 'Generous'?",
+            "options": [
+                "Benevolent",
+                "Stingy",
+                "Altruistic",
+                "Lavish"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Stingy means reluctant to give or spend, which is the opposite of generous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13685,
+            "question_text": "Select the correctly punctuated sentence.",
+            "options": [
+                "The book, which I read yesterday, was excellent.",
+                "The book which I read yesterday, was excellent.",
+                "The book which I read yesterday was excellent.",
+                "The book, which I read yesterday was excellent."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Non-restrictive clauses should be enclosed in commas.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13686,
+            "question_text": "What does the idiom 'break the ice' mean?",
+            "options": [
+                "To be very cold",
+                "To destroy something fragile",
+                "To initiate a conversation to ease tension",
+                "To win a competition"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The idiom 'break the ice' refers to overcoming social awkwardness in a new situation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13687,
+            "question_text": "Fill in the blank: 'Despite the rain, they decided to _____ with the outdoor event.'",
+            "options": [
+                "go on",
+                "go ahead",
+                "carry on",
+                "hold on"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Go ahead' is the standard phrasal verb meaning to proceed with a plan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13688,
+            "question_text": "Identify the word that is spelled incorrectly.",
+            "options": [
+                "Accommodate",
+                "Separate",
+                "Definately",
+                "Necessary"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling is 'Definitely'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13689,
+            "question_text": "Select the correct article to fill the blank: 'He is _____ honest man.'",
+            "options": [
+                "a",
+                "an",
+                "the",
+                "some"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Although 'honest' starts with a consonant letter, it begins with a vowel sound, therefore 'an' is used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13690,
+            "question_text": "What is the meaning of the word 'Ephemeral'?",
+            "options": [
+                "Permanent",
+                "Short-lived",
+                "Heavy",
+                "Ancient"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means lasting for a very short time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

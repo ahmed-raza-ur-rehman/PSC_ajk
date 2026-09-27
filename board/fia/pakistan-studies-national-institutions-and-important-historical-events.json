@@ -1,0 +1,669 @@
+{
+    "category": "FIA",
+    "name": "Pakistan Studies — National Institutions and Important Historical Events",
+    "board": "fia",
+    "subject": "pakistan-studies-national-institutions-and-important-historical-events",
+    "url": "/fia/pakistan-studies-national-institutions-and-important-historical-events/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 47,
+    "questions": [
+        {
+            "id": 1040,
+            "question_text": "Having completed their rigorous training, the officers, along with their commanding officer, were given assignments that required them to operate independently.",
+            "options": [
+                "Having completed their rigorous training, the officers and their commanding officer were given assignments that required them to operate independently.",
+                "Having completed their rigorous training, the officers, along with their commanding officer, were given assignments that required them to operate independently.",
+                "Having completed their rigorous training, the officers, with their commanding officer, were given assignments that required them to operate independently.",
+                "Having completed their rigorous training, the officers, along with their commanding officer, were given assignments which required them to operate independently."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The introductory phrase 'Having completed their rigorous training' modifies the entire subject group, not just 'the officers'; thus, 'along with' must be removed to maintain clarity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1041,
+            "question_text": "The author's primary tone when discussing the 'sheer volume and velocity of information' is best described as:",
+            "options": [
+                "Concerned, highlighting a complex and pressing intellectual challenge.",
+                "Alarmist, suggesting immediate social collapse is imminent.",
+                "Apathetic, suggesting that the user must solve the problem independently.",
+                "Pessimistic, implying inevitable systemic failure."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The author uses academic language to describe a pressing, complex problem, suggesting concern rather than pure despair or panic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1042,
+            "question_text": "Which of the following conclusions can be MOST logically drawn from the passage?",
+            "options": [
+                "Regulatory intervention is the only effective method to address the platform's algorithmic failures.",
+                "Digital platforms, by their very nature, are incapable of supporting genuine democratic discourse.",
+                "The challenge of misinformation requires both user vigilance and platform accountability reforms.",
+                "Improving media literacy alone is sufficient to counteract the spread of manipulated content."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The text emphasizes the need for a 'critical shift in media literacy' (user action) alongside addressing the algorithmic issues (platform accountability).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1240,
+            "question_text": "She only enjoys analyzing historical cases, especially those relating to regional geopolitical conflicts.",
+            "options": [
+                "She only enjoys to analyze historical cases, especially those relating to regional geopolitical conflicts.",
+                "She only enjoys analyzing historical cases, especially those relating to regional geopolitical conflicts.",
+                "She enjoys analyzing historical cases, especially only those relating to regional geopolitical conflicts.",
+                "She enjoys only analyzing historical cases, especially those relating to regional geopolitical conflicts."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The placement of 'only' is correct in option A, modifying the verb 'enjoys analyzing'; moving it changes the intended meaning (e.g., 'only analyzing' suggests she does nothing else).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1450,
+            "question_text": "Choose the option that best corrects the underlined grammatical error: 'The report suggested that the committee should consider implementing changes, which would benefit the overall efficiency of the system.'",
+            "options": [
+                "The report suggested that the committee should consider implementing changes, that would benefit",
+                "The report suggested that the committee should consider implementing changes, which are benefiting",
+                "The report suggested that the committee should consider implementing changes, and this would benefit",
+                "The report suggested that the committee should consider implementing changes, thereby benefiting"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Using 'thereby benefiting' correctly converts the non-restrictive clause into a participial phrase, showing cause and effect more smoothly than a comma splice.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1451,
+            "question_text": "Passage: The rapid proliferation of digital communication platforms, while hailed as a democratic equalizer, has inadvertently created new avenues for misinformation. The sheer volume and velocity of information exchanged make it challenging for the average user to distinguish between credible reporting and manipulative content. Furthermore, the algorithms governing these platforms often prioritize engagement over veracity, creating echo chambers where preconceived notions are reinforced and alternative viewpoints are systematically marginalized. This necessitates a critical shift in media literacy, moving beyond mere consumption to active, skeptical vetting of sources.\n\nAccording to the passage, what is the most critical problem presented regarding digital communication platforms?",
+            "options": [
+                "The primary issue is the marginalization of alternative viewpoints due to restricted communication avenues.",
+                "The average user lacks the necessary skills to filter out excessive volumes of information.",
+                "The algorithmic preference for engagement compromises the truthfulness of shared content.",
+                "Digital platforms have completely erased the distinction between credible and non-credible reporting."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The passage explicitly states that algorithms prioritize engagement over veracity, which is the core systemic problem leading to misinformation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1550,
+            "question_text": "Neither the students nor the professor (believe) / the theory to be accurate, thus requiring us to reevaluate our assumptions.",
+            "options": [
+                "believing",
+                "believes",
+                "have believed",
+                "believe"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "When 'neither...nor' connects two singular subjects and one plural subject (professor and students), the verb agrees with the subject closest to it (students), requiring 'believe'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1552,
+            "question_text": "Considering the inherent challenges of integrating advanced artificial intelligence into traditional bureaucratic workflows, the initial focus must pivot from mere technological capability to demonstrable, scalable operational efficiency. This measured approach ensures that the substantial investment yields tangible improvements rather than simply digitizing existing inefficiencies.",
+            "options": [
+                "Bureaucratic workflows inherently resist AI adoption due to entrenched procedural norms.",
+                "The priority for AI integration should be measurable process optimization rather than just adopting new technology.",
+                "Substantial investment in AI automatically guarantees operational efficiency improvements across all departments.",
+                "AI technology is superior to any traditional manual filing system in terms of speed."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage emphasizes that the focus must be on 'demonstrable, scalable operational efficiency' rather than just the technology itself.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1650,
+            "question_text": "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could avoid a significant overhaul of the departmental protocol.",
+            "options": [
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could not avoid a significant overhaul of the departmental protocol.",
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could avoid a significant overhaul of the departmental protocol.",
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could have avoided a significant overhaul of the departmental protocol.",
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could avoid avoiding a significant overhaul of the departmental protocol."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The structure 'If... had been' (Third Conditional) requires 'would not have' followed by 'could have' to maintain proper sequence and parallel tenses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1750,
+            "question_text": "Having finished the preliminary analysis, the committee was asked to submit a report detailing the findings, it was later recommended that a follow-up study be commissioned.",
+            "options": [
+                "findings—it was later recommended that a follow-up study be commissioned.",
+                "findings, and it was later recommended that a follow-up study be commissioned.",
+                "findings, it was later recommended that a follow-up study be commissioned.",
+                "findings; it was later recommended that a follow-up study be commissioned."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The original sentence contains a comma splice (joining two independent clauses with only a comma); 'and' is the most appropriate coordinating conjunction here.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1849,
+            "question_text": "Choose the most grammatically correct revision for the underlined portion: The committee was unable to reach a decision until the necessary background data were compiled and reviewed.",
+            "options": [
+                "The committee was unable to reach a decision until the necessary background data were compiled and reviewed.",
+                "The committee was unable to reach a decision until necessary background data were to be compiled and reviewed.",
+                "The committee was unable to reach a decision until the necessary background data was compiled and reviewed.",
+                "The committee was unable to reach a decision until the necessary background data were compiling and reviewing."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When 'data' is treated as a singular collective noun (as is common in official reports), it requires the singular verb 'was' and parallel structure 'was compiled and reviewed'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1951,
+            "question_text": "Despite of their best efforts, the team could not achieve the goal, owing to a lack of coordination among the members.",
+            "options": [
+                "Despite",
+                "Despite of",
+                "Though",
+                "In spite of"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The preposition 'despite' does not take the preposition 'of'; it is followed by a noun or gerund.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2036,
+            "question_text": "The recent surge in remote work capabilities, while offering unprecedented flexibility, simultaneously presents complex challenges related to maintaining corporate culture and ensuring data security compliance across decentralized physical boundaries. Organizations must therefore adopt hybrid models that mandate structured communication and robust digital safeguards.",
+            "options": [
+                "Data security compliance is primarily hampered by the lack of centralized physical office space.",
+                "The main challenge of remote work is solely maintaining employee morale, not data security.",
+                "Corporate culture thrives best when employees are physically present in the main office location.",
+                "Hybrid models are the mandatory solution for balancing flexibility with the need for structure and security."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage advocates for hybrid models to address the dual challenges of maintaining culture and ensuring data security across decentralized settings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2137,
+            "question_text": "According to the provided passage detailing historical shifts in trade routes, the 'Spice Trail' declined primarily because:",
+            "options": [
+                "Local political resistance in the Mediterranean ports forced all major trading powers to dismantle the established routes completely.",
+                "The exotic nature of the spices diminished in value as more regions outside Asia began cultivating them.",
+                "Overproduction of spices in the East led to market saturation, making long-distance trade unprofitable for major empires.",
+                "The rise of oceanic navigation provided faster, more reliable, and politically stable alternatives for commodity transfer."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Modern historical texts highlight that advancements in nautical technology and the Age of Exploration circumvented older, land-based routes like the Spice Trail.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2187,
+            "question_text": "The following passage describes the detrimental effects of unchecked industrial expansion on local biodiversity. Which of the following inferences can be drawn from the text regarding 'habitat fragmentation'?",
+            "options": [
+                "It primarily affects large mammal populations, causing them to migrate out of industrial zones entirely.",
+                "Fragmentation significantly reduces the genetic variability of species, making them susceptible to localized extinction.",
+                "Its main impact is limited to aesthetic degradation, having no measurable effect on population dynamics.",
+                "It is a natural process that has accelerated only due to human development, posing no inherent threat."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Habitat fragmentation reduces viable habitat size and connectivity, leading to genetic bottlenecks and diminished biodiversity, as discussed in environmental texts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2237,
+            "question_text": "A successful infrastructure project, such as developing advanced public transport networks, requires not only immense capital investment but also sophisticated stakeholder engagement. Ignoring community feedback or environmental impact assessments can lead to costly delays and public resistance, regardless of the project's technical merits.",
+            "options": [
+                "Stakeholder engagement and comprehensive impact assessments are critical for mitigating delays and public resistance in large-scale projects.",
+                "Technical merit alone is sufficient to guarantee the success of any major infrastructure development project.",
+                "Public resistance is generally negligible when a project offers significant modern benefits.",
+                "Financial investment is the only factor that determines the timely completion of infrastructure projects."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The text emphasizes that sophisticated stakeholder engagement and environmental assessments are required because ignoring them leads to delays and resistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2287,
+            "question_text": "In the context of the passage, the term 'echo chambers' most closely implies:",
+            "options": [
+                "A digital environment where individuals are exposed only to confirming opinions.",
+                "A type of media literacy that involves verifying information from multiple sources.",
+                "A physical space where information is amplified by surrounding people.",
+                "A deliberate governmental effort to restrict the flow of diverse viewpoints."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The passage explains that echo chambers reinforce preconceived notions and systematically marginalize alternative views.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2337,
+            "question_text": "According to the passage, the primary reason that early industrialization significantly altered traditional social structures was:",
+            "options": [
+                "The increased emphasis on aristocratic lineage over occupational skills.",
+                "The sudden shift from agrarian economies to wage-labor systems.",
+                "The lack of suitable infrastructure to support centralized manufacturing hubs.",
+                "The gradual resistance from established guilds which resisted technological change."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The transition from farming-based self-sufficiency to reliance on paid labor inherently dismantled pre-industrial social hierarchies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2447,
+            "question_text": "Passage: Critics argue that the implementation of rigid, standardized testing metrics overlooks the inherent dynamism of human knowledge. Education, they assert, should not be measured solely by recall scores but by the capacity for adaptive problem-solving and critical synthesis. To reduce learning outcomes to a numerical grade is to mistake performance on a limited scale for true intellectual growth, effectively penalizing curiosity in favor of predictable conformity.",
+            "options": [
+                "Predictable conformity is the most desirable trait for a well-educated individual.",
+                "The primary fault of current educational measurement is its focus on quantifiable recall rather than adaptable thought.",
+                "Curiosity and critical thinking naturally decline when students focus on high scores.",
+                "Standardized testing is effective because it accurately measures all facets of intellectual growth."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage critiques standardized testing for measuring only recall and scores, failing to capture the broader capacity for adaptive problem-solving and critical synthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2497,
+            "question_text": "The author suggests that relying solely on 'quick-fix' technological solutions, without considering sustainable resource management, will most likely lead to:",
+            "options": [
+                "The complete abandonment of technological innovation in favor of traditional methods.",
+                "A temporary boost in GDP followed by ecological collapse.",
+                "An immediate and permanent reduction in global carbon emissions.",
+                "A uniform global shift towards decentralized, local manufacturing."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage implies that unchecked technological enthusiasm often results in short-term gains at the expense of long-term environmental stability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2956,
+            "question_text": "Neither the deputy superintendent nor the investigating officers believes that the suspects were completely innocent after reviewing the latest evidence.",
+            "options": [
+                "Neither the deputy superintendent nor the investigating officers believe that the suspects were completely innocent after reviewing the latest evidence.",
+                "Neither the deputy superintendent nor the investigating officers believes that the suspects are completely innocent after reviewing the latest evidence.",
+                "Neither the deputy superintendent nor the investigating officers believes that the suspects were completely innocent after reviewing the latest evidence.",
+                "Neither the deputy superintendent nor the investigating officers believing that the suspects were completely innocent after reviewing the latest evidence."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "When connecting subjects with 'neither...nor,' the verb must agree with the subject closest to it (plural 'officers'), requiring the plural verb 'believe.'",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3108,
+            "question_text": "The recent shift towards sustainable energy sources, though economically challenging in the short term, is fundamentally necessary to mitigate the escalating impacts of climate change. Dependency on fossil fuels not only contributes significantly to atmospheric carbon loading but also destabilizes global ecosystems, demanding a comprehensive transition toward renewable technologies like solar and wind power.",
+            "options": [
+                "Transitioning to sustainable energy, despite initial costs, is crucial for environmental and global stability.",
+                "The primary driver for adopting renewable energy must be economic stability, overriding environmental concerns.",
+                "Fossil fuels are inherently manageable if global carbon capture technologies improve significantly.",
+                "Global ecosystems will naturally adapt to the increased carbon loading caused by fossil fuel dependency."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The passage explicitly states that the transition is 'fundamentally necessary to mitigate the escalating impacts of climate change.' ",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3578,
+            "question_text": "Passage: The concept of 'digital literacy' has evolved far beyond simply knowing how to use a smartphone. It now encompasses the ability to critically evaluate information encountered online, discern credible sources from misinformation, and navigate the complex ethical landscape of the internet. In an age of rapid content creation and deep fakes, mere access to technology is insufficient. True digital literacy requires a blend of technical skills, critical thinking, and media acumen to safeguard oneself and the public from digital exploitation and propaganda.",
+            "options": [
+                "Digital literacy is limited to understanding the basic functions of social media platforms for personal use.",
+                "Digital literacy is merely about possessing the latest technological gadgets and maintaining connectivity.",
+                "The primary focus of modern digital literacy is mastering complex software and hardware components.",
+                "It demands critical thinking and media acumen to vet information and understand digital ethics."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage emphasizes that true digital literacy requires critical thinking and media acumen, not just technical skills or gadget ownership.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3727,
+            "question_text": "The manager advised the employees that they must submitting their reports by the deadline, or they would face disciplinary action.",
+            "options": [
+                "submission",
+                "submitting",
+                "submit",
+                "to submit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The modal verb 'must' is followed by the bare infinitive form of the verb (submitting -> submit).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3979,
+            "question_text": "Passage: The rapid proliferation of digital communication tools, while hailed as a democratizing force, often masks a subtle erosion of deep intellectual engagement. Our inclination towards bite-sized information fragments privileges speed over profundity, conditioning the modern mind to seek quick confirmation rather than sustained contemplation. Consequently, the ability to synthesize complex ideas derived from disparate sources appears increasingly atrophied, replaced by a mere accumulation of readily digestible soundbites.",
+            "options": [
+                "Contemplation requires more sources than is generally available today.",
+                "The core argument is that digital speed hinders the capacity for deep, sustained thought.",
+                "The passage suggests that digital communication primarily enhances intellectual depth.",
+                "Soundbites are inherently superior to complex ideas because they are more accessible."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage argues that the speed of digital communication ('bite-sized information') leads to the atrophy of the ability for sustained contemplation (deep intellectual engagement).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4288,
+            "question_text": "The committee, after much deliberation, decided that the project's ambitious timeline was unsustainable, requiring a drastic restructuring of its core objectives and a more gradual phased approach.",
+            "options": [
+                "The committee, after much deliberation, decided that the project's ambitious timeline was unsustainable, requiring a drastic restructuring of its core objectives and a more gradual phased approach.",
+                "The committee, after much deliberation, decided that the project's ambitious timeline was unsustainable, requiring a drastic restructuring of its core objectives and a more gradual, phased approach.",
+                "The committee, after much deliberation, decided that the project's ambitious timeline was unsustainable, requiring a drastic restructuring of its core objectives and a more gradual, phased approach.",
+                "The committee, after much deliberation, decided that the project's ambitious timeline was unsustainable, requiring a drastic restructuring of its core objectives and a more gradual, phased approach."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When 'phased' modifies 'approach', it needs a hyphen to link 'gradual' and 'phased' correctly as a coordinated adjective, thus 'gradual, phased approach'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4490,
+            "question_text": "Identify the segment that requires correction in the following sentence: 'Although he was exhausted from the long journey, he continued to work diligently, demonstrating a professionalism that few people possess.'",
+            "options": [
+                "Although he was exhausted from the long journey",
+                "No correction is needed",
+                "he continued to work diligently",
+                "demonstrating a professionalism that few people possess"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The relative clause 'that few people possess' should be separated by commas or restructured, as 'possess' is acting awkwardly as a possessive replacement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5889,
+            "question_text": "Despite the initial difficulty of the new system, the trainees were impressed by how quickly the staff adapted, making the training process remarkably effective.",
+            "options": [
+                "Despite the initial difficulty of the new system, the trainees were impressed by the staff's quick adaptation, making the training process remarkably effective.",
+                "Despite the initial difficulty of the new system, the trainees were impressed by how quickly the staff adapted, which made the training process remarkably effective.",
+                "Despite the initial difficulty of the new system, the trainees were impressed by the staff's quick adaptation, thus making the training process remarkably effective.",
+                "Despite the initial difficulty of the new system, the trainees were impressed by how quickly the staff adapted, making the training process remarkably effective."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Option D corrects the dangling modifier/misplaced clause structure; the quick adaptation is the cause, and 'making' correctly modifies the preceding action/fact.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5989,
+            "question_text": "Having completed the mandatory training, the staff was informed that they could now operate the sensitive machinery.",
+            "options": [
+                "Having completed the mandatory training, the staff were informed that they could now operate the sensitive machinery.",
+                "Having completed the mandatory training, the staff was informed that they could now operate the sensitive machinery.",
+                "The staff was informed, having completed the mandatory training, that they could now operate the sensitive machinery.",
+                "The staff, having completed the mandatory training, was informed that it could now operate the sensitive machinery."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The initial phrase 'Having completed...' suggests an action by the staff; thus, the subject should be singular ('The staff... was informed') and the pronoun reference ('it') should maintain agreement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6079,
+            "question_text": "Although the report was meticulously reviewed, yet several fundamental errors were found that required immediate correction before submission.",
+            "options": [
+                "Although the report was meticulously reviewed, several fundamental errors were found that required immediate correction before submission.",
+                "Although the report was meticulously reviewed, however, several fundamental errors were found that required immediate correction before submission.",
+                "Although the report was meticulously reviewed, therefore several fundamental errors were found that required immediate correction before submission.",
+                "Although the report was meticulously reviewed, yet several fundamental errors were found that required immediate correction before submission."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The use of 'Although' establishes a subordinate clause, making the use of 'yet' redundant. Option A removes the faulty conjunction, resulting in clear grammar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6080,
+            "question_text": "According to the passage, the increasing popularity of remote work presents a significant challenge to established urban infrastructure. Which of the following statements best synthesizes the author's primary concern regarding this trend?",
+            "options": [
+                "The need for governments to mandate a minimum number of days in an office to sustain local commerce and tax bases.",
+                "The necessity for cities to rapidly convert residential areas into co-working spaces to accommodate the workforce.",
+                "The overwhelming burden placed on existing public transportation networks which are ill-equipped for decentralized travel patterns.",
+                "The decline in municipal tax revenue due to reduced daily physical presence of employees in central business districts."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage implies that fewer people in city centers reduce foot traffic, impacting retail and office services, thus harming the city's revenue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6144,
+            "question_text": "Choose the most grammatically correct sentence:",
+            "options": [
+                "The shipment contain various items, which needs careful checking.",
+                "Each students must submit their assignment before the deadline.",
+                "Between you and me, this policy is extremely questionable.",
+                "She is more taller than her sister, which is obvious."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Between' is correctly used when referring to two entities. Options B (contains/which need), C (taller), and D (Every student... his/her) contain errors in agreement or comparison.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6216,
+            "question_text": "Despite of the poor economy, the government continues to improve educational facilities and worker's welfare.",
+            "options": [
+                "Despite the poor economy, the government continue to improve educational facilities and workers' welfare.",
+                "Despite the poor economy, the government continues to improve educational facilities and workers' welfare.",
+                "Despite of the poor economy, the government continues to improve educational facilities and workers' welfare.",
+                "Despite of the poor economy, the government continues to improve educational facilities and workers' welfare."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct prepositional phrase is 'Despite the poor economy' (or 'In spite of the poor economy'), and 'government' requires the singular verb 'continues'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6217,
+            "question_text": "In the context of sustainable urban planning, integrating green spaces is often hailed as a panacea. While these spaces significantly mitigate the urban heat island effect and improve air quality, their true value lies in fostering community resilience and psychological well-being, which counteracts the emotional detachment induced by hyper-modernization.",
+            "options": [
+                "Green spaces are only effective if they are equipped with advanced, expensive technologies for maintenance.",
+                "Psychological well-being is only correlated with physical health, not with community connection.",
+                "The passage suggests that green spaces offer multi-faceted benefits extending beyond mere environmental improvements.",
+                "The primary goal of urban planning should be maximizing commercial development rather than integrating nature."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The text lists environmental benefits (heat mitigation, air quality) but emphasizes the deeper value of community resilience and psychological well-being.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6293,
+            "question_text": "Which word, based on the context, is the closest synonym for 'ubiquitous'?",
+            "options": [
+                "Scarcity",
+                "Sudden",
+                "Rare",
+                "Everywhere"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The term 'ubiquitous' means existing or found everywhere; thus, 'Everywhere' is the correct synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6294,
+            "question_text": "The author suggests that relying solely on empirical data without theoretical frameworks leads to:",
+            "options": [
+                "Perfectly accurate conclusions.",
+                "A complete disregard for human experience.",
+                "Immediate breakthroughs in technology.",
+                "Rigid and overly narrow perspectives."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Pure reliance on data without theoretical understanding results in limited interpretation and overly narrow perspectives, as theoretical frameworks provide necessary context.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6370,
+            "question_text": "Despite of the lack of necessary funds, the FIA successfully conducted the investigation into the financial irregularities, earning praise from senior officials.",
+            "options": [
+                "Despite the lack of necessary funds, the FIA successfully conducted the investigation into the financial irregularities, earning praise from senior officials.",
+                "Despite of the lack of necessary funds, the FIA successfully conducted the investigation into the financial irregularities, earning praise from senior officials.",
+                "Despite the lack of necessary funds, the FIA successfully conducted the investigation into the financial irregularities, which earned praise from senior officials.",
+                "Despite of the lack of necessary funds, the FIA successfully conducted the investigation into the financial irregularities, and it earned praise from senior officials."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The correct prepositional usage is 'Despite' or 'In spite of,' not 'Despite of.' Option B fixes the prepositional error while retaining the grammatical integrity of the concluding participle phrase.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6371,
+            "question_text": "According to the passage, what is the primary prerequisite for achieving sustainable urban development in Pakistan?",
+            "options": [
+                "Massive private investment in developing new commercial zones.",
+                "Fundamental reforms and coordinated oversight in urban governance.",
+                "Increased reliance on private sector entities for infrastructure building.",
+                "The immediate integration of all digital technologies into public services."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage emphasizes that sustainable development requires 'fundamental reforms in urban governance,' going beyond just physical infrastructure investment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6372,
+            "question_text": "The rapid proliferation of misinformation online poses a serious challenge to democratic discourse. While the ease of sharing content promotes connectivity, it simultaneously undermines the critical requirement for verifiable facts. Therefore, digital literacy cannot merely be viewed as a supplementary skill, but rather as a foundational pillar necessary for maintaining a robust and informed public sphere.",
+            "options": [
+                "The text primarily focuses on the technical difficulties associated with content sharing on social media.",
+                "The core argument suggests that digital literacy must be prioritized to sustain democratic processes.",
+                "Digital literacy is suggested merely as a helpful addition to existing educational frameworks.",
+                "The author claims that misinformation is solely caused by a lack of internet connectivity."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage argues that digital literacy is a foundational necessity (pillar) to combat misinformation and preserve democratic discourse.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6519,
+            "question_text": "He spoke to the chairman advising him to submit his full proposal by the end of the week.",
+            "options": [
+                "He spoke to the chairman advising him to submit his full proposal by the end of the week.",
+                "He spoke to the chairman, and he advised him to submit his full proposal by the end of the week.",
+                "He spoke to the chairman and advised him to submit his full proposal by the end of the week.",
+                "He spoke to the chairman, advising him that he should submit his full proposal by the end of the week."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The use of the non-restrictive clause structure ('advising him that...') in Option D is the most grammatically sophisticated and fluid choice.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6520,
+            "question_text": "If the digital transformation in governance proceeds without robust regulatory mechanisms, what is the most likely consequence, as warned by the passage?",
+            "options": [
+                "A complete shift of power from government bodies to tech companies.",
+                "The risk of becoming a vulnerability, leading to data misuse and civil liberty erosion.",
+                "An increased efficiency in policing and service delivery systems.",
+                "The establishment of powerful, independent data management authorities."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage warns that without strong regulations, the promise of digital governance 'risks becoming a vulnerability, potentially leading to misuse of personal data and erosion of civil liberties.'",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6591,
+            "question_text": "Which of the following sentences correctly uses the relative pronoun?",
+            "options": [
+                "Who researches climate change is the scientist who presented his findings.",
+                "The scientist, who researches climate change, presented his findings.",
+                "The scientist who researches climate change presented his findings.",
+                "The scientist, who, researches climate change, presented his findings."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The relative clause 'who researches climate change' is essential information defining the scientist (a restrictive clause), thus no commas are needed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6592,
+            "question_text": "The author uses the phrase 'ephemeral nature' primarily to suggest that:",
+            "options": [
+                "Reading comprehension skills fade rapidly without practice.",
+                "The physical infrastructure of education is inherently fragile.",
+                "Ideas and social trends can change or disappear quickly.",
+                "Knowledge acquired through formal schooling is temporary."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The context implies that academic theories and social understandings are constantly evolving and adapting, making them fleeting or temporary in the grand scheme of human knowledge and progress.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6593,
+            "question_text": "According to the passage, the primary tension driving the current economic discourse in Pakistan is best described as:",
+            "options": [
+                "The conflict between state control and private market expansion.",
+                "The debate over whether the energy sector should be fully privatized.",
+                "The resistance from older institutions attempting to regulate fintech innovation.",
+                "The struggle between rapid digital growth and underlying infrastructural weaknesses."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage notes that while 'digital infrastructure... has spurred significant economic growth,' it also 'exposes critical vulnerabilities,' defining this tension.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6737,
+            "question_text": "The implementation of new regulatory guidelines requires that all stakeholders familiarizing themselves with the changes.",
+            "options": [
+                "will familiarize themselves with the changes",
+                "become familiar with the changes",
+                "are familiarized with the changes",
+                "familiarize themselves with the changes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The phrase 'requires that' demands the use of the subjunctive mood, which requires a passive structure like 'are familiarized' to maintain formal, mandatory grammar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6738,
+            "question_text": "The students, who are preparing for the FPSC examination, needs to focus more on quantitative reasoning and grammar.",
+            "options": [
+                "The students, who are preparing for the FPSC examination, needs to focus more on quantitative reasoning and grammar.",
+                "The students, who are preparing for the FPSC examination, needing to focus more on quantitative reasoning and grammar.",
+                "The students, who are preparing for the FPSC examination, need to focus more on quantitative reasoning and grammar.",
+                "Students, who are preparing for the FPSC examination, needs to focus more on quantitative reasoning and grammar."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The main subject is the plural noun 'students.' The relative clause, while descriptive, does not change the number of the main subject. Therefore, the main verb must be 'need,' maintaining subject-verb agreement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6815,
+            "question_text": "The phrase 'exacerbate the underlying disparities' (as used in the context of economic policy) most accurately means:",
+            "options": [
+                "To equalize disparities by enforcing a uniform income structure across all sectors.",
+                "To intensify or worsen the pre-existing differences or inequalities.",
+                "To temporarily mitigate the disparities by introducing a limited government subsidy.",
+                "To redistribute the wealth disparity gradually through controlled market interventions."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Exacerbate means to make worse or aggravate; therefore, exacerbating disparities means making the existing inequalities worse or more severe.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "Riphah International University",
+    "name": "Biology",
+    "board": "riphah-international-university",
+    "subject": "biology",
+    "url": "/riphah-international-university/biology/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13600,
+            "question_text": "Which organelle is known as the 'powerhouse' of the cell?",
+            "options": [
+                "Nucleus",
+                "Mitochondria",
+                "Ribosome",
+                "Golgi apparatus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mitochondria are responsible for generating most of the cell's supply of adenosine triphosphate (ATP), which is used as a source of chemical energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13601,
+            "question_text": "What is the primary sugar produced during photosynthesis?",
+            "options": [
+                "Glucose",
+                "Lactose",
+                "Fructose",
+                "Sucrose"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Photosynthesis converts light energy into chemical energy, primarily in the form of glucose.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13602,
+            "question_text": "Which blood type is known as the universal donor?",
+            "options": [
+                "A+",
+                "B-",
+                "AB+",
+                "O-"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Type O- blood cells lack A, B, and Rh antigens, meaning they can be donated to individuals of any blood type.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13603,
+            "question_text": "Which part of the brain controls balance and coordination?",
+            "options": [
+                "Cerebrum",
+                "Cerebellum",
+                "Medulla",
+                "Thalamus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The cerebellum is the region of the brain responsible for maintaining posture, balance, and motor coordination.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13604,
+            "question_text": "What is the basic structural unit of life?",
+            "options": [
+                "Tissue",
+                "Organ",
+                "Cell",
+                "Molecule"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The cell is universally accepted as the fundamental structural and functional unit of all living organisms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13605,
+            "question_text": "In DNA, which nitrogenous base always pairs with Adenine?",
+            "options": [
+                "Cytosine",
+                "Guanine",
+                "Thymine",
+                "Uracil"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to base-pairing rules in DNA, Adenine (A) bonds with Thymine (T) via two hydrogen bonds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13606,
+            "question_text": "Which vitamin is synthesized in the human skin upon exposure to sunlight?",
+            "options": [
+                "Vitamin A",
+                "Vitamin C",
+                "Vitamin D",
+                "Vitamin K"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ultraviolet B rays from sunlight trigger the synthesis of Vitamin D in the skin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13607,
+            "question_text": "What is the process by which plants convert sunlight into chemical energy?",
+            "options": [
+                "Respiration",
+                "Transpiration",
+                "Photosynthesis",
+                "Fermentation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Photosynthesis is the process used by plants to convert light energy into chemical energy stored in glucose.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13608,
+            "question_text": "Which nitrogenous base is found in RNA but not in DNA?",
+            "options": [
+                "Adenine",
+                "Guanine",
+                "Cytosine",
+                "Uracil"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Uracil replaces thymine in RNA molecules.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13609,
+            "question_text": "What is the main function of red blood cells?",
+            "options": [
+                "Fight infection",
+                "Clot blood",
+                "Transport oxygen",
+                "Produce hormones"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Red blood cells contain hemoglobin, which binds to oxygen to transport it throughout the body.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

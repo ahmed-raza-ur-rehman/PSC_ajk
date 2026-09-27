@@ -1,0 +1,165 @@
+{
+    "category": "Northern University",
+    "name": "Personal Statement",
+    "board": "northern-university",
+    "subject": "personal-statement",
+    "url": "/northern-university/personal-statement/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11358,
+            "question_text": "What is the most effective approach to writing a personal statement for a need-based scholarship?",
+            "options": [
+                "Listing all academic awards achieved in middle school",
+                "Focusing solely on the family's total debt amounts",
+                "Reflecting on personal challenges, educational goals, and how the scholarship will impact your future",
+                "Writing a generic essay used for multiple university applications"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Scholarship committees look for a narrative that connects the student's personal background and aspirations to the value of the financial assistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11359,
+            "question_text": "Which element should generally be avoided in a scholarship personal statement?",
+            "options": [
+                "Specific career goals",
+                "Humorous or overly casual slang throughout the text",
+                "Evidence of personal growth",
+                "Concise descriptions of financial hardship"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A personal statement is a professional document; maintaining a formal and respectful tone is crucial for a scholarship application.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11360,
+            "question_text": "What is the primary goal of the personal statement for a need-based scholarship?",
+            "options": [
+                "To list every extracurricular award received",
+                "To provide context for financial needs and demonstrate character",
+                "To criticize the current education system",
+                "To summarize the academic transcript in prose"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The statement should humanize the applicant, explaining their hurdles and aspirations, rather than just repeating data found elsewhere in the application.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11361,
+            "question_text": "Which of these is a hallmark of a strong, persuasive scholarship essay?",
+            "options": [
+                "Using complex, archaic vocabulary",
+                "Focusing on the specific 'why' behind the financial request",
+                "Writing a list of all jobs the applicant has held",
+                "Maintaining a strictly clinical and detached tone"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scholarship committees want to understand the impact the money will have and the specific context of the student's need.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11362,
+            "question_text": "Why is it important for the personal statement to be unique to Northern University?",
+            "options": [
+                "To show that the student has researched the specific institution and its mission",
+                "To avoid accidental plagiarism from other university applications",
+                "Because the word count requirements differ by institution",
+                "To increase the length of the document"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Demonstrating alignment with the university's values shows sincerity and genuine interest, making the application more memorable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11363,
+            "question_text": "What is the primary risk of using a generic, reused personal statement for a need-based scholarship?",
+            "options": [
+                "It may result in a higher word count",
+                "It fails to address the unique mission and values of Northern University",
+                "It will automatically cause the system to crash",
+                "It makes the student look too qualified"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A successful personal statement demonstrates that the student has researched the specific institution and has a clear plan for how they fit within the university community.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11364,
+            "question_text": "Which narrative focus is generally considered most effective in a need-based scholarship personal statement?",
+            "options": [
+                "A detailed history of the student's family wealth",
+                "A list of every achievement from elementary school to high school",
+                "Personal growth through overcoming financial or personal obstacles",
+                "A critique of current university tuition policies"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Personal statements should tell a story that highlights resilience, character, and the personal development resulting from the student's life circumstances.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11365,
+            "question_text": "What does a 'compelling' personal statement achieve for the scholarship committee?",
+            "options": [
+                "It distracts from a low GPA",
+                "It provides a human context to the financial data provided",
+                "It acts as a substitute for tax documentation",
+                "It guarantees automatic approval"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The statement bridges the gap between cold financial figures and the real-world experiences and aspirations of the applicant.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11366,
+            "question_text": "What is an appropriate tone for a personal statement submitted to Northern University?",
+            "options": [
+                "Informal and colloquial",
+                "Academic, reflective, and professional",
+                "Demanding and entitled",
+                "Overly dramatic and hyperbolic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The statement should reflect the student's readiness for university study, maintaining a standard of professionalism while sharing personal insight.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11367,
+            "question_text": "When discussing financial need in a personal statement, what is the best strategy?",
+            "options": [
+                "Focusing solely on the dollar amount requested",
+                "Explaining the barriers created by the financial situation and how the scholarship will mitigate them",
+                "Blaming the government for lack of aid",
+                "Listing every luxury item the student does not own"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The committee wants to see how the aid will make an impact on the student's ability to achieve their educational goals, rather than just receiving funds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11368,
+            "question_text": "How much emphasis should be placed on 'future goals' in a need-based personal statement?",
+            "options": [
+                "None; the essay should only be about the past",
+                "A significant portion, connecting the degree to long-term impact",
+                "Only one sentence at the very end",
+                "The entire essay should be a resume of future jobs"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Showing a clear connection between the requested aid, the academic pursuit, and future professional contributions builds a persuasive case for investment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

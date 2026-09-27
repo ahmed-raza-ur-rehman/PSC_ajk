@@ -1,0 +1,193 @@
+{
+    "category": "Namal University",
+    "name": "Scholarship Interview",
+    "board": "namal-university",
+    "subject": "scholarship-interview",
+    "url": "/namal-university/scholarship-interview/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 11100,
+            "question_text": "What is the most effective way to answer the question, 'Why do you deserve this scholarship?'",
+            "options": [
+                "List your parent's financial struggles in great detail",
+                "Focus on your academic goals, potential impact, and how the funding removes barriers to success",
+                "Compare your situation to other students who are less deserving",
+                "Talk about how you plan to spend the money on personal items"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scholarship committees invest in outcomes; focusing on goals and the removal of obstacles shows vision and gratitude.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11101,
+            "question_text": "During a scholarship interview, what does 'professionalism' primarily entail?",
+            "options": [
+                "Wearing a tuxedo or formal evening gown",
+                "Arriving on time, dressing appropriately, and communicating clearly/respectfully",
+                "Having memorized answers to every possible question",
+                "Disagreeing with the interviewers to show confidence"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Professionalism is about demonstrating preparedness, respect for the process, and strong interpersonal communication skills.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11102,
+            "question_text": "What is the main goal of the 'Tell us about yourself' interview question?",
+            "options": [
+                "To hear your entire life history starting from childhood.",
+                "To identify your professional aspirations, current strengths, and relevant experiences.",
+                "To test how long you can talk without stopping.",
+                "To see if you have a prepared script for every question."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The answer should be a concise summary that links your past experience to your future goals and why you are a good candidate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11103,
+            "question_text": "During an interview, how should you address a question you don't know the answer to?",
+            "options": [
+                "Make up a plausible answer so you don't look uninformed.",
+                "Admit you don't know, but offer to follow up or explain how you would find the answer.",
+                "Stay silent until the interviewer moves on.",
+                "Change the topic to something you know well."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Honesty and problem-solving skills are valued more highly than trying to bluff an answer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11104,
+            "question_text": "Why is 'body language' significant during a scholarship interview?",
+            "options": [
+                "It counts for 90% of your academic score.",
+                "It conveys confidence, interest, and engagement to the interviewer.",
+                "It is used to judge your physical athletic ability.",
+                "It is only relevant if you are applying for a performing arts scholarship."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Non-verbal cues like eye contact and posture show respect, attentiveness, and professional poise.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11105,
+            "question_text": "What is the most effective approach to handling 'behavioral' interview questions (e.g., 'Tell me about a time you faced a conflict')?",
+            "options": [
+                "Describe the conflict in extreme detail.",
+                "Use the STAR (Situation, Task, Action, Result) method to provide a structured answer.",
+                "Focus entirely on how others were wrong in the situation.",
+                "Provide only a one-word answer."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The STAR method ensures your answer is organized, focused, and demonstrates your ability to take action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11106,
+            "question_text": "Why should you prepare specific questions to ask the interviewer at the end of the session?",
+            "options": [
+                "To show that you have researched the organization and are genuinely interested.",
+                "To waste time so they ask fewer questions.",
+                "To see if the interviewer knows their job well.",
+                "To get free advice on your personal career path."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Asking insightful questions demonstrates active engagement and thoughtful preparation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11107,
+            "question_text": "What is the correct way to dress for a standard scholarship interview?",
+            "options": [
+                "Casual athletic wear.",
+                "Business professional or business casual, as appropriate for the setting.",
+                "Whatever is trendiest at the moment.",
+                "Your most comfortable pajamas."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Appropriate attire reflects respect for the committee and your understanding of professional standards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11108,
+            "question_text": "How can you best demonstrate 'Alignment' with the scholarship’s values?",
+            "options": [
+                "By memorizing the scholarship's mission statement verbatim.",
+                "By sharing experiences that show how your goals mirror the organization’s objectives.",
+                "By complimenting the interviewer on their choice of scholarship name.",
+                "By claiming that you have always wanted this specific scholarship above all others."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Connecting your personal goals to the organization's mission proves that you are an ideal recipient for their specific program.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11109,
+            "question_text": "During an interview, what is the best way to handle a question about your weaknesses?",
+            "options": [
+                "Claim you have none.",
+                "State a major, irredeemable personal flaw.",
+                "Identify a genuine area for growth and explain the steps you are taking to improve.",
+                "Criticize a past teacher or mentor."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Self-awareness and a growth mindset are highly prized traits; this approach shows you are reflective and proactive.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11110,
+            "question_text": "If an interview is conducted virtually, what is a crucial technical consideration?",
+            "options": [
+                "Using a highly filtered background that obscures your face.",
+                "Ensuring stable internet, good lighting, and clear audio before the start time.",
+                "Keeping your phone within reach to check for messages during the call.",
+                "Turning off your video to save bandwidth."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Technical reliability is part of your professional presentation; failing this can cause unnecessary stress and disrupt the interview.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11111,
+            "question_text": "What does a 'Professional Follow-up' entail after an interview?",
+            "options": [
+                "Sending a thank-you email within 24 hours expressing appreciation for their time.",
+                "Calling the committee members daily until they provide a result.",
+                "Sending a gift to the interviewer's home office.",
+                "Asking for a list of other applicants."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A timely thank-you note is a standard professional courtesy that reinforces your interest and leaves a positive final impression.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11112,
+            "question_text": "What is the strategic purpose of utilizing the 'STAR' method (Situation, Task, Action, Result) during an interview?",
+            "options": [
+                "To memorize answers word-for-word",
+                "To provide a structured and evidence-based narrative for behavioral questions",
+                "To show the interviewer that you have rehearsed common scripts",
+                "To minimize the time spent answering questions"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The STAR method ensures that the applicant provides specific, measurable outcomes that directly answer the interviewer's prompt.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

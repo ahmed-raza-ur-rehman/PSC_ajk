@@ -1,0 +1,151 @@
+{
+    "category": "Pearson",
+    "name": "Accounting and Finance",
+    "board": "pearson",
+    "subject": "accounting-and-finance",
+    "url": "/pearson/accounting-and-finance/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13125,
+            "question_text": "Which financial statement reports a company's financial position at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Balance Sheet",
+                "Cash Flow Statement",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A balance sheet provides a snapshot of a company's assets, liabilities, and shareholders' equity at a specific date.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13126,
+            "question_text": "What is the primary purpose of the 'Current Ratio' in financial analysis?",
+            "options": [
+                "To measure profitability",
+                "To measure long-term solvency",
+                "To measure liquidity",
+                "To measure market value"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The current ratio (Current Assets / Current Liabilities) is a key metric used to assess a company's ability to cover its short-term obligations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13127,
+            "question_text": "Which accounting principle requires that expenses be recorded in the same period as the revenues they help generate?",
+            "options": [
+                "Matching Principle",
+                "Going Concern Principle",
+                "Consistency Principle",
+                "Monetary Unit Principle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The matching principle dictates that costs must be recognized in the period in which the associated revenue is earned.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13128,
+            "question_text": "What is the primary difference between Debt and Equity financing?",
+            "options": [
+                "Debt requires repayment with interest, while Equity involves selling ownership shares",
+                "Debt is for small companies, Equity is for large ones",
+                "Equity has a fixed maturity date",
+                "Debt represents ownership, Equity represents a loan"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Debt is a liability that must be repaid, while equity involves raising capital by selling a portion of the business.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13129,
+            "question_text": "Which ratio measures a company's ability to pay its short-term obligations with its most liquid assets?",
+            "options": [
+                "Debt-to-Equity ratio",
+                "Quick Ratio (Acid Test)",
+                "Return on Investment",
+                "Asset Turnover ratio"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Quick Ratio excludes inventory, focusing on highly liquid assets to measure short-term solvency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13130,
+            "question_text": "What is 'Depreciation' in accounting?",
+            "options": [
+                "The appreciation of asset value over time",
+                "The allocation of the cost of a tangible asset over its useful life",
+                "The process of paying off debt",
+                "The sudden loss of market share"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Depreciation spreads the cost of a long-term asset across the time it provides utility to the business.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13131,
+            "question_text": "What is the 'Double-Entry' accounting system based on?",
+            "options": [
+                "Assets = Liabilities + Equity",
+                "Revenue = Expenses",
+                "Cash = Profit",
+                "Assets = Liabilities - Equity"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The fundamental accounting equation is Assets = Liabilities + Equity, which must remain balanced.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13132,
+            "question_text": "What does a 'Net Profit Margin' of 15% indicate?",
+            "options": [
+                "The company keeps $0.15 of every dollar of revenue as profit",
+                "The company has a 15% tax rate",
+                "The company has 15% more profit than the previous year",
+                "The company has paid 15% of its debt"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Net profit margin indicates the percentage of revenue that remains after all expenses are subtracted.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13133,
+            "question_text": "Which financial document summarizes a company's revenues and expenses over a specific period?",
+            "options": [
+                "Balance Sheet",
+                "Cash Flow Statement",
+                "Income Statement",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The income statement shows the financial performance (profit or loss) of a business over a specific accounting period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13134,
+            "question_text": "What does 'Capital Expenditure' (CapEx) represent?",
+            "options": [
+                "Funds used to pay employee salaries",
+                "Money spent to acquire or upgrade physical assets",
+                "Operational costs for daily activities",
+                "Dividends paid to shareholders"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "CapEx is money companies use to purchase, upgrade, and maintain physical assets such as buildings, machines, or technology.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "Ministry of Education (MoE), UAE",
+    "name": "Physics",
+    "board": "ministry-of-education-moe-uae",
+    "subject": "physics",
+    "url": "/ministry-of-education-moe-uae/physics/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 9262,
+            "question_text": "What is the unit of force in the International System of Units?",
+            "options": [
+                "Joule",
+                "Newton",
+                "Watt",
+                "Pascal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Newton (N) is the SI unit of force, defined as 1 kg·m/s².",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9263,
+            "question_text": "An object moves at a constant velocity. What is its acceleration?",
+            "options": [
+                "Constant",
+                "Increasing",
+                "Zero",
+                "Decreasing"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Acceleration is defined as the rate of change of velocity; if velocity is constant, acceleration must be zero.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9264,
+            "question_text": "A car travels 100 meters in 10 seconds. What is its average speed?",
+            "options": [
+                "5 m/s",
+                "10 m/s",
+                "20 m/s",
+                "100 m/s"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Speed = Distance / Time = 100 / 10 = 10 m/s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9265,
+            "question_text": "Which law states that for every action, there is an equal and opposite reaction?",
+            "options": [
+                "Newton's First Law",
+                "Newton's Second Law",
+                "Newton's Third Law",
+                "Law of Gravitation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Newton's Third Law of Motion describes action-reaction pairs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9266,
+            "question_text": "What is the kinetic energy of a 2kg object moving at 3 m/s?",
+            "options": [
+                "6 J",
+                "9 J",
+                "12 J",
+                "18 J"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "KE = 0.5 * mass * velocity squared = 0.5 * 2 * 9 = 9 Joules.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9267,
+            "question_text": "What is the standard unit used to measure force?",
+            "options": [
+                "Joule",
+                "Watt",
+                "Newton",
+                "Pascal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Newton (N) is the SI unit of force.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9268,
+            "question_text": "An object moves at a steady, unchanging velocity. What is its acceleration?",
+            "options": [
+                "Positive",
+                "Negative",
+                "Zero",
+                "Changing"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Acceleration is defined as a change in velocity; if velocity is constant, acceleration is zero.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9269,
+            "question_text": "A vehicle covers 100 meters in 10 seconds. What is its average speed?",
+            "options": [
+                "5 m/s",
+                "10 m/s",
+                "100 m/s",
+                "1000 m/s"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Speed = Distance / Time = 100 / 10 = 10 m/s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9270,
+            "question_text": "Which principle states that for every action, there is an equal and opposite reaction?",
+            "options": [
+                "Newton's First Law",
+                "Newton's Second Law",
+                "Newton's Third Law",
+                "Law of Conservation of Energy"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Newton's Third Law of Motion explicitly describes action-reaction pairs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9271,
+            "question_text": "Calculate the kinetic energy of a 2kg object moving at 3 m/s.",
+            "options": [
+                "6 J",
+                "9 J",
+                "18 J",
+                "12 J"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Kinetic Energy = 0.5 * mass * velocity^2 = 0.5 * 2 * (3^2) = 1 * 9 = 9 J.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

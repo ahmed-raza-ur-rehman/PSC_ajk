@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Design and Technology",
+    "board": "aqa",
+    "subject": "design-and-technology",
+    "url": "/aqa/design-and-technology/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8825,
+            "question_text": "What is the main purpose of an iterative design process?",
+            "options": [
+                "To build the product only once",
+                "To avoid all testing",
+                "To improve a design through repeated testing and refining",
+                "To use only expensive materials"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An iterative process involves cycling through design, build, and test stages to continuously improve the outcome.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8826,
+            "question_text": "What is the main benefit of using an iterative design process?",
+            "options": [
+                "To avoid testing the product at all",
+                "To constantly refine and improve a design through repeated testing and feedback",
+                "To ensure the product is only made from plastic",
+                "To reduce the cost of marketing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Iteration involves repeating the cycle of prototyping, testing, and refining to ensure the final product is as good as possible.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8827,
+            "question_text": "What is the primary benefit of an iterative design process?",
+            "options": [
+                "It guarantees the product will be cheap",
+                "It allows for continuous improvement through testing and feedback",
+                "It ensures the product is only made once",
+                "It removes the need for sketching"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An iterative process involves repeating cycles of prototyping and testing to refine the final product based on user needs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8828,
+            "question_text": "What is a 'smart material'?",
+            "options": [
+                "A material that can respond to external stimuli like heat or light",
+                "A material made only from recycled plastic",
+                "A very strong metal that never bends",
+                "Any wood used in construction"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Smart materials (like thermochromic paint) have properties that change in response to environmental conditions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

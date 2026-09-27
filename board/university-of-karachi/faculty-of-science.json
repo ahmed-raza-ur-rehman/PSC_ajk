@@ -1,0 +1,109 @@
+{
+    "category": "University of Karachi",
+    "name": "Faculty of Science",
+    "board": "university-of-karachi",
+    "subject": "faculty-of-science",
+    "url": "/university-of-karachi/faculty-of-science/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 10587,
+            "question_text": "Which particle is responsible for carrying the negative charge in an atom?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Positron"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Electrons are subatomic particles with a negative elementary electric charge that orbit the nucleus of an atom.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10588,
+            "question_text": "What is the primary function of mitochondria in a eukaryotic cell?",
+            "options": [
+                "Protein synthesis",
+                "DNA replication",
+                "ATP production",
+                "Lipid storage"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are known as the powerhouse of the cell because they generate the majority of the cell's supply of adenosine triphosphate (ATP).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10589,
+            "question_text": "In the periodic table, which group of elements is known for having a full valence shell?",
+            "options": [
+                "Alkali metals",
+                "Halogens",
+                "Noble gases",
+                "Transition metals"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Noble gases have a complete set of valence electrons, making them chemically inert and stable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10590,
+            "question_text": "Which law of thermodynamics states that the entropy of a closed system always increases over time?",
+            "options": [
+                "Zeroth Law",
+                "First Law",
+                "Second Law",
+                "Third Law"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Second Law dictates that the total entropy of an isolated system can never decrease over time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10591,
+            "question_text": "In organic chemistry, which functional group is characterized by a carbon atom double-bonded to an oxygen atom?",
+            "options": [
+                "Hydroxyl group",
+                "Carbonyl group",
+                "Amino group",
+                "Carboxyl group"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A carbonyl group consists of a carbon atom joined to an oxygen atom by a double bond.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10592,
+            "question_text": "Which isotope is commonly used in radiocarbon dating to determine the age of organic materials?",
+            "options": [
+                "Carbon-12",
+                "Carbon-13",
+                "Carbon-14",
+                "Carbon-15"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Carbon-14 is a radioactive isotope used to date organic archaeological materials because it decays at a known, constant rate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10593,
+            "question_text": "Which phenomenon occurs when light waves change direction as they pass through a narrow aperture?",
+            "options": [
+                "Reflection",
+                "Refraction",
+                "Diffraction",
+                "Dispersion"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Diffraction is the bending of waves around the corners of an obstacle or through an aperture into the region of geometrical shadow.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,347 @@
+{
+    "category": "The Millennium Universal College (TMUC)",
+    "name": "General Academic Proficiency",
+    "board": "the-millennium-universal-college-tmuc",
+    "subject": "general-academic-proficiency",
+    "url": "/the-millennium-universal-college-tmuc/general-academic-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 24,
+    "questions": [
+        {
+            "id": 13949,
+            "question_text": "Select the sentence that is grammatically correct.",
+            "options": [
+                "Each of the students have finished their project.",
+                "Each of the students has finished their project.",
+                "Each of the students have finished there project.",
+                "Every students has finished their project."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject 'Each' is singular, therefore it requires the singular verb 'has'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13950,
+            "question_text": "If a store offers a 20% discount on a $50 item, what is the final price of the item?",
+            "options": [
+                "$45",
+                "$30",
+                "$40",
+                "$35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "20% of $50 is $10. Subtracting $10 from $50 equals $40.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13951,
+            "question_text": "Which of the following best defines the term 'deductive reasoning'?",
+            "options": [
+                "Drawing general conclusions from specific observations",
+                "Reaching a specific conclusion by applying general principles",
+                "Ignoring evidence that contradicts a hypothesis",
+                "The process of brainstorming creative ideas"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Deductive reasoning moves from a general premise to a specific, certain conclusion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13952,
+            "question_text": "If a rectangle has a length of 10 cm and a width of 5 cm, what is its perimeter?",
+            "options": [
+                "15 cm",
+                "20 cm",
+                "30 cm",
+                "50 cm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The perimeter of a rectangle is calculated as 2 * (length + width). Here: 2 * (10 + 5) = 2 * 15 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13953,
+            "question_text": "Which of the following sentences uses a semicolon correctly?",
+            "options": [
+                "The team finished the project; but they were late.",
+                "I enjoy business law; my brother prefers marketing.",
+                "He went to the store; to buy milk.",
+                "Because it was raining; we stayed inside."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A semicolon is used to connect two independent clauses that are closely related in thought.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13954,
+            "question_text": "If 3x + 5 = 20, what is the value of x?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Subtract 5 from both sides to get 3x = 15, then divide by 3 to get x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13955,
+            "question_text": "Which word is a synonym for 'mitigate'?",
+            "options": [
+                "Aggravate",
+                "Intensify",
+                "Alleviate",
+                "Expand"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To mitigate means to make less severe, serious, or painful, which is synonymous with to alleviate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13956,
+            "question_text": "If a train travels at 60 miles per hour, how far will it travel in 2 hours and 30 minutes?",
+            "options": [
+                "120 miles",
+                "140 miles",
+                "150 miles",
+                "180 miles"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Distance = Speed * Time. 60 mph * 2.5 hours = 150 miles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13957,
+            "question_text": "Which of these is a primary source of data?",
+            "options": [
+                "A textbook chapter about historical events",
+                "A biography written about a famous CEO",
+                "Original interview transcripts from a research study",
+                "An online encyclopaedia article"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Primary sources are original documents or data collected directly by the researcher, rather than interpretations by others.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13958,
+            "question_text": "Select the correct plural form of 'analysis'.",
+            "options": [
+                "Analysises",
+                "Analysises",
+                "Analyses",
+                "Analysi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The word 'analysis' is of Greek origin, and its correct plural form is 'analyses'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13959,
+            "question_text": "What is the average of 10, 20, 30, and 40?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The average is the sum divided by the count: (10 + 20 + 30 + 40) / 4 = 100 / 4 = 25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13960,
+            "question_text": "Which logical fallacy occurs when someone attacks the character of the opponent rather than the argument itself?",
+            "options": [
+                "Ad hominem",
+                "Straw man",
+                "Red herring",
+                "Slippery slope"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An 'ad hominem' attack diverts attention from the argument by insulting or discrediting the person making it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13961,
+            "question_text": "If a book is marked down by 30% from its original price of $20, what is the new price?",
+            "options": [
+                "$14.00",
+                "$6.00",
+                "$16.00",
+                "$17.00"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "30% of $20 is $6. $20 - $6 = $14.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13962,
+            "question_text": "Which of the following describes inductive reasoning?",
+            "options": [
+                "Starting with a general rule and applying it to a specific case",
+                "Making generalizations based on specific observations or patterns",
+                "Using a mathematical formula to prove a theorem",
+                "Following a strictly linear logical path"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inductive reasoning builds from specific facts to broader generalizations, unlike deductive reasoning which starts with a rule.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13963,
+            "question_text": "Which word completes the sentence: 'The committee members could not agree on _________ plan'?",
+            "options": [
+                "its",
+                "their",
+                "it's",
+                "there"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In American English, collective nouns like 'committee' are often treated as plural when referring to the individuals within the group.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13964,
+            "question_text": "If a circle has a radius of 7 cm (use 22/7 for π), what is the area?",
+            "options": [
+                "44 sq cm",
+                "154 sq cm",
+                "110 sq cm",
+                "49 sq cm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The area of a circle is π * r^2. (22/7) * 7 * 7 = 22 * 7 = 154.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13965,
+            "question_text": "Which is the correct order of operations in mathematics?",
+            "options": [
+                "Addition, Subtraction, Multiplication, Division",
+                "Parentheses, Exponents, Multiplication/Division, Addition/Subtraction",
+                "Multiplication, Addition, Division, Subtraction",
+                "Exponents, Parentheses, Addition, Multiplication"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The acronym PEMDAS (or BODMAS) defines the standard order of operations to solve expressions correctly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13966,
+            "question_text": "If the ratio of men to women in a room is 3:2 and there are 20 people total, how many men are in the room?",
+            "options": [
+                "10",
+                "12",
+                "8",
+                "15"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ratio parts (3+2) equal 5. Each 'part' is 20/5 = 4 people. Men = 3 parts * 4 = 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13967,
+            "question_text": "Which of the following is an example of an inference?",
+            "options": [
+                "The report states that revenue increased by 5%.",
+                "Since the clouds are dark, it will likely rain soon.",
+                "The office is located in downtown London.",
+                "Water boils at 100 degrees Celsius at sea level."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An inference is a conclusion reached on the basis of evidence and reasoning rather than explicit fact.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13968,
+            "question_text": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+            "options": [
+                "20",
+                "24",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern is doubling the previous number (2^n). 16 * 2 = 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13969,
+            "question_text": "Which of the following best defines 'critical thinking'?",
+            "options": [
+                "Accepting the views of experts without question",
+                "Memorizing facts and dates for later recall",
+                "Objectively analyzing and evaluating information to form a judgment",
+                "Relying solely on intuition to make choices"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Critical thinking involves the objective analysis and evaluation of an issue in order to form a reasoned judgment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13970,
+            "question_text": "What is the antonym of 'verbose'?",
+            "options": [
+                "Loquacious",
+                "Concise",
+                "Wordy",
+                "Detailed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Verbose means using more words than needed, whereas concise means being brief and to the point.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13971,
+            "question_text": "If a project takes 4 workers 10 days to complete, how long would it take 8 workers to complete the same project (assuming same efficiency)?",
+            "options": [
+                "20 days",
+                "5 days",
+                "8 days",
+                "15 days"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The relationship is inversely proportional. Doubling the workforce halves the time required: (4 * 10) / 8 = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13972,
+            "question_text": "Identify the logical fallacy in the following statement: 'We should not listen to the consultant's advice on efficiency because he drives an old, beat-up car.'",
+            "options": [
+                "Ad hominem",
+                "Straw man",
+                "Slippery slope",
+                "False dilemma"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An ad hominem fallacy occurs when the person's character or personal traits are attacked instead of the substance of their argument.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

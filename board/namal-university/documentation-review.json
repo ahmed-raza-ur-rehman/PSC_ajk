@@ -1,0 +1,193 @@
+{
+    "category": "Namal University",
+    "name": "Documentation Review",
+    "board": "namal-university",
+    "subject": "documentation-review",
+    "url": "/namal-university/documentation-review/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 11086,
+            "question_text": "When submitting digital copies of documents, why is it critical to ensure they are high-resolution and properly oriented?",
+            "options": [
+                "It is required by law for all applications",
+                "It ensures the review committee can read and verify the data without delay",
+                "It increases the file size to meet system requirements",
+                "It makes the application look more aesthetically pleasing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Clarity is essential for reviewers to quickly authenticate documents; illegible documents often lead to automatic disqualification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11087,
+            "question_text": "Which of the following describes an 'attested' document in the context of scholarship applications?",
+            "options": [
+                "A document that has been digitally scanned",
+                "A document that has been verified and stamped by an authorized official",
+                "A document that is written in the applicant's own handwriting",
+                "A document that has been translated into multiple languages"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Attestation confirms the authenticity of a photocopy by comparing it with the original document.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11088,
+            "question_text": "Why is it mandatory for official transcripts to be submitted in a sealed envelope or via a secure electronic portal?",
+            "options": [
+                "To ensure the documents are heavy enough for mailing.",
+                "To prevent tampering and ensure the authenticity of the records.",
+                "To make the application package look professional.",
+                "To ensure the printer ink doesn't smudge."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The security of the transcript is vital to prove that the academic records have not been altered by the student.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11089,
+            "question_text": "What is a 'Letter of Recommendation' primarily meant to evaluate?",
+            "options": [
+                "The applicant's handwriting skills.",
+                "The applicant’s character, work ethic, and academic potential from a third-party perspective.",
+                "The applicant's parents' social status.",
+                "The applicant's ability to write a formal letter."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Recommendations provide an unbiased assessment of the student's personal and professional qualities by someone who knows them well.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11090,
+            "question_text": "What does a 'notarized' document signify?",
+            "options": [
+                "That the document has been translated into a second language.",
+                "That a public official has verified the identity of the signer and the authenticity of the signature.",
+                "That the document is written in gold leaf.",
+                "That the document is exempt from taxes."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Notarization adds a layer of legal verification, confirming that the person signing the document is who they claim to be.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11091,
+            "question_text": "If a scholarship asks for a 'Personal Statement,' what is the common pitfall to avoid?",
+            "options": [
+                "Writing about your personal background.",
+                "Repeating information that is already clearly visible on your resume or transcript.",
+                "Using a professional tone.",
+                "Expressing your genuine academic goals."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The personal statement should provide new, qualitative insight that the other documents do not offer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11092,
+            "question_text": "Why must all submitted copies of documents be legible and clear?",
+            "options": [
+                "So that the scholarship committee can post them on social media.",
+                "To allow the reviewers to verify all data points without ambiguity or errors in transcription.",
+                "Because digital files have size limits.",
+                "To ensure the document fits in a standard file folder."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Blurred or unreadable documents can lead to clerical errors or disqualification due to unverifiable information.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11093,
+            "question_text": "What is the purpose of an 'Income Certificate' in a scholarship application?",
+            "options": [
+                "To confirm the applicant's eligibility for sports teams.",
+                "To provide official, government-authorized proof of the family's total annual earnings.",
+                "To list the family's favorite vacation spots.",
+                "To serve as a substitute for a transcript."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An income certificate is a formal government document that verifies financial status for welfare or scholarship purposes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11094,
+            "question_text": "When a document is described as 'Certified,' what does it mean?",
+            "options": [
+                "It is a photocopy made by the student.",
+                "It has been verified by the issuing authority as an accurate copy of the original record.",
+                "It is a draft document that hasn't been finalized.",
+                "It is an old document that is no longer valid."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A certified copy carries the authority of the original, ensuring reviewers that the document is reliable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11096,
+            "question_text": "Why might an application be rejected even if the student is highly qualified?",
+            "options": [
+                "Because they didn't include a personal essay about their hobbies.",
+                "Because of missing or improperly formatted required documentation.",
+                "Because the school is located in a different city.",
+                "Because the student uses a blue pen instead of black."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Administrative compliance is critical; incomplete or incorrectly filed documentation typically leads to immediate rejection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11097,
+            "question_text": "What is the primary risk of using a low-resolution scan of a sensitive document?",
+            "options": [
+                "The file size will be too large to upload.",
+                "Text may become unreadable, preventing verification of critical information.",
+                "The scan will be too bright to read on a screen.",
+                "The file will be incompatible with mobile phones."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Legibility is paramount for any verification process; low resolution can pixelate numbers and names, rendering them useless.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11098,
+            "question_text": "How should an applicant handle an 'Errata' or mistake found in their submitted application documents?",
+            "options": [
+                "Ignore it and hope no one notices.",
+                "Immediately notify the scholarship office with the corrected document and an explanation.",
+                "Wait until the interview to mention the mistake.",
+                "Submit a new application without telling anyone."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Proactive communication shows integrity and allows the committee to update the record accurately.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11099,
+            "question_text": "When submitting a redacted bank statement for financial verification, what is the primary purpose of obscuring account numbers?",
+            "options": [
+                "To hide the actual balance from the committee",
+                "To maintain data privacy and prevent identity theft",
+                "To make the document look more professional",
+                "To save ink during the printing process"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Protecting sensitive financial identifiers is a standard security practice when submitting documentation to third-party scholarship boards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,375 @@
+{
+    "category": "National Excellence Institute",
+    "name": "Analytical Reasoning",
+    "board": "national-excellence-institute",
+    "subject": "analytical-reasoning",
+    "url": "/national-excellence-institute/analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 26,
+    "questions": [
+        {
+            "id": 13410,
+            "question_text": "If all Bloops are Razzies, and all Razzies are Lazzies, which statement must be true?",
+            "options": [
+                "All Lazzies are Bloops.",
+                "All Bloops are Lazzies.",
+                "Some Lazzies are not Razzies.",
+                "No Bloops are Lazzies."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a transitive logical relationship: A=B and B=C, therefore A=C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13411,
+            "question_text": "A clock strikes once at 1:00, twice at 2:00, and so on. How many times does it strike in 24 hours?",
+            "options": [
+                "78",
+                "156",
+                "144",
+                "160"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sum of 1 through 12 is 78. In 24 hours, the cycle happens twice (78 * 2 = 156).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13412,
+            "question_text": "If A is older than B, and B is older than C, then A is _____ than C.",
+            "options": [
+                "Younger",
+                "Older",
+                "Same age",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a transitive relationship: if A > B and B > C, then A > C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13413,
+            "question_text": "Find the missing number in the series: 2, 6, 12, 20, 30, ___",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences are 4, 6, 8, 10. The next difference is 12. 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13414,
+            "question_text": "If 'CAT' is coded as 'DBU', how is 'DOG' coded?",
+            "options": [
+                "EPH",
+                "EPF",
+                "FPH",
+                "EQH"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted forward by 1 position (C+1=D, A+1=B, T+1=U).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13415,
+            "question_text": "Pointing to a photograph, a man says, 'She is the daughter of the only son of my father.' Who is in the photo?",
+            "options": [
+                "His mother",
+                "His daughter",
+                "His sister",
+                "His niece"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The only son of his father is himself. Therefore, the photo is of his own daughter.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13416,
+            "question_text": "Five students are sitting in a row. Ali is to the right of Bilal. Charlie is to the left of Bilal. David is to the right of Ali. Who is in the middle?",
+            "options": [
+                "Ali",
+                "Bilal",
+                "Charlie",
+                "David"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Arrangement: Charlie, Bilal, Ali, David. Wait, let's re-evaluate: Charlie-Bilal-Ali-David (4). If there is a 5th, say Evan, the middle remains Bilal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13417,
+            "question_text": "Look at this series: 80, 10, 70, 15, 60, ... What number should come next?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "50"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Two alternating series: 80, 70, 60 (subtract 10) and 10, 15, 20 (add 5).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13418,
+            "question_text": "If some apples are oranges, and all oranges are fruits, which statement is true?",
+            "options": [
+                "All apples are fruits",
+                "Some apples are fruits",
+                "No apples are fruits",
+                "All fruits are oranges"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since some apples are oranges and oranges are fruits, the overlapping portion must be fruits.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13419,
+            "question_text": "Which word does not belong in this set: Apple, Banana, Potato, Cherry?",
+            "options": [
+                "Apple",
+                "Banana",
+                "Potato",
+                "Cherry"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Apple, banana, and cherry are fruits, while potato is a vegetable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13420,
+            "question_text": "A box contains 5 red balls and 3 blue balls. What is the minimum number of balls to pick to ensure one red ball?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In the worst case, you pick all 3 blue balls first. The 4th must be red.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13421,
+            "question_text": "If tomorrow is Wednesday, what day was it yesterday?",
+            "options": [
+                "Monday",
+                "Tuesday",
+                "Sunday",
+                "Thursday"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "If tomorrow is Wednesday, today is Tuesday. Therefore, yesterday was Monday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13422,
+            "question_text": "Select the choice that completes the analogy: Finger is to Hand as Leaf is to ____.",
+            "options": [
+                "Tree",
+                "Branch",
+                "Blossom",
+                "Bark"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A finger is attached to a hand; a leaf is attached to a branch.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14053,
+            "question_text": "If all Bloops are Razzies, and some Razzies are Tazzies, which of the following must be true?",
+            "options": [
+                "All Bloops are Tazzies",
+                "Some Bloops are Tazzies",
+                "Some Razzies are Bloops",
+                "All Tazzies are Bloops"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since all Bloops are Razzies, it logically follows that the subset of Razzies that are Bloops exists, meaning some Razzies must be Bloops.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14054,
+            "question_text": "Five people are standing in a line. Alice is behind Bob. Charlie is in front of David. Eve is between Bob and Charlie. If David is at the back, who is at the front?",
+            "options": [
+                "Alice",
+                "Bob",
+                "Charlie",
+                "Eve"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Order from front to back: Charlie, David (Wait: David is at the back). Re-evaluating: Charlie, Eve, Bob, Alice, David. Charlie is at the front.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14055,
+            "question_text": "If P is taller than Q, and R is shorter than S, but Q is taller than S, who is the tallest?",
+            "options": [
+                "P",
+                "Q",
+                "R",
+                "S"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Arrangement: P > Q > S > R. P is the tallest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14056,
+            "question_text": "If 'CANDLE' is coded as 'DZQOEF', how is 'LIGHT' coded?",
+            "options": [
+                "MJHIU",
+                "MJHIU",
+                "KJHGU",
+                "MJHJU"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted one position forward in the alphabet (C+1=D, A+1=B... wait, the rule is +1 to all: L+1=M, I+1=J, G+1=H, H+1=I, T+1=U).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14057,
+            "question_text": "Select the odd one out.",
+            "options": [
+                "Triangle",
+                "Square",
+                "Circle",
+                "Pentagon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A circle has no straight edges, while the others are polygons.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14058,
+            "question_text": "Seven trucks (A-G) are parked in a row. A is next to B, C is at one end, and D is between E and F. If G is at the other end, where is B?",
+            "options": [
+                "Second from end",
+                "Third from end",
+                "Middle",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "There is not enough information to fix the exact position of B relative to the other trucks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14059,
+            "question_text": "If all roses are flowers, and some flowers fade, can it be concluded that some roses fade?",
+            "options": [
+                "Yes",
+                "No",
+                "Possibly",
+                "Not enough data"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "We know roses are in the category of flowers, but the 'fading' flowers might be a different variety.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14060,
+            "question_text": "A man points to a photograph and says, 'This man is my father's only son.' Who is in the photo?",
+            "options": [
+                "His father",
+                "His son",
+                "Himself",
+                "His brother"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The father's only son is the man himself.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14061,
+            "question_text": "If Monday is the 1st of the month, what day is the 15th?",
+            "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Sunday"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "15 - 1 = 14 days later. Since 14 is a multiple of 7, it is the same day of the week.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14062,
+            "question_text": "Find the missing number: 1, 4, 9, 16, ...",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "36"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "These are perfect squares: 1^2, 2^2, 3^2, 4^2, 5^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14063,
+            "question_text": "If all pencils are pens, and all pens are erasers, are all pencils erasers?",
+            "options": [
+                "Yes",
+                "No",
+                "Sometimes",
+                "Irrelevant"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Transitive logic: If A=B and B=C, then A=C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14064,
+            "question_text": "A team wins 60% of its games. If it played 20 games, how many did it lose?",
+            "options": [
+                "8",
+                "10",
+                "12",
+                "14"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "If it won 60%, it lost 40%. 40% of 20 = 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14065,
+            "question_text": "Five books are on a shelf: A, B, C, D, and E. A is not next to B. C is between D and E. B is at the far right. If D is at the far left, what is the order of books?",
+            "options": [
+                "D, C, E, A, B",
+                "D, E, C, A, B",
+                "A, D, C, E, B",
+                "D, C, A, E, B"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "D is at far left, B is far right. C is between D and E, so the sequence starts D, C, E. A must fill the remaining spot, resulting in D, C, E, A, B.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

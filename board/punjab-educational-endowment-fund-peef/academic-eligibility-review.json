@@ -1,0 +1,193 @@
+{
+    "category": "Punjab Educational Endowment Fund (PEEF)",
+    "name": "Academic Eligibility Review",
+    "board": "punjab-educational-endowment-fund-peef",
+    "subject": "academic-eligibility-review",
+    "url": "/punjab-educational-endowment-fund-peef/academic-eligibility-review/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 11058,
+            "question_text": "What is the standard minimum percentage required in the graduation degree to be eligible for the PEEF Master's level scholarship?",
+            "options": [
+                "45%",
+                "50%",
+                "60%",
+                "75%"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to the standard PEEF criteria for Master's scholarships, a candidate must have secured at least 60% marks in their graduation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11212,
+            "question_text": "If a student has secured a 'Supplementary' in any part of their academic career, are they eligible for the PEEF Master's scholarship?",
+            "options": [
+                "Yes, if passed in the second attempt",
+                "No, the student must have passed all exams in the first attempt",
+                "Yes, provided the overall GPA is above 3.5",
+                "Only if the supplement was in a minor subject"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF mandates that students must have passed their previous academic examinations in the first attempt to maintain eligibility.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11213,
+            "question_text": "To be eligible for PEEF Master's level scholarship, an applicant must have passed their graduation examination as a regular student in which session?",
+            "options": [
+                "Current academic year only",
+                "Within the last three years",
+                "Any year provided they are under 30",
+                "Exclusively in the preceding calendar year"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF policy typically requires students to have completed their prior degree within a specified timeframe (usually the last 3 years) to maintain recent academic relevance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11214,
+            "question_text": "If a student has availed any other scholarship for their Master's level studies, what is the PEEF policy?",
+            "options": [
+                "They can receive both scholarships simultaneously",
+                "They are ineligible for PEEF",
+                "They must return the PEEF funds later",
+                "They can receive PEEF only if the other scholarship is small"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF scholarships are generally not provided to students who are already availing other fully funded scholarships to ensure the equitable distribution of resources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11215,
+            "question_text": "What is the maximum age limit, if applicable, for a candidate applying for the PEEF Master's scholarship?",
+            "options": [
+                "25 years",
+                "28 years",
+                "30 years",
+                "35 years"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The PEEF Master's level scholarship generally imposes an age limit, commonly set at 30 years at the time of application.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11216,
+            "question_text": "Is a student enrolled in a distance learning or private program eligible for the PEEF Master's scholarship?",
+            "options": [
+                "Yes, if they have high marks",
+                "No, only regular students are eligible",
+                "Yes, provided they pay the full fee",
+                "Only if they are government employees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF scholarships are exclusively reserved for students enrolled as regular full-time students in recognized institutions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11217,
+            "question_text": "Which degree level must be completed prior to applying for the PEEF Master's scholarship?",
+            "options": [
+                "Matriculation",
+                "Intermediate (FA/FSc)",
+                "Bachelor's (14 or 16 years of schooling)",
+                "None, it is for fresh entrants"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Master's level scholarships require the completion of a Bachelor's degree (14 or 16 years of education) as the foundational qualification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11218,
+            "question_text": "Does the PEEF scholarship require the candidate to be a domicile holder of a specific region?",
+            "options": [
+                "Only residents of Lahore",
+                "Only residents of Punjab province",
+                "Any Pakistani citizen residing anywhere",
+                "Residents of any province except Punjab"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF (Punjab Educational Endowment Fund) is specifically aimed at residents/domicile holders of the Punjab province.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11219,
+            "question_text": "What happens if an applicant is found to have provided false academic information in the application form?",
+            "options": [
+                "The application is processed with a warning",
+                "The applicant is blacklisted from all future PEEF scholarships",
+                "The scholarship is granted with a reduction",
+                "It has no impact on the application"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Integrity of information is critical; providing false data results in immediate disqualification and potential permanent blacklisting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11220,
+            "question_text": "If a student has improved their marks in an exam, which marks are considered for PEEF eligibility?",
+            "options": [
+                "Original marks only",
+                "Improved marks",
+                "The average of both",
+                "The marks from the first attempt only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF generally considers the final result appearing on the transcript or degree, which includes improved marks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11221,
+            "question_text": "If a student has previously been awarded a Master's degree, are they eligible to apply for another PEEF Master's level scholarship?",
+            "options": [
+                "Yes, provided they maintain a high GPA",
+                "No, the scholarship is only for the first Master's degree",
+                "Yes, if the second degree is in a different discipline",
+                "Only if approved by the HEC"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF policy restricts scholarships to students pursuing their first Master's degree to ensure equitable distribution of funds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11222,
+            "question_text": "What is the consequence of failing a semester during the tenure of a PEEF Master's scholarship?",
+            "options": [
+                "The student continues with a warning",
+                "The scholarship is temporarily suspended",
+                "The scholarship is liable to be terminated",
+                "The student must pay a fine"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "PEEF requires consistent academic performance; failing a semester generally leads to the termination of the scholarship.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11223,
+            "question_text": "Which academic record serves as the primary basis for the eligibility review for PEEF Master's scholarships?",
+            "options": [
+                "Matriculation certificate",
+                "Intermediate (FA/FSc) marks",
+                "Bachelor's degree transcripts",
+                "Entry test score only"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "As the scholarship is for Master's level, the Bachelor's degree (graduation) academic record is the primary eligibility determinant.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "English — Active & Passive Voice / Direct & Indirect Speech",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "english-active-passive-voice-direct-indirect-speech",
+    "url": "/national-cybercrime-investigation-agency/english-active-passive-voice-direct-indirect-speech/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 15546,
+            "question_text": "Choose the synonym for 'fastidious'.",
+            "options": [
+                "careless",
+                "sloppy",
+                "hasty",
+                "meticulous"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "'Fastidious' describes someone who pays great attention to detail; 'meticulous' means showing great attention to detail.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15547,
+            "question_text": "Find the antonym of 'gregarious'.",
+            "options": [
+                "Sociable",
+                "Reclusive",
+                "Outgoing",
+                "Affable"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Gregarious means fond of company; thus, reclusive (preferring solitude) is the correct antonym.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15548,
+            "question_text": "What is the antonym of 'ambiguity'?",
+            "options": [
+                "Opacity",
+                "Obscurity",
+                "Clarity",
+                "Nebulosity"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ambiguity refers to uncertainty or unclearness; thus, clarity is the direct antonym.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15549,
+            "question_text": "What is the antonym of 'ubiquitous'?",
+            "options": [
+                "rare",
+                "salient",
+                "omnipresent",
+                "pervasive"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ubiquitous means present everywhere; rare means rarely found, making it the opposite.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15550,
+            "question_text": "Which word is an antonym for 'ABATE'?",
+            "options": [
+                "Augment",
+                "Decrease",
+                "Diminish",
+                "Lessen"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "To abate means to reduce or lessen; therefore, 'augment,' which means to increase, is the antonym.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15551,
+            "question_text": "Which word is an antonym for 'EBULLIENT'?",
+            "options": [
+                "Jovial",
+                "Dejected",
+                "Vivacious",
+                "Exuberant"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ebullient means very cheerful and enthusiastic. Dejected means sad and depressed, making it the correct antonym.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15552,
+            "question_text": "Which word is an antonym for 'gregarious'?",
+            "options": [
+                "affable",
+                "sociable",
+                "outgoing",
+                "introverted"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Gregarious means fond of company; introverted is the opposite trait.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15553,
+            "question_text": "Which word is the closest synonym for 'Adroba'?",
+            "options": [
+                "Pliable",
+                "Fragile",
+                "Resilient",
+                "Vulnerable"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Adroba refers to the ability to withstand stress or change. Therefore, 'Resilient' is the best synonym.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        }
+    ]
+}

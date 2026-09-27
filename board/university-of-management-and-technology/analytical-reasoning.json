@@ -1,0 +1,165 @@
+{
+    "category": "University of Management and Technology",
+    "name": "Analytical Reasoning",
+    "board": "university-of-management-and-technology",
+    "subject": "analytical-reasoning",
+    "url": "/university-of-management-and-technology/analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 12734,
+            "question_text": "If all Bloops are Razzies, and all Razzies are Lazzies, which statement must be true?",
+            "options": [
+                "All Lazzies are Bloops",
+                "All Bloops are Lazzies",
+                "Some Lazzies are not Bloops",
+                "No Bloops are Lazzies"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a transitive logical relationship: If A=B and B=C, then A=C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12735,
+            "question_text": "Find the next number in the sequence: 2, 4, 8, 16, 32, ...",
+            "options": [
+                "40",
+                "48",
+                "64",
+                "60"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number in the sequence is multiplied by 2 to get the next term.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12736,
+            "question_text": "If A is taller than B, and B is taller than C, which statement is definitely true?",
+            "options": [
+                "C is taller than A.",
+                "A is taller than C.",
+                "A and C are equal in height.",
+                "None of the above."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This follows the transitive property: if A>B and B>C, then A>C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12737,
+            "question_text": "Look at this series: 3, 6, 12, 24, 48, ... What number should come next?",
+            "options": [
+                "72",
+                "96",
+                "54",
+                "84"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each number is doubled to get the next number.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12738,
+            "question_text": "If some cats are black, and all black things are scary, which must be true?",
+            "options": [
+                "All cats are scary.",
+                "Some cats are scary.",
+                "No cats are scary.",
+                "Everything scary is a cat."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since some cats are black, and those black things are scary, those specific cats are scary.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12739,
+            "question_text": "Identify the odd one out: Apple, Orange, Broccoli, Banana.",
+            "options": [
+                "Apple",
+                "Orange",
+                "Broccoli",
+                "Banana"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Broccoli is a vegetable, while the others are fruits.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12740,
+            "question_text": "If yesterday was Tuesday, what day will tomorrow be?",
+            "options": [
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Monday"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If yesterday was Tuesday, today is Wednesday; therefore, tomorrow is Thursday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12741,
+            "question_text": "If 'CUP' is coded as 'D V Q', how is 'MAP' coded?",
+            "options": [
+                "N B Q",
+                "N B R",
+                "N C Q",
+                "O B Q"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted by one position in the alphabet (C+1=D, U+1=V, P+1=Q). M+1=N, A+1=B, P+1=Q.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12742,
+            "question_text": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+            "options": [
+                "Aunt",
+                "Mother",
+                "Sister",
+                "Grandmother"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'only daughter of my mother' is the woman herself. Therefore, she is the mother of the man.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12743,
+            "question_text": "Find the missing number in the series: 5, 10, 20, 40, ...",
+            "options": [
+                "60",
+                "70",
+                "80",
+                "100"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number is multiplied by 2 to get the next term (40 * 2 = 80).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12744,
+            "question_text": "If all roses are flowers, and some flowers are red, which statement is true?",
+            "options": [
+                "All roses are red.",
+                "Some roses are red.",
+                "Some flowers are not roses.",
+                "All red things are flowers."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since some flowers are red, it doesn't mean those red flowers are roses; however, since not all flowers are roses, the third option is logically sound.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

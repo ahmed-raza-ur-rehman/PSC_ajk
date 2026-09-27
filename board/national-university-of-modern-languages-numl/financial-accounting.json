@@ -1,0 +1,179 @@
+{
+    "category": "National University of Modern Languages (NUML)",
+    "name": "Financial Accounting",
+    "board": "national-university-of-modern-languages-numl",
+    "subject": "financial-accounting",
+    "url": "/national-university-of-modern-languages-numl/financial-accounting/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12076,
+            "question_text": "Which financial statement reports the financial position of a business at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Statement of Cash Flows",
+                "Balance Sheet",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Balance Sheet provides a snapshot of a company's assets, liabilities, and equity at a specific date.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12077,
+            "question_text": "Under the accrual basis of accounting, when are revenues recorded?",
+            "options": [
+                "When cash is received",
+                "When the service or good is delivered",
+                "When the invoice is printed",
+                "At the end of the fiscal year"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Accrual accounting requires revenue to be recognized when it is earned, regardless of when cash is collected.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12078,
+            "question_text": "Which principle dictates that expenses must be matched with the revenues they help generate in the same period?",
+            "options": [
+                "Revenue Recognition Principle",
+                "Matching Principle",
+                "Cost Principle",
+                "Full Disclosure Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The matching principle requires that expenses incurred to generate revenue be recognized in the same accounting period as the related revenue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12079,
+            "question_text": "What is the primary purpose of the 'Trial Balance' in the accounting cycle?",
+            "options": [
+                "To prove that total debits equal total credits",
+                "To calculate the net profit for the year",
+                "To record daily transactions",
+                "To verify the liquidity of the business"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Trial Balance is used to check the mathematical accuracy of the ledger by ensuring the sum of debit balances equals the sum of credit balances.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12080,
+            "question_text": "Which of the following accounts normally carries a credit balance?",
+            "options": [
+                "Cash",
+                "Accounts Receivable",
+                "Accounts Payable",
+                "Prepaid Expenses"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Liability accounts, such as Accounts Payable, normally have credit balances, whereas assets normally have debit balances.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12081,
+            "question_text": "When a company purchases office supplies on credit, which journal entry is correct?",
+            "options": [
+                "Debit Supplies, Credit Cash",
+                "Debit Accounts Payable, Credit Supplies",
+                "Debit Supplies, Credit Accounts Payable",
+                "Debit Accounts Receivable, Credit Supplies"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Buying supplies on credit increases an asset (Supplies) and increases a liability (Accounts Payable).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12082,
+            "question_text": "Which financial document provides a summary of a company's revenues and expenses over a specific period?",
+            "options": [
+                "Balance Sheet",
+                "Statement of Cash Flows",
+                "Income Statement",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The income statement (or profit and loss statement) shows performance over a period of time, whereas the balance sheet is a snapshot at a point in time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12083,
+            "question_text": "What is the accounting equation?",
+            "options": [
+                "Assets + Liabilities = Equity",
+                "Assets = Liabilities + Equity",
+                "Assets - Equity = Liabilities",
+                "Both B and C"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Assets = Liabilities + Equity is the standard form, and Assets - Equity = Liabilities is the algebraic rearrangement of the same equation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12084,
+            "question_text": "Which of the following is considered an intangible asset?",
+            "options": [
+                "Accounts Receivable",
+                "Patents",
+                "Inventory",
+                "Equipment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Intangible assets lack physical substance. Patents represent legal rights rather than physical objects.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12085,
+            "question_text": "Which account type is increased by a debit entry and decreased by a credit entry?",
+            "options": [
+                "Revenue",
+                "Liability",
+                "Asset",
+                "Equity"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to the rules of debit and credit, assets and expenses increase with debits, while liabilities, revenues, and equity increase with credits.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12086,
+            "question_text": "What is the effect on the accounting equation when a business pays off an account payable?",
+            "options": [
+                "Assets decrease and Liabilities decrease",
+                "Assets decrease and Equity increases",
+                "Assets increase and Liabilities increase",
+                "Liabilities decrease and Equity increases"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Paying off a debt reduces cash (an asset) and reduces the amount owed (a liability).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12087,
+            "question_text": "Which of the following is considered a 'Contra-Asset' account?",
+            "options": [
+                "Accounts Receivable",
+                "Accumulated Depreciation",
+                "Prepaid Insurance",
+                "Land"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Accumulated depreciation reduces the book value of an asset, thus it acts as a contra-asset account.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "category": "NTA",
+    "name": "Chemistry",
+    "board": "nta",
+    "subject": "chemistry",
+    "url": "/nta/chemistry/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 9965,
+            "question_text": "Which of the following elements has the highest electronegativity?",
+            "options": [
+                "Oxygen",
+                "Fluorine",
+                "Nitrogen",
+                "Chlorine"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fluorine is the most electronegative element in the periodic table due to its small size and high effective nuclear charge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9966,
+            "question_text": "What is the hybridization of the carbon atom in methane (CH4)?",
+            "options": [
+                "sp",
+                "sp2",
+                "sp3",
+                "dsp2"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Methane consists of one carbon atom bonded to four hydrogen atoms, resulting in four sigma bonds and sp3 hybridization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9967,
+            "question_text": "Between Fluorine, Chlorine, Bromine, and Iodine, which element has the highest pull on electrons?",
+            "options": [
+                "Fluorine",
+                "Chlorine",
+                "Bromine",
+                "Iodine"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Electronegativity increases across a period and decreases down a group; Fluorine is the most electronegative element.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9968,
+            "question_text": "What is the geometric arrangement of atoms in a methane molecule (CH4)?",
+            "options": [
+                "Linear",
+                "Trigonal planar",
+                "Tetrahedral",
+                "Octahedral"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In methane, the carbon atom is sp³ hybridized, which leads to a tetrahedral geometry with 109.5-degree angles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9969,
+            "question_text": "Which of the following describes the pH of a strong acid?",
+            "options": [
+                "pH = 7",
+                "pH > 7",
+                "pH < 7",
+                "pH = 14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A pH less than 7 indicates an acidic solution, with lower values indicating higher acidity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9970,
+            "question_text": "What is the correct electronic configuration for a neutral Magnesium atom (Atomic number 12)?",
+            "options": [
+                "1s² 2s² 2p⁶ 3s²",
+                "1s² 2s² 2p⁶ 3s¹",
+                "1s² 2s² 2p⁶ 3s² 3p¹",
+                "1s² 2s² 2p⁵ 3s²"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Magnesium has 12 electrons, filling the shells as 1s2, 2s2, 2p6, and 3s2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9971,
+            "question_text": "Which law states that the volume of a gas is inversely proportional to its pressure at a constant temperature?",
+            "options": [
+                "Charles's Law",
+                "Boyle's Law",
+                "Avogadro's Law",
+                "Dalton's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Boyle's law defines the pressure-volume relationship: P1V1 = P2V2 at constant temperature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9972,
+            "question_text": "Which of the following atoms has the largest atomic radius?",
+            "options": [
+                "Lithium",
+                "Sodium",
+                "Potassium",
+                "Rubidium"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "As you move down a group in the periodic table, the number of electron shells increases, increasing the atomic radius.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9973,
+            "question_text": "How many moles of oxygen are required to completely burn 2 moles of methane (CH4)?",
+            "options": [
+                "2 moles",
+                "3 moles",
+                "4 moles",
+                "5 moles"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The reaction is CH4 + 2O2 -> CO2 + 2H2O. For 1 mole of methane, 2 moles of O2 are needed, so for 2 moles, 4 are required.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9974,
+            "question_text": "Which of these molecules has a linear shape?",
+            "options": [
+                "H2O",
+                "CO2",
+                "NH3",
+                "CH4"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Carbon dioxide has an sp hybridized carbon atom, resulting in a bond angle of 180 degrees and a linear structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9975,
+            "question_text": "What is the common name for the compound CH3COOH?",
+            "options": [
+                "Formic acid",
+                "Acetic acid",
+                "Propionic acid",
+                "Butyric acid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "CH3COOH is the chemical formula for acetic acid, commonly known as vinegar in dilute form.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9976,
+            "question_text": "Which particle is responsible for the atomic mass number?",
+            "options": [
+                "Protons only",
+                "Electrons and protons",
+                "Protons and neutrons",
+                "Neutrons only"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Atomic mass is the sum of the number of protons and neutrons in the nucleus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9977,
+            "question_text": "What is the coordination number of Na+ in a NaCl crystal lattice?",
+            "options": [
+                "4",
+                "6",
+                "8",
+                "12"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In a sodium chloride (NaCl) rock-salt structure, each Na+ ion is surrounded by 6 Cl- ions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

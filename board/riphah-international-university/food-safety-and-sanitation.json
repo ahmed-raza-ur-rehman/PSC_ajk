@@ -1,0 +1,151 @@
+{
+    "category": "Riphah International University",
+    "name": "Food Safety and Sanitation",
+    "board": "riphah-international-university",
+    "subject": "food-safety-and-sanitation",
+    "url": "/riphah-international-university/food-safety-and-sanitation/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11942,
+            "question_text": "Which pathogen is commonly associated with improperly canned foods or sealed anaerobic environments?",
+            "options": [
+                "Salmonella",
+                "Clostridium botulinum",
+                "E. coli",
+                "Norovirus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "C. botulinum thrives in anaerobic, low-acid environments and produces a deadly toxin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12131,
+            "question_text": "What is the most effective way to prevent the growth of bacteria in a commercial kitchen?",
+            "options": [
+                "Wiping down counters with a dry towel",
+                "Using a chemical spray on all food items",
+                "Controlling time and temperature",
+                "Limiting the number of staff members in the kitchen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Controlling time and temperature is the most critical factor in inhibiting the rapid multiplication of foodborne pathogens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12140,
+            "question_text": "What is the correct temperature range for the 'Danger Zone' in food safety?",
+            "options": [
+                "0°F to 32°F",
+                "41°F to 135°F",
+                "140°F to 165°F",
+                "180°F to 212°F"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Danger Zone is the temperature range where bacteria multiply most rapidly; keeping food outside this range is critical for safety.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12141,
+            "question_text": "When cooling hot food for storage, how should it be handled to ensure safety?",
+            "options": [
+                "Place it directly into the walk-in cooler while piping hot",
+                "Leave it on the counter until it reaches room temperature",
+                "Use an ice-water bath or blast chiller to reduce temperature rapidly",
+                "Freeze it immediately in large containers"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Rapid cooling prevents food from spending too much time in the Danger Zone, thereby minimizing the risk of bacterial growth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12142,
+            "question_text": "What is the recommended internal cooking temperature for whole poultry to ensure safety?",
+            "options": [
+                "145°F (63°C)",
+                "155°F (68°C)",
+                "165°F (74°C)",
+                "180°F (82°C)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to food safety guidelines, poultry must reach an internal temperature of 165°F to effectively kill pathogens like Salmonella.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12143,
+            "question_text": "What is the 'two-stage cooling' method for hot food?",
+            "options": [
+                "Cool from 135°F to 70°F within 2 hours, then 70°F to 41°F within the next 4 hours.",
+                "Cool from 135°F to 41°F within 2 hours.",
+                "Cool in the freezer until solid, then move to the refrigerator.",
+                "Cool to room temperature, then place directly into the walk-in cooler."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This method minimizes the time food spends in the temperature danger zone, where bacteria grow most rapidly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12144,
+            "question_text": "Cross-contamination is best prevented by:",
+            "options": [
+                "Using the same cutting board for all items.",
+                "Wiping down counters with a dry towel.",
+                "Storing raw meat below ready-to-eat foods in a cooler.",
+                "Only washing hands after finishing food preparation."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Gravity dictates that liquids from raw meats could drip onto foods below, so raw proteins must always be stored at the lowest point in a cooler.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12145,
+            "question_text": "What is the minimum internal temperature required when reheating previously cooked food for hot holding?",
+            "options": [
+                "135°F (57°C)",
+                "145°F (63°C)",
+                "165°F (74°C)",
+                "180°F (82°C)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To ensure safety, leftovers must be reheated to an internal temperature of at least 165°F for 15 seconds within two hours.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12146,
+            "question_text": "Under the HACCP system, what does the term 'Critical Control Point' (CCP) signify?",
+            "options": [
+                "A point where all staff must wash their hands",
+                "A specific step in the process where control can be applied to prevent or eliminate a food safety hazard",
+                "The final inspection of a plated meal before service",
+                "A designated area for waste disposal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "CCPs are essential steps in the food preparation process where hazards must be controlled to ensure safety.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12147,
+            "question_text": "What is the correct protocol for a chef with an infected cut on their finger?",
+            "options": [
+                "Cover the cut with a bandage only",
+                "Wear a waterproof bandage and a single-use glove over the cut",
+                "Work only with non-perishable foods",
+                "Continue working as usual as long as the cut is small"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Providing a double layer of protection (bandage and glove) prevents the spread of pathogens from the wound to the food.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

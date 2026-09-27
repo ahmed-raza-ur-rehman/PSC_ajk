@@ -1,0 +1,515 @@
+{
+    "category": "FIA",
+    "name": "Computer — Operating Systems (Windows, Linux Basics)",
+    "board": "fia",
+    "subject": "computer-operating-systems-windows-linux-basics",
+    "url": "/fia/computer-operating-systems-windows-linux-basics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 36,
+    "questions": [
+        {
+            "id": 1082,
+            "question_text": "Which protocol is primarily responsible for translating human-readable domain names (like www.example.com) into numerical IP addresses?",
+            "options": [
+                "HTTP (Hypertext Transfer Protocol)",
+                "DNS (Domain Name System)",
+                "SMTP (Simple Mail Transfer Protocol)",
+                "FTP (File Transfer Protocol)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DNS acts as the internet's phonebook, mapping domain names to IP addresses necessary for network communication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1083,
+            "question_text": "Which term describes the process of obtaining a unique identifier on the internet that allows a user or device to connect to a private network, often used for residential internet service?",
+            "options": [
+                "MAC Spoofing",
+                "DHCP Leasing",
+                "Authentication",
+                "NAT Gatewaying"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DHCP (Dynamic Host Configuration Protocol) assigns temporary IP addresses (leases) to devices joining a network.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1183,
+            "question_text": "When establishing a secure connection between a client and a server, what cryptographic protocol ensures data integrity and encryption, making it the successor to basic HTTP?",
+            "options": [
+                "ICMP",
+                "POP3",
+                "SSH",
+                "SSL/TLS"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "SSL/TLS encrypts data transmitted over HTTPS, providing secure communication channels and authentication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1282,
+            "question_text": "In the context of email security and communication, what does SPF (Sender Policy Framework) primarily validate?",
+            "options": [
+                "The recipient's eligibility to receive messages.",
+                "The confidentiality of the email content through encryption.",
+                "That the sending server is authorized by the domain owner.",
+                "The path taken by the email across different servers."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SPF records prevent spoofing by confirming that the IP addresses used to send the email are approved by the sender's domain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1493,
+            "question_text": "Which networking component is used to connect multiple LANs (Local Area Networks) into a larger network, often across different geographical locations?",
+            "options": [
+                "Repeater",
+                "Hub",
+                "Switch",
+                "Router"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Routers examine the destination IP address and determine the best path across interconnected networks (WANs).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1593,
+            "question_text": "Which protocol is primarily responsible for assigning unique IP addresses dynamically to devices on a network?",
+            "options": [
+                "FTP",
+                "HTTP",
+                "DHCP",
+                "SMTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "DHCP (Dynamic Host Configuration Protocol) manages and allocates IP addresses automatically, simplifying network setup.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1693,
+            "question_text": "Which networking device operates at Layer 2 of the OSI model and uses MAC addresses to facilitate communication within a local network segment?",
+            "options": [
+                "Hub",
+                "Router",
+                "Switch",
+                "Repeater"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A Switch uses MAC addresses to filter and forward data frames only to the intended recipient within a LAN, unlike a Hub.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1793,
+            "question_text": "Which networking protocol is primarily responsible for mapping an IP address to a physical MAC address?",
+            "options": [
+                "Address Resolution Protocol (ARP)",
+                "Dynamic Host Configuration Protocol (DHCP)",
+                "Internet Control Message Protocol (ICMP)",
+                "Transmission Control Protocol (TCP)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "ARP facilitates local network communication by resolving the physical hardware address (MAC) corresponding to a known IP address.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1892,
+            "question_text": "Which protocol is primarily used to transfer web pages (HTML documents) from a server to a web browser?",
+            "options": [
+                "POP3",
+                "SMTP",
+                "HTTP",
+                "FTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "HTTP (Hypertext Transfer Protocol) is the foundational protocol for communication on the World Wide Web, enabling the transfer of web content.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1893,
+            "question_text": "Which layer of the OSI model is responsible for segmenting data and adding sequence numbers and connection control?",
+            "options": [
+                "Transport Layer",
+                "Network Layer",
+                "Data Link Layer",
+                "Application Layer"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Transport Layer (TCP/UDP) handles segmentation, reassembly, and flow control using connection identifiers like port numbers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1894,
+            "question_text": "In email protocols, which protocol is primarily used to retrieve email from the server to the client, and typically supports synchronization?",
+            "options": [
+                "POP3 (Post Office Protocol v3)",
+                "IMAP (Internet Message Access Protocol)",
+                "FTP (File Transfer Protocol)",
+                "SMTP (Simple Mail Transfer Protocol)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IMAP allows users to view and manage emails directly on the server, syncing changes across multiple devices, unlike POP3 which usually downloads and deletes messages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1994,
+            "question_text": "Which network device is primarily responsible for connecting different networks (like a local area network to the internet) and routing data packets based on IP addresses?",
+            "options": [
+                "Hub",
+                "Repeater",
+                "Router",
+                "Switch"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A router uses IP addressing to forward packets between different subnetworks, unlike a switch which operates within one segment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2108,
+            "question_text": "Which abbreviation refers to the common practice of sending fraudulent emails that appear to come from reputable sources?",
+            "options": [
+                "Phishing",
+                "Vishing",
+                "Whaling",
+                "Spoofing"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Phishing is the act of acquiring sensitive information (like passwords) via deceptive emails or websites.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2158,
+            "question_text": "In the context of email protocols, which protocol is primarily used to retrieve emails from a mail server to a local client?",
+            "options": [
+                "SMTP",
+                "FTP",
+                "IMAP",
+                "POP3"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "IMAP (Internet Message Access Protocol) allows users to access and manage emails on the server, which is useful for multiple devices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2308,
+            "question_text": "In the context of internet security and data transmission, what does SSL/TLS primarily provide?",
+            "options": [
+                "Increased network speed and bandwidth",
+                "Management of domain name system records",
+                "Automatic physical connection establishment",
+                "Confidentiality and integrity of data during transit"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "SSL/TLS encrypts the connection between a client and a server, ensuring that data remains confidential and tamper-proof.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2618,
+            "question_text": "In the context of email security and transmission, what function does an SPF (Sender Policy Framework) record perform?",
+            "options": [
+                "To prevent spam by verifying the sending IP address's authorized sender list.",
+                "To encrypt the entire body and headers of the email message.",
+                "To guarantee end-to-end decryption for the recipient only.",
+                "To block all unauthorized external recipients from receiving mail."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SPF records are DNS entries that specify which IP addresses are authorized to send email on behalf of a domain, mitigating email spoofing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2979,
+            "question_text": "When assessing computer abbreviations related to network components, what does 'DHCP' specifically manage?",
+            "options": [
+                "Dynamic Host Configuration Protocol; automatically assigning IP addresses to devices on a network",
+                "Digital High Connectivity Platform; managing local network hubs",
+                "Deep Hyperlink Connection Protocol; ensuring secure web browsing",
+                "Data Handling Control Program; monitoring network bandwidth usage"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "DHCP automatically manages and assigns unique IP addresses and other network settings to devices joining a network.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3699,
+            "question_text": "In email communication, what protocol is used to retrieve email messages from a mail server to a client application, supporting modern security standards?",
+            "options": [
+                "SMTP (Simple Mail Transfer Protocol)",
+                "IMAP (Internet Message Access Protocol)",
+                "POP3 (Post Office Protocol 3)",
+                "HTTP (Hypertext Transfer Protocol)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IMAP allows users to manage emails remotely across multiple devices by syncing changes with the server, making it superior to POP3 for modern use.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3750,
+            "question_text": "In the context of networking and abbreviations, what does 'VPN' primarily stand for and what is its core function?",
+            "options": [
+                "Verify Packet Name, ensuring data integrity at the physical layer",
+                "Virtual Private Number, used for telephony routing protocols",
+                "Very Processed Node, handling routing in local area networks",
+                "Virtual Private Network, providing encrypted communication over public networks"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "VPN uses encryption and tunneling to create a secure, private connection over the internet, masking the user's true IP address.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4311,
+            "question_text": "Which of the following cryptographic concepts ensures that even if a message is intercepted, an attacker cannot read its content without the secret key?",
+            "options": [
+                "Hashing",
+                "Integrity Check",
+                "Authentication",
+                "Encryption"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Encryption is the process of converting plaintext into ciphertext, making it unreadable without the corresponding decryption key.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4412,
+            "question_text": "Which abbreviation refers to the common protocol used to securely transfer data over the internet, often used for logging into secure websites?",
+            "options": [
+                "HTTPS",
+                "SFTP",
+                "HTTP",
+                "FTP"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "HTTPS (Hypertext Transfer Protocol Secure) is the encrypted version of HTTP, ensuring secure data transmission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5434,
+            "question_text": "In networking security, what does the term 'DDoS' refer to, which is a common cyber threat faced by organizations?",
+            "options": [
+                "Dynamic Data Stream",
+                "Distributed Denial of Service",
+                "Digital Disaster Sphere",
+                "Data Detection System"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DDoS is an attack that overwhelms a network with massive amounts of traffic from multiple sources, making it unavailable to legitimate users.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5535,
+            "question_text": "In networking, what does 'DNS' primarily resolve and what is its function?",
+            "options": [
+                "Domain Name System; translates domain names to IP addresses",
+                "Data Network Service; manages data transmission across networks",
+                "Digital Number Scheme; defines unique identifiers for hardware",
+                "Distributed Node Service; controls the flow of information packets"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "DNS is the directory service that translates human-readable domain names (like example.com) into machine-readable IP addresses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5932,
+            "question_text": "Which protocol is primarily used to transfer web pages (HTTP content) from a web server to a client's web browser?",
+            "options": [
+                "FTP",
+                "HTTP",
+                "SMTP",
+                "POP3"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "HTTP (Hypertext Transfer Protocol) is the foundational protocol for communication on the World Wide Web, governing how web pages are requested and delivered.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6032,
+            "question_text": "Which network device is primarily used to connect different networks (like LAN to WAN) and route data packets based on IP addresses?",
+            "options": [
+                "Switch",
+                "Hub",
+                "Repeater",
+                "Router"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A router manages traffic between distinct networks, making it essential for wide-area connectivity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6106,
+            "question_text": "Which layer of the OSI model is responsible for routing and logical addressing (IP addresses) across different networks?",
+            "options": [
+                "Network Layer",
+                "Data Link Layer",
+                "Physical Layer",
+                "Transport Layer"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Network Layer handles logical addressing (IP) and determines the optimal path (routing) for data across interconnected networks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6173,
+            "question_text": "Which networking device operates at the Network Layer (Layer 3) and is primarily used to connect different subnets, forwarding packets based on IP addresses?",
+            "options": [
+                "Repeater",
+                "Hub",
+                "Switch",
+                "Router"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A Router directs traffic between separate networks (subnets) using IP addresses, making it a Layer 3 device.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6246,
+            "question_text": "Which network protocol is primarily responsible for translating human-readable domain names (like www.google.com) into machine-readable IP addresses?",
+            "options": [
+                "DNS (Domain Name System)",
+                "DHCP (Dynamic Host Configuration Protocol)",
+                "HTTP (Hypertext Transfer Protocol)",
+                "FTP (File Transfer Protocol)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "DNS acts as the internet's phonebook, mapping domain names to specific IP addresses so devices can locate each other.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6327,
+            "question_text": "Which networking protocol is primarily responsible for converting human-readable domain names (like www.example.com) into machine-readable IP addresses?",
+            "options": [
+                "HTTP",
+                "DNS",
+                "SMTP",
+                "FTP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DNS (Domain Name System) acts as the internet's phonebook, mapping domain names to their corresponding IP addresses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6328,
+            "question_text": "When sending an email, which protocol is primarily used to retrieve emails from a mail server to the client?",
+            "options": [
+                "FTP",
+                "SMTP",
+                "IMAP",
+                "POP3"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "IMAP (Internet Message Access Protocol) is the standard protocol for synchronizing emails across multiple devices, keeping the messages available on the server. POP3 typically downloads and removes emails from the server.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6406,
+            "question_text": "What protocol is used to assign an IP address dynamically to a device on a local network?",
+            "options": [
+                "HTTP",
+                "SMTP",
+                "DHCP",
+                "FTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "DHCP (Dynamic Host Configuration Protocol) automatically assigns and manages IP configurations for devices on a network.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6407,
+            "question_text": "Which type of network topology connects all devices to a single central cable, making it susceptible to a single point of failure if the main cable breaks?",
+            "options": [
+                "Bus Topology",
+                "Ring Topology",
+                "Mesh Topology",
+                "Star Topology"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "In a Bus Topology, all devices connect to a single main cable (backbone). If this backbone fails, the entire network segment goes down.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6473,
+            "question_text": "What does the widely used acronym URL represent in the context of web addressing?",
+            "options": [
+                "Universal Resource Location",
+                "Uniform Resource Locator",
+                "Unified Resource Link",
+                "User Router Link"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "URL stands for Uniform Resource Locator, which provides the complete and specific address of a resource (web page) on the World Wide Web.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6693,
+            "question_text": "In the context of email standards, which protocol is used to retrieve emails from a remote mail server to a local email client?",
+            "options": [
+                "SMTP",
+                "IMAP",
+                "POP3",
+                "FTP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IMAP (Internet Message Access Protocol) allows users to access and manage emails directly on the server, syncing across multiple devices. While POP3 downloads emails, IMAP is the primary protocol used for modern, multi-device access.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6770,
+            "question_text": "What is the primary function of the Domain Name System (DNS) in an internet network?",
+            "options": [
+                "To manage physical cabling and network topology.",
+                "To encrypt data transfer between users.",
+                "To filter incoming malicious traffic (spam).",
+                "To translate human-readable domain names (like google.com) into numerical IP addresses."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "DNS acts as the internet's phonebook, converting memorable domain names into the unique IP addresses required for routing data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6844,
+            "question_text": "What essential Internet service is responsible for translating human-readable domain names (like www.example.com) into machine-readable numerical IP addresses?",
+            "options": [
+                "FTP (File Transfer Protocol)",
+                "HTTP (Hypertext Transfer Protocol)",
+                "DNS (Domain Name System)",
+                "DHCP (Dynamic Host Configuration Protocol)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "DNS acts as the Internet's phonebook, mapping domain names to specific IP addresses necessary for connectivity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

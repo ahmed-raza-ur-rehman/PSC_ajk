@@ -1,0 +1,179 @@
+{
+    "category": "Foundation University School of Health Sciences",
+    "name": "Physics",
+    "board": "foundation-university-school-of-health-sciences",
+    "subject": "physics",
+    "url": "/foundation-university-school-of-health-sciences/physics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 13649,
+            "question_text": "The energy required to raise the temperature of 1 gram of water by 1 degree Celsius is defined as:",
+            "options": [
+                "1 Joule",
+                "1 Calorie",
+                "1 Watt",
+                "1 Newton"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A calorie is a unit of energy defined as the amount of heat needed to raise the temperature of one gram of water by one degree Celsius.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13650,
+            "question_text": "Which physical principle explains why a person feels lighter when submerged in water?",
+            "options": [
+                "Bernoulli's Principle",
+                "Archimedes' Principle",
+                "Pascal's Law",
+                "Newton's Third Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Archimedes' Principle states that the upward buoyant force exerted on a body immersed in a fluid is equal to the weight of the fluid that the body displaces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13651,
+            "question_text": "According to Newton's Second Law, what is the formula relating Force, Mass, and Acceleration?",
+            "options": [
+                "F = m/a",
+                "F = m + a",
+                "F = ma",
+                "F = a/m"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Force is equal to the product of mass and acceleration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13652,
+            "question_text": "What is the unit of electrical resistance?",
+            "options": [
+                "Volt",
+                "Ampere",
+                "Ohm",
+                "Watt"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Ohm is the SI unit for electrical resistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13653,
+            "question_text": "Which phenomenon occurs when light waves change direction as they pass from one medium to another?",
+            "options": [
+                "Reflection",
+                "Refraction",
+                "Diffraction",
+                "Polarization"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Refraction is the bending of light due to a change in speed as it moves between different media.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13654,
+            "question_text": "If an object is in free fall, what is the acceleration due to gravity on Earth (approximately)?",
+            "options": [
+                "5.8 m/s²",
+                "9.8 m/s²",
+                "10.8 m/s²",
+                "12.8 m/s²"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The standard acceleration due to gravity on Earth is approximately 9.8 m/s².",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13655,
+            "question_text": "Which form of energy is stored in a stretched spring?",
+            "options": [
+                "Kinetic energy",
+                "Thermal energy",
+                "Elastic potential energy",
+                "Chemical energy"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Potential energy stored in a deformed object like a spring is called elastic potential energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13656,
+            "question_text": "What does the 'Law of Conservation of Energy' imply?",
+            "options": [
+                "Energy is destroyed in heat",
+                "Energy can be created from nothing",
+                "Energy cannot be created or destroyed, only transformed",
+                "Energy is always increasing"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Energy is conserved; it simply changes from one form to another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13657,
+            "question_text": "What physical quantity is defined as the rate of doing work?",
+            "options": [
+                "Force",
+                "Energy",
+                "Power",
+                "Momentum"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Power is defined as work done divided by time (P = W/t).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13658,
+            "question_text": "Which law describes the relationship between the current, voltage, and resistance in an electrical circuit?",
+            "options": [
+                "Coulomb's Law",
+                "Ohm's Law",
+                "Faraday's Law",
+                "Kirchhoff's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ohm's Law states that V = IR, where V is voltage, I is current, and R is resistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13659,
+            "question_text": "What happens to the frequency of a sound wave when the source moves away from the observer?",
+            "options": [
+                "It increases",
+                "It decreases",
+                "It stays the same",
+                "It becomes infinite"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is an example of the Doppler effect; as the source moves away, the observed frequency drops.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13660,
+            "question_text": "In a vacuum, how does the speed of light compare for different wavelengths?",
+            "options": [
+                "Longer wavelengths are faster",
+                "Shorter wavelengths are faster",
+                "All wavelengths travel at the same speed",
+                "They depend on the intensity of the light"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In a vacuum, all electromagnetic radiation travels at the constant speed of light (c).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

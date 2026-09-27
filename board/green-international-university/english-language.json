@@ -1,0 +1,207 @@
+{
+    "category": "Green International University",
+    "name": "English Language",
+    "board": "green-international-university",
+    "subject": "english-language",
+    "url": "/green-international-university/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 12985,
+            "question_text": "Select the sentence that uses the correct grammar for a professional consultation.",
+            "options": [
+                "Your skin looks very badly today.",
+                "Your skin looks very bad today.",
+                "You has dry skin concerns.",
+                "The product apply on the face."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In this context, 'bad' functions as an adjective describing the noun 'skin'. 'Badly' is an adverb used to modify verbs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12986,
+            "question_text": "Choose the correct term to describe a process that prevents the growth of microorganisms.",
+            "options": [
+                "Exfoliation",
+                "Contamination",
+                "Antiseptic",
+                "Hyper-pigmentation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An antiseptic is a substance that stops or slows down the growth of microorganisms on external surfaces of the body.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12987,
+            "question_text": "Choose the most professional way to ask a client about their medical history.",
+            "options": [
+                "Do you have any health issues I should know about?",
+                "Are there any medical conditions or medications I should be aware of for your treatment today?",
+                "Tell me about your sickness history.",
+                "You aren't taking any drugs, right?"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This phrase is polite, professional, and ensures safety by covering both conditions and medications.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12988,
+            "question_text": "Identify the correctly punctuated sentence.",
+            "options": [
+                "After the facial, you should avoid sun exposure; additionally, use SPF daily.",
+                "After the facial you should avoid sun exposure, additionally use SPF daily.",
+                "After the facial, you should avoid sun exposure additionally use SPF daily.",
+                "After the facial you should avoid sun exposure: additionally, use SPF daily."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A semicolon is used to connect two independent clauses joined by a conjunctive adverb like 'additionally'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12989,
+            "question_text": "Select the option that best replaces the underlined phrase: 'The client's skin is <u>very dry</u>.'",
+            "options": [
+                "extremely dehydrated",
+                "a little bit thirsty",
+                "excessively oily",
+                "quite flaky"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Extremely dehydrated' is a more professional and precise clinical description than 'very dry'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12990,
+            "question_text": "Which word is a synonym for 'contraindication'?",
+            "options": [
+                "Recommendation",
+                "Prohibition",
+                "Observation",
+                "Procedure"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In medical/aesthetic terms, a contraindication is a reason why a procedure should not be performed, acting as a prohibition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12991,
+            "question_text": "Choose the correct sentence to document an observation.",
+            "options": [
+                "I saw some pimples on her chin.",
+                "The client presented with mild comedones on the chin area.",
+                "There were little bumps everywhere.",
+                "Her chin looked bad today."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Professional documentation uses precise terminology like 'comedones' rather than informal language.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12992,
+            "question_text": "Complete the sentence: 'Following the treatment, please __________ the client's home care instructions.'",
+            "options": [
+                "repeat",
+                "reiterate",
+                "say again",
+                "tell"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Reiterate' is the most professional term for repeating information to ensure the client understands.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12993,
+            "question_text": "Select the sentence with the correct grammar.",
+            "options": [
+                "The esthetician finished the treatment, then she cleaned the room.",
+                "The esthetician finished the treatment; then, she cleaned the room.",
+                "The esthetician finished the treatment, she cleaned the room.",
+                "The esthetician finished the treatment and then, she cleaned the room."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This structure uses a semicolon to separate two independent clauses linked by 'then'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12994,
+            "question_text": "What is the best way to explain 'exfoliation' to a client?",
+            "options": [
+                "It is when I take off your top layer of skin.",
+                "It is the process of removing dead surface skin cells to reveal smoother skin.",
+                "It involves scraping your face with a tool.",
+                "It is a chemical burn we put on the skin."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This explanation is clear, professional, and highlights the benefit without sounding alarming.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12995,
+            "question_text": "Identify the word that means 'to improve the condition of'.",
+            "options": [
+                "Ameliorate",
+                "Aggravate",
+                "Exacerbate",
+                "Deteriorate"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ameliorate means to make something better or improve a situation/condition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12996,
+            "question_text": "Which phrase is best for a professional summary of a client's concerns?",
+            "options": [
+                "She's complaining about her face.",
+                "The client reported primary concerns regarding skin dullness and fine lines.",
+                "Her skin is looking pretty old.",
+                "She really hates her wrinkles."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This phrasing is objective, polite, and uses professional terminology.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12997,
+            "question_text": "Select the correct usage of the word 'disinfect'.",
+            "options": [
+                "I will disinfect the mirror after the client leaves.",
+                "I will disinfect my hands before the facial.",
+                "I need to disinfect the dirty linens.",
+                "Please disinfect your makeup before you arrive."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Disinfection applies to inanimate surfaces; cleaning hands is 'sanitizing' or 'washing'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12998,
+            "question_text": "Choose the most appropriate closing for a professional email to a client.",
+            "options": [
+                "See ya later.",
+                "Best regards,",
+                "Thanks a bunch!",
+                "Later,"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Best regards' is a standard, respectful closing for business correspondence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

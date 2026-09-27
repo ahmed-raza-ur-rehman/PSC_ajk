@@ -1,0 +1,137 @@
+{
+    "category": "Ministry of Education (MoE)",
+    "name": "General Academic Stream",
+    "board": "ministry-of-education-moe",
+    "subject": "general-academic-stream",
+    "url": "/ministry-of-education-moe/general-academic-stream/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 9320,
+            "question_text": "What is the primary target group for the General Academic Stream under the Integrated Continuous Education program?",
+            "options": [
+                "All international students",
+                "Female citizens, wives of citizens, and daughters of female citizens",
+                "Only male students interested in vocational training",
+                "Students over the age of 25"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The service documentation specifies that the General Academic Stream is designed for female citizens, wives of citizens, and daughters of female citizens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9321,
+            "question_text": "Which grade levels are covered by the General Academic Stream?",
+            "options": [
+                "Kindergarten to Grade 6",
+                "Grade 1 to Grade 6",
+                "Grade 7 to Grade 12",
+                "Grade 10 to Grade 12"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The ministry documentation states that the stream supports education from Grade 7 to Grade 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9322,
+            "question_text": "Which students are eligible for the General Academic Stream program?",
+            "options": [
+                "Any resident of the UAE",
+                "Male students only",
+                "Female citizens, wives of citizens, and daughters of female citizens",
+                "Students aged nine and above"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to the ministry guidelines for the Integrated Continuous Education program, this stream specifically serves these categories.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9323,
+            "question_text": "What is the academic range covered by the General Academic Stream?",
+            "options": [
+                "Grades 1 to 6",
+                "Grades 7 to 12",
+                "Grades 10 to 12 only",
+                "Kindergarten to Grade 5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The General Academic Stream is designed for students continuing their education from Grade 7 up to Grade 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9324,
+            "question_text": "How is instruction primarily delivered in the General Academic Stream?",
+            "options": [
+                "Physical attendance only",
+                "Correspondence by mail",
+                "Live online lessons",
+                "Self-study with no interaction"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The stream is designed to support students through the provision of live online educational lessons.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9325,
+            "question_text": "When does the level assessment test for students enrolling in the General Academic Stream typically occur?",
+            "options": [
+                "At the end of the school year",
+                "During the first term exams in April",
+                "Before registration begins",
+                "Only upon graduation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ministry schedules the assessment test during the first term exams of the Integrated Continuous Education Program in April.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9326,
+            "question_text": "Is the General Academic Stream part of the Integrated Continuous Education program?",
+            "options": [
+                "Yes",
+                "No",
+                "Only for specific emirates",
+                "Only for students over 18"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The stream is explicitly listed as a component of the Integrated Continuous Education program offered by the ministry.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9327,
+            "question_text": "Who is the primary intended audience for the General Academic Stream under the Integrated Continuous Education program?",
+            "options": [
+                "Male students only",
+                "Female citizens, wives of citizens, and daughters of female citizens",
+                "International students only",
+                "Students aged nine and above"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The program is specifically designed to support female citizens, their wives, and their daughters in continuing their general academic education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9328,
+            "question_text": "What grade levels are included in the General Academic Stream?",
+            "options": [
+                "KG1 to Grade 6",
+                "Grade 1 to Grade 6",
+                "Grade 7 to Grade 12",
+                "Grade 10 to Grade 12"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The General Academic Stream program covers academic levels from Grade 7 through Grade 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

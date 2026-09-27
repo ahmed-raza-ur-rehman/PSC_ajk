@@ -1,0 +1,445 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "General Knowledge — Sports, Literature & Abbreviations",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "general-knowledge-sports-literature-abbreviations",
+    "url": "/national-cybercrime-investigation-agency/general-knowledge-sports-literature-abbreviations/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 31,
+    "questions": [
+        {
+            "id": 15400,
+            "question_text": "Enzymes, which are biological catalysts, are proteins whose function is most severely and irreversibly compromised by changes in which environmental factor?",
+            "options": [
+                "Slight variations in salinity",
+                "High humidity levels",
+                "Excessive temperature or pH levels",
+                "Low atmospheric pressure"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Extreme temperatures or drastically deviated pH values cause enzymes to undergo denaturation, which disrupts their complex tertiary structure and permanently compromises their catalytic function.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15401,
+            "question_text": "If a solution has a pH of 3, what can be accurately stated about its hydrogen ion concentration ($\text{[H}^+]$)?",
+            "options": [
+                "The concentration is significantly lower than neutral water.",
+                "The concentration is equal to that of pure water.",
+                "The concentration is 1000 times higher than that of neutral water.",
+                "The concentration is exactly one-thousandth (1/1000th) that of neutral water."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A pH of 3 means the hydrogen ion concentration is $10^{-3}$ M. Compared to neutral water ($\text{pH}=7$ and $[\text{H}^+] = 10^{-7}$ M), this concentration is $10^4$ (or 10,000) times higher, establishing it as a highly acidic solution.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15402,
+            "question_text": "If a student performs an experiment involving the rapid mixing of household vinegar (acetic acid) and baking soda (sodium bicarbonate), what gas is primarily responsible for the resulting visible effervescence?",
+            "options": [
+                "Methane ($\text{CH}_4$) gas formed by acid neutralization.",
+                "Nitrogen ($\text{N}_2$) gas produced by decomposition.",
+                "Oxygen ($\text{O}_2$) gas released through thermal decomposition.",
+                "Carbon dioxide ($\text{CO}_2$) gas resulting from an acid-carbonate reaction."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Acetic acid ($\text{CH}_3\text{COOH}$) reacts with sodium bicarbonate ($\text{NaHCO}_3$) in an acid-carbonate reaction, producing carbonic acid ($\text{H}_2\text{CO}_3$), which immediately decomposes into water and carbon dioxide gas ($\text{CO}_2$).",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15403,
+            "question_text": "If a substance undergoes combustion, what key property must it possess to sustain the chemical reaction?",
+            "options": [
+                "High viscosity",
+                "Density comparable to air",
+                "Elevated boiling point",
+                "Combustible nature (reactivity with oxygen)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Combustion requires a fuel source (combustible nature) reacting rapidly with an oxidizing agent (usually oxygen) to produce heat and light.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15404,
+            "question_text": "In basic chemistry, what compound is most commonly used as a powerful, non-corrosive disinfectant agent in hospital settings, particularly against bacteria and viruses?",
+            "options": [
+                "Ethanol (Alcohol) 70%",
+                "Hydrogen Peroxide",
+                "Quaternary Ammonium Compounds (QACs)",
+                "Sodium Hypochlorite (Bleach)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While QACs are used, Sodium Hypochlorite (bleach) remains the gold standard and most powerful disinfectant used broadly in clinical settings for high-level disinfection of surfaces and equipment due to its potent oxidizing action.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15405,
+            "question_text": "In biochemistry, the process by which microorganisms derive chemical energy from inorganic compounds, such as ammonium or nitrates, is known as:",
+            "options": [
+                "Photofermentation",
+                "Methanogenesis",
+                "Chemoautotrophy",
+                "Heterotrophic nitrification"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Chemoautotrophy involves using chemical energy (from inorganic sources) to fix carbon dioxide and produce organic matter.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15406,
+            "question_text": "In modern electrical circuits, what instrument is used specifically to measure the rate of flow of electrical charge (current)?",
+            "options": [
+                "Voltmeter (measuring potential difference).",
+                "Galvanometer (measuring resistance).",
+                "Wattmeter (measuring power).",
+                "Ammeter (measuring current)."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Current is defined as the rate of flow of electrical charge (measured in Amperes). An Ammeter is the dedicated instrument designed specifically to measure this current (I).",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15407,
+            "question_text": "In simple terms, the basic unit of energy transfer in biological systems, utilized by mitochondria, is:",
+            "options": [
+                "Glucose",
+                "Electrons",
+                "ATP (Adenosine Triphosphate)",
+                "Carbon Dioxide"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "ATP is the primary energy-carrying molecule that all living organisms use to perform chemical work.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15408,
+            "question_text": "In the context of basic physics and material science, what phenomenon best describes the resistance of an electrical conductor to changes in the magnitude of an applied electric field?",
+            "options": [
+                "Resistivity",
+                "Conductance",
+                "Permeability",
+                "Dielectric constant"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The dielectric constant measures a material's ability to store electrical energy when placed in an electric field, characterizing its response to field changes.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15409,
+            "question_text": "In the context of biological waste management and environmental science, what process describes the decomposition of organic matter by specialized microorganisms, often leading to nutrient cycling?",
+            "options": [
+                "Mineralization",
+                "Biomagnification",
+                "Composting",
+                "Humification"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Mineralization is the process where complex organic compounds are broken down into inorganic mineral forms, making nutrients available for plants.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15410,
+            "question_text": "In the context of everyday science, what common household material is most effective for detecting the presence of starch due to its iodine-based chemical reaction?",
+            "options": [
+                "Betadine Solution",
+                "Potassium Iodide",
+                "Tincture of Iodine",
+                "Lugol's Solution"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tincture of Iodine (Iodine solution) reacts with starch to produce a characteristic blue-black color.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15411,
+            "question_text": "In the context of human physiology and biochemistry, what specific function distinguishes creatine phosphate stores in muscle cells from general ATP reserves, making it crucial for short, intense bursts of activity?",
+            "options": [
+                "It is primarily involved in stabilizing the cell membrane potential during periods of high exertion.",
+                "It acts as a rapid, readily available donor of high-energy phosphate groups to regenerate ATP quickly.",
+                "It functions chiefly as a buffer against systemic lactic acid buildup during anaerobic respiration.",
+                "Its primary role is the long-term storage of metabolic waste products that requires detoxification."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Creatine phosphate (CrP) rapidly donates a phosphate group to regenerate ADP into ATP, powering immediate, high-intensity muscle contractions.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15412,
+            "question_text": "The principle behind the working of a centrifuge is based on which physical concept?",
+            "options": [
+                "Buoyancy force (Archimedes' Principle).",
+                "Centrifugal force and sedimentation rate.",
+                "Newton's First Law of Motion (inertia).",
+                "Bernoulli's Principle (fluid dynamics)."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A centrifuge utilizes high rotational speed to create immense centrifugal force, causing components of different densities to sediment or separate based on their relative weight.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15413,
+            "question_text": "What is the function of the renal corpuscle in the human kidney?",
+            "options": [
+                "Filtration of blood plasma to form primary filtrate",
+                "Secreting excess hormones into the blood",
+                "Concentrating urine through loop of Henle",
+                "Reabsorbing necessary salts and glucose"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The renal corpuscle (glomerulus and Bowman's capsule) is where blood filtration occurs to remove waste products from the blood.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15414,
+            "question_text": "What is the primary function of hemoglobin found in red blood cells?",
+            "options": [
+                "Fighting infections by engulfing pathogens.",
+                "Regulating blood sugar levels in the plasma.",
+                "Clotting blood by facilitating fibrin formation.",
+                "Transporting oxygen from the lungs to peripheral tissues."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Hemoglobin, a protein in red blood cells, is specialized for binding and transporting oxygen throughout the circulatory system.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15415,
+            "question_text": "What is the primary function of red blood cells (erythrocytes) in the human circulatory system?",
+            "options": [
+                "Producing white blood cells (leukocytes).",
+                "Clotting blood by activating platelets.",
+                "Fighting infection using antibodies.",
+                "Transporting oxygen from the lungs to the body tissues."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Erythrocytes contain hemoglobin, which binds to and transports oxygen throughout the bloodstream.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15416,
+            "question_text": "When describing the solubility of gases in liquids, what relationship dictates that solubility is generally higher at lower temperatures?",
+            "options": [
+                "General rule of gases (volume relationship).",
+                "Dalton's Law of Partial Pressures.",
+                "Graham's Law of Diffusion.",
+                "Henry's Law (Partial Pressure consideration)."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The general solubility of gases decreases as temperature increases (thermodynamic principle), which is not directly governed by any of the named laws in the options.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15417,
+            "question_text": "When investigating materials for structural engineering (common in civil service exams), which property describes a material's ability to absorb energy and deform plastically before fracturing, indicating its toughness?",
+            "options": [
+                "Modulus of Resilience",
+                "Ductility Index",
+                "Yield Strength",
+                "Fracture Toughness"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The ability to absorb energy before fracture is defined as toughness. Fracture toughness is a specific measure of a material's resistance to crack propagation under stress, crucial for structural integrity.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15418,
+            "question_text": "When observing the sunrise or sunset, the sky often appears dramatically red or orange. This atmospheric phenomenon is primarily due to:",
+            "options": [
+                "Increased humidity levels scattering shorter wavelengths (blue).",
+                "Differential refraction of ultraviolet rays by dust particles.",
+                "The increased path length of sunlight through denser atmospheric layers.",
+                "Absorption of blue light by ozone molecules at low altitudes."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "At sunrise/sunset, sunlight travels through more of the atmosphere, causing blue light to scatter away via Rayleigh scattering, leaving only the longer red wavelengths visible.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15419,
+            "question_text": "Which atmospheric phenomenon is primarily responsible for the blue hue observed during the early morning and late evening hours, a phenomenon often referred to as 'twilight'? (Note: This phenomenon is distinct from the general scattering of light by Rayleigh scattering)",
+            "options": [
+                "Fluorescence reaction triggered by ozone depletion in the mesosphere",
+                "The combination of Mie and Rayleigh scattering at low solar angles",
+                "Atmospheric scattering of blue light due to longer path lengths",
+                "Differential refraction caused by temperature inversions near the horizon"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The visible spectrum during twilight involves both Rayleigh scattering (responsible for blue) and Mie scattering (responsible for hazier colors), combined over long paths.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15420,
+            "question_text": "Which biological process is primarily responsible for converting solar energy into chemical energy stored in glucose molecules?",
+            "options": [
+                "Respiration",
+                "Transpiration",
+                "Photosynthesis",
+                "Glycolysis"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Photosynthesis is the process utilized by plants and certain organisms to convert light energy (solar energy) into stored chemical energy (glucose) using carbon dioxide and water.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15421,
+            "question_text": "Which common household item is used to convert electrical energy into mechanical energy by utilizing the principles of electromagnetic induction?",
+            "options": [
+                "Vacuum Cleaner Motor",
+                "Incandescent Bulb",
+                "Transformer",
+                "Electric Motor"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "An electric motor converts electrical energy into mechanical energy by utilizing the principles of electromagnetic induction.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15422,
+            "question_text": "Which fundamental biological process, crucial for the decomposition of organic matter in ecosystems, primarily relies on the anaerobic respiration of specific microbial communities?",
+            "options": [
+                "Sulfate reduction, producing hydrogen sulfide",
+                "Denitrification, converting nitrates to nitrogen gas",
+                "Methanogenesis, leading to methane release",
+                "Nitrification, converting ammonia to nitrates"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Methanogenesis, performed by archaea, is the key anaerobic process responsible for generating methane in environments like swamps and landfills.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15423,
+            "question_text": "Which mechanism is responsible for the change in color of certain natural indicators, such as those found in certain flowers?",
+            "options": [
+                "Acid-base equilibrium involving the ionization state of molecular groups.",
+                "Catalytic breakdown of pigments due to temperature change.",
+                "Oxidation-reduction reactions triggered by atmospheric pollutants.",
+                "Chemiluminescence induced by pH variation."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Natural indicators change color because their chemical structure, and thus their absorption spectrum, changes when the concentration of hydrogen ions ($\text{H}^+$) or hydroxide ions ($\text{OH}^-$) shifts, altering their ionization state.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15424,
+            "question_text": "Which natural process is responsible for the phenomenon of tides in the ocean, and how does this force primarily interact with Earth's gravitational pull?",
+            "options": [
+                "Atmospheric pressure changes coupled with thermal expansion of ocean water.",
+                "Interaction of high-altitude winds creating pressure gradients perpendicular to the coastline.",
+                "Gravitational pull from the Moon and Sun creating differential forces (spring/neap tides).",
+                "Earth's rotation speed causing centrifugal force that pushes water away from the equator."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tides are primarily caused by the differential gravitational forces exerted by the Moon and Sun, resulting in high (spring) and low (neap) tides.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15425,
+            "question_text": "Which of the following best describes the primary mechanism by which the human body utilizes glucose molecules from digestion?",
+            "options": [
+                "It is immediately converted into fatty acids and stored in adipose tissue for long-term energy.",
+                "It is broken down into methane gas via bacterial action in the large intestine.",
+                "It is primarily metabolized in the liver and then used in the brain and red blood cells as the main fuel source.",
+                "It is directly expelled through sweat pores to maintain osmotic balance."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The liver regulates blood glucose, and the brain and red blood cells are highly dependent on glucose metabolism (glycolysis) for continuous energy supply.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15426,
+            "question_text": "Which of the following biological macromolecules are primarily responsible for maintaining the structural integrity and tensile strength of connective tissues like bone and tendons?",
+            "options": [
+                "Keratin",
+                "Elastin",
+                "Collagen",
+                "Fibronectin"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Collagen is the most abundant protein in the body and provides immense tensile strength to connective tissues.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15427,
+            "question_text": "Which physical phenomenon is primarily responsible for the blue tint observed in the sky, a process that becomes less noticeable at higher altitudes?",
+            "options": [
+                "Interference Pattern",
+                "Rayleigh Scattering",
+                "Dispersion",
+                "Tyndall Effect"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Rayleigh scattering explains that atmospheric gases scatter shorter wavelengths (blue light) more efficiently than longer wavelengths (red light).",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15428,
+            "question_text": "Which process involves the conversion of light energy into chemical energy, primarily occurring in plant chloroplasts?",
+            "options": [
+                "Fermentation",
+                "Respiration",
+                "Transpiration",
+                "Photosynthesis"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Photosynthesis is the process where plants use sunlight (light energy) to convert carbon dioxide and water into glucose (chemical energy).",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15429,
+            "question_text": "Which process is primarily responsible for the natural dispersion of pollutants and heat in the Earth's atmosphere?",
+            "options": [
+                "Adiabatic cooling during ascent",
+                "Solar radiation absorption by ozone layer",
+                "Gravitational pull on atmospheric gases",
+                "Atmospheric circulation and wind shear"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Atmospheric circulation (wind) and wind shear are the key mechanisms that transport and mix pollutants and heat energy globally.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15430,
+            "question_text": "Which type of energy conversion mechanism is fundamental to the functioning of a photoelectric cell (solar cell)?",
+            "options": [
+                "Electromagnetic energy (photons) to electrical energy",
+                "Mechanical energy to electrical energy",
+                "Potential energy to kinetic energy",
+                "Chemical energy to thermal energy"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Photoelectric cells convert incoming light energy (electromagnetic energy, specifically photons) directly into usable electrical current, demonstrating the photon photoelectric effect.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        }
+    ]
+}

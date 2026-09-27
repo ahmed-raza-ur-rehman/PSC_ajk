@@ -1,0 +1,193 @@
+{
+    "category": "Northern University",
+    "name": "Academic Records",
+    "board": "northern-university",
+    "subject": "academic-records",
+    "url": "/northern-university/academic-records/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 11345,
+            "question_text": "How does Northern University typically utilize academic transcripts during the need-based scholarship review process?",
+            "options": [
+                "To calculate the total cost of books",
+                "To confirm the student is meeting 'Satisfactory Academic Progress' (SAP) standards",
+                "To determine the student's religious preference",
+                "To assess eligibility for athletic recruitment only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Financial aid eligibility, even for need-based awards, is often contingent upon the student maintaining a minimum GPA and credit completion rate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11346,
+            "question_text": "What does a 'weighted' GPA, as typically reflected on a high school transcript, generally account for?",
+            "options": [
+                "The student’s total volunteer hours",
+                "The difficulty level of the courses taken, such as AP or IB credits",
+                "The student's rank relative to international students",
+                "The total financial aid received in previous semesters"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Weighted GPAs provide context for academic rigor, recognizing students who challenge themselves with advanced coursework.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11347,
+            "question_text": "Why does Northern University require official transcripts rather than student-provided grade reports?",
+            "options": [
+                "To charge an extra administrative fee",
+                "To verify the authenticity of the academic history through an official seal",
+                "Because official transcripts have fewer pages",
+                "To assess the student's personality through comments"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Official transcripts provide a verified, tamper-proof record of grades, which is essential for ensuring the integrity of the selection process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11348,
+            "question_text": "How is a student's 'academic trend' evaluated during scholarship review?",
+            "options": [
+                "Only the most recent semester is reviewed",
+                "The GPA from every year is averaged equally",
+                "The progression and difficulty of courses over time are analyzed",
+                "Only the final year's GPA is considered"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Reviewers often look for a pattern of improvement or a consistent history of choosing challenging coursework, rather than just a single GPA number.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11349,
+            "question_text": "In the context of scholarship academic requirements, what is 'rigor of curriculum'?",
+            "options": [
+                "The total number of credits taken",
+                "The difficulty level of high school courses (e.g., AP, IB, Honors)",
+                "The number of extracurricular sports played",
+                "The punctuality of the student in submitting assignments"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Rigor refers to whether a student has challenged themselves with advanced-level coursework beyond the standard curriculum.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11350,
+            "question_text": "If a student has a 'Pass/Fail' grade on their transcript for a major core subject, what is the university's expected action?",
+            "options": [
+                "Ignore the grade entirely",
+                "Convert it to an A grade",
+                "Request a letter or audit from the instructor explaining the performance",
+                "Automatically disqualify the application"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To ensure fairness in GPA calculation, universities often need context for non-traditional grading methods to determine academic mastery.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11351,
+            "question_text": "When assessing academic potential, what does Northern University prioritize when reviewing an transcript with fluctuating grades?",
+            "options": [
+                "The grade in the most recent semester",
+                "The cumulative GPA regardless of year",
+                "The average of all non-core electives",
+                "The SAT/ACT score exclusively"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Upward or downward trends in the most recent academic periods are significant indicators of a student's current academic trajectory and maturity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11352,
+            "question_text": "What does 'Class Rank' provide to the scholarship committee that a GPA alone might not?",
+            "options": [
+                "A comparison of performance within the specific high school's environment",
+                "The student's exact standing in the national university system",
+                "A measure of financial status based on school funding",
+                "A calculation of extracurricular hours"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Class rank provides necessary context for GPA, showing how a student performed relative to their peers within the same curriculum standards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11353,
+            "question_text": "How are dual-enrollment college credits evaluated on a high school transcript for Northern University?",
+            "options": [
+                "They are ignored entirely",
+                "They are assessed as evidence of college-readiness and academic rigor",
+                "They are deducted from the GPA",
+                "They replace high school core grades"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dual-enrollment courses demonstrate that a student can handle university-level material, which is a positive factor in scholarship review.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11354,
+            "question_text": "Which factor is considered the least influential when evaluating academic records for a need-based scholarship?",
+            "options": [
+                "Course rigor",
+                "Cumulative GPA",
+                "Participation in physical education electives",
+                "Grade trends in core subjects"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Core academic performance and course difficulty carry significantly more weight than participation in elective non-core subjects.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11355,
+            "question_text": "Why does Northern University request secondary school profiles alongside transcripts?",
+            "options": [
+                "To verify the school’s contact information",
+                "To understand the grading scale and the academic resources available at the institution",
+                "To confirm the student's attendance record",
+                "To determine if the student was involved in sports"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "School profiles help admissions officers interpret grades by explaining the rigor of the curriculum and the grading conventions used by the school.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11356,
+            "question_text": "How does the scholarship committee view a 'Withdrawal' (W) on a high school transcript?",
+            "options": [
+                "It is treated as an automatic failure",
+                "It is viewed neutrally if isolated, but a pattern may raise concerns",
+                "It is strictly prohibited for scholarship recipients",
+                "It is rewarded as a sign of time management"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A single withdrawal usually indicates a difficult circumstance, whereas repeated withdrawals may suggest a failure to manage academic commitments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11357,
+            "question_text": "What is the primary indicator of academic 'Rigor' on a student's transcript?",
+            "options": [
+                "The number of clubs the student joined",
+                "The presence of Advanced Placement (AP), IB, or Honors courses",
+                "The student’s total years in high school",
+                "The grade received in the first year of high school"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Course rigor is measured by the challenge level of the classes taken, specifically higher-level courses compared to the standard curriculum.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

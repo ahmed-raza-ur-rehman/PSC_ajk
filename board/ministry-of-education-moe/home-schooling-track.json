@@ -1,0 +1,137 @@
+{
+    "category": "Ministry of Education (MoE)",
+    "name": "Home-Schooling Track",
+    "board": "ministry-of-education-moe",
+    "subject": "home-schooling-track",
+    "url": "/ministry-of-education-moe/home-schooling-track/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 9341,
+            "question_text": "Are students in the Home-Schooling Track required to attend classes physically?",
+            "options": [
+                "Yes, daily attendance is mandatory",
+                "No, there is no requirement to attend classes physically",
+                "Only during final exam week",
+                "Only if they are failing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ministry documentation clarifies that in the Home-Schooling Track, there is no requirement for students to attend classes physically.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9342,
+            "question_text": "Who is eligible for the Home-Schooling Track?",
+            "options": [
+                "Only UAE citizens",
+                "Only residents",
+                "All nationalities",
+                "Only students over 18"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The service documentation states that the Home-Schooling path is open to all nationalities from Grade 7 to Grade 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9343,
+            "question_text": "What is the eligibility requirement for the Home-Schooling Track regarding nationality?",
+            "options": [
+                "UAE citizens only",
+                "Residents only",
+                "Open to all nationalities",
+                "Gulf Cooperation Council citizens only"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Home-Schooling Track is explicitly open to all nationalities from Grade 7 to Grade 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9345,
+            "question_text": "What assessment method is used for Home-Schooling students?",
+            "options": [
+                "In-person oral exams only",
+                "Online exams according to Ministry regulations",
+                "Completion of a portfolio",
+                "No assessments are required"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Home-schooling students are required to take online exams set by the Ministry of Education to evaluate their progress.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9346,
+            "question_text": "Which grade levels are supported by the Home-Schooling Track?",
+            "options": [
+                "Grades 1 to 12",
+                "Grades 7 to 12",
+                "Grades 10 to 12",
+                "KG to Grade 6"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The curriculum support for independent study in the Home-Schooling track covers Grade 7 through Grade 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9347,
+            "question_text": "How is the level assessment conducted for students enrolling in the Home-Schooling track for grades 7, 8, or 9?",
+            "options": [
+                "Via a written interview in July",
+                "During the first term exams in April",
+                "Through a phone call",
+                "It is not required"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Students wishing to enroll in grades 7, 8, or 9 must undergo an assessment during the first term exams of the program in April.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9348,
+            "question_text": "Are students in the Home-Schooling Track required to be physically present at school?",
+            "options": [
+                "Yes, they must attend all classes daily",
+                "No, there is no requirement to attend classes physically",
+                "Only during final exam weeks",
+                "Only for laboratory sessions"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Home-Schooling Track allows students to study independently without the need for physical classroom attendance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9349,
+            "question_text": "Which students are eligible to enroll in the Home-Schooling Track?",
+            "options": [
+                "Only UAE citizens",
+                "Only residents who have lived in the UAE for 10 years",
+                "Both UAE citizens and residents",
+                "Only students aged 18 and above"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The track is open to both UAE citizens and residents to support their educational goals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9350,
+            "question_text": "How are students assessed in the Home-Schooling Track?",
+            "options": [
+                "Through face-to-face oral exams only",
+                "By submitting a research project only",
+                "Through online exams according to Ministry regulations",
+                "They are not assessed"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Students in this track must take exams online, adhering to the specific regulations set forth by the Ministry of Education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

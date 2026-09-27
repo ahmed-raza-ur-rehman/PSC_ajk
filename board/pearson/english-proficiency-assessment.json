@@ -1,0 +1,249 @@
+{
+    "category": "Pearson",
+    "name": "English Proficiency Assessment",
+    "board": "pearson",
+    "subject": "english-proficiency-assessment",
+    "url": "/pearson/english-proficiency-assessment/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 17,
+    "questions": [
+        {
+            "id": 11981,
+            "question_text": "Which component of an English Proficiency Assessment is most important for participating in business seminars?",
+            "options": [
+                "Physical stamina",
+                "Listening and speaking fluency",
+                "Speed of handwriting",
+                "Ability to memorize dictionary definitions"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Business seminars involve active discussion and the ability to grasp complex arguments in real-time, making oral proficiency essential.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11982,
+            "question_text": "What does a reading comprehension test in an English assessment typically measure?",
+            "options": [
+                "The ability to identify the main idea and supporting details in a business text",
+                "The speed at which a student can flip pages",
+                "The ability to translate text into a local dialect",
+                "The student's knowledge of historical literature"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "In business studies, students must read and synthesize large volumes of information; reading comprehension tests verify this specific analytical skill.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11983,
+            "question_text": "Which part of the English Proficiency Assessment specifically tests the student's ability to interpret charts and business reports?",
+            "options": [
+                "Grammar and Syntax section",
+                "Vocabulary test",
+                "Analytical Reading Comprehension",
+                "Auditory dictation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Business English focuses on data literacy; understanding reports is a key component of the comprehension portion of the test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11984,
+            "question_text": "How does an 'English Proficiency Assessment' assist the university?",
+            "options": [
+                "It determines the student's aptitude for mathematics",
+                "It ensures that students can follow lectures and participate in group discussions",
+                "It replaces the need for an IELTS or TOEFL score",
+                "It acts as a primary entry requirement for local language studies"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Academic success requires a high level of language competence to engage with course material and collaborate with peers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11985,
+            "question_text": "What does a section on 'Synonyms and Antonyms' in an English test assess?",
+            "options": [
+                "The student's knowledge of historical English literature",
+                "The student's depth and breadth of vocabulary",
+                "The student's ability to speak in a formal setting",
+                "The student's physical speaking speed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Having a wide vocabulary is essential for effective, precise communication in a business environment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11986,
+            "question_text": "In a formal email-writing task during the assessment, which tone is most appropriate for a business setting?",
+            "options": [
+                "Casual and conversational",
+                "Professional, objective, and clear",
+                "Highly emotional and informal",
+                "Strictly poetic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Business communication prioritizes clarity, conciseness, and professionalism, avoiding slang and over-emotional language.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11987,
+            "question_text": "What is the purpose of 'Sentence Correction' questions in an English assessment?",
+            "options": [
+                "To test the student's knowledge of English grammar rules and sentence structure",
+                "To test the student's cultural awareness",
+                "To see if the student can spot typing errors",
+                "To test the student's knowledge of speed reading"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Grammatical accuracy is fundamental to producing professional reports and documents in a business degree.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11988,
+            "question_text": "When the assessment includes an 'Auditory/Listening' component, what is primarily measured?",
+            "options": [
+                "The student's ability to take notes during a lecture",
+                "The student's musical aptitude",
+                "The student's ability to memorize long passages of text",
+                "The student's accent"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Listening comprehension is critical for university students to capture information presented by instructors during lectures.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11989,
+            "question_text": "How is 'Critical Reasoning' integrated into English proficiency tests?",
+            "options": [
+                "By asking the student to write a creative poem",
+                "By testing if the student can identify logical flaws in a provided argument",
+                "By checking if the student can recite definitions of words",
+                "By measuring how fast the student can type"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Business decision-making requires logical thinking; testing this in an English assessment ensures students can process complex information.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11990,
+            "question_text": "Why might the English Assessment require a timed essay component?",
+            "options": [
+                "To evaluate the student's ability to structure thoughts under pressure",
+                "To tire the student out before the interview",
+                "Because the university has a limited amount of paper",
+                "To see if the student can write as fast as possible"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Timed writing tasks reflect the real-world pressure of meeting business deadlines and producing quick, coherent professional documents.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11991,
+            "question_text": "What is the importance of 'Context Clues' when reading business articles?",
+            "options": [
+                "They replace the need for a dictionary",
+                "They help the reader deduce the meaning of unfamiliar business terminology",
+                "They tell the reader if the author is telling the truth",
+                "They provide a summary of the article at the bottom of the page"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ability to understand new concepts within context is a vital learning skill for business students encountering technical jargon.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11992,
+            "question_text": "In the context of the assessment, what is the role of 'Idiomatic Expressions'?",
+            "options": [
+                "They should be avoided completely in all business documents",
+                "Understanding them helps in grasping the nuance of professional English communication",
+                "They are the main focus of the math portion of the exam",
+                "They are used only in casual lunch meetings"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While business language is often formal, understanding common English idioms helps students navigate professional social interactions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11993,
+            "question_text": "In an English proficiency test, what is measured by 'Cloze' tests (filling in missing words in a paragraph)?",
+            "options": [
+                "The ability to memorize poetry",
+                "Contextual understanding, vocabulary usage, and grammatical accuracy",
+                "The student's typing speed",
+                "The ability to summarize long novels"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cloze tests require the reader to use surrounding context to determine which word logically and grammatically fits the gap.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11994,
+            "question_text": "What does a 'Logical Sequencing' question in an English assessment test?",
+            "options": [
+                "The ability to order sentences to form a coherent, meaningful passage",
+                "The ability to translate from another language",
+                "Knowledge of classical literature history",
+                "Speed of reading aloud"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Logical sequencing tests the student's grasp of discourse structure, flow, and logical progression of ideas.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11995,
+            "question_text": "Why is 'Conciseness' a priority in business-focused English assessment tasks?",
+            "options": [
+                "Business communication rewards clarity and efficiency of expression",
+                "It is harder for the student to make mistakes if they write less",
+                "Concise writing is required to save ink",
+                "It is the only way to avoid punctuation errors"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "In professional environments, effective communicators prioritize getting the point across quickly without unnecessary fluff.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11996,
+            "question_text": "What is the purpose of testing 'Formal vs. Informal' register in an English test?",
+            "options": [
+                "To test the student's ability to use slang",
+                "To evaluate if the student understands professional communication standards",
+                "To force students to abandon their native language",
+                "To determine the student's favorite hobbies"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Knowing when to be formal (e.g., in a report) vs. informal (e.g., in a quick email to a colleague) is vital for business success.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11997,
+            "question_text": "What is tested when a student is asked to identify the 'Main Idea' of an article?",
+            "options": [
+                "Their ability to memorize every sentence",
+                "Their capability to synthesize and grasp the core argument or purpose of a text",
+                "Their knowledge of the author's biography",
+                "Their ability to identify every adjective in the text"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Identifying the main idea is essential for higher-order reading comprehension, which is required for academic and business research.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

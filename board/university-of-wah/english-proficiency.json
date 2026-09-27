@@ -1,0 +1,207 @@
+{
+    "category": "University of Wah",
+    "name": "English Proficiency",
+    "board": "university-of-wah",
+    "subject": "english-proficiency",
+    "url": "/university-of-wah/english-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 11725,
+            "question_text": "Choose the word that best completes the sentence: 'Despite his ______ efforts to finish the project, he missed the deadline due to unforeseen technical difficulties.'",
+            "options": [
+                "indolent",
+                "diligent",
+                "superficial",
+                "erratic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Diligent means showing care and conscientiousness in one's work, which logically contrasts with the failure to meet the deadline.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11726,
+            "question_text": "Identify the error in the following sentence: 'Each of the participants were asked to provide their feedback by the end of the session.'",
+            "options": [
+                "Each of",
+                "the participants",
+                "were asked",
+                "to provide"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The subject 'Each' is singular, so it requires the singular verb 'was asked' instead of 'were asked'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11727,
+            "question_text": "Select the synonym for the word 'Pragmatic'.",
+            "options": [
+                "Idealistic",
+                "Practical",
+                "Theoretical",
+                "Dreamy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pragmatic means dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11728,
+            "question_text": "Choose the correct preposition: 'She has been suffering ______ a severe fever since last night.'",
+            "options": [
+                "from",
+                "with",
+                "of",
+                "by"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The idiomatic expression is 'suffering from' an ailment or illness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11729,
+            "question_text": "Identify the antonym for the word 'Ephemeral'.",
+            "options": [
+                "Fleeting",
+                "Transient",
+                "Everlasting",
+                "Momentary"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ephemeral means lasting for a very short time; everlasting is its direct opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11730,
+            "question_text": "Complete the sentence: 'The team's success was ______ to their unwavering commitment and collaborative spirit.'",
+            "options": [
+                "attributed",
+                "denied",
+                "ignored",
+                "dismissed"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "To 'attribute to' means to regard something as being caused by someone or something.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11731,
+            "question_text": "Which of the following sentences is grammatically correct?",
+            "options": [
+                "Neither the students nor the teacher were present.",
+                "Neither the students nor the teacher was present.",
+                "Neither the teacher nor the students was present.",
+                "The teacher as well as the students were present."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the subject closest to it (the teacher, which is singular).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11732,
+            "question_text": "Choose the word that completes the analogy: 'Architect : Building :: Sculptor : ______'",
+            "options": [
+                "Paint",
+                "Statue",
+                "Chisel",
+                "Museum"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An architect creates buildings, while a sculptor creates statues.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11733,
+            "question_text": "Find the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Acommodasion"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling requires double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11734,
+            "question_text": "Which word indicates a person who hates mankind?",
+            "options": [
+                "Philanthropist",
+                "Misanthrope",
+                "Misogynist",
+                "Introvert"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A misanthrope is a person who dislikes humankind and avoids human society.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11735,
+            "question_text": "Choose the most appropriate word to fill in the blank: 'The atmosphere in the room was ______ after the heated argument.'",
+            "options": [
+                "tangible",
+                "palpable",
+                "visible",
+                "audible"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Palpable is often used to describe an intense or noticeable atmosphere, like tension.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11736,
+            "question_text": "Rewrite in indirect speech: He said, 'I am busy today.'",
+            "options": [
+                "He said that he is busy today.",
+                "He said that he was busy today.",
+                "He said that he was busy that day.",
+                "He said he was busy yesterday."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In indirect speech, the present tense changes to past, and 'today' changes to 'that day'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11737,
+            "question_text": "Select the word that best fits the blank: 'Her ______ demeanor made everyone in the room feel instantly at ease.'",
+            "options": [
+                "belligerent",
+                "affable",
+                "bellicose",
+                "aloof"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Affable means friendly, good-natured, or easy to talk to, which fits the context of making people feel at ease.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11739,
+            "question_text": "Identify the part of speech of the word 'quickly' in the sentence: 'The wind blew quickly across the plains.'",
+            "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Conjunction"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quickly modifies the verb 'blew', therefore it functions as an adverb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

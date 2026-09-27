@@ -1,0 +1,137 @@
+{
+    "category": "Green International University",
+    "name": "Professional Ethics and Safety",
+    "board": "green-international-university",
+    "subject": "professional-ethics-and-safety",
+    "url": "/green-international-university/professional-ethics-and-safety/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 13852,
+            "question_text": "What is the most important first step to prevent the spread of infectious diseases in an aesthetic salon?",
+            "options": [
+                "Wearing designer uniforms",
+                "Proper handwashing and surface disinfection",
+                "Using scented candles",
+                "Greeting clients by name"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Universal precautions, including sanitation and disinfection, are the primary defense against pathogen transmission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13853,
+            "question_text": "What is the scope of practice regarding a client presenting with undiagnosed skin lesions?",
+            "options": [
+                "Diagnose the lesion and treat with essential oils",
+                "Advise the client to use store-bought cream",
+                "Refer the client to a dermatologist for medical diagnosis",
+                "Ignore the lesion and continue the facial"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Aestheticians are not licensed to diagnose medical skin conditions and must refer to qualified medical professionals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13854,
+            "question_text": "What does the term 'scope of practice' mean for an aesthetician?",
+            "options": [
+                "The list of services they are legally permitted to perform",
+                "The distance they must maintain from a client",
+                "The number of hours they can work per week",
+                "The chemicals they are allowed to store on-site"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Scope of practice defines the specific boundaries and tasks allowed by a professional's license and local laws.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13855,
+            "question_text": "Which document must be signed by a client before any potentially risky procedure?",
+            "options": [
+                "The daily schedule",
+                "A release form or informed consent",
+                "A product sales receipt",
+                "A marketing survey"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Informed consent documents ensure the client understands the risks, benefits, and procedures they are about to receive.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13856,
+            "question_text": "What is the correct protocol if you discover blood on a surface after a procedure?",
+            "options": [
+                "Wipe it away with a damp cloth",
+                "Use a disinfectant labeled effective against HIV/HBV or a tuberculocidal disinfectant",
+                "Wait for it to dry before cleaning",
+                "Cover the area with a towel"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Standard safety precautions require specific medical-grade disinfectants when bloodborne pathogens might be present.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13857,
+            "question_text": "What is the primary ethical responsibility regarding client privacy?",
+            "options": [
+                "Sharing client skin care routines on social media",
+                "Maintaining strict confidentiality regarding all personal and medical information",
+                "Only sharing information with other stylists in the salon",
+                "Providing client records to insurance companies without permission"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Client confidentiality is an ethical and often legal requirement in health and beauty practices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13858,
+            "question_text": "Why is it important to ask about current medications during a consultation?",
+            "options": [
+                "To verify the client's medical insurance",
+                "To identify potential contraindications for skin treatments",
+                "To upsell products that work with those medications",
+                "To update the salon’s demographic database"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Many medications (e.g., isotretinoin, photosensitizing drugs) can cause severe adverse reactions to aesthetic treatments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13859,
+            "question_text": "What is the main purpose of an SDS (Safety Data Sheet)?",
+            "options": [
+                "To advertise the product benefits",
+                "To list the chemical composition and hazards of a product",
+                "To outline the billing process for clients",
+                "To record the daily appointment schedule"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SDS provide comprehensive information about a substance, including handling, storage, and emergency procedures.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13860,
+            "question_text": "If a client discloses they are taking Accutane, what is the required professional action?",
+            "options": [
+                "Proceed with caution",
+                "Avoid all exfoliating treatments",
+                "Use only physical scrubs",
+                "Only perform the treatment if they signed a waiver"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Accutane (isotretinoin) causes severe skin thinning and fragility; performing exfoliation can lead to significant skin damage or scarring.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

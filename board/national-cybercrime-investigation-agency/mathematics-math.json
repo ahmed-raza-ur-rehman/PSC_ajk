@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Mathematics — Math",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "mathematics-math",
+    "url": "/national-cybercrime-investigation-agency/mathematics-math/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14585,
+            "question_text": "When observing the sunrise or sunset, the sky often appears dramatically red or orange. This atmospheric phenomenon is primarily due to:",
+            "options": [
+                "Absorption of blue light by ozone molecules at low altitudes.",
+                "Differential refraction of ultraviolet rays by dust particles.",
+                "The increased path length of sunlight through denser atmospheric layers.",
+                "Increased humidity levels scattering shorter wavelengths (blue)."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "At sunrise/sunset, sunlight travels through more of the atmosphere, causing blue light to scatter away via Rayleigh scattering, leaving only the longer red wavelengths visible.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

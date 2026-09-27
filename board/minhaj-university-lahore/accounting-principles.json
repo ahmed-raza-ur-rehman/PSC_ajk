@@ -1,0 +1,165 @@
+{
+    "category": "Minhaj University Lahore",
+    "name": "Accounting Principles",
+    "board": "minhaj-university-lahore",
+    "subject": "accounting-principles",
+    "url": "/minhaj-university-lahore/accounting-principles/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11759,
+            "question_text": "Which accounting concept dictates that expenses should be recorded in the same period as the revenues they help generate?",
+            "options": [
+                "Going Concern Concept",
+                "Matching Principle",
+                "Consistency Principle",
+                "Monetary Unit Assumption"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The matching principle requires that expenses be reported in the same period as the revenues earned as a direct result of those expenses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11760,
+            "question_text": "What is the effect on the accounting equation if a business buys office equipment on credit?",
+            "options": [
+                "Assets increase, Liabilities increase",
+                "Assets increase, Equity increases",
+                "Assets increase, Liabilities decrease",
+                "Assets decrease, Liabilities increase"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The equipment (an asset) increases, and the accounts payable (a liability) increases by the same amount to maintain the equation balance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11761,
+            "question_text": "Which accounting principle requires that financial statements be prepared assuming the business will continue to operate indefinitely?",
+            "options": [
+                "Consistency Principle",
+                "Going Concern Concept",
+                "Full Disclosure Principle",
+                "Materiality Concept"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Going Concern Concept assumes that a company will remain in business for the foreseeable future, justifying the deferral of expenses and capitalization of assets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11762,
+            "question_text": "Under the accrual basis of accounting, when should revenue be recognized?",
+            "options": [
+                "When cash is received from the customer",
+                "When the order is placed by the customer",
+                "When the performance obligation is satisfied",
+                "When the invoice is printed"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Revenue recognition occurs when control of goods or services is transferred to the customer, regardless of when cash is collected.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11763,
+            "question_text": "Which financial statement reports the financial position of an entity at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Statement of Cash Flows",
+                "Balance Sheet",
+                "Statement of Changes in Equity"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Balance Sheet provides a snapshot of a company's assets, liabilities, and equity on a specific date.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11764,
+            "question_text": "What is the primary purpose of a trial balance?",
+            "options": [
+                "To prove that total debits equal total credits",
+                "To calculate the net profit for the year",
+                "To determine the ending balance of cash",
+                "To adjust accounts for accruals"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A trial balance is a bookkeeping worksheet in which the balances of all ledgers are compiled to ensure the mathematical accuracy of the double-entry system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11765,
+            "question_text": "Which account would typically have a normal debit balance?",
+            "options": [
+                "Accounts Payable",
+                "Common Stock",
+                "Prepaid Insurance",
+                "Interest Revenue"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Prepaid Insurance is an asset account, and asset accounts generally maintain a normal debit balance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11766,
+            "question_text": "Which accounting principle suggests that companies should record assets at their original purchase price rather than current market value?",
+            "options": [
+                "Revenue Recognition Principle",
+                "Historical Cost Principle",
+                "Full Disclosure Principle",
+                "Matching Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The historical cost principle requires assets to be recorded at the cash amount (or equivalent) at the time of acquisition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11767,
+            "question_text": "The accounting concept that prevents the owner's personal expenses from being recorded in the business books is known as:",
+            "options": [
+                "Monetary Unit Assumption",
+                "Economic Entity Assumption",
+                "Periodicity Assumption",
+                "Going Concern Assumption"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The economic entity assumption states that the activities of the entity must be kept separate and distinct from the activities of the owner.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11768,
+            "question_text": "Which of the following is considered an intangible asset?",
+            "options": [
+                "Inventory",
+                "Accounts Receivable",
+                "Goodwill",
+                "Prepaid Insurance"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Goodwill represents intangible value such as brand reputation, unlike inventory or receivables which are tangible or financial assets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11769,
+            "question_text": "What is the primary purpose of the 'Consistency' principle in accounting?",
+            "options": [
+                "To ensure expenses match revenues",
+                "To compare financial statements across different periods",
+                "To force all companies to use the same software",
+                "To inflate asset values"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Consistency ensures that a company uses the same accounting policies year over year, making the financial data comparable over time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

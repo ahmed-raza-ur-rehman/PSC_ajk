@@ -1,0 +1,151 @@
+{
+    "category": "Rashid Latif Khan University",
+    "name": "Business Communication",
+    "board": "rashid-latif-khan-university",
+    "subject": "business-communication",
+    "url": "/rashid-latif-khan-university/business-communication/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13811,
+            "question_text": "Which of the following is a characteristic of effective business writing?",
+            "options": [
+                "Using complex jargon to show authority",
+                "Being concise, clear, and audience-focused",
+                "Avoiding the use of bullet points",
+                "Focusing solely on the writer's perspective"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Effective business communication should be direct and easy for the recipient to understand without ambiguity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13812,
+            "question_text": "In a formal business letter, what is the purpose of the 'complimentary close'?",
+            "options": [
+                "To summarize the entire argument",
+                "To provide a call to action",
+                "To professionally conclude the correspondence",
+                "To list enclosures"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The complimentary close (e.g., 'Sincerely') serves as a professional sign-off before the signature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13813,
+            "question_text": "What is the primary purpose of a 'persuasive message' in a business context?",
+            "options": [
+                "To inform the reader of policy changes",
+                "To apologize for an error",
+                "To convince the reader to take a specific action or adopt an idea",
+                "To acknowledge receipt of a document"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Persuasive communication aims to influence the audience's attitudes or behaviors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13814,
+            "question_text": "In the context of the '7 Cs' of communication, what does 'Conciseness' imply?",
+            "options": [
+                "Using as many technical terms as possible",
+                "Including only relevant information and avoiding wordiness",
+                "Using flowery language to impress the reader",
+                "Repeating the main points for clarity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Conciseness means getting to the point quickly without unnecessary filler words.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13815,
+            "question_text": "What is the benefit of the 'you-attitude' in professional correspondence?",
+            "options": [
+                "It focuses solely on the writer's goals",
+                "It emphasizes the reader's needs and interests",
+                "It avoids professional tone",
+                "It makes the letter shorter"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'you-attitude' shifts the focus from the sender to the receiver, increasing the likelihood of a positive response.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13816,
+            "question_text": "Which of the following is a barrier to effective communication?",
+            "options": [
+                "Active listening",
+                "Providing clear feedback",
+                "Jargon or technical language",
+                "Empathy"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Jargon can lead to misunderstanding if the receiver is not familiar with the terminology, thus acting as a communication barrier.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13817,
+            "question_text": "What is the main purpose of an executive summary in a formal report?",
+            "options": [
+                "To detail every research method used",
+                "To provide a concise overview of the entire report for busy readers",
+                "To list the bibliography and references",
+                "To define all terms used in the appendix"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An executive summary summarizes the main findings, conclusions, and recommendations so stakeholders can grasp the key points without reading the entire document.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13818,
+            "question_text": "In the context of communication, what does 'Decoding' refer to?",
+            "options": [
+                "The sender converting ideas into words",
+                "The receiver interpreting the sender's message",
+                "The medium used to send the message",
+                "The feedback loop"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Decoding is the process by which the receiver translates the sender's message into meaning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13819,
+            "question_text": "What is an advantage of written communication compared to oral communication?",
+            "options": [
+                "It is always faster",
+                "It provides a permanent record for reference",
+                "It is easier to adjust based on immediate feedback",
+                "It relies heavily on body language"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Written communication allows for documentation, which provides a reliable record for future reference and accountability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13820,
+            "question_text": "What does the 'Completeness' principle in the 7 Cs of communication emphasize?",
+            "options": [
+                "Using short and simple words",
+                "Providing all necessary facts and information",
+                "Being polite and respectful",
+                "Using active voice rather than passive voice"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Completeness ensures that the receiver has all the information required to make a decision or take action without needing further clarification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

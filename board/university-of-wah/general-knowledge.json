@@ -1,0 +1,221 @@
+{
+    "category": "University of Wah",
+    "name": "General Knowledge",
+    "board": "university-of-wah",
+    "subject": "general-knowledge",
+    "url": "/university-of-wah/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 11925,
+            "question_text": "Which organization is primarily responsible for maintaining international monetary cooperation and financial stability?",
+            "options": [
+                "World Trade Organization",
+                "International Monetary Fund",
+                "United Nations",
+                "World Bank"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The IMF is specifically tasked with overseeing the global financial system and promoting stability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11926,
+            "question_text": "The process of 'Globalization' primarily refers to:",
+            "options": [
+                "The decrease in global temperatures.",
+                "The increasing interconnectedness of national economies and cultures.",
+                "The regulation of local trade by a single government.",
+                "The isolation of a country's economic market."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Globalization is the integration of markets, trade, and culture across national borders.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11927,
+            "question_text": "Which is the largest planet in our solar system?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Jupiter is the largest planet in our solar system by both mass and volume.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11928,
+            "question_text": "Who is known as the 'Father of Economics'?",
+            "options": [
+                "John Maynard Keynes",
+                "Adam Smith",
+                "Karl Marx",
+                "Milton Friedman"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Adam Smith is famously known as the father of modern economics for his work 'The Wealth of Nations'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11929,
+            "question_text": "Which gas is most abundant in the Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11930,
+            "question_text": "What is the capital city of Japan?",
+            "options": [
+                "Seoul",
+                "Beijing",
+                "Tokyo",
+                "Bangkok"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tokyo is the capital and largest city of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11931,
+            "question_text": "The 'Great Wall of China' is located in which continent?",
+            "options": [
+                "Europe",
+                "Asia",
+                "Africa",
+                "North America"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Great Wall is a series of fortifications built across the historical northern borders of China, which is in Asia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11933,
+            "question_text": "Which metal is liquid at room temperature?",
+            "options": [
+                "Gold",
+                "Mercury",
+                "Iron",
+                "Silver"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mercury is the only metallic element that is liquid at standard temperature and pressure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11934,
+            "question_text": "Who painted the Mona Lisa?",
+            "options": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Claude Monet"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Mona Lisa is a world-famous portrait painted by the Italian Renaissance artist Leonardo da Vinci.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11935,
+            "question_text": "What is the currency of the United Kingdom?",
+            "options": [
+                "Euro",
+                "Dollar",
+                "Pound Sterling",
+                "Franc"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The official currency of the United Kingdom is the Pound Sterling (£).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11936,
+            "question_text": "Which organ in the human body is primarily responsible for filtering blood?",
+            "options": [
+                "Heart",
+                "Liver",
+                "Kidney",
+                "Lungs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The kidneys filter blood to remove waste products and excess fluid, which are then excreted as urine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11937,
+            "question_text": "What is the full form of 'CEO'?",
+            "options": [
+                "Central Executive Officer",
+                "Chief Executive Officer",
+                "Chief Enterprise Officer",
+                "Corporate Executive Office"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "CEO stands for Chief Executive Officer, the highest-ranking executive in a company.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11938,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mars appears red due to iron oxide (rust) on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11939,
+            "question_text": "Which chemical element has the symbol 'Au'?",
+            "options": [
+                "Silver",
+                "Gold",
+                "Aluminum",
+                "Argon"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Au is derived from the Latin word 'aurum', which means gold.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11940,
+            "question_text": "What is the primary function of the World Trade Organization (WTO)?",
+            "options": [
+                "Regulating global climate change",
+                "Providing humanitarian aid",
+                "Regulating international trade",
+                "Managing international borders"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The WTO deals with the global rules of trade between nations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

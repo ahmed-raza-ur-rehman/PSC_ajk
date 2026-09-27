@@ -1,0 +1,81 @@
+{
+    "category": "DVSA",
+    "name": "Vehicle Loading",
+    "board": "dvsa",
+    "subject": "vehicle-loading",
+    "url": "/dvsa/vehicle-loading/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 5,
+    "questions": [
+        {
+            "id": 6895,
+            "question_text": "What is the main danger of overloading your vehicle?",
+            "options": [
+                "The car will use more fuel",
+                "It makes the vehicle harder to steer and lengthens stopping distances",
+                "It will damage the car's paintwork",
+                "It is only dangerous for the engine"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Excessive weight impacts braking efficiency and handling, making the car less responsive.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6896,
+            "question_text": "What represents the main danger associated with overloading a vehicle?",
+            "options": [
+                "It will make the engine run hotter than normal",
+                "It increases the likelihood of the car breaking down",
+                "It affects the vehicle's stability, steering, and braking performance",
+                "It will drain the battery faster than usual"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Overloading significantly changes how a car handles, making it harder to steer and increasing the distance required to stop.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8460,
+            "question_text": "How does an overloaded car affect your driving?",
+            "options": [
+                "It improves fuel efficiency",
+                "It makes the car easier to steer",
+                "It affects the car's braking and steering performance",
+                "It reduces the risk of accidents"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Excessive weight changes how a vehicle handles and increases the effort required to stop it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8461,
+            "question_text": "How will an overloaded vehicle affect your driving?",
+            "options": [
+                "It will make the steering feel lighter",
+                "It will reduce the distance required to stop",
+                "It will make the handling and braking less responsive",
+                "It will improve the vehicle's fuel efficiency"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Excess weight affects a vehicle's stability, steering, and significantly increases the distance required to come to a complete stop.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8463,
+            "question_text": "When loading a roof rack, what should you keep in mind?",
+            "options": [
+                "There is no weight limit",
+                "Ensure the load is secure and doesn't exceed the manufacturer's limit",
+                "Place the heaviest items at the back",
+                "Load it only when driving in city traffic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Overloading or improperly securing roof loads can cause them to fall off or affect the car's balance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

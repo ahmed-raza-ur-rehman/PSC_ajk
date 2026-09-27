@@ -1,0 +1,193 @@
+{
+    "category": "National University of Modern Languages",
+    "name": "English Language",
+    "board": "national-university-of-modern-languages",
+    "subject": "english-language",
+    "url": "/national-university-of-modern-languages/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 12464,
+            "question_text": "Choose the correct synonym for 'Benevolent'.",
+            "options": [
+                "Cruel",
+                "Kind",
+                "Angry",
+                "Indifferent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12465,
+            "question_text": "Identify the grammatical error: 'She don't like to play tennis.'",
+            "options": [
+                "She",
+                "don't",
+                "like",
+                "tennis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct form is 'does not' or 'doesn't' for the third-person singular.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12466,
+            "question_text": "Select the correct sentence.",
+            "options": [
+                "He go to market yesterday.",
+                "He went to market yesterday.",
+                "He gone to market yesterday.",
+                "He going to market yesterday."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The simple past tense 'went' is required for the time indicator 'yesterday'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12467,
+            "question_text": "Select the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Accomodation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling requires double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12468,
+            "question_text": "Choose the correct preposition: He is interested ___ learning new skills.",
+            "options": [
+                "in",
+                "at",
+                "on",
+                "of"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The idiomatic phrase is 'interested in'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12469,
+            "question_text": "What is the antonym of 'Generous'?",
+            "options": [
+                "Kind",
+                "Stingy",
+                "Helpful",
+                "Wealthy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Stingy means unwilling to give, which is the opposite of generous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12470,
+            "question_text": "Complete the sentence: If I ___ known, I would have helped.",
+            "options": [
+                "would have",
+                "had",
+                "have",
+                "am"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Third conditional structure: If + past perfect, would have + past participle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12471,
+            "question_text": "Identify the part of speech of the word 'quickly' in: 'He ran quickly.'",
+            "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Verb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quickly modifies the verb 'ran', making it an adverb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12472,
+            "question_text": "Choose the best synonym for 'Elaborate'.",
+            "options": [
+                "Simple",
+                "Intricate",
+                "Dull",
+                "Brief"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Elaborate means involving many carefully arranged parts or details, similar to intricate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12473,
+            "question_text": "Which word is an abstract noun?",
+            "options": [
+                "Table",
+                "Happiness",
+                "Dog",
+                "Car"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Happiness represents a feeling or state of being, which cannot be touched.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12474,
+            "question_text": "Choose the grammatically correct sentence.",
+            "options": [
+                "Neither the cats nor the dog are here.",
+                "Neither the cats nor the dog is here.",
+                "Neither the cats or the dog are here.",
+                "Neither the cats nor the dog were here."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' sentences, the verb agrees with the closer subject (dog).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12475,
+            "question_text": "What is the plural of 'Criterion'?",
+            "options": [
+                "Criterions",
+                "Criteria",
+                "Criterias",
+                "Criterion"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Criteria is the plural form of the singular noun criterion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12476,
+            "question_text": "Replace the underlined part: 'She looks forward to meet you.'",
+            "options": [
+                "to meeting",
+                "to met",
+                "to have met",
+                "meet"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The phrase 'look forward to' is followed by a gerund (-ing form).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

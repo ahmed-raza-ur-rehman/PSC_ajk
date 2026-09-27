@@ -1,0 +1,165 @@
+{
+    "category": "Virtual University",
+    "name": "English Communication",
+    "board": "virtual-university",
+    "subject": "english-communication",
+    "url": "/virtual-university/english-communication/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11469,
+            "question_text": "Which of the following is considered an 'active voice' sentence?",
+            "options": [
+                "The report was written by the manager.",
+                "The manager wrote the report.",
+                "The report is being finished by the team.",
+                "The report had been filed by the assistant."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In an active voice sentence, the subject performs the action. 'Manager' is the subject performing the action 'wrote'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11470,
+            "question_text": "What is the primary purpose of an executive summary in a business report?",
+            "options": [
+                "To provide a list of all references",
+                "To provide a concise overview of the entire document",
+                "To detail the technical methodology used",
+                "To explain the personal background of the author"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The executive summary condenses the key points, findings, and recommendations for stakeholders who may not read the full report.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11472,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "Neither the employees nor the manager were at the meeting.",
+                "Neither the employees nor the manager was at the meeting.",
+                "Neither the employees nor the manager are been at the meeting.",
+                "Neither the employees nor the manager is go to the meeting."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When using 'neither/nor', the verb agrees with the subject closest to it (the manager), which is singular.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11473,
+            "question_text": "Which of these is an example of an 'informative' business communication style?",
+            "options": [
+                "A persuasive sales pitch to a potential client",
+                "A monthly report detailing department sales figures",
+                "An angry email regarding a failed project",
+                "A creative fictional story for the company blog"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Informative communication focuses on relaying objective facts and data to the reader without trying to persuade or evoke emotion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11474,
+            "question_text": "What is the purpose of proofreading a business document?",
+            "options": [
+                "To increase the word count of the document",
+                "To change the font size for aesthetic appeal",
+                "To identify and correct spelling, grammar, and punctuation errors",
+                "To rewrite the document from a different perspective"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Proofreading is the final stage of the editing process, focusing on technical accuracy and clarity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11475,
+            "question_text": "In a formal email, what does the term 'CC' represent?",
+            "options": [
+                "Core Communication",
+                "Carbon Copy",
+                "Confidential Correspondence",
+                "Company Clearance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "CC stands for Carbon Copy, used to send a copy of an email to recipients who are not the primary target.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11476,
+            "question_text": "Which of these is a barrier to effective communication?",
+            "options": [
+                "Active listening",
+                "Concise language",
+                "Information overload",
+                "Clear feedback"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Exposing a receiver to more information than they can process effectively prevents clear understanding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11477,
+            "question_text": "Which of the following is an example of 'bias-free' language?",
+            "options": [
+                "The businessman signed the contract.",
+                "The businessperson signed the contract.",
+                "The chairman handled the meeting.",
+                "The stewardess served the drinks."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Bias-free language uses gender-neutral terms to ensure inclusivity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11478,
+            "question_text": "What is the primary function of a 'transitional phrase' in an essay?",
+            "options": [
+                "To define technical terms",
+                "To connect ideas and provide flow between sentences or paragraphs",
+                "To summarize the conclusion",
+                "To list the bibliography"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Transitional phrases (e.g., however, furthermore) help the reader understand the logical relationship between different parts of a text.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11479,
+            "question_text": "Which component of an email typically contains the core message?",
+            "options": [
+                "Subject Line",
+                "Salutation",
+                "Body",
+                "Attachment"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The body is the main section where the communication's purpose and details are written.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11480,
+            "question_text": "Which of the following sentences uses passive voice correctly?",
+            "options": [
+                "The manager sent the report.",
+                "The report was sent by the manager.",
+                "The manager is sending the report.",
+                "The manager had sent the report."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Passive voice is used when the focus is on the object receiving the action rather than the subject performing it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

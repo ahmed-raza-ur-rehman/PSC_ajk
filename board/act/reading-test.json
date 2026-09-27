@@ -1,0 +1,151 @@
+{
+    "category": "ACT",
+    "name": "Reading Test",
+    "board": "act",
+    "subject": "reading-test",
+    "url": "/act/reading-test/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 9442,
+            "question_text": "What does the ACT Reading Test primarily measure?",
+            "options": [
+                "Your ability to memorize vocabulary lists.",
+                "Your speed in skimming long technical reports.",
+                "Your ability to read closely and reason logically.",
+                "Your knowledge of classic world literature."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Reading Test measures your ability to read closely, reason logically, and integrate information from multiple sources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9443,
+            "question_text": "How many questions are included in the Reading Test?",
+            "options": [
+                "36 questions",
+                "40 questions",
+                "50 questions",
+                "45 questions"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Reading Test contains 36 questions to be completed in 40 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9444,
+            "question_text": "What core skill does the ACT Reading Test primarily measure?",
+            "options": [
+                "The ability to memorize plot points",
+                "The ability to read closely and reason logically",
+                "The ability to write complex literary critiques",
+                "The ability to translate foreign language texts"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test measures your ability to read closely, reason logically, and integrate information from multiple sources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9445,
+            "question_text": "How many questions are included in the ACT Reading Test?",
+            "options": [
+                "30 questions",
+                "36 questions",
+                "40 questions",
+                "50 questions"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ACT Reading Test includes 36 questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9446,
+            "question_text": "What is the time limit for the Reading Test section?",
+            "options": [
+                "35 minutes",
+                "40 minutes",
+                "45 minutes",
+                "50 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The time limit for the Reading Test is 40 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9447,
+            "question_text": "What does the Reading Test primarily evaluate?",
+            "options": [
+                "How fast you can scan a paragraph.",
+                "Close reading, logical reasoning, and information integration.",
+                "Your ability to memorize specific facts from a textbook.",
+                "Your knowledge of classic literature authors."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Reading Test measures your ability to read closely, reason logically, and integrate information from multiple sources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9448,
+            "question_text": "How much time is allotted for the Reading Test?",
+            "options": [
+                "30 minutes",
+                "40 minutes",
+                "50 minutes",
+                "60 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Reading Test section provides 40 minutes for students.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9449,
+            "question_text": "How many questions are in the Reading Test?",
+            "options": [
+                "30",
+                "36",
+                "40",
+                "50"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ACT Reading Test contains 36 questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9450,
+            "question_text": "Which of the following is a skill assessed by the Reading Test?",
+            "options": [
+                "Scientific experiment design",
+                "Logical reasoning",
+                "Advanced algebra",
+                "Creative essay writing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Logical reasoning is explicitly listed as a core skill measured by the Reading Test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9451,
+            "question_text": "Is the Reading Test required for all ACT test takers?",
+            "options": [
+                "Yes, it is a required section.",
+                "No, it is optional.",
+                "Only for students planning to study English.",
+                "Only for students taking the Writing test."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The ACT consists of English, Math, and Reading as required core tests.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

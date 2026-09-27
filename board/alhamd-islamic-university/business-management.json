@@ -1,0 +1,179 @@
+{
+    "category": "Alhamd Islamic University",
+    "name": "Business Management",
+    "board": "alhamd-islamic-university",
+    "subject": "business-management",
+    "url": "/alhamd-islamic-university/business-management/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12277,
+            "question_text": "Which management function involves setting goals and deciding the best way to achieve them?",
+            "options": [
+                "Leading",
+                "Organizing",
+                "Planning",
+                "Controlling"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Planning is the foundational management function that involves defining goals and establishing strategies to achieve them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12278,
+            "question_text": "What does 'Span of Control' refer to in an organization?",
+            "options": [
+                "The physical size of the office",
+                "The number of subordinates a manager directly supervises",
+                "The geographical reach of the company",
+                "The duration of a project"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Span of control defines the ratio of subordinates to supervisors within a corporate hierarchy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12335,
+            "question_text": "Which leadership style is characterized by a leader who makes decisions independently with little to no input from the rest of the group?",
+            "options": [
+                "Democratic",
+                "Laissez-faire",
+                "Autocratic",
+                "Transformational"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Autocratic leadership involves centralized authority where the leader dictates all decisions without team participation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12336,
+            "question_text": "What is the process of grouping activities and people together to achieve organizational goals?",
+            "options": [
+                "Planning",
+                "Organizing",
+                "Controlling",
+                "Staffing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Organizing is the management function of arranging resources and tasks into a logical structure to achieve objectives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12337,
+            "question_text": "In the context of SWOT analysis, which of the following is considered an internal factor?",
+            "options": [
+                "Opportunities",
+                "Threats",
+                "Strengths",
+                "Economic shifts"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Strengths and Weaknesses are internal factors, while Opportunities and Threats are external factors in a SWOT analysis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12338,
+            "question_text": "Which management theory emphasizes that there is no 'one best way' to lead and that the approach depends on the situation?",
+            "options": [
+                "Scientific Management",
+                "Contingency Theory",
+                "Bureaucratic Management",
+                "Human Relations Movement"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Contingency theory suggests that effective leadership and management are dependent on the specific internal and external environment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12339,
+            "question_text": "What refers to the right of a manager to give orders and expect them to be obeyed?",
+            "options": [
+                "Responsibility",
+                "Accountability",
+                "Authority",
+                "Delegation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Authority is the power or right delegated to a manager to give orders and make decisions within the organization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12340,
+            "question_text": "Which management concept refers to the obligation of a subordinate to perform a duty assigned by a supervisor?",
+            "options": [
+                "Authority",
+                "Accountability",
+                "Delegation",
+                "Centralization"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Accountability is the requirement to justify one's actions and report the results of tasks performed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12341,
+            "question_text": "What is the primary focus of 'Operations Management' within a business?",
+            "options": [
+                "Managing personnel relations",
+                "Overseeing the production of goods and services",
+                "Developing advertising campaigns",
+                "Calculating tax liabilities"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Operations management focuses on the design, operation, and control of the transformation process that converts resources into goods and services.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12342,
+            "question_text": "Which management skill involves the ability to visualize the organization as a whole and understand how its parts work together?",
+            "options": [
+                "Technical skills",
+                "Interpersonal skills",
+                "Conceptual skills",
+                "Financial skills"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Conceptual skills involve the mental capacity to think strategically and see the 'big picture' of the organization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12343,
+            "question_text": "What is meant by the term 'Corporate Culture'?",
+            "options": [
+                "The legal structure of a firm",
+                "The total financial assets of a company",
+                "The shared values, beliefs, and norms within an organization",
+                "The geographical reach of a company"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Corporate culture refers to the personality of an organization, encompassing the unwritten rules and shared values that guide behavior.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12344,
+            "question_text": "Which of the following is a characteristic of a 'Flat' organizational structure?",
+            "options": [
+                "Many levels of management",
+                "Long chain of command",
+                "Wide span of control",
+                "Strict top-down decision making"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A flat organization has few levels of middle management, meaning managers are responsible for a larger number of subordinates.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

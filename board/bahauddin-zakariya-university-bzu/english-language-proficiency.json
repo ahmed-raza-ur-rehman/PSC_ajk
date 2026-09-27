@@ -1,0 +1,165 @@
+{
+    "category": "Bahauddin Zakariya University (BZU)",
+    "name": "English Language Proficiency",
+    "board": "bahauddin-zakariya-university-bzu",
+    "subject": "english-language-proficiency",
+    "url": "/bahauddin-zakariya-university-bzu/english-language-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10713,
+            "question_text": "Choose the word that is most nearly opposite in meaning to 'Ephemeral'.",
+            "options": [
+                "Temporary",
+                "Eternal",
+                "Brief",
+                "Fleeting"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means lasting for a very short time, so eternal (lasting forever) is the antonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10714,
+            "question_text": "Identify the correct sentence structure.",
+            "options": [
+                "Each of the students have finished their work.",
+                "Each of the students has finished their work.",
+                "Each of the students have finished his work.",
+                "Each of the students has finished his work."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "'Each' is a singular subject, requiring the singular verb 'has' and the singular pronoun 'his'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10715,
+            "question_text": "Choose the correct synonym for 'Meticulous'.",
+            "options": [
+                "Careless",
+                "Scrupulous",
+                "Indifferent",
+                "Hasty"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Meticulous means showing great attention to detail, which is synonymous with being scrupulous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10716,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "Each of the students have finished their work.",
+                "Each of the students has finished their work.",
+                "Each of the students have finished his work.",
+                "Each of the students has finished his work."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "'Each' is singular, so it requires 'has'. 'His' is the traditional singular pronoun agreement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10717,
+            "question_text": "Which idiom best describes someone who is very nervous?",
+            "options": [
+                "A fish out of water",
+                "On pins and needles",
+                "Piece of cake",
+                "Under the weather"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To be on pins and needles means to be in a state of anxious anticipation or extreme nervousness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10718,
+            "question_text": "Complete the analogy: 'Ornithologist : Birds :: Ichthyologist : ___'",
+            "options": [
+                "Insects",
+                "Mammals",
+                "Fish",
+                "Reptiles"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An ichthyologist is a scientist who specializes in the study of fish.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10719,
+            "question_text": "Select the correct spelling.",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Accomodationn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Accommodation is spelled with double c and double m.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10720,
+            "question_text": "Choose the correct sentence: 'Neither the teacher nor the students ___ present.'",
+            "options": [
+                "was",
+                "were",
+                "is",
+                "be"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb must agree with the subject closest to it (students), which is plural.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10721,
+            "question_text": "What is the antonym of 'Benevolent'?",
+            "options": [
+                "Kind",
+                "Malevolent",
+                "Generous",
+                "Helpful"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly, while malevolent means having or showing a wish to do evil to others.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10722,
+            "question_text": "Fill in the blank: 'He was so tired that he ___ asleep at his desk.'",
+            "options": [
+                "fall",
+                "fallen",
+                "fell",
+                "feeling"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sentence is in the past tense, so the past tense verb 'fell' is required.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10723,
+            "question_text": "Which of these is a correctly punctuated sentence?",
+            "options": [
+                "I have three pets, a dog, a cat, and a bird.",
+                "I have three pets: a dog, a cat, and a bird.",
+                "I have three pets; a dog, a cat, and a bird.",
+                "I have three pets-a dog, a cat, and a bird."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A colon is used to introduce a list after an independent clause.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

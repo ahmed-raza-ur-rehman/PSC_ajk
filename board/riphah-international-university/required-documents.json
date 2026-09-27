@@ -1,0 +1,235 @@
+{
+    "category": "Riphah International University",
+    "name": "Required Documents",
+    "board": "riphah-international-university",
+    "subject": "required-documents",
+    "url": "/riphah-international-university/required-documents/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 16,
+    "questions": [
+        {
+            "id": 11047,
+            "question_text": "Is an 'Experience Letter' mandatory for fresh graduates?",
+            "options": [
+                "Yes",
+                "No, it is optional for fresh graduates",
+                "Only if they have done volunteering",
+                "Yes, must have at least 6 months"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While it adds value, fresh graduates are not expected to have formal experience letters and can provide other academic documents.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11057,
+            "question_text": "What is the risk of submitting expired documents?",
+            "options": [
+                "The application will be delayed",
+                "The application may be rejected immediately",
+                "The applicant will be charged a fine",
+                "Nothing, they are accepted"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Providing expired or invalid documents undermines the authenticity of the application and leads to automatic rejection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11095,
+            "question_text": "Which document is needed to verify the alumni status if the degree isn't ready?",
+            "options": [
+                "Final Grade Card",
+                "Student Alumni Card",
+                "Social media profile link",
+                "Declaration from a peer"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The final grade card confirms that the candidate has completed all required credit hours, serving as proof of their alumni status.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11197,
+            "question_text": "Which document is mandatory to prove the applicant's status as a Riphah graduate?",
+            "options": [
+                "National Identity Card (NIC)",
+                "Degree or Final Transcript of the previous program",
+                "A letter from a former employer",
+                "Utility bill copy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Proof of graduation from Riphah International University is verified through official academic records such as the final degree or transcript.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11198,
+            "question_text": "Why is a formal 'Statement of Purpose' required in the document package?",
+            "options": [
+                "To verify the applicant's handwriting",
+                "To evaluate the applicant's research interests and justification for the assistantship",
+                "To ensure the student is proficient in English grammar",
+                "To use as a marketing testimonial"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Statement of Purpose allows the selection committee to understand the applicant's goals and how the assistantship aligns with their academic and professional path.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11199,
+            "question_text": "Which of the following is typically required alongside the application form?",
+            "options": [
+                "A notarized property deed",
+                "Passport-sized recent photographs and updated CV",
+                "Medical health certificate from a government hospital",
+                "Record of all previous secondary school teachers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An updated Curriculum Vitae (CV) and recent photographs are standard administrative requirements for internal record-keeping and professional vetting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11200,
+            "question_text": "Which of the following is essential to prove degree completion?",
+            "options": [
+                "Student ID card",
+                "Final Transcript / Provisional Degree",
+                "Library Card",
+                "Fee receipt"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A verified transcript or degree is the only acceptable proof of academic completion required for the assistantship.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11201,
+            "question_text": "Why is the CV/Resume required in the application package?",
+            "options": [
+                "To check if the applicant has a photo",
+                "To evaluate professional skills and experience",
+                "To calculate the total tuition paid",
+                "To verify the candidate's family income"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The CV provides a summary of the candidate's background, technical skills, and past experiences relevant to the role.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11202,
+            "question_text": "Which personal identification document must be attached?",
+            "options": [
+                "CNIC/Passport",
+                "Driving License",
+                "Birth Certificate",
+                "Voter ID"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Government-issued identification is mandatory to verify the identity and citizenship status of the applicant.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11203,
+            "question_text": "What is the primary purpose of the 'Statement of Purpose' (SoP)?",
+            "options": [
+                "To prove writing ability",
+                "To articulate the applicant's interest and alignment with the role",
+                "To list all previous grades",
+                "To act as a legal contract"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The SoP helps the selection committee understand the candidate's motivation, career goals, and suitability for the assistantship.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11204,
+            "question_text": "Are photographs required as part of the document package?",
+            "options": [
+                "Yes, passport-sized",
+                "No, digital identification is sufficient",
+                "Yes, full-length",
+                "Only if requested later"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Standard passport-sized photographs are required for administrative files and identity verification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11205,
+            "question_text": "Should an applicant include previous employment certificates?",
+            "options": [
+                "Only if they have more than 5 years experience",
+                "Yes, if available and relevant",
+                "No, they are unnecessary",
+                "Only if they were an intern"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Employment certificates add credibility and demonstrate previous experience, which is an advantage for the applicant.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11206,
+            "question_text": "In what format should the documents generally be uploaded?",
+            "options": [
+                "Only Word documents",
+                "Only images",
+                "PDF",
+                "Any format"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "PDF is the standard format for document submissions as it ensures the formatting remains consistent and secure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11208,
+            "question_text": "Which document is mandatory to attest to the candidate's professional work ethic?",
+            "options": [
+                "Character Certificate from the University",
+                "Personal bank statement",
+                "Social media profile link",
+                "A copy of the birth certificate"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The university requires an official character certificate to verify the professional and moral standing of the alumnus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11209,
+            "question_text": "What specific detail must be present in the Statement of Purpose (SoP) to be considered valid?",
+            "options": [
+                "An account of their childhood",
+                "List of all hobbies",
+                "Alignment between the assistantship role and career goals",
+                "The expected salary range"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The SoP is evaluated based on the applicant's clarity of purpose and how the assistantship contributes to their long-term professional development.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11210,
+            "question_text": "If an applicant has done freelance work, how should this be documented in the application package?",
+            "options": [
+                "Exclude it from the CV",
+                "Provide a portfolio link or verified project record",
+                "Include as a volunteer entry",
+                "Attach the bank transfer slips"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Freelance work must be validated through proof of work, such as portfolios or client records, to be counted as relevant experience.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

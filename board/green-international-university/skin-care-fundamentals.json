@@ -1,0 +1,151 @@
+{
+    "category": "Green International University",
+    "name": "Skin Care Fundamentals",
+    "board": "green-international-university",
+    "subject": "skin-care-fundamentals",
+    "url": "/green-international-university/skin-care-fundamentals/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13833,
+            "question_text": "Which skin type is characterized by larger follicles throughout the face and excess sebum production?",
+            "options": [
+                "Dry",
+                "Sensitive",
+                "Oily",
+                "Normal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Oily skin is typified by overactive sebaceous glands, leading to larger visible pores and a shine throughout the face.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13834,
+            "question_text": "What is the primary purpose of applying a toner after cleansing the skin?",
+            "options": [
+                "To provide heavy moisturization",
+                "To exfoliate deep dermal layers",
+                "To restore the skin's natural pH balance",
+                "To stimulate blood circulation permanently"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Toners help bring the skin back to its slightly acidic pH after the use of alkaline cleansers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13835,
+            "question_text": "What is the primary characteristic of 'dehydrated' skin?",
+            "options": [
+                "Lack of oil",
+                "Lack of water",
+                "Excessive collagen",
+                "High sensitivity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dehydrated skin is a condition where the skin lacks water, not necessarily oil, often characterized by tight, dull appearance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13836,
+            "question_text": "Which Fitzpatrick skin type is characterized by fair skin that always burns and never tans?",
+            "options": [
+                "Type I",
+                "Type III",
+                "Type IV",
+                "Type VI"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Fitzpatrick Type I skin is very fair, has freckles, and always burns when exposed to sunlight.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13837,
+            "question_text": "What is the purpose of performing a skin analysis under a Wood's Lamp?",
+            "options": [
+                "To measure the pH of the skin",
+                "To detect bacterial or fungal infections and pigmentation disorders",
+                "To increase blood circulation",
+                "To remove dead skin cells"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Wood's Lamp uses UV light to reveal skin conditions that are not visible to the naked eye, such as bacterial growth or hyperpigmentation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13838,
+            "question_text": "What is an occlusion in the context of moisturizing?",
+            "options": [
+                "Increasing sebum production",
+                "Creating a barrier to prevent transepidermal water loss",
+                "Exfoliating the stratum corneum",
+                "Increasing cellular turnover"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Occlusives are ingredients that seal in moisture by creating a physical barrier on the skin's surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13839,
+            "question_text": "Which step in a facial follows cleansing?",
+            "options": [
+                "Extraction",
+                "Massage",
+                "Skin Analysis",
+                "Mask application"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "After the initial cleanse, it is standard practice to perform a skin analysis to determine the client's needs and contraindications.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13840,
+            "question_text": "What is the benefit of including a high-frequency treatment in a facial?",
+            "options": [
+                "Deep pore cleaning",
+                "Antibacterial and germicidal effect",
+                "Immediate collagen synthesis",
+                "Permanent hair removal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "High-frequency currents produce ozone, which has an antiseptic effect and stimulates circulation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13841,
+            "question_text": "What is the primary benefit of using an enzyme exfoliant compared to a scrub?",
+            "options": [
+                "It is always cheaper",
+                "It provides mechanical abrasion",
+                "It uses proteins to digest dead skin cells",
+                "It increases oil production"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Enzymes are biological catalysts that gently dissolve keratin protein on the skin surface without physical friction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13842,
+            "question_text": "In skin analysis, what color under a Wood’s Lamp indicates the presence of dehydrated skin?",
+            "options": [
+                "White",
+                "Yellow",
+                "Purple/Violet",
+                "Light Violet"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Under a Wood's Lamp, light violet or purple tones typically indicate a dehydrated condition within the epidermis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

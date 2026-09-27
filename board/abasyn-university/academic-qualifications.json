@@ -1,0 +1,165 @@
+{
+    "category": "Abasyn University",
+    "name": "Academic Qualifications",
+    "board": "abasyn-university",
+    "subject": "academic-qualifications",
+    "url": "/abasyn-university/academic-qualifications/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 12585,
+            "question_text": "Which of the following is considered a primary source of data in academic research?",
+            "options": [
+                "A textbook summary",
+                "An original interview transcript",
+                "A magazine editorial",
+                "A Wikipedia article"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Primary sources are original documents or accounts created at the time of an event or by someone who experienced it firsthand.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12586,
+            "question_text": "In the context of academic writing, what does the term 'plagiarism' specifically refer to?",
+            "options": [
+                "Using too many citations in a paper",
+                "Presenting someone else's work or ideas as your own",
+                "Writing a paper that does not have a conclusion",
+                "Quoting an author with proper attribution"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Plagiarism is the act of using another person's intellectual property without giving them appropriate credit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12587,
+            "question_text": "Which of the following describes the purpose of an annotated bibliography?",
+            "options": [
+                "To list every book ever written on a subject",
+                "To provide a summary and evaluation of each cited source",
+                "To replace the main body of a research paper",
+                "To provide a list of definitions for technical terms"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An annotated bibliography includes a brief description or evaluation of the sources used to show their relevance to the research topic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12588,
+            "question_text": "What is the primary function of a thesis statement in an academic essay?",
+            "options": [
+                "To summarize the entire history of the topic",
+                "To provide a detailed biography of the author",
+                "To outline the central argument or claim of the paper",
+                "To define the formatting style of the citations"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A thesis statement acts as the roadmap for the paper, clearly stating the main point the author intends to support.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12589,
+            "question_text": "Which citation style is most commonly used in the Social Sciences, including Business and Psychology?",
+            "options": [
+                "MLA",
+                "APA",
+                "Chicago",
+                "Harvard"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The American Psychological Association (APA) style is the standard format for academic writing in the social and business sciences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12590,
+            "question_text": "What does 'peer-reviewed' imply regarding an academic journal article?",
+            "options": [
+                "It was edited by students of the same age as the author",
+                "It was checked for plagiarism by a software program only",
+                "It was evaluated by experts in the same field before publication",
+                "It was published in a magazine intended for the general public"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Peer review ensures that the quality, methodology, and accuracy of research are scrutinized by subject matter experts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12591,
+            "question_text": "In academic writing, which of the following best defines 'synthesizing' sources?",
+            "options": [
+                "Copying the exact words from a single author",
+                "Combining information from multiple sources to form a new argument",
+                "Listing sources in alphabetical order",
+                "Translating an article into another language"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Synthesis involves connecting ideas from different sources to create a broader understanding or a unique perspective.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12592,
+            "question_text": "Which section of an academic research paper typically outlines the methodology used for data collection?",
+            "options": [
+                "Introduction",
+                "Methodology",
+                "Appendices",
+                "Abstract"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The methodology section details how the study was conducted, including research design and data collection techniques.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12593,
+            "question_text": "When conducting a literature review, what is the significance of identifying a 'gap' in existing research?",
+            "options": [
+                "It proves the previous researchers were incompetent",
+                "It justifies the need for the new study being proposed",
+                "It suggests the topic is too broad to study",
+                "It indicates that secondary sources are unreliable"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Identifying a research gap shows what has not yet been addressed, providing a rationale for why a new study is necessary.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12594,
+            "question_text": "What does an 'Abstract' typically contain in a research paper?",
+            "options": [
+                "A comprehensive list of all used websites",
+                "A detailed account of the author's biography",
+                "A concise summary of the study's purpose, methods, and key findings",
+                "The full raw data collected during the research"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The abstract provides a quick overview so readers can determine if the article is relevant to their work without reading the entire paper.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12595,
+            "question_text": "In academic writing, what is the role of a 'transition word'?",
+            "options": [
+                "To increase the word count of the essay",
+                "To show logical relationships between ideas and improve flow",
+                "To define complex technical terms",
+                "To cite external authors"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Transition words (e.g., furthermore, however, consequently) connect thoughts so the writing is coherent and logical.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

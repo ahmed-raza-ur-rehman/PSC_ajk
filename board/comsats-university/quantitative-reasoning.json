@@ -1,0 +1,389 @@
+{
+    "category": "COMSATS University",
+    "name": "Quantitative Reasoning",
+    "board": "comsats-university",
+    "subject": "quantitative-reasoning",
+    "url": "/comsats-university/quantitative-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 27,
+    "questions": [
+        {
+            "id": 11943,
+            "question_text": "If a shirt costs $40 after a 20% discount, what was the original price of the shirt?",
+            "options": [
+                "$48",
+                "$50",
+                "$52",
+                "$60"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Let original price be x. 0.8x = 40. x = 40 / 0.8 = 50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11944,
+            "question_text": "Solve for x: 3(x + 4) = 2x + 18",
+            "options": [
+                "2",
+                "4",
+                "6",
+                "8"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "3x + 12 = 2x + 18. Subtract 2x from both sides: x + 12 = 18. x = 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12279,
+            "question_text": "If a rectangle has a length of 12 cm and a perimeter of 40 cm, what is its width?",
+            "options": [
+                "8 cm",
+                "10 cm",
+                "14 cm",
+                "28 cm"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Perimeter = 2(L + W). 40 = 2(12 + W) => 20 = 12 + W => W = 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12280,
+            "question_text": "Calculate the value of 5^3 - 4^2 + 3^1.",
+            "options": [
+                "112",
+                "110",
+                "109",
+                "114"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "125 - 16 + 3 = 109 + 3 = 112.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12281,
+            "question_text": "If 15 workers can complete a task in 20 days, how many days will 10 workers take for the same task?",
+            "options": [
+                "25 days",
+                "30 days",
+                "35 days",
+                "40 days"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is an inverse proportion: 15 * 20 = 10 * x. 300 = 10x, so x = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12282,
+            "question_text": "What is 15% of 240 added to 25% of 120?",
+            "options": [
+                "60",
+                "66",
+                "72",
+                "75"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "(0.15 * 240) + (0.25 * 120) = 36 + 30 = 66.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12283,
+            "question_text": "Find the next number in the sequence: 2, 6, 12, 20, 30, ?",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences are +4, +6, +8, +10. The next difference should be +12. 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12284,
+            "question_text": "If the average of five numbers is 20, and the sum of four of them is 70, what is the fifth number?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Total sum = 5 * 20 = 100. Fifth number = 100 - 70 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12285,
+            "question_text": "A car travels at 60 km/h for 2.5 hours. How far does it travel?",
+            "options": [
+                "120 km",
+                "140 km",
+                "150 km",
+                "180 km"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Distance = Speed * Time = 60 * 2.5 = 150 km.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12286,
+            "question_text": "If 2x + 5 = 17, what is the value of 3x - 2?",
+            "options": [
+                "14",
+                "15",
+                "16",
+                "18"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "2x = 12, so x = 6. 3(6) - 2 = 18 - 2 = 16.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12287,
+            "question_text": "What is the probability of drawing a red card from a standard deck of 52 cards?",
+            "options": [
+                "1/4",
+                "1/3",
+                "1/2",
+                "2/3"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "There are 26 red cards in a 52-card deck. 26/52 = 1/2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12288,
+            "question_text": "If a triangle has angles in the ratio 1:2:3, what is the measure of the largest angle?",
+            "options": [
+                "60 degrees",
+                "90 degrees",
+                "100 degrees",
+                "120 degrees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Total ratio units = 1+2+3 = 6. Largest angle = (3/6) * 180 = 90.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12289,
+            "question_text": "If a square has an area of 64 square meters, what is its perimeter?",
+            "options": [
+                "16 meters",
+                "32 meters",
+                "64 meters",
+                "256 meters"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The side length is the square root of 64, which is 8. The perimeter is 4 times the side length: 4 * 8 = 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12290,
+            "question_text": "What is the value of 2x^2 + 5 when x = -3?",
+            "options": [
+                "11",
+                "23",
+                "-13",
+                "18"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Substitute -3 for x: 2(-3)^2 + 5 = 2(9) + 5 = 18 + 5 = 23.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12291,
+            "question_text": "If a car's speed increases from 40 km/h to 50 km/h, what is the percentage increase?",
+            "options": [
+                "10%",
+                "20%",
+                "25%",
+                "15%"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Increase = 10. Percentage increase = (Increase / Original Value) * 100 = (10/40) * 100 = 25%.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13218,
+            "question_text": "If 3x + 5 = 20, what is the value of 2x + 4?",
+            "options": [
+                "10",
+                "12",
+                "14",
+                "16"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Solve for x: 3x = 15, so x = 5. Then 2(5) + 4 = 14.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13423,
+            "question_text": "A shopkeeper sells an item for $120, which is a 20% profit on the cost price. What was the cost price?",
+            "options": [
+                "$90",
+                "$96",
+                "$100",
+                "$104"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Cost + 0.20(Cost) = 120. Thus, 1.2(Cost) = 120, so Cost = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13424,
+            "question_text": "If the radius of a circle is increased by 50%, by what percentage does the area increase?",
+            "options": [
+                "50%",
+                "100%",
+                "125%",
+                "225%"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If radius r becomes 1.5r, the area changes from πr² to π(1.5r)² = 2.25πr². This is a 125% increase.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13425,
+            "question_text": "A car travels at 60 km/h for 2 hours and 90 km/h for 1 hour. What is the average speed of the car for the entire journey?",
+            "options": [
+                "70 km/h",
+                "75 km/h",
+                "80 km/h",
+                "65 km/h"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Total distance = (60*2) + (90*1) = 210 km. Total time = 3 hours. Average speed = 210 / 3 = 70 km/h.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13426,
+            "question_text": "Solve for x: 4^(x-1) = 8^(x+2)",
+            "options": [
+                "-8",
+                "-4",
+                "4",
+                "8"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "2^(2(x-1)) = 2^(3(x+2)). So 2x - 2 = 3x + 6, which leads to x = -8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13427,
+            "question_text": "The sum of three consecutive integers is 72. What is the largest integer?",
+            "options": [
+                "23",
+                "24",
+                "25",
+                "26"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Let the integers be x-1, x, x+1. Their sum is 3x = 72, so x=24. The integers are 23, 24, 25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13428,
+            "question_text": "If 15 workers can build a wall in 20 days, how many days will 20 workers take to build the same wall?",
+            "options": [
+                "12",
+                "15",
+                "18",
+                "25"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is an inverse proportion: 15 * 20 = 20 * x, so x = 15.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13429,
+            "question_text": "What is the probability of rolling a sum of 7 with two fair six-sided dice?",
+            "options": [
+                "1/6",
+                "1/12",
+                "1/9",
+                "5/36"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "There are 6 ways to roll a 7 (1-6, 2-5, 3-4, 4-3, 5-2, 6-1) out of 36 total outcomes. 6/36 = 1/6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13430,
+            "question_text": "A shirt originally costs $80 and is discounted by 25%. What is the final price?",
+            "options": [
+                "$55",
+                "$60",
+                "$65",
+                "$70"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Discount = 25% of 80 = 20. Final price = 80 - 20 = 60.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13431,
+            "question_text": "If x/y = 3/4, what is the value of (2x + y) / (x - y)?",
+            "options": [
+                "-10",
+                "10",
+                "-5",
+                "5"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Let x=3, y=4. Then (2(3) + 4) / (3 - 4) = 10 / -1 = -10.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13432,
+            "question_text": "The price of an item increases by 20% and then decreases by 20%. What is the net change?",
+            "options": [
+                "0% increase",
+                "2% decrease",
+                "4% decrease",
+                "4% increase"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "1.2 * 0.8 = 0.96, which is a 4% decrease from the original 1.0.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13433,
+            "question_text": "How many seconds are in 5 hours?",
+            "options": [
+                "15,000",
+                "18,000",
+                "20,000",
+                "25,000"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "5 hours * 60 minutes * 60 seconds = 18,000 seconds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "category": "ETS",
+    "name": "Quantitative Reasoning",
+    "board": "ets",
+    "subject": "quantitative-reasoning",
+    "url": "/ets/quantitative-reasoning/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 9486,
+            "question_text": "If a student pays $220 for the GRE, and this fee allows them to send scores to 4 programs, what is the cost per program if the student decides to send scores to exactly 4 programs?",
+            "options": [
+                "$40",
+                "$55",
+                "$60",
+                "$220"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The total fee is $220 and it includes the cost for sending scores to 4 programs. Dividing $220 by 4 equals $55.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9487,
+            "question_text": "If 70% of students who retake the GRE improve their scores, and 1,000 students decide to retake the exam, how many students are expected to show improvement?",
+            "options": [
+                "70",
+                "140",
+                "700",
+                "770"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "70% of 1,000 is 0.70 multiplied by 1,000, which equals 700.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9488,
+            "question_text": "The GRE lasts for 1 hour and 58 minutes. How many minutes is this in total?",
+            "options": [
+                "118 minutes",
+                "120 minutes",
+                "158 minutes",
+                "180 minutes"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "1 hour equals 60 minutes. 60 minutes + 58 minutes equals 118 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9489,
+            "question_text": "If you can take the GRE 5 times per year, and you have already taken it 2 times, how many more times are you permitted to take the test within that same year?",
+            "options": [
+                "1 time",
+                "2 times",
+                "3 times",
+                "5 times"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The limit is 5 tests per year. If you have already taken it 2 times, you have 5 - 2 = 3 attempts remaining.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9490,
+            "question_text": "If the GRE fee is $220 and includes sending scores to 4 programs, what is the cost per program if you send scores to exactly 4 programs?",
+            "options": [
+                "$45",
+                "$55",
+                "$60",
+                "$50"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dividing the total cost of $220 by the 4 included programs results in $55 per program ($220 / 4 = $55).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9491,
+            "question_text": "If 1,000 students retake the GRE and 70% of them improve their scores, how many students show improvement?",
+            "options": [
+                "70",
+                "700",
+                "300",
+                "7,000"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "70% of 1,000 is calculated by 1,000 * 0.70, which equals 700.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9493,
+            "question_text": "If you are allowed to take the GRE 5 times per year and you have already taken it 2 times, how many more times can you take it this year?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtracting the number of tests already taken (2) from the total allowed (5) leaves 3 remaining attempts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9494,
+            "question_text": "A university program accepts 83% of applicants who submit GRE scores. If 200 applicants submit scores, how many are expected to be accepted?",
+            "options": [
+                "166",
+                "170",
+                "183",
+                "150"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "83% of 200 is 200 * 0.83, which equals 166.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9495,
+            "question_text": "If a test-optional program receives 300 applications and 40% of those applicants submit GRE scores, how many applicants submitted scores?",
+            "options": [
+                "100",
+                "120",
+                "150",
+                "180"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "40% of 300 is 300 * 0.40, which equals 120.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9496,
+            "question_text": "You have a 5-year window for score validity. If you took the test in 2025, in what year do your scores expire?",
+            "options": [
+                "2027",
+                "2028",
+                "2029",
+                "2030"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Adding 5 years to 2025 results in 2030.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9497,
+            "question_text": "If you can take the test once every 21 days, and today is day 1, what is the earliest day you can take the test again?",
+            "options": [
+                "Day 20",
+                "Day 21",
+                "Day 22",
+                "Day 23"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "You must wait 21 days. 1 + 21 = 22.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9498,
+            "question_text": "A program costs $220. If you have a budget of $1,000, how many times could you theoretically pay for the test?",
+            "options": [
+                "3 times",
+                "4 times",
+                "5 times",
+                "6 times"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "$1,000 / $220 = 4.54, so you can afford it 4 full times.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9499,
+            "question_text": "If a student takes the test 5 times in a year, and each test costs $220, what is the total spent on tests?",
+            "options": [
+                "$880",
+                "$990",
+                "$1,100",
+                "$1,200"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "5 * $220 = $1,100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

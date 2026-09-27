@@ -1,0 +1,151 @@
+{
+    "category": "Preston University",
+    "name": "General Knowledge",
+    "board": "preston-university",
+    "subject": "general-knowledge",
+    "url": "/preston-university/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13691,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars appears reddish due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13692,
+            "question_text": "Who is the current head of the United Nations (as of recent records)?",
+            "options": [
+                "Ban Ki-moon",
+                "Kofi Annan",
+                "António Guterres",
+                "Javier Pérez de Cuéllar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "António Guterres has been the Secretary-General of the UN since 2017.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13693,
+            "question_text": "Which international organization is headquartered in Geneva, Switzerland?",
+            "options": [
+                "World Bank",
+                "World Health Organization",
+                "International Monetary Fund",
+                "UNESCO"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The WHO headquarters is located in Geneva, Switzerland.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13694,
+            "question_text": "Which gas is most abundant in the Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13695,
+            "question_text": "Who is often referred to as the 'Father of Economics'?",
+            "options": [
+                "John Maynard Keynes",
+                "Karl Marx",
+                "Adam Smith",
+                "Milton Friedman"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Adam Smith's book 'The Wealth of Nations' laid the foundations for modern classical economics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13696,
+            "question_text": "The currency of Japan is:",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Ringgit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The official currency of Japan is the Japanese Yen.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13697,
+            "question_text": "Which river is the longest in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile is traditionally considered the longest river in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13698,
+            "question_text": "Which ocean is the largest on Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Pacific Ocean",
+                "Arctic Ocean"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13699,
+            "question_text": "In which country would you find the ancient city of Petra?",
+            "options": [
+                "Egypt",
+                "Jordan",
+                "Saudi Arabia",
+                "Turkey"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Petra is a famous archaeological site in Jordan's southwestern desert.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13700,
+            "question_text": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "Gold",
+                "Osmium",
+                "Oxygen",
+                "Iron"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Oxygen is represented by the chemical symbol O on the periodic table.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

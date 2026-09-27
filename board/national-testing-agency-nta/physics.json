@@ -1,0 +1,179 @@
+{
+    "category": "National Testing Agency (NTA)",
+    "name": "Physics",
+    "board": "national-testing-agency-nta",
+    "subject": "physics",
+    "url": "/national-testing-agency-nta/physics/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 10004,
+            "question_text": "If an object is moving in a straight line with a constant speed, what can you conclude about the net force acting on it?",
+            "options": [
+                "The net force is in the direction of motion.",
+                "The net force is zero.",
+                "The net force is increasing over time.",
+                "The net force is constant and non-zero."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to Newton's First Law of Motion, an object maintains a constant velocity (constant speed in a straight line) if the net external force acting on it is zero.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10005,
+            "question_text": "Which unit is used to measure electrical resistance?",
+            "options": [
+                "Volt",
+                "Ampere",
+                "Ohm",
+                "Watt"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Ohm is the SI unit of electrical resistance, named after Georg Simon Ohm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10006,
+            "question_text": "If a car travels at a steady speed in a perfectly straight line, what does this tell us about the total force affecting it?",
+            "options": [
+                "The force is moving it forward",
+                "There is no net force acting on the object",
+                "The force is increasing over time",
+                "The force is equal to the speed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to Newton's First Law, an object in motion stays in uniform motion unless acted upon by an external net force.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10007,
+            "question_text": "What is the standard measurement unit used for electrical resistance?",
+            "options": [
+                "Volt",
+                "Ampere",
+                "Ohm",
+                "Watt"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Ohm is the SI unit for electrical resistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10008,
+            "question_text": "Which particle within an atom carries a negative charge?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Positron"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Electrons are subatomic particles with a characteristic negative charge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10009,
+            "question_text": "An object is dropped from a height and falls freely under gravity. Ignoring air resistance, what happens to its acceleration as it falls?",
+            "options": [
+                "It increases",
+                "It decreases",
+                "It remains constant",
+                "It becomes zero"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Objects in free fall near Earth's surface accelerate at a constant rate of approximately 9.8 m/s².",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10010,
+            "question_text": "Which law states that the force between two point charges is proportional to the product of the charges and inversely proportional to the square of the distance between them?",
+            "options": [
+                "Gauss's Law",
+                "Coulomb's Law",
+                "Ohm's Law",
+                "Ampere's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Coulomb's Law quantifies the electrostatic force between charged particles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10011,
+            "question_text": "What is the unit of work or energy in the International System of Units (SI)?",
+            "options": [
+                "Watt",
+                "Joule",
+                "Newton",
+                "Pascal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Joule is the standard SI unit for work, energy, and heat.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10012,
+            "question_text": "According to Newton's Second Law of Motion, what is the formula to calculate force?",
+            "options": [
+                "F = m * a",
+                "F = m / a",
+                "F = m + a",
+                "F = m - a"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Force equals mass multiplied by acceleration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10013,
+            "question_text": "What happens to the frequency of a sound wave as the source moves away from the observer?",
+            "options": [
+                "It increases",
+                "It decreases",
+                "It stays the same",
+                "It becomes zero"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is known as the Doppler effect, where frequency decreases as the source moves away.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10014,
+            "question_text": "Which property of light remains constant when it passes from one medium to another?",
+            "options": [
+                "Speed",
+                "Wavelength",
+                "Frequency",
+                "Direction"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Frequency is determined by the source and does not change when light enters a new medium.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10015,
+            "question_text": "What is the value of the gravitational constant G approximately?",
+            "options": [
+                "6.67 x 10^-11 Nm²/kg²",
+                "9.8 m/s²",
+                "3.0 x 10^8 m/s",
+                "8.314 J/mol·K"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is the universal gravitational constant used in Newton's law of gravitation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

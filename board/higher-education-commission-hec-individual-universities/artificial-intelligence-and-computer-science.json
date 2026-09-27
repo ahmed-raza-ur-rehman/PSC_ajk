@@ -1,0 +1,151 @@
+{
+    "category": "Higher Education Commission (HEC) / Individual Universities",
+    "name": "Artificial Intelligence and Computer Science",
+    "board": "higher-education-commission-hec-individual-universities",
+    "subject": "artificial-intelligence-and-computer-science",
+    "url": "/higher-education-commission-hec-individual-universities/artificial-intelligence-and-computer-science/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11683,
+            "question_text": "Which algorithm is commonly used for supervised learning classification tasks?",
+            "options": [
+                "K-Means Clustering",
+                "Support Vector Machines",
+                "Principal Component Analysis",
+                "Apriori Algorithm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Support Vector Machines (SVM) is a supervised learning model used for classification and regression analysis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11684,
+            "question_text": "What is the primary function of an Operating System's 'scheduler'?",
+            "options": [
+                "Managing memory allocation",
+                "Determining which process runs on the CPU and for how long",
+                "Converting high-level code to machine language",
+                "Managing file permissions"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The CPU scheduler is responsible for assigning processes to the CPU and managing the execution order.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11685,
+            "question_text": "In computer science, what is the 'Big O' notation primarily used to describe?",
+            "options": [
+                "The physical size of a hard drive",
+                "The worst-case time or space complexity of an algorithm",
+                "The amount of memory required by the CPU",
+                "The network latency of a server"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Big O notation provides a theoretical measure of the execution time or space requirements of an algorithm as input size grows.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11686,
+            "question_text": "What is the core purpose of a 'Neural Network' hidden layer?",
+            "options": [
+                "To store the final prediction output",
+                "To receive the raw input data from sensors",
+                "To perform complex transformations on input data to extract features",
+                "To display the GUI of the program"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Hidden layers act as the internal processing engine of a neural network, extracting patterns through weighted connections.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11687,
+            "question_text": "Which of these is a key characteristic of a relational database management system (RDBMS)?",
+            "options": [
+                "Data is stored in unstructured document formats",
+                "Data is organized into tables with rows and columns",
+                "It cannot be accessed using SQL",
+                "It is primarily designed for real-time video streaming"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "RDBMS organizes data into relations (tables) that can be linked based on data common to each.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11688,
+            "question_text": "What does the term 'overfitting' mean in the context of Machine Learning?",
+            "options": [
+                "The model performs poorly on training data",
+                "The model learns the noise in training data so well that it fails to generalize to new data",
+                "The model requires too much electricity to run",
+                "The algorithm is too simple to solve the problem"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Overfitting happens when a model captures specific patterns or noise in training data that do not apply to unseen data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11689,
+            "question_text": "In cybersecurity, what is the main purpose of a 'firewall'?",
+            "options": [
+                "To remove viruses from a hard drive",
+                "To monitor and control incoming and outgoing network traffic based on security rules",
+                "To increase the speed of the internet connection",
+                "To backup files to the cloud"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A firewall acts as a barrier between a trusted internal network and an untrusted external network.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11690,
+            "question_text": "In AI, what is a 'heuristic' search method?",
+            "options": [
+                "A search that guarantees the shortest path",
+                "A rule-of-thumb strategy to find solutions more quickly",
+                "A method used only in hardware optimization",
+                "A random search approach"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Heuristics sacrifice completeness or optimality for speed, allowing an algorithm to find a 'good enough' solution in a large search space.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11691,
+            "question_text": "What is the primary role of the 'Kernel' in an operating system?",
+            "options": [
+                "Managing user interface aesthetics",
+                "Directly interacting with hardware resources",
+                "Compiling source code into machine code",
+                "Managing internet connectivity protocols"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The kernel is the core of the OS, responsible for CPU scheduling, memory management, and hardware device communication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11692,
+            "question_text": "Which data structure follows the 'First-In, First-Out' (FIFO) principle?",
+            "options": [
+                "Stack",
+                "Queue",
+                "Binary Tree",
+                "Hash Map"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A queue is a linear structure where the first element added is the first one removed, similar to a line at a store.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

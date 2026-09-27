@@ -1,0 +1,291 @@
+{
+    "category": "National University of Modern Languages (NUML)",
+    "name": "English Language",
+    "board": "national-university-of-modern-languages-numl",
+    "subject": "english-language",
+    "url": "/national-university-of-modern-languages-numl/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 20,
+    "questions": [
+        {
+            "id": 12523,
+            "question_text": "Choose the correct synonym for 'Resilient'.",
+            "options": [
+                "Fragile",
+                "Adaptable",
+                "Stubborn",
+                "Vulnerable"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Resilient means the ability to recover quickly from difficulties, similar to being adaptable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12524,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "She don't like apples.",
+                "She doesn't likes apples.",
+                "She doesn't like apples.",
+                "She don't likes apples."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The subject 'she' requires the singular auxiliary verb 'does' with 'not' (doesn't), followed by the base verb 'like'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12525,
+            "question_text": "Choose the correct antonym for 'Benevolent'.",
+            "options": [
+                "Kind",
+                "Malicious",
+                "Generous",
+                "Friendly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly; malicious means intending to do harm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12526,
+            "question_text": "Identify the sentence with the correct punctuation.",
+            "options": [
+                "He, ran to the store but forgot his wallet.",
+                "He ran to the store, but he forgot his wallet.",
+                "He ran to the store but, forgot his wallet.",
+                "He ran, to the store, but forgot his wallet."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A comma is used before a coordinating conjunction joining two independent clauses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12527,
+            "question_text": "Complete the sentence: 'Neither the manager nor the employees ___ aware of the policy change.'",
+            "options": [
+                "is",
+                "are",
+                "was",
+                "be"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' sentences, the verb agrees with the closer subject (employees, plural).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12528,
+            "question_text": "Choose the correct preposition: 'She has been working here ___ 2015.'",
+            "options": [
+                "for",
+                "since",
+                "during",
+                "in"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Since' is used to specify a starting point in time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12529,
+            "question_text": "Select the correct spelling.",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Accomodationn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling of the word is 'Accommodation' (double c, double m).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12530,
+            "question_text": "What is the meaning of the idiom 'A blessing in disguise'?",
+            "options": [
+                "A good thing that seemed bad at first",
+                "A hidden secret",
+                "A curse in disguise",
+                "A lucky person"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An idiom referring to a misfortune that eventually results in something good happening later.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12531,
+            "question_text": "Fill in the blank: 'The report ___ by the committee yesterday.'",
+            "options": [
+                "has reviewed",
+                "was reviewed",
+                "reviewed",
+                "is reviewing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sentence is in passive voice and refers to a completed past action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12532,
+            "question_text": "Choose the best word to complete the sentence: 'His ___ attempt to win the race was unsuccessful.'",
+            "options": [
+                "futile",
+                "fertile",
+                "fragile",
+                "fickle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Futile means incapable of producing any useful result; pointless.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12533,
+            "question_text": "Choose the word that best completes the sentence: 'The team reached a ___ agreement after hours of debate.'",
+            "options": [
+                "Fragile",
+                "Unanimous",
+                "Discordant",
+                "Trivial"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Unanimous means fully in agreement, which fits the context of resolving a debate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12534,
+            "question_text": "Identify the passive voice version of: 'The chef prepared the meal.'",
+            "options": [
+                "The meal is prepared by the chef.",
+                "The meal was prepared by the chef.",
+                "The meal has been prepared by the chef.",
+                "The chef is preparing the meal."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sentence is in past simple tense, so the passive version must maintain that tense.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12535,
+            "question_text": "Select the correct usage of 'affect' vs 'effect': 'The new regulations will ___ our production line.'",
+            "options": [
+                "effect",
+                "affect",
+                "effective",
+                "affection"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Affect is typically a verb meaning to influence or produce a change.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12536,
+            "question_text": "Choose the synonym for 'Ephemeral'.",
+            "options": [
+                "Eternal",
+                "Fleeting",
+                "Permanent",
+                "Serious"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral refers to something lasting for a very short time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12537,
+            "question_text": "Correct the sentence: 'Me and him went to the store.'",
+            "options": [
+                "Him and I went to the store.",
+                "He and I went to the store.",
+                "Me and he went to the store.",
+                "Him and me went to the store."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subject pronouns (He, I) must be used instead of object pronouns (Him, Me) when performing the action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12538,
+            "question_text": "What is the meaning of the idiom 'To burn the midnight oil'?",
+            "options": [
+                "To waste time",
+                "To work late into the night",
+                "To be angry",
+                "To start a fire"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This idiom refers to working or studying late into the night.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12539,
+            "question_text": "Which sentence is grammatically correct?",
+            "options": [
+                "Each of the students have finished their work.",
+                "Each of the students has finished their work.",
+                "The students has finished their work.",
+                "Every student have finished their work."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Each' is a singular subject and requires the singular verb 'has'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12540,
+            "question_text": "Choose the correct preposition: 'He is interested ___ learning new business software.'",
+            "options": [
+                "at",
+                "in",
+                "with",
+                "on"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The standard preposition used with the adjective 'interested' is 'in'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12541,
+            "question_text": "What is the antonym of 'Ambiguous'?",
+            "options": [
+                "Vague",
+                "Clear",
+                "Obscure",
+                "Doubtful"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ambiguous means open to more than one interpretation; clear means easily understood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12542,
+            "question_text": "Which word is spelled correctly?",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Accomodation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling requires double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

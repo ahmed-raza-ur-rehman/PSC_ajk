@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Islamiat — Seerat un nabi",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "islamiat-seerat-un-nabi",
+    "url": "/national-cybercrime-investigation-agency/islamiat-seerat-un-nabi/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14591,
+            "question_text": "Which type of energy conversion mechanism is fundamental to the functioning of a photoelectric cell (solar cell)?",
+            "options": [
+                "Potential energy to kinetic energy",
+                "Mechanical energy to electrical energy",
+                "Chemical energy to thermal energy",
+                "Electromagnetic energy (photons) to electrical energy"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Photoelectric cells convert incoming light energy (electromagnetic energy, specifically photons) directly into usable electrical current, demonstrating the photon photoelectric effect.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

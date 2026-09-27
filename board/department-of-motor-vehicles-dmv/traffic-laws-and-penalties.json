@@ -1,0 +1,137 @@
+{
+    "category": "Department of Motor Vehicles (DMV)",
+    "name": "Traffic Laws and Penalties",
+    "board": "department-of-motor-vehicles-dmv",
+    "subject": "traffic-laws-and-penalties",
+    "url": "/department-of-motor-vehicles-dmv/traffic-laws-and-penalties/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 6937,
+            "question_text": "What is the legal blood alcohol concentration (BAC) limit for drivers 21 and older in 49 states?",
+            "options": [
+                "0.02%",
+                "0.05%",
+                "0.08%",
+                "0.10%"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The standard legal limit for blood alcohol concentration for adults aged 21 and older is 0.08% in 49 states (Utah is 0.05%).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6938,
+            "question_text": "What happens if a driver refuses a breath test under implied consent laws?",
+            "options": [
+                "They get a warning and are allowed to drive",
+                "They are given a fine but their license remains valid",
+                "They face automatic license suspension",
+                "They must take a vision test instead"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Implied consent laws mean that by driving, you agree to a chemical test if stopped; refusing results in immediate license suspension.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6941,
+            "question_text": "What does the 'Move Over' law require you to do when passing a stopped emergency vehicle with flashing lights?",
+            "options": [
+                "Speed up to pass quickly",
+                "Stop directly behind the vehicle",
+                "Change lanes or slow down significantly",
+                "Sound your horn to alert the emergency crew"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Move Over laws protect emergency workers by requiring drivers to move to a non-adjacent lane or reduce their speed when passing stopped emergency vehicles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6942,
+            "question_text": "What is the consequence for passing a stopped school bus with red lights flashing?",
+            "options": [
+                "A small parking fine",
+                "A warning for first-time offenders",
+                "Heavy fines and potential license points",
+                "No consequence on divided highways only"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Passing a school bus is a serious violation that carries severe penalties, including large fines and points, because it endangers children.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6943,
+            "question_text": "Which state has a 0.05% BAC limit rather than the standard 0.08%?",
+            "options": [
+                "California",
+                "New York",
+                "Utah",
+                "Texas"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Utah is the only state in the US that has established a 0.05% BAC limit for drivers 21 and older.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6945,
+            "question_text": "What is the consequence of refusing a breath test under implied consent laws?",
+            "options": [
+                "A small fine only",
+                "Immediate license suspension",
+                "Nothing, you have the right to refuse",
+                "A mandatory warning"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Implied consent laws mean that by driving, you agree to a chemical test if requested by police. Refusal leads to automatic license consequences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6946,
+            "question_text": "What does the 'Move Over' law require you to do when approaching a stopped emergency vehicle with flashing lights?",
+            "options": [
+                "Maintain speed but move slightly over",
+                "Stop exactly where you are",
+                "Change lanes away from the vehicle or slow down significantly",
+                "Speed up to pass quickly"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The law is designed to protect emergency workers on the side of the road by requiring drivers to give them space.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6947,
+            "question_text": "Which state has a 0.05% BAC limit instead of the standard 0.08%?",
+            "options": [
+                "Texas",
+                "Florida",
+                "Utah",
+                "New York"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Utah is the only state in the U.S. that maintains a lower BAC limit of 0.05% for drivers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6948,
+            "question_text": "What is the typical penalty for passing a stopped school bus with red lights flashing?",
+            "options": [
+                "A verbal warning",
+                "A fine and potential points on your license",
+                "No penalty",
+                "Only a toll fee"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Passing a stopped school bus is a serious safety violation that carries heavy fines and legal consequences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

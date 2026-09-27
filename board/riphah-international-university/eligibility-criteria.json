@@ -1,0 +1,249 @@
+{
+    "category": "Riphah International University",
+    "name": "Eligibility Criteria",
+    "board": "riphah-international-university",
+    "subject": "eligibility-criteria",
+    "url": "/riphah-international-university/eligibility-criteria/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 17,
+    "questions": [
+        {
+            "id": 11029,
+            "question_text": "What is the maximum age limit for an alumnus to qualify for the Assistantship program?",
+            "options": [
+                "25 years",
+                "28 years",
+                "30 years",
+                "No specific age limit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The program stipulates a maximum age of 30 years at the time of application to ensure opportunities for early-career alumni.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11164,
+            "question_text": "Are students who completed their degree via distance learning eligible for this program?",
+            "options": [
+                "Yes, if the degree is recognized by HEC",
+                "No, only on-campus graduates",
+                "Only if they visit the campus weekly",
+                "Only if they have a research publication"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "As long as the degree is verified and recognized by the HEC and earned through Riphah, the mode of study does not disqualify the candidate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11165,
+            "question_text": "Which department has the final say on the eligibility of an applicant?",
+            "options": [
+                "The Admissions Office",
+                "The Finance Department",
+                "The Student Affairs/HR Department",
+                "The Security Office"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Student Affairs or HR department oversees the staffing and placement of assistants.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11166,
+            "question_text": "Does an alumnus need to be a resident of the city where the Riphah campus is located to apply?",
+            "options": [
+                "Yes, mandatory",
+                "No, but must be available for on-campus work",
+                "Only if they have a vehicle",
+                "No restrictions on residence"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The assistantship involves physical duties; residency is not strictly checked, but availability for on-campus hours is mandatory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11168,
+            "question_text": "If an applicant holds a part-time job elsewhere, are they still eligible?",
+            "options": [
+                "Yes, provided it does not conflict with assistantship hours",
+                "No, full commitment is required",
+                "Only with a salary cap",
+                "Only if the job is in the same field"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Applicants may hold outside employment as long as it does not interfere with the assigned duties of the assistantship.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11169,
+            "question_text": "Which category of students is primarily targeted for the Riphah Alumni Assistantship program?",
+            "options": [
+                "External exchange students",
+                "Riphah University graduates pursuing further studies",
+                "Faculty members seeking research grants",
+                "Non-degree diploma candidates"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The assistantship is specifically designed to support alumni of Riphah International University who are continuing their academic journey within the institution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11170,
+            "question_text": "What is the primary academic standing requirement for an applicant to be considered for an alumni assistantship?",
+            "options": [
+                "Top 50% of the graduating class",
+                "Clearance of all previous dues with no active academic probation",
+                "Completion of at least one research paper",
+                "Recommendation from the Dean only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Candidates must be in good standing with the university, meaning they cannot have outstanding financial dues or active disciplinary/academic probation records.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11171,
+            "question_text": "Are students currently enrolled in a self-financed program eligible to apply for the assistantship?",
+            "options": [
+                "Yes, provided they meet merit criteria",
+                "No, the program is exclusive to scholarship holders",
+                "Only if they have part-time employment",
+                "Only in their final semester"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The assistantship is open to meritorious students regardless of their fee structure, provided they fulfill the general institutional eligibility criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11172,
+            "question_text": "What is the minimum required CGPA for an alumnus to be eligible for the Assistantship program?",
+            "options": [
+                "2.00",
+                "2.50",
+                "3.00",
+                "3.50"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The standard academic benchmark for Riphah assistantship programs is typically a 3.00 CGPA to ensure candidates can balance work and academic responsibilities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11173,
+            "question_text": "How many years must have passed since graduation for an alumnus to remain eligible?",
+            "options": [
+                "Within 1 year of graduation",
+                "Within 2 years of graduation",
+                "Within 5 years of graduation",
+                "There is no time limit"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The program is designed for recent graduates, usually limiting eligibility to those who have graduated within the last 24 months.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11174,
+            "question_text": "Can a student who has been subjected to disciplinary action apply for the Alumni Assistantship?",
+            "options": [
+                "Yes, if the CGPA is high",
+                "No, disciplinary record is a ground for disqualification",
+                "Yes, with a letter of apology",
+                "Only after 5 years"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Maintaining a clean disciplinary record is a prerequisite for any official assistantship role at the university.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11175,
+            "question_text": "Are students currently enrolled in another degree program at Riphah allowed to hold an Alumni Assistantship?",
+            "options": [
+                "Yes, unconditionally",
+                "No, it is strictly forbidden",
+                "Only if they are in the final semester",
+                "Only if approved by the Head of Department"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Concurrent enrollment requires special permission to ensure the assistantship responsibilities do not interfere with academic progress.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11176,
+            "question_text": "Which of the following is a mandatory character requirement for applicants?",
+            "options": [
+                "Must be a university medal winner",
+                "Must have a recommendation from an external company",
+                "Must exhibit good moral character and conduct",
+                "Must have worked in the industry for 1 year"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Professional integrity and good conduct are essential standards for representing the university as an assistant.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11177,
+            "question_text": "Is the Alumni Assistantship program restricted to Riphah graduates only?",
+            "options": [
+                "No, it is open to all",
+                "Yes, it is exclusive to Riphah alumni",
+                "Yes, but only for scholarship holders",
+                "No, open to graduates of affiliated colleges"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The program is specifically designed to support the Riphah alumni network, hence it is exclusive to Riphah degree holders.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11178,
+            "question_text": "Are students who have completed their degree through a private status (external) eligible for the Assistantship?",
+            "options": [
+                "Yes, always eligible",
+                "No, only regular degree holders are eligible",
+                "Only if they have a recommendation from the Dean",
+                "Only if they are faculty members"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To maintain academic standards, the program is restricted to candidates who completed their degree as regular students at a Riphah campus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11179,
+            "question_text": "Is there a specific requirement for the applicant's conduct during their previous tenure as a student?",
+            "options": [
+                "No conduct requirements exist",
+                "Must have a clean disciplinary record",
+                "Must have been involved in student government",
+                "Must have received a high conduct award"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Candidates must not have any record of disciplinary action or misconduct during their time as a student at the university.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11180,
+            "question_text": "Can an applicant hold an existing scholarship while applying for the Alumni Assistantship?",
+            "options": [
+                "Yes, provided they disclose it",
+                "No, assistantships are not stackable with other financial aid",
+                "Only if the scholarship is merit-based",
+                "Only if the scholarship is private"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To ensure equitable distribution of financial support, recipients cannot hold multiple university-funded financial assistance programs simultaneously.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

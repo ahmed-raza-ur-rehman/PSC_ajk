@@ -1,0 +1,263 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Mathematics — Algebra & Equations",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "mathematics-algebra-equations",
+    "url": "/national-cybercrime-investigation-agency/mathematics-algebra-equations/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 18,
+    "questions": [
+        {
+            "id": 15640,
+            "question_text": "Despite of the lack of necessary funds, the FIA successfully conducted the investigation into the financial irregularities, earning praise from senior officials.",
+            "options": [
+                "Despite the lack of necessary funds, the FIA successfully conducted the investigation into the financial irregularities, which earned praise from senior officials.",
+                "Despite of the lack of necessary funds, the FIA successfully conducted the investigation into the financial irregularities, earning praise from senior officials.",
+                "Despite the lack of necessary funds, the FIA successfully conducted the investigation into the financial irregularities, earning praise from senior officials.",
+                "Despite of the lack of necessary funds, the FIA successfully conducted the investigation into the financial irregularities, and it earned praise from senior officials."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct prepositional usage is 'Despite' or 'In spite of,' not 'Despite of.' Option B fixes the prepositional error while retaining the grammatical integrity of the concluding participle phrase.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15641,
+            "question_text": "Having analyzed the data carefully, the suspect was apprehended near the Lahore railway station.",
+            "options": [
+                "Having analyzed the data carefully, it was determined that the suspect was apprehended near the Lahore railway station.",
+                "The suspect, having analyzed the data carefully, was apprehended near the Lahore railway station.",
+                "Having analyzed the data carefully, the suspect was apprehended near the Lahore railway station.",
+                "The suspect was apprehended near the Lahore railway station, having analyzed the data carefully."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The dangling participle in Option A suggests the suspect (the one apprehended) was doing the analyzing, which is unlikely. Option D uses the passive structure 'it was determined' to correct this ambiguity.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15642,
+            "question_text": "Having checked the credentials thoroughly, the supervisor admitted that the suspect had misrepresented himself regarding his prior employment record.",
+            "options": [
+                "Having checked the credentials thoroughly, the suspect admitted",
+                "The supervisor, having checked the credentials thoroughly, admitted",
+                "Having checked the credentials thoroughly, the supervisor admitted",
+                "The supervisor admitted, having checked the credentials thoroughly"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The introductory phrase 'Having checked the credentials thoroughly' must be followed by the person who performed the action (the subject). Since the suspect performed the checking, Option C is the correct structure.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15643,
+            "question_text": "Having finished the preliminary analysis, the committee was asked to submit a report detailing the findings, it was later recommended that a follow-up study be commissioned.",
+            "options": [
+                "findings; it was later recommended that a follow-up study be commissioned.",
+                "findings—it was later recommended that a follow-up study be commissioned.",
+                "findings, and it was later recommended that a follow-up study be commissioned.",
+                "findings, it was later recommended that a follow-up study be commissioned."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The original sentence contains a comma splice. Using the coordinating conjunction 'and' correctly joins the two independent clauses, showing the sequential relationship between the findings and the recommendation.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15644,
+            "question_text": "Identify the section that requires correction:",
+            "options": [
+                "Neither John nor his friends was aware of the changes.",
+                "Every candidate must bring its own CNIC.",
+                "Despite of the rain, the match continued.",
+                "The committee has decided to postpone the meeting until further notice."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The rule of proximity for 'neither...nor' dictates that the verb must agree with the subject closest to it. Since 'friends' is plural, the correct verb form is 'were', not 'was'. (Note: Options A, B, and D are all grammatically incorrect, but D tests a specific subject-verb agreement rule.)",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15645,
+            "question_text": "Identify the sentence that is grammatically correct:",
+            "options": [
+                "Every one of the students has submitted their assignment by the deadline.",
+                "Neither the manager nor the employees were aware of the policy change.",
+                "She is more wise than her colleagues regarding this issue.",
+                "The committee submits its final report on Friday."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "When acting as a single unit, a collective noun like 'committee' takes a singular verb and pronoun ('submits', 'its'). Option A fails on singular/plural agreement (Every one needs 'his/her'). Option B is grammatically correct based on the rule of proximity (the verb agrees with the nearest subject, 'employees', requiring 'were'). However, 'C' provides the most standard and least ambiguous usage of the collective noun. Option D uses an incorrect comparative form; it should be 'wiser'.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15646,
+            "question_text": "If she were to attend the meeting, (the chances of her giving a presentation) / would be significantly higher / than we had initially assumed.",
+            "options": [
+                "the chances of her giving a presentation are significantly higher",
+                "the chances of her giving a presentation would be significantly higher",
+                "the chances of her giving a presentation were significantly higher",
+                "the chances of her giving a presentation would be significantly higher"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The clause 'If she were to attend...' establishes a hypothetical situation (Second Conditional). Therefore, the main clause must use the resulting conditional tense ('would be') to maintain consistency.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15647,
+            "question_text": "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could avoid a significant overhaul of the departmental protocol.",
+            "options": [
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could not avoid a significant overhaul of the departmental protocol.",
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could avoid a significant overhaul of the departmental protocol.",
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could avoid avoiding a significant overhaul of the departmental protocol.",
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could have avoided a significant overhaul of the departmental protocol."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "This is a Third Conditional structure (hypothetical past). The result clause must use the perfect conditional modal ('could have avoided') to maintain tense parallelism with the initial 'If' clause ('had been disseminated').",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15648,
+            "question_text": "If the police had implemented stricter protocols, traffic congestion in major urban centers would have been reduced significantly and improved the daily lives of commuters.",
+            "options": [
+                "If the police had implemented stricter protocols, traffic congestion in major urban centers would have been reduced significantly and improved the daily lives of commuters.",
+                "If the police had implemented stricter protocols, traffic congestion in major urban centers would have been reduced significantly, thereby improving the daily lives of commuters.",
+                "If the police had implemented stricter protocols, traffic congestion in major urban centers would have been reduced significantly, improving the daily lives of commuters.",
+                "If the police had implemented stricter protocols, traffic congestion in major urban centers would have been significantly reduced and improved the daily lives of commuters."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The use of 'thereby improving' (Option B) correctly establishes a causal relationship (reduction leads to improvement) and resolves the parallelism issue present in the other options, making the consequence explicit.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15649,
+            "question_text": "Neither the Assistant Sub-Inspector nor the officers believes that the evidence presented is sufficient to press charges against the accused. Choose the most grammatically correct replacement for the underlined part.",
+            "options": [
+                "Assistant Sub-Inspector believe",
+                "officers believes",
+                "officers believed",
+                "officers believe"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "With 'neither...nor,' the verb agrees with the noun closest to it ('officers'), which is plural, requiring the plural verb 'believe'.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15650,
+            "question_text": "Neither the Chief Inspector nor the accompanying officers was aware of the security vulnerability that had been exploiting the system for weeks.",
+            "options": [
+                "Neither the Chief Inspector, nor the accompanying officers, was aware of the security vulnerability that had been exploiting the system for weeks.",
+                "Neither the Chief Inspector nor the accompanying officers was aware of the security vulnerability that had been exploiting the system for weeks.",
+                "Neither the Chief Inspector nor the accompanying officers were aware of the security vulnerability that had been exploiting the system for weeks.",
+                "Neither the Chief Inspector nor the accompanying officers were aware of the security vulnerability which had exploited the system for weeks."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correlative conjunction 'neither... nor' requires subject-verb agreement to follow the rule of proximity. When the second subject ('officers') is plural, the verb must be plural ('were').",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15651,
+            "question_text": "Select the sentence that demonstrates correct use of prepositions and grammatical rules:",
+            "options": [
+                "The officers among us found that the evidence was insufficient.",
+                "We advised them that they should look into the matter themselves.",
+                "The new regulations apply to all departments in the entire organization.",
+                "Between you and me, I think they overreacted to the criticism."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Option C is grammatically flawless, demonstrating correct subject-verb agreement ('regulations' is plural, requiring 'apply') and appropriate prepositional use. Option B is grammatically flawed; it should use an infinitive clause (e.g., 'We advised them to look into...'). While Options A and D are also grammatically sound, Option C presents the clearest and most textbook-perfect example of Subject-Verb Agreement and prepositional construction.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15652,
+            "question_text": "The manager advised the employees that they must submitting their reports by the deadline, or they would face disciplinary action.",
+            "options": [
+                "submit",
+                "submission",
+                "to submit",
+                "submitting"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The modal verb 'must' is followed by the bare infinitive form of the verb (submitting -> submit).",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15653,
+            "question_text": "The new policy mandated employees to submit time sheets daily, attend all required training sessions, and discussing operational improvements.",
+            "options": [
+                "submit time sheets daily, attend all required training sessions, and discuss operational improvements.",
+                "submit time sheets daily, to attend all required training sessions, and discussing operational improvements.",
+                "submitting time sheets daily, attending all required training sessions, and discussing operational improvements.",
+                "submitting time sheets daily, attending all required training sessions, and to discuss operational improvements."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Parallel structure requires that all list items maintain the same grammatical form. Since the initial verbs (submit and attend) are in the base form (imperative/infinitive complement), the final verb must also be in the base form: discuss.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15654,
+            "question_text": "The recent audit revealed that the procedural changes must include mandatory attendance sheets, timely filing of expense claims, and the supervisor signing off on all reports.",
+            "options": [
+                "mandatory attendance sheets, timely filing of expense claims, and supervisor signs off on all reports.",
+                "mandatory attendance sheets, the timely filing of expense claims, and supervisor's sign-off on all reports.",
+                "mandatory attendance sheets, timely filing of expense claims, and supervisor signature on all reports.",
+                "mandatory attendance sheets, timely filing of expense claims, and the supervisor signing off on all reports."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Parallelism requires all items in the list to share the same grammatical structure. The best option uses noun phrases for all three items: 'sheets' (NP), 'filing' (NP/GP), and 'supervisor's sign-off' (NP).",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15655,
+            "question_text": "The report detailed the necessity for the government to allocate resources to modernizing the educational infrastructure, which includes schools and universities across the province.",
+            "options": [
+                "The report detailed the necessity for the government to allocate resources to modernizing the educational infrastructure, which includes schools and universities across the province.",
+                "The report detailed the necessity for the government to allocate resources to modernizing the educational infrastructure, including schools and universities across the province.",
+                "The report detailed the necessity for the government to allocate resources for modernizing the educational infrastructure, including schools and universities across the province.",
+                "The report detailed the necessity for the government to allocate resources in modernizing the educational infrastructure, including schools and universities across the province."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Although 'necessity' is preferred, the primary error is the relative clause ('which'). Replacing it with the participle phrase ('including') smooths the flow and corrects the structure.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15656,
+            "question_text": "Which of the following options correctly corrects the grammatical error in the sentence: 'The officer was advised to follow the procedure, filing a complaint, and submit necessary documents.'?",
+            "options": [
+                "The officer was advised to follow the procedure, filing a complaint, and submit necessary documents.",
+                "The officer was advised to follow the procedure, file a complaint, and submit necessary documents.",
+                "The officer was advised to follow the procedure, file a complaint, and to submit necessary documents.",
+                "The officer was advised, to follow the procedure, filing a complaint, and submitting necessary documents."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To maintain parallelism, all elements following 'advised to' must be in the infinitive form (to + verb). The correct structure requires listing three parallel verbs: to follow, file, and submit. Option A achieves this by making all verbs base forms, ensuring grammatical consistency.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15657,
+            "question_text": "Which of the following sentence segments best corrects the underlined grammatical error?",
+            "options": [
+                "The more effort we put in, the greater the success we will achieve.",
+                "Putting more effort in, more success we will achieve.",
+                "The more effort we put in, the success we achieve will be greater.",
+                "More effort we put in, more successful we will be."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The construction 'The more... the more...' requires parallel grammatical structure. Option B maintains this structure correctly ('the greater the success').",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        }
+    ]
+}

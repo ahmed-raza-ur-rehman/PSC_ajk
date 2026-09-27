@@ -1,0 +1,431 @@
+{
+    "category": "LNAT Consortium",
+    "name": "Section A: Multiple Choice",
+    "board": "lnat-consortium",
+    "subject": "section-a-multiple-choice",
+    "url": "/lnat-consortium/section-a-multiple-choice/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 30,
+    "questions": [
+        {
+            "id": 8553,
+            "question_text": "What is the total duration of the Section A test?",
+            "options": [
+                "45 minutes",
+                "75 minutes",
+                "95 minutes",
+                "120 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Candidates are given exactly 95 minutes to complete the 42 multiple choice questions in Section A.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8718,
+            "question_text": "Are points deducted for wrong answers in Section A?",
+            "options": [
+                "Yes, one point is deducted for every wrong answer.",
+                "No, only right answers receive points.",
+                "Yes, 0.25 points are deducted per error.",
+                "Yes, but only if you guess blindly."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT does not deduct marks for incorrect answers, so it is better to guess than to leave a question blank.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8737,
+            "question_text": "What is the primary purpose of the LNAT test?",
+            "options": [
+                "To test a candidate's knowledge of legal facts",
+                "To assess aptitude for skills required to study law",
+                "To replace A-level exams for university admissions",
+                "To measure a student's general knowledge of history and politics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT is designed to measure skills like verbal reasoning, comprehension, and analysis, which are important for studying law, rather than testing specific legal knowledge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8738,
+            "question_text": "What happens if a candidate sits the LNAT twice in the same testing cycle without authorization?",
+            "options": [
+                "The higher of the two scores is taken",
+                "The lower of the two scores is taken",
+                "The later test sitting is invalid",
+                "The candidate is banned from applying to law school"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "LNAT policy dictates that only one test can be sat per cycle; if a candidate takes it twice, the second (later) attempt is void.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8739,
+            "question_text": "If you are a student with special examination access requirements, when should you notify the LNAT organizers?",
+            "options": [
+                "On the day of the test at the test centre",
+                "After you have booked your test online",
+                "Before you book your test, by submitting an application form",
+                "During the essay portion of the exam"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Candidates must notify the organizers and receive approval for special access arrangements before booking, as these tests cannot be booked through the standard online system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8740,
+            "question_text": "How many multiple-choice questions are there in Section A of the LNAT?",
+            "options": [
+                "30",
+                "40",
+                "42",
+                "45"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to the test format guidelines, Section A consists of 42 multiple-choice questions based on argumentative passages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8741,
+            "question_text": "What are you expected to do if you encounter a disruptive incident at the test centre?",
+            "options": [
+                "Write a letter to the university admissions tutor directly",
+                "Ignore it and continue working as fast as possible",
+                "Ask the test centre staff for an incident number before leaving",
+                "Leave the test centre immediately without notifying anyone"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An incident number is required to verify the disruption and allow the LNAT Consortium to investigate and inform universities if necessary.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8742,
+            "question_text": "What happens to a candidate who takes the LNAT test more than once in a single testing cycle without permission?",
+            "options": [
+                "The candidate is fined for the second attempt.",
+                "The second test result is automatically cancelled.",
+                "The average of the two scores is taken.",
+                "The candidate is banned from university entry."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to the test rules, if you sit the test twice without authorization, the later sitting is invalidated.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8743,
+            "question_text": "How many argumentative passages are included in the Section A multiple choice exam?",
+            "options": [
+                "8",
+                "10",
+                "12",
+                "14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The LNAT website states that Section A consists of questions based on 12 argumentative passages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8744,
+            "question_text": "If you are struggling with a difficult question in Section A, what is the best strategy?",
+            "options": [
+                "Skip it and return to it later before the time ends.",
+                "Guess the answer immediately and move on without looking back.",
+                "Raise your hand to ask the invigilator for help.",
+                "Leave the answer blank as there is no penalty for guessing."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The test allows you to flag or skip questions to return to later, provided you stay within the 95-minute time limit for Section A.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8745,
+            "question_text": "How should you treat the information provided in the Section A passages?",
+            "options": [
+                "Cross-reference it with outside facts you know.",
+                "Ignore parts that seem logically incorrect.",
+                "Accept it at face value for the purpose of the test.",
+                "Use your own opinions to critique the author's logic."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "You should not rely on outside knowledge; even if a passage contains a falsehood, treat it as true to answer the questions correctly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8746,
+            "question_text": "What is the primary goal of the Section A multiple choice questions?",
+            "options": [
+                "To test your factual knowledge of legal history.",
+                "To test your ability to read and understand complex arguments.",
+                "To test your ability to write persuasive essays.",
+                "To test your proficiency in multiple foreign languages."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Section A is designed to measure verbal reasoning, including comprehension and analysis of text, rather than memorized legal facts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8748,
+            "question_text": "How many questions are associated with each passage in Section A?",
+            "options": [
+                "3 or 4",
+                "5 or 6",
+                "Exactly 5",
+                "Varies from 1 to 10"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The test format specifies that there are 3 or 4 multiple choice questions for each of the 12 passages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8749,
+            "question_text": "Why are some answer choices designed to be 'almost right'?",
+            "options": [
+                "To trick candidates intentionally.",
+                "To test fine-grained discrimination skills.",
+                "To make the test longer.",
+                "To compensate for typos in the passage."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "These options test whether you can distinguish between very similar propositions, which is an important skill in legal reasoning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8750,
+            "question_text": "What tools are provided for note-taking during the test?",
+            "options": [
+                "Paper and pen.",
+                "A dictionary.",
+                "A portable whiteboard and pen.",
+                "Access to a computer notepad application."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Test centres provide a portable whiteboard and pen for note-making, as you cannot bring your own stationery.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8751,
+            "question_text": "If you find the Section A time limit challenging, what advice is suggested?",
+            "options": [
+                "Memorize the passages quickly.",
+                "Practice pacing yourself using LNAT practice tests.",
+                "Read only the first and last paragraph.",
+                "Answer questions in reverse order."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The website explicitly mentions that taking practice tests helps you learn how to pace yourself appropriately.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8752,
+            "question_text": "Are you allowed to return to Section A after you have started the essay?",
+            "options": [
+                "Yes, if you have extra time.",
+                "No, you cannot go back to Section A.",
+                "Only with the invigilator's permission.",
+                "Yes, provided the total test time has not expired."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The two sections are separately timed, and you cannot return to the multiple choice section once you have moved on to the essay.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8753,
+            "question_text": "What happens if you encounter an ambiguity in a question?",
+            "options": [
+                "You should request a clarification from the invigilator.",
+                "The test is designed to see how you cope with ambiguity.",
+                "You should skip the question without penalty.",
+                "The test will automatically pause while you think."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT documentation states that if there are ambiguities, they are intended to test your ability to handle them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8754,
+            "question_text": "Should you speed-read the passages before answering?",
+            "options": [
+                "Yes, but you should follow up with a slower, careful reading.",
+                "No, you should only read once very quickly.",
+                "No, reading slowly from the start is the only allowed way.",
+                "It is not recommended to read the passages at all."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The hints section suggests skim-reading for context, followed by a slower, deliberate reading to understand the meaning of every sentence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8755,
+            "question_text": "Is the LNAT test specifically designed for UK-based applicants only?",
+            "options": [
+                "Yes, the passages are based only on UK legal cases.",
+                "No, it is a global test aimed at minimizing UK-specific bias.",
+                "Only for applicants to Oxford and Cambridge.",
+                "Only for applicants within the EU."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT aims to have global relevance with as little UK bias as possible for its international test-taker base.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8756,
+            "question_text": "What is the primary function of the LNAT multiple-choice section?",
+            "options": [
+                "To test your factual knowledge of legal principles",
+                "To measure your ability to comprehend and analyze complex written information",
+                "To evaluate your proficiency in foreign languages",
+                "To grade your ability to memorize historical case law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT is designed to test aptitude and verbal reasoning skills, such as comprehension and analysis, rather than knowledge of any specific subject like law.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8757,
+            "question_text": "How many argumentative passages will you be expected to analyze in Section A?",
+            "options": [
+                "10 passages",
+                "12 passages",
+                "15 passages",
+                "20 passages"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT test format states there are 12 argumentative passages, each followed by 3 or 4 questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8758,
+            "question_text": "What is the total time provided for the Section A multiple-choice test?",
+            "options": [
+                "40 minutes",
+                "60 minutes",
+                "95 minutes",
+                "135 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Candidates are given exactly 95 minutes to complete the 42 questions in Section A.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8759,
+            "question_text": "Are points removed for incorrect answers in the multiple-choice section?",
+            "options": [
+                "Yes, there is a penalty for wrong answers",
+                "No, there is no penalty for wrong answers",
+                "Only for certain types of questions",
+                "Only if you leave more than 5 questions blank"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT website confirms that you receive a point for every correct answer, and no points are deducted for wrong answers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8760,
+            "question_text": "What is the recommended approach if you find a specific question in Section A too difficult?",
+            "options": [
+                "Guess immediately and move on to save time",
+                "Spend the remaining time analyzing that single question",
+                "Flag it for review and proceed to other questions",
+                "Ask the invigilator for help"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The test software allows you to flag difficult questions so you can return to them later before the time for Section A concludes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8761,
+            "question_text": "How should you treat the information presented in the passages?",
+            "options": [
+                "Evaluate them against your own external knowledge",
+                "Assume the information provided is factually accurate for the purpose of the test",
+                "Correct any falsehoods found within the text",
+                "Ignore the text and rely on your own opinion"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "You should treat the content of the passages as true for the purpose of the test, regardless of whether you know them to be false from other sources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8762,
+            "question_text": "Why does the test include 'almost right' answer choices?",
+            "options": [
+                "To trick candidates intentionally",
+                "To test the fineness of your discrimination skills",
+                "To compensate for unclear passages",
+                "Because there are multiple correct answers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "These options are designed to test whether your powers of discrimination are 'fine-grained' or 'coarse-grained' rather than to trick you.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8764,
+            "question_text": "Can you go back to review your Section A answers after you have started the essay?",
+            "options": [
+                "Yes, as long as you have time remaining",
+                "No, the sections are separately timed and you cannot return",
+                "Yes, but only in the last 5 minutes",
+                "No, unless you ask the invigilator for permission"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT is split into two separately timed sections, and you cannot return to the multiple-choice section once you have started the essay.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8765,
+            "question_text": "What tools are provided for you to take notes during the test?",
+            "options": [
+                "Scrap paper and a pencil",
+                "A digital notepad within the test software",
+                "A portable whiteboard and pen",
+                "No note-taking is allowed"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each workstation is equipped with a portable whiteboard and pen for note-making.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8766,
+            "question_text": "If you encounter an ambiguity in a question, how should you handle it?",
+            "options": [
+                "Report it to the test center immediately",
+                "Choose the best possible answer based on the passage",
+                "Skip the question entirely",
+                "Write a note explaining why it is ambiguous"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test is designed to see how you handle ambiguities; the solution is always found within the provided passage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

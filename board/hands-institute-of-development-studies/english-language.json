@@ -1,0 +1,165 @@
+{
+    "category": "Hands Institute of Development Studies",
+    "name": "English Language",
+    "board": "hands-institute-of-development-studies",
+    "subject": "english-language",
+    "url": "/hands-institute-of-development-studies/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11911,
+            "question_text": "Choose the correct synonym for the word 'Benevolent'.",
+            "options": [
+                "Malicious",
+                "Kind",
+                "Greedy",
+                "Hostile"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11912,
+            "question_text": "Identify the error in the following sentence: 'She don't know where the keys are.'",
+            "options": [
+                "She",
+                "don't",
+                "know",
+                "keys"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject 'She' is singular, so it requires the singular verb 'doesn't'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11913,
+            "question_text": "Complete the sentence: 'The team _____ practiced every day for the championship.'",
+            "options": [
+                "have",
+                "has",
+                "are",
+                "were"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The team is treated as a collective singular noun, requiring 'has'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11914,
+            "question_text": "Choose the correct antonym for the word 'Fragile'.",
+            "options": [
+                "Delicate",
+                "Sturdy",
+                "Weak",
+                "Flimsy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fragile means easily broken, while sturdy means strongly built.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11915,
+            "question_text": "Which of the following sentences uses correct punctuation?",
+            "options": [
+                "I went to the store, and bought milk.",
+                "I went to the store and, bought milk.",
+                "I went to the store and bought milk.",
+                "I, went to the store and bought milk."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "No comma is needed before 'and' when connecting two verbs with the same subject.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11916,
+            "question_text": "Choose the correct word to complete the sentence: 'The committee members could not agree _____ themselves on the new policy.'",
+            "options": [
+                "between",
+                "among",
+                "with",
+                "through"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When referring to a group of more than two, 'among' is the grammatically correct preposition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11917,
+            "question_text": "What is the primary meaning of the idiom 'A blessing in disguise'?",
+            "options": [
+                "A good thing that seemed bad at first",
+                "A mistake that turned out okay",
+                "A secret gift",
+                "A person pretending to be nice"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This idiom refers to a misfortune that eventually results in a positive outcome.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11918,
+            "question_text": "Identify the word that is spelled incorrectly.",
+            "options": [
+                "Necessary",
+                "Separate",
+                "Accomodate",
+                "Believe"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling is 'Accommodate' with two 'm's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11919,
+            "question_text": "Choose the word that best completes the sentence: 'Despite his _____ nature, he managed to deliver a powerful speech.'",
+            "options": [
+                "Confident",
+                "Reticent",
+                "Verbose",
+                "Loud"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Reticent means reserved or shy; it creates a logical contrast with delivering a powerful speech.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11932,
+            "question_text": "Identify the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Accomodationn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Accommodation is the correct spelling with double c and double m.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11998,
+            "question_text": "Which of the following sentences is grammatically correct?",
+            "options": [
+                "Neither of the students were present.",
+                "Neither of the students was present.",
+                "Neither the students was present.",
+                "Neither student were present."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Neither' is a singular subject, requiring the singular verb 'was'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

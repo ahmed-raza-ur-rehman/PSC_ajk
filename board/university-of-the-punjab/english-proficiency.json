@@ -1,0 +1,207 @@
+{
+    "category": "University of the Punjab",
+    "name": "English Proficiency",
+    "board": "university-of-the-punjab",
+    "subject": "english-proficiency",
+    "url": "/university-of-the-punjab/english-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 10376,
+            "question_text": "Choose the word that is most nearly opposite in meaning to 'Ephemeral'.",
+            "options": [
+                "Brief",
+                "Eternal",
+                "Fragile",
+                "Common"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Ephemeral' means lasting for a very short time; 'Eternal' means lasting forever.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10377,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "She don't like apples.",
+                "Each of the students have a book.",
+                "Neither the teacher nor the students were present.",
+                "He go to school everyday."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the subject closest to it. 'Students' is plural, so 'were' is correct.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10378,
+            "question_text": "Identify the synonym of 'Diligent'.",
+            "options": [
+                "Lazy",
+                "Hardworking",
+                "Careless",
+                "Ignorant"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Diligent means having or showing care and conscientiousness in one's work.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10379,
+            "question_text": "Complete the sentence: 'She _____ to the market yesterday.'",
+            "options": [
+                "go",
+                "goes",
+                "went",
+                "gone"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sentence indicates past tense ('yesterday'), so 'went' is required.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10380,
+            "question_text": "Which word is spelled incorrectly?",
+            "options": [
+                "Beautiful",
+                "Definite",
+                "Recieve",
+                "Separate"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling is 'Receive' (i before e except after c).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10381,
+            "question_text": "Choose the correct preposition: 'He is interested _____ learning piano.'",
+            "options": [
+                "at",
+                "in",
+                "on",
+                "to"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The standard idiomatic expression is 'interested in'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10382,
+            "question_text": "Select the correct sentence.",
+            "options": [
+                "Each of the students are clever.",
+                "Each of the students is clever.",
+                "Each of the student is clever.",
+                "All of the student are clever."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Each' takes a singular verb, and the noun following it must be plural.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10383,
+            "question_text": "Antonym of 'Generous':",
+            "options": [
+                "Kind",
+                "Stingy",
+                "Helpful",
+                "Wealthy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Stingy is the direct opposite of generous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10384,
+            "question_text": "Which is an example of a metaphor?",
+            "options": [
+                "He is as busy as a bee.",
+                "Time is a thief.",
+                "The stars danced in the sky.",
+                "She ran quickly."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A metaphor describes one thing as another directly without 'like' or 'as'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10385,
+            "question_text": "Choose the plural of 'Criterion'.",
+            "options": [
+                "Criterions",
+                "Criteria",
+                "Criterias",
+                "Criterion"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Latin-based plural of criterion is criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10386,
+            "question_text": "What is the past participle of 'write'?",
+            "options": [
+                "Wrote",
+                "Writing",
+                "Written",
+                "Writes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sequence is write (present), wrote (past), written (past participle).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10387,
+            "question_text": "Which sentence is in passive voice?",
+            "options": [
+                "The chef cooked the meal.",
+                "The meal was cooked by the chef.",
+                "The chef is cooking the meal.",
+                "The meal tastes good."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Passive voice shifts the focus to the object ('the meal') receiving the action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10388,
+            "question_text": "Choose the word that is most nearly opposite in meaning to 'Pessimistic'.",
+            "options": [
+                "Optimistic",
+                "Gloomy",
+                "Cheerful",
+                "Negative"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Pessimistic means expecting the worst, while optimistic means expecting the best.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10389,
+            "question_text": "Identify the correct sentence.",
+            "options": [
+                "Each of the boys have a pen.",
+                "Each of the boys has a pen.",
+                "Each of the boys are having a pen.",
+                "Each of the boys were having a pen."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Each' is a singular subject, requiring the singular verb 'has'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

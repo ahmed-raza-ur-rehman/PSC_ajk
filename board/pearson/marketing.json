@@ -1,0 +1,137 @@
+{
+    "category": "Pearson",
+    "name": "Marketing",
+    "board": "pearson",
+    "subject": "marketing",
+    "url": "/pearson/marketing/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 13074,
+            "question_text": "Which of the following is NOT part of the traditional '4 Ps' of the Marketing Mix?",
+            "options": [
+                "Product",
+                "Price",
+                "People",
+                "Place"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The original 4Ps are Product, Price, Place, and Promotion. 'People' is often included in the extended services marketing mix (7Ps).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13135,
+            "question_text": "What is the primary goal of market segmentation?",
+            "options": [
+                "To target all consumers in a market",
+                "To divide a broad market into subsets of consumers with common needs",
+                "To eliminate competition",
+                "To maximize production output"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Market segmentation allows businesses to tailor their strategies to specific groups, making marketing efforts more efficient and effective.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13136,
+            "question_text": "What is the process of dividing a broad target market into smaller, more homogeneous groups called?",
+            "options": [
+                "Market Segmentation",
+                "Market Positioning",
+                "Product Differentiation",
+                "Market Penetration"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Segmentation allows marketers to tailor their strategies to specific consumer needs within a group.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13137,
+            "question_text": "Which stage of the Product Life Cycle typically sees sales peak and then start to level off?",
+            "options": [
+                "Introduction",
+                "Growth",
+                "Maturity",
+                "Decline"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The maturity stage is characterized by high competition and market saturation, leading to plateauing sales.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13138,
+            "question_text": "What is 'Psychographic' segmentation based on?",
+            "options": [
+                "Age, gender, and income",
+                "Geographic location",
+                "Buying behavior and usage rate",
+                "Lifestyle, values, and personality traits"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Psychographic segmentation focuses on the internal qualities and lifestyle choices of consumers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13139,
+            "question_text": "What is the primary goal of 'Brand Equity'?",
+            "options": [
+                "To maximize short-term sales",
+                "To increase the value of a brand name based on consumer perception",
+                "To reduce the cost of production",
+                "To eliminate competition"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Brand equity represents the premium value a company generates from a product with a recognizable name.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13140,
+            "question_text": "Which pricing strategy involves setting a high price for a new product to 'skim' revenue from early adopters?",
+            "options": [
+                "Penetration pricing",
+                "Price skimming",
+                "Cost-plus pricing",
+                "Competitive pricing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Price skimming sets high initial prices to target customers willing to pay more for innovation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13141,
+            "question_text": "What is the primary focus of 'Relationship Marketing'?",
+            "options": [
+                "Generating quick sales",
+                "Building long-term customer loyalty and engagement",
+                "Maximizing the price of individual products",
+                "Competing solely on physical product features"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Relationship marketing emphasizes customer retention and satisfaction rather than just individual transaction sales.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13142,
+            "question_text": "In the BCG Matrix, what is the classification for a business unit with a high market share in a slow-growth industry?",
+            "options": [
+                "Star",
+                "Question Mark",
+                "Cash Cow",
+                "Dog"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Cash Cows generate more cash than they consume, typically operating in mature markets where they hold a dominant share.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

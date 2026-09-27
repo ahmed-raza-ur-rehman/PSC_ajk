@@ -1,0 +1,207 @@
+{
+    "category": "Allama Iqbal Open University",
+    "name": "Islamic Studies",
+    "board": "allama-iqbal-open-university",
+    "subject": "islamic-studies",
+    "url": "/allama-iqbal-open-university/islamic-studies/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 12248,
+            "question_text": "Which source of Islamic Law is considered the primary and most authentic?",
+            "options": [
+                "Qiyas",
+                "Ijma",
+                "The Holy Quran",
+                "Hadith"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Holy Quran is the divine word of Allah and serves as the fundamental source of legislation in Islam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12249,
+            "question_text": "What is the literal meaning of the term 'Sunnah' in Islamic context?",
+            "options": [
+                "A habit or way of acting",
+                "A mandatory prayer",
+                "A form of tax",
+                "A historical event"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Sunnah refers to the way of life, practices, and traditions set by the Prophet Muhammad (PBUH).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12250,
+            "question_text": "What is the second primary source of Islamic law (Sharia)?",
+            "options": [
+                "Qiyas",
+                "Ijma",
+                "Sunnah",
+                "Reasoning"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Sunnah, comprising the practices and sayings of the Prophet Muhammad, is the second source of law after the Quran.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12251,
+            "question_text": "Which term refers to the consensus of Islamic scholars on a particular issue?",
+            "options": [
+                "Ijtihad",
+                "Ijma",
+                "Fiqh",
+                "Fatwa"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ijma refers to the agreement of Muslim scholars on a point of Islamic law.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12252,
+            "question_text": "What is the definition of 'Fard' in Islamic jurisprudence?",
+            "options": [
+                "Recommended act",
+                "Obligatory act",
+                "Prohibited act",
+                "Neutral act"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Fard action is one that is strictly required, and the omission of which is a sin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12253,
+            "question_text": "Which book is considered the most authentic collection of Hadith?",
+            "options": [
+                "Sunan Abu Dawud",
+                "Sahih Muslim",
+                "Sahih al-Bukhari",
+                "Jami' at-Tirmidhi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sahih al-Bukhari is widely regarded by Sunni Muslims as the most authentic collection of Prophet's traditions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12254,
+            "question_text": "What does 'Zakat' mean in Islamic terminology?",
+            "options": [
+                "Fasting",
+                "Pilgrimage",
+                "Obligatory charity",
+                "Daily prayer"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Zakat is the mandatory charitable giving of a portion of one's wealth to the needy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12255,
+            "question_text": "Which of the following is NOT one of the five pillars of Islam?",
+            "options": [
+                "Shahada",
+                "Salah",
+                "Jihad",
+                "Hajj"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "While Jihad is an Islamic concept, the five pillars are Shahada, Salah, Zakat, Sawm, and Hajj.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12256,
+            "question_text": "What is 'Tafsir'?",
+            "options": [
+                "The science of Hadith",
+                "Exegesis/Interpretation of the Quran",
+                "Islamic architectural history",
+                "The study of Arabic grammar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tafsir refers to the analytical explanation and interpretation of the Quranic text.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12257,
+            "question_text": "Who was the first Caliph of Islam?",
+            "options": [
+                "Umar ibn al-Khattab",
+                "Ali ibn Abi Talib",
+                "Abu Bakr as-Siddiq",
+                "Uthman ibn Affan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Abu Bakr was the first person to become the Caliph after the death of the Prophet Muhammad.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12258,
+            "question_text": "What is 'Ijtihad'?",
+            "options": [
+                "Blind imitation",
+                "Independent legal reasoning by a scholar",
+                "Prayer in a mosque",
+                "A form of poetry"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ijtihad is the process of making a legal decision by independent interpretation of the legal sources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12259,
+            "question_text": "Which month do Muslims fast in?",
+            "options": [
+                "Muharram",
+                "Ramadan",
+                "Rajab",
+                "Dhul-Hijjah"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ramadan is the ninth month of the Islamic calendar, in which fasting is mandatory for Muslims.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12260,
+            "question_text": "What is the primary objective of 'Maqasid al-Sharia'?",
+            "options": [
+                "To impose strict rules",
+                "To preserve the five essential interests of humanity",
+                "To simplify ritual prayer",
+                "To create cultural barriers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Maqasid al-Sharia focuses on the protection of Religion, Life, Intellect, Lineage, and Property.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12261,
+            "question_text": "Which term describes the individual efforts of a jurist to derive a ruling from sources?",
+            "options": [
+                "Ijma",
+                "Qiyas",
+                "Ijtihad",
+                "Fatwa"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ijtihad is the legal process of applying independent reasoning to derive rulings from the Quran and Sunnah.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

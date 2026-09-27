@@ -1,0 +1,151 @@
+{
+    "category": "Preston University",
+    "name": "Mathematics",
+    "board": "preston-university",
+    "subject": "mathematics",
+    "url": "/preston-university/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13054,
+            "question_text": "If 3x + 5 = 20, what is the value of x?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 5 from both sides to get 3x = 15, then divide by 3 to get x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13269,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "0.15 * 200 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13673,
+            "question_text": "If a square has an area of 64 square meters, what is the length of its perimeter?",
+            "options": [
+                "16 meters",
+                "24 meters",
+                "32 meters",
+                "64 meters"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If area = s^2 = 64, then side s = 8. Perimeter = 4 * side = 4 * 8 = 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13674,
+            "question_text": "Solve for x: 5(x - 3) = 2x + 9.",
+            "options": [
+                "x = 6",
+                "x = 8",
+                "x = 4",
+                "x = 7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Expanding gives 5x - 15 = 2x + 9. Subtracting 2x from both sides gives 3x - 15 = 9. Adding 15 gives 3x = 24, so x = 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13675,
+            "question_text": "What is the average of the first five prime numbers?",
+            "options": [
+                "5.6",
+                "5.2",
+                "4.8",
+                "6.0"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The first five prime numbers are 2, 3, 5, 7, 11. The sum is 28. Average = 28 / 5 = 5.6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13676,
+            "question_text": "A shopkeeper sells an item for $120, which is a 20% profit on the cost price. What was the original cost price?",
+            "options": [
+                "$96",
+                "$100",
+                "$104",
+                "$110"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Let cost price be C. 1.20 * C = 120. C = 120 / 1.20 = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13677,
+            "question_text": "Simplify: (2^3 * 2^4) / 2^5.",
+            "options": [
+                "2",
+                "4",
+                "8",
+                "16"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using exponent rules: 2^(3+4) / 2^5 = 2^7 / 2^5 = 2^(7-5) = 2^2 = 4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13678,
+            "question_text": "If a triangle has a base of 10 cm and a height of 5 cm, what is its area?",
+            "options": [
+                "15 sq cm",
+                "25 sq cm",
+                "50 sq cm",
+                "20 sq cm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The area of a triangle is calculated using the formula: 1/2 * base * height. 0.5 * 10 * 5 = 25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13679,
+            "question_text": "What is the value of 2x + 7 = 19?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Subtract 7 from both sides to get 2x = 12, then divide by 2 to get x = 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13680,
+            "question_text": "Which of the following is a prime number?",
+            "options": [
+                "9",
+                "15",
+                "21",
+                "23"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. 23 fits this criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

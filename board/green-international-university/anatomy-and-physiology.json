@@ -1,0 +1,179 @@
+{
+    "category": "Green International University",
+    "name": "Anatomy and Physiology",
+    "board": "green-international-university",
+    "subject": "anatomy-and-physiology",
+    "url": "/green-international-university/anatomy-and-physiology/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 13821,
+            "question_text": "Which layer of the skin contains the melanocytes responsible for pigment production?",
+            "options": [
+                "Stratum corneum",
+                "Stratum basale",
+                "Dermis",
+                "Hypodermis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The stratum basale is the deepest layer of the epidermis where melanocytes reside and cell division (mitosis) occurs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13822,
+            "question_text": "What is the primary function of the arrector pili muscle?",
+            "options": [
+                "Regulating sweat production",
+                "Producing sebum",
+                "Causing hair to stand upright in response to cold or emotion",
+                "Connecting the epidermis to the dermis"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The arrector pili is a small smooth muscle attached to the hair follicle that contracts, causing 'goosebumps'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13823,
+            "question_text": "Which bone forms the forehead and the upper part of the eye sockets?",
+            "options": [
+                "Parietal bone",
+                "Frontal bone",
+                "Temporal bone",
+                "Occipital bone"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The frontal bone constitutes the forehead and the superior portion of the orbits of the eyes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13824,
+            "question_text": "Which muscle is responsible for compressing the cheeks and expelling air, often called the 'trumpeter' muscle?",
+            "options": [
+                "Orbicularis oris",
+                "Masseter",
+                "Buccinator",
+                "Temporalis"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The buccinator muscle is a thin, flat muscle of the cheek that compresses the cheeks against the teeth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13825,
+            "question_text": "What is the primary function of the endocrine system in the context of skin health?",
+            "options": [
+                "Transporting oxygen to skin cells",
+                "Regulating hormone production that influences sebum and skin conditions",
+                "Filtering waste products from the epidermis",
+                "Controlling voluntary facial expressions"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The endocrine system releases hormones, such as androgens, which directly affect oil production and skin cell renewal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13826,
+            "question_text": "Which layer of the dermis contains the blood vessels and nerves that supply nourishment to the epidermis?",
+            "options": [
+                "Reticular layer",
+                "Hypodermis",
+                "Papillary layer",
+                "Stratum granulosum"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The papillary layer is the upper dermal region that provides nutrients to the epidermis via dermal papillae.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13827,
+            "question_text": "What is the main function of the lymphatic system as it relates to aesthetic treatments?",
+            "options": [
+                "Producing new skin cells",
+                "Carrying away waste products and toxins from the tissue",
+                "Producing sebum for skin hydration",
+                "Conducting nerve impulses to the brain"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The lymphatic system assists in the detoxification process and helps remove interstitial fluid and cellular waste.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13828,
+            "question_text": "Which nerve is the largest of the cranial nerves and serves as the primary sensory nerve for the face?",
+            "options": [
+                "Facial nerve (VII)",
+                "Trigeminal nerve (V)",
+                "Vagus nerve (X)",
+                "Accessory nerve (XI)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The trigeminal nerve (cranial nerve V) is responsible for sensation in the face and motor functions such as biting and chewing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13829,
+            "question_text": "What substance is produced by the sebaceous glands to help keep the skin surface soft and pliable?",
+            "options": [
+                "Perspiration",
+                "Sebum",
+                "Melanin",
+                "Collagen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sebaceous glands secrete sebum, an oily substance that acts as a natural lubricant and barrier for the skin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13830,
+            "question_text": "Which type of muscle tissue is under conscious control and relevant to facial expression?",
+            "options": [
+                "Smooth muscle",
+                "Cardiac muscle",
+                "Striated (skeletal) muscle",
+                "Involuntary muscle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Striated muscles are voluntary and are responsible for all movements of the head, neck, and face.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13831,
+            "question_text": "Which layer of the integumentary system is primarily composed of adipose tissue and serves as insulation for the body?",
+            "options": [
+                "Stratum granulosum",
+                "Stratum lucidum",
+                "Subcutaneous layer",
+                "Papillary layer"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The subcutaneous layer (hypodermis) consists mainly of fat cells (adipose tissue) which provide cushioning and insulation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13832,
+            "question_text": "Which cranial nerve is responsible for the movement of facial expression muscles?",
+            "options": [
+                "Trigeminal nerve",
+                "Facial nerve",
+                "Optic nerve",
+                "Glossopharyngeal nerve"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The seventh cranial nerve, or facial nerve, is the primary motor nerve responsible for controlling the muscles of facial expression.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

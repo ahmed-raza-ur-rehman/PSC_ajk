@@ -1,0 +1,179 @@
+{
+    "category": "Barani Institute of Information Technology",
+    "name": "Analytical and Logical Reasoning",
+    "board": "barani-institute-of-information-technology",
+    "subject": "analytical-and-logical-reasoning",
+    "url": "/barani-institute-of-information-technology/analytical-and-logical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 13895,
+            "question_text": "If all 'AI models' are 'algorithms' and some 'algorithms' are 'predictive', which of the following must be true?",
+            "options": [
+                "All AI models are predictive",
+                "Some AI models might be predictive",
+                "No AI models are predictive",
+                "All predictive things are AI models"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since AI models are a subset of algorithms, and there is an intersection between algorithms and predictive entities, it is possible for some AI models to fall into that intersection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13896,
+            "question_text": "Complete the sequence: 2, 6, 12, 20, 30, ?",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern involves adding consecutive even numbers: +4, +6, +8, +10. The next step is adding 12 to 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13897,
+            "question_text": "If P implies Q, and Q is false, what can be concluded about P?",
+            "options": [
+                "P is true",
+                "P is false",
+                "P is unknown",
+                "P implies R"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "By Modus Tollens, if P -> Q is true and Q is false, then P must be false.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13898,
+            "question_text": "Find the missing number: 1, 4, 9, 16, 25, ?",
+            "options": [
+                "30",
+                "36",
+                "40",
+                "49"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sequence consists of squares of integers: 1^2, 2^2, 3^2, 4^2, 5^2, 6^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13899,
+            "question_text": "If 'FISH' is coded as 'GJTI', how is 'BIRD' coded?",
+            "options": [
+                "CJSE",
+                "CKRE",
+                "CISE",
+                "CJTE"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted by one position: B->C, I->J, R->S, D->E.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13900,
+            "question_text": "A man points to a photograph and says, 'That man is my father's only son.' Who is in the photograph?",
+            "options": [
+                "His father",
+                "His son",
+                "Himself",
+                "His brother"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The only son of his father is the man himself.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13901,
+            "question_text": "Identify the odd one out: Circle, Square, Sphere, Triangle.",
+            "options": [
+                "Circle",
+                "Square",
+                "Sphere",
+                "Triangle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "All others are 2D shapes, while a sphere is a 3D object.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13902,
+            "question_text": "All cats like milk. Some pets are cats. Which is definitely true?",
+            "options": [
+                "All pets like milk",
+                "Some pets like milk",
+                "No cats are pets",
+                "Only cats like milk"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since some pets are cats and all cats like milk, it follows that some pets must like milk.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13903,
+            "question_text": "Choose the next shape: Line, Angle, Triangle, Square, ?",
+            "options": [
+                "Pentagon",
+                "Rectangle",
+                "Circle",
+                "Cube"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The sequence follows the increasing number of sides (2, 3, 4, 5).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13904,
+            "question_text": "If 'Books' are 'Paper', and 'Paper' is 'Wood', what are 'Books' made of?",
+            "options": [
+                "Paper",
+                "Wood",
+                "Plastic",
+                "Metal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Logic follows the substitution: Books = Paper = Wood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13905,
+            "question_text": "A is taller than B. C is taller than A. Who is the shortest?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ordering is C > A > B. B is at the bottom.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13906,
+            "question_text": "Complete: 100, 90, 81, 73, ?",
+            "options": [
+                "66",
+                "68",
+                "65",
+                "70"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Subtract 10, 9, 8, then 7. 73 - 7 = 66.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

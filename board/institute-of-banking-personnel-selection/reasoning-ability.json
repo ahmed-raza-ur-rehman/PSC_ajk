@@ -1,0 +1,123 @@
+{
+    "category": "Institute of Banking Personnel Selection",
+    "name": "Reasoning Ability",
+    "board": "institute-of-banking-personnel-selection",
+    "subject": "reasoning-ability",
+    "url": "/institute-of-banking-personnel-selection/reasoning-ability/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 9862,
+            "question_text": "If A is the brother of B, and B is the sister of C, how is A related to C?",
+            "options": [
+                "Brother",
+                "Sister",
+                "Father",
+                "Cousin"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since A is the brother of B and B is the sister of C, they are all siblings. Therefore, A is the brother of C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9863,
+            "question_text": "Complete the series: 2, 4, 8, 16, 32, ...",
+            "options": [
+                "48",
+                "64",
+                "40",
+                "36"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The series follows the pattern of multiplying the previous number by 2 (2x2=4, 4x2=8, 8x2=16, 16x2=32, 32x2=64).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9864,
+            "question_text": "If a man walks 5 km East, then turns right and walks 3 km, then turns right again and walks 5 km, how far is he from the starting point?",
+            "options": [
+                "3 km",
+                "5 km",
+                "8 km",
+                "13 km"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "He moves in a rectangular path. Since he moved 5 km East and then 5 km West, he is vertically aligned with the start, exactly 3 km away.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9865,
+            "question_text": "Look at this sequence: 7, 10, 8, 11, 9, 12, ... What number should come next?",
+            "options": [
+                "10",
+                "13",
+                "7",
+                "14"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The pattern involves adding 3 and then subtracting 2 (7+3=10, 10-2=8, 8+3=11, 11-2=9, 9+3=12, 12-2=10).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9866,
+            "question_text": "If 'FISH' is written as 'GHJI', how is 'BIRD' written?",
+            "options": [
+                "CJSE",
+                "CJTE",
+                "DISE",
+                "CISD"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted one position forward in the alphabet (F->G, I->H, S->J, H->I). Applying this to BIRD gives CJSE.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9867,
+            "question_text": "Find the odd one out among: Apple, Banana, Potato, Orange.",
+            "options": [
+                "Apple",
+                "Banana",
+                "Potato",
+                "Orange"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Potato is a vegetable that grows underground, while the others are fruits that grow on trees/plants.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9868,
+            "question_text": "Pointing to a photograph, a man says, 'I have no brothers or sisters, but that man's father is my father's son.' Whose photo is it?",
+            "options": [
+                "His father's",
+                "His own",
+                "His son's",
+                "His nephew's"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since he has no siblings, 'my father's son' is himself. The statement becomes 'that man's father is me', meaning the person in the photo is his son.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9876,
+            "question_text": "Which of the following is a sequence logic error?",
+            "options": [
+                "Logical progression",
+                "Consistent pattern",
+                "Random distribution",
+                "Incremental growth"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A sequence requires a logical pattern or progression; random distribution lacks this structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

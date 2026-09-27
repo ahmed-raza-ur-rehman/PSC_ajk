@@ -1,0 +1,389 @@
+{
+    "category": "NTS",
+    "name": "English Language",
+    "board": "nts",
+    "subject": "english-language",
+    "url": "/nts/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 27,
+    "questions": [
+        {
+            "id": 9525,
+            "question_text": "Choose the correct synonym for 'Benevolent'.",
+            "options": [
+                "Cruel",
+                "Kind",
+                "Angry",
+                "Selfish"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly; therefore, 'kind' is the best synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9526,
+            "question_text": "Identify the correct sentence structure.",
+            "options": [
+                "She go to school everyday.",
+                "She goes to school everyday.",
+                "She going to school everyday.",
+                "She gone to school everyday."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In the present simple tense, a third-person singular subject requires the verb to end in 's'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9527,
+            "question_text": "Which word is a synonym for 'Generous'?",
+            "options": [
+                "Benevolent",
+                "Cruel",
+                "Mean",
+                "Selfish"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Benevolent means well-meaning and kindly, which is synonymous with generous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9528,
+            "question_text": "Choose the correct sentence from the following options:",
+            "options": [
+                "He go to school every day.",
+                "He goes to school every day.",
+                "He going to school every day.",
+                "He gone to school every day."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subject-verb agreement requires 'goes' for the third-person singular pronoun 'He'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9529,
+            "question_text": "What is the antonym of 'Fragile'?",
+            "options": [
+                "Delicate",
+                "Weak",
+                "Robust",
+                "Brittle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Robust means strong and healthy, which is the opposite of fragile.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9530,
+            "question_text": "Select the correct spelling.",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling of the word is 'Accommodation' with double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9534,
+            "question_text": "Choose a word that has a similar meaning to 'Kindhearted'.",
+            "options": [
+                "Cruel",
+                "Charitable",
+                "Greedy",
+                "Hostile"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly; charitable is the closest synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9535,
+            "question_text": "Pick the sentence that uses correct grammar.",
+            "options": [
+                "She don't like apples.",
+                "He go to school daily.",
+                "They are playing football.",
+                "We has finished lunch."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This sentence correctly matches the plural pronoun 'They' with the verb 'are'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9536,
+            "question_text": "What is another word for 'Generous'?",
+            "options": [
+                "Selfish",
+                "Stingy",
+                "Liberal",
+                "Miserly"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Liberal in this context refers to being giving or open-handed, similar to generous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9778,
+            "question_text": "Which of these sentences is grammatically perfect?",
+            "options": [
+                "The cat drinked milk.",
+                "I have been to Paris once.",
+                "They was running fast.",
+                "She run to the park."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The present perfect tense 'have been' is used correctly here.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9779,
+            "question_text": "Select the opposite of the word 'Fragile'.",
+            "options": [
+                "Weak",
+                "Sturdy",
+                "Delicate",
+                "Brittle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fragile means easily broken, while sturdy means strongly built.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9780,
+            "question_text": "Which is the correctly spelled word?",
+            "options": [
+                "Recieve",
+                "Receive",
+                "Receeve",
+                "Resieve"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The standard spelling rule is 'i' before 'e' except after 'c'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9781,
+            "question_text": "Identify the synonym for 'Eloquent'.",
+            "options": [
+                "Inarticulate",
+                "Fluent",
+                "Confused",
+                "Silent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Eloquent means having the ability to speak clearly and effectively, similar to being fluent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12398,
+            "question_text": "Identify the synonym of 'Resilient'.",
+            "options": [
+                "Fragile",
+                "Adaptable",
+                "Stiff",
+                "Weak"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Resilient means able to withstand or recover quickly from difficult conditions, similar to being adaptable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12399,
+            "question_text": "Choose the correct sentence.",
+            "options": [
+                "He don't know the answer.",
+                "He doesn't know the answer.",
+                "He not know the answer.",
+                "He is not know the answer."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The third-person singular subject 'He' requires the auxiliary 'does not' (doesn't).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12400,
+            "question_text": "Choose the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Standard spelling includes double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12401,
+            "question_text": "Select the synonym of 'Abundant'.",
+            "options": [
+                "Scarce",
+                "Plentiful",
+                "Small",
+                "Expensive"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Abundant means existing or available in large quantities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12402,
+            "question_text": "Choose the correct preposition: He is interested ___ learning new languages.",
+            "options": [
+                "in",
+                "at",
+                "on",
+                "for"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The phrase 'interested in' is grammatically correct.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12403,
+            "question_text": "Antonym of 'Optimistic' is:",
+            "options": [
+                "Hopeful",
+                "Bright",
+                "Pessimistic",
+                "Cheerful"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Pessimistic describes a tendency to see the worst aspect of things.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12404,
+            "question_text": "Identify the part of speech of the word 'quickly' in 'She ran quickly'.",
+            "options": [
+                "Noun",
+                "Verb",
+                "Adjective",
+                "Adverb"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Quickly modifies the verb 'ran', making it an adverb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12405,
+            "question_text": "Choose the passive voice for: 'The chef cooked the meal.'",
+            "options": [
+                "The meal is cooked by the chef.",
+                "The meal was cooked by the chef.",
+                "The chef is cooking the meal.",
+                "The meal has been cooked by the chef."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The active past tense changes to passive past tense.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12406,
+            "question_text": "Complete the sentence: If it rains, we ___ the picnic.",
+            "options": [
+                "will cancel",
+                "would cancel",
+                "cancelled",
+                "have cancelled"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "First conditional: if + present simple, future simple.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12407,
+            "question_text": "What is the collective noun for a group of lions?",
+            "options": [
+                "Pack",
+                "Herd",
+                "Pride",
+                "School"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A group of lions is officially called a pride.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12408,
+            "question_text": "Select the correct sentence:",
+            "options": [
+                "He don't like apples.",
+                "He doesn't likes apples.",
+                "He doesn't like apples.",
+                "He do not like apples."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Third-person singular subject requires 'doesn't' followed by base form 'like'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12409,
+            "question_text": "Meaning of the idiom 'Break the ice'.",
+            "options": [
+                "To freeze something",
+                "To start a conversation",
+                "To break a window",
+                "To end a relationship"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To 'break the ice' means to initiate social interaction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12410,
+            "question_text": "Choose the word that is most nearly opposite in meaning to 'Fragile'.",
+            "options": [
+                "Delicate",
+                "Robust",
+                "Brittle",
+                "Weak"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fragile means easily broken, while robust means strong and sturdy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12411,
+            "question_text": "Complete the sentence: 'Neither the manager nor the employees ___ aware of the new policy.'",
+            "options": [
+                "is",
+                "was",
+                "are",
+                "were"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "When using 'neither/nor', the verb must agree with the closest subject (employees), which is plural.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

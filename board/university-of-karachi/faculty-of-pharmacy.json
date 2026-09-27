@@ -1,0 +1,109 @@
+{
+    "category": "University of Karachi",
+    "name": "Faculty of Pharmacy",
+    "board": "university-of-karachi",
+    "subject": "faculty-of-pharmacy",
+    "url": "/university-of-karachi/faculty-of-pharmacy/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 10601,
+            "question_text": "What is the primary function of the 'First Pass Effect' in pharmacology?",
+            "options": [
+                "Enhancement of drug absorption",
+                "Metabolism of drugs by the liver before reaching systemic circulation",
+                "Rapid excretion of drugs by the kidneys",
+                "Prevention of drug-receptor binding"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The first-pass effect refers to the reduction in concentration of a drug due to metabolism in the liver or gut wall before reaching the general circulation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10602,
+            "question_text": "Which dosage form is designed to release the active ingredient over an extended period of time?",
+            "options": [
+                "Immediate-release tablet",
+                "Sustained-release formulation",
+                "Oral solution",
+                "Sublingual tablet"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sustained-release formulations are specifically engineered to provide a steady release of medication over a prolonged duration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10603,
+            "question_text": "What does the term 'bioavailability' refer to in pharmacokinetics?",
+            "options": [
+                "The rate of drug elimination",
+                "The fraction of an administered dose that reaches systemic circulation",
+                "The drug's ability to bind to plasma proteins",
+                "The speed of drug metabolism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Bioavailability measures the extent and rate at which the active moiety of a drug enters systemic circulation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10604,
+            "question_text": "What is the primary objective of 'Pharmacovigilance'?",
+            "options": [
+                "Drug discovery",
+                "Monitoring drug safety and adverse effects",
+                "Determining the retail price of drugs",
+                "Packaging techniques"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pharmacovigilance is the pharmacological science relating to the detection, assessment, understanding, and prevention of adverse effects.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10605,
+            "question_text": "Which drug class is known as an 'ACE Inhibitor' used for hypertension?",
+            "options": [
+                "Lisinopril",
+                "Aspirin",
+                "Metformin",
+                "Amoxicillin"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Lisinopril belongs to the class of drugs known as Angiotensin-Converting Enzyme (ACE) inhibitors, used to treat high blood pressure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10606,
+            "question_text": "Which property of a drug molecule most influences its ability to cross the blood-brain barrier?",
+            "options": [
+                "Molecular weight",
+                "Lipophilicity",
+                "Water solubility",
+                "Protein binding"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Higher lipophilicity generally allows drug molecules to diffuse more easily across the lipid membranes of the blood-brain barrier.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10607,
+            "question_text": "What is the therapeutic index of a drug a measure of?",
+            "options": [
+                "Potency",
+                "Efficacy",
+                "Safety margin",
+                "Half-life"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The therapeutic index is the ratio between the toxic dose and the effective dose, serving as an indicator of drug safety.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

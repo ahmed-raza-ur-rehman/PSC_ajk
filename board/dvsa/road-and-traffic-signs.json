@@ -1,0 +1,95 @@
+{
+    "category": "DVSA",
+    "name": "Road and Traffic Signs",
+    "board": "dvsa",
+    "subject": "road-and-traffic-signs",
+    "url": "/dvsa/road-and-traffic-signs/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 6,
+    "questions": [
+        {
+            "id": 6880,
+            "question_text": "What shape are most warning signs on the road?",
+            "options": [
+                "Circular",
+                "Triangular",
+                "Rectangular",
+                "Octagonal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Triangular signs are used to give warning of potential hazards or changes in road conditions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6881,
+            "question_text": "What is the standard shape of most warning signs found on the road?",
+            "options": [
+                "Circular",
+                "Rectangular",
+                "Triangular",
+                "Octagonal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Warning signs are generally triangular in shape with a red border to draw attention to potential hazards ahead.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8439,
+            "question_text": "What does a circular sign with a red border mean?",
+            "options": [
+                "It gives information",
+                "It is a warning",
+                "It is a prohibition/instruction",
+                "It shows road works"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Circular signs with red borders are regulatory and usually tell you what you must not do.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8440,
+            "question_text": "What is the meaning of a circular sign with a red border?",
+            "options": [
+                "It is giving you an instruction",
+                "It is warning you of a hazard",
+                "It is providing information about the road",
+                "It is showing a mandatory route"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Circular signs with red borders are generally prohibitive and tell you what you must not do.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8441,
+            "question_text": "What is the standard meaning of a circular sign that has a red border?",
+            "options": [
+                "It is a warning sign",
+                "It gives a mandatory instruction or prohibition",
+                "It provides travel information",
+                "It indicates an upcoming route change"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Red-bordered circles indicate things you must not do, such as 'No Entry' or speed limits.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8442,
+            "question_text": "What does a triangular warning sign with a white background represent?",
+            "options": [
+                "A mandatory command",
+                "An upcoming hazard",
+                "A road direction",
+                "A parking area"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Triangular signs are used to warn drivers of potential dangers or changes in the road ahead.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

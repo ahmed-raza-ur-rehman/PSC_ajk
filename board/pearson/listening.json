@@ -1,0 +1,193 @@
+{
+    "category": "Pearson",
+    "name": "Listening",
+    "board": "pearson",
+    "subject": "listening",
+    "url": "/pearson/listening/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 10145,
+            "question_text": "How are results for PTE tests typically delivered?",
+            "options": [
+                "Via postal mail within two weeks.",
+                "Typically within 48 hours of taking the test.",
+                "At the end of the exam at the test center.",
+                "After a 10-day manual review process."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Most test takers receive their score reports within two business days, thanks to the automated AI scoring system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10146,
+            "question_text": "What is a main advantage of using AI for scoring the Listening section?",
+            "options": [
+                "It allows test takers to listen to the audio as many times as they want.",
+                "It ensures fast, accurate, and unbiased results.",
+                "It makes the test significantly longer.",
+                "It requires the test taker to grade their own responses."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The use of AI-powered scoring, trained by experts, provides consistent and unbiased results without the delays associated with human marking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10147,
+            "question_text": "In the PTE Academic format, how many question types are included in the Listening section?",
+            "options": [
+                "3",
+                "5",
+                "8",
+                "12"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The official test structure for PTE Academic indicates that the Listening section consists of 8 different question types.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10148,
+            "question_text": "How many question types are found in the Listening section?",
+            "options": [
+                "5",
+                "7",
+                "8",
+                "9"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The PTE Academic Listening section contains 8 different question types.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10149,
+            "question_text": "What is a major advantage of using AI for scoring?",
+            "options": [
+                "It is cheaper for the test maker",
+                "It is less biased than human grading",
+                "It allows for longer tests",
+                "It requires human interaction"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "AI scoring reduces the risk of human error or prejudice, resulting in fairer testing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10150,
+            "question_text": "What is the typical duration for the Listening section?",
+            "options": [
+                "15-20 minutes",
+                "31-39 minutes",
+                "45-50 minutes",
+                "60+ minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Listening section in the PTE Academic test usually lasts between 31 and 39 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10151,
+            "question_text": "When are you notified of your test results?",
+            "options": [
+                "By a phone call",
+                "By mail",
+                "By email",
+                "You have to check the website manually"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "You are notified via email when your scores are available to view in your myPTE account.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10152,
+            "question_text": "What is the scale of the Global Scale of English (GSE) used in PTE?",
+            "options": [
+                "1-10",
+                "1-50",
+                "10-90",
+                "0-100"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "PTE Academic uses the Global Scale of English ranging from 10 to 90.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10153,
+            "question_text": "What is a unique reference number (URN) used for?",
+            "options": [
+                "To book the test",
+                "To verify results for UK visa applications",
+                "To get a discount on the exam",
+                "To login to your computer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The URN is essential for the UK Home Office to verify your test results during the visa application process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10154,
+            "question_text": "How many seats are typically in a test center room?",
+            "options": [
+                "Up to 5",
+                "Up to 15",
+                "Up to 50",
+                "Up to 100"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTE test centers are designed to be small, with no more than 15 seats per room.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10155,
+            "question_text": "What does a 'pass/fail' result mean for PTE Home tests?",
+            "options": [
+                "You only get a grade if you fail",
+                "It measures basic proficiency rather than a score",
+                "You can only take it once",
+                "It is easier than Academic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTE Home tests are specifically designed for visa requirements where a basic pass or fail at a certain level is needed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10156,
+            "question_text": "What is the best way to prepare for the test format?",
+            "options": [
+                "Read a novel",
+                "Get familiar with the test format and use official practice tools",
+                "Watch movies only",
+                "Do nothing and hope for the best"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Official materials provide the most accurate representation of the test's structure and scoring criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10157,
+            "question_text": "Can you reschedule your exam for free if done early enough?",
+            "options": [
+                "No, never",
+                "Yes, if done 14 or more days before the test",
+                "Yes, if done within 24 hours of the test",
+                "Only if you have a medical certificate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTE allows free rescheduling up to 14 days before the test date.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

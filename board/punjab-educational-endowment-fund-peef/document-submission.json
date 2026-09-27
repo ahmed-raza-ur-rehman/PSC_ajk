@@ -1,0 +1,179 @@
+{
+    "category": "Punjab Educational Endowment Fund (PEEF)",
+    "name": "Document Submission",
+    "board": "punjab-educational-endowment-fund-peef",
+    "subject": "document-submission",
+    "url": "/punjab-educational-endowment-fund-peef/document-submission/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 11152,
+            "question_text": "What happens if an applicant submits an incomplete application package to PEEF?",
+            "options": [
+                "It is processed normally",
+                "It is automatically disqualified",
+                "The student is given an indefinite time to complete it",
+                "The fund asks for an additional fee to process it"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Incomplete applications fail to provide the necessary information for a fair assessment, and PEEF strict submission guidelines generally lead to disqualification for missing documents.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11153,
+            "question_text": "Which of the following is a mandatory step during the document submission process?",
+            "options": [
+                "Attesting documents from a Notary Public",
+                "Submitting all copies in a specific file folder",
+                "Signing the application form as the applicant/guardian",
+                "Providing a digital video of family assets"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A signed application serves as a legal declaration that all provided information is accurate and true to the best of the applicant's knowledge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11154,
+            "question_text": "What is the primary risk associated with failing to submit the application before the specified deadline?",
+            "options": [
+                "The applicant is given a one-week grace period",
+                "The application is rejected without review",
+                "The application is marked as 'low priority'",
+                "The application fee is refunded"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Adherence to deadlines is a strict administrative rule; late submissions are generally not accepted for fair and timely processing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11155,
+            "question_text": "What should an applicant do if they discover they have uploaded a wrong file during an online submission process?",
+            "options": [
+                "Email the PEEF helpdesk immediately with the correct document",
+                "Submit a new application from scratch",
+                "Ignore the mistake as it will be caught later",
+                "Wait for the physical interview to explain"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Proactive communication with the helpdesk allows the administrative team to rectify errors before the evaluation phase begins.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11156,
+            "question_text": "Why is the 'Affidavit/Undertaking' document signed by the student and the parent?",
+            "options": [
+                "To agree to the terms and conditions regarding the scholarship, including potential repayment if conditions are breached",
+                "To confirm they have read the university prospectus",
+                "To prove they have an internet connection",
+                "To authorize the release of the student's personal photos"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This legal document ensures that both the student and the parent/guardian are aware of and committed to the rules stipulated by the PEEF.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11157,
+            "question_text": "In the context of document submission, what is the role of an 'Attested Copy'?",
+            "options": [
+                "It confirms that the photocopy is a true representation of the original document",
+                "It acts as a substitute for an original degree",
+                "It is used only for international applicants",
+                "It serves as a receipt for the application fee"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Attestation by a gazetted officer is a verification step that ensures the provided copies are not altered versions of the original records.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11158,
+            "question_text": "Which method is the most reliable way to confirm that your PEEF application has been successfully submitted?",
+            "options": [
+                "Receiving a system-generated acknowledgement receipt/email",
+                "Calling a random university office",
+                "Checking with a peer who also applied",
+                "Waiting for a phone call from the provincial government"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A system-generated confirmation is the standard and official proof that an application has been received into the database.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11159,
+            "question_text": "Why is it mandatory for an applicant to provide attested copies of their documents?",
+            "options": [
+                "To make the paperwork look official.",
+                "To ensure a third party has verified the copy matches the original document.",
+                "To prevent the student from changing the grades on the document.",
+                "To increase the processing time for the administration."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Attestation by a gazetted officer confirms the validity of the copy against the original document.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11160,
+            "question_text": "What is the consequence of submitting an application after the publicized deadline?",
+            "options": [
+                "The application is automatically rejected.",
+                "A late fee of 500 PKR is charged.",
+                "The application is processed in the next phase.",
+                "The student receives a 10% deduction in marks."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Deadlines are strictly enforced in competitive scholarship programs; late submissions are generally not considered.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11161,
+            "question_text": "What should be attached to the application if the applicant is a special needs student?",
+            "options": [
+                "A letter from their friends.",
+                "A verified Disability Certificate from a government hospital.",
+                "A photo of their medical equipment.",
+                "A certificate of good conduct."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Special quotas require official government-issued verification to ensure the applicant meets the specific eligibility requirements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11162,
+            "question_text": "What is the purpose of the 'Undertaking' signed by both the student and their parent?",
+            "options": [
+                "It is a legal agreement to follow PEEF rules and regulations.",
+                "It confirms the parent's income is accurate.",
+                "It acts as a receipt for the application fee.",
+                "It serves as a letter of recommendation for the student."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The undertaking is a formal commitment to abide by the PEEF terms, including maintaining academic and conduct standards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11163,
+            "question_text": "If an online submission portal allows for file uploads, what is the standard format required to ensure clarity?",
+            "options": [
+                "A blurry screenshot of the document.",
+                "A high-resolution PDF scan of the original document.",
+                "A text-based description of the document.",
+                "A low-quality JPEG image."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Clear, high-quality digital copies are essential for the verification team to read the details accurately.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

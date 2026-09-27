@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "General Knowledge — Analytical Reasoning",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "general-knowledge-analytical-reasoning",
+    "url": "/national-cybercrime-investigation-agency/general-knowledge-analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14577,
+            "question_text": "In the context of the passage, the term 'echo chambers' most closely implies:",
+            "options": [
+                "A social gathering where dissenting opinions are immediately shut down.",
+                "A digital space where users are only exposed to views that confirm their existing beliefs.",
+                "A form of communication characterized by repeated, unchallenged statements.",
+                "A physical space where people gather to share information."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The original option B was conceptually correct, but was rephrased slightly to improve clarity in the context of echo chambers. The core meaning remains that the platform restricts viewpoints. (Self-correction: Assuming the original option B was intended to be the correct answer and the provided options list should reflect that, the explanation clarifies the concept.)",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

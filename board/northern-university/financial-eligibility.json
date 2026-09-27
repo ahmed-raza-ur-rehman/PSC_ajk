@@ -1,0 +1,207 @@
+{
+    "category": "Northern University",
+    "name": "Financial Eligibility",
+    "board": "northern-university",
+    "subject": "financial-eligibility",
+    "url": "/northern-university/financial-eligibility/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 11331,
+            "question_text": "What is the primary indicator used by Northern University to determine need-based scholarship eligibility?",
+            "options": [
+                "Student's extracurricular achievements",
+                "Family's Expected Family Contribution (EFC) or adjusted gross income",
+                "Total number of siblings in private school",
+                "Distance of residence from campus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Need-based scholarships are specifically designed to bridge the gap between educational costs and a family's proven financial capacity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11332,
+            "question_text": "If a student’s family experiences a significant, unforeseen change in financial status after filing tax returns, what is the recommended procedure?",
+            "options": [
+                "Submit a financial aid appeal letter with supporting documentation",
+                "Wait for the next fiscal year to reapply",
+                "Ignore the change, as tax returns are final",
+                "Apply for a private student loan instead"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Universities provide a process for 'professional judgment' or appeals when current financial circumstances differ significantly from prior-year tax data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11333,
+            "question_text": "What is the primary formula used to calculate a student's demonstrated financial need at Northern University?",
+            "options": [
+                "Total Assets minus Annual Savings",
+                "Cost of Attendance minus Expected Family Contribution",
+                "Total Household Income minus Taxes Paid",
+                "Gross Revenue minus University Endowment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Financial need is universally calculated as the difference between the school's total cost and the amount the family is expected to contribute based on their financial data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11334,
+            "question_text": "Which of the following assets is typically considered a non-liquid asset for the purpose of need-based aid assessment?",
+            "options": [
+                "Checking account balance",
+                "Real estate equity",
+                "Cash on hand",
+                "Savings account balance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Liquid assets are cash or equivalents; real estate equity represents the value of property owned, which is not immediately available as cash but is considered an asset.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11335,
+            "question_text": "When calculating dependency status, which individual's income is NOT included in the financial assessment for a dependent student?",
+            "options": [
+                "Biological parent",
+                "Step-parent",
+                "Legal guardian",
+                "Non-custodial extended relative"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Standard financial aid formulas prioritize the custodial parents or legal guardians; aunts, uncles, or grandparents are generally excluded unless they are the legal guardians.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11336,
+            "question_text": "How does Northern University treat tax-deferred retirement accounts during the financial aid eligibility review?",
+            "options": [
+                "They are counted as fully liquid assets",
+                "They are excluded from the asset calculation",
+                "They are taxed at a 50% rate",
+                "They must be liquidated before eligibility is determined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Retirement accounts such as 401(k)s and IRAs are generally protected and not counted as available assets for paying tuition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11337,
+            "question_text": "What does a 'Professional Judgment' request entail regarding financial eligibility?",
+            "options": [
+                "A request to raise the student's GPA requirement",
+                "A formal appeal due to special circumstances not reflected in initial tax data",
+                "An application for a merit-based supplement",
+                "A request to waive the need for tax forms"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Professional Judgment allows financial aid officers to adjust data fields based on documented financial hardships not captured by standard tax returns.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11338,
+            "question_text": "Which of the following is considered an 'untaxed income' source that must be reported on the financial aid application for Northern University?",
+            "options": [
+                "Child support received",
+                "Federal income tax refunds",
+                "Student loan disbursements",
+                "Educational savings account distributions"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Child support received is classified as untaxed income that directly impacts the household's available financial resources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11339,
+            "question_text": "How does Northern University handle capital losses when calculating adjusted gross income (AGI) for scholarship purposes?",
+            "options": [
+                "Capital losses are added back to the AGI",
+                "Capital losses are ignored entirely",
+                "Capital losses are capped at a $3,000 deduction",
+                "Capital losses are treated as non-liquid assets"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "To ensure an accurate reflection of disposable income, Northern University adds back capital losses to prevent them from artificially lowering the AGI.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11340,
+            "question_text": "In the context of need-based aid, what is the 'Asset Protection Allowance'?",
+            "options": [
+                "The maximum amount of debt a family can hold",
+                "A portion of net worth that is excluded from the expected family contribution calculation",
+                "The amount of scholarship money exempt from taxes",
+                "A legal buffer protecting assets from bankruptcy proceedings"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This allowance protects a certain amount of family savings and assets from being counted toward the student's expected contribution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11341,
+            "question_text": "If a student’s parent is a business owner, how is the business value assessed for need-based eligibility?",
+            "options": [
+                "Only the market value of the business building is counted",
+                "The net value of the business is included as an asset",
+                "Business value is always excluded",
+                "Only the business inventory is included"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Northern University requires the inclusion of the net value (assets minus liabilities) of business holdings as part of the total family asset assessment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11342,
+            "question_text": "What is the primary purpose of the 'Income Exclusion' in Northern University's financial aid formula?",
+            "options": [
+                "To remove state taxes from the AGI",
+                "To account for basic living costs and standard deductions",
+                "To hide assets from the government",
+                "To prioritize students with private loans"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Income Exclusion is designed to ensure that the family's basic subsistence requirements are not counted as 'available' funds for tuition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11343,
+            "question_text": "How does Northern University define a 'household member' for the purpose of financial aid dependency?",
+            "options": [
+                "Any person living in the same neighborhood",
+                "Anyone who receives more than 50% of their financial support from the parents",
+                "Only legal siblings under the age of 21",
+                "Any relative who has lived with the family for at least 10 years"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 50% support rule is the standard metric for determining who qualifies as a member of the household for financial aid calculation purposes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11344,
+            "question_text": "If a student has a 529 College Savings Plan owned by a grandparent, how is it handled in the aid formula?",
+            "options": [
+                "It is counted as a student asset",
+                "It is counted as a parent asset",
+                "It is excluded from the assets reported",
+                "It automatically disqualifies the student"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Assets held in a grandparent-owned 529 plan are generally not reported on the initial aid application, though withdrawals may affect future aid years.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

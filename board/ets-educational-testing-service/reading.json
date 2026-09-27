@@ -1,0 +1,207 @@
+{
+    "category": "ETS (Educational Testing Service)",
+    "name": "Reading",
+    "board": "ets-educational-testing-service",
+    "subject": "reading",
+    "url": "/ets-educational-testing-service/reading/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 9370,
+            "question_text": "What is the primary way that TOEFL iBT scores help students?",
+            "options": [
+                "They guarantee admission to any chosen university.",
+                "They provide confidence for pursuing global opportunities.",
+                "They replace the need for academic coursework.",
+                "They offer free travel to study destinations."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text states that TOEFL iBT scores give students the confidence to pursue opportunities anywhere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9371,
+            "question_text": "Which of the following is true about the acceptance of TOEFL iBT scores?",
+            "options": [
+                "They are accepted by 13,000+ institutions in over 160 countries.",
+                "They are accepted only by universities in the United States.",
+                "They are only accepted by a few select institutions.",
+                "They are not widely recognized by global universities."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Multiple sections of the provided text confirm that the test is recognized by over 13,000 institutions across more than 160 countries.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9372,
+            "question_text": "What does the TOEFL iBT Reading section measure?",
+            "options": [
+                "The ability to speak fluently in a classroom.",
+                "The ability to write complex academic essays.",
+                "Academic skills including understanding passages and vocabulary.",
+                "The ability to listen to announcements and summarize them."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to the test structure, the Reading section involves tasks like completing words, reading in daily life, and reading academic passages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9373,
+            "question_text": "What is the primary purpose of the Reading section of the TOEFL iBT?",
+            "options": [
+                "To test your ability to understand complex academic texts",
+                "To measure how fast you can read aloud",
+                "To evaluate your vocabulary in everyday conversations",
+                "To see how well you can write a summary of a news article"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Reading section is specifically designed to assess English skills used in university-level research and coursework.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9374,
+            "question_text": "Which of the following is NOT a focus of the Reading section?",
+            "options": [
+                "Analyzing academic passages",
+                "Completing sentences with the correct words",
+                "Reading materials related to daily life",
+                "Listening to lectures for detailed information"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Listening to lectures is a component of the Listening section, not the Reading section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9375,
+            "question_text": "What does a 'Complete the Words' task in the Reading section require?",
+            "options": [
+                "Writing a full essay based on a single word",
+                "Filling in missing information in a text",
+                "Listening to a recording and transcribing it",
+                "Speaking about a word's definition"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This task tests your understanding of context and vocabulary by asking you to fill in appropriate words within a reading passage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9376,
+            "question_text": "How many Reading tasks should a student expect on the test?",
+            "options": [
+                "Exactly 10",
+                "Approximately 50",
+                "Over 100",
+                "None"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test specifications indicate approximately 50 items for the Reading section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9377,
+            "question_text": "Why are academic passages included in the Reading section?",
+            "options": [
+                "To confuse students with difficult topics",
+                "To measure skills required for college-level study",
+                "To entertain the reader with fiction",
+                "To test how well students can ignore text"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test aims to replicate real academic environments, so academic passages help universities assess if a student can handle their coursework.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9378,
+            "question_text": "What is the primary function of the TOEFL iBT Reading section?",
+            "options": [
+                "To test your creative writing skills",
+                "To assess how well you understand academic English passages",
+                "To measure your ability to speak with native speakers",
+                "To evaluate your knowledge of current events"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Reading section is specifically designed to measure academic English reading comprehension skills as they are used in college classrooms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9379,
+            "question_text": "What does a 'Complete the Words' task require you to do?",
+            "options": [
+                "Translate words into your native language",
+                "Select the correct words to finish a sentence or passage",
+                "Write an essay based on a list of words",
+                "Pronounce words clearly into a microphone"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'Complete the Words' task focuses on reading context to identify appropriate word choices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9380,
+            "question_text": "Why are academic-style passages used in this section?",
+            "options": [
+                "Because they are easier to read than novels",
+                "To simulate the type of reading material you will encounter in university courses",
+                "To test your historical knowledge of various topics",
+                "To encourage you to write your own academic articles"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Academic passages ensure the test accurately reflects the real-world English skills needed for university-level coursework.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9381,
+            "question_text": "What is NOT a primary objective of the Reading section?",
+            "options": [
+                "Assessing vocabulary knowledge in context",
+                "Evaluating understanding of main ideas",
+                "Testing your ability to interpret complex academic text",
+                "Measuring your speed in typing long sentences"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Typing speed is not a measured skill in the Reading section, which focuses on comprehension.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9382,
+            "question_text": "How many items should a test taker generally expect in the Reading section?",
+            "options": [
+                "10",
+                "50",
+                "100",
+                "200"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test specifications indicate there are 50 items in the Reading section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9383,
+            "question_text": "If you skip all questions in the Reading section, what happens?",
+            "options": [
+                "The section is ignored, but other sections are scored",
+                "You receive a low but passing score",
+                "The entire test is not scored",
+                "You are given extra time at the end"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "You must complete at least one question in each section for the test to be valid and scored.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,347 @@
+{
+    "category": "National Excellence Institute",
+    "name": "General Knowledge",
+    "board": "national-excellence-institute",
+    "subject": "general-knowledge",
+    "url": "/national-excellence-institute/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 24,
+    "questions": [
+        {
+            "id": 13051,
+            "question_text": "What is the currency of Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Ringgit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Yen is the official currency of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13052,
+            "question_text": "Who painted the Mona Lisa?",
+            "options": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Claude Monet"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Mona Lisa is a masterpiece by Leonardo da Vinci.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13053,
+            "question_text": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "Gold",
+                "Osmium",
+                "Oxygen",
+                "Silver"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Oxygen is represented by the symbol O.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13401,
+            "question_text": "Which international organization is headquartered in Geneva, Switzerland?",
+            "options": [
+                "United Nations",
+                "World Trade Organization",
+                "World Bank",
+                "International Monetary Fund"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The World Trade Organization (WTO) is headquartered in Geneva.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13402,
+            "question_text": "Who is considered the 'Father of Economics'?",
+            "options": [
+                "John Maynard Keynes",
+                "Karl Marx",
+                "Adam Smith",
+                "Milton Friedman"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Adam Smith wrote 'The Wealth of Nations' and is widely regarded as the father of modern economics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13403,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars appears red due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13404,
+            "question_text": "In which continent is the Sahara Desert located?",
+            "options": [
+                "Asia",
+                "Africa",
+                "South America",
+                "Australia"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Sahara is the world's largest hot desert and is in Northern Africa.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13405,
+            "question_text": "Which gas do plants primarily absorb from the atmosphere for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plants use carbon dioxide, water, and sunlight to create energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13406,
+            "question_text": "Which country is known as the 'Land of the Rising Sun'?",
+            "options": [
+                "China",
+                "South Korea",
+                "Japan",
+                "Thailand"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Japan is referred to as the Land of the Rising Sun due to its eastern position.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13407,
+            "question_text": "What is the primary function of the United Nations?",
+            "options": [
+                "To promote global trade",
+                "To maintain international peace and security",
+                "To regulate global stock markets",
+                "To provide internet access"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The UN was founded to promote cooperation and prevent conflicts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13408,
+            "question_text": "Which organ in the human body is primarily responsible for filtering blood?",
+            "options": [
+                "Liver",
+                "Heart",
+                "Kidney",
+                "Lungs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The kidneys filter blood to remove waste and excess water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13409,
+            "question_text": "What is the hardest natural substance on Earth?",
+            "options": [
+                "Gold",
+                "Iron",
+                "Diamond",
+                "Graphite"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Diamond is the hardest known natural mineral.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14066,
+            "question_text": "Which organization is responsible for regulating international trade?",
+            "options": [
+                "World Bank",
+                "World Trade Organization (WTO)",
+                "International Monetary Fund (IMF)",
+                "United Nations"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The WTO is the only global international organization dealing with the rules of trade between nations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14067,
+            "question_text": "What is the primary function of a central bank?",
+            "options": [
+                "To provide loans to private individuals",
+                "To manage a country's currency, money supply, and interest rates",
+                "To regulate the stock market exclusively",
+                "To oversee international shipping logistics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Central banks, like the Federal Reserve or the ECB, are responsible for monetary policy, inflation control, and currency stability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14069,
+            "question_text": "Who is the author of 'The Wealth of Nations'?",
+            "options": [
+                "John Maynard Keynes",
+                "Adam Smith",
+                "Karl Marx",
+                "Milton Friedman"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Adam Smith is considered the father of modern economics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14071,
+            "question_text": "Which gas do plants absorb from the atmosphere?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plants require carbon dioxide for the process of photosynthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14072,
+            "question_text": "Which continent is the largest by land area?",
+            "options": [
+                "Africa",
+                "North America",
+                "Asia",
+                "Antarctica"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Asia is the largest continent in both land area and population.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14073,
+            "question_text": "What does GDP stand for?",
+            "options": [
+                "Gross Domestic Product",
+                "Global Development Program",
+                "General Data Policy",
+                "Gross Daily Profit"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "GDP is the total market value of all finished goods and services produced within a country.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14074,
+            "question_text": "Which organization is a military alliance?",
+            "options": [
+                "UN",
+                "NATO",
+                "WHO",
+                "WTO"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "NATO (North Atlantic Treaty Organization) is an intergovernmental military alliance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14075,
+            "question_text": "Who is known as the father of computer science?",
+            "options": [
+                "Bill Gates",
+                "Alan Turing",
+                "Steve Jobs",
+                "Charles Babbage"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Alan Turing provided the formalization of the concepts of algorithm and computation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14076,
+            "question_text": "Which element is the most abundant in the Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Hydrogen",
+                "Nitrogen",
+                "Argon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14077,
+            "question_text": "What is the capital city of Canada?",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Montreal",
+                "Ottawa"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Ottawa is the capital of Canada.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14078,
+            "question_text": "What is the main purpose of an IPO?",
+            "options": [
+                "To buy back shares",
+                "To raise capital from the public",
+                "To declare bankruptcy",
+                "To merge with another company"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Initial Public Offering (IPO) allows a company to raise funds by selling shares to the public.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14079,
+            "question_text": "Which international agreement is primarily concerned with reducing global greenhouse gas emissions?",
+            "options": [
+                "The Basel Convention",
+                "The Paris Agreement",
+                "The Geneva Protocol",
+                "The Treaty of Rome"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Paris Agreement is a legally binding international treaty on climate change adopted in 2015 to limit global warming.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

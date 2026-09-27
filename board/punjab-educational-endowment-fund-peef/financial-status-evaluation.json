@@ -1,0 +1,193 @@
+{
+    "category": "Punjab Educational Endowment Fund (PEEF)",
+    "name": "Financial Status Evaluation",
+    "board": "punjab-educational-endowment-fund-peef",
+    "subject": "financial-status-evaluation",
+    "url": "/punjab-educational-endowment-fund-peef/financial-status-evaluation/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 11127,
+            "question_text": "Which document is considered the most critical evidence of financial status for a PEEF scholarship applicant?",
+            "options": [
+                "A personal letter from a friend",
+                "A copy of the family's utility bills",
+                "An income certificate verified by a competent authority",
+                "A statement of future expected earnings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An income certificate issued by a government official (like a Tehsildar or Magistrate) provides the legal proof of a family's income bracket required for need-based evaluation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11128,
+            "question_text": "In the context of PEEF financial evaluation, what is the significance of the monthly income threshold?",
+            "options": [
+                "It is used to rank students by wealth",
+                "It determines eligibility for need-based scholarships",
+                "It is only applicable to private university students",
+                "It is a suggestion rather than a requirement"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF mandates that the applicant's family income must not exceed the defined monthly threshold to be categorized as 'deserving' for financial aid.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11129,
+            "question_text": "Which document is considered essential to verify the parental income for a government employee applicant?",
+            "options": [
+                "A personal statement signed by the student",
+                "An official salary slip issued by the employer",
+                "A bank statement showing personal savings",
+                "An electricity bill copy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Salary slips provide verifiable proof of regular income, which is necessary to determine if the applicant falls within the PEEF poverty threshold.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11130,
+            "question_text": "What is the purpose of the 'Income Affidavit' required for students whose parents are self-employed or daily wage earners?",
+            "options": [
+                "To serve as a legal declaration of total household monthly income",
+                "To track the parents' employment history",
+                "To record the assets of the family",
+                "To provide insurance for the student"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since daily wage earners do not have official salary slips, a notarized affidavit serves as a formal, legal declaration of their financial standing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11131,
+            "question_text": "Why are utility bills (electricity, gas, water) requested during the financial evaluation?",
+            "options": [
+                "To verify the household's average monthly consumption as a proxy for lifestyle/financial status",
+                "To check if the applicant lives in a government-subsidized house",
+                "To confirm the address is within the province of Punjab",
+                "To ensure the applicant has an internet connection"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Utility costs are often used to gauge the economic status of an applicant’s household as a cross-verification tool for stated income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11132,
+            "question_text": "If a family owns agricultural land, how is this factor generally incorporated into the PEEF financial evaluation?",
+            "options": [
+                "It is excluded from the evaluation",
+                "It is converted into an estimated annual income component",
+                "It automatically disqualifies the student",
+                "It is only considered if the land is mortgaged"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Agricultural output represents income, and PEEF policies require estimating the value or profit from such assets to determine true financial need.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11133,
+            "question_text": "What happens if the financial information provided by the applicant is found to be false during post-award verification?",
+            "options": [
+                "The student is fined",
+                "The scholarship is cancelled and the student may be required to refund the amount",
+                "The student receives a warning",
+                "The student is required to do community service"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fraudulent documentation constitutes a breach of the scholarship contract, leading to immediate termination and potential recovery of funds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11134,
+            "question_text": "How are dependents (siblings) of the head of the household accounted for in the financial evaluation?",
+            "options": [
+                "They increase the calculated financial need threshold",
+                "They decrease the eligibility score",
+                "They have no impact on the evaluation",
+                "They must also be enrolled in the same university"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Larger families with more dependents have higher living expenses, which is a factor that increases the overall assessment of financial need.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11135,
+            "question_text": "Which of the following is considered 'fixed income' during PEEF financial evaluation?",
+            "options": [
+                "Monthly salary of a government employee",
+                "Profit from a seasonal vegetable crop",
+                "Irregular daily wages of a laborer",
+                "Gifts received from relatives"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Fixed income refers to verifiable and consistent monthly earnings, such as a salary, which is easy to document via salary slips.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11136,
+            "question_text": "What is the primary purpose of the 'Income Affidavit' on stamp paper?",
+            "options": [
+                "To confirm the student's residential address.",
+                "To legally declare the household income of non-salaried individuals.",
+                "To pledge that the student will study abroad.",
+                "To guarantee the student's future employment."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since daily wagers lack formal salary slips, an affidavit provides a legally binding statement of their actual earnings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11137,
+            "question_text": "Why does PEEF request recent utility bills during financial evaluation?",
+            "options": [
+                "To track the family's location.",
+                "To cross-verify the lifestyle and consumption patterns against declared income.",
+                "To ensure the family pays their taxes on time.",
+                "To calculate the student's transportation costs."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Extremely high utility bills can be a red flag that the household income might be higher than what was declared.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11138,
+            "question_text": "How are pension benefits treated in the PEEF financial assessment?",
+            "options": [
+                "They are excluded from the total income calculation.",
+                "They are counted as part of the total monthly household income.",
+                "They are only counted if the pensioner is still alive.",
+                "They are halved before being added to the income total."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pension is a consistent source of financial support and is therefore included in the total monthly income assessment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11139,
+            "question_text": "What does 'Dependency Ratio' refer to in the context of PEEF financial evaluation?",
+            "options": [
+                "The number of scholarships a family has received.",
+                "The number of children attending private schools.",
+                "The number of non-earning household members dependent on the total income.",
+                "The ratio of the student's age to their grade level."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This metric helps PEEF understand the per-capita financial burden on the household head.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

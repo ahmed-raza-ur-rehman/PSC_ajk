@@ -1,0 +1,151 @@
+{
+    "category": "ScholarBee",
+    "name": "Accounting and Finance",
+    "board": "scholarbee",
+    "subject": "accounting-and-finance",
+    "url": "/scholarbee/accounting-and-finance/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12897,
+            "question_text": "Which financial statement provides a snapshot of a company's financial position at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Balance Sheet",
+                "Statement of Cash Flows",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A balance sheet lists assets, liabilities, and equity at a single specific date, representing the company's financial health.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12898,
+            "question_text": "What is the primary purpose of 'double-entry bookkeeping'?",
+            "options": [
+                "To track tax liabilities twice",
+                "To ensure that every transaction affects at least two accounts to maintain the accounting equation",
+                "To prevent theft by employees",
+                "To double the profit reporting"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Double-entry accounting requires that for every debit, there is an equal credit, keeping the equation Assets = Liabilities + Equity in balance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12899,
+            "question_text": "Which ratio measures a company's ability to pay off its short-term liabilities with its current assets?",
+            "options": [
+                "Debt-to-Equity Ratio",
+                "Current Ratio",
+                "Return on Investment",
+                "Inventory Turnover"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The current ratio (Current Assets / Current Liabilities) is a liquidity ratio that measures a company's capacity to pay short-term obligations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12900,
+            "question_text": "In accrual accounting, when is revenue recorded?",
+            "options": [
+                "When the cash is physically received",
+                "When the invoice is prepared",
+                "When the service or product is delivered regardless of cash payment",
+                "At the end of the fiscal year"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Under the accrual basis, revenue is recognized in the period in which it is earned, not necessarily when cash is collected.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12901,
+            "question_text": "What does the 'Net Present Value' (NPV) technique primarily evaluate?",
+            "options": [
+                "The total cost of production",
+                "The profitability of an investment by discounting future cash flows",
+                "The depreciation of physical assets",
+                "The market share of a company"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "NPV calculates the current value of future cash inflows minus the initial investment, helping determine if a project is financially viable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12902,
+            "question_text": "Which component of the capital structure refers to the cost of borrowing money from creditors?",
+            "options": [
+                "Common Equity",
+                "Retained Earnings",
+                "Debt Capital",
+                "Preferred Stock"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Debt capital involves borrowed funds that must be repaid with interest, distinguishing it from equity sources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12903,
+            "question_text": "What is the primary objective of a 'Capital Budget'?",
+            "options": [
+                "To track daily office supplies expenses",
+                "To plan and manage long-term investments in major assets",
+                "To reconcile bank statements",
+                "To calculate employee salaries"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Capital budgeting is the process of identifying, evaluating, and planning for long-term expenditures like machinery or new facilities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12904,
+            "question_text": "Which financial account is increased by a 'debit' entry?",
+            "options": [
+                "Accounts Payable",
+                "Revenue",
+                "Cash",
+                "Common Stock"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In accounting, asset accounts like 'Cash' are increased with a debit, whereas liability and equity accounts are increased with a credit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12905,
+            "question_text": "What does 'Return on Equity' (ROE) specifically measure?",
+            "options": [
+                "The efficiency of generating profits from shareholders' capital",
+                "The total revenue divided by market cap",
+                "The interest rate on corporate loans",
+                "The ratio of assets to total debt"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "ROE is calculated as Net Income divided by Shareholder's Equity, indicating how effectively management uses investment capital.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12906,
+            "question_text": "Which of the following is considered a 'fixed cost' for a manufacturing firm?",
+            "options": [
+                "Raw materials",
+                "Direct labor wages",
+                "Annual insurance premiums",
+                "Shipping costs per unit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A fixed cost remains constant regardless of the volume of production, unlike variable costs which fluctuate with output.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

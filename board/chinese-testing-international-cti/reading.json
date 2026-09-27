@@ -1,0 +1,109 @@
+{
+    "category": "Chinese Testing International (CTI)",
+    "name": "Reading",
+    "board": "chinese-testing-international-cti",
+    "subject": "reading",
+    "url": "/chinese-testing-international-cti/reading/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 9029,
+            "question_text": "What is the restriction on paper-based reading sections regarding time?",
+            "options": [
+                "You can finish whenever you like",
+                "Answers must be completed within the specified time",
+                "You can take extra time if needed",
+                "Reading time is unlimited"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "All sections, including reading, have strict time limits and must be completed within the allotted duration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9043,
+            "question_text": "Which of the following items is permitted for a paper-based Reading section?",
+            "options": [
+                "A dictionary to look up unknown characters.",
+                "A personal mobile phone for emergencies.",
+                "A 2B pencil and an eraser.",
+                "Any pen or pencil of your choice."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "For paper-based tests, candidates are required to bring 2B pencils and an eraser for marking answer sheets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9044,
+            "question_text": "What is the primary purpose of the Chinese Proficiency Test (HSK)?",
+            "options": [
+                "To provide a travel guide for visitors in China.",
+                "To assess the Chinese language proficiency of non-native speakers in daily, academic, and professional life.",
+                "To teach students how to write advanced academic papers in Chinese.",
+                "To help students learn to cook Chinese food."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The website describes HSK as an international standardized test to assess Chinese proficiency for various real-life scenarios.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9045,
+            "question_text": "Which item is allowed for a paper-based reading section?",
+            "options": [
+                "Personal dictionary",
+                "Mobile phone",
+                "2B pencil and eraser",
+                "Personal scratch paper"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Candidates must use standard testing materials; personal items like phones or private scratch paper are prohibited.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9046,
+            "question_text": "In a paper-based exam, what is the policy regarding scratch paper?",
+            "options": [
+                "You can bring your own",
+                "You must provide your own",
+                "Only center-provided paper is allowed",
+                "Scratch paper is not allowed"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Only A4 scratch paper provided by the test center is permitted; personal stationery for this purpose is banned.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9047,
+            "question_text": "What is the consequence of arriving late for the reading section in a paper-based exam?",
+            "options": [
+                "Entry permitted after reading starts",
+                "Admission denied",
+                "Penalty deducted from score",
+                "Entry permitted with a warning"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Candidates arriving after the start of the reading section are strictly denied admission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9048,
+            "question_text": "What is the primary goal of the HSK test?",
+            "options": [
+                "To test calligraphy skills",
+                "To evaluate second language Chinese proficiency",
+                "To offer history lessons",
+                "To sell Chinese textbooks"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "HSK is a standardized test assessing the ability of non-native speakers to use Chinese in various contexts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

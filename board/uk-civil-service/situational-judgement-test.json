@@ -1,0 +1,151 @@
+{
+    "category": "UK Civil Service",
+    "name": "Situational Judgement Test",
+    "board": "uk-civil-service",
+    "subject": "situational-judgement-test",
+    "url": "/uk-civil-service/situational-judgement-test/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 8584,
+            "question_text": "You are leading a project and receive conflicting advice from two senior stakeholders. What is the best way to handle this?",
+            "options": [
+                "Follow the advice of the most senior person immediately",
+                "Organize a meeting with both stakeholders to align their expectations and clarify project goals",
+                "Choose the option that is easiest to implement",
+                "Ignore both and proceed with your original plan to avoid delays"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Effective communication and collaboration are core Civil Service values; resolving conflicts through discussion ensures project objectives remain clear and impartial.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8585,
+            "question_text": "A team member is consistently missing deadlines due to a heavy workload. As a leader, what is your most appropriate action?",
+            "options": [
+                "Reprimand them formally for their lack of output",
+                "Take over their tasks to ensure the work is completed on time",
+                "Meet with the team member to understand the barriers and review their personal development plan for support",
+                "Ask them to work weekends to catch up"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Fast Stream values developing and empowering employees; understanding challenges allows for targeted support rather than punishment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8588,
+            "question_text": "You notice a team member is repeatedly using a tone that could be seen as unprofessional during a public meeting. What should you do?",
+            "options": [
+                "Wait for them to finish, then speak to them privately about the impact of their tone.",
+                "Interrupt them immediately to correct their language in front of everyone.",
+                "Ignore it, as long as the information they are sharing is factually correct.",
+                "Report the individual to your line manager before speaking to them directly."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Addressing performance or behavioral issues privately is standard professional practice as it allows for constructive feedback without causing public embarrassment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8589,
+            "question_text": "A teammate is struggling to meet a deadline because of a personal issue. How do you respond?",
+            "options": [
+                "Tell them to work overtime until the task is complete.",
+                "Report them to HR for failing to deliver their work on time.",
+                "Offer to help them prioritize their tasks and discuss potential workload adjustments.",
+                "Take over their entire project to ensure it is finished on schedule."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This approach balances empathy and support with maintaining project progress, which is a key leadership trait in the Civil Service.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8590,
+            "question_text": "You find out a policy document you drafted contains a minor error, but it has already been sent to your senior manager. What is the best step?",
+            "options": [
+                "Wait until the manager notices and asks you about it.",
+                "Immediately inform your manager about the error and provide a corrected version.",
+                "Try to secretly replace the file on the shared drive.",
+                "Do nothing, as the error is minor and unlikely to have a major impact."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Integrity and honesty are core values. Taking immediate ownership and providing a solution is the correct way to handle mistakes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8591,
+            "question_text": "You are assigned to a new team and find that members are clashing over the project's direction. What action shows the best leadership potential?",
+            "options": [
+                "Side with the person who has the most seniority in the room.",
+                "Facilitate a structured meeting for everyone to voice their concerns and find a consensus.",
+                "Assign tasks individually so team members don't have to talk to each other.",
+                "Tell the team to stop arguing and just follow your lead."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inclusive leadership involves listening to diverse perspectives and guiding the team toward a shared, objective goal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8592,
+            "question_text": "You have been asked to implement a new government policy that you personally disagree with. How do you proceed?",
+            "options": [
+                "Publicly express your disagreement on social media.",
+                "Politely decline the task and ask to work on something else.",
+                "Perform your duties professionally and impartially, as required by the Civil Service values.",
+                "Only implement the parts of the policy that you personally agree with."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Impartiality is a core Civil Service value. Staff are expected to serve the government of the day regardless of personal political views.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8598,
+            "question_text": "You witness a colleague acting in a way that goes against the core values of integrity and honesty. What should you do?",
+            "options": [
+                "Keep it to yourself to avoid conflict",
+                "Confront them aggressively in public",
+                "Address the issue privately with them or escalate it to a manager if necessary",
+                "Tell your other colleagues to gossip about it"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Maintaining integrity requires addressing unethical behavior directly through appropriate channels.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8600,
+            "question_text": "In a group assessment, if a teammate suggests an idea you disagree with, what should you do?",
+            "options": [
+                "Shut down their idea immediately",
+                "Listen to their reasoning, share your concerns constructively, and work toward a mutually beneficial outcome",
+                "Ignore the suggestion and proceed with your own plan",
+                "Force your group to take a vote immediately"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Effective collaboration relies on active listening, objective discussion, and finding common ground.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8603,
+            "question_text": "When making a decision that affects a diverse group of stakeholders, which approach best reflects the principle of objectivity?",
+            "options": [
+                "Prioritize the group that has the most influence",
+                "Decide based on your own gut feeling",
+                "Gather evidence, analyze the impact on all groups fairly, and decide based on facts",
+                "Choose the option that causes the least resistance"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Objectivity involves making evidence-based, balanced decisions that are free from personal bias.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

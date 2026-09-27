@@ -1,0 +1,291 @@
+{
+    "category": "National University of Modern Languages (NUML)",
+    "name": "General Knowledge",
+    "board": "national-university-of-modern-languages-numl",
+    "subject": "general-knowledge",
+    "url": "/national-university-of-modern-languages-numl/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 20,
+    "questions": [
+        {
+            "id": 12543,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars is widely known as the Red Planet due to the prevalence of iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12544,
+            "question_text": "Who is considered the founder of modern economics?",
+            "options": [
+                "John Maynard Keynes",
+                "Karl Marx",
+                "Adam Smith",
+                "Milton Friedman"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Adam Smith is famously known as the father of modern economics for his work, 'The Wealth of Nations'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12545,
+            "question_text": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plants use carbon dioxide, water, and sunlight to create energy during photosynthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12546,
+            "question_text": "What is the capital city of Australia?",
+            "options": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Perth"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Canberra is the capital city of Australia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12547,
+            "question_text": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "Gold",
+                "Oxygen",
+                "Osmium",
+                "Silver"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Oxygen is the chemical element with the atomic number 8 and symbol O.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12548,
+            "question_text": "Who is known as the 'Father of the Computer'?",
+            "options": [
+                "Bill Gates",
+                "Alan Turing",
+                "Charles Babbage",
+                "Steve Jobs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Charles Babbage is credited with conceptualizing the first mechanical computer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12549,
+            "question_text": "What is the largest ocean on Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Pacific Ocean"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12550,
+            "question_text": "Which organization is responsible for global health standards?",
+            "options": [
+                "UN",
+                "WTO",
+                "WHO",
+                "IMF"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The World Health Organization (WHO) is the UN specialized agency for international public health.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12551,
+            "question_text": "What is the currency of Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Dollar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Japanese Yen is the official currency of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12552,
+            "question_text": "Which country is famous for the Eiffel Tower?",
+            "options": [
+                "Italy",
+                "Germany",
+                "France",
+                "Spain"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12553,
+            "question_text": "Which layer of the Earth's atmosphere contains the ozone layer?",
+            "options": [
+                "Troposphere",
+                "Stratosphere",
+                "Mesosphere",
+                "Thermosphere"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ozone layer, which absorbs UV radiation, is located in the stratosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12554,
+            "question_text": "Who was the first woman to win a Nobel Prize?",
+            "options": [
+                "Mother Teresa",
+                "Marie Curie",
+                "Rosalind Franklin",
+                "Indira Gandhi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Marie Curie won the Nobel Prize in Physics in 1903.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12555,
+            "question_text": "Which international treaty is primarily concerned with climate change?",
+            "options": [
+                "Treaty of Versailles",
+                "Paris Agreement",
+                "Geneva Convention",
+                "Kyoto Protocol"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Paris Agreement is a legally binding international treaty on climate change adopted in 2015.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12556,
+            "question_text": "Which is the smallest continent by land area?",
+            "options": [
+                "Europe",
+                "Australia",
+                "Antarctica",
+                "South America"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Australia is the smallest continent by land mass.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12558,
+            "question_text": "What is the main component of natural gas?",
+            "options": [
+                "Propane",
+                "Butane",
+                "Methane",
+                "Ethane"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Methane makes up the vast majority of natural gas compositions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12559,
+            "question_text": "The 'Great Wall of China' was primarily built to protect against?",
+            "options": [
+                "Floods",
+                "Invading nomadic groups",
+                "Trade competitors",
+                "Earthquakes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The wall was constructed to defend the Chinese Empire from raids by nomadic tribes from the north.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12560,
+            "question_text": "Which country is the world's largest producer of coffee?",
+            "options": [
+                "Colombia",
+                "Vietnam",
+                "Brazil",
+                "Ethiopia"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Brazil has been the world's largest producer of coffee for over 150 years.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12561,
+            "question_text": "What is the study of fossils called?",
+            "options": [
+                "Archaeology",
+                "Paleontology",
+                "Geology",
+                "Anthropology"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Paleontology is the study of ancient life through fossils.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12562,
+            "question_text": "Which river is the longest in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile is traditionally considered the longest river in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12563,
+            "question_text": "Which gas is primarily responsible for the greenhouse effect?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Carbon dioxide traps heat in the atmosphere, leading to the greenhouse effect.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "category": "University of the Punjab",
+    "name": "General Knowledge",
+    "board": "university-of-the-punjab",
+    "subject": "general-knowledge",
+    "url": "/university-of-the-punjab/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 10390,
+            "question_text": "Which river is the longest in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile is traditionally considered the longest river in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10391,
+            "question_text": "Who was the first Prime Minister of Pakistan?",
+            "options": [
+                "Muhammad Ali Jinnah",
+                "Liaquat Ali Khan",
+                "Ayub Khan",
+                "Zulfikar Ali Bhutto"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Liaquat Ali Khan served as the first Prime Minister of Pakistan after independence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10392,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars is referred to as the Red Planet due to the iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10393,
+            "question_text": "Who was the first person to step on the moon?",
+            "options": [
+                "Buzz Aldrin",
+                "Yuri Gagarin",
+                "Neil Armstrong",
+                "Michael Collins"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Neil Armstrong made history in 1969 as the first human on the moon.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10394,
+            "question_text": "Which country is the largest by land area?",
+            "options": [
+                "USA",
+                "Canada",
+                "China",
+                "Russia"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Russia spans Eastern Europe and Northern Asia and is the largest country by landmass.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10395,
+            "question_text": "What is the capital city of Pakistan?",
+            "options": [
+                "Karachi",
+                "Lahore",
+                "Islamabad",
+                "Rawalpindi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Islamabad became the capital of Pakistan in the 1960s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10396,
+            "question_text": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plants take in CO2 and release oxygen as a byproduct of photosynthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10397,
+            "question_text": "What is the currency of Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Dollar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Japanese Yen is the official currency of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10398,
+            "question_text": "Who is known as the founder of Pakistan?",
+            "options": [
+                "Allama Iqbal",
+                "Liaquat Ali Khan",
+                "Quaid-e-Azam Muhammad Ali Jinnah",
+                "Sir Syed Ahmed Khan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Muhammad Ali Jinnah led the struggle for the creation of an independent Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10399,
+            "question_text": "Which ocean is the largest in the world?",
+            "options": [
+                "Atlantic",
+                "Indian",
+                "Arctic",
+                "Pacific"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10400,
+            "question_text": "What is the hardest natural substance on Earth?",
+            "options": [
+                "Gold",
+                "Iron",
+                "Diamond",
+                "Quartz"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Diamond is an allotrope of carbon and is the hardest natural material known.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10401,
+            "question_text": "In which continent is the Sahara Desert located?",
+            "options": [
+                "Asia",
+                "Africa",
+                "Australia",
+                "South America"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Sahara is the world's largest hot desert, covering much of North Africa.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10402,
+            "question_text": "Which is the largest organ in the human body?",
+            "options": [
+                "Liver",
+                "Heart",
+                "Skin",
+                "Lungs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The skin is the largest external organ of the human body.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10403,
+            "question_text": "The headquarters of the United Nations is located in which city?",
+            "options": [
+                "Geneva",
+                "London",
+                "New York City",
+                "Washington D.C."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The UN headquarters has been based in New York City since 1952.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

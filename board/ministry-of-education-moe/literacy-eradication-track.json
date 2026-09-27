@@ -1,0 +1,137 @@
+{
+    "category": "Ministry of Education (MoE)",
+    "name": "Literacy Eradication Track",
+    "board": "ministry-of-education-moe",
+    "subject": "literacy-eradication-track",
+    "url": "/ministry-of-education-moe/literacy-eradication-track/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 9340,
+            "question_text": "What does the level assessment test for the Literacy Eradication Track evaluate?",
+            "options": [
+                "Knowledge of history",
+                "Ability to read and write",
+                "Advanced computer skills",
+                "Physical fitness"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test evaluates the learner's basic capability in reading and writing for the primary stage foundation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9351,
+            "question_text": "What is the minimum age requirement for students enrolling in the Literacy Eradication Track?",
+            "options": [
+                "Seven years old",
+                "Nine years old",
+                "Twelve years old",
+                "Fifteen years old"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Ministry of Education documentation specifies that the program targets students aged nine and above.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9352,
+            "question_text": "How many stages are covered in the Literacy Eradication Track?",
+            "options": [
+                "One stage",
+                "Two stages",
+                "Three stages",
+                "Four stages"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The program covers grades one to six divided into two stages: the primary stage and the secondary stage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9353,
+            "question_text": "What is the minimum age requirement for enrollment in the Literacy Eradication Track?",
+            "options": [
+                "Six years old",
+                "Nine years old",
+                "Twelve years old",
+                "Fifteen years old"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The program is designed for students aged nine and above who lack foundational literacy and mathematics skills.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9355,
+            "question_text": "What is the goal of the Literacy Eradication Track?",
+            "options": [
+                "To teach advanced calculus",
+                "To eradicate illiteracy among those lacking fundamentals of literacy and math",
+                "To provide vocational training for high schoolers",
+                "To provide university scholarships"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The program's primary focus is to equip individuals with the basic skills of reading, writing, and mathematics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9356,
+            "question_text": "Who is eligible for the Literacy Eradication Track?",
+            "options": [
+                "Only children under the age of 5",
+                "Only university graduates",
+                "Individuals who have exceeded the age limit for public or private school admission",
+                "Only students currently in public schools"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The track is open to those who cannot be admitted to standard schools due to age constraints.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9357,
+            "question_text": "What is the primary goal of the Literacy Eradication Track?",
+            "options": [
+                "To prepare students for university entrance",
+                "To provide vocational training for high school graduates",
+                "To help individuals who lack basic literacy and math skills",
+                "To provide advanced technology training"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The program is specifically targeted at individuals who lack the foundational skills in reading, writing, and mathematics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9358,
+            "question_text": "What is the minimum age requirement for the Literacy Eradication Track?",
+            "options": [
+                "Six years old",
+                "Nine years old",
+                "Twelve years old",
+                "Eighteen years old"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The program targets students aged nine and above who require foundational literacy support.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9359,
+            "question_text": "How many educational stages are covered in the Literacy Eradication Track?",
+            "options": [
+                "One stage",
+                "Two stages",
+                "Three stages",
+                "Four stages"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The program is divided into two distinct stages: the primary stage and the secondary stage, covering grades one through six.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

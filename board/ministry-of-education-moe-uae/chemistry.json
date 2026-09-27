@@ -1,0 +1,123 @@
+{
+    "category": "Ministry of Education (MoE), UAE",
+    "name": "Chemistry",
+    "board": "ministry-of-education-moe-uae",
+    "subject": "chemistry",
+    "url": "/ministry-of-education-moe-uae/chemistry/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 9272,
+            "question_text": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "Gold",
+                "Osmium",
+                "Oxygen",
+                "Iron"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The atomic symbol for Oxygen in the periodic table is O.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9273,
+            "question_text": "What is the pH range of an acidic solution?",
+            "options": [
+                "Exactly 7",
+                "Above 7",
+                "Below 7",
+                "Between 10 and 14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A pH level lower than 7 indicates an acidic solution, while 7 is neutral and above 7 is basic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9274,
+            "question_text": "What is the atomic number of Carbon?",
+            "options": [
+                "4",
+                "6",
+                "8",
+                "12"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Carbon is the 6th element on the periodic table.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9275,
+            "question_text": "Which gas is released during the reaction of an acid with a metal carbonate?",
+            "options": [
+                "Oxygen",
+                "Hydrogen",
+                "Carbon Dioxide",
+                "Nitrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Acid + Metal Carbonate produces salt, water, and CO2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9276,
+            "question_text": "What is the chemical formula for water?",
+            "options": [
+                "HO",
+                "H2O",
+                "H2O2",
+                "OH"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A water molecule consists of two hydrogen atoms and one oxygen atom.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9277,
+            "question_text": "Which chemical element is represented by the symbol 'O'?",
+            "options": [
+                "Osmium",
+                "Oxygen",
+                "Gold",
+                "Silver"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "O is the universal chemical symbol for Oxygen.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9278,
+            "question_text": "What is the typical pH range for acidic substances?",
+            "options": [
+                "Above 7",
+                "Exactly 7",
+                "Below 7",
+                "10 to 14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pH scale ranges from 0-14, where values below 7 indicate acidity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9280,
+            "question_text": "What gas is produced when an acid reacts with a metal carbonate?",
+            "options": [
+                "Oxygen",
+                "Hydrogen",
+                "Carbon Dioxide",
+                "Nitrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The reaction between an acid and a metal carbonate always yields a salt, water, and carbon dioxide.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

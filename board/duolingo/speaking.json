@@ -1,0 +1,277 @@
+{
+    "category": "Duolingo",
+    "name": "Speaking",
+    "board": "duolingo",
+    "subject": "speaking",
+    "url": "/duolingo/speaking/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 19,
+    "questions": [
+        {
+            "id": 10218,
+            "question_text": "When completing the speaking portion of the test, what is the best practice to follow?",
+            "options": [
+                "Read your response from a pre-written script",
+                "Speak naturally and clearly into your microphone",
+                "Speak as quickly as possible to save time",
+                "Avoid answering the prompt if you are unsure of the answer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test evaluates natural English speaking ability, so clear, spontaneous speech is the intended approach.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10219,
+            "question_text": "During the speaking section, what is the impact of speaking too softly?",
+            "options": [
+                "The microphone may not pick up your voice clearly for evaluation",
+                "You get a bonus for sounding calm",
+                "The system allows more time to record",
+                "It is preferred by the examiners"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Clear, audible speech is necessary for the AI and human raters to accurately assess your fluency and pronunciation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10220,
+            "question_text": "What happens if you use filler words like 'um' and 'uh' excessively?",
+            "options": [
+                "It helps you sound like a native speaker",
+                "It shows you have a large vocabulary",
+                "It negatively impacts your fluency score",
+                "It is ignored by the grading system"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Excessive use of filler words suggests a lack of confidence and fluency in the English language.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10221,
+            "question_text": "When asked to speak about a specific topic for 60 seconds, what is a good strategy?",
+            "options": [
+                "Stop talking as soon as you have said two sentences",
+                "Prepare a basic structure: introduction, body, and conclusion",
+                "Speak as fast as possible to include more information",
+                "Ask the system to provide you with notes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A structured response is easier to follow and demonstrates your ability to organize thoughts coherently under pressure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10222,
+            "question_text": "Why should you avoid reading a pre-written script during the speaking section?",
+            "options": [
+                "It is allowed but not recommended",
+                "It makes your speech sound unnatural and reduces your score",
+                "It is illegal to have paper on your desk",
+                "It consumes too much battery"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The speaking section aims to assess natural, spontaneous communication, not your ability to read aloud.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10223,
+            "question_text": "If you are asked to describe a picture, what should you aim for?",
+            "options": [
+                "Only describing the colors in the picture",
+                "Speaking in a natural rhythm, explaining what you see",
+                "Remaining silent to avoid mistakes",
+                "Translating the picture into another language"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The goal is to describe the visual information fluently and accurately to show you can articulate observations clearly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10224,
+            "question_text": "What is the best practice to follow during the speaking section?",
+            "options": [
+                "Speak as quickly as possible.",
+                "Speak clearly at a natural, steady pace.",
+                "Whisper so others in your house don't hear.",
+                "Use very complex words even if you aren't sure of their meaning."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Natural, clear speech is easier for the AI to analyze and score accurately.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10225,
+            "question_text": "What is the impact of speaking too softly?",
+            "options": [
+                "It shows you are being polite.",
+                "It might prevent the microphone from capturing your response correctly.",
+                "It makes you sound more intelligent.",
+                "It allows you more time to think."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Clear audio input is vital for the scoring engine to understand your language usage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10226,
+            "question_text": "What is the consequence of using filler words like 'um' and 'uh' too much?",
+            "options": [
+                "It increases your score.",
+                "It interrupts the flow of speech and makes it harder to understand.",
+                "It counts as part of the word limit.",
+                "It has no impact at all."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Excessive fillers negatively affect the 'Fluency' component of your speaking score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10227,
+            "question_text": "What is a good strategy when speaking about a topic for 60 seconds?",
+            "options": [
+                "Start with an introduction, discuss the main points, and conclude.",
+                "Repeat the same sentence for the entire minute.",
+                "Stop speaking after 30 seconds to be safe.",
+                "Read a prepared speech about a different topic."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Structuring your response helps you stay on track and maintain coherence throughout the time limit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10228,
+            "question_text": "Why should you avoid reading a script during the speaking section?",
+            "options": [
+                "The proctor will ask you to read it aloud.",
+                "It sounds unnatural and the score will be lower because of it.",
+                "You are not allowed to look at your computer screen.",
+                "The microphone will turn off if you read."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test measures natural speaking ability, and reading scripts is easily detectable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10229,
+            "question_text": "If asked to describe a picture, what should you aim for?",
+            "options": [
+                "Identifying the colors and shapes only.",
+                "Speaking clearly about what is happening and the context of the image.",
+                "Naming every single object you see.",
+                "Describing what you think is behind the camera."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A complete description includes context and action, not just a list of items.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10230,
+            "question_text": "What is the best practice during the speaking section?",
+            "options": [
+                "Speak as quickly as possible.",
+                "Speak clearly at a natural, steady pace.",
+                "Whisper to avoid being overheard by others.",
+                "Speak only in short, one-word answers."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Clarity and a natural rhythm are better for evaluation than extreme speed or volume.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10232,
+            "question_text": "What happens if you use filler words (e.g., 'um', 'uh') excessively?",
+            "options": [
+                "They count as bonus words.",
+                "They can disrupt the flow of your speech and lower your fluency score.",
+                "The system ignores them completely.",
+                "They make your speech sound more natural."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Excessive fillers suggest a lack of vocabulary or preparation, which impacts the fluency aspect of the speaking score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10233,
+            "question_text": "What is a good strategy for a 60-second speaking topic?",
+            "options": [
+                "Pause for 30 seconds to think before starting.",
+                "Organize your thoughts quickly and keep speaking until the time is nearly up.",
+                "Read a prepared script from your screen.",
+                "Talk about three different topics to show range."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A well-organized, continuous response demonstrates proficiency better than a disjointed one.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10234,
+            "question_text": "Why should you avoid reading a pre-written script?",
+            "options": [
+                "It is easy to detect and will cause you to fail the section.",
+                "It is too difficult to type beforehand.",
+                "It takes too much time to prepare.",
+                "The computer cannot understand written text."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Academic integrity and testing rules strictly forbid scripts; the test evaluates spontaneous speech.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10235,
+            "question_text": "What should you aim for when describing a picture?",
+            "options": [
+                "Describing as many objects as possible regardless of logic.",
+                "Speaking in full, detailed sentences that explain the scene logically.",
+                "Using only simple 'There is/There are' sentence structures.",
+                "Describing the picture in the past tense only."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Describing the scene in a descriptive, logical way shows command over vocabulary and sentence structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10236,
+            "question_text": "If you lose your train of thought while speaking, what should you do?",
+            "options": [
+                "Stay silent until the timer ends.",
+                "Briefly pause, take a breath, and try to rephrase or continue.",
+                "Start the entire answer from the beginning.",
+                "Apologize to the computer for a full minute."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Staying calm and continuing is better than giving up; small pauses are natural in speech.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10237,
+            "question_text": "How can you improve your speaking score?",
+            "options": [
+                "By mimicking an accent that is not your own.",
+                "By speaking about a variety of topics and using diverse vocabulary.",
+                "By memorizing the questions from a previous exam.",
+                "By speaking as loudly as possible throughout the test."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using a wide range of words and demonstrating the ability to speak on different subjects shows true language mastery.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

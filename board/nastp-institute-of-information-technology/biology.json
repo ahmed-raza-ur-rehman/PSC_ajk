@@ -1,0 +1,193 @@
+{
+    "category": "NASTP Institute of Information Technology",
+    "name": "Biology",
+    "board": "nastp-institute-of-information-technology",
+    "subject": "biology",
+    "url": "/nastp-institute-of-information-technology/biology/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 13510,
+            "question_text": "Which organelle is known as the 'powerhouse' of the cell?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondrion",
+                "Golgi apparatus"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are the site of cellular respiration, producing ATP, which provides energy for the cell.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13511,
+            "question_text": "What is the primary function of DNA in living organisms?",
+            "options": [
+                "Energy storage",
+                "Catalyzing chemical reactions",
+                "Storing genetic information",
+                "Building cell walls"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "DNA contains the instructions needed for an organism to develop, survive, and reproduce.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13512,
+            "question_text": "Which process do plants use to convert sunlight into chemical energy?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Fermentation",
+                "Transpiration"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize nutrients from CO2 and water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13513,
+            "question_text": "What is the basic structural and functional unit of all living organisms?",
+            "options": [
+                "Atom",
+                "Organ",
+                "Cell",
+                "Tissue"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The cell is universally accepted as the fundamental unit of life.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13514,
+            "question_text": "In humans, where does the majority of nutrient absorption occur?",
+            "options": [
+                "Stomach",
+                "Large Intestine",
+                "Small Intestine",
+                "Liver"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The small intestine is the primary site for the absorption of nutrients into the bloodstream.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13515,
+            "question_text": "What is the genetic material in viruses like influenza?",
+            "options": [
+                "DNA only",
+                "RNA only",
+                "Both DNA and RNA",
+                "Protein only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Influenza is an RNA virus, meaning it stores its genetic information in RNA rather than DNA.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13516,
+            "question_text": "Which blood cell type is responsible for defending the body against infections?",
+            "options": [
+                "Red Blood Cells",
+                "White Blood Cells",
+                "Platelets",
+                "Plasma"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Leukocytes (white blood cells) are key components of the immune system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13517,
+            "question_text": "What structure in the cell is responsible for protein synthesis?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Golgi Apparatus",
+                "Lysosome"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ribosomes serve as the site of biological protein synthesis (translation).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13518,
+            "question_text": "What is the primary sugar produced during photosynthesis?",
+            "options": [
+                "Fructose",
+                "Glucose",
+                "Lactose",
+                "Sucrose"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Glucose is the direct product of photosynthesis used by the plant for energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13519,
+            "question_text": "Which part of the brain controls balance and coordination?",
+            "options": [
+                "Cerebrum",
+                "Cerebellum",
+                "Brainstem",
+                "Thalamus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The cerebellum is responsible for maintaining posture, balance, and voluntary muscle coordination.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13520,
+            "question_text": "Which nitrogenous base is found in RNA but not in DNA?",
+            "options": [
+                "Adenine",
+                "Guanine",
+                "Cytosine",
+                "Uracil"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "RNA uses Uracil to pair with Adenine, whereas DNA uses Thymine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13521,
+            "question_text": "What is the process by which cells consume solid particles?",
+            "options": [
+                "Pinocytosis",
+                "Phagocytosis",
+                "Exocytosis",
+                "Diffusion"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Phagocytosis is the process of engulfing solid particles, often described as cell eating.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13522,
+            "question_text": "What is the function of the Golgi apparatus?",
+            "options": [
+                "Protein synthesis",
+                "ATP production",
+                "Modifying and packaging proteins",
+                "DNA replication"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Golgi apparatus acts like a post office, processing, sorting, and packaging proteins for secretion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

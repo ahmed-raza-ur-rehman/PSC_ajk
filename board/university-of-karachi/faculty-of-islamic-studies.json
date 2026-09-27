@@ -1,0 +1,109 @@
+{
+    "category": "University of Karachi",
+    "name": "Faculty of Islamic Studies",
+    "board": "university-of-karachi",
+    "subject": "faculty-of-islamic-studies",
+    "url": "/university-of-karachi/faculty-of-islamic-studies/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 10629,
+            "question_text": "What are the primary sources of Islamic Jurisprudence (Sharia)?",
+            "options": [
+                "Quran and Hadith",
+                "Ijma and Qiyas",
+                "Customs and Traditions",
+                "All of the above"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Islamic jurisprudence is derived from the Quran, the Sunnah (Hadith), Ijma (consensus), and Qiyas (analogical reasoning).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10630,
+            "question_text": "Which term refers to the consensus of Islamic scholars on a legal issue?",
+            "options": [
+                "Qiyas",
+                "Ijma",
+                "Ijtihad",
+                "Sunnah"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ijma refers to the consensus of the jurists of the Muslim community on a matter of religious or legal significance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10631,
+            "question_text": "What is the primary source of legislative authority in Islamic Law?",
+            "options": [
+                "The Quran",
+                "The Hadith",
+                "Fatwas",
+                "Customs"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Quran is the foundational and primary source of divine revelation and law in Islam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10632,
+            "question_text": "Which secondary source of Islamic law involves the individual reasoning of qualified scholars?",
+            "options": [
+                "Qiyas",
+                "Ijma",
+                "Ijtihad",
+                "Sunnah"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ijtihad is the process of making a legal decision by independent interpretation of the legal sources (Quran and Sunnah).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10633,
+            "question_text": "What is the term for the 'charity' tax that is a mandatory obligation in Islam for those who meet specific wealth thresholds?",
+            "options": [
+                "Sadaqah",
+                "Zakat",
+                "Waqf",
+                "Khums"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Zakat is the obligatory giving of a set proportion of one's wealth to charity, considered a pillar of Islam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10634,
+            "question_text": "What is the term for the record of the sayings, actions, and approvals of the Prophet Muhammad (PBUH)?",
+            "options": [
+                "Quran",
+                "Sunnah",
+                "Hadith",
+                "Fiqh"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Hadith is the specific report detailing the life, sayings, and silent approvals of the Prophet Muhammad (PBUH).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10635,
+            "question_text": "What is the 'Qiyas' in the context of Islamic Jurisprudence?",
+            "options": [
+                "Consensus",
+                "Analogy",
+                "Tradition",
+                "Revelation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Qiyas is the process of legal analogy where the teachings of the Hadith are applied to new situations not explicitly covered in the Quran.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

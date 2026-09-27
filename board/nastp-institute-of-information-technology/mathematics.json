@@ -1,0 +1,333 @@
+{
+    "category": "NASTP Institute of Information Technology",
+    "name": "Mathematics",
+    "board": "nastp-institute-of-information-technology",
+    "subject": "mathematics",
+    "url": "/nastp-institute-of-information-technology/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 23,
+    "questions": [
+        {
+            "id": 11028,
+            "question_text": "Evaluate the integral of 2x dx.",
+            "options": [
+                "x + C",
+                "2x^2 + C",
+                "x^2 + C",
+                "x^3 + C"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The integral of x^n is (x^(n+1))/(n+1). For 2x, it is 2*(x^2/2) = x^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11030,
+            "question_text": "If a matrix A is 2x3 and matrix B is 3x4, what is the dimension of the resulting matrix AB?",
+            "options": [
+                "2x4",
+                "3x3",
+                "4x2",
+                "2x3"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "When multiplying a matrix of size (m x n) by (n x p), the resulting matrix has the dimensions (m x p).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11033,
+            "question_text": "What is the slope of the line represented by the equation 3x - 2y + 5 = 0?",
+            "options": [
+                "3",
+                "-3/2",
+                "3/2",
+                "-2"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Converting to y = mx + c form, 2y = 3x + 5, so y = (3/2)x + 2.5. The slope is 3/2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11034,
+            "question_text": "What is the value of sin^2(θ) + cos^2(θ)?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "sin(2θ)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is the fundamental Pythagorean trigonometric identity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11059,
+            "question_text": "If f(x) = x^2 - 4x + 3, what is the value of f(2)?",
+            "options": [
+                "-1",
+                "0",
+                "1",
+                "3"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Plugging x = 2 into the equation: (2)^2 - 4(2) + 3 = 4 - 8 + 3 = -1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11116,
+            "question_text": "What is the derivative of sin(x) with respect to x?",
+            "options": [
+                "cos(x)",
+                "-cos(x)",
+                "sin(x)",
+                "-sin(x)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The derivative of the sine function is defined as the cosine function.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11167,
+            "question_text": "If the sum of the interior angles of a polygon is 540 degrees, how many sides does it have?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The formula for the sum of interior angles is (n-2) * 180. Setting (n-2) * 180 = 540 gives n-2 = 3, so n = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11192,
+            "question_text": "What is the value of log2(32)?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "2 raised to the power of 5 is 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11207,
+            "question_text": "Find the roots of the quadratic equation x^2 - 5x + 6 = 0.",
+            "options": [
+                "1 and 6",
+                "2 and 3",
+                "-2 and -3",
+                "0 and 5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Factoring the equation gives (x-2)(x-3) = 0, so x = 2 or x = 3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11211,
+            "question_text": "What is the probability of rolling a sum of 7 with two standard six-sided dice?",
+            "options": [
+                "1/6",
+                "1/12",
+                "1/36",
+                "1/9"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "There are 6 favorable outcomes (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) out of 36 total possibilities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12646,
+            "question_text": "What is the dot product of vectors u = [1, 2] and v = [3, 4]?",
+            "options": [
+                "[3, 8]",
+                "7",
+                "11",
+                "14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The dot product is (1*3) + (2*4) = 3 + 8 = 11.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13472,
+            "question_text": "What is the derivative of f(x) = x^3 + 2x with respect to x?",
+            "options": [
+                "3x^2 + 2",
+                "x^2 + 2",
+                "3x^3 + 2x",
+                "2x^2 + 1"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Using the power rule, the derivative of x^n is nx^(n-1). Thus, the derivative of x^3 is 3x^2 and the derivative of 2x is 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13473,
+            "question_text": "If a matrix A is multiplied by its inverse A^-1, what is the result?",
+            "options": [
+                "The zero matrix",
+                "The identity matrix",
+                "The determinant of A",
+                "The matrix A itself"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "By definition, the product of any invertible matrix and its inverse is the identity matrix, I.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13474,
+            "question_text": "What is the limit of (sin x) / x as x approaches 0?",
+            "options": [
+                "0",
+                "1",
+                "Infinity",
+                "Undefined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a fundamental trigonometric limit derived from the squeeze theorem.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13475,
+            "question_text": "If a vector v = [3, 4], what is its magnitude?",
+            "options": [
+                "5",
+                "7",
+                "12",
+                "25"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The magnitude is calculated as sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13476,
+            "question_text": "Which of the following represents the area under the curve y = x from x=0 to x=2?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The integral of x from 0 to 2 is [x^2/2] from 0 to 2, which equals (4/2) - 0 = 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13477,
+            "question_text": "How many ways can you arrange the letters in the word 'DATA'?",
+            "options": [
+                "6",
+                "12",
+                "24",
+                "4"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since there are 4 letters with 'A' repeating twice, the calculation is 4! / 2! = 24 / 2 = 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13478,
+            "question_text": "What is the probability of rolling a sum of 7 with two fair six-sided dice?",
+            "options": [
+                "1/6",
+                "1/12",
+                "1/36",
+                "7/36"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "There are 6 favorable outcomes (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) out of 36 total combinations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13479,
+            "question_text": "Find the value of x if log2(x) = 5.",
+            "options": [
+                "10",
+                "25",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The expression log2(x) = 5 is equivalent to 2^5 = x, which is 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13480,
+            "question_text": "What is the determinant of a 2x2 matrix with rows [1, 2] and [3, 4]?",
+            "options": [
+                "-2",
+                "0",
+                "2",
+                "10"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The determinant is (ad - bc) = (1*4) - (2*3) = 4 - 6 = -2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13481,
+            "question_text": "If f(x) = e^x, what is the second derivative f''(x)?",
+            "options": [
+                "e^x",
+                "e^(2x)",
+                "x * e^(x-1)",
+                "0"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The derivative of e^x is e^x, so the second derivative remains e^x.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13482,
+            "question_text": "What is the value of the integral of 2x dx from 0 to 3?",
+            "options": [
+                "3",
+                "6",
+                "9",
+                "12"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The integral of 2x is x^2. Evaluating x^2 from 0 to 3 gives 3^2 - 0^2 = 9.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13483,
+            "question_text": "Which of the following matrices is the identity matrix of order 2?",
+            "options": [
+                "[[1, 1], [1, 1]]",
+                "[[0, 1], [1, 0]]",
+                "[[1, 0], [0, 1]]",
+                "[[2, 0], [0, 2]]"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The identity matrix has 1s on the main diagonal and 0s elsewhere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

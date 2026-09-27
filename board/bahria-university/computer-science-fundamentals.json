@@ -1,0 +1,179 @@
+{
+    "category": "Bahria University",
+    "name": "Computer Science Fundamentals",
+    "board": "bahria-university",
+    "subject": "computer-science-fundamentals",
+    "url": "/bahria-university/computer-science-fundamentals/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12805,
+            "question_text": "Which data structure operates on a Last-In, First-Out (LIFO) basis?",
+            "options": [
+                "Queue",
+                "Stack",
+                "Linked List",
+                "Binary Tree"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A stack follows the LIFO principle where the last element added is the first one removed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12806,
+            "question_text": "Which of the following is considered 'volatile' memory?",
+            "options": [
+                "ROM",
+                "Hard Drive",
+                "RAM",
+                "Flash Drive"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "RAM (Random Access Memory) is volatile because it requires power to maintain the stored information.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12807,
+            "question_text": "Which layer of the OSI model is responsible for routing and logical addressing?",
+            "options": [
+                "Data Link Layer",
+                "Network Layer",
+                "Transport Layer",
+                "Session Layer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Network Layer manages logical addressing (IP addresses) and routing of data packets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12808,
+            "question_text": "Which of these is a non-relational database management system?",
+            "options": [
+                "PostgreSQL",
+                "MySQL",
+                "MongoDB",
+                "Oracle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "MongoDB is a NoSQL database, while the others are relational databases (RDBMS).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12809,
+            "question_text": "In object-oriented programming, what does 'encapsulation' refer to?",
+            "options": [
+                "Creating many instances of a class",
+                "Hiding internal data and requiring interaction via methods",
+                "A class inheriting from another class",
+                "The ability to run functions in parallel"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Encapsulation bundles data and the methods that operate on that data, restricting direct access to some of an object's components.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12810,
+            "question_text": "What is the primary function of an operating system's kernel?",
+            "options": [
+                "Managing the user interface",
+                "Managing hardware resources and CPU scheduling",
+                "Compiling high-level code",
+                "Sending email notifications"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The kernel is the core of the OS that bridges applications and hardware.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12811,
+            "question_text": "Which of these is a binary search complexity in the worst-case scenario?",
+            "options": [
+                "O(1)",
+                "O(n)",
+                "O(log n)",
+                "O(n^2)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Binary search consistently halves the search area, resulting in logarithmic time complexity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12812,
+            "question_text": "What is the main purpose of the HTML 'alt' attribute?",
+            "options": [
+                "To provide text for search engines",
+                "To provide alternative text for images",
+                "To style the element",
+                "To link to a new webpage"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'alt' attribute displays text if an image fails to load or for screen readers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12813,
+            "question_text": "Which HTTP status code indicates 'Not Found'?",
+            "options": [
+                "200",
+                "401",
+                "404",
+                "500"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "404 is the standard HTTP error code for a resource that cannot be located.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12814,
+            "question_text": "What is a 'deadlock' in operating systems?",
+            "options": [
+                "When a process terminates prematurely",
+                "When two or more processes are waiting indefinitely for each other to release resources",
+                "When memory is fully occupied",
+                "When a computer crashes during boot"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A deadlock occurs when processes are stuck waiting for resources held by others in a circular chain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12815,
+            "question_text": "Which of these is a common version control system?",
+            "options": [
+                "Docker",
+                "Git",
+                "Jenkins",
+                "Kubernetes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Git is the industry-standard distributed version control system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12816,
+            "question_text": "What is the result of 1010 AND 1100 in binary?",
+            "options": [
+                "1110",
+                "1000",
+                "0110",
+                "1100"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The AND operator returns 1 only if both bits are 1. 1010 & 1100 = 1000.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Physical & Endurance Test",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "physical-endurance-test",
+    "url": "/national-cybercrime-investigation-agency/physical-endurance-test/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 14442,
+            "question_text": "Which of the following is typically a primary focus of the physical endurance test for law enforcement constables?",
+            "options": [
+                "100-meter dash only",
+                "Long-distance running and stamina assessment",
+                "High jump proficiency",
+                "Weightlifting maximums"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Law enforcement physical tests primarily focus on cardiovascular stamina, often measured through a multi-kilometer run within a time limit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14443,
+            "question_text": "What is a standard warm-up practice before undertaking a rigorous physical endurance run?",
+            "options": [
+                "Dynamic stretching and light jogging",
+                "Consuming a heavy meal immediately prior",
+                "Sprinting at full speed without rest",
+                "Stretching cold muscles aggressively"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Dynamic stretching and light jogging help increase blood flow to muscles and reduce the risk of injury before a run.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14444,
+            "question_text": "Why is pacing important during a long-distance running test for endurance?",
+            "options": [
+                "It ensures you run out of energy in the first minute",
+                "It prevents premature exhaustion and maintains consistent stamina",
+                "It allows you to walk backwards safely",
+                "It is only required for sprint races"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Proper pacing allows the body to utilize aerobic energy efficiently, preventing early fatigue during endurance tests.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14445,
+            "question_text": "Which dietary component is most crucial for rapid energy replenishment during high-endurance physical training?",
+            "options": [
+                "Complex carbohydrates",
+                "Heavy saturated fats",
+                "Pure mineral oils",
+                "Heavy metals"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Carbohydrates are broken down into glucose, which is the primary fuel source for muscles during sustained physical activity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14446,
+            "question_text": "What is a recommended hydration strategy during intense physical fitness tests?",
+            "options": [
+                "Drinking no water at all to feel lighter",
+                "Drinking large quantities in one gulp immediately before running",
+                "Sipping water in moderation to stay hydrated without bloating",
+                "Consuming carbonated energy drinks exclusively"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Moderate sipping helps maintain hydration levels without causing stomach cramps or discomfort during vigorous exercise.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14447,
+            "question_text": "Which muscle group is primarily targeted and tested during a standard push-up assessment for police recruits?",
+            "options": [
+                "Quadriceps and Hamstrings",
+                "Pectorals, Triceps, and Anterior Deltoids",
+                "Biceps and Forearms",
+                "Gastrocnemius and Soleus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Push-ups primarily engage the chest muscles (pectorals), triceps in the arms, and shoulders (deltoids).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14448,
+            "question_text": "What is the main physiological benefit of performing dynamic stretching before a strenuous physical test?",
+            "options": [
+                "To increase muscle relaxation and promote sleep",
+                "To decrease body temperature rapidly",
+                "To increase blood flow to active muscles and enhance flexibility",
+                "To build long-term bone density"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Dynamic stretches warm up the muscles, increase circulation, and prepare the body for high-intensity movement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14449,
+            "question_text": "During a timed running test, what is 'interval training' commonly used to improve?",
+            "options": [
+                "Cardiovascular stamina and speed",
+                "Upper body strength only",
+                "Static balance and posture",
+                "Digestive metabolism"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Interval training alternates between high-intensity exertion and rest, boosting overall aerobic and anaerobic capacity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14450,
+            "question_text": "Why is proper footwear essential for candidates taking a physical endurance running test?",
+            "options": [
+                "It makes the candidate look professional",
+                "It absorbs impact shock and reduces the risk of joint injuries",
+                "It increases total body weight for resistance",
+                "It prevents sweating on the feet"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Proper running shoes provide cushioning, support, and stability, protecting knees, ankles, and feet from high-impact stress.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14451,
+            "question_text": "What is a key indicator of reaching maximum physical exertion during an endurance test?",
+            "options": [
+                "Slowing down to a walking pace",
+                "Heavy breathing, elevated heart rate, and fatigue",
+                "Feeling completely cold",
+                "A sudden drop in heart rate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "High exertion naturally triggers heavy breathing, increased cardiac output, and localized muscle fatigue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

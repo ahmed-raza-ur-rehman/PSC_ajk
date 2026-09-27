@@ -1,0 +1,207 @@
+{
+    "category": "Milestone Institute of Arts and Sciences",
+    "name": "General Knowledge and Current Affairs",
+    "board": "milestone-institute-of-arts-and-sciences",
+    "subject": "general-knowledge-and-current-affairs",
+    "url": "/milestone-institute-of-arts-and-sciences/general-knowledge-and-current-affairs/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 13362,
+            "question_text": "Which international organization is headquartered in Geneva, Switzerland?",
+            "options": [
+                "United Nations",
+                "World Trade Organization",
+                "International Monetary Fund",
+                "World Bank"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The WTO is headquartered in Geneva, whereas the UN is in New York, and IMF/World Bank are in Washington D.C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13363,
+            "question_text": "What is the primary objective of the 'Circular Economy' model?",
+            "options": [
+                "Maximizing production speed",
+                "Reducing waste and extending product lifecycles",
+                "Increasing government subsidies",
+                "Expanding fossil fuel consumption"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The circular economy is a model of production and consumption which involves sharing, leasing, reusing, repairing, refurbishing, and recycling existing materials and products as long as possible.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13364,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars is referred to as the Red Planet due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13365,
+            "question_text": "Who is the author of 'The Wealth of Nations'?",
+            "options": [
+                "Karl Marx",
+                "John Maynard Keynes",
+                "Adam Smith",
+                "Milton Friedman"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Adam Smith is considered the father of economics and wrote this seminal work in 1776.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13366,
+            "question_text": "What is the primary currency of Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Dollar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Yen is the official currency of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13367,
+            "question_text": "Which gas is most abundant in the Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13368,
+            "question_text": "What is the capital of Canada?",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montreal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ottawa is the capital city of Canada.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13369,
+            "question_text": "The Nobel Peace Prize is awarded in which city?",
+            "options": [
+                "Stockholm",
+                "Oslo",
+                "Copenhagen",
+                "Geneva"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While other Nobel prizes are awarded in Stockholm, the Peace Prize is awarded in Oslo, Norway.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13370,
+            "question_text": "What does 'GDP' stand for in economics?",
+            "options": [
+                "Global Domestic Product",
+                "Gross Domestic Product",
+                "Gross Daily Profit",
+                "Global Development Policy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "GDP is the total market value of all finished goods and services produced within a country's borders.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13371,
+            "question_text": "Who is known as the founder of Microsoft?",
+            "options": [
+                "Steve Jobs",
+                "Bill Gates",
+                "Mark Zuckerberg",
+                "Jeff Bezos"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Bill Gates co-founded Microsoft in 1975.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13372,
+            "question_text": "What is the largest ocean in the world?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Pacific Ocean",
+                "Arctic Ocean"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13373,
+            "question_text": "Which organization focuses on international monetary cooperation?",
+            "options": [
+                "WHO",
+                "IMF",
+                "UNICEF",
+                "UNESCO"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The International Monetary Fund (IMF) works to foster global monetary cooperation and financial stability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13374,
+            "question_text": "Which of the following is a renewable energy source?",
+            "options": [
+                "Natural Gas",
+                "Geothermal",
+                "Coal",
+                "Petroleum"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Geothermal energy is derived from the heat of the Earth and is considered renewable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13375,
+            "question_text": "Which international body oversees global trade rules?",
+            "options": [
+                "World Bank",
+                "IMF",
+                "WTO",
+                "WHO"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The World Trade Organization (WTO) deals with the global rules of trade between nations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

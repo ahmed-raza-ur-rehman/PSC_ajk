@@ -1,0 +1,207 @@
+{
+    "category": "Barani Institute of Information Technology",
+    "name": "Programming and Logic",
+    "board": "barani-institute-of-information-technology",
+    "subject": "programming-and-logic",
+    "url": "/barani-institute-of-information-technology/programming-and-logic/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 12947,
+            "question_text": "Which keyword is used to define a function in Python?",
+            "options": [
+                "func",
+                "define",
+                "def",
+                "function"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In Python, the 'def' keyword is the standard way to declare a function.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13025,
+            "question_text": "In Python, what is the output of the expression '3 + 4 * 2'?",
+            "options": [
+                "14",
+                "11",
+                "7",
+                "9"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to operator precedence, multiplication is performed before addition. So, 4 * 2 = 8, and 3 + 8 = 11.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13026,
+            "question_text": "Which of the following describes the purpose of a base case in a recursive function?",
+            "options": [
+                "To speed up the function execution",
+                "To terminate the recursive calls and prevent an infinite loop",
+                "To allocate memory for variables",
+                "To call the function itself"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A base case provides the condition under which recursion stops, preventing infinite recursion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13027,
+            "question_text": "Which programming paradigm focuses on 'objects' that contain data and methods?",
+            "options": [
+                "Procedural",
+                "Functional",
+                "Object-Oriented",
+                "Declarative"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Object-Oriented Programming (OOP) is centered around objects which bundle data fields and methods together.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13028,
+            "question_text": "In a loop, which statement is used to skip the remainder of the current iteration and start the next?",
+            "options": [
+                "break",
+                "continue",
+                "pass",
+                "exit"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'continue' statement terminates the current iteration of the loop and proceeds to the next iteration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13029,
+            "question_text": "What is the result of the logical expression (True AND False) OR (True AND True)?",
+            "options": [
+                "True",
+                "False",
+                "None",
+                "Error"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "(False) OR (True) evaluates to True.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13030,
+            "question_text": "What does a compiler do?",
+            "options": [
+                "Executes code line by line",
+                "Converts source code into machine code in one go",
+                "Manages the database connections",
+                "Debugs the code automatically"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A compiler translates the entire source code into a standalone executable machine code file.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13031,
+            "question_text": "Which of these is an example of a mutable data type in Python?",
+            "options": [
+                "Tuple",
+                "String",
+                "Integer",
+                "List"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Lists can be changed (mutated) after they are created, whereas tuples and strings are immutable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13032,
+            "question_text": "What is the purpose of a 'try-except' block in programming?",
+            "options": [
+                "To test the speed of the code",
+                "To handle exceptions or runtime errors",
+                "To force a loop to run forever",
+                "To define a variable scope"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Try-except blocks allow a program to catch errors and execute fallback code rather than crashing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13033,
+            "question_text": "What is recursion?",
+            "options": [
+                "A process where a function calls itself",
+                "A type of loop that runs infinitely",
+                "A method to optimize memory",
+                "A way to sort arrays"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Recursion is a programming technique where a function calls itself to solve smaller instances of the same problem.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13034,
+            "question_text": "What is the result of the bitwise AND operation: 1010 & 1100?",
+            "options": [
+                "1110",
+                "1000",
+                "0110",
+                "1111"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "1010 AND 1100 compares each bit; only where both are 1 does the result yield 1, resulting in 1000.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13035,
+            "question_text": "What is the time complexity of the best-case scenario for Quicksort?",
+            "options": [
+                "O(n)",
+                "O(n log n)",
+                "O(n^2)",
+                "O(log n)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Quicksort performs in O(n log n) time in its best and average cases due to the divide-and-conquer splitting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13036,
+            "question_text": "Which programming concept allows a class to inherit attributes and methods from another class?",
+            "options": [
+                "Polymorphism",
+                "Inheritance",
+                "Abstraction",
+                "Encapsulation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inheritance is the mechanism where a new class derives properties and behaviors from an existing base class.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13037,
+            "question_text": "In a 'while' loop, what happens if the loop condition is initially False?",
+            "options": [
+                "The loop executes once",
+                "The loop throws an error",
+                "The loop body never executes",
+                "The program terminates"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A 'while' loop checks the condition before executing the body; if it is false, it skips the code block entirely.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

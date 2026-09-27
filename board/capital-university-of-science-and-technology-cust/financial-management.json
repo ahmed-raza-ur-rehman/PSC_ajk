@@ -1,0 +1,151 @@
+{
+    "category": "Capital University of Science and Technology (CUST)",
+    "name": "Financial Management",
+    "board": "capital-university-of-science-and-technology-cust",
+    "subject": "financial-management",
+    "url": "/capital-university-of-science-and-technology-cust/financial-management/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11834,
+            "question_text": "What is the primary goal of financial management in a corporation?",
+            "options": [
+                "Maximizing sales revenue",
+                "Maximizing shareholder wealth",
+                "Minimizing tax liabilities",
+                "Maximizing market share"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Financial management focuses on making decisions that increase the value of the firm's stock, thereby maximizing shareholder wealth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11835,
+            "question_text": "Which ratio measures a company's ability to pay its short-term obligations using only its most liquid assets?",
+            "options": [
+                "Current Ratio",
+                "Debt-to-Equity Ratio",
+                "Quick Ratio",
+                "Inventory Turnover"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Quick Ratio (or Acid-Test Ratio) excludes inventory from current assets to provide a more stringent measure of liquidity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11837,
+            "question_text": "What does the 'agency problem' in a corporation primarily refer to?",
+            "options": [
+                "The conflict between tax authorities and the company",
+                "The conflict of interest between shareholders and management",
+                "The difficulty of obtaining bank loans",
+                "The inefficiency of the board of directors"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The agency problem arises because managers may act in their own self-interest rather than to maximize shareholder wealth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11838,
+            "question_text": "Which metric evaluates the return generated on the capital invested by shareholders?",
+            "options": [
+                "Return on Assets (ROA)",
+                "Return on Equity (ROE)",
+                "Net Profit Margin",
+                "Current Ratio"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ROE measures the profitability of a business in relation to the equity of its shareholders.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11839,
+            "question_text": "What is the primary function of working capital management?",
+            "options": [
+                "Managing long-term debt levels",
+                "Optimizing the balance between liquidity and profitability",
+                "Determining the dividend payout ratio",
+                "Selecting the best capital budgeting projects"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Working capital management involves maintaining sufficient cash flow to meet short-term obligations while maximizing operational efficiency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11840,
+            "question_text": "Which of the following is considered a primary objective of working capital management?",
+            "options": [
+                "Maximizing long-term debt",
+                "Maintaining sufficient liquidity to meet obligations",
+                "Increasing the company's dividend payout ratio",
+                "Reducing the cost of equity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Working capital management ensures a company has enough cash flow to cover its short-term operating costs and debt obligations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11841,
+            "question_text": "What is the primary objective of shareholder wealth maximization?",
+            "options": [
+                "Increasing short-term profit",
+                "Maximizing the current price of the company's stock",
+                "Maximizing total sales revenue",
+                "Minimizing the number of employees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Wealth maximization is measured by the value of the firm, typically represented by the stock price, which incorporates long-term risk and return.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11842,
+            "question_text": "Which of these is a measure of a firm's ability to cover its interest payments with its operating income?",
+            "options": [
+                "Current ratio",
+                "Times interest earned ratio",
+                "Debt-to-equity ratio",
+                "Return on assets"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The times interest earned ratio (TIE) measures the extent to which operating income can decline before the firm is unable to meet its interest expenses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11843,
+            "question_text": "Which of the following describes the trade-off between risk and return in financial management?",
+            "options": [
+                "Higher risk always leads to lower returns",
+                "Lower risk allows for higher potential returns",
+                "Higher risk is generally associated with higher expected returns",
+                "Risk and return are completely unrelated"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Investors and managers typically require a risk premium, meaning higher-risk investments must offer higher expected returns to be attractive.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11844,
+            "question_text": "What does the Cash Conversion Cycle (CCC) measure?",
+            "options": [
+                "How long it takes to convert cash into inventory",
+                "The time taken to turn inventory into cash flow",
+                "The time taken to pay dividends to shareholders",
+                "The average age of company machinery"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The CCC represents the length of time between paying for inventory and receiving cash from the sale of the finished product.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

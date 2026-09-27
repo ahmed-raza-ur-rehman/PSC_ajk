@@ -1,0 +1,263 @@
+{
+    "category": "Pearson",
+    "name": "Academic Qualifications (A-Levels/O-Levels/Intermediate)",
+    "board": "pearson",
+    "subject": "academic-qualifications-a-levels-o-levels-intermediate",
+    "url": "/pearson/academic-qualifications-a-levels-o-levels-intermediate/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 18,
+    "questions": [
+        {
+            "id": 11945,
+            "question_text": "Which of the following is typically considered the minimum academic prerequisite for admission into the Associate Degree in Business at TMUC?",
+            "options": [
+                "Completion of O-Levels/Matriculation only",
+                "Successful completion of A-Levels or Intermediate (HSSC)",
+                "A Master's degree in any field",
+                "A professional certificate in cooking"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Associate Degree programs typically require the completion of post-secondary preparatory education such as A-Levels or Intermediate to ensure the student has the foundational knowledge required for higher education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11946,
+            "question_text": "If a student has completed their education under the HSSC system, what is the English equivalent credential?",
+            "options": [
+                "GCSE",
+                "Intermediate",
+                "PhD",
+                "Post-graduate Diploma"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In the Pakistani educational context, HSSC (Higher Secondary School Certificate) is referred to as the Intermediate level of education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11947,
+            "question_text": "Why do institutions like TMUC verify O-Level equivalence certificates from the IBCC?",
+            "options": [
+                "To charge higher tuition fees",
+                "To ensure the applicant meets the national standard for higher education entry",
+                "To track the student's primary school attendance",
+                "To verify the student's blood type"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Inter-Board Committee of Chairmen (IBCC) provides equivalence certificates to validate that foreign qualifications like O-Levels meet local educational standards for university admission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11948,
+            "question_text": "In the context of the IBCC, what is the primary purpose of the 'Equivalence Certificate' for foreign qualification holders?",
+            "options": [
+                "To confirm the student's legal status in the country",
+                "To align foreign grades with the local grading system for admission eligibility",
+                "To certify that the student has paid all necessary tuition fees",
+                "To provide a list of recommended elective business subjects"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The IBCC provides equivalence to ensure that qualifications like A-Levels are measured against local Pakistani standards (HSSC) for university entry requirements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11949,
+            "question_text": "How many years of primary and secondary education are generally required to be eligible for the Associate Degree in Business?",
+            "options": [
+                "10 years",
+                "12 years",
+                "14 years",
+                "16 years"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ADB is an undergraduate program, which requires the completion of 12 years of formal education (e.g., A-Levels or HSSC).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11950,
+            "question_text": "What is the mandatory document required if a candidate has completed their O-Level education from a board outside of Pakistan?",
+            "options": [
+                "A police clearance certificate",
+                "A notarized translation of the birth certificate",
+                "An IBCC equivalence certificate",
+                "An original passport entry record"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Any international qualification must be validated and equated by the Inter Board Committee of Chairmen (IBCC) to be recognized for university admission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11951,
+            "question_text": "Which of the following is considered an academic 'subject grouping' that is usually preferred for business degree applicants?",
+            "options": [
+                "Pre-Medical (Biology, Chemistry, Physics)",
+                "Commerce or Social Sciences (Economics, Accounting, Math)",
+                "Fine Arts and Graphic Design",
+                "Technical Vocational Training"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While business degrees are often open to many backgrounds, a foundation in commerce-related subjects provides a necessary baseline for understanding business concepts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11952,
+            "question_text": "If a student completes an Intermediate (HSSC) program in 'Pre-Engineering,' are they generally considered eligible to apply for an Associate Degree in Business?",
+            "options": [
+                "No, only Commerce students are eligible",
+                "Yes, provided they meet the minimum grade percentage requirements",
+                "Only if they retake O-Level Business exams",
+                "No, they must switch to the Pre-Commerce track first"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Business programs are typically open to students from various HSSC streams (Science, Commerce, Humanities) as long as the general entry requirements are met.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11953,
+            "question_text": "What is the significance of the 'Minimum Grade Threshold' in the admission criteria?",
+            "options": [
+                "It serves as a filter to ensure the student can handle the academic rigor of the degree",
+                "It is used to determine the exact discount on tuition fees",
+                "It is optional and does not affect the admission decision",
+                "It only applies to international students"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Universities set minimum grade thresholds to maintain academic standards and ensure that admitted students are adequately prepared for the program's coursework.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11954,
+            "question_text": "Which body is responsible for granting equivalence for foreign secondary school diplomas in Pakistan?",
+            "options": [
+                "The Higher Education Commission (HEC)",
+                "The Ministry of Education",
+                "The Inter Board Committee of Chairmen (IBCC)",
+                "The Federal Board of Intermediate and Secondary Education"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The IBCC is the official statutory body in Pakistan responsible for the equivalence of foreign qualifications with local ones.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11955,
+            "question_text": "When submitting academic transcripts for admission, why are 'Original' documents often requested instead of photocopies?",
+            "options": [
+                "To verify the authenticity of the seals and signatures",
+                "To prevent the loss of digital files",
+                "Because universities charge a higher application fee for photocopies",
+                "It is a legal requirement for the university's internal library"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Verification of official academic records is essential to maintain the integrity of the admission process and ensure the student meets all stated requirements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11956,
+            "question_text": "In the A-Level system, what does a 'Predicted Grade' serve during the preliminary application stage?",
+            "options": [
+                "A permanent record that replaces the final certificate",
+                "A temporary estimate of academic performance used for early admission consideration",
+                "A score that automatically grants a scholarship",
+                "A measurement of the student's extracurricular activity level"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Predicted grades are provided by teachers to give universities an idea of the student's potential before final exam results are released.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11957,
+            "question_text": "What is the primary academic advantage of having an 'Advanced Subsidiary' (AS) qualification?",
+            "options": [
+                "It replaces the need for a university degree",
+                "It serves as a partial completion of the A-Level, demonstrating early academic achievement",
+                "It is required for all students regardless of their main curriculum",
+                "It allows students to skip the English Proficiency Assessment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "AS-Levels act as a benchmark for student progress and are often used by admissions officers to gauge an applicant's potential before the final A2 year is completed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11958,
+            "question_text": "What is the primary function of a transcript of records when applying for the Associate Degree in Business?",
+            "options": [
+                "To prove payment of application fees",
+                "To provide a verified historical record of academic performance",
+                "To substitute for an IBCC equivalence certificate",
+                "To act as a letter of recommendation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Transcripts provide the official, comprehensive record of grades earned across all subjects, which is essential for evaluating eligibility.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11959,
+            "question_text": "Why do some institutions require 'attested' copies of academic certificates?",
+            "options": [
+                "To ensure the documents are authentic and verified by an authorized authority",
+                "To increase the processing fee of the application",
+                "To check the quality of the paper used for the certificate",
+                "To allow for document editing"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Attestation confirms that the document is a true copy of the original and reduces the risk of fraud.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11960,
+            "question_text": "If an applicant has completed 12 years of education but lacks a formal diploma, what document is most critical for establishing their academic status?",
+            "options": [
+                "A personal statement",
+                "A provisional certificate or official notification of results",
+                "A library membership card",
+                "A copy of the applicant's birth certificate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In the absence of a final diploma, official results or provisional certificates act as proof that the curriculum requirements have been met.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11962,
+            "question_text": "How does the 'grading scale' comparison assist admissions officers during the evaluation of international diplomas?",
+            "options": [
+                "It helps convert different national grading systems into a standard format",
+                "It determines the student's eligibility for sports scholarships",
+                "It measures the student's physical height and health",
+                "It is used to rank students by age"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Different countries use different grading scales (e.g., GPA vs. percentage); conversion ensures a fair comparison of academic merit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11963,
+            "question_text": "What is the consequence of failing to provide a required equivalence certificate for an O-Level qualification?",
+            "options": [
+                "The application is automatically prioritized",
+                "The application will be deemed incomplete and cannot be processed",
+                "The student is automatically granted a scholarship",
+                "The student is exempted from English testing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Equivalence certificates are mandatory for foreign credentials to be recognized by local educational standards; missing them prevents eligibility verification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

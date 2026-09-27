@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "General Knowledge — Science",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "general-knowledge-science",
+    "url": "/national-cybercrime-investigation-agency/general-knowledge-science/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14580,
+            "question_text": "Which international body recently elevated the status of 'Blue Economy' concepts, emphasizing sustainable resource management across coastal regions and maritime sectors?",
+            "options": [
+                "Global Coral Reef Initiative (GCRI)",
+                "United Nations Economic Commission for Asia and the Pacific (UNESCAP)",
+                "International Maritime Organization (IMO)",
+                "World Trade Organization (WTO)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "UNESCAP has played a leading role in promoting Blue Economy frameworks, focusing on the sustainable development of ocean resources and promoting integrated coastal management across Asia and the Pacific.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

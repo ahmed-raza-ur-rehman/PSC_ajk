@@ -1,0 +1,123 @@
+{
+    "category": "Department of Motor Vehicles (DMV)",
+    "name": "Safe Driving Practices",
+    "board": "department-of-motor-vehicles-dmv",
+    "subject": "safe-driving-practices",
+    "url": "/department-of-motor-vehicles-dmv/safe-driving-practices/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 6925,
+            "question_text": "What is the primary danger associated with texting while driving?",
+            "options": [
+                "It forces you to drive slower than the speed limit",
+                "It takes your eyes off the road for an average of 5 seconds",
+                "It makes the vehicle's navigation system malfunction",
+                "It increases fuel consumption"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Texting is a major distraction that removes the driver's focus from the road for several seconds, significantly increasing the risk of a crash.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6926,
+            "question_text": "What is the best way to avoid drowsy driving on long interstate trips?",
+            "options": [
+                "Drive only at night when there is less traffic",
+                "Drink large amounts of coffee before leaving",
+                "Plan regular breaks and recognize signs of fatigue",
+                "Listen to loud music to stay awake"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Fatigue on monotonous highways is a major hazard; regular breaks are essential for maintaining alertness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6929,
+            "question_text": "Why are wildlife crossings considered a significant road hazard in the US?",
+            "options": [
+                "Animals often run into the road suddenly at dawn or dusk",
+                "They increase the amount of highway construction",
+                "They force drivers to use their brakes too often",
+                "They make roads more slippery"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Wildlife, especially deer, are most active at dawn and dusk, making sudden collisions common in many parts of the country.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6930,
+            "question_text": "What should you do if your car begins to hydroplane on a wet road?",
+            "options": [
+                "Slam on the brakes immediately",
+                "Steer sharply to the side",
+                "Ease off the accelerator and keep the steering wheel steady",
+                "Increase your speed to regain traction"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Hydroplaning occurs when tires lose contact with the road. The safest response is to slow down gradually without sudden braking or steering.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6931,
+            "question_text": "What does keeping a safe following distance help you achieve?",
+            "options": [
+                "Higher fuel efficiency",
+                "More time to react to the vehicle in front",
+                "The ability to change lanes without signaling",
+                "Better vision of oncoming traffic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A safe following distance ensures that you have enough space and time to stop or maneuver if the car ahead stops suddenly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6933,
+            "question_text": "What is the most effective way to prevent drowsy driving during a long trip?",
+            "options": [
+                "Turn up the music",
+                "Drink large amounts of coffee",
+                "Plan regular breaks and get enough sleep before the trip",
+                "Open the car windows"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Fatigue causes slow reaction times; the only real solution is resting or avoiding driving when sleep-deprived.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6934,
+            "question_text": "Why are wildlife crossings a significant road hazard in the US?",
+            "options": [
+                "They are usually hidden from view",
+                "They frequently involve sudden animal presence in the road, leading to collisions",
+                "They require drivers to stop completely",
+                "They have no signage"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Animals can enter the road suddenly, especially at dawn or dusk, creating a high risk for vehicle collisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6935,
+            "question_text": "What is the main benefit of maintaining a safe following distance?",
+            "options": [
+                "It improves gas mileage",
+                "It allows more time to react to the vehicle ahead if it stops suddenly",
+                "It makes passing other cars easier",
+                "It is required by insurance companies"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Following at a safe distance provides a buffer zone, giving you enough time to brake safely if the driver in front stops abruptly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

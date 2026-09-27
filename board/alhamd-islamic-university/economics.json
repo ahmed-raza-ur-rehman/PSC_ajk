@@ -1,0 +1,179 @@
+{
+    "category": "Alhamd Islamic University",
+    "name": "Economics",
+    "board": "alhamd-islamic-university",
+    "subject": "economics",
+    "url": "/alhamd-islamic-university/economics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12357,
+            "question_text": "What does the 'Law of Demand' state?",
+            "options": [
+                "As price increases, quantity demanded increases",
+                "As price decreases, quantity demanded increases",
+                "Price has no effect on quantity demanded",
+                "Supply always equals demand"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The law of demand establishes an inverse relationship between the price of a good and the quantity consumers are willing to buy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12358,
+            "question_text": "Which of the following is considered a macroeconomic topic?",
+            "options": [
+                "Price of milk in a local grocery store",
+                "The unemployment rate of a country",
+                "Production costs of a specific firm",
+                "Consumer preferences for a new car"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Macroeconomics focuses on large-scale economic factors, such as national unemployment, inflation, and GDP.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12359,
+            "question_text": "What is the opportunity cost of an action?",
+            "options": [
+                "The monetary cost of the action",
+                "The value of the next best alternative given up",
+                "The sum of all potential benefits",
+                "The cost of production"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Opportunity cost represents the benefits an individual misses out on when choosing one alternative over another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12360,
+            "question_text": "When the price of a substitute good increases, what happens to the demand for the original good?",
+            "options": [
+                "It decreases",
+                "It stays the same",
+                "It increases",
+                "It becomes perfectly inelastic"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If a substitute good becomes more expensive, consumers switch to the original good, increasing its demand.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12361,
+            "question_text": "What does a 'price ceiling' typically cause in a market?",
+            "options": [
+                "A surplus",
+                "Market equilibrium",
+                "A shortage",
+                "Increased production"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A price ceiling set below the equilibrium price creates a situation where quantity demanded exceeds quantity supplied.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12362,
+            "question_text": "GDP (Gross Domestic Product) measures which of the following?",
+            "options": [
+                "Total market value of all final goods and services produced within a country",
+                "The wealth of a country's citizens",
+                "Total exports minus imports",
+                "The average income of a worker"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "GDP is the standard measure of the value of final goods and services produced within a country's borders.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12363,
+            "question_text": "What is inflation?",
+            "options": [
+                "An increase in the production of goods",
+                "A sustained increase in the general price level of goods and services",
+                "A decrease in the unemployment rate",
+                "A decrease in the money supply"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inflation is characterized by a rise in the average price level, leading to a decrease in the purchasing power of money.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12364,
+            "question_text": "What happens in a market when the price is set below the equilibrium price?",
+            "options": [
+                "A surplus is created",
+                "A shortage is created",
+                "Demand decreases",
+                "Supply increases"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If the price is too low, the quantity demanded will exceed the quantity supplied, resulting in a shortage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12365,
+            "question_text": "Which of the following represents 'Elastic Demand'?",
+            "options": [
+                "Consumers are not sensitive to price changes",
+                "The percentage change in quantity demanded is greater than the percentage change in price",
+                "The product has no substitutes",
+                "The total revenue remains constant when price changes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Elastic demand means the quantity demanded is highly responsive to price fluctuations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12366,
+            "question_text": "What is meant by the 'Circular Flow of Income'?",
+            "options": [
+                "The movement of money between households and firms",
+                "The increase in GDP over time",
+                "The banking system's credit creation",
+                "The cycle of inflation and deflation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The circular flow model shows how money, goods, and services move between sectors of the economy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12367,
+            "question_text": "What is 'Fiscal Policy'?",
+            "options": [
+                "Government control over money supply",
+                "The use of government spending and taxation to influence the economy",
+                "The regulation of international trade",
+                "The strategy of private banks to set interest rates"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fiscal policy involves the government manipulating budget levels (spending) and tax rates to manage economic activity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12368,
+            "question_text": "If a good is considered a 'Normal Good', what happens when consumer income rises?",
+            "options": [
+                "Demand for the good decreases",
+                "Demand for the good increases",
+                "The supply of the good increases",
+                "The equilibrium price falls"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For normal goods, an increase in income leads to an increase in demand as consumers have more purchasing power.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "category": "Law School Admission Council (LSAC)",
+    "name": "LSAT Argumentative Writing",
+    "board": "law-school-admission-council-lsac",
+    "subject": "lsat-argumentative-writing",
+    "url": "/law-school-admission-council-lsac/lsat-argumentative-writing/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9586,
+            "question_text": "If a law school is deciding whether to implement an in-house loan program to help students, which of the following arguments best supports the school's initiative?",
+            "options": [
+                "Students should rely solely on federal loans regardless of individual financial need.",
+                "In-house loans provide a necessary safety net for students who have exhausted federal options due to new loan limits.",
+                "Financial aid uncertainty is not a concern for current law school applicants.",
+                "The school should increase tuition to cover the costs of these loans."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This directly addresses the problem (exhausted federal options) with the proposed solution (supplemental loans), which is the primary reason given for this initiative in the text.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9588,
+            "question_text": "When discussing the importance of diversity in the legal profession, which of the following arguments aligns with the goals mentioned by LSAC?",
+            "options": [
+                "Diversity is unnecessary because the legal profession already reflects society perfectly.",
+                "Increasing diversity makes the legal profession more legitimate and trusted by reflecting the diverse population it serves.",
+                "Diversity should be limited to avoid 'disturbing' the predictability of traditional recruitment.",
+                "The profession should prioritize test scores exclusively over any other personal background or identity."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text explicitly states that to be legitimate and trusted, the legal profession should include individuals from all walks of life and reflect our society.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9589,
+            "question_text": "Which of the following arguments best aligns with the goals of promoting diversity in the legal profession as mentioned by LSAC?",
+            "options": [
+                "Diversity limits the number of qualified applicants.",
+                "The legal system is more legitimate and trusted when it reflects the diverse society it serves.",
+                "Diversity is only necessary for large law firms, not public interest law.",
+                "The profession should prioritize standard backgrounds over diverse experiences."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "LSAC emphasizes that for the legal profession and justice system to be trusted, it should include individuals from all walks of life.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9590,
+            "question_text": "A student argues that they do not need to prepare for the LSAT because they have good grades. Using the information on the LSAC website, how would you refute this?",
+            "options": [
+                "Grades are not useful for law school admissions.",
+                "The LSAT is a unique test of reasoning skills that requires practice to build familiarity with the interface and question types.",
+                "The LSAT is easier than undergraduate coursework.",
+                "LSAC does not recommend practicing for the test."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "LSAC states that preparing for the LSAT helps build confidence and familiarity with the specific test interface and question types.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9591,
+            "question_text": "Consider the argument: 'Because master's degree programs are shorter and cheaper than JD programs, they are superior for every prospective student.' Why is this argument flawed?",
+            "options": [
+                "It assumes every student's goal is to spend the least amount of money possible.",
+                "It ignores that master's degrees do not allow a person to practice law as an attorney, which might be the goal for many.",
+                "It is correct; there are no flaws in this logic.",
+                "It assumes JD programs are too long."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The value of a degree depends on the student's career goals. If a student wants to be an attorney, the master's degree does not fulfill that requirement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9592,
+            "question_text": "Proponents of rural legal initiatives argue that law schools should recruit more students from rural areas. What is the most logical supporting point for this argument?",
+            "options": [
+                "Rural students are better at law than urban students.",
+                "Students from rural areas are more likely to return to those areas to practice, helping to address the 'legal desert' issue.",
+                "It will make law schools less competitive.",
+                "It will eliminate the need for urban law firms."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The rural access to justice initiative is focused on solving the shortage of lawyers in rural areas; recruiting students who are already connected to those communities is a strategy to achieve this.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9593,
+            "question_text": "A student claims that because Master's degree programs take less time and money than JD programs, they are superior for every prospective student. Why is this argument logically flawed?",
+            "options": [
+                "It assumes that 'shorter and cheaper' automatically means 'superior' for everyone's specific career goals.",
+                "It ignores the fact that Master's degrees are more difficult to earn.",
+                "It incorrectly states the length of a JD degree.",
+                "It fails to mention that JD programs are illegal."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 'superiority' of a degree depends on individual goals, such as wanting to practice law, which a Master's degree does not allow.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9594,
+            "question_text": "A student argues they do not need to prepare for the LSAT because they have good undergraduate grades. How can this be refuted using LSAC's perspective?",
+            "options": [
+                "The LSAT tests critical reasoning skills specifically for law school success, which undergraduate grades may not fully capture.",
+                "Good grades are actually a negative factor for law school admissions.",
+                "The LSAT is the only test that matters for law school.",
+                "The student is lazy."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "LSAC maintains that the LSAT is a distinct predictor of first-year law school performance and helps students develop necessary critical thinking skills.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9595,
+            "question_text": "What is the primary purpose of an LLM degree for a lawyer who already has a JD?",
+            "options": [
+                "To become an undergraduate professor",
+                "To gain specialized knowledge or advanced credentials in a specific legal area",
+                "To replace their JD qualification",
+                "To practice law in a state where they are not barred"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text explains the LLM is for lawyers to expand their knowledge and specialize in a specific field.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9596,
+            "question_text": "Why might a non-lawyer choose an MSL or MLS degree?",
+            "options": [
+                "To practice law as an attorney in a courtroom",
+                "To gain legal knowledge to improve their effectiveness in a non-legal profession",
+                "To avoid taking the LSAT",
+                "To become a judge"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text defines these master's degrees as being for those who do not wish to practice law but need legal knowledge to advance in their careers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9597,
+            "question_text": "What is the most logical supporting point for the argument that law schools should recruit more students from rural areas?",
+            "options": [
+                "Rural areas are generally wealthier than urban areas.",
+                "Rural residents often face legal deserts with little access to representation.",
+                "Rural areas have better broadband for online law school.",
+                "Recruiting rural students is cheaper for law schools."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text emphasizes that many rural areas are 'legal deserts' and that rural communities struggle significantly with access to justice.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9600,
+            "question_text": "A student argues that they do not need to prepare for the LSAT because they have good undergraduate grades. Using the information on the LSAC website, how would you refute this?",
+            "options": [
+                "Grades are completely irrelevant to law school success.",
+                "The LSAT assesses specific critical thinking and reasoning skills that are predictive of law school success, regardless of undergraduate grades.",
+                "The LSAT is only for students with poor grades.",
+                "Undergraduate grades are not accepted by law schools."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "LSAC highlights the LSAT as the single best predictor of first-year performance, assessing reasoning skills that are distinct from those measured by undergraduate grades.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

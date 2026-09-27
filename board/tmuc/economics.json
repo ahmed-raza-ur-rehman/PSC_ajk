@@ -1,0 +1,151 @@
+{
+    "category": "TMUC",
+    "name": "Economics",
+    "board": "tmuc",
+    "subject": "economics",
+    "url": "/tmuc/economics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11483,
+            "question_text": "What happens to the equilibrium price when supply increases while demand remains constant?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains constant",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An increase in supply with constant demand creates a surplus, which exerts downward pressure on the market price until a new equilibrium is reached.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11484,
+            "question_text": "In macroeconomics, what does 'GDP' represent?",
+            "options": [
+                "Gross Domestic Product",
+                "Global Development Price",
+                "Gross Debt Projection",
+                "General Demand Pattern"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "GDP is the total market value of all final goods and services produced within a country in a given period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11496,
+            "question_text": "Which term describes a situation where a small change in price leads to a large change in quantity demanded?",
+            "options": [
+                "Inelastic demand",
+                "Unitary elasticity",
+                "Elastic demand",
+                "Perfectly inelastic demand"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "High sensitivity to price changes characterizes demand that is elastic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11497,
+            "question_text": "What is 'Opportunity Cost'?",
+            "options": [
+                "The total cost of production",
+                "The value of the next best alternative foregone",
+                "The monetary cost of an item",
+                "The profit made after expenses"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Opportunity cost represents the benefits an individual misses out on when choosing one alternative over another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11498,
+            "question_text": "What usually happens to the quantity supplied if the price of a product rises, ceteris paribus?",
+            "options": [
+                "Quantity supplied decreases",
+                "Quantity supplied remains constant",
+                "Quantity supplied increases",
+                "Supply curve shifts to the left"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Law of Supply states that, all else being equal, price and quantity supplied have a direct relationship.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11499,
+            "question_text": "What does a 'Monopoly' market structure imply?",
+            "options": [
+                "Many buyers and sellers",
+                "A single firm controls the entire market supply",
+                "Two firms competing for market share",
+                "Easy entry and exit for competitors"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A monopoly exists when a single seller dominates a market with no close substitutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11601,
+            "question_text": "Which policy is used by Central Banks to control the money supply and interest rates?",
+            "options": [
+                "Fiscal Policy",
+                "Trade Policy",
+                "Monetary Policy",
+                "Industrial Policy"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Monetary policy involves managing money supply and interest rates to influence the economy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11652,
+            "question_text": "What does a Production Possibility Frontier (PPF) show?",
+            "options": [
+                "Maximum possible output combinations of two goods",
+                "The total demand for all goods in an economy",
+                "The equilibrium price of a single commodity",
+                "The inflation rate over time"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The PPF illustrates the trade-offs and efficiency in producing different combinations of goods with limited resources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11653,
+            "question_text": "Which market structure is characterized by a few large firms dominating the industry?",
+            "options": [
+                "Perfect Competition",
+                "Monopolistic Competition",
+                "Oligopoly",
+                "Monopsony"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An oligopoly exists when a small number of firms have significant market power and influence industry prices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11654,
+            "question_text": "What happens to the price of a good if demand decreases while supply stays the same?",
+            "options": [
+                "Price rises",
+                "Price stays the same",
+                "Price falls",
+                "Quantity sold increases"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A decrease in demand with stable supply creates a surplus, leading to a downward pressure on price to reach a new equilibrium.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

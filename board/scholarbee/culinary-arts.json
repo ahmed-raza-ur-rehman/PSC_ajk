@@ -1,0 +1,151 @@
+{
+    "category": "ScholarBee",
+    "name": "Culinary Arts",
+    "board": "scholarbee",
+    "subject": "culinary-arts",
+    "url": "/scholarbee/culinary-arts/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12926,
+            "question_text": "Which of the following describes the 'sous-vide' cooking method?",
+            "options": [
+                "Cooking food rapidly in a deep fat fryer",
+                "Vacuum-sealing food and cooking it in a precisely controlled water bath",
+                "Searing meat at high temperatures in a cast-iron skillet",
+                "Cooking vegetables in a pressurized steam environment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sous-vide (French for 'under vacuum') is a method that ensures even cooking and maintains moisture by using temperature-controlled water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12927,
+            "question_text": "What is the primary function of an emulsifier in culinary preparations like mayonnaise?",
+            "options": [
+                "To add sweetness to the mixture",
+                "To bind two immiscible liquids, such as oil and water, into a stable mixture",
+                "To increase the shelf life of the product",
+                "To change the color of the ingredients"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Emulsifiers possess molecules that can bond with both fat and water, allowing them to remain suspended together instead of separating.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12928,
+            "question_text": "What does the culinary term 'Mise en place' mean?",
+            "options": [
+                "To cook in a bain-marie",
+                "Everything in its place, meaning preparation before cooking",
+                "A specific type of French dessert knife",
+                "To sear meat at high temperatures"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mise en place refers to the organization and preparation of ingredients and tools before starting the actual cooking process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12929,
+            "question_text": "What is the purpose of 'blanching' a vegetable?",
+            "options": [
+                "To caramelize the natural sugars",
+                "To cook it fully through high-pressure steaming",
+                "To briefly boil it in water and then submerge in an ice bath",
+                "To dehydrate the vegetable for preservation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Blanching stops enzyme activity, preserves color, and softens vegetables while keeping them crisp.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12930,
+            "question_text": "Which starch is commonly used as a thickening agent in sauces but must be mixed with cold water to avoid lumps?",
+            "options": [
+                "Cornstarch",
+                "Powdered sugar",
+                "Baking soda",
+                "Yeast"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Cornstarch must be mixed with cold liquid to create a slurry before adding to hot liquids to prevent clumping.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12931,
+            "question_text": "What is the name of the classic French 'mother sauce' made from a white roux and milk?",
+            "options": [
+                "Hollandaise",
+                "Espagnole",
+                "Béchamel",
+                "Velouté"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Béchamel is one of the five mother sauces, consisting of milk thickened with a roux (butter and flour).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12932,
+            "question_text": "Which temperature range is known as the 'Danger Zone' for food safety?",
+            "options": [
+                "0°F to 32°F",
+                "40°F to 140°F",
+                "165°F to 212°F",
+                "32°F to 40°F"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The danger zone is the temperature range in which bacteria grow most rapidly; food should not be left in this range for more than two hours.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12933,
+            "question_text": "What is the difference between a stock and a broth?",
+            "options": [
+                "Stock is made with meat; broth is made with bones",
+                "Stock is made primarily with bones; broth is made with meat and vegetables",
+                "Broth must be strained twice",
+                "Stock is served cold; broth is served hot"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Stocks derive their body from the gelatin released by bones, whereas broths derive flavor from meat and aromatics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12934,
+            "question_text": "What does 'al dente' mean when cooking pasta?",
+            "options": [
+                "Cooked until very soft and mushy",
+                "Cooked to the point of being firm to the bite",
+                "Cooked with olive oil only",
+                "Cooked with excess salt"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Al dente, literally meaning 'to the tooth,' describes pasta that is cooked but still has a slight resistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12935,
+            "question_text": "What is the primary function of acid (like lemon juice) in a marinade?",
+            "options": [
+                "To add sweetness",
+                "To tenderize meat by denaturing proteins",
+                "To increase the smoke point of oils",
+                "To act as a thickener"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Acids (vinegar, citrus) help break down the protein structure in meat, which tenderizes it during the marination process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

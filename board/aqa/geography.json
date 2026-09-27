@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Geography",
+    "board": "aqa",
+    "subject": "geography",
+    "url": "/aqa/geography/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8842,
+            "question_text": "Which layer of the Earth is the innermost part?",
+            "options": [
+                "Crust",
+                "Mantle",
+                "Outer Core",
+                "Inner Core"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Earth is structured as the crust, mantle, outer core, and the innermost layer, the inner core.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8843,
+            "question_text": "What is the name of the innermost layer of the Earth?",
+            "options": [
+                "Crust",
+                "Mantle",
+                "Outer core",
+                "Inner core"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Earth is composed of the crust, mantle, outer core, and the innermost solid center, the inner core.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8844,
+            "question_text": "What is the name for the Earth's innermost solid layer?",
+            "options": [
+                "The Mantle",
+                "The Crust",
+                "The Inner Core",
+                "The Outer Core"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Earth is composed of layers, with the dense, solid inner core located at the very center.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8845,
+            "question_text": "What is the term for the process of people moving to urban areas?",
+            "options": [
+                "Migration",
+                "Urbanization",
+                "Deforestation",
+                "Ruralization"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Urbanization is the shift in population from rural, agricultural areas to urban centers like cities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

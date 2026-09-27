@@ -1,0 +1,165 @@
+{
+    "category": "Hands Institute of Development Studies",
+    "name": "Mathematics",
+    "board": "hands-institute-of-development-studies",
+    "subject": "mathematics",
+    "url": "/hands-institute-of-development-studies/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11900,
+            "question_text": "If 3x + 5 = 20, what is the value of x?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 5 from both sides to get 3x = 15, then divide by 3 to get x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11901,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To find 15% of 200, multiply 0.15 by 200, which equals 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11902,
+            "question_text": "Solve for y: 2y^2 = 50.",
+            "options": [
+                "5",
+                "10",
+                "25",
+                "50"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Divide by 2 to get y^2 = 25, then take the square root of 25, which is 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11903,
+            "question_text": "If a square has an area of 64 square meters, what is the length of one side?",
+            "options": [
+                "6 meters",
+                "8 meters",
+                "12 meters",
+                "16 meters"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The area of a square is calculated as side squared (s^2). The square root of 64 is 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11904,
+            "question_text": "What is the average of the following set of numbers: 12, 18, 20, and 30?",
+            "options": [
+                "18",
+                "20",
+                "22",
+                "25"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To find the average, sum the numbers (80) and divide by the count (4). 80 / 4 = 20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11905,
+            "question_text": "Solve for x: 5(x - 3) = 25",
+            "options": [
+                "5",
+                "7",
+                "8",
+                "10"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Divide both sides by 5 to get x - 3 = 5. Then add 3 to both sides: x = 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11906,
+            "question_text": "A shirt is discounted by 20% from its original price of $50. What is the new price?",
+            "options": [
+                "$30",
+                "$35",
+                "$40",
+                "$45"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "20% of $50 is $10. Subtracting $10 from $50 leaves $40.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11907,
+            "question_text": "If the ratio of boys to girls in a class is 3:2, and there are 30 students total, how many girls are there?",
+            "options": [
+                "10",
+                "12",
+                "15",
+                "18"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Total parts in ratio = 5 (3+2). Each part is 30/5 = 6. Girls = 2 parts * 6 = 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11908,
+            "question_text": "If a rectangle has a length of 12 cm and a width of 5 cm, what is the length of its diagonal?",
+            "options": [
+                "13 cm",
+                "15 cm",
+                "17 cm",
+                "60 cm"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Using the Pythagorean theorem (a^2 + b^2 = c^2), 12^2 + 5^2 = 144 + 25 = 169. The square root of 169 is 13.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11909,
+            "question_text": "What is the value of 2^4 * 3^2?",
+            "options": [
+                "72",
+                "144",
+                "48",
+                "96"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "2^4 = 16 and 3^2 = 9. 16 multiplied by 9 equals 144.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11910,
+            "question_text": "A car travels at 60 km/h. How far will it travel in 150 minutes?",
+            "options": [
+                "120 km",
+                "150 km",
+                "180 km",
+                "200 km"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "150 minutes is 2.5 hours. 60 km/h * 2.5 hours = 150 km.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

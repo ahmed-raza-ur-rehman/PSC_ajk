@@ -1,0 +1,627 @@
+{
+    "category": "FIA",
+    "name": "Pakistan Studies — Constitution of Pakistan (1973)",
+    "board": "fia",
+    "subject": "pakistan-studies-constitution-of-pakistan-1973",
+    "url": "/fia/pakistan-studies-constitution-of-pakistan-1973/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 44,
+    "questions": [
+        {
+            "id": 1034,
+            "question_text": "Choose the best synonym for 'Equivocal' in the context of communication.",
+            "options": [
+                "Vague",
+                "Obscure",
+                "Ambiguous",
+                "Ambivalent"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Equivocal means open to more than one interpretation, making 'Ambiguous' the closest and most accurate synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1035,
+            "question_text": "What is the one-word substitute for 'agreement or consent that is not expressed or written, but is assumed or implied by action'?",
+            "options": [
+                "Implied authorization",
+                "Manifest acceptance",
+                "Tacit consent",
+                "Verbal assent"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tacit consent means implied agreement; it is acceptance by silence or action rather than explicit words.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1036,
+            "question_text": "What is the one-word substitute for 'a situation where there is a general agreement or shared belief among a group of people'?",
+            "options": [
+                "Consensus",
+                "Majority",
+                "Concurrence",
+                "Agreement"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Consensus means a general agreement or commonly held opinion, which is more precise than just 'agreement' or 'concurrence'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1234,
+            "question_text": "Which word describes a feeling of mixed emotions or contradictory ideas regarding something or someone?",
+            "options": [
+                "Hesitant",
+                "Ambivalent",
+                "Vacillating",
+                "Indecisive"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ambivalent specifically refers to holding simultaneous contradictory feelings or attitudes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1445,
+            "question_text": "Choose the word that means 'a person who is good at guessing or predicting things'.",
+            "options": [
+                "seer",
+                "precog",
+                "diviner",
+                "prophet"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A diviner is specifically a person who predicts the future, while a seer is more general.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1446,
+            "question_text": "A deep feeling of remorse and regret is best described as:",
+            "options": [
+                "melancholy",
+                "remorse",
+                "abnegation",
+                "consternation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Remorse refers specifically to deep regret over past actions, making it the most precise synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1545,
+            "question_text": "A person who is skilled in all branches of knowledge, often studied in the context of advanced intellectual capabilities, is best described as:",
+            "options": [
+                "Polyglot",
+                "Polymath",
+                "Universalist",
+                "Omniscient"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Polymath refers to a person knowing or skilled in many different branches of knowledge (e.g., Leonardo da Vinci). Polyglot means speaking many languages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1546,
+            "question_text": "Synonym for 'ephemeral':",
+            "options": [
+                "Transitory",
+                "Enduring",
+                "Vibrant",
+                "Permanent"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ephemeral means lasting for a very short time. Transitory means not permanent; lasting only for a short time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1645,
+            "question_text": "A person who is fond of collecting stamps is called a:",
+            "options": [
+                "Bibliophile",
+                "Antiquarian",
+                "Philatelist",
+                "Numismatist"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Philatelist is the specialized term for a stamp collector. Numismatist collects coins, and Bibliophile loves books.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1646,
+            "question_text": "Choose the word that means 'belonging to no particular owner; public':",
+            "options": [
+                "Commonplace",
+                "Universal",
+                "Public domain",
+                "Communal"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Communal refers to things used or belonging to the community as a whole. Public domain describes legal ownership.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1745,
+            "question_text": "A person who writes books or articles on a particular subject, often for educational purposes, is known as a:",
+            "options": [
+                "polemicist",
+                "chronicler",
+                "satirist",
+                "scholar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A chronicler is someone who records events or writes detailed accounts. Polemicist is an advocate of a doctrine; satirist is a writer of satire.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1746,
+            "question_text": "The term 'capricious' is closest in meaning to:",
+            "options": [
+                "vigorous",
+                "staid",
+                "meticulous",
+                "fickle"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Capricious means subject to sudden and inexplicable changes of mood or behavior, making 'fickle' the correct synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1845,
+            "question_text": "A person who studies or writes about historical artifacts and ancient civilizations is called a:",
+            "options": [
+                "paleontologist",
+                "historian",
+                "anthropologist",
+                "archaeologist"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Archaeologist specializes in excavating and studying human history and culture through physical remains.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1846,
+            "question_text": "Select the word that means 'a detailed description or account of something':",
+            "options": [
+                "epitome",
+                "enumeration",
+                "exposition",
+                "narrative"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Exposition refers to the act of explaining something in detail, making it the best synonym for a detailed account.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1847,
+            "question_text": "The committee members disagreed among themselves on which strategies to adopt, leading to significant delays in the project's completion.",
+            "options": [
+                "The committee members disagreed among themselves on which strategies to adopt, and this led to significant delays in the project's completion.",
+                "The committee members disagreed among themselves on which strategies to adopt, which led to significant delays in the project's completion.",
+                "The committee members disagreed among themselves on which strategies to adopt, leading to significant delays in the project's completion.",
+                "The committee members disagreed among themselves on what strategies to adopt, leading to significant delays in the project's completion."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The phrase 'on which strategies' is grammatically awkward; 'on what strategies' is the most natural and concise correction for expressing choice.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1946,
+            "question_text": "A person who knows many things and is knowledgeable in many fields is called a:",
+            "options": [
+                "Polyglot",
+                "Omniscient",
+                "Erudite",
+                "Polymath"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Polymath refers to a person with deep knowledge in multiple fields, whereas polyglot means knowing multiple languages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1947,
+            "question_text": "The practice of having excessive interest in minor details is best described by which term?",
+            "options": [
+                "Scrupulousness",
+                "Fastidiousness",
+                "Pedantry",
+                "Meticulousness"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Pedantry refers to excessive concern with minor academic details, often in an irritating way, while fastidiousness is general carefulness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2084,
+            "question_text": "Neither the students nor the professor (believe) / the theory to be accurate, thus requiring us to reevaluate our assumptions.",
+            "options": [
+                "believe",
+                "believing",
+                "have believed",
+                "believes"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "When 'neither...nor' connects two singular subjects and one plural subject (professor and students), the verb agrees with the subject closest to it (students), requiring 'believe'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2955,
+            "question_text": "If she were to attend the meeting, (the chances of her giving a presentation) / would be significantly higher / than we had initially assumed.",
+            "options": [
+                "the chances of her giving a presentation would be significantly higher",
+                "the chances of her giving a presentation were significantly higher",
+                "the chances of her giving a presentation would be significantly higher",
+                "the chances of her giving a presentation are significantly higher"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The structure requires an inversion ('would be...') following the concessive clause 'If she were to attend...', maintaining consistent conditional tense.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3726,
+            "question_text": "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could avoid a significant overhaul of the departmental protocol.",
+            "options": [
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could avoid avoiding a significant overhaul of the departmental protocol.",
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could have avoided a significant overhaul of the departmental protocol.",
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could avoid a significant overhaul of the departmental protocol.",
+                "If the new guidelines had been properly disseminated, the employees would not have misinterpreted the policy's crucial directives and thus could not avoid a significant overhaul of the departmental protocol."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The structure 'If... had been' (Third Conditional) requires 'would not have' followed by 'could have' to maintain proper sequence and parallel tenses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4287,
+            "question_text": "Select the option that best corrects the following sentence: Because of his lack of experience, the advanced course was too challenging for him to follow, which disappointed his professor.",
+            "options": [
+                "The advanced course, because of his lack of experience, was too challenging for him to follow, disappointing his professor.",
+                "The advanced course was too challenging for him to follow due to his lack of experience, which disappointed his professor.",
+                "Because of his lack of experience, the advanced course was too challenging for him to follow, disappointing his professor.",
+                "Because of his lack of experience, the advanced course was too challenging for him to follow, which disappointed his professor."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The original sentence uses a dangling modifier ('which disappointed his professor'). Using the participial phrase structure (disappointing his professor) correctly modifies the main clause and clarifies the action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4388,
+            "question_text": "Choose the most grammatically correct revision for the underlined portion: The committee was unable to reach a decision until the necessary background data were compiled and reviewed.",
+            "options": [
+                "The committee was unable to reach a decision until the necessary background data were compiled and reviewed.",
+                "The committee was unable to reach a decision until the necessary background data were compiling and reviewing.",
+                "The committee was unable to reach a decision until necessary background data were to be compiled and reviewed.",
+                "The committee was unable to reach a decision until the necessary background data was compiled and reviewed."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "When 'data' is treated as a singular collective noun (as is common in official reports), it requires the singular verb 'was' and parallel structure 'was compiled and reviewed'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5410,
+            "question_text": "She only enjoys analyzing historical cases, especially those relating to regional geopolitical conflicts.",
+            "options": [
+                "She enjoys only analyzing historical cases, especially those relating to regional geopolitical conflicts.",
+                "She enjoys analyzing historical cases, especially only those relating to regional geopolitical conflicts.",
+                "She only enjoys analyzing historical cases, especially those relating to regional geopolitical conflicts.",
+                "She only enjoys to analyze historical cases, especially those relating to regional geopolitical conflicts."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The placement of 'only' is correct in option A, modifying the verb 'enjoys analyzing'; moving it changes the intended meaning (e.g., 'only analyzing' suggests she does nothing else).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5511,
+            "question_text": "Identify the segment that requires correction in the following sentence: 'Although he was exhausted from the long journey, he continued to work diligently, demonstrating a professionalism that few people possess.'",
+            "options": [
+                "demonstrating a professionalism that few people possess",
+                "he continued to work diligently",
+                "Although he was exhausted from the long journey",
+                "No correction is needed"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The relative clause 'that few people possess' should be separated by commas or restructured, as 'possess' is acting awkwardly as a possessive replacement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5884,
+            "question_text": "A government that functions without the constitution is described as:",
+            "options": [
+                "De jure",
+                "Ad hoc",
+                "Nominal",
+                "De facto"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "De facto means existing by fact or reality, while de jure refers to existence by law.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5885,
+            "question_text": "A person who knows everything about a particular subject is called a:",
+            "options": [
+                "Polymath",
+                "Savant",
+                "Erudite",
+                "Omniscient"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Omniscient means all-knowing; erudite refers to having scholarly knowledge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5984,
+            "question_text": "A person who studies and criticizes literature or language is best described as a:",
+            "options": [
+                "Critic",
+                "Pundit",
+                "Semantist",
+                "Philologist"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A critic analyzes and judges the merits and flaws of literary or artistic works. Semantist studies meaning, while Philologist studies language history.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5985,
+            "question_text": "The word 'fastidious' means:",
+            "options": [
+                "Disinclined to work",
+                "Overly careful and attentive to detail",
+                "Quick to anger",
+                "Having poor manners"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Fastidious describes someone with demanding, often exaggerated, standards for cleanliness or perfection. B, C, and D are incorrect synonyms or related concepts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6077,
+            "question_text": "A person who habitually speaks trivialities and nonsensical phrases is called a:",
+            "options": [
+                "vociferant",
+                "buffoon",
+                "jabberer",
+                "onanist"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Jabberer refers specifically to someone who talks nonsensically; buffoon means ridiculous clown.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6141,
+            "question_text": "A person who pretends to be knowledgeable but is in reality ignorant is called a:",
+            "options": [
+                "Sophist",
+                "Dilettante",
+                "Know-it-all",
+                "Pundit"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Sophist refers specifically to someone who uses clever arguments to deceive, often feigning knowledge for status, while 'Pundit' means expert.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6142,
+            "question_text": "Sudden and inexplicable change in a person's behavior or relationships is termed:",
+            "options": [
+                "Transience",
+                "Ephemera",
+                "Egregiousness",
+                "Idiosyncrasy"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Transience refers to the state of being temporary or fleeting, often used in the context of changing emotions or relationships. Idiosyncrasy means unique mannerisms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6212,
+            "question_text": "Which word best describes a person who feigns illness or distress to escape obligations or avoid work?",
+            "options": [
+                "Hypocrite",
+                "Complainer",
+                "Malingerer",
+                "Hypochondriac"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Malingerer specifically refers to someone feigning illness or giving false accounts to evade duty.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6213,
+            "question_text": "One who is skilled in interpreting dreams and psychic phenomena is called:",
+            "options": [
+                "Diviner",
+                "Agnostic",
+                "Oracle",
+                "Clairvoyant"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Clairvoyant means having or claiming to have mystical insight into things not known to the average person.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6288,
+            "question_text": "Choose the best one-word substitute for the phrase: 'Keeping records of expenses and income in an organized manner.'",
+            "options": [
+                "Financialization",
+                "Audit",
+                "Accountancy",
+                "Bookkeeping"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Bookkeeping is the process of recording financial transactions in systematic detail. 'Audit' is the inspection of accounts, and 'accountancy' is the overall profession.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6364,
+            "question_text": "Which of the following phrases is the best substitute for 'man of leisure'?",
+            "options": [
+                "Non-working person",
+                "Occupational professional",
+                "Idler",
+                "Dandy"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An idler is someone who spends time doing nothing or little. This is the most suitable and formal one-word substitute meaning someone without occupation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6366,
+            "question_text": "A systematic study of human behavior and personality traits is known as:",
+            "options": [
+                "Psychometrics",
+                "Psychoanalysis",
+                "Psychogeny",
+                "Psychometry"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Psychometrics is the field concerned with the theory and technique of psychological measurement (e.g., tests). Psychoanalysis is a therapeutic method.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6442,
+            "question_text": "Which word means 'the ability to appreciate beauty in art and nature'?",
+            "options": [
+                "aesthetic",
+                "perceptiveness",
+                "aesthetics",
+                "artistry"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The ability or appreciation of beauty itself is termed 'aesthetics' (noun); 'aesthetic' is the adjective describing something that relates to beauty.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6513,
+            "question_text": "A person who is extremely greedy and obsessed with accumulating wealth is described as suffering from:",
+            "options": [
+                "Avarice",
+                "Materialism",
+                "Rapacity",
+                "Cupidity"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Avarice is the extreme greed for wealth or material possessions. Rapacity means aggressive greed, while cupidity refers to lust or excessive desire (often physical).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6515,
+            "question_text": "What single word best describes the feeling or belief in universal brotherhood and shared humanity across all cultures?",
+            "options": [
+                "Stoicism",
+                "Egocentrism",
+                "Cosmopolitanism",
+                "Pragmatism"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Cosmopolitanism refers to the idea of citizenship or identity based on the world rather than a specific nation, signifying universal brotherhood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6587,
+            "question_text": "Which of the following terms means 'the study of ghosts and supernatural phenomena'?",
+            "options": [
+                "Phantasmagoria",
+                "Parapsychology",
+                "Occultism",
+                "Spectroscopy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Parapsychology is the study of paranormal phenomena, including psychic abilities and purported supernatural occurrences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6588,
+            "question_text": "The practice of having two or more religions in a single country is best described as:",
+            "options": [
+                "Secularism",
+                "Polytheism",
+                "Multiculturalism",
+                "Syncretism"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Multiculturalism refers to the acceptance and coexistence of multiple cultures and religions within a single society or country. Syncretism is the blending of different beliefs, which is a *process*, not the *practice* of coexisting religions. Polytheism refers to believing in multiple gods. Therefore, 'Multiculturalism' is the best description of the practice itself.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6735,
+            "question_text": "A group of trees is known by which collective noun?",
+            "options": [
+                "Cluster",
+                "Grove",
+                "Copse",
+                "Thicket"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A grove specifically denotes a small group of trees, often implying a cultivated or planted area. While a copse and thicket are also terms for small groups of trees, 'grove' is the most precise answer for this common vocabulary question.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6736,
+            "question_text": "Which of the following options correctly corrects the grammatical error in the sentence: 'The officer was advised to follow the procedure, filing a complaint, and submit necessary documents.'?",
+            "options": [
+                "The officer was advised to follow the procedure, file a complaint, and submit necessary documents.",
+                "The officer was advised to follow the procedure, file a complaint, and to submit necessary documents.",
+                "The officer was advised to follow the procedure, filing a complaint, and submit necessary documents.",
+                "The officer was advised, to follow the procedure, filing a complaint, and submitting necessary documents."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "To maintain parallelism, all elements following 'advised to' must be in the infinitive form (to + verb). The correct structure requires listing three parallel verbs: to follow, file, and submit. Option A achieves this by making all verbs base forms, ensuring grammatical consistency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6813,
+            "question_text": "Which term is best used for a written account that records detailed events in chronological order?",
+            "options": [
+                "Epitaph",
+                "Anecdote",
+                "Memoir",
+                "Chronicle"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A chronicle is a detailed historical record of events arranged in chronological order, making it suitable for recording sequential occurrences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "category": "Institute of Banking Personnel Selection",
+    "name": "English Language",
+    "board": "institute-of-banking-personnel-selection",
+    "subject": "english-language",
+    "url": "/institute-of-banking-personnel-selection/english-language/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 9892,
+            "question_text": "Choose the correct synonym for 'Transparent'.",
+            "options": [
+                "Opaque",
+                "Clear",
+                "Dark",
+                "Rough"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Transparent' means allowing light to pass through so that objects behind can be distinctly seen, which is synonymous with 'Clear'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9893,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "He go to the store yesterday.",
+                "He went to the store yesterday.",
+                "He gone to the store yesterday.",
+                "He going to the store yesterday."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sentence requires the past tense 'went' to agree with the time indicator 'yesterday'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9894,
+            "question_text": "Choose the correct antonym for 'Brave'.",
+            "options": [
+                "Courageous",
+                "Cowardly",
+                "Bold",
+                "Fearless"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cowardly is the opposite of brave.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9895,
+            "question_text": "Identify the sentence with no errors.",
+            "options": [
+                "He go to school daily.",
+                "He goes to school daily.",
+                "He going to school daily.",
+                "He gone to school daily."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject 'He' is singular, so it requires the verb 'goes'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9896,
+            "question_text": "Complete the phrase: 'She has been living here ____ 2010.'",
+            "options": [
+                "for",
+                "since",
+                "in",
+                "at"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Since' is used to denote a specific starting point in time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9897,
+            "question_text": "Which word is spelled incorrectly?",
+            "options": [
+                "Beautiful",
+                "Believe",
+                "Recieve",
+                "Necessary"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling is 'Receive'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9898,
+            "question_text": "Choose the synonym for 'Eager'.",
+            "options": [
+                "Lazy",
+                "Indifferent",
+                "Keen",
+                "Dull"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Keen means having or showing great interest or enthusiasm, which is synonymous with eager.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9906,
+            "question_text": "Select the correct collective noun for a group of lions.",
+            "options": [
+                "Pack",
+                "Herd",
+                "Pride",
+                "School"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A group of lions is referred to as a pride.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,613 @@
+{
+    "category": "FIA",
+    "name": "English — Reading Comprehension",
+    "board": "fia",
+    "subject": "english-reading-comprehension",
+    "url": "/fia/english-reading-comprehension/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 43,
+    "questions": [
+        {
+            "id": 1054,
+            "question_text": "Which body aims to foster cooperation in conflict resolution and counter-terrorism efforts among Muslim-majority nations, often addressing issues of transnational extremism?",
+            "options": [
+                "UN Security Council",
+                "SCO",
+                "Organization of Islamic Cooperation (OIC)",
+                "UN Human Rights Council"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The OIC is a political, economic, and social bloc representing 57 member states, predominantly Muslim-majority nations, focusing on shared Islamic concerns.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1055,
+            "question_text": "While SAARC focuses heavily on regional political cooperation among South Asian nations, which specialized organization promotes dialogue and connectivity among countries bordering the Bay of Bengal region?",
+            "options": [
+                "APEC",
+                "BBIN Initiative",
+                "ASEAN",
+                "BIMSTEC"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "BIMSTEC includes countries like Bangladesh, India, Myanmar, Sri Lanka, Thailand, Nepal, and Bhutan, focusing on holistic regional development and cooperation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1056,
+            "question_text": "In the context of developing economies, what is the primary function of the International Monetary Fund (IMF) regarding member states facing balance of payments crises?",
+            "options": [
+                "Directly managing a nation's national budget expenditure.",
+                "Providing structural adjustment loans conditional on policy reforms.",
+                "Guaranteeing debt repayment solely through interest rate hikes.",
+                "Funding infrastructure projects entirely through global taxation."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IMF loans typically come with policy conditions (Structural Adjustment Programs) requiring fiscal reforms, monetary stabilization, and institutional improvements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1256,
+            "question_text": "Which intergovernmental organization, focused on political and economic cooperation in Central Asia, was established primarily as an alternative to the structures of the Commonwealth of Independent States (CIS)?",
+            "options": [
+                "South Asian Association for Regional Cooperation (SAARC)",
+                "Organization of Islamic Cooperation (OIC)",
+                "Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC)",
+                "Shanghai Cooperation Organisation (SCO)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The SCO brings together key players in Central Asia and Eurasia, aiming for collective security and economic integration in that geopolitical region.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1465,
+            "question_text": "Which multilateral forum, primarily focused on counter-terrorism and regional stability in Eurasia, was established as an alternative to the OSCE and significantly involves nations like China and Russia?",
+            "options": [
+                "African Union (AU)",
+                "Organization of Islamic Cooperation (OIC)",
+                "Shanghai Cooperation Organization (SCO)",
+                "South Asian Association for Regional Cooperation (SAARC)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The SCO is a Eurasian intergovernmental policy platform that includes key members like China and Russia, focusing heavily on security cooperation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1466,
+            "question_text": "In the context of Pakistan's relations with global institutions, which body represents a grouping of states that primarily emphasize Islamic identity and cooperation, rather than purely geographical or economic alignment?",
+            "options": [
+                "Organization of Islamic Cooperation (OIC)",
+                "Non-Aligned Movement (NAM)",
+                "Economic Cooperation Organization (ECO)",
+                "Commonwealth of Nations"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The OIC is a diplomatic body representing states with Muslim-majority populations, focusing on political, economic, and social cooperation based on Islamic principles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1565,
+            "question_text": "Which major economic bloc's mandate emphasizes economic cooperation and trade facilitation, but traditionally avoids intervention in the internal political sovereignty of its member nations, reflecting a principle often cited by states in South Asia?",
+            "options": [
+                "South Asian Association for Regional Cooperation (SAARC)",
+                "Shanghai Cooperation Organization (SCO)",
+                "Non-Aligned Movement (NAM)",
+                "Organization of Islamic Cooperation (OIC)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SAARC's foundational charters prioritize non-interference and economic cooperation among South Asian nations, making this core principle highly visible in its mandate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1566,
+            "question_text": "In the context of international diplomacy and global governance, what specific measure is used by the UN Security Council (UNSC) that obligates all member states to cooperate with the Council's investigations, often leading to a debate over state sovereignty?",
+            "options": [
+                "Treaty of Westphalia ratification",
+                "Resolution under Chapter VII (Action with Respect to Threats to the Peace)",
+                "General Assembly Consensus Recommendation (GACR)",
+                "Universal Declaration of Human Rights adoption"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Chapter VII resolutions grant the UNSC powers to enforce international law, overriding national sovereignty when a threat to peace is declared.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1665,
+            "question_text": "Which of the following organizations, designed to promote economic cooperation and counter regional security threats in Central Asia, includes Pakistan as a signatory, but is distinct from SAARC and SCO?",
+            "options": [
+                "Shanghai Cooperation Organisation (SCO)",
+                "ECO (Economic Cooperation Organization)",
+                "BIMSTEC (Bay of Bengal Initiative)",
+                "SAFTA (South Asian Free Trade Association)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ECO is an intergovernmental organization focusing on economic integration in Central Asia, comprising Pakistan, Iran, Turkey, and others.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1666,
+            "question_text": "The primary mandate of the Organisation of Islamic Cooperation (OIC), while promoting Islamic unity, often includes coordinated action on which transnational issue, making it a unique focal point among global organizations?",
+            "options": [
+                "Establishing unified currency systems across member states",
+                "Climate change mitigation strategies and green technology adoption",
+                "Combating extremism, terrorism, and radical ideologies globally",
+                "Addressing the Rohingya crisis and human rights violations in South Asia"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "OIC frequently emphasizes the fight against extremism and terrorism as a cornerstone of its diplomatic and development agenda.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1765,
+            "question_text": "Which regional body, established primarily to promote economic cooperation and security among member states in Central Asia, currently serves as a key platform for multilateral dialogue involving major global powers outside of traditional geopolitical blocs?",
+            "options": [
+                "Organization of Islamic Cooperation (OIC)",
+                "East African Community (EAC)",
+                "Shanghai Cooperation Organisation (SCO)",
+                "South Asian Association for Regional Cooperation (SAARC)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The SCO is geographically central and involves major powers like Russia, China, India, and Pakistan, making it a crucial platform for high-level strategic and economic dialogue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1766,
+            "question_text": "While the Commonwealth of Nations provides political and development support, which of the following organizations is primarily structured around shared cultural and religious identity to address socio-political issues concerning Muslim-majority nations?",
+            "options": [
+                "World Trade Organization (WTO)",
+                "United Nations Economic and Social Council (ECOSOC)",
+                "Asian Development Bank (ADB)",
+                "Organization of Islamic Cooperation (OIC)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The OIC represents consensus among Islamic nations and coordinates on matters of Islamic identity, political cooperation, and religious diplomacy, distinguishing it from broader economic bodies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1865,
+            "question_text": "Which major intergovernmental forum, which includes Pakistan, primarily focuses on promoting economic cooperation and addressing common security threats among member states in Central Asia, and has a recent emphasis on energy transit corridors?",
+            "options": [
+                "Asian Development Bank (ADB)",
+                "Shanghai Cooperation Organization (SCO)",
+                "South Asian Association for Regional Cooperation (SAARC)",
+                "Organization of Islamic Cooperation (OIC)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SCO brings together countries in Central Asia and Eurasia, focusing heavily on connectivity, security, and major energy transit routes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1866,
+            "question_text": "Although often confused with global bodies, which specialized UN agency is primarily responsible for promoting social and economic development, particularly focusing on country-specific programs and data collection, and has strong linkages with national planning in developing economies?",
+            "options": [
+                "World Bank Group (WBG)",
+                "UN Educational, Scientific and Cultural Organization (UNESCO)",
+                "United Nations Development Programme (UNDP)",
+                "International Monetary Fund (IMF)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "UNDP operationalizes the Sustainable Development Goals (SDGs) and focuses on achieving sustainable human development outcomes through country programs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1966,
+            "question_text": "Which regional organization aims to promote economic cooperation among member states, including connectivity projects like the China-Pakistan Economic Corridor (CPEC), while having a broader scope than purely political blocs?",
+            "options": [
+                "Arab League",
+                "OIC",
+                "SAARC",
+                "Shanghai Cooperation Organization (SCO)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The SCO is a Eurasian politico-economic forum that has expanded its scope beyond security cooperation to include significant infrastructure and connectivity initiatives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1967,
+            "question_text": "In the context of international law and world organizations, which entity serves as the primary forum for resolving disputes between member states through mechanisms like the International Court of Justice (ICJ)?",
+            "options": [
+                "World Trade Organization (WTO)",
+                "United Nations Security Council (UNSC)",
+                "International Criminal Court (ICC)",
+                "United Nations General Assembly (UNGA)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While the UNGA discusses and the WTO resolves trade disputes, the UNSC holds the primary responsibility for maintaining international peace and security and can authorize coercive measures.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2094,
+            "question_text": "The capital city of which country is located on the confluence of two major rivers, making its historical and geopolitical importance particularly high?",
+            "options": [
+                "Port Blair",
+                "Kolkata",
+                "Lagos",
+                "Dhaka"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Dhaka is situated on the Padma (Ganges) and Jamuna (Brahmaputra) confluence, making it a critical geographical and historical hub in Bangladesh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2965,
+            "question_text": "If a traveler carrying Pakistani Rupees needs to purchase goods in a country that uses the currency named 'Ringgit', what is the local currency code, and which region is it primarily associated with?",
+            "options": [
+                "SGD (Singapore)",
+                "IDR (Indonesia)",
+                "MYR (Malaysia)",
+                "THB (Thailand)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "MYR stands for Malaysian Ringgit and is the currency of Malaysia. Singapore uses SGD, Thailand uses THB, and Indonesia uses IDR.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3736,
+            "question_text": "Which island nation, located in the Pacific, primarily uses the US Dollar (USD) for its commerce, but has its capital situated on the main atoll and is historically known for its ring-shaped settlement structure?",
+            "options": [
+                "Fiji",
+                "Nauru",
+                "Tuvalu",
+                "Kiribati"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Kiribati, with its capital and main settlement at Tarawa, is famous for its low-lying atoll structure and its economic reliance on the US Dollar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4398,
+            "question_text": "If a nation has a primary language of Portuguese, is a constitutional monarchy, and maintains significant historical trade ties with the Iberian Peninsula, what is its capital city?",
+            "options": [
+                "Lisbon",
+                "Porto",
+                "Madrid",
+                "Rio de Janeiro"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Lisbon is the capital of Portugal. Madrid is the capital of Spain, and Rio de Janeiro is a major city, not the capital.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4499,
+            "question_text": "Consider the following pairs: 1) Zimbabwe - US Dollar; 2) Sudan - Sudanese Pound; 3) South Sudan - South Sudanese Pound; 4) Maldives - Rufiyaa. Which pair is incorrectly matched regarding the primary currency of the country?",
+            "options": [
+                "1 only",
+                "1 and 3 only",
+                "2 and 4 only",
+                "3 and 4 only"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sudan uses the Sudanese Pound (not the option given), and the Maldives uses the Rufiyaa (Option 4 is correct; the incorrect match is in option 2, assuming 'Sudanese Pound' refers to the current currency structure).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5420,
+            "question_text": "If a country's capital is Islamabad, and its major port city is Karachi, what country is being referenced?",
+            "options": [
+                "Pakistan",
+                "Bahrain",
+                "Nepal",
+                "Sri Lanka"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Islamabad is the capital, and Karachi is a major port city in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5521,
+            "question_text": "Which country's currency is the Baht, and what is its primary capital city?",
+            "options": [
+                "Indonesia, Jakarta",
+                "Thailand, Bangkok",
+                "Philippines, Manila",
+                "Vietnam, Hanoi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Baht is the official currency of Thailand, and Bangkok is its capital.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5904,
+            "question_text": "Which major international organization, focusing primarily on Islamic unity and cooperation, was established to coordinate the political, economic, and social affairs of member states?",
+            "options": [
+                "Shanghai Cooperation Organisation (SCO)",
+                "African Union (AU)",
+                "Arab League",
+                "Organisation of Islamic Cooperation (OIC)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The OIC is the intergovernmental body representing Islamic countries, aimed at fostering solidarity among Muslim nations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5905,
+            "question_text": "The primary mandate of the South Asia Cooperation Forum (SAARC) was significantly affected by the geopolitical shifts in the region, leading to discussions and proposals for potential replacement or re-alignment. Which recent initiative aims to provide an alternative platform for cooperation among South Asian nations, particularly addressing connectivity and trade?",
+            "options": [
+                "Indo-Pacific Economic Framework (IPEF)",
+                "BBINews Group",
+                "Trilateral Cooperation Mechanism (TCM)",
+                "SAARC Development Board (SADB)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "IPEF, though broader, represents a modern framework for economic and trade cooperation in the region that often serves as a discussion point related to SAARC's limitations and the need for new regional mechanisms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6004,
+            "question_text": "Among the various regional cooperation bodies, which one primarily emphasizes linking socio-economic development with counter-terrorism measures and has a wider geographical scope beyond South Asia?",
+            "options": [
+                "Association of South Asian Nations (SAARC)",
+                "Shanghai Cooperation Organisation (SCO)",
+                "BIMSTEC",
+                "Organisation of Islamic Cooperation (OIC)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The SCO's mandate is expansive, focusing on security, regional stability, and connecting economic development with counter-extremism across Eurasia, unlike the SAARC or OIC which have distinct focuses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6005,
+            "question_text": "The United Nations Security Council (UNSC) possesses the power to impose mandatory measures, including sanctions, through its resolutions. Which condition must be met for the UNSC to exercise this power without triggering a potential veto?",
+            "options": [
+                "The resolution must pass by a two-thirds majority of the non-permanent members.",
+                "Resolution must be unanimously supported by all five permanent members (P5).",
+                "It requires the explicit endorsement of the General Assembly's majority vote.",
+                "The measure must explicitly relate to threats to international peace and security."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The power to impose mandatory measures stems from the Preamble and Chapter VII, requiring the Council to determine a threat to international peace, thus prioritizing the nature of the threat over mere voting majority.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6090,
+            "question_text": "Which of the following international bodies has recently proposed the 'Digital Cooperation Framework' aimed at enhancing cooperation between member states in cyberspace, thereby linking digital governance to broader security concerns?",
+            "options": [
+                "African Union (AU)",
+                "South Asian Association for Regional Cooperation (SAARC)",
+                "Organisation of Islamic Cooperation (OIC)",
+                "Shanghai Cooperation Organisation (SCO)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The SCO has increasingly focused on non-traditional security threats, including digital challenges and cyber security cooperation among its member states.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6091,
+            "question_text": "Considering the geopolitical dynamics of Pakistan and the region, which international grouping has historically provided a platform for dialogue concerning economic integration and connectivity, though its functional success has been periodically challenged by political factors?",
+            "options": [
+                "SAARC",
+                "BIMSTEC",
+                "SCO",
+                "BRICS"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SAARC is the primary regional body designed specifically for economic and social cooperation among South Asian nations, including Pakistan, despite current limitations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6154,
+            "question_text": "Among the following organizations, which one is primarily focused on promoting regional security and combating terrorism, and does not mandate the inclusion of all former Soviet republics?",
+            "options": [
+                "Brics",
+                "Shanghai Cooperation Organisation (SCO)",
+                "South Asian Association for Regional Cooperation (SAARC)",
+                "Organisation of Islamic Cooperation (OIC)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SCO's focus is on Eurasian security cooperation. OIC is faith-based, SAARC covers South Asia, and BRICS is an economic grouping.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6155,
+            "question_text": "The UN mechanism established to enhance cooperation and capacity building among member states regarding critical sectors like energy, water, and disaster management is most prominently managed by:",
+            "options": [
+                "UNESCO",
+                "UNDP (United Nations Development Programme)",
+                "UNESCWA (UN Economic Commission for Western Asia)",
+                "ITU (International Telecommunication Union)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "UNDP is the main UN body tasked with implementing development strategies and improving state capacity in various critical sectors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6227,
+            "question_text": "Which organization, founded primarily to promote cultural, economic, and political cooperation among Muslim-majority states, is headquartered in Jeddah, Saudi Arabia?",
+            "options": [
+                "Gulf Cooperation Council (GCC)",
+                "Arab League",
+                "Organisation of Islamic Cooperation (OIC)",
+                "League of Arab States"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The OIC is the intergovernmental organization comprising 57 member states primarily representing the Islamic world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6228,
+            "question_text": "The Shanghai Cooperation Organization (SCO) primarily aims to enhance regional stability and cooperation in the Eurasian region. Which of the following is NOT a permanent member of the SCO Council?",
+            "options": [
+                "China",
+                "Russia",
+                "Iran",
+                "India"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "While Iran is a member, the permanent seats/key institutional members of the SCO Council structure generally include China, India, Russia, and Pakistan (with differing levels of engagement, but Iran is not among the core permanent pillars in the same manner).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6304,
+            "question_text": "The United Nations Security Council (UNSC) possesses the power to impose mandatory measures, including sanctions, through its resolutions. Which condition must be met for the UNSC to exercise this power?",
+            "options": [
+                "It requires the explicit endorsement of the General Assembly's majority vote.",
+                "The resolution must pass by a two-thirds majority of the non-permanent members.",
+                "The measure must explicitly relate to threats to international peace and security.",
+                "Resolution must be unanimously supported by all five permanent members (P5)."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The power to impose mandatory measures is derived from Chapter VII of the UN Charter, which mandates that the Council must first determine the existence of a threat to international peace and security. This legal finding triggers the Council's authority.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6305,
+            "question_text": "In the realm of international criminal law, the International Criminal Court (ICC) is notable for its jurisdiction over the most serious crimes of concern to humanity. Compared to the International Court of Justice (ICJ), the ICC’s jurisdiction is uniquely focused on prosecuting individuals. What are the four primary crimes over which the ICC has jurisdiction?",
+            "options": [
+                "Human rights violations, resource piracy, war crimes, and genocide.",
+                "Genocide, crimes against humanity, war crimes, and crime of aggression.",
+                "Colonial abuses, sovereignty breaches, human trafficking, and genocide.",
+                "Piracy, narcotics trafficking, cross-border terrorism, and genocide."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ICC's foundational mandate, established by the Rome Statute, covers Genocide, Crimes Against Humanity, War Crimes, and the Crime of Aggression.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6384,
+            "question_text": "Which international body was initially established with the primary goal of promoting economic cooperation and stability among developing countries in the region?",
+            "options": [
+                "SAARC (South Asian Association for Regional Cooperation)",
+                "Non-Aligned Movement (NAM)",
+                "SCO (Shanghai Cooperation Organisation)",
+                "OIC (Organization of Islamic Cooperation)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SAARC was specifically established in 1985 with the primary goal of promoting economic cooperation and stability among the geographically grouped South Asian developing nations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6529,
+            "question_text": "The World Trade Organization (WTO) operates based on which core principle to regulate international trade agreements and tariffs among its members?",
+            "options": [
+                "Non-discrimination principles, primarily Most-Favored-Nation (MFN) status and National Treatment.",
+                "The General Agreement on Tariffs and Trade (GATT), emphasizing gradual reduction of barriers.",
+                "Reciprocal protectionism, allowing countries to restrict trade selectively for national benefit.",
+                "Quotas and protective tariffs set by a regional bloc to safeguard local industries."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The WTO enforces non-discrimination through MFN (treating all partners equally) and National Treatment (treating foreign goods like domestic ones) to ensure open trade.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6601,
+            "question_text": "The South Asian Free Trade Area (SAFTA) agreement, a cornerstone of regional economic integration within SAARC, primarily aims to eliminate tariffs and barriers on trade between member states. Which of the following categories of goods is generally exempt from these comprehensive tariff reductions under SAFTA?",
+            "options": [
+                "Strategic commodities and specialized industrial machinery.",
+                "Natural resources extracted from maritime zones.",
+                "Consumer electronics and personal mobile devices.",
+                "Agricultural produce originating from Nepal and Bhutan."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SAFTA typically exempts strategic commodities, highly specialized industrial machinery, and essential capital goods from the full scope of tariff reduction to ensure continuity of key economic sectors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6671,
+            "question_text": "Which global body, though primarily focused on international law and human rights, does not have direct mandatory enforcement powers over the sovereign military actions or internal political decisions of its member states?",
+            "options": [
+                "International Criminal Court (ICC)",
+                "World Trade Organization (WTO)",
+                "United Nations Security Council (UNSC)",
+                "International Court of Justice (ICJ)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Although the UNSC has powerful mandates (Chapter VII), its practical enforcement power is often limited by the political will and veto power of its permanent members, especially regarding sovereign military or internal political decisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6751,
+            "question_text": "What is the main functional mandate of the Shanghai Cooperation Organization (SCO) among its member states?",
+            "options": [
+                "Facilitating cultural exchange and educational mobility across Eurasia.",
+                "Ensuring regional security cooperation and combating extremism and terrorism.",
+                "Promoting free trade and customs union within Central Asia.",
+                "Providing a platform for diplomatic consultations on climate change mitigation."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The SCO emphasizes collective security and has its anti-terrorism and counter-extremism mechanisms as core components of its mandate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6752,
+            "question_text": "What is the main objective of the Shanghai Cooperation Organisation (SCO) in the context of member states’ security and stability?",
+            "options": [
+                "To promote regional peace and counter transnational security threats like terrorism and extremism.",
+                "To regulate trade agreements exclusively among Asian economies.",
+                "To manage resource distribution rights for oil and natural gas resources.",
+                "To facilitate the unification of political systems in member countries."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SCO emphasizes collective security, peace, and stability, primarily focusing on combating shared security challenges like terrorism and extremism.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6821,
+            "question_text": "Which of the following is a key regional security grouping that includes Pakistan, India, Bangladesh, and Nepal, focusing on cooperation within South Asia?",
+            "options": [
+                "SAARC (South Asian Association for Regional Cooperation)",
+                "ASEAN (Association of Southeast Asian Nations)",
+                "APEC (Asia-Pacific Economic Cooperation)",
+                "BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SAARC is the specific regional body mandated to facilitate cooperation among the seven nations of South Asia, including Pakistan and India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6822,
+            "question_text": "Which international body, while under the broader UN umbrella, specifically addresses humanitarian issues, promoting the rights and safety of displaced persons?",
+            "options": [
+                "UNESCO",
+                "UNHCR",
+                "UNIDO",
+                "WHO"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "UNHCR (UN Refugee Agency) is dedicated specifically to protecting and assisting refugees, Internally Displaced Persons (IDPs), and stateless people worldwide.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

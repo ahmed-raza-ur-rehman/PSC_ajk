@@ -1,0 +1,767 @@
+{
+    "category": "FIA",
+    "name": "Computer — Internet, Networking & Email",
+    "board": "fia",
+    "subject": "computer-internet-networking-email",
+    "url": "/fia/computer-internet-networking-email/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 54,
+    "questions": [
+        {
+            "id": 1087,
+            "question_text": "When assessing computer abbreviations related to network components, what does 'DHCP' specifically manage?",
+            "options": [
+                "Data Handling Control Program; monitoring network bandwidth usage",
+                "Digital High Connectivity Platform; managing local network hubs",
+                "Dynamic Host Configuration Protocol; automatically assigning IP addresses to devices on a network",
+                "Deep Hyperlink Connection Protocol; ensuring secure web browsing"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "DHCP automatically manages and assigns unique IP addresses and other network settings to devices joining a network.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1088,
+            "question_text": "What does the acronym 'CIA Triad' represent in the context of information security?",
+            "options": [
+                "Computer Integrity Assurance, Analysis, Architecture",
+                "Confidentiality, Integrity, Availability",
+                "Cyber Incident Analysis, Continuous Improvement, Audit",
+                "Client Identity Authentication, Authorization, Access"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The CIA Triad is the foundational model for information security, focusing on keeping data private (Confidentiality), accurate (Integrity), and accessible (Availability).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1089,
+            "question_text": "Find the next number in the series: 1, 4, 9, 16, 25, ?",
+            "options": [
+                "36",
+                "30",
+                "32",
+                "49"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is a simple series of squares ($n^2$). The next number is $6^2 = 36$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1187,
+            "question_text": "In networking and computer terminology, what does 'VPN' stand for and what is its primary function?",
+            "options": [
+                "Volatile Program Notifier; an error checking software tool",
+                "Vulnerable Privacy Net; a registry key used for secure logins",
+                "Virtual Private Network; creating a secure, encrypted connection over a public network",
+                "Very Personal Node; a device used for local area network expansion"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "VPN establishes a secure, encrypted tunnel over the internet, simulating a private connection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1189,
+            "question_text": "What is the missing term in the sequence: 3, 7, 13, 21, 31, ?",
+            "options": [
+                "43",
+                "39",
+                "45",
+                "41"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The differences are +4, +6, +8, +10. The next difference must be +12, making the next term $31 + 12 = 43$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1287,
+            "question_text": "Which cyber security protocol is primarily used to encrypt data transmitted over the internet, ensuring secure communication between client and server?",
+            "options": [
+                "SSL/TLS",
+                "SMTP",
+                "FTP",
+                "HTTP"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SSL/TLS (Secure Sockets Layer/Transport Layer Security) encrypts communications, making it safe for data transfer over the web.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1497,
+            "question_text": "Which acronym represents the process of converting digital data into an unreadable format to protect sensitive information, often required for compliance like GDPR or PCI DSS?",
+            "options": [
+                "Encryption",
+                "Authentication",
+                "Authorization",
+                "Decryption"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Encryption is the process of scrambling data to make it unreadable without the correct key, ensuring confidentiality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1498,
+            "question_text": "In networking security, what does the term 'DDoS' refer to, which is a common cyber threat faced by organizations?",
+            "options": [
+                "Data Detection System",
+                "Dynamic Data Stream",
+                "Digital Disaster Sphere",
+                "Distributed Denial of Service"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "DDoS is an attack that overwhelms a network with massive amounts of traffic from multiple sources, making it unavailable to legitimate users.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1597,
+            "question_text": "Which abbreviation refers to the common practice of sending fraudulent emails that appear to come from reputable sources?",
+            "options": [
+                "Phishing",
+                "Vishing",
+                "Spoofing",
+                "Whaling"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Phishing is the act of acquiring sensitive information (like passwords) via deceptive emails or websites.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1598,
+            "question_text": "What does the acronym 'DMCA' primarily address in the context of digital intellectual property protection?",
+            "options": [
+                "Data Management and Control Authority",
+                "Digital Multimedia Content Assessment",
+                "Database Mapping and Collection Agency",
+                "Digital Millennium Copyright Act"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The DMCA is a US copyright law that governs the use of digital copyrighted material online, protecting intellectual property rights.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1697,
+            "question_text": "Which abbreviation represents the process of converting a physical key into digital security protocols, often used in network access control?",
+            "options": [
+                "VPN",
+                "MAC",
+                "PKI",
+                "API"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Public Key Infrastructure (PKI) manages keys and certificates for secure communication and identity verification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1698,
+            "question_text": "In the context of cyber security, what does 'DDoS' primarily refer to?",
+            "options": [
+                "Deep Detection Output Standard",
+                "Distributed Denial of Service",
+                "Disaster Disaster Operation System",
+                "Digital Data Oversight System"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DDoS attacks aim to overload a server or network resource with excessive traffic from multiple sources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1699,
+            "question_text": "Determine the next number in the series: 2, 5, 10, 17, 26, ?",
+            "options": [
+                "36",
+                "37",
+                "35",
+                "38"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern is $n^2 + 1$. The next number is $6^2 + 1 = 37$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1797,
+            "question_text": "Which type of attack involves intercepting communication between two parties and potentially modifying the data without their knowledge?",
+            "options": [
+                "DDoS",
+                "Man-in-the-Middle (MITM)",
+                "Phishing",
+                "Spoofing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "MITM attacks involve secretly positioning oneself between two communicating parties to intercept or alter data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1798,
+            "question_text": "In the context of networking and abbreviations, what does 'VPN' primarily stand for and what is its core function?",
+            "options": [
+                "Virtual Private Network, providing encrypted communication over public networks",
+                "Virtual Private Number, used for telephony routing protocols",
+                "Very Processed Node, handling routing in local area networks",
+                "Verify Packet Name, ensuring data integrity at the physical layer"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "VPN uses encryption and tunneling to create a secure, private connection over the internet, masking the user's true IP address.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1799,
+            "question_text": "Which number completes the series: 5, 9, 17, 33, 65, ?",
+            "options": [
+                "115",
+                "129",
+                "127",
+                "131"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern involves multiplying the previous number by 2 and adding 3 (or adding powers of 2: +4, +8, +16, +32). 65 + 64 = 129.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1898,
+            "question_text": "Which abbreviation refers to the common protocol used to securely transfer data over the internet, often used for logging into secure websites?",
+            "options": [
+                "HTTPS",
+                "SFTP",
+                "HTTP",
+                "FTP"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "HTTPS (Hypertext Transfer Protocol Secure) is the encrypted version of HTTP, ensuring secure data transmission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1899,
+            "question_text": "Find the missing number in the series: 5, 12, 26, 54, 110, ?\n(A) 220\n(B) 222\n(C) 224\n(D) 230",
+            "options": [
+                "220",
+                "222",
+                "224",
+                "230"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The pattern is (previous number * 2) + 2. So, 110 * 2 + 2 = 222, but the intended pattern is 2*n + 2. Wait, the pattern is n * 2 + 2: 5*2 + 2 = 12; 12*2 + 2 = 26; 26*2 + 2 = 54; 54*2 + 2 = 110 (Incorrect). The correct pattern is (previous number * 2) + 2. Let's recheck: 5*2 + 2 = 12; 12*2 + 2 = 26; 26*2 + 2 = 54; 54*2 + 2 = 110. This is consistent. Next number: 110 * 2 + 2 = 220 + 2 = 222. Let's re-examine the options and series carefully. If the series is 5, 12, 26, 54, 110. Differences: 7, 14, 28, 56. The multiplier is 2. Next difference: 56 * 2 = 112. 110 + 112 = 222. Re-checking the options, 222 is B. There might be a typo in the provided options or question itself. Assuming 222 is the correct answer based on the difference pattern (n * 2 + 2). If we stick strictly to the options provided and assume one of them is correct: The sequence is 5, 12, 26, 54, 110. The differences are 7, 14, 28, 56. The next difference must be 112. 110 + 112 = 222. Given the constraint to choose one of the provided options, let's assume there was a typo in the question's given options and select B: 222.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1900,
+            "question_text": "Find the next number in the series: 3, 6, 11, 18, 27, ?",
+            "options": [
+                "38",
+                "39",
+                "42",
+                "40"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The difference between consecutive terms increases by 2 (3, 5, 7, 9, 11). Therefore, the next number is 27 + 11 = 38.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1998,
+            "question_text": "Which of the following cryptographic concepts ensures that even if a message is intercepted, an attacker cannot read its content without the secret key?",
+            "options": [
+                "Encryption",
+                "Authentication",
+                "Hashing",
+                "Integrity Check"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Encryption is the process of converting plaintext into ciphertext, making it unreadable without the corresponding decryption key.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1999,
+            "question_text": "In networking, what does 'DNS' primarily resolve and what is its function?",
+            "options": [
+                "Domain Name System; translates domain names to IP addresses",
+                "Distributed Node Service; controls the flow of information packets",
+                "Digital Number Scheme; defines unique identifiers for hardware",
+                "Data Network Service; manages data transmission across networks"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "DNS is the directory service that translates human-readable domain names (like example.com) into machine-readable IP addresses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2000,
+            "question_text": "What number should replace the question mark in the following sequence: 2, 5, 10, 17, 26, ?",
+            "options": [
+                "41",
+                "35",
+                "39",
+                "37"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The sequence follows the pattern n^2 + 1. The missing number is 6^2 + 1 = 36 + 1 = 37.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2211,
+            "question_text": "Complete the pattern: 5, 11, 23, 47, ?",
+            "options": [
+                "95",
+                "101",
+                "97",
+                "93"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The pattern is multiplying the previous number by 2 and adding 1 ($n \times 2 + 1$). The next number is $47 \times 2 + 1 = 95$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2361,
+            "question_text": "Which number completes the series: 2, 5, 10, 17, 26, ?\n(A) 30\n(B) 35\n(C) 37\n(D) 40",
+            "options": [
+                "35",
+                "40",
+                "37",
+                "30"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern involves adding consecutive odd squares (3^2, 5^2, 7^2...). The next number is 37 (26 + 11 = 37).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2571,
+            "question_text": "Which number should replace the question mark in the following sequence: 2, 3, 5, 8, 13, 21, ?\n(A) 31\n(B) 34\n(C) 35\n(D) 36",
+            "options": [
+                "36",
+                "31",
+                "35",
+                "34"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a Fibonacci sequence where each number is the sum of the two preceding numbers (5+8=13; 8+13=21; 13+21=34). Wait, the next number is 21+13=34. The pattern is 2, 3, 5, 8, 13, 21, 34. Since 34 is an option, we select (B). (Correction based on re-evaluation: The pattern is Fibonacci. 21 + 13 = 34. Thus, 34 is the answer.)",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2831,
+            "question_text": "Which number should come next in the series: 2, 5, 10, 17, 26, ??",
+            "options": [
+                "40",
+                "38",
+                "37",
+                "39"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern is based on squares plus one (n^2 + 1). The next number is 6^2 + 1 = 36 + 1 = 37. Wait, the gap suggests n^2 + 1. Let's check the difference: 3, 5, 7, 9. The next difference must be 11. So, 26 + 11 = 37. (Correction: Let's re-evaluate the series: 2, 5, 10, 17, 26. Differences: 3, 5, 7, 9. The next difference is 11. So, 26 + 11 = 37.)",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3032,
+            "question_text": "Find the missing number in the series: 1, 3, 7, 15, 31, ?\n(A) 47\n(B) 55\n(C) 63\n(D) 64",
+            "options": [
+                "55",
+                "63",
+                "47",
+                "64"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a powers of two minus one sequence (2^n - 1). The next number is 2^6 - 1 = 63.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3132,
+            "question_text": "Which number correctly completes the sequence: 2, 5, 11, 23, 47, ?",
+            "options": [
+                "95",
+                "92",
+                "101",
+                "99"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The difference between consecutive terms doubles each time (+3, +6, +12, +24). The next difference must be 48. Therefore, 47 + 48 = 95.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3292,
+            "question_text": "Find the missing number in the series: 3, 7, 15, 31, 63, ?",
+            "options": [
+                "131",
+                "95",
+                "128",
+                "127"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The pattern involves doubling the previous term and adding 1 (N * 2 + 1). The next number is 63 * 2 + 1 = 127.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3502,
+            "question_text": "Find the next number in the series: 4, 9, 19, 39, 79, ?",
+            "options": [
+                "149",
+                "169",
+                "139",
+                "159"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The pattern involves multiplying the previous number by 2 and adding 1, then adding 2 to the result. (4*2+1+3 = 12, but this is simpler: (9-4)*2+9 = 18, this pattern is (n*2 + n-1)). The difference between consecutive terms is 5, 10, 20, 40. The next difference is 80. 79 + 80 = 159.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3602,
+            "question_text": "What is the missing term in the sequence: 5, 12, 26, 54, ?",
+            "options": [
+                "112",
+                "108",
+                "102",
+                "110"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The difference between consecutive terms doubles (7, 14, 28, 56). The next term is 54 + 56 = 110.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4102,
+            "question_text": "What is the primary function of a Firewall in a computer network?",
+            "options": [
+                "Increasing the overall processing speed of a computer system.",
+                "Removing malicious software (malware) from infected devices.",
+                "Encrypting data for transmission over insecure networks.",
+                "Monitoring and controlling incoming and outgoing network traffic based on predetermined security rules."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A firewall acts as a barrier, filtering traffic and allowing only authorized data packets to pass.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5936,
+            "question_text": "Which abbreviation refers to the practice of disguising oneself as a trustworthy entity to steal sensitive information?",
+            "options": [
+                "Spoofing",
+                "DDoS",
+                "Phishing",
+                "Malware"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Spoofing is the act of falsifying identity (like an email address or IP) to gain trust. Phishing is a method often used for this.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5937,
+            "question_text": "In the context of digital forensics and data recovery, what does 'ACL' primarily restrict or define?",
+            "options": [
+                "The physical location of stored data backups.",
+                "The types of users who can access specific resources.",
+                "The network bandwidth capacity for a system.",
+                "The speed of data encryption and decryption."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ACL (Access Control List) defines the permissions and rules for who can read, write, or execute files/directories.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6036,
+            "question_text": "Which type of cyber attack involves intercepting sensitive data transmitted over a public network, such as Wi-Fi, making it difficult for the legitimate user to detect the theft?",
+            "options": [
+                "DDoS attack",
+                "Man-in-the-Middle (MITM) attack",
+                "Malware injection",
+                "Phishing attack"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "MITM attacks position the attacker between two communicating parties to eavesdrop or alter data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6037,
+            "question_text": "In the context of networking and data transfer, what does the acronym 'VPN' primarily refer to?",
+            "options": [
+                "Verification Protocol Number",
+                "Virtual Private Network",
+                "Video Point Network",
+                "Very Public Node"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "VPN creates a secure, encrypted connection over a less secure network, making data transmission private.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6109,
+            "question_text": "Which cryptographic method uses a pair of keys (public and private) for encryption and decryption, ensuring that the sender's public key can encrypt and only the intended recipient's private key can decrypt?",
+            "options": [
+                "Digital Signatures",
+                "Asymmetric Cryptography",
+                "Hashing",
+                "Symmetric Cryptography"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Asymmetric cryptography (Public Key Infrastructure) uses distinct public and private keys, unlike symmetric methods which use a single key.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6110,
+            "question_text": "In the context of network security, what does the acronym 'DDoS' stand for, and what type of threat does it primarily pose?",
+            "options": [
+                "Distributed Denial of Service; overwhelming a server with traffic",
+                "Dynamic Domain System; managing multiple network endpoints",
+                "Digital Data Stream; rapid transfer of large amounts of information",
+                "Deep Detection System; monitoring network traffic anomalies"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "DDoS attacks involve multiple compromised systems flooding a target server, making it unavailable to legitimate users.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6176,
+            "question_text": "Which cryptographic technique is primarily used to ensure the authenticity and integrity of digital messages by creating a unique, fixed-length output based on input data?",
+            "options": [
+                "Digital Signing",
+                "Hashing",
+                "Key Exchange",
+                "Encryption"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hashing functions create a message digest (hash value) that verifies data integrity. Digital signing uses hashing along with private keys.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6177,
+            "question_text": "In computer networking, which protocol operates at the Application Layer and is responsible for mapping domain names (like www.example.com) to IP addresses?",
+            "options": [
+                "FTP",
+                "DNS",
+                "DHCP",
+                "SMTP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DNS (Domain Name System) translates human-readable domain names into machine-readable IP addresses, making web access possible.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6250,
+            "question_text": "Which acronym represents the international set of rules and protocols governing how data is exchanged between devices on a network?",
+            "options": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) is the foundational suite of protocols that dictates internet communication standards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6251,
+            "question_text": "What does the abbreviation 'Phishing' refer to in the context of cyber security?",
+            "options": [
+                "A type of malware that ransoms files.",
+                "Monitoring network traffic for suspicious activity.",
+                "Sending fraudulent emails to steal credentials.",
+                "Encrypting data using public key cryptography."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Phishing is a social engineering attack where criminals attempt to deceive victims into revealing sensitive information, usually via email.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6331,
+            "question_text": "The common abbreviation for the World Wide Web, used in email addresses and URLs, is:",
+            "options": [
+                "HTTP",
+                "WWW",
+                "HTML",
+                "FTP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "WWW stands for World Wide Web, which is the system of interlinked hypertext documents accessed via the internet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6332,
+            "question_text": "Determine the next number in the series: 1, 3, 6, 10, 15, ?",
+            "options": [
+                "20",
+                "21",
+                "19",
+                "22"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The difference between consecutive terms increases by one sequentially (3-1=2, 6-3=3, 10-6=4, 15-10=5. The next difference must be 6, so 15 + 6 = 21).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6409,
+            "question_text": "Which abbreviation represents the legal framework used to secure electronic information and communications?",
+            "options": [
+                "WHO",
+                "GDPR",
+                "ISO",
+                "CIA"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "GDPR (General Data Protection Regulation) is a prominent legal framework for data privacy, defining how personal information must be protected and handled.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6475,
+            "question_text": "In the context of cyber security and information integrity, what does the 'I' in the CIA Triad stand for?",
+            "options": [
+                "Integrity",
+                "Identification",
+                "Informativeness",
+                "Installation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The CIA Triad stands for Confidentiality, Integrity, and Availability. Integrity ensures that data is accurate and has not been altered unauthorizedly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6476,
+            "question_text": "In computer networking, what does the term 'IP' primarily refer to?",
+            "options": [
+                "Internal Protocol",
+                "Intelligent Processor",
+                "Information Provider",
+                "Internet Protocol"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "IP (Internet Protocol) is the fundamental set of rules used for addressing and transmitting data packets across the internet, enabling connectivity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6556,
+            "question_text": "The three pillars of information security, ensuring that data remains trustworthy and protected, are known as:",
+            "options": [
+                "CIA Triad",
+                "OSI Layers",
+                "TCP-IP Suite",
+                "WWW Model"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The CIA Triad stands for Confidentiality, Integrity, and Availability, representing the fundamental goals of information security.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6620,
+            "question_text": "What number should replace the question mark in the series: 5, 10, 20, 40, ?",
+            "options": [
+                "80",
+                "90",
+                "60",
+                "70"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is a geometric progression where each term is multiplied by 2. Thus, $40 \times 2 = 80$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6698,
+            "question_text": "What does the acronym DNS, a critical internet protocol, stand for, and what is its primary function?",
+            "options": [
+                "Direct Network Synchronization; optimizes bandwidth.",
+                "Data Node Standard; verifies user credentials.",
+                "Digital Network Service; manages data packets.",
+                "Domain Name System; translates domain names into IP addresses."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "DNS translates the human-readable domain names (like google.com) into machine-readable numerical IP addresses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6699,
+            "question_text": "Identify the next term in the sequence: 8, 16, 32, 64, ?",
+            "options": [
+                "256",
+                "192",
+                "320",
+                "128"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "This is a sequence where each term is multiplied by 2 (powers of 2). The next term is $64 \times 2 = 128$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6775,
+            "question_text": "What does the acronym DNS stand for in the context of internet infrastructure?",
+            "options": [
+                "Digital Network Services",
+                "Data Navigation Structure",
+                "Distributed Network Setup",
+                "Domain Name System"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "DNS translates human-readable domain names (like google.com) into numerical IP addresses that computers use to locate resources on the internet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6776,
+            "question_text": "Find the next number in the series: 3, 7, 13, 21, ?",
+            "options": [
+                "29",
+                "31",
+                "35",
+                "33"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The differences between consecutive terms are 4, 6, 8, indicating that the difference increases by 2 each time. The next difference must be 10, so 21 + 10 = 31.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6777,
+            "question_text": "Find the missing term in the series: 1, 3, 7, 13, 21, ?",
+            "options": [
+                "35",
+                "37",
+                "27",
+                "31"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The differences between consecutive terms form an arithmetic progression: 2, 4, 6, 8. The next difference must be 10, so the next term is $21 + 10 = 31$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

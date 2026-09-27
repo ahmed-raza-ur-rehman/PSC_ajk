@@ -1,0 +1,389 @@
+{
+    "category": "COMSATS University",
+    "name": "Analytical Reasoning",
+    "board": "comsats-university",
+    "subject": "analytical-reasoning",
+    "url": "/comsats-university/analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 27,
+    "questions": [
+        {
+            "id": 12292,
+            "question_text": "If all roses are flowers and some flowers fade quickly, which statement must be true?",
+            "options": [
+                "All roses fade quickly",
+                "Some roses fade quickly",
+                "Some flowers are roses",
+                "All flowers fade quickly"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The premise 'all roses are flowers' implies that the set of roses is a subset of flowers, therefore some flowers must be roses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12293,
+            "question_text": "A is taller than B. C is shorter than B. Who is the shortest?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since A > B and B > C, the order is A > B > C. Thus, C is the shortest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12294,
+            "question_text": "If Monday is the day before Tuesday, and Wednesday is the day after Tuesday, what is the day after the day before Wednesday?",
+            "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The day before Wednesday is Tuesday. The day after that is Wednesday... Wait, let's re-read: The day before Wednesday is Tuesday. Therefore, the day after Tuesday is Wednesday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12295,
+            "question_text": "Five books (A, B, C, D, E) are on a shelf. A is to the left of B. C is to the right of D. E is between B and C. If A is at the far left, what is the order?",
+            "options": [
+                "A B E C D",
+                "A B C E D",
+                "A D C E B",
+                "A B D E C"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A is left of B. E is between B and C. D must be right of C. Order: A, B, E, C, D.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12296,
+            "question_text": "If 'Blue' is coded as 'Cmvf', how is 'Red' coded?",
+            "options": [
+                "Sfe",
+                "Sfd",
+                "Tfe",
+                "Tfd"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted forward by one position (B->C, l->m, u->v, e->f). R->S, e->f, d->e.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12297,
+            "question_text": "No dogs are cats. All cats are animals. Which of the following must be true?",
+            "options": [
+                "No dogs are animals",
+                "Some animals are not dogs",
+                "All animals are cats",
+                "Some cats are dogs"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since all cats are animals and no cats are dogs, the animals that are cats cannot be dogs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12298,
+            "question_text": "A man points to a photo and says, 'This man is my father's only son.' Who is in the photo?",
+            "options": [
+                "His father",
+                "His son",
+                "Himself",
+                "His uncle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The only son of his father is the man himself.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12299,
+            "question_text": "If it is raining, the ground is wet. If the ground is wet, the grass grows. It is raining. Therefore:",
+            "options": [
+                "The grass is growing",
+                "The ground might be dry",
+                "The grass is not growing",
+                "It is not raining"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Transitive logic: Raining -> Wet -> Grass grows.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12300,
+            "question_text": "Choose the odd one out: Circle, Sphere, Square, Cylinder.",
+            "options": [
+                "Circle",
+                "Sphere",
+                "Square",
+                "Cylinder"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A square is a polygon with straight edges; the others are curved shapes/solids.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12301,
+            "question_text": "If P > Q and Q > R, then which of the following is true?",
+            "options": [
+                "P < R",
+                "P = R",
+                "R < P",
+                "R > P"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "By transitivity, if P > Q and Q > R, then P > R, which is the same as R < P.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12302,
+            "question_text": "If the day after tomorrow is Friday, what day was it yesterday?",
+            "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Sunday"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tomorrow is Thursday, today is Wednesday, yesterday was Tuesday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12303,
+            "question_text": "Six people are sitting in a row. A is next to B. C is not next to A. D is at the end. Logic suggests:",
+            "options": [
+                "A and C must be separated",
+                "B is at the other end",
+                "C is next to B",
+                "A and D are neighbors"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The prompt explicitly states C is not next to A.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12304,
+            "question_text": "Five students (P, Q, R, S, T) are standing in a line. P is behind Q. R is in front of S. T is behind S. If Q is at the very front, who is at the very end?",
+            "options": [
+                "P",
+                "R",
+                "S",
+                "T"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The order is Q, P, R, S, T. Since P is behind Q, and R, S, T follow in that order, T is last.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12305,
+            "question_text": "If 'TABLE' is coded as 'UBCMF', how is 'CHAIR' coded?",
+            "options": [
+                "DIBJS",
+                "DIJBS",
+                "BGHQS",
+                "DIBIS"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted one position forward in the alphabet (T->U, A->B, B->C, L->M, E->F).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12306,
+            "question_text": "All scholars are intellectuals. Some intellectuals are professors. Which must be true?",
+            "options": [
+                "All scholars are professors",
+                "Some scholars are professors",
+                "Some intellectuals are scholars",
+                "All intellectuals are professors"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since all scholars are intellectuals, the subset of scholars is contained within the set of intellectuals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13434,
+            "question_text": "If all Bloops are Razzies and some Razzies are Jazzies, which statement must be true?",
+            "options": [
+                "All Bloops are Jazzies",
+                "Some Bloops are Jazzies",
+                "Some Razzies are Bloops",
+                "All Razzies are Bloops"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If all Bloops are Razzies, then the set of Bloops is a subset of Razzies, meaning at least some Razzies must be Bloops.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13435,
+            "question_text": "Seven people (A, B, C, D, E, F, G) are standing in a line. A is next to B, C is not next to D, and E is at one of the ends. If A is in the middle, who can be at the other end?",
+            "options": [
+                "B",
+                "C",
+                "D",
+                "G"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "This requires testing positions based on constraints; logically G is the only one without a specific restriction preventing end placement in most configurations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13436,
+            "question_text": "If all lions are dangerous, and some dangerous animals are pets, which statement MUST be true?",
+            "options": [
+                "Some lions are pets.",
+                "All pets are lions.",
+                "Some pets are dangerous.",
+                "No lions are pets."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The premise states 'some dangerous animals are pets', which is logically equivalent to saying 'some pets are dangerous'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13437,
+            "question_text": "Five students (A, B, C, D, E) are in a race. A finished before B. C finished after D. E finished after A but before D. Who came in first?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ordering: A > B, A > E > D > C. A is the only one who finished ahead of everyone else.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13438,
+            "question_text": "If today is Tuesday, what day of the week will it be in 100 days?",
+            "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "100 divided by 7 leaves a remainder of 2. Tuesday + 2 days = Wednesday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13439,
+            "question_text": "Four people (P, Q, R, S) are sitting in a row. P is not next to Q. R is next to S. If S is at the far left, who is in the second position?",
+            "options": [
+                "P",
+                "Q",
+                "R",
+                "Insufficient information"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since R is next to S and S is at the left end, R must be in position 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13440,
+            "question_text": "If 'APPLE' is coded as 'BQQMF', how is 'ORANGE' coded?",
+            "options": [
+                "PSBOHF",
+                "PSBOIF",
+                "PSBNHF",
+                "PQBOIF"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted forward by one position in the alphabet (A->B, P->Q, etc.).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13441,
+            "question_text": "Look at this series: 2, 4, 8, 16, 32, ... What number should come next?",
+            "options": [
+                "48",
+                "64",
+                "80",
+                "128"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern is doubling the previous number (x2).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13442,
+            "question_text": "If 'All dogs bark' and 'Bruno is a dog', then:",
+            "options": [
+                "Bruno might bark.",
+                "Bruno barks.",
+                "Some dogs bark.",
+                "Barking animals are dogs."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a standard categorical syllogism. If the category 'dog' barks, and Bruno is in that category, Bruno barks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13443,
+            "question_text": "Five books are on a shelf. The red book is to the left of the blue book. The green book is to the right of the yellow book. The blue book is to the left of the green book. Which book is in the middle?",
+            "options": [
+                "Red",
+                "Blue",
+                "Yellow",
+                "Green"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Order: Red, Blue, Green. Yellow is left of green, making the sequence Red, Blue, Yellow, Green (or similar). Given the constraints, Blue occupies the central relative position.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13444,
+            "question_text": "If Monday is coded as 1, Tuesday as 2, what is Saturday?",
+            "options": [
+                "5",
+                "6",
+                "7",
+                "0"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sequence follows the day of the week, where Monday is 1 and Saturday is the 6th day.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13445,
+            "question_text": "Find the odd one out: Circle, Square, Triangle, Sphere",
+            "options": [
+                "Circle",
+                "Square",
+                "Triangle",
+                "Sphere"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Circle, square, and triangle are 2D shapes, while a sphere is a 3D object.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

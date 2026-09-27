@@ -1,0 +1,137 @@
+{
+    "category": "Pearson",
+    "name": "Economics",
+    "board": "pearson",
+    "subject": "economics",
+    "url": "/pearson/economics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 13143,
+            "question_text": "What does the Law of Demand state about the relationship between price and quantity demanded?",
+            "options": [
+                "They are positively related",
+                "They are inversely related",
+                "They are unrelated",
+                "They always remain constant"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Law of Demand states that, holding other factors constant, as the price of a good increases, the quantity demanded decreases.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13144,
+            "question_text": "What is 'opportunity cost' in economic terms?",
+            "options": [
+                "The monetary cost of producing a good",
+                "The value of the next best alternative foregone",
+                "The total cost of production",
+                "The price charged by the competitor"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Opportunity cost represents the benefits an individual, investor, or business misses out on when choosing one alternative over another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13145,
+            "question_text": "Which term describes the total value of all finished goods and services produced within a country's borders in a specific time period?",
+            "options": [
+                "GNP",
+                "GDP",
+                "Consumer Price Index",
+                "Trade Balance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Gross Domestic Product (GDP) is the standard measure of a country's economic activity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13146,
+            "question_text": "What happens in a market when the price is set above the equilibrium price?",
+            "options": [
+                "A shortage occurs",
+                "A surplus occurs",
+                "Equilibrium remains the same",
+                "Demand increases automatically"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If the price is too high, supply exceeds demand, resulting in a surplus of goods.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13147,
+            "question_text": "What is 'Inflation'?",
+            "options": [
+                "A decrease in the money supply",
+                "A general increase in prices and a fall in the purchasing value of money",
+                "The stabilization of the stock market",
+                "A rapid increase in employment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inflation reduces the purchasing power of currency over time as goods and services become more expensive.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13148,
+            "question_text": "What does an 'Elastic' demand curve suggest?",
+            "options": [
+                "Consumers are very sensitive to price changes",
+                "Consumers are not sensitive to price changes",
+                "Price has no effect on demand",
+                "Supply will decrease if price increases"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Elastic demand means a small change in price leads to a significant change in the quantity demanded.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13149,
+            "question_text": "What is the primary function of a Central Bank?",
+            "options": [
+                "To lend money to individual consumers",
+                "To manage the nation's money supply and interest rates",
+                "To regulate international trade agreements",
+                "To calculate personal income taxes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Central banks influence the economy by adjusting monetary policy, such as interest rates and money supply.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13150,
+            "question_text": "Which of the following describes 'Economies of Scale'?",
+            "options": [
+                "A decrease in cost per unit as output increases",
+                "An increase in profit due to high demand",
+                "Government subsidies for large businesses",
+                "The cost of hiring additional workers"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Economies of scale occur when the cost per unit of production decreases as the volume of output increases.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13151,
+            "question_text": "What does the 'Gini Coefficient' measure?",
+            "options": [
+                "The rate of unemployment",
+                "The degree of income inequality in a population",
+                "The strength of a national currency",
+                "The rate of technological growth"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Gini coefficient is a statistical measure of distribution used to indicate income inequality within a country.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

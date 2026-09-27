@@ -1,0 +1,375 @@
+{
+    "category": "National Excellence Institute",
+    "name": "Mathematics",
+    "board": "national-excellence-institute",
+    "subject": "mathematics",
+    "url": "/national-excellence-institute/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 26,
+    "questions": [
+        {
+            "id": 13376,
+            "question_text": "If a shirt is marked at $50 and sold at a 20% discount, what is the final selling price?",
+            "options": [
+                "$30",
+                "$40",
+                "$45",
+                "$42"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "20% of $50 is $10. Subtracting $10 from $50 results in $40.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13377,
+            "question_text": "Solve for x: 3x + 7 = 22.",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 7 from both sides to get 3x = 15, then divide by 3 to get x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13378,
+            "question_text": "If a rectangle has a length of 12 cm and a diagonal of 13 cm, what is the area of the rectangle?",
+            "options": [
+                "60 cm²",
+                "72 cm²",
+                "156 cm²",
+                "169 cm²"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Using Pythagorean theorem, the width is sqrt(13^2 - 12^2) = sqrt(169 - 144) = 5. Area = 12 * 5 = 60.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13379,
+            "question_text": "What is the value of 2^5 * 2^3 / 2^4?",
+            "options": [
+                "8",
+                "16",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Exponents rule: 2^(5+3-4) = 2^4 = 16.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13380,
+            "question_text": "If 15 workers can build a wall in 20 days, how many days will 25 workers take to build the same wall?",
+            "options": [
+                "10 days",
+                "12 days",
+                "15 days",
+                "18 days"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Total man-days = 15 * 20 = 300. Days for 25 workers = 300 / 25 = 12.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13381,
+            "question_text": "What is the probability of rolling a sum of 7 with two fair six-sided dice?",
+            "options": [
+                "1/6",
+                "1/12",
+                "7/36",
+                "1/2"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Possible combinations for 7 are (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). Total 6/36 = 1/6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13382,
+            "question_text": "A laptop costs $800 after a 20% discount. What was the original price?",
+            "options": [
+                "$960",
+                "$1000",
+                "$1040",
+                "$1200"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Let original be x. 0.8x = 800, so x = 1000.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13383,
+            "question_text": "Evaluate: log2(32) + log3(81)",
+            "options": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "log2(32) = 5 and log3(81) = 4. 5 + 4 = 9.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13384,
+            "question_text": "What is the sum of the first 10 positive odd integers?",
+            "options": [
+                "90",
+                "100",
+                "110",
+                "121"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sum of the first n odd integers is n^2. 10^2 = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13385,
+            "question_text": "If the average of 5 numbers is 20, and one number 10 is removed, what is the new average?",
+            "options": [
+                "18",
+                "20",
+                "22",
+                "25"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Total sum = 5 * 20 = 100. New sum = 90. New average = 90/4 = 22.5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13386,
+            "question_text": "What is the slope of the line represented by 2x + 4y = 8?",
+            "options": [
+                "-0.5",
+                "0.5",
+                "-2",
+                "2"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Convert to y = mx + c. 4y = -2x + 8 => y = -0.5x + 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13387,
+            "question_text": "If x^2 - 9 = 0, which of the following is a possible value for x?",
+            "options": [
+                "3",
+                "6",
+                "9",
+                "81"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "(x-3)(x+3) = 0, so x can be 3 or -3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13388,
+            "question_text": "A car travels at 60 km/h for 2 hours and 90 km/h for 1 hour. What is the average speed?",
+            "options": [
+                "70 km/h",
+                "75 km/h",
+                "80 km/h",
+                "85 km/h"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Total distance = (60*2) + (90*1) = 210 km. Total time = 3 hours. 210 / 3 = 70.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14027,
+            "question_text": "If a shopkeeper sells an item for $120, which is a 20% profit on the cost price, what was the original cost price?",
+            "options": [
+                "$96",
+                "$100",
+                "$104",
+                "$144"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cost price + 20% of Cost price = 120. Thus, 1.2 * CP = 120, so CP = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14028,
+            "question_text": "Solve for x: 3(x - 4) = 2x + 7",
+            "options": [
+                "11",
+                "15",
+                "19",
+                "3"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Expanding the equation: 3x - 12 = 2x + 7. Subtracting 2x from both sides gives x - 12 = 7. Adding 12 to both sides gives x = 19.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14029,
+            "question_text": "If a car travels at 60 km/h for 2.5 hours, what total distance does it cover?",
+            "options": [
+                "120 km",
+                "140 km",
+                "150 km",
+                "180 km"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Distance is calculated as speed multiplied by time. 60 * 2.5 = 150.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14030,
+            "question_text": "What is the value of 2^5 + 5^2?",
+            "options": [
+                "45",
+                "57",
+                "67",
+                "77"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "2^5 = 32 and 5^2 = 25. 32 + 25 = 57.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14031,
+            "question_text": "If the area of a circle is 16π, what is its radius?",
+            "options": [
+                "2",
+                "4",
+                "8",
+                "16"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The formula for the area of a circle is πr². If πr² = 16π, then r² = 16, so r = 4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14032,
+            "question_text": "Simplify: (x^2 - 9) / (x - 3)",
+            "options": [
+                "x - 3",
+                "x + 3",
+                "x + 9",
+                "x - 9"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "x^2 - 9 is a difference of squares: (x - 3)(x + 3). Dividing by (x - 3) leaves (x + 3).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14033,
+            "question_text": "A jacket costs $80 after a 20% discount. What was the original price?",
+            "options": [
+                "$96",
+                "$100",
+                "$104",
+                "$110"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If the discount is 20%, the price $80 represents 80% of the original. 80 / 0.8 = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14034,
+            "question_text": "What is the average of 12, 15, 23, and 30?",
+            "options": [
+                "18",
+                "20",
+                "22",
+                "25"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sum = 12+15+23+30 = 80. Average = 80 / 4 = 20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14035,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "0.15 * 200 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14036,
+            "question_text": "Solve for y: 2y + 5 = 17",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "2y = 12, therefore y = 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14037,
+            "question_text": "If a triangle has angles of 40 and 60 degrees, what is the third angle?",
+            "options": [
+                "70",
+                "80",
+                "90",
+                "100"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sum of interior angles in a triangle is 180. 180 - (40 + 60) = 80.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14038,
+            "question_text": "What is the next number in the sequence: 2, 6, 12, 20, ...?",
+            "options": [
+                "28",
+                "30",
+                "32",
+                "34"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The differences between terms are +4, +6, +8. The next difference is +10. 20 + 10 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14039,
+            "question_text": "If a function f(x) = x^2 - 4x + 4, what is the value of f(3)?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "7"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Substitute x=3 into the equation: (3^2) - 4(3) + 4 = 9 - 12 + 4 = 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

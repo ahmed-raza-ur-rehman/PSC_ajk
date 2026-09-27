@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "General Knowledge — Computer IT",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "general-knowledge-computer-it",
+    "url": "/national-cybercrime-investigation-agency/general-knowledge-computer-it/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14578,
+            "question_text": "Which international organization recently established the 'Climate Finance Initiative' specifically to channel funding for developing nations' energy transition and resilience?",
+            "options": [
+                "The World Bank Group (WBG)",
+                "The International Monetary Fund (IMF)",
+                "The Asian Development Bank (ADB)",
+                "The United Nations Development Programme (UNDP)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The ADB has recently been highly active in coordinating climate financing specifically targeting energy transition across Asia, making it the most precise answer in this context.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

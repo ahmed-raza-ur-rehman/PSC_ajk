@@ -1,0 +1,795 @@
+{
+    "category": "FIA",
+    "name": "English",
+    "board": "fia",
+    "subject": "english",
+    "url": "/fia/english/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 56,
+    "questions": [
+        {
+            "id": 1043,
+            "question_text": "In the context of the passage, the term 'echo chambers' most closely implies:",
+            "options": [
+                "A physical space where information is amplified by surrounding people.",
+                "A digital environment where individuals are exposed only to confirming opinions.",
+                "A deliberate governmental effort to restrict the flow of diverse viewpoints.",
+                "A type of media literacy that involves verifying information from multiple sources."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage explains that echo chambers reinforce preconceived notions and systematically marginalize alternative views.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1044,
+            "question_text": "Passage: The rapid proliferation of digital communication platforms, while hailed as a democratic equalizer, has inadvertently created new avenues for misinformation. The sheer volume and velocity of information exchanged make it challenging for the average user to distinguish between credible reporting and manipulative content. Furthermore, the algorithms governing these platforms often prioritize engagement over veracity, creating echo chambers where preconceived notions are reinforced and alternative viewpoints are systematically marginalized. This necessitates a critical shift in media literacy, moving beyond mere consumption to active, skeptical vetting of sources.\n\nAccording to the passage, what is the most critical problem presented regarding digital communication platforms?",
+            "options": [
+                "The average user lacks the necessary skills to filter out excessive volumes of information.",
+                "Digital platforms have completely erased the distinction between credible and non-credible reporting.",
+                "The primary issue is the marginalization of alternative viewpoints due to restricted communication avenues.",
+                "The algorithmic preference for engagement compromises the truthfulness of shared content."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage explicitly states that algorithms prioritize engagement over veracity, which is the core systemic problem leading to misinformation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1045,
+            "question_text": "Convert the following direct speech into indirect speech: The officer commanded the guards, 'Do not allow any unauthorized entry into the secure zone.'",
+            "options": [
+                "The officer told the guards that they should not allow any unauthorized entry.",
+                "The officer advised the guards that they must not allow any unauthorized entry.",
+                "The officer ordered the guards to not allow any unauthorized entry into the secure zone.",
+                "The officer commanded the guards not to allow any unauthorized entry into the secure zone."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Imperative statements or commands are best converted using infinitive structures ('to' + base verb), especially negative commands ('not to').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1145,
+            "question_text": "Choose the most appropriate indirect speech for the following sentence: Sarah said to John, 'You must submit your reports by the end of the week.'",
+            "options": [
+                "Sarah advised John that he had to submit his reports by the end of the week.",
+                "Sarah told John that he must submit his reports by the end of that week.",
+                "Sarah exclaimed to John that he should submit his reports by the end of that week.",
+                "Sarah asked John if he must submit his reports by the end of the week."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "When reporting 'must' advice, especially regarding a condition, it often changes to 'had to' or 'needed to'. Option C accurately reflects this necessary shift and tense change.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1453,
+            "question_text": "Considering the inherent challenges of integrating advanced artificial intelligence into traditional bureaucratic workflows, the initial focus must pivot from mere technological capability to demonstrable, scalable operational efficiency. This measured approach ensures that the substantial investment yields tangible improvements rather than simply digitizing existing inefficiencies.",
+            "options": [
+                "Substantial investment in AI automatically guarantees operational efficiency improvements across all departments.",
+                "The priority for AI integration should be measurable process optimization rather than just adopting new technology.",
+                "AI technology is superior to any traditional manual filing system in terms of speed.",
+                "Bureaucratic workflows inherently resist AI adoption due to entrenched procedural norms."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage emphasizes that the focus must be on 'demonstrable, scalable operational efficiency' rather than just the technology itself.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1454,
+            "question_text": "The recent surge in remote work capabilities, while offering unprecedented flexibility, simultaneously presents complex challenges related to maintaining corporate culture and ensuring data security compliance across decentralized physical boundaries. Organizations must therefore adopt hybrid models that mandate structured communication and robust digital safeguards.",
+            "options": [
+                "The main challenge of remote work is solely maintaining employee morale, not data security.",
+                "Hybrid models are the mandatory solution for balancing flexibility with the need for structure and security.",
+                "Corporate culture thrives best when employees are physically present in the main office location.",
+                "Data security compliance is primarily hampered by the lack of centralized physical office space."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage advocates for hybrid models to address the dual challenges of maintaining culture and ensuring data security across decentralized settings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1553,
+            "question_text": "Passage: The rapid proliferation of digital communication tools, while hailed as a democratizing force, often masks a subtle erosion of deep intellectual engagement. Our inclination towards bite-sized information fragments privileges speed over profundity, conditioning the modern mind to seek quick confirmation rather than sustained contemplation. Consequently, the ability to synthesize complex ideas derived from disparate sources appears increasingly atrophied, replaced by a mere accumulation of readily digestible soundbites.",
+            "options": [
+                "Soundbites are inherently superior to complex ideas because they are more accessible.",
+                "The passage suggests that digital communication primarily enhances intellectual depth.",
+                "Contemplation requires more sources than is generally available today.",
+                "The core argument is that digital speed hinders the capacity for deep, sustained thought."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage argues that the speed of digital communication ('bite-sized information') leads to the atrophy of the ability for sustained contemplation (deep intellectual engagement).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1554,
+            "question_text": "Passage: Critics argue that the implementation of rigid, standardized testing metrics overlooks the inherent dynamism of human knowledge. Education, they assert, should not be measured solely by recall scores but by the capacity for adaptive problem-solving and critical synthesis. To reduce learning outcomes to a numerical grade is to mistake performance on a limited scale for true intellectual growth, effectively penalizing curiosity in favor of predictable conformity.",
+            "options": [
+                "The primary fault of current educational measurement is its focus on quantifiable recall rather than adaptable thought.",
+                "Standardized testing is effective because it accurately measures all facets of intellectual growth.",
+                "Curiosity and critical thinking naturally decline when students focus on high scores.",
+                "Predictable conformity is the most desirable trait for a well-educated individual."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The passage critiques standardized testing for measuring only recall and scores, failing to capture the broader capacity for adaptive problem-solving and critical synthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1555,
+            "question_text": "Choose the option that maintains both the correct tense sequence and the formal tone suitable for an academic exam:",
+            "options": [
+                "While the chairman spoke, the journalist suddenly flashed his camera, interrupting the proceedings.",
+                "The chairman was speaking when the journalist suddenly flashes his camera and interrupts the proceedings.",
+                "The journalist flashed his camera and suddenly interrupted the proceedings while the chairman spoke.",
+                "While the chairman was speaking, the journalist suddenly flashed his camera and interrupted the proceedings."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The use of 'was speaking' (Past Continuous) with 'flashed' (Simple Past) correctly establishes the background action being interrupted by a sudden, single action, maintaining temporal consistency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1653,
+            "question_text": "The recent shift towards sustainable energy sources, though economically challenging in the short term, is fundamentally necessary to mitigate the escalating impacts of climate change. Dependency on fossil fuels not only contributes significantly to atmospheric carbon loading but also destabilizes global ecosystems, demanding a comprehensive transition toward renewable technologies like solar and wind power.",
+            "options": [
+                "Global ecosystems will naturally adapt to the increased carbon loading caused by fossil fuel dependency.",
+                "Fossil fuels are inherently manageable if global carbon capture technologies improve significantly.",
+                "Transitioning to sustainable energy, despite initial costs, is crucial for environmental and global stability.",
+                "The primary driver for adopting renewable energy must be economic stability, overriding environmental concerns."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The passage explicitly states that the transition is 'fundamentally necessary to mitigate the escalating impacts of climate change.' ",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1654,
+            "question_text": "A successful infrastructure project, such as developing advanced public transport networks, requires not only immense capital investment but also sophisticated stakeholder engagement. Ignoring community feedback or environmental impact assessments can lead to costly delays and public resistance, regardless of the project's technical merits.",
+            "options": [
+                "Technical merit alone is sufficient to guarantee the success of any major infrastructure development project.",
+                "Stakeholder engagement and comprehensive impact assessments are critical for mitigating delays and public resistance in large-scale projects.",
+                "Financial investment is the only factor that determines the timely completion of infrastructure projects.",
+                "Public resistance is generally negligible when a project offers significant modern benefits."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text emphasizes that sophisticated stakeholder engagement and environmental assessments are required because ignoring them leads to delays and resistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1655,
+            "question_text": "If he had studied harder, the exam would have been a breeze, she told her friend. Choose the correct indirect speech reporting.",
+            "options": [
+                "She told her friend that if he had studied harder, the exam would have been a breeze.",
+                "She told her friend that if he had studied harder, the exam had been a breeze.",
+                "She told her friend that he must study harder for the exam to be a breeze.",
+                "She told her friend that if he had studied harder, the exam would have been a breeze."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since the tense ('would have been') is already in a conditional perfect form, no tense backshift is required, maintaining the original meaning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1753,
+            "question_text": "According to the passage, the primary reason that early industrialization significantly altered traditional social structures was:",
+            "options": [
+                "The gradual resistance from established guilds which resisted technological change.",
+                "The lack of suitable infrastructure to support centralized manufacturing hubs.",
+                "The sudden shift from agrarian economies to wage-labor systems.",
+                "The increased emphasis on aristocratic lineage over occupational skills."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The transition from farming-based self-sufficiency to reliance on paid labor inherently dismantled pre-industrial social hierarchies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1754,
+            "question_text": "The author suggests that relying solely on 'quick-fix' technological solutions, without considering sustainable resource management, will most likely lead to:",
+            "options": [
+                "An immediate and permanent reduction in global carbon emissions.",
+                "The complete abandonment of technological innovation in favor of traditional methods.",
+                "A temporary boost in GDP followed by ecological collapse.",
+                "A uniform global shift towards decentralized, local manufacturing."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The passage implies that unchecked technological enthusiasm often results in short-term gains at the expense of long-term environmental stability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1853,
+            "question_text": "The following passage describes the detrimental effects of unchecked industrial expansion on local biodiversity. Which of the following inferences can be drawn from the text regarding 'habitat fragmentation'?",
+            "options": [
+                "Fragmentation significantly reduces the genetic variability of species, making them susceptible to localized extinction.",
+                "Its main impact is limited to aesthetic degradation, having no measurable effect on population dynamics.",
+                "It is a natural process that has accelerated only due to human development, posing no inherent threat.",
+                "It primarily affects large mammal populations, causing them to migrate out of industrial zones entirely."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Habitat fragmentation reduces viable habitat size and connectivity, leading to genetic bottlenecks and diminished biodiversity, as discussed in environmental texts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1854,
+            "question_text": "According to the provided passage detailing historical shifts in trade routes, the 'Spice Trail' declined primarily because:",
+            "options": [
+                "Overproduction of spices in the East led to market saturation, making long-distance trade unprofitable for major empires.",
+                "The exotic nature of the spices diminished in value as more regions outside Asia began cultivating them.",
+                "Local political resistance in the Mediterranean ports forced all major trading powers to dismantle the established routes completely.",
+                "The rise of oceanic navigation provided faster, more reliable, and politically stable alternatives for commodity transfer."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Modern historical texts highlight that advancements in nautical technology and the Age of Exploration circumvented older, land-based routes like the Spice Trail.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1855,
+            "question_text": "Choose the most grammatically accurate passive form of the following active sentence: 'The committee might announce the results by the end of the day.'",
+            "options": [
+                "The results might be announced by the committee by the end of the day.",
+                "The results were might be announced by the committee by the end of the day.",
+                "By the end of the day, the results might announce by the committee.",
+                "The announcement of results might be by the committee by the end of the day."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "To form the passive voice with a modal verb (might), the structure is 'Modal + be + Past Participle'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1954,
+            "question_text": "Passage: The concept of 'digital literacy' has evolved far beyond simply knowing how to use a smartphone. It now encompasses the ability to critically evaluate information encountered online, discern credible sources from misinformation, and navigate the complex ethical landscape of the internet. In an age of rapid content creation and deep fakes, mere access to technology is insufficient. True digital literacy requires a blend of technical skills, critical thinking, and media acumen to safeguard oneself and the public from digital exploitation and propaganda.",
+            "options": [
+                "Digital literacy is merely about possessing the latest technological gadgets and maintaining connectivity.",
+                "Digital literacy is limited to understanding the basic functions of social media platforms for personal use.",
+                "It demands critical thinking and media acumen to vet information and understand digital ethics.",
+                "The primary focus of modern digital literacy is mastering complex software and hardware components."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The passage emphasizes that true digital literacy requires critical thinking and media acumen, not just technical skills or gadget ownership.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1955,
+            "question_text": "Passage: While many economists argue that rapid globalization necessarily leads to uniform economic growth, historical evidence suggests a more nuanced reality. Globalization, far from being a single, monolithic force, often creates uneven development. Regions or sectors best equipped to integrate into global supply chains thrive, while others—particularly those dependent on outdated industries or failing to adopt digital infrastructure—are left behind. Therefore, the benefits of globalization are highly distributive, concentrating wealth rather than spreading it evenly across a nation.",
+            "options": [
+                "The concentration of wealth caused by globalization necessitates immediate international regulatory intervention.",
+                "Modernization is solely dependent on integrating into global supply chains, regardless of pre-existing infrastructure.",
+                "Globalization inevitably leads to balanced and universal economic development across all regions.",
+                "The economic benefits of globalization are inherently unevenly distributed, favoring specialized regions."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage states that globalization creates 'uneven development' and that benefits are 'highly distributive, concentrating wealth.' ",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1956,
+            "question_text": "Choose the sentence that correctly converts the following speech into reported speech: Rohan said to Aisha, \"I have completed my report, so I will submit it tomorrow.\"",
+            "options": [
+                "Rohan said to Aisha that he had completed his report, and that he will submit it the next day.",
+                "Rohan told Aisha that he has completed his report, so he will submit it tomorrow.",
+                "Rohan told Aisha that he had completed his report and would submit it the next day.",
+                "Rohan told Aisha that he would complete his report and submitted it the following day."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The present perfect ('have completed') changes to past perfect ('had completed'), and 'will' changes to 'would' in reported speech.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2038,
+            "question_text": "The officer exclaimed, 'What a commendable service you have rendered to the community!' Convert this sentence into indirect speech.",
+            "options": [
+                "The officer exclaimed with admiration that the service rendered to the community was commendable.",
+                "The officer exclaimed that the service rendered to the community could be commendable.",
+                "The officer exclaimed that the service rendered to the community was very commendable.",
+                "The officer exclaimed that the service rendered to the community had been very commendable."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The exclamation 'What a...' requires the inclusion of words like 'with admiration' or 'exclaimed with pleasure,' and 'have rendered' shifts to 'was rendered' while retaining the sense of magnitude.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2139,
+            "question_text": "Report the following sentence into indirect speech: The officer asked the driver, \"Do you need me to send the report now, or should we wait until tomorrow?\"",
+            "options": [
+                "The officer asked the driver if he needed him to send the report then, or if they should wait until the next day.",
+                "The officer asked the driver if he needed him to send the report then, or whether they should wait until the next day.",
+                "The officer asked the driver whether he needed him to send the report now, or if they should wait until tomorrow.",
+                "The officer questioned the driver if he needed to send the report then, or suggested waiting until the next day."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "We must change 'now' to 'then' and 'tomorrow' to 'the next day' (or 'the following day'). The structure 'Do you need...' requires reporting both options using 'if/whether'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2189,
+            "question_text": "Which of the following sentences correctly converts the active voice action into the passive voice?",
+            "options": [
+                "By the committee, the detailed proposals have been reviewed since morning.",
+                "The detailed proposals were being reviewed by the committee since morning.",
+                "The committee has been reviewing the detailed proposals since morning.",
+                "The detailed proposals have been being reviewed by the committee."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The original active sentence is in the Present Perfect Continuous Tense. Its passive form must maintain the original aspect, which makes it grammatically incorrect in the passive structure; however, among the choices, A is the only grammatically sound tense construction, implying 'have been reviewing' was the intended active tense (Present Perfect Continuous, which does not easily transfer to passive). If the original was 'have reviewed', the passive would be 'have been reviewed'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2239,
+            "question_text": "If the committee members had implemented proper safety protocols, the industrial accident would not have occurred, according to the site investigator. Rewrite the sentence using 'by' to emphasize the cause.",
+            "options": [
+                "The accident, due to the committee members' failure to implement proper safety protocols, occurred.",
+                "The industrial accident was prevented by the committee members' implementation of proper safety protocols.",
+                "The accident would not have happened by the implementation of proper safety protocols by the committee members.",
+                "By the committee members, the industrial accident would not have occurred if proper safety protocols were implemented."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The original sentence is a conditional (Third Conditional). Option C uses a prepositional phrase ('due to') which is the most natural and grammatically correct way to express the cause (failure) and maintain the past result.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2289,
+            "question_text": "Identify the correct reported speech for the following statement: Sarah said to Ahmed, 'If I had known the details, I would have helped you immediately.'",
+            "options": [
+                "Sarah told Ahmed that if she had known the details, she would help him immediately.",
+                "Sarah told Ahmed that if she had known the details, she would have helped him immediately.",
+                "Sarah told Ahmed that she would have helped him immediately if she knew the details.",
+                "Sarah told Ahmed that if she knew the details, she would help him immediately."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The original sentence uses the Third Conditional (hypothetical past), which remains unchanged in reported speech because the structure is counterfactual.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2339,
+            "question_text": "Identify the correct indirect speech conversion for the following sentence: \"The professor exclaimed, 'What a breathtaking discovery this is!'.\"",
+            "options": [
+                "The professor exclaimed how breathtaking the discovery was.",
+                "The professor exclaimed that what a breathtaking discovery that was.",
+                "The professor exclaimed that they made a breathtaking discovery.",
+                "The professor exclaimed that it was a breathtaking discovery."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Exclamatory statements (like 'What a...') are typically converted using 'exclaim that' followed by 'how' or 'what' structure, changing the tense and pronouns.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2699,
+            "question_text": "Choose the correct way to convert the following direct speech into indirect speech: She said to him, \"If I were a millionaire, I would buy a new car for you.\"",
+            "options": [
+                "She told him that if she were a millionaire, she would buy a new car for him.",
+                "She had told him that if she was a millionaire, she would buy a new car for him.",
+                "She told him that if she was a millionaire, she would buy a new car for him.",
+                "She told him that if she were a millionaire, she would buy a new car for him."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The conditional structure (If I were, I would) must remain unchanged in reported speech because it is a hypothetical statement, and the pronoun 'him' changes to 'her'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2909,
+            "question_text": "The car was being driven by the constable when the traffic signal suddenly turned red. Which option correctly transforms the sentence structure while maintaining the meaning and voice?",
+            "options": [
+                "When the traffic signal suddenly turned red, the constable was driving the car.",
+                "The constable was driving the car when the signal suddenly turned red.",
+                "The constable was driving the car when the traffic signal turned suddenly red.",
+                "When the traffic signal suddenly turned red, the constable was driving the car."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The original sentence is in the Passive Continuous Voice (was being driven). To make it Active, the doer (the constable) must be explicitly stated, resulting in Active Continuous Voice in the 'when' clause.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3160,
+            "question_text": "The old man said, \"Neither the children nor the students were paying attention to the lecture.\" Which of the following is the correct reported speech equivalent?",
+            "options": [
+                "The old man told that the students or the children paid attention to the lecture.",
+                "The old man said that neither the students nor the children were paying attention to the lecture.",
+                "The old man said that neither the students nor the children pay attention to the lecture.",
+                "The old man reported that the children or the students were paying attention to the lecture."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When using 'neither...nor' in reported speech, the structure remains the same, and the tense must be shifted (past continuous to past perfect continuous is too much, so simple past is preferred here).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3480,
+            "question_text": "Which of the following options is the most appropriate passive structure for the sentence: \"The Chief Editor is reviewing the application form right now.\"",
+            "options": [
+                "The application form was being reviewed by the Chief Editor right now.",
+                "The application form was reviewed by the Chief Editor right now.",
+                "The application form is being reviewed by the Chief Editor.",
+                "The application form is reviewed by the Chief Editor right now."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The active voice uses Present Continuous Tense (is reviewing); the corresponding passive structure is Present Continuous Passive (is being reviewed).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3729,
+            "question_text": "Which of the following conclusions can be MOST logically drawn from the passage?",
+            "options": [
+                "The challenge of misinformation requires both user vigilance and platform accountability reforms.",
+                "Improving media literacy alone is sufficient to counteract the spread of manipulated content.",
+                "Digital platforms, by their very nature, are incapable of supporting genuine democratic discourse.",
+                "Regulatory intervention is the only effective method to address the platform's algorithmic failures."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The text emphasizes the need for a 'critical shift in media literacy' (user action) alongside addressing the algorithmic issues (platform accountability).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4693,
+            "question_text": "The author's primary tone when discussing the 'sheer volume and velocity of information' is best described as:",
+            "options": [
+                "Apathetic, suggesting that the user must solve the problem independently.",
+                "Concerned, highlighting a complex and pressing intellectual challenge.",
+                "Pessimistic, implying inevitable systemic failure.",
+                "Alarmist, suggesting immediate social collapse is imminent."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The author uses academic language to describe a pressing, complex problem, suggesting concern rather than pure despair or panic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5892,
+            "question_text": "Passage: Despite widespread advances in medical technology, the challenge of preventative health remains paramount. Modern medicine often focuses on treating acute symptoms after illness strikes, leading to a reactive healthcare model. A shift towards prophylactic strategies, emphasizing diet, regular exercise, and lifestyle modifications, is necessary. This proactive approach, which aims to prevent disease rather than cure it, represents the future frontier of public health management and requires systemic institutional overhaul.",
+            "options": [
+                "The primary focus of modern medicine is currently on lifestyle modification and physical activity guidelines.",
+                "Systemic overhaul is only required if advanced medical technologies fail to treat acute symptoms.",
+                "Prophylactic strategies fundamentally address the systemic nature of modern disease management.",
+                "Reactive healthcare models are inherently superior because they provide immediate intervention during an acute illness."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The passage asserts that prophylactic strategies (prevention) are essential and require a systemic overhaul to address the reactive nature of current medicine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5893,
+            "question_text": "Passage: The concept of 'digital literacy' has expanded far beyond mere familiarity with computers. It now encompasses the ability to critically evaluate information received online, understand algorithmic biases, and participate responsibly in the digital civic sphere. In an era dominated by misinformation and echo chambers, possessing strong digital literacy skills is no longer optional but is a fundamental requirement for informed citizenship, particularly crucial in democratic processes like elections.",
+            "options": [
+                "Digital literacy is limited to basic computer operation and technical proficiency.",
+                "Echo chambers primarily result from poor internet infrastructure rather than flawed information consumption habits.",
+                "Algorithmic biases and misinformation necessitate advanced digital literacy for informed citizenship.",
+                "In the digital age, physical ability to vote is more crucial than critical evaluation of online sources."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The passage emphasizes that modern digital literacy includes critically evaluating online information and understanding biases, which is vital for citizenship in the age of misinformation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5992,
+            "question_text": "According to the passage, the increasing popularity of remote work presents a significant challenge to established urban infrastructure. Which of the following statements best synthesizes the author's primary concern regarding this trend?",
+            "options": [
+                "The decline in municipal tax revenue due to reduced daily physical presence of employees in central business districts.",
+                "The need for governments to mandate a minimum number of days in an office to sustain local commerce and tax bases.",
+                "The overwhelming burden placed on existing public transportation networks which are ill-equipped for decentralized travel patterns.",
+                "The necessity for cities to rapidly convert residential areas into co-working spaces to accommodate the workforce."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The passage implies that fewer people in city centers reduce foot traffic, impacting retail and office services, thus harming the city's revenue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5993,
+            "question_text": "The passage suggests that while technological advancements streamline many processes, they often create a 'digital divide' that exacerbates existing socio-economic disparities. What is the most logical inference to be drawn?",
+            "options": [
+                "Educational reforms must prioritize coding and data science training to prevent mass unemployment among skilled labor.",
+                "The primary solution lies in regulating multinational tech corporations to ensure universal bandwidth availability for all citizens.",
+                "Access to advanced technology and training is no longer solely dependent on economic status, but requires targeted public intervention.",
+                "Focusing solely on rural internet connectivity will be sufficient to mitigate the adverse effects of the digital divide."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 'digital divide' concept suggests that mere availability (like rural internet) is insufficient; active intervention is needed to make the benefits equitable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6081,
+            "question_text": "The report argued that while deregulation could spur economic growth by encouraging market competition, it simultaneously risked creating severe monopolistic practices, potentially harming smaller, localized businesses that lack the capital to withstand industry consolidation.",
+            "options": [
+                "The primary concern regarding deregulation is the potential for it to undermine localized businesses through monopolistic consolidation.",
+                "Deregulation is beneficial because market competition is the most effective mechanism for spurring necessary economic growth.",
+                "Capital reserves are merely a minor inconvenience for localized businesses when facing broader economic liberalization efforts.",
+                "Small businesses thrive best when they operate within heavily regulated industrial frameworks that protect their market share."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The passage states that the risk of deregulation is the creation of monopolistic practices that hurt smaller, localized businesses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6082,
+            "question_text": "In the context of governmental efficiency, the passage suggests that merely implementing more technological solutions is insufficient without concurrent reforms to administrative structures and public accountability mechanisms.",
+            "options": [
+                "Administrative structures are inherently sound and only require minor technological updates to function optimally.",
+                "Increased automation in government processes is the single most critical factor in achieving immediate efficiency improvements.",
+                "Technology alone can solve all administrative bottlenecks, provided the government allocates sufficient funding and technical personnel.",
+                "True governance reform requires a holistic approach that addresses institutional weaknesses alongside technological adoption."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage emphasizes that structural and accountability reforms must accompany technological upgrades for genuine governance improvement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6083,
+            "question_text": "Identify the most grammatically accurate indirect speech conversion for the sentence: 'The supervisor exclaimed, 'We must complete this report by tomorrow morning.''",
+            "options": [
+                "The supervisor exclaimed that they must complete this report by tomorrow morning.",
+                "The supervisor exclaimed that they should complete it by the following morning.",
+                "The supervisor exclaimed that they had to complete that report by the next morning.",
+                "The supervisor exclaimed that they must complete that report by the following morning."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tense shifts 'must' (obligation) to 'had to' and 'this' (time marker) to 'that' (or 'the' next day) in reported speech.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6145,
+            "question_text": "The rapid proliferation of misinformation online poses a serious challenge to democratic discourse. While the ease of sharing content promotes connectivity, it simultaneously undermines the critical requirement for verifiable facts. Therefore, digital literacy cannot merely be viewed as a supplementary skill, but rather as a foundational pillar necessary for maintaining a robust and informed public sphere.",
+            "options": [
+                "The core argument suggests that digital literacy must be prioritized to sustain democratic processes.",
+                "Digital literacy is suggested merely as a helpful addition to existing educational frameworks.",
+                "The text primarily focuses on the technical difficulties associated with content sharing on social media.",
+                "The author claims that misinformation is solely caused by a lack of internet connectivity."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The passage argues that digital literacy is a foundational necessity (pillar) to combat misinformation and preserve democratic discourse.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6146,
+            "question_text": "In the context of sustainable urban planning, integrating green spaces is often hailed as a panacea. While these spaces significantly mitigate the urban heat island effect and improve air quality, their true value lies in fostering community resilience and psychological well-being, which counteracts the emotional detachment induced by hyper-modernization.",
+            "options": [
+                "Psychological well-being is only correlated with physical health, not with community connection.",
+                "The passage suggests that green spaces offer multi-faceted benefits extending beyond mere environmental improvements.",
+                "The primary goal of urban planning should be maximizing commercial development rather than integrating nature.",
+                "Green spaces are only effective if they are equipped with advanced, expensive technologies for maintenance."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text lists environmental benefits (heat mitigation, air quality) but emphasizes the deeper value of community resilience and psychological well-being.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6218,
+            "question_text": "Passage Excerpt: \"The implementation of digital surveillance systems, while touted as a necessity for modern law enforcement, presents a complex ethical dilemma. Proponents argue that enhanced monitoring is crucial for maintaining public safety and curbing organized crime. Conversely, critics warn that such pervasive monitoring fundamentally erodes the right to anonymity and privacy, potentially creating a chilling effect on legitimate dissent and free expression. Finding the balance between security and liberty remains the central challenge for democratic societies.\" \n\nAccording to the passage, what is the primary ethical challenge presented by digital surveillance systems?",
+            "options": [
+                "Determining the exact methods through which organized crime operates in the modern era.",
+                "Overcoming technical failures associated with high-volume data collection and storage.",
+                "Ensuring that digital technology is affordable and accessible to all law enforcement agencies.",
+                "Reconciling the need for public safety measures with the preservation of fundamental individual privacy rights."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage explicitly frames the dilemma as balancing 'security and liberty,' which translates to public safety versus individual privacy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6219,
+            "question_text": "Passage Excerpt: \"Sustainable development requires a paradigm shift that moves beyond mere economic growth metrics. If progress is only measured by GDP increase, the environmental degradation and social inequalities inherent in unchecked industrialization are overlooked. A truly developed society must integrate ecological resilience with equitable resource distribution. Therefore, policy must transition from an extractive model—treating natural resources solely as commodities—to a circular model that values regeneration and community well-being as primary indicators of success.\" \n\nThe author primarily argues that:\"",
+            "options": [
+                "The shift to circular models will automatically resolve deep-seated issues of international resource distribution.",
+                "Economic growth, while important, must be reevaluated using metrics that account for ecological health and social equity.",
+                "Only advanced, high-tech economies possess the necessary infrastructure to implement sustainable policy changes.",
+                "Government policies must prioritize the immediate curbing of carbon emissions over all other forms of economic activity."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The core argument is that measuring development only by GDP (economic growth) is insufficient; it must include social and environmental factors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6295,
+            "question_text": "The phrase 'exacerbate the underlying disparities' (as used in the context of economic policy) most accurately means:",
+            "options": [
+                "To intensify or worsen the pre-existing differences or inequalities.",
+                "To redistribute the wealth disparity gradually through controlled market interventions.",
+                "To equalize disparities by enforcing a uniform income structure across all sectors.",
+                "To temporarily mitigate the disparities by introducing a limited government subsidy."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Exacerbate means to make worse or aggravate; therefore, exacerbating disparities means making the existing inequalities worse or more severe.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6297,
+            "question_text": "Convert the following active sentence into the passive voice: By the time the FIA officers arrived, the suspects had already escaped through a secret passage.",
+            "options": [
+                "The suspects had already escaped through a secret passage by the time the FIA officers arrived.",
+                "By the time the FIA officers arrived, the secret passage had already been escaped by the suspects.",
+                "By the time the FIA officers arrived, the suspects were already escaped through a secret passage.",
+                "By the time the FIA officers arrived, the secret passage had already escaped the suspects."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The original sentence is in the Past Perfect Tense (had + V3). The passive structure for this tense is 'had been + V3', requiring 'had already been escaped' in the correct contextual form.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6373,
+            "question_text": "If the passage means that historical narratives often simplify complex events, it suggests that these narratives are:",
+            "options": [
+                "Difficult to prove or verify.",
+                "Overly simplistic and selective.",
+                "Purely fictional and imaginative.",
+                "Completely factual and comprehensive."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Simplification, by definition, involves omitting complexity and selecting specific details, suggesting the narratives are overly simplistic and selective rather than purely fictional.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6374,
+            "question_text": "According to the passage, the primary tension driving the current economic discourse in Pakistan is best described as:",
+            "options": [
+                "The resistance from older institutions attempting to regulate fintech innovation.",
+                "The debate over whether the energy sector should be fully privatized.",
+                "The struggle between rapid digital growth and underlying infrastructural weaknesses.",
+                "The conflict between state control and private market expansion."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The passage notes that while 'digital infrastructure... has spurred significant economic growth,' it also 'exposes critical vulnerabilities,' defining this tension.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6375,
+            "question_text": "Select the correct indirect speech conversion for the command: The librarian said to the students, \"Submit your assignment before Friday.\"",
+            "options": [
+                "The librarian requested the students to having submitted their assignment before Friday.",
+                "The librarian ordered the students submitting their assignment before Friday.",
+                "The librarian told the students that they should submit their assignment before Friday.",
+                "The librarian advised the students to submit their assignment before Friday."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Direct commands are best converted using an infinitive structure (to + verb). Using 'advised' or 'requested' conveys the tone appropriate for a librarian and maintains perfect grammar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6449,
+            "question_text": "If the passage advocates for continuous self-learning, the primary outcome expected is:",
+            "options": [
+                "Mandatory government funding for all educational materials.",
+                "Increased self-reliance and critical thinking skills.",
+                "A decrease in the need for formal university degrees.",
+                "A reduction in the role of traditional teachers."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Self-learning primarily aims to enhance individual capabilities, leading to increased self-reliance and critical thinking skills, which is the core benefit discussed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6450,
+            "question_text": "If the sign board read, \"No Entry,\" which of the following passive structures is grammatically correct?",
+            "options": [
+                "The area was not to be entered.",
+                "Entering the area was not permitted.",
+                "Entry was forbidden there.",
+                "It was forbidden to enter the area."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The structure 'was not to be entered' correctly conveys the prohibition (a rule or necessity) in the passive voice, precisely matching the authoritative tone implied by 'No Entry'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6521,
+            "question_text": "According to the passage, what was the primary impact of climate change on coastal ecosystems?",
+            "options": [
+                "Coastal ecosystems became self-sufficient, adapting quickly to changing salinity levels.",
+                "The natural cycle of tides absorbed all excess water, stabilizing the shoreline completely.",
+                "Increased frequency of natural disasters allowed for natural recovery of barrier reefs.",
+                "Rising sea levels exacerbated coastal erosion and threatened critical nesting grounds for species."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The text explicitly states that rising sea levels intensified erosion and jeopardized the nesting sites of coastal flora and fauna.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6522,
+            "question_text": "When the author describes the resistance to climate action as 'a costly form of temporal myopia,' the tone adopted is best described as:",
+            "options": [
+                "Nostalgic, remembering a time before the urgency of climate change was widely recognized.",
+                "Scathing, criticizing the immediate self-interest over long-term global welfare.",
+                "Neutral, simply reporting the varying viewpoints of political stakeholders.",
+                "Explanatory, detailing the complex economic reasons for inaction."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The phrase 'temporal myopia' inherently implies a severe failure of foresight, which the author uses to criticize short-sighted, self-interested inaction rather than simply explaining or reporting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6595,
+            "question_text": "Choose the option that correctly converts the following statement into a passive form, retaining the meaning and grammatical structure: 'They recommend that she complete the assignment immediately.'",
+            "options": [
+                "The assignment should be completed immediately, recommending her efforts.",
+                "That she should complete the assignment immediately is recommended by them.",
+                "It is recommended by them that she completes the assignment immediately.",
+                "It is recommended that she complete the assignment immediately."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The structure 'recommend that + Subject + Base Verb' (subjunctive mood) is best preserved using the impersonal passive structure: 'It is recommended that...' followed by the base verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6662,
+            "question_text": "Convert the following dialogue into Indirect Speech: A student said to the teacher, \"Sir, I am working on my project since morning.\"",
+            "options": [
+                "A student told the teacher that he had worked on his project since morning.",
+                "A student told the teacher that he is working on his project since morning.",
+                "A student told the teacher that he had been working on his project since morning.",
+                "A student told the teacher that he was working on his project since morning."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Present Perfect Continuous tense ('am working since morning') changes to Past Perfect Continuous ('had been working') in indirect speech. This shift accurately reports the prolonged, ongoing action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6742,
+            "question_text": "According to the passage, what is the core challenge posed by rapid urbanization?",
+            "options": [
+                "The historical difficulty in maintaining traditional community structures across geographic boundaries.",
+                "The inability of cities to generate enough economic growth to support their populations.",
+                "The outright failure of modern infrastructure to handle increased traffic flow and commercial utility.",
+                "The difficulty of balancing technological efficiency with the foundational human need for localized community interaction."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage states the challenge lies in balancing the efficiency of the digital world with the inherent need for localized, physical community interaction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6743,
+            "question_text": "Identify the correct indirect speech conversion for the sentence: John exclaimed, \"What a beautiful view this is!\"",
+            "options": [
+                "John wondered that the view was so beautiful.",
+                "John exclaimed how beautiful the view was.",
+                "John exclaimed that the view was very beautiful.",
+                "John wished that the view to be very beautiful."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Exclamatory sentences expressing strong admiration ('What a...') are best converted using the structure 'exclaimed how... was'. Option B is the most grammatically correct and idiomatic choice.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

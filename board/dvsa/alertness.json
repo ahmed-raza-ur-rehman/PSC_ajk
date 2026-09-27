@@ -1,0 +1,123 @@
+{
+    "category": "DVSA",
+    "name": "Alertness",
+    "board": "dvsa",
+    "subject": "alertness",
+    "url": "/dvsa/alertness/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 6859,
+            "question_text": "What is the most common cause of accidents at junctions?",
+            "options": [
+                "Excessive speed",
+                "Failure to observe and look properly",
+                "Driving a faulty vehicle",
+                "Heavy rain"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Many accidents occur because drivers do not check their surroundings thoroughly before emerging or turning at junctions.",
+            "is_past_paper": true,
+            "exam_source": "past paper 2026"
+        },
+        {
+            "id": 6860,
+            "question_text": "What is a 'developing hazard' on the road?",
+            "options": [
+                "A static hazard that does not require action",
+                "A situation that would require you to change speed or direction",
+                "A hazard that has already been cleared",
+                "A hazard that you have already passed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A developing hazard is one that is currently changing and will force you to take action, such as braking or steering, to avoid an incident.",
+            "is_past_paper": true,
+            "exam_source": "past paper 2026"
+        },
+        {
+            "id": 6861,
+            "question_text": "What is considered a 'developing hazard' on the road?",
+            "options": [
+                "A hazard that is already clearly visible and stationary",
+                "A situation that may require you to change your speed or direction",
+                "A parked car you pass safely at a distance",
+                "An empty road ahead"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A developing hazard is something that is changing or has the potential to change, meaning you might need to adjust your driving.",
+            "is_past_paper": true,
+            "exam_source": "past paper 2026"
+        },
+        {
+            "id": 8409,
+            "question_text": "What should you do if you become tired while driving on a motorway?",
+            "options": [
+                "Turn up the radio to stay awake",
+                "Drive faster to reach your destination sooner",
+                "Stop at the next service area and take a rest",
+                "Open a window and keep driving"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Driver fatigue is a major cause of accidents; stopping to rest is the only safe way to recover alertness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8410,
+            "question_text": "How can you help maintain your concentration during a long drive?",
+            "options": [
+                "Listen to loud music at all times",
+                "Take regular breaks every two hours",
+                "Eat a heavy meal before starting",
+                "Drive as fast as possible to finish early"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Taking breaks prevents fatigue and helps maintain focus, which is crucial for safe driving.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8411,
+            "question_text": "What should you do if you feel drowsy while driving?",
+            "options": [
+                "Turn up the air conditioning",
+                "Turn up the radio",
+                "Stop at a safe place and rest",
+                "Drink an energy drink and continue"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Drowsiness significantly slows reaction time; the only safe action is to stop and rest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8412,
+            "question_text": "If you are driving on a long journey and start feeling sleepy, what is the best course of action?",
+            "options": [
+                "Turn up the radio volume",
+                "Open a window for fresh air",
+                "Stop at a safe place and take a break",
+                "Eat a high-sugar snack"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Driver fatigue is a major cause of accidents. The only safe way to manage drowsiness is to stop and rest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8413,
+            "question_text": "How can you keep your focus sharp during a lengthy trip?",
+            "options": [
+                "Drive faster to reach your destination sooner",
+                "Plan your route with regular rest intervals",
+                "Drink plenty of caffeinated drinks",
+                "Frequently change radio stations"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Taking planned breaks prevents concentration loss and helps you stay alert for the duration of the journey.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

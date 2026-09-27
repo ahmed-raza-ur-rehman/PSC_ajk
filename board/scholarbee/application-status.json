@@ -1,0 +1,151 @@
+{
+    "category": "Scholarbee",
+    "name": "Application Status",
+    "board": "scholarbee",
+    "subject": "application-status",
+    "url": "/scholarbee/application-status/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11609,
+            "question_text": "A student wants to apply for scholarships that are currently accepting submissions. Which filter should they check?",
+            "options": [
+                "Application Status",
+                "Stipend Amount",
+                "Location",
+                "Study Level"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Application Status filters sort opportunities by whether they are 'Open', 'Closing Soon', or 'Closed'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11610,
+            "question_text": "What does a 'Closing Soon' tag usually signify in the Application Status section?",
+            "options": [
+                "The scholarship has already been awarded",
+                "The portal is currently updating the requirements",
+                "The application deadline is within a short, upcoming timeframe",
+                "The scholarship is only for returning students"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This tag alerts the user that they must act quickly to submit their application before the cutoff date.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11611,
+            "question_text": "A status of 'Open' in the Application Status filter indicates that:",
+            "options": [
+                "The application window is currently accepting submissions",
+                "The deadline has passed",
+                "The committee is reviewing applications",
+                "The portal is undergoing maintenance"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An 'Open' status means the window for applicants is active and accepting new entries.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11612,
+            "question_text": "What does the 'Closed' tag signify for a listed scholarship?",
+            "options": [
+                "The deadline has passed and no further entries are accepted",
+                "The scholarship is open to everyone",
+                "The website is having technical errors",
+                "The scholarship is for alumni only"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A 'Closed' status confirms that the application deadline is in the past and new applications are not permitted.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11613,
+            "question_text": "A status of 'Coming Soon' suggests that:",
+            "options": [
+                "The application period will open in the near future",
+                "The scholarship has been canceled",
+                "The results are pending",
+                "The application was rejected"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Coming Soon' indicates that the scholarship is confirmed but the application process has not officially started yet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11614,
+            "question_text": "Which filter should a user prioritize if they need to apply for funding immediately?",
+            "options": [
+                "Closing Soon",
+                "Coming Soon",
+                "Archived",
+                "Closed"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 'Closing Soon' filter highlights scholarships with imminent deadlines, prompting the user to act quickly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11615,
+            "question_text": "What does an 'Under Review' status likely refer to on a personalized dashboard?",
+            "options": [
+                "The applicant's submitted entry is being evaluated by the committee",
+                "The scholarship itself is inactive",
+                "The applicant needs to update their documents",
+                "The scholarship provider is deleting the post"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Under Review' is the standard status for applications that have been submitted and are awaiting a decision.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11616,
+            "question_text": "Which status indicates that a student has been successfully selected for the scholarship?",
+            "options": [
+                "Awarded",
+                "Pending",
+                "Incomplete",
+                "Waitlisted"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Awarded' confirms that the student has been selected as a recipient of the funds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11620,
+            "question_text": "If an application status shows as 'Incomplete', the user should:",
+            "options": [
+                "Provide missing documents or finish the application form",
+                "Wait for an automated approval",
+                "Contact the news department",
+                "Delete the submission"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An 'Incomplete' status means the applicant failed to finish a required step or submit all necessary files.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11621,
+            "question_text": "Why might a user search for 'Archived' scholarships?",
+            "options": [
+                "To research past trends or recurring opportunities",
+                "To get an immediate scholarship",
+                "To find current opening dates",
+                "To verify their student status"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Archived scholarships are those that are no longer active, but are kept for reference regarding recurring opportunities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

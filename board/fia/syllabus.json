@@ -1,0 +1,837 @@
+{
+    "category": "FIA",
+    "name": "Syllabus",
+    "board": "fia",
+    "subject": "syllabus",
+    "url": "/fia/syllabus/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 59,
+    "questions": [
+        {
+            "id": 1309,
+            "question_text": "What is the primary source of Islamic jurisprudence concerning daily matters (Fiqh)?",
+            "options": [
+                "Ahl al-Hadith reports",
+                "The Quran and Sunnah",
+                "Qiyas (Analogical deduction)",
+                "Ijma (Consensus of scholars)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Quran and Sunnah are the two fundamental and primary sources from which all Islamic law (Sharia) is derived.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1310,
+            "question_text": "In the context of Islamic theology (Aqeedah), the attribute 'Qudrat' (Power) primarily relates to which aspect of Allah's existence?",
+            "options": [
+                "His eternal knowledge of all past and future events.",
+                "His perfect ability to judge and reward actions.",
+                "His absolute ability to create and control all things.",
+                "His self-existence and being independent of all needs."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Qudrat describes Allah's infinite, inherent capacity to create, sustain, and govern the cosmos without limitation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1311,
+            "question_text": "If a person misses obligatory prayers (Salat) due to legitimate reasons (like illness or travel), what is the religious obligation?",
+            "options": [
+                "To compensate by reciting extra Quran",
+                "To make up the missed prayers (Qada')",
+                "To pay Kaffarah (expiation)",
+                "To fast extra days instead"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Missed prayers must be compensated for by performing the missed prayers (Qada') in chronological order.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1312,
+            "question_text": "What is the primary source of Islamic law (Shariah) after the Quran?",
+            "options": [
+                "Ijma (Consensus of scholars)",
+                "Sunnah (Teachings and practices of the Prophet Muhammad)",
+                "Ahl al-Hadith (Scholars of Hadith)",
+                "Qiyas (Analogical deduction)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While Ijma and Qiyas are sources, the Sunnah (Ahadith) is considered the second most important and primary source for understanding the Quran.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1313,
+            "question_text": "What term is used for the legal theory of drawing parallels between an unknown case and a known legal ruling?",
+            "options": [
+                "Qiyas",
+                "Ijma",
+                "Ijtihad",
+                "Hukm"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Qiyas is the process of deduction by analogy, applying established law principles to new situations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1314,
+            "question_text": "The foundational concept of 'Tawheed' in Islam primarily emphasizes:",
+            "options": [
+                "Monotheism and the absolute oneness of Allah",
+                "Belief in predestination and fate (Qadar)",
+                "The equality of all prophets regardless of revelation",
+                "The adherence to the Sunnah of the Prophet exclusively"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Tawheed is the core pillar of Islam, stating that Allah is One and unique, having no partners or equals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1315,
+            "question_text": "In academic Islamic Studies, the term 'Sufism' primarily refers to:",
+            "options": [
+                "A specific legal school of thought (Madhab).",
+                "The collection of prophetic traditions (Hadith).",
+                "The mystical, inner dimension of the religion, focusing on purifying the self.",
+                "The political movement for establishing Caliphates."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sufism focuses on achieving direct, personal, and spiritual experience of the divine, emphasizing purification of the soul (Tazkiyah).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1316,
+            "question_text": "Which Surah of the Quran emphasizes the concept of Tawhid (the Oneness of God)?",
+            "options": [
+                "Surah Al-Fatiha",
+                "Surah Al-Fajr",
+                "Surah Al-Baqarah",
+                "Surah Al-Ikhlas"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Surah Al-Ikhlas (Chapter 112) is specifically dedicated to defining and affirming the absolute oneness and singularity of Allah.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1317,
+            "question_text": "Which source of Islamic jurisprudence is considered the immediate textual source after the Quran?",
+            "options": [
+                "Maslaha (Public interest)",
+                "Ijma (Consensus of the scholars)",
+                "Hadith (Prophetic traditions)",
+                "Qiyas (Analogy)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Hadith are the recorded sayings and actions of the Prophet Muhammad (PBUH) and serve as the practical explanation and implementation of Quranic tenets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1318,
+            "question_text": "The concept of 'Mujahida' in Islamic teachings primarily refers to:",
+            "options": [
+                "Academic struggle to achieve high grades",
+                "Physical battles against opposing armies",
+                "Struggling against self-desires and base instincts",
+                "Financial struggle to maintain economic stability"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mujahida, in its comprehensive meaning, involves the greater struggle against one's own ego and sins.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1319,
+            "question_text": "If a student requires exemption from performing fasting during Ramadan due to a medical condition, this action is classified under:",
+            "options": [
+                "Rukhsah (Concession/dispensation)",
+                "Mustahab (Recommended)",
+                "Ibahah (Permissibility)",
+                "Wajibat (Binding duty)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Rukhsah is the legal exemption provided by Sharia law for physical or circumstantial hardships (like illness or travel).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1320,
+            "question_text": "Which concept relates to treating all humans equally, regardless of caste, race, or social status, as taught by the Prophet Muhammad (PBUH)?",
+            "options": [
+                "Tawhid (Unity of God)",
+                "Ihsan (Excellence/Benevolence)",
+                "Khawateen (Fraternity)",
+                "Adl (Justice)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Adl (Justice) ensures equitable treatment and rights for all people in Islamic teachings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1321,
+            "question_text": "In which Surah does Allah Almighty describe the characteristics of the believers, emphasizing faith, prayer, and spending in charity?",
+            "options": [
+                "Al-Baqarah",
+                "An-Nisa",
+                "Al-Ma'ida",
+                "Al-Imran"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Surah Al-Baqarah (verse 2-3) is famous for listing the traits of the righteous believers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1322,
+            "question_text": "Which of the following Islamic concepts pertains to the moral accountability of individuals for their actions on the Day of Judgment?",
+            "options": [
+                "Taqwa (Piety)",
+                "Qadr (Predestination)",
+                "Hikmah (Wisdom)",
+                "Hisab (Accounting)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Hisab refers to the detailed accounting or reckoning of deeds that every soul undergoes on the Day of Judgment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1323,
+            "question_text": "When dealing with interfaith disputes or social harmony, which attribute of the Prophet Muhammad (PBUH) is most frequently cited as a model for conflict resolution?",
+            "options": [
+                "His personal asceticism and detachment from worldly affairs.",
+                "His military prowess and strategic planning.",
+                "His economic leadership in trade negotiations.",
+                "His ability to mediate and establish just treaties (e.g., Constitution of Madinah)."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Constitution of Madinah exemplifies his role as a mediator and founder of a pluralistic, multi-religious community.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2371,
+            "question_text": "The obligation to establish 'Salat' (prayers) on time, irrespective of personal convenience, is an example of which Islamic legal concept?",
+            "options": [
+                "Hukm Shar'i (Divine decree)",
+                "Azimah (Definite ruling)",
+                "Wajib (Necessary obligation)",
+                "Amr bil Ma'ru (Commanding good)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Wajib denotes an obligation that must be performed by every Muslim, the failure of which results in sin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2372,
+            "question_text": "What is the primary objective of studying 'Seerah' (the life of the Prophet Muhammad PBUH) in the context of modern governance and ethics?",
+            "options": [
+                "To criticize the historical practices of the early Caliphs.",
+                "To understand the practical model of leadership, justice, and moral conduct.",
+                "To memorize all historical dates and battles.",
+                "To analyze his lineage and tribal connections."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Seerah offers a perfect role model (Uswa-ehasanah) for leadership, ethical decision-making, and community building.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2373,
+            "question_text": "Which period of Islamic history is primarily associated with the compilation and standardization of major Hadith collections, such as Sahih Bukhari and Sahih Muslim?",
+            "options": [
+                "The Mughal Empire",
+                "The Abbasid Caliphate",
+                "The Rashidun Caliphate",
+                "The Umayyad Dynasty"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Abbasid era saw significant scholarly growth, leading to the systematic compilation and authentication of Hadith literature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2374,
+            "question_text": "Which historical battle is critically associated with the beginning of the great Islamic expansion after the Prophet’s life?",
+            "options": [
+                "The Battle of Khandaq",
+                "The Battles of Yarmouk or Qadisiyyah",
+                "The Conquest of Mecca (Fatah Makkah)",
+                "The Battle of Uhud"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Battles of Yarmouk and Qadisiyyah marked significant military victories that broke the major power centers of the Byzantine and Sasanian empires, initiating massive expansion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2375,
+            "question_text": "The primary purpose of the concept of 'Ijtihad' in Islamic jurisprudence is:",
+            "options": [
+                "To establish new laws that contradict the established Sunnah of the Prophet.",
+                "To interpret new issues based on primary sources when explicit rulings are absent.",
+                "To recite the Qur'an from the beginning to the end for spiritual purification.",
+                "To restrict all religious interpretations only to the rulings of the Caliphate."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ijtihad represents independent reasoning by legal scholars (mujtahids) to deduce rulings from primary texts (Qur'an and Sunnah).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2376,
+            "question_text": "Which major classical Islamic scholarly method is concerned with deriving legal rulings by analyzing the grammatical structure and linguistic meanings of the Quranic text?",
+            "options": [
+                "Usul al-Fiqh",
+                "Usul al-Hadith",
+                "I'rab",
+                "Tajweed"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Usul al-Fiqh (Sources of Jurisprudence) provides the methodological framework for deriving legal rulings from the Quran and Sunnah.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2377,
+            "question_text": "The belief that Allah is One and has no partners is known in Islam as:",
+            "options": [
+                "Tawhid",
+                "Aqeedah",
+                "Taqwa",
+                "Tasawwuf"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Tawhid is the core theological principle affirming the absolute oneness and uniqueness of Allah, which is fundamental to Islam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2378,
+            "question_text": "According to Islamic texts, what is the recommended ethical approach when engaging in community disputes, emphasizing reconciliation over strict litigation?",
+            "options": [
+                "Immediately escalating the dispute to the highest judicial authority.",
+                "Seeking resolution through consensus (Ijma) and reconciliation.",
+                "Allowing the dispute to linger until a natural settlement occurs.",
+                "Adopting a confrontational stance to establish legal supremacy."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ijma emphasizes the consensus of the community or scholars, promoting peaceful resolution and shared understanding in conflict management.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2379,
+            "question_text": "The primary reason for the establishment of the Islamic legal system (Shariah) in Medina was:",
+            "options": [
+                "To draft detailed architectural guidelines for the mosque.",
+                "To regulate interactions between diverse religious and tribal groups (Ummah).",
+                "To replace existing local customary laws completely.",
+                "To establish a centralized economic market."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Constitution of Medina established a comprehensive framework for socio-political governance among various communities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2732,
+            "question_text": "The concept of 'Mujahadah' in Islamic jurisprudence primarily refers to:",
+            "options": [
+                "Observing obligatory fasts only",
+                "Paying tithes on agricultural produce",
+                "Armed conflict against foreign invaders",
+                "Struggle against inner desires and ego"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Mujahadah is a spiritual struggle or self-discipline, referring to purifying the soul and resisting temptations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2733,
+            "question_text": "From an Islamic perspective regarding civil society, the maintenance of clean public spaces and community infrastructure falls under the scope of:",
+            "options": [
+                "Zakah collection",
+                "Amr bil Ma'ru wa Nahy 'anil Munkar (Enjoining good and forbidding evil)",
+                "Jihad al-Akbar",
+                "Maslaha (Public Interest)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Maslaha (public interest) is a key principle used in Islamic law to ensure that ruling decisions benefit the general welfare of the community.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2734,
+            "question_text": "Which Surah (Chapter) of the Holy Quran focuses extensively on the oneness of God (Tawheed) and the concept of Divine Sovereignty?",
+            "options": [
+                "Al-Alaq",
+                "An-Nasr",
+                "Al-Fatiha",
+                "Al-Ikhlas"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Surah Al-Ikhlas ('The Oneness of God') is highly revered for its concise affirmation of Tawheed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2735,
+            "question_text": "In Islamic ethics, the concept of 'Amanah' primarily refers to:",
+            "options": [
+                "Patience in times of difficulty",
+                "Justice in judgment",
+                "Piety and devotion to God",
+                "Trustworthiness and fulfilling responsibilities"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Amanah denotes trust, reliability, and the obligation to fulfill entrusted duties, be they material or moral.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2738,
+            "question_text": "The concept of 'Ijtihad' primarily refers to:",
+            "options": [
+                "The pilgrimage to Mecca.",
+                "The recitation of the Quran by the general populace.",
+                "The declaration of war by the Caliph.",
+                "Independent reasoning and legal interpretation by scholars."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Ijtihad is the exertion of maximum effort in reaching a ruling when direct scripture is unavailable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3192,
+            "question_text": "The period of Islamic history immediately following the time of the Prophet Muhammad (PBUH) is generally known as:",
+            "options": [
+                "The Rashidun Caliphate",
+                "The Abbasid Golden Age",
+                "The Ottoman Rule",
+                "The Umayyad Dynasty"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Rashidun period (Rightly Guided Caliphs) marked the first succession after the Prophet's passing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3193,
+            "question_text": "Which event is considered the foundational moment for the establishment of the Islamic calendar (Hijri)?",
+            "options": [
+                "The revelation of the Quran to Prophet Muhammad (PBUH)",
+                "The Farewell Pilgrimage (Hajj)",
+                "The Battle of Badr",
+                "The migration (Hijra) of Prophet Muhammad (PBUH) and companions from Makkah to Madinah"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Hijri calendar begins with the migration (Hijra) event, marking a shift in timekeeping.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3194,
+            "question_text": "Which Prophet (PBUH) was given the command to establish a stable political and social structure in Medina?",
+            "options": [
+                "Muhammad (PBUH)",
+                "Ibrahim (AS)",
+                "Isa (AS)",
+                "Yusuf (AS)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The migration and subsequent community building in Medina required Prophet Muhammad's role as a statesman and reformer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3195,
+            "question_text": "Which pillar of Islam involves voluntary charity and helping those in need?",
+            "options": [
+                "Jihad",
+                "Sadaqah",
+                "Zakat",
+                "Shahada"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While Zakat is mandatory charity, Sadaqah refers to voluntary, non-obligatory charity, making it a broader term for general helping acts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3196,
+            "question_text": "Which historical figure is credited with compiling and standardizing the first comprehensive collection of Hadith literature?",
+            "options": [
+                "Salman al-Farisi",
+                "Imam Abu Hanifa",
+                "Abu Abdullah Muhammad bin Ismail Al-Bukhari",
+                "Imam Malik bin Anas"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Imam Bukhari's Sahih al-Bukhari is considered one of the most authentic and comprehensive collections of Hadith.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3198,
+            "question_text": "In Islamic philosophy and theology, the concept of 'Tawhid' refers fundamentally to:",
+            "options": [
+                "The doctrine of divine oneness and absolute singularity of God (Allah).",
+                "The belief that prophets are simply human political leaders.",
+                "The necessity of following historical Islamic empires for guidance.",
+                "The belief in multiple prophets and divine emanations."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Tawhid is the most fundamental pillar, asserting that God is One, unique, and has no partners or equals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3199,
+            "question_text": "Which event marked the formal beginning of the Islamic calendar (Hijri Era)?",
+            "options": [
+                "The birth of the Prophet Muhammad (PBUH)",
+                "The compilation of the Quran in Medina",
+                "The conquest of Mecca",
+                "The Prophet's migration (Hijra) from Mecca to Medina"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Hijra, or migration, is the pivotal event that established the foundational date for the Islamic calendar (AH).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3200,
+            "question_text": "The concept of 'Maslaha' in Islamic Law (Sharia) relates to:",
+            "options": [
+                "Following only tribal customs and traditions",
+                "Adherence to strict literal interpretations of texts",
+                "Achieving public interest and welfare",
+                "Prioritizing the ruling of the most powerful group"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Maslaha means public welfare; Islamic jurisprudence sometimes considers the 'Maslaha' when direct texts are ambiguous, provided it does not violate core principles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3303,
+            "question_text": "In Islamic Studies, the concept of 'Tawheed' primarily emphasizes which fundamental principle?",
+            "options": [
+                "Belief in the absolute oneness and uniqueness of Allah (SWT)",
+                "Adherence to the rulings of the Quran and Sunnah",
+                "Belief in the prophethood of all prophets",
+                "Observance of the Five Pillars of Islam"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Tawheed is the core theological belief regarding the oneness of Allah, meaning He has no partners or equals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3304,
+            "question_text": "Which major Islamic historical period saw the compilation and standardization of the Hadith literature, crucial for understanding the Prophet's Sunnah?",
+            "options": [
+                "The Abbasid Caliphate",
+                "The Fatimid Caliphate",
+                "The Umayyad Caliphate",
+                "The Rashidun Caliphate"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While the compilation occurred later, the collection and initial gathering of Hadith traditions began during the first few decades following the Rashidun Caliphate period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3305,
+            "question_text": "In Islamic belief, which term refers to the belief in divine destiny and pre-determination of events, requiring a balanced understanding with human free will?",
+            "options": [
+                "Tawheed (Oneness of God)",
+                "Qadr (Measure/Fate)",
+                "Hikmah (Divine Wisdom)",
+                "Qada' (Divine Decree)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Qadr specifically refers to the comprehensive belief that everything, including human actions, is divinely measured and determined by Allah.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3306,
+            "question_text": "What major disagreement concerning the succession after Prophet Muhammad (PBUH) is often tested in competitive exams?",
+            "options": [
+                "Arguments concerning the precise number of revelations",
+                "Differences regarding the practice of Jihad",
+                "The debate over the legitimacy of Islamic Statehood",
+                "The dispute over the Caliphate succession (Rashidun era)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The dispute primarily revolves around whether the succession should have been through direct election or established scholarly consensus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3307,
+            "question_text": "What moral principle does the Islamic tradition emphasize when discussing honesty in transactions and dealings?",
+            "options": [
+                "Murabba (Collateral/Security)",
+                "Amana (Trustworthiness and Integrity)",
+                "Riba (Interest-based transactions)",
+                "Wasta (Intermediary help)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Amana translates to trust and integrity, which is paramount in all dealings in Islam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4116,
+            "question_text": "What is the primary focus of 'Usul al-Fiqh' in Islamic jurisprudence?",
+            "options": [
+                "The comparative study of various faith traditions",
+                "The science of legal derivation from primary sources",
+                "The translation of Hadith texts",
+                "The detailed history of Islamic empires"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Usul al-Fiqh deals with the principles and methods used by jurists (Fuqaha) to derive Islamic law (Shariah) from sources like Qur'an and Sunnah.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4117,
+            "question_text": "According to Islamic teachings, what is the primary purpose of maintaining truthful communication (Sidq)?",
+            "options": [
+                "To minimize personal confrontations.",
+                "To secure worldly gains.",
+                "To impress peers and authority figures.",
+                "To maintain trust and uphold divine commandments."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Truthfulness (Sidq) is emphasized as a core moral value necessary for fulfilling both religious and social responsibilities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4119,
+            "question_text": "The primary source of law and jurisprudence in Islam, considered the most authoritative source, is:",
+            "options": [
+                "The Sunnah",
+                "Qiyas (Analogy)",
+                "The Qur'an",
+                "Ijma (Consensus)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Qur'an is the direct, infallible word of God (Allah) and thus holds the supreme position as the primary source of Islamic law.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4121,
+            "question_text": "The ethical principle in Islam emphasizing social justice and concern for the rights of the vulnerable is most closely associated with:",
+            "options": [
+                "Taqwa (Piety)",
+                "Amr bil Ma'ruf (Enjoining Good)",
+                "Adl (Justice)",
+                "Sabr (Patience)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Adl (Justice) mandates fair treatment and maintaining balance in all social and economic dealings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4926,
+            "question_text": "According to the Islamic calendar system relevant to Pakistan, what is the significance of the sighting of the new moon (Hilal)?",
+            "options": [
+                "Celebrating the end of a major Islamic festival.",
+                "Determining the exact date of Prophet Muhammad's birth.",
+                "Announcing the completion of the annual Hajj rituals.",
+                "Marking the beginning of a new lunar month and religious obligations."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The sighting of the Hilal is crucial as it dictates the start and end dates of Islamic months and associated fasts/rituals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4928,
+            "question_text": "The core principle of 'Ijtihad' in Islamic jurisprudence means:",
+            "options": [
+                "Following the consensus of the entire community (Ijma)",
+                "Reciting the Quran correctly from memory",
+                "Independent reasoning and effort to derive rulings",
+                "Memorizing all Hadith verbatim"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ijtihad is the process by which legal scholars derive new rulings or interpretations when direct scriptural guidance is not available.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4929,
+            "question_text": "The pillar of Islam that involves giving voluntary charity is:",
+            "options": [
+                "Salat",
+                "Sadaqah",
+                "Sawm",
+                "Zakat"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Zakat is mandatory charity, while Sadaqah refers to voluntary and supplemental charity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4933,
+            "question_text": "If a Muslim merchant mistakenly receives an excess amount of money from a customer, what religious obligation governs the return of this surplus?",
+            "options": [
+                "It can be forfeited as it was an honest mistake.",
+                "It must be returned immediately as it belongs to the owner.",
+                "The merchant can wait for the owner to realize the mistake.",
+                "It can be kept and used after offering charity."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Islam emphasizes honesty and return of wrongly acquired wealth, regardless of the mistake's nature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4986,
+            "question_text": "From a comparative religious studies perspective, what distinguishes the Islamic belief system from strictly monotheistic traditions?",
+            "options": [
+                "The recognition of angels and pre-existent spiritual beings",
+                "The inclusion of detailed legal jurisprudence (Fiqh)",
+                "The emphasis on Prophet Muhammad's unique role",
+                "The absolute rejection of pre-Islamic rituals"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "While fundamentally monotheistic (Tawhid), Islam acknowledges various spiritual entities like angels (Mala'ikah) and divine blessings, setting it apart from simpler monotheistic frameworks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4987,
+            "question_text": "The concept of 'Ijtihad' is most closely related to:",
+            "options": [
+                "The literal interpretation of verses without context",
+                "Independent effort and effort to derive legal rulings",
+                "Personal spiritual devotion and meditation",
+                "Strict adherence to traditional customs (Urf)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ijtihad means exerting maximum effort to deduce a legal ruling when existing sources are unclear or silent, a key practice in Islamic law.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4988,
+            "question_text": "Among the major schools of thought regarding legal interpretation (Madhahib), which school emphasizes a strong reliance on reason (Qiyas) and analogy derived from established texts?",
+            "options": [
+                "Maliki school",
+                "Shia school",
+                "Shafi'i school",
+                "Hanafi school"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Hanafi school is historically known for its sophisticated use of legal analogy (Qiyas) and reasoned jurisprudence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4991,
+            "question_text": "Which pillar of Islam mandates providing charity, typically calculated as a fixed percentage of a person's wealth?",
+            "options": [
+                "Hajj",
+                "Sawm",
+                "Zakat",
+                "Shahada"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Zakat is the compulsory giving of wealth to the poor and needy, making it the only pillar defined by a specific financial obligation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4994,
+            "question_text": "Which source of Islamic law is considered the foundational and most authoritative source after the Qur'an?",
+            "options": [
+                "Ijma (consensus of the scholars)",
+                "Sunnah (practices and sayings of Prophet Muhammad)",
+                "Istihsan (juristic preference)",
+                "Qiyas (analogy)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Sunnah (including Hadith) provides practical guidance and explanations on how to implement the mandates given in the Qur'an.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5601,
+            "question_text": "Which pillar of Islam involves fulfilling financial duties towards the needy and poor?",
+            "options": [
+                "Sawm",
+                "Hajj",
+                "Shahadah",
+                "Zakat"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Zakat is mandatory charity calculated on accumulated wealth during the Islamic year.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5602,
+            "question_text": "In the context of Islamic ethics, 'Muamalat' primarily concerns:",
+            "options": [
+                "Ritual acts of worship (like Salat or Sawm)",
+                "Rules governing political governance and state relations",
+                "Interactions between individuals and transactions in daily life",
+                "The inner spiritual state of the heart and soul"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Muamalat covers civil law and contractual obligations, dealing with non-ritual aspects of life like trade, marriage, and finance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5605,
+            "question_text": "According to Islamic teachings, the pillar of faith that mandates belief in the divine book revealed to Prophet Muhammad (PBUH) is:",
+            "options": [
+                "Belief in Qadar",
+                "Belief in the Qur'an",
+                "Belief in angels",
+                "Belief in the Day of Judgment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Qur'an is considered the final and authentic divine book revelation, making belief in it a core pillar of Iman (faith).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5606,
+            "question_text": "In Islamic law, 'Shariah' is best understood as:",
+            "options": [
+                "The sacred textual body of Islamic law",
+                "The historical narrative of early Islamic conquests",
+                "The political system of the Caliphate",
+                "The methodology of divine law and divine law itself"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Shariah refers to the encompassing divine law derived from God, covering both the spiritual path and the practical rules of governance and life.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

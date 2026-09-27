@@ -1,0 +1,165 @@
+{
+    "category": "Virtual University",
+    "name": "Financial Management",
+    "board": "virtual-university",
+    "subject": "financial-management",
+    "url": "/virtual-university/financial-management/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11445,
+            "question_text": "What does the 'Time Value of Money' concept primarily suggest?",
+            "options": [
+                "A dollar today is worth more than a dollar in the future",
+                "A dollar today is worth less than a dollar in the future",
+                "Inflation has no impact on financial decision making",
+                "Future cash flows are always discounted at zero percent"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The time value of money states that money available today has a higher earning potential than the same amount in the future.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11446,
+            "question_text": "Which ratio measures a company's ability to pay off its short-term liabilities with its most liquid assets?",
+            "options": [
+                "Current Ratio",
+                "Quick Ratio",
+                "Debt-to-Equity Ratio",
+                "Return on Assets"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Quick Ratio (or acid-test ratio) excludes inventory from current assets to provide a stricter measure of liquidity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11447,
+            "question_text": "What is the primary objective of a firm's financial management?",
+            "options": [
+                "Maximizing total sales revenue",
+                "Maximizing shareholder wealth",
+                "Minimizing tax payments",
+                "Maximizing employee benefits"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In financial management, the fundamental goal is to maximize the intrinsic value of the firm, typically measured by share price.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11448,
+            "question_text": "Which of these is a component of the 'Capital Budgeting' process?",
+            "options": [
+                "Deciding how much cash to keep in the bank",
+                "Evaluating long-term investment opportunities",
+                "Setting the dividend payout ratio",
+                "Managing short-term inventory levels"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Capital budgeting involves planning and managing a firm's long-term investments in capital assets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11449,
+            "question_text": "What does a Debt-to-Equity ratio of 2.0 indicate?",
+            "options": [
+                "The company has twice as much equity as debt",
+                "The company has twice as much debt as equity",
+                "The company's assets are equal to its liabilities",
+                "The company is debt-free"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The debt-to-equity ratio is calculated as Total Liabilities divided by Total Shareholders' Equity. A value of 2.0 implies debt is double the equity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11450,
+            "question_text": "Which financial statement provides a snapshot of a company's financial position at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Cash Flow Statement",
+                "Balance Sheet",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Balance Sheet reflects the accounting equation (Assets = Liabilities + Equity) at a single specific date.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11451,
+            "question_text": "What is the effect of financial leverage on Return on Equity (ROE) when operating income is high?",
+            "options": [
+                "It decreases ROE",
+                "It has no impact on ROE",
+                "It magnifies (increases) ROE",
+                "It makes ROE more volatile without changing the average"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Financial leverage uses debt to finance assets; if the return on assets exceeds the cost of debt, the equity holders receive higher returns.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11452,
+            "question_text": "What is the primary formula for calculating the Net Present Value (NPV) of a project?",
+            "options": [
+                "Sum of PV of inflows minus initial investment",
+                "Total inflows divided by total outflows",
+                "Initial investment minus PV of inflows",
+                "Sum of undiscounted cash flows"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "NPV is defined as the present value of all future cash inflows minus the initial cost of the investment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11453,
+            "question_text": "Which of the following is considered a 'non-cash' expense often added back to net income when calculating operating cash flow?",
+            "options": [
+                "Interest Expense",
+                "Depreciation",
+                "Dividends Paid",
+                "Accounts Payable"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Depreciation is an accounting entry that allocates the cost of an asset over time without an actual cash outflow in that period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11456,
+            "question_text": "What does a high 'Inventory Turnover' ratio generally indicate about a company?",
+            "options": [
+                "The company is overstocking",
+                "The company is inefficient",
+                "The company is managing its inventory efficiently",
+                "The company has no sales"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "High inventory turnover indicates that a company sells its goods quickly, reducing storage costs and risk of obsolescence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11457,
+            "question_text": "What is the main purpose of the 'Capital Asset Pricing Model' (CAPM)?",
+            "options": [
+                "To calculate current liabilities",
+                "To determine the required rate of return for an asset",
+                "To calculate total inventory value",
+                "To predict future tax rates"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "CAPM is a model used to calculate the expected return on an investment based on its risk relative to the market.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

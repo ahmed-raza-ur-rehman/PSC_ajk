@@ -1,0 +1,165 @@
+{
+    "category": "Ministry of Education (MoE), UAE",
+    "name": "Mathematics",
+    "board": "ministry-of-education-moe-uae",
+    "subject": "mathematics",
+    "url": "/ministry-of-education-moe-uae/mathematics/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 8583,
+            "question_text": "Given f(x) = 3x - 4, what is the result of f(5)?",
+            "options": [
+                "11",
+                "15",
+                "19",
+                "12"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Substitute 5 for x: (3 * 5) - 4 = 15 - 4 = 11.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9248,
+            "question_text": "What is the value of x if 2x + 5 = 15?",
+            "options": [
+                "3",
+                "5",
+                "10",
+                "20"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 5 from both sides to get 2x = 10, then divide by 2 to get x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9249,
+            "question_text": "Which of the following functions represents a straight line on a graph?",
+            "options": [
+                "y = x^2",
+                "y = 1/x",
+                "y = 2x + 3",
+                "y = e^x"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A linear function is represented by the form y = mx + b, where x has an exponent of 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9250,
+            "question_text": "If f(x) = 3x - 4, what is the value of f(5)?",
+            "options": [
+                "11",
+                "15",
+                "19",
+                "21"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Substitute x with 5: 3(5) - 4 = 15 - 4 = 11.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9251,
+            "question_text": "What is the slope of the line passing through points (1, 2) and (3, 6)?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Slope = (y2 - y1) / (x2 - x1) = (6 - 2) / (3 - 1) = 4 / 2 = 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9252,
+            "question_text": "Solve for y: 4y - 8 = 20",
+            "options": [
+                "3",
+                "5",
+                "7",
+                "9"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Add 8 to both sides: 4y = 28, then divide by 4: y = 7.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9253,
+            "question_text": "Find the value of x if 2 times x added to 5 equals 15.",
+            "options": [
+                "3",
+                "5",
+                "10",
+                "7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 5 from 15 to get 10, then divide 10 by 2 to get 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9254,
+            "question_text": "Which of these equations describes a straight line on a graph?",
+            "options": [
+                "y = x^2",
+                "y = 2x + 1",
+                "y = 1/x",
+                "y = √x"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Linear functions follow the form y = mx + b, which represent straight lines.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9259,
+            "question_text": "Calculate the slope of the line that connects the points (1, 2) and (3, 6).",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "0.5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Slope = (y2 - y1) / (x2 - x1) = (6 - 2) / (3 - 1) = 4 / 2 = 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9260,
+            "question_text": "Solve for y in the equation: 4y - 8 = 20.",
+            "options": [
+                "3",
+                "7",
+                "12",
+                "5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Add 8 to both sides to get 4y = 28, then divide by 4 to get 7.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9261,
+            "question_text": "What is the result of multiplying 15 by 4 and then dividing by 2?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "40"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "15 times 4 is 60, and 60 divided by 2 is 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

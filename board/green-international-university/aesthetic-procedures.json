@@ -1,0 +1,151 @@
+{
+    "category": "Green International University",
+    "name": "Aesthetic Procedures",
+    "board": "green-international-university",
+    "subject": "aesthetic-procedures",
+    "url": "/green-international-university/aesthetic-procedures/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13861,
+            "question_text": "What is a contraindication for a mechanical exfoliation treatment like microdermabrasion?",
+            "options": [
+                "Mature skin",
+                "Active rosacea or pustular acne",
+                "Dull complexion",
+                "Non-sensitive skin"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mechanical exfoliation can aggravate active inflammation, infection, or vascular conditions like rosacea.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13862,
+            "question_text": "During a facial massage, in which direction should movements generally be performed?",
+            "options": [
+                "Downward toward the chin",
+                "From muscle insertion to origin",
+                "Random circular motions",
+                "Back and forth across the forehead"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Massaging from the muscle insertion toward the origin helps lift the skin and improve muscle tone.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13863,
+            "question_text": "What is the main goal of facial lymphatic drainage massage?",
+            "options": [
+                "Muscle strengthening",
+                "Reducing puffiness and promoting fluid removal",
+                "Deep exfoliation of the stratum corneum",
+                "Injecting oxygen into the dermis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Lymphatic drainage uses light, rhythmic pressure to stimulate the movement of lymph fluids, reducing inflammation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13864,
+            "question_text": "Which of the following describes a proper extraction technique?",
+            "options": [
+                "Using forceful pressure with fingernails",
+                "Applying gentle pressure surrounding the follicle using a cotton-swab or extraction tool",
+                "Using metal tweezers to forcefully remove deep blackheads",
+                "Ignoring the pore if the debris does not come out immediately"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Safe extractions involve proper preparation and gentle pressure to prevent scarring or tissue trauma.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13865,
+            "question_text": "What should be the primary consideration before applying a chemical peel?",
+            "options": [
+                "The client's favorite color",
+                "A thorough patch test and consultation to determine skin sensitivity",
+                "The current retail price of the service",
+                "Applying the highest concentration possible"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Chemical peels can cause severe irritation or chemical burns if the skin's sensitivity and strength are not properly assessed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13866,
+            "question_text": "What is the primary benefit of LED light therapy using blue light?",
+            "options": [
+                "Reducing fine lines",
+                "Reducing acne-causing bacteria",
+                "Increasing melanin production",
+                "Hydrating the skin"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Blue LED light is used specifically to target and destroy P. acnes bacteria within the hair follicles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13867,
+            "question_text": "In a facial massage, why should movements be performed toward the heart/origin of the muscle?",
+            "options": [
+                "To prevent the skin from sagging",
+                "To promote blood and lymph flow in the correct direction",
+                "To increase the speed of the massage",
+                "To avoid stimulating the nerves"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Massage movements are traditionally directed toward the origin of the muscle to support healthy circulation and lymph drainage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13868,
+            "question_text": "What is the primary goal of the 'effleurage' massage movement?",
+            "options": [
+                "To stimulate blood circulation",
+                "To relax the client and distribute product",
+                "To break down fat cells",
+                "To exfoliate the skin surface"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Effleurage is a light, continuous stroking movement used primarily for relaxation and spreading product over the face.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13869,
+            "question_text": "When performing chemical peels, why is 'neutralization' a critical step?",
+            "options": [
+                "It enhances the absorption of the peel",
+                "It prevents the acid from penetrating too deeply",
+                "It makes the product smell better",
+                "It acts as a moisturizer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Neutralization stops the chemical reaction of the acid, preventing it from damaging healthy, underlying skin cells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13870,
+            "question_text": "What is the recommended position for a client during a standard facial treatment?",
+            "options": [
+                "Seated upright at 90 degrees",
+                "Lying supine with legs slightly elevated",
+                "Lying prone",
+                "Standing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Supine is the standard position for facials as it allows the aesthetician easy access to the face and comfort for the client.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Cyber Security & Digital Forensics",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "cyber-security-digital-forensics",
+    "url": "/national-cybercrime-investigation-agency/cyber-security-digital-forensics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 14143,
+            "question_text": "What is the primary goal of a 'Phishing' attack?",
+            "options": [
+                "To crash a server by flooding it with traffic",
+                "To trick individuals into revealing sensitive information like passwords or credit card numbers",
+                "To encrypt files on a victim's computer and demand a ransom",
+                "To intercept wireless network packets in transit"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Phishing typically uses deceptive emails or websites masquerading as legitimate entities to steal credentials.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14144,
+            "question_text": "In digital forensics, what is the term for a bit-stream copy of a digital storage medium?",
+            "options": [
+                "Logical backup",
+                "Incremental backup",
+                "Forensic image",
+                "Temporary cache"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A forensic image is a sector-by-sector copy of a drive, ensuring all data, including deleted files, is preserved without alteration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14145,
+            "question_text": "Which of the following is an example of a symmetric encryption algorithm?",
+            "options": [
+                "RSA",
+                "Diffie-Hellman",
+                "AES",
+                "ECC"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "AES (Advanced Encryption Standard) uses the same key for both encryption and decryption, making it symmetric.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14146,
+            "question_text": "What type of malware disguises itself as legitimate software while performing malicious activities?",
+            "options": [
+                "Worm",
+                "Trojan Horse",
+                "Spyware",
+                "Adware"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Trojan appears useful or harmless to trick the user into installing it, but contains hidden malicious payloads.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14147,
+            "question_text": "What is 'Chain of Custody' in digital forensics?",
+            "options": [
+                "The sequence of software patches applied to a forensic workstation",
+                "The chronological documentation showing the seizure, custody, control, transfer, analysis, and disposition of evidence",
+                "The cryptographic hashing method used to verify disk integrity",
+                "The hierarchy of administrative privileges in a network domain"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Chain of custody is vital to establish that evidence has not been tampered with and is admissible in court.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14148,
+            "question_text": "What type of attack involves an attacker intercepting communication between two parties by secretly relaying and possibly altering the messages?",
+            "options": [
+                "Denial of Service (DoS)",
+                "Man-in-the-Middle (MitM)",
+                "SQL Injection",
+                "Cross-Site Scripting (XSS)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Man-in-the-Middle attack places the adversary in the middle of a data stream, enabling eavesdropping or data tampering.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14149,
+            "question_text": "In digital forensics, which hashing algorithm is most commonly accepted by courts to verify the integrity of a forensic image?",
+            "options": [
+                "MD5 or SHA-256",
+                "ROT13",
+                "Base64",
+                "ASCII"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Cryptographic hash functions like MD5, SHA-1, or SHA-256 generate unique digital fingerprints to prove evidence has not been tampered with.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14150,
+            "question_text": "What is the primary function of a honeypot in cybersecurity?",
+            "options": [
+                "To speed up network routing",
+                "To act as a decoy system to lure and analyze attackers",
+                "To back up critical database systems",
+                "To encrypt hard disk partitions automatically"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A honeypot is a monitored, vulnerable system set up to attract unauthorized users so security teams can study attack techniques.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14151,
+            "question_text": "Which principle of information security ensures that sensitive data is accessible only to those authorized to have access?",
+            "options": [
+                "Integrity",
+                "Availability",
+                "Confidentiality",
+                "Non-repudiation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Confidentiality prevents unauthorized disclosure of information, often achieved through encryption and access controls.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14152,
+            "question_text": "What does 'CARVER' or volatile data collection refer to in incident response?",
+            "options": [
+                "Permanently deleting temporary browser cache",
+                "Gathering transient data like RAM contents before powering off a machine",
+                "Formatting external storage devices",
+                "Scanning email attachments for viruses"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Volatile data resides in temporary locations like RAM or CPU registers and is lost when power is cut, making its prompt preservation crucial.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14153,
+            "question_text": "Which vulnerability allows attackers to inject malicious database queries via input fields?",
+            "options": [
+                "Cross-Site Scripting (XSS)",
+                "SQL Injection (SQLi)",
+                "Buffer Overflow",
+                "Session Hijacking"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SQL injection occurs when improper input sanitization allows malicious SQL commands to be executed directly against the backend database.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14154,
+            "question_text": "What does the term 'Social Engineering' refer to in the context of cybersecurity?",
+            "options": [
+                "Writing secure code collaboratively",
+                "Manipulating individuals into divulging confidential information",
+                "Optimizing network traffic using algorithms",
+                "Building social media applications securely"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Social engineering relies on human interaction and psychological manipulation to trick people into breaking security procedures.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14155,
+            "question_text": "Which forensic principle states that 'every contact leaves a trace'?",
+            "options": [
+                "Kerckhoffs's principle",
+                "Locard's exchange principle",
+                "Moore's law",
+                "Shannon's maxim"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Locard's exchange principle forms the foundational theory for physical and digital forensic evidence collection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14156,
+            "question_text": "What is a 'Zero-Day' vulnerability?",
+            "options": [
+                "A bug that has been patched for zero days",
+                "A flaw that is unknown to the vendor and has no available patch",
+                "An error that occurs only on the first day of the month",
+                "A security update released immediately"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A zero-day vulnerability is an undiscovered software flaw exploited by attackers before developers can create a fix.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

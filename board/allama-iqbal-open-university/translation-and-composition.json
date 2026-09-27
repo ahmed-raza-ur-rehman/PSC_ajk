@@ -1,0 +1,221 @@
+{
+    "category": "Allama Iqbal Open University",
+    "name": "Translation and Composition",
+    "board": "allama-iqbal-open-university",
+    "subject": "translation-and-composition",
+    "url": "/allama-iqbal-open-university/translation-and-composition/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 12262,
+            "question_text": "Translate the phrase 'Al-Kitabu Jadidun' into English.",
+            "options": [
+                "The book is old",
+                "The book is new",
+                "A new book",
+                "The books are new"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Al-Kitabu' means 'the book' and 'Jadidun' means 'new', forming a nominal sentence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12263,
+            "question_text": "Which word is the correct Arabic translation for 'University'?",
+            "options": [
+                "Madrasah",
+                "Jami'ah",
+                "Maktabah",
+                "Mustashfa"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Jami'ah is the standard term for a university, whereas Madrasah refers to a school.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12264,
+            "question_text": "Translate 'Al-Maktabatu kabiratun' into English.",
+            "options": [
+                "The school is small.",
+                "The library is large.",
+                "The book is heavy.",
+                "The office is big."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Maktabah means library and kabirah means large or big.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12265,
+            "question_text": "How do you translate 'I am going to the market' into Arabic?",
+            "options": [
+                "Ana adhabu ila al-suqi",
+                "Anta tadhabu ila al-suqi",
+                "Huwa yadhhabu ila al-suqi",
+                "Nahnu nadhabu ila al-suqi"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ana (I) matches with the verb prefix 'a-' (adhabu), and 'ila' means to.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12266,
+            "question_text": "Choose the best translation for 'Education is the key to success'.",
+            "options": [
+                "Al-talimu miftahu al-najah",
+                "Al-talimu miftahu al-falah",
+                "Al-ilmu miftahu al-hayah",
+                "Al-talimu miftahu al-amal"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Talim is education, miftah is key, and najah is success.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12267,
+            "question_text": "Translate 'Yesterday I wrote a letter' into Arabic.",
+            "options": [
+                "Amsi katabtu risalatan",
+                "Amsi aktubu risalatan",
+                "Ghadan katabtu risalatan",
+                "Amsi kataba risalatan"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Katabtu uses the first-person singular suffix for the past tense.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12268,
+            "question_text": "What is the Arabic for 'My brother is a doctor'?",
+            "options": [
+                "Akhi tabibun",
+                "Ukhti tabibatun",
+                "Akhi mudarrisun",
+                "Akhi muhandisun"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Akhi means my brother and tabibun means doctor.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12269,
+            "question_text": "Choose the correct Arabic translation for 'The weather is beautiful today'.",
+            "options": [
+                "Al-taqsu jamilun al-yawm",
+                "Al-yawm al-taqsu jamil",
+                "Jamil al-taqsu al-yawm",
+                "Al-taqsu al-yawm jamilun"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This structure follows standard nominal sentence order: Subject (Al-taqsu), Predicate (jamilun), Adverb (al-yawm).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12270,
+            "question_text": "How do you translate 'Where are you from?' in a formal context?",
+            "options": [
+                "Min ayna anta?",
+                "Min ayna anti?",
+                "Min ayna antum?",
+                "Ayna anta min?"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Min ayna is where from, and anta is the masculine pronoun for you.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12271,
+            "question_text": "Translate 'The students are in the classroom'.",
+            "options": [
+                "Al-tullabu fi al-fasli",
+                "Al-talibu fi al-fasli",
+                "Al-tullabu fi al-madrasati",
+                "Al-tullabu fi al-bayti"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Tullab is the plural of student, and fasl means classroom.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12272,
+            "question_text": "Which phrase correctly translates 'Peace be upon you'?",
+            "options": [
+                "Marhaban",
+                "Ahlan wa sahlan",
+                "As-salamu alaykum",
+                "Fi amanillah"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "As-salamu alaykum is the standard Islamic greeting translated as peace be upon you.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12273,
+            "question_text": "Translate 'I speak a little Arabic'.",
+            "options": [
+                "Atakallamu al-arabiyyata qalilan",
+                "Atakallamu al-arabiyyata kathiran",
+                "Atakallamu al-ingiliziyyata qalilan",
+                "Atakallamu al-arabiyyata jiddan"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Atakallamu is I speak, al-arabiyyata is Arabic, and qalilan is a little.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12274,
+            "question_text": "What is the correct translation for 'The teacher is in the library'?",
+            "options": [
+                "Al-mudarrisu fi al-maktabati",
+                "Al-maktabatu fi al-mudarrisi",
+                "Al-mudarrisa fi al-maktaba",
+                "Fi al-mudarrisu maktaba"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The sentence structure 'Subject + Preposition + Object' is correctly represented here.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12275,
+            "question_text": "How do you translate 'Knowledge is light' into Arabic?",
+            "options": [
+                "Al-ilmu nurun",
+                "Al-nur ilmun",
+                "Ilmun kabirun",
+                "An-nur al-ilmu"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is a simple nominal sentence (Jumla Ismiyya) translating to 'Knowledge (is) light'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12276,
+            "question_text": "Translate the sentence: 'Did you drink coffee today?'",
+            "options": [
+                "Hal sharibta al-qahwata al-yawm?",
+                "Ayna sharibta al-qahwata?",
+                "Hal sharibtu al-qahwata?",
+                "Sharibta al-qahwata yawman?"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This uses the interrogative particle 'Hal' and the past tense verb 'sharibta' (you drank).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "category": "FIA",
+    "name": "Islamic Studies — Life of Prophet Muhammad (PBUH)",
+    "board": "fia",
+    "subject": "islamic-studies-life-of-prophet-muhammad-pbuh",
+    "url": "/fia/islamic-studies-life-of-prophet-muhammad-pbuh/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 1622,
+            "question_text": "If a person is physically unable to perform the Hajj journey, what is the acceptable alternative prescribed by Islamic law?",
+            "options": [
+                "Offering a compensatory sacrifice (Fidya)",
+                "Making a formal pledge (Nazar) to pray extra prayers",
+                "Fasting the Hajj month",
+                "Performing Umrah instead"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Compensation (Fidya) through sacrifice or fasting is required for those who cannot physically complete the Hajj due to genuine inability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1623,
+            "question_text": "Which aspect of Iman (Faith) primarily involves believing in the unseen divine powers and miracles, such as Jinn, Angels, and the Day of Judgment?",
+            "options": [
+                "Belief in Prophethood (Nubuwwat)",
+                "Belief in Qadar (Divine Decree)",
+                "Belief in the unseen (Ghayb)",
+                "Belief in the Book (Kitab)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Belief in the Ghayb encompasses all matters beyond human sensory perception, including angels and the Day of Judgment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1624,
+            "question_text": "A student of Islamic Studies argues that Iman is not merely a cognitive agreement with Islamic tenets, but requires corresponding action and adherence. This perspective emphasizes Iman as:",
+            "options": [
+                "An intellectual acceptance (Aqli)",
+                "A behavioral commitment (Amali)",
+                "Inherently tied to worldly success (Maddani)",
+                "A purely spiritual state (Haqqi)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This interpretation views Iman as a comprehensive commitment that must manifest in the student's actions and behavior.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1923,
+            "question_text": "Which pillar of Islam mandates the annual payment of a fixed sum of money on the shoulders of ability, calculated from accumulated wealth?",
+            "options": [
+                "Zakat",
+                "Salah",
+                "Sawm",
+                "Hajj"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Zakat is the obligatory charity paid on wealth that has reached a minimum threshold (Nisab) and has been held for a specific time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1925,
+            "question_text": "Which pillar of Iman (Faith) requires belief in the ultimate authority and divine wisdom behind creation and destiny?",
+            "options": [
+                "Belief in Prophets (Nubuwwah)",
+                "Belief in the Quran (Kitab)",
+                "Belief in Angels (Malāʾikah)",
+                "Belief in Qadar (Divine Pre-decree)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Qadar encompasses believing that everything that happens, good or bad, is by the pre-knowledge and will of Allah (SWT).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6127,
+            "question_text": "Which pillar of Islam involves the ritual journey undertaken by all able-bodied Muslims to the holy city of Makkah, and is considered compulsory once financially and physically capable?",
+            "options": [
+                "Shahada",
+                "Sawm",
+                "Zakat",
+                "Hajj"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Hajj is the pilgrimage to Makkah. Zakat is obligatory charity, Sawm is fasting, and Shahada is the declaration of faith.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6128,
+            "question_text": "Which of the following is considered the foundational pillar (Arkan) of Iman, encompassing belief in the Book revealed to Prophet Muhammad (PBUH)?",
+            "options": [
+                "Iman by the Day of Judgment (Iman bi al-Yawm al-Qiyamah)",
+                "Iman by the Books (Iman bi al-Kutub)",
+                "Iman by the Qadar (Iman bi al-Qadar)",
+                "Iman by the Angels (Iman bi al-Mala'ika)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Belief in the Holy Books (Kutub) is a core pillar of Iman, specifically affirming the divine revelation, including the Qur'an.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

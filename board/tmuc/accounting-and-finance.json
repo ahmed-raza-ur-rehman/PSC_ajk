@@ -1,0 +1,151 @@
+{
+    "category": "TMUC",
+    "name": "Accounting and Finance",
+    "board": "tmuc",
+    "subject": "accounting-and-finance",
+    "url": "/tmuc/accounting-and-finance/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11454,
+            "question_text": "If a company has a debt ratio of 0.6, what does this indicate?",
+            "options": [
+                "60% of total assets are financed by creditors",
+                "The company is 60% profitable",
+                "Liabilities are lower than equity",
+                "The company has no debt"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A debt ratio of 0.6 means that 60% of the firm's assets are funded through debt, indicating the extent of financial leverage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11482,
+            "question_text": "What is the primary difference between cash-basis and accrual accounting?",
+            "options": [
+                "Tax implications",
+                "Timing of recording revenue and expenses",
+                "The number of accounts used",
+                "The use of ledgers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Accrual accounting records transactions when they occur, whereas cash-basis records them only when money changes hands.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12057,
+            "question_text": "Which financial statement reports a company's assets, liabilities, and shareholders' equity at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Cash Flow Statement",
+                "Balance Sheet",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The balance sheet provides a snapshot of the financial position of an entity at a particular date.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12058,
+            "question_text": "What does a current ratio of 2.0 indicate about a company?",
+            "options": [
+                "The company has twice as many liabilities as assets.",
+                "The company has $2 of current assets for every $1 of current liabilities.",
+                "The company is insolvent.",
+                "The company has high inventory turnover."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The current ratio is calculated as current assets divided by current liabilities; a ratio of 2.0 shows strong short-term liquidity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12059,
+            "question_text": "Which accounting principle requires that expenses be recorded in the same period as the revenues they help generate?",
+            "options": [
+                "Cost Principle",
+                "Matching Principle",
+                "Revenue Recognition",
+                "Going Concern"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Matching Principle ensures that expenses are reported in the period when the related revenue is earned.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12060,
+            "question_text": "What is the fundamental accounting equation?",
+            "options": [
+                "Assets + Liabilities = Equity",
+                "Assets = Liabilities - Equity",
+                "Assets = Liabilities + Equity",
+                "Revenue - Expenses = Assets"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This equation represents the balance sheet: total assets must equal the sum of liabilities and owners' equity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12061,
+            "question_text": "What does a Debt-to-Equity ratio of 0.5 imply?",
+            "options": [
+                "The company has twice as much debt as equity",
+                "The company uses twice as much equity as debt to finance assets",
+                "The company is insolvent",
+                "The company has no debt"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A ratio of 0.5 means debt is half the amount of equity, indicating a conservative financial structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12062,
+            "question_text": "Which financial statement serves as a record of a company's profitability over a specific period?",
+            "options": [
+                "Balance Sheet",
+                "Income Statement",
+                "Statement of Cash Flows",
+                "Trial Balance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Income Statement shows revenues, expenses, and net income or loss over a defined timeframe.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12070,
+            "question_text": "In finance, what is 'Compound Interest'?",
+            "options": [
+                "Interest earned only on the initial principal",
+                "Interest calculated on the principal plus previously accumulated interest",
+                "Interest charged only on loans",
+                "A fixed annual fee"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Compounding allows for the growth of capital by earning interest on interest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12071,
+            "question_text": "Which concept suggests that a business will continue to operate indefinitely unless there is evidence to the contrary?",
+            "options": [
+                "Consistency Principle",
+                "Going Concern Principle",
+                "Revenue Recognition",
+                "Cost Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Going Concern principle assumes that the business will remain in operation for the foreseeable future.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "category": "University of Peshawar",
+    "name": "Analytical Reasoning",
+    "board": "university-of-peshawar",
+    "subject": "analytical-reasoning",
+    "url": "/university-of-peshawar/analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 10674,
+            "question_text": "If all roses are flowers and some flowers are red, which statement must be true?",
+            "options": [
+                "All roses are red",
+                "Some roses are red",
+                "Some flowers are roses",
+                "All red items are flowers"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since all roses are flowers, it logically follows that some (in fact all) flowers are roses by definition of the subset.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10675,
+            "question_text": "Five books (A, B, C, D, E) are arranged on a shelf. A is next to B, C is not next to D, and E is at the far right. If B is in the middle, where could A be?",
+            "options": [
+                "Far left",
+                "Next to E",
+                "Between C and D",
+                "Nowhere"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If E is at position 5 and B is at 3, A must be at 4 to be next to B, placing it next to E.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10676,
+            "question_text": "All cats are mammals. No mammals are reptiles. Therefore:",
+            "options": [
+                "Some cats are reptiles",
+                "No cats are reptiles",
+                "All reptiles are cats",
+                "Some reptiles are mammals"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If cats are inside the mammal group and the mammal group has no overlap with reptiles, cats cannot be reptiles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10677,
+            "question_text": "In a race, Ali finished before Bilal but after Chaman. Who finished last?",
+            "options": [
+                "Ali",
+                "Bilal",
+                "Chaman",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Order: Chaman -> Ali -> Bilal. Bilal finished last.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10678,
+            "question_text": "A is taller than B. C is shorter than A. D is taller than C. Which of the following is definitely true?",
+            "options": [
+                "A is the tallest",
+                "B is the shortest",
+                "D is taller than B",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "We know A is tallest among A, B, and C, but we do not know the relationship between D and A, or D and B.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10679,
+            "question_text": "If Monday is coded as 'NOPMBZ', what is 'TUESDAY' coded as?",
+            "options": [
+                "UVFTEBZ",
+                "VVFTEBZ",
+                "UVEFSAZ",
+                "UVFTEAZ"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is replaced by the next letter in the alphabet (M->N, O->P, etc.).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10680,
+            "question_text": "Five students (P, Q, R, S, T) are sitting in a row. P is between Q and T. S is at the far left. R is next to S. Who is in the middle?",
+            "options": [
+                "P",
+                "Q",
+                "R",
+                "T"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Order: S, R, P, Q, T or S, R, P, T, Q. In both cases P is in the middle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10681,
+            "question_text": "If 'Rain' is 'Water', 'Water' is 'Cloud', and 'Cloud' is 'Sky', what do we drink?",
+            "options": [
+                "Rain",
+                "Water",
+                "Cloud",
+                "Sky"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "We drink water, and water is called cloud in this system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10682,
+            "question_text": "If today is Tuesday, what day will it be in 10 days?",
+            "options": [
+                "Friday",
+                "Saturday",
+                "Sunday",
+                "Monday"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A week is 7 days. 10 days = 7 + 3 days. Tuesday + 3 days = Friday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10683,
+            "question_text": "Find the odd one out: Car, Bus, Bicycle, Ship.",
+            "options": [
+                "Car",
+                "Bus",
+                "Bicycle",
+                "Ship"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Car, Bus, and Bicycle travel on land; Ship travels on water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10684,
+            "question_text": "If X > Y and Y > Z, which is true?",
+            "options": [
+                "X < Z",
+                "X = Z",
+                "X > Z",
+                "Z > X"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This follows the transitive property of inequality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10685,
+            "question_text": "Looking at a portrait, a man said, 'I have no brothers or sisters, but that man's father is my father's son.' Who is in the portrait?",
+            "options": [
+                "His father",
+                "His son",
+                "Himself",
+                "His nephew"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'My father's son' must be the speaker himself. Thus, 'that man's father is me'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10686,
+            "question_text": "Six people (P, Q, R, S, T, U) are standing in a line. P is behind Q. R is between Q and S. T is in front of Q. U is behind S. Who is at the front of the line?",
+            "options": [
+                "Q",
+                "P",
+                "T",
+                "R"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The order is T -> Q -> P (or R/S) -> S -> U. Since T is in front of Q, and everyone else is behind Q or in specific slots, T is front.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10687,
+            "question_text": "If 'CANDY' is coded as 'DZOEZ', how is 'SWEET' coded?",
+            "options": [
+                "TXFFU",
+                "RVFFS",
+                "TZFFU",
+                "TXEES"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted forward by one position (C+1=D, A-1=Z, N+1=O, D+1=E, Y+1=Z). Applying this shift: S+1=T, W+1=X, E+1=F, E+1=F, T+1=U.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

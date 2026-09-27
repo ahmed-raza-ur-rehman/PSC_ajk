@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Islamiat — Pillar of Islam",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "islamiat-pillar-of-islam",
+    "url": "/national-cybercrime-investigation-agency/islamiat-pillar-of-islam/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14593,
+            "question_text": "Which of the following bodies is primarily responsible for conducting competitive recruitment examinations for civil service positions within the Federal Government of Pakistan?",
+            "options": [
+                "PPSC",
+                "SPSC",
+                "FPSC",
+                "NTS"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Federal Public Service Commission (FPSC) handles recruitment for federal civil service positions across Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

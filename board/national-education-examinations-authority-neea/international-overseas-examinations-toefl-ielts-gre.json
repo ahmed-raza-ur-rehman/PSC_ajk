@@ -1,0 +1,109 @@
+{
+    "category": "National Education Examinations Authority (NEEA)",
+    "name": "International/Overseas Examinations (TOEFL/IELTS/GRE)",
+    "board": "national-education-examinations-authority-neea",
+    "subject": "international-overseas-examinations-toefl-ielts-gre",
+    "url": "/national-education-examinations-authority-neea/international-overseas-examinations-toefl-ielts-gre/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 9113,
+            "question_text": "What is the purpose of the official NEEA website for overseas examinations like TOEFL, IELTS, and GRE?",
+            "options": [
+                "To provide international flight booking services",
+                "To handle the registration and provide information regarding tests held in China",
+                "To issue university admission letters for students",
+                "To teach English grammar courses to the public"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The NEEA's role regarding international exams is to act as the official authority in China for registration, scheduling, and information provision for these tests.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9114,
+            "question_text": "If a candidate has a question regarding GRE exam entrance requirements in China, where should they look for information?",
+            "options": [
+                "The local department store",
+                "The official GRE NEEA website",
+                "Social media chat groups only",
+                "Any generic job search portal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Official and accurate information regarding entrance requirements, policies, and test center rules can be found on the specific official NEEA test websites.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9115,
+            "question_text": "What is the role of the official NEEA website for overseas tests like TOEFL, IELTS, and GRE?",
+            "options": [
+                "It designs the test questions",
+                "It facilitates registration and information dissemination within China",
+                "It provides free tutoring services",
+                "It issues university admissions offers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The NEEA website acts as the official gateway for candidates in China to register for international exams and access relevant policies and updates.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9116,
+            "question_text": "Where should a candidate look for information regarding GRE entrance requirements in China?",
+            "options": [
+                "A random social media group",
+                "The official NEEA GRE portal (gre-main.neea.cn)",
+                "A travel agency",
+                "A local bookstore"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The NEEA manages the official GRE portal for China, which is the only reliable source for local entrance requirements and testing rules.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9117,
+            "question_text": "Which of the following is NOT an overseas examination managed via the NEEA?",
+            "options": [
+                "TOEFL",
+                "IELTS",
+                "GRE",
+                "Gaokao"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Gaokao is a domestic national exam, while TOEFL, IELTS, and GRE are international tests for which NEEA provides local support.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9118,
+            "question_text": "How can a candidate find out about IELTS exam testing locations in China?",
+            "options": [
+                "Checking the official NEEA IELTS website",
+                "Calling a taxi company",
+                "Checking the weather report",
+                "Writing a letter to the UK"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The NEEA IELTS website contains a dedicated section for test locations and registration instructions specific to China.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9119,
+            "question_text": "If a TOEFL test-taker has a registration problem in China, who should they contact first?",
+            "options": [
+                "The US Embassy",
+                "The NEEA official support channel",
+                "Their local landlord",
+                "A private tutor"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The NEEA provides a dedicated service channel for resolving registration, payment, and scheduling issues for international exams within the Chinese region.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

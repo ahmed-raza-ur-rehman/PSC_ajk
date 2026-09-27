@@ -1,0 +1,179 @@
+{
+    "category": "PPSC",
+    "name": "Basic Mathematics",
+    "board": "ppsc",
+    "subject": "basic-mathematics",
+    "url": "/ppsc/basic-mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9766,
+            "question_text": "A candidate is born on August 15, 1970. If the closing date for an application is February 7, 1998, what is the age of the candidate?",
+            "options": [
+                "27 years, 5 months, 24 days",
+                "28 years, 2 months, 7 days",
+                "27 years, 10 months, 15 days",
+                "26 years, 6 months, 20 days"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "According to the PPSC age calculation method in the FAQ, the difference between the dates (including one extra day) results in 27 years, 5 months, and 24 days.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9767,
+            "question_text": "If a written test has 100 questions and a candidate answers 80 correctly and 20 incorrectly, what is the final score after negative marking (0.25 per wrong answer)?",
+            "options": [
+                "75",
+                "78",
+                "80",
+                "85"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Score = (Correct * 1) - (Incorrect * 0.25) = 80 - (20 * 0.25) = 80 - 5 = 75.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9768,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "15/100 * 200 = 15 * 2 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9769,
+            "question_text": "Solve: 5 + (3 * 2) - 4",
+            "options": [
+                "7",
+                "8",
+                "9",
+                "10"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Following order of operations (PEMDAS): 5 + 6 - 4 = 11 - 4 = 7.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9770,
+            "question_text": "What is the square root of 144?",
+            "options": [
+                "10",
+                "11",
+                "12",
+                "14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "12 * 12 = 144.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9771,
+            "question_text": "If x + 5 = 12, what is x?",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 5 from both sides: x = 12 - 5 = 7.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9772,
+            "question_text": "What is the area of a rectangle with length 10 and width 5?",
+            "options": [
+                "15",
+                "25",
+                "50",
+                "100"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Area = length * width = 10 * 5 = 50.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9773,
+            "question_text": "What is the value of 2 to the power of 4?",
+            "options": [
+                "6",
+                "8",
+                "16",
+                "32"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "2 * 2 * 2 * 2 = 16.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9774,
+            "question_text": "What is the mean of 2, 4, 6, and 8?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "(2 + 4 + 6 + 8) / 4 = 20 / 4 = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9775,
+            "question_text": "A man buys an item for 80 and sells it for 100. What is the profit percentage?",
+            "options": [
+                "20%",
+                "25%",
+                "30%",
+                "40%"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "(Profit / Cost) * 100 = (20 / 80) * 100 = 1/4 * 100 = 25%.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9776,
+            "question_text": "What is the next number in the sequence: 2, 4, 8, 16, ...",
+            "options": [
+                "20",
+                "24",
+                "32",
+                "48"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each term is multiplied by 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9777,
+            "question_text": "What is 3/4 converted to a decimal?",
+            "options": [
+                "0.25",
+                "0.50",
+                "0.75",
+                "0.80"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "3 divided by 4 equals 0.75.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

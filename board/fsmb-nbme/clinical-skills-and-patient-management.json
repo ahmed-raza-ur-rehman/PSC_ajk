@@ -1,0 +1,179 @@
+{
+    "category": "FSMB / NBME",
+    "name": "Clinical Skills and Patient Management",
+    "board": "fsmb-nbme",
+    "subject": "clinical-skills-and-patient-management",
+    "url": "/fsmb-nbme/clinical-skills-and-patient-management/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9625,
+            "question_text": "During a physical examination, which technique is best used to assess the presence of fluid in the abdominal cavity?",
+            "options": [
+                "Auscultation",
+                "Shifting dullness",
+                "Direct inspection",
+                "Deep palpation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Shifting dullness is a clinical sign used to detect ascites, where the area of dullness to percussion changes when the patient turns to one side.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9626,
+            "question_text": "What is the most appropriate next step for a patient who presents with signs of sepsis and low blood pressure?",
+            "options": [
+                "Administering IV antibiotics only",
+                "Initiating aggressive intravenous fluid resuscitation",
+                "Starting an oral diet",
+                "Waiting for blood culture results"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In cases of septic shock, early aggressive fluid resuscitation is critical to restore tissue perfusion and stabilize the patient.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9627,
+            "question_text": "During an abdominal exam, what sounds are expected over a healthy liver?",
+            "options": [
+                "Resonance",
+                "Tympany",
+                "Dullness",
+                "Hyper-resonance"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The solid nature of the liver produces a dull sound when percussed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9628,
+            "question_text": "When interviewing a patient, which strategy is best for gathering comprehensive information?",
+            "options": [
+                "Asking yes/no questions",
+                "Using open-ended questions",
+                "Interrupting to clarify points",
+                "Suggesting possible diagnoses"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Open-ended questions encourage patients to share their narrative and concerns fully.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9629,
+            "question_text": "What is the most appropriate management for a stable patient with atrial fibrillation?",
+            "options": [
+                "Immediate cardioversion",
+                "Rate control with beta-blockers",
+                "IV fluids only",
+                "Surgical intervention"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In stable atrial fibrillation, the priority is controlling the ventricular heart rate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9630,
+            "question_text": "Which reflex test assesses the L4 nerve root?",
+            "options": [
+                "Biceps reflex",
+                "Patellar reflex",
+                "Achilles reflex",
+                "Triceps reflex"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The patellar reflex primarily tests the integrity of the L4 spinal nerve root.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9631,
+            "question_text": "What is the best initial step for a patient presenting with acute asthma symptoms?",
+            "options": [
+                "Oral antibiotics",
+                "Inhaled short-acting beta-agonists",
+                "Inhaled corticosteroids",
+                "Intravenous fluids"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Short-acting beta-agonists provide rapid bronchodilation to relieve acute airway obstruction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9632,
+            "question_text": "When assessing a patient's mental status, which tool is commonly used?",
+            "options": [
+                "Mini-Mental State Examination",
+                "Glasgow Coma Scale",
+                "Apgar score",
+                "BMI calculation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The MMSE is a validated tool for screening cognitive impairment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9633,
+            "question_text": "How should a physician handle a patient who cannot provide informed consent due to unconsciousness?",
+            "options": [
+                "Wait until the patient wakes up",
+                "Seek consent from a legal surrogate",
+                "Proceed with surgery immediately",
+                "Consult the hospital administrator"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In emergencies where a patient lacks capacity, consent is obtained from the legal surrogate or healthcare proxy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9634,
+            "question_text": "What is the most critical step in preventing healthcare-associated infections?",
+            "options": [
+                "Sterilizing the floor",
+                "Proper hand hygiene",
+                "Wearing two pairs of gloves",
+                "Using antibiotics prophylactically"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hand hygiene is widely recognized as the single most effective way to prevent the spread of infections.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9635,
+            "question_text": "What is the first step in basic life support for an unresponsive patient?",
+            "options": [
+                "Check for pulse",
+                "Provide rescue breaths",
+                "Check for responsiveness and call for help",
+                "Begin chest compressions"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Safety and securing assistance are the foundational steps in the BLS algorithm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9636,
+            "question_text": "In a physical exam, what does the 'JVP' stand for?",
+            "options": [
+                "Joint Volume Pressure",
+                "Jugular Venous Pressure",
+                "Jejunal Vital Pulse",
+                "Justified Vascular Procedure"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "JVP is used to estimate central venous pressure during a cardiovascular assessment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

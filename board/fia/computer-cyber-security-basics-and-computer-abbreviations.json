@@ -1,0 +1,515 @@
+{
+    "category": "FIA",
+    "name": "Computer — Cyber Security Basics and Computer Abbreviations",
+    "board": "fia",
+    "subject": "computer-cyber-security-basics-and-computer-abbreviations",
+    "url": "/fia/computer-cyber-security-basics-and-computer-abbreviations/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 36,
+    "questions": [
+        {
+            "id": 1090,
+            "question_text": "Complete the pattern: 5, 11, 23, 47, ?",
+            "options": [
+                "97",
+                "101",
+                "95",
+                "93"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern is multiplying the previous number by 2 and adding 1 ($n \times 2 + 1$). The next number is $47 \times 2 + 1 = 95$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1091,
+            "question_text": "What is the missing term in the sequence: 3, 7, 13, 21, 31, ?",
+            "options": [
+                "41",
+                "39",
+                "43",
+                "45"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences are +4, +6, +8, +10. The next difference must be +12, making the next term $31 + 12 = 43$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1092,
+            "question_text": "Determine the next number in the series: 2, 5, 10, 17, 26, ?",
+            "options": [
+                "35",
+                "36",
+                "38",
+                "37"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The pattern is $n^2 + 1$. The next number is $6^2 + 1 = 37$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1192,
+            "question_text": "Find the next number in the series: 1, 4, 9, 16, 25, ?",
+            "options": [
+                "30",
+                "36",
+                "49",
+                "32"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a simple series of squares ($n^2$). The next number is $6^2 = 36$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1501,
+            "question_text": "Find the next number in the series: 4, 9, 19, 39, 79, ?",
+            "options": [
+                "139",
+                "169",
+                "159",
+                "149"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern involves multiplying the previous number by 2 and adding 1, then adding 2 to the result. (4*2+1+3 = 12, but this is simpler: (9-4)*2+9 = 18, this pattern is (n*2 + n-1)). The difference between consecutive terms is 5, 10, 20, 40. The next difference is 80. 79 + 80 = 159.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1502,
+            "question_text": "What number should replace the question mark in the following sequence: 2, 5, 10, 17, 26, ?",
+            "options": [
+                "35",
+                "39",
+                "41",
+                "37"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The sequence follows the pattern n^2 + 1. The missing number is 6^2 + 1 = 36 + 1 = 37.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1601,
+            "question_text": "Find the next number in the series: 3, 6, 11, 18, 27, ?",
+            "options": [
+                "40",
+                "42",
+                "38",
+                "39"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The difference between consecutive terms increases by 2 (3, 5, 7, 9, 11). Therefore, the next number is 27 + 11 = 38.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1602,
+            "question_text": "What is the missing term in the sequence: 5, 12, 26, 54, ?",
+            "options": [
+                "102",
+                "108",
+                "110",
+                "112"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The difference between consecutive terms doubles (7, 14, 28, 56). The next term is 54 + 56 = 110.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1701,
+            "question_text": "Which number completes the series: 5, 9, 17, 33, 65, ?",
+            "options": [
+                "127",
+                "115",
+                "129",
+                "131"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern involves multiplying the previous number by 2 and adding 3 (or adding powers of 2: +4, +8, +16, +32). 65 + 64 = 129.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1702,
+            "question_text": "Which number should come next in the series: 2, 5, 10, 17, 26, ??",
+            "options": [
+                "37",
+                "38",
+                "39",
+                "40"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern is based on squares plus one (n^2 + 1). The next number is 6^2 + 1 = 36 + 1 = 37. Wait, the gap suggests n^2 + 1. Let's check the difference: 3, 5, 7, 9. The next difference must be 11. So, 26 + 11 = 37. (Correction: Let's re-evaluate the series: 2, 5, 10, 17, 26. Differences: 3, 5, 7, 9. The next difference is 11. So, 26 + 11 = 37.)",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1801,
+            "question_text": "Find the missing number in the series: 5, 12, 26, 54, 110, ?\n(A) 220\n(B) 222\n(C) 224\n(D) 230",
+            "options": [
+                "222",
+                "220",
+                "224",
+                "230"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern is (previous number * 2) + 2. So, 110 * 2 + 2 = 222, but the intended pattern is 2*n + 2. Wait, the pattern is n * 2 + 2: 5*2 + 2 = 12; 12*2 + 2 = 26; 26*2 + 2 = 54; 54*2 + 2 = 110 (Incorrect). The correct pattern is (previous number * 2) + 2. Let's recheck: 5*2 + 2 = 12; 12*2 + 2 = 26; 26*2 + 2 = 54; 54*2 + 2 = 110. This is consistent. Next number: 110 * 2 + 2 = 220 + 2 = 222. Let's re-examine the options and series carefully. If the series is 5, 12, 26, 54, 110. Differences: 7, 14, 28, 56. The multiplier is 2. Next difference: 56 * 2 = 112. 110 + 112 = 222. Re-checking the options, 222 is B. There might be a typo in the provided options or question itself. Assuming 222 is the correct answer based on the difference pattern (n * 2 + 2). If we stick strictly to the options provided and assume one of them is correct: The sequence is 5, 12, 26, 54, 110. The differences are 7, 14, 28, 56. The next difference must be 112. 110 + 112 = 222. Given the constraint to choose one of the provided options, let's assume there was a typo in the question's given options and select B: 222.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1802,
+            "question_text": "Which number should replace the question mark in the following sequence: 2, 3, 5, 8, 13, 21, ?\n(A) 31\n(B) 34\n(C) 35\n(D) 36",
+            "options": [
+                "36",
+                "34",
+                "31",
+                "35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This is a Fibonacci sequence where each number is the sum of the two preceding numbers (5+8=13; 8+13=21; 13+21=34). Wait, the next number is 21+13=34. The pattern is 2, 3, 5, 8, 13, 21, 34. Since 34 is an option, we select (B). (Correction based on re-evaluation: The pattern is Fibonacci. 21 + 13 = 34. Thus, 34 is the answer.)",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1902,
+            "question_text": "Find the missing number in the series: 3, 7, 15, 31, 63, ?",
+            "options": [
+                "128",
+                "95",
+                "127",
+                "131"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern involves doubling the previous term and adding 1 (N * 2 + 1). The next number is 63 * 2 + 1 = 127.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1903,
+            "question_text": "Which number correctly completes the sequence: 2, 5, 11, 23, 47, ?",
+            "options": [
+                "99",
+                "95",
+                "101",
+                "92"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The difference between consecutive terms doubles each time (+3, +6, +12, +24). The next difference must be 48. Therefore, 47 + 48 = 95.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2002,
+            "question_text": "Which number completes the series: 2, 5, 10, 17, 26, ?\n(A) 30\n(B) 35\n(C) 37\n(D) 40",
+            "options": [
+                "35",
+                "30",
+                "40",
+                "37"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The pattern involves adding consecutive odd squares (3^2, 5^2, 7^2...). The next number is 37 (26 + 11 = 37).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2003,
+            "question_text": "Find the missing number in the series: 1, 3, 7, 15, 31, ?\n(A) 47\n(B) 55\n(C) 63\n(D) 64",
+            "options": [
+                "63",
+                "47",
+                "64",
+                "55"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is a powers of two minus one sequence (2^n - 1). The next number is 2^6 - 1 = 63.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5940,
+            "question_text": "Which number completes the following series: 3, 5, 9, 15, 23, ?",
+            "options": [
+                "35",
+                "33",
+                "31",
+                "29"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern involves adding consecutive even numbers plus two: +2, +4, +6, +8, +10. (23 + 10 = 33).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5941,
+            "question_text": "Find the next number in the series: 1, 8, 27, 64, 125, ?",
+            "options": [
+                "133",
+                "215",
+                "126",
+                "216"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "This is the series of cubes (n³): 1³=1, 2³=8, 3³=27, 4³=64, 5³=125, 6³=216.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6040,
+            "question_text": "Find the next number in the series: 3, 5, 9, 17, 33, ?",
+            "options": [
+                "67",
+                "53",
+                "55",
+                "65"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The pattern is based on adding powers of 2 (2, 4, 8, 16, 32...). 33 + 32 = 65.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6041,
+            "question_text": "What number should come next in the sequence: 2, 10, 28, 52, 82, ?",
+            "options": [
+                "112",
+                "100",
+                "122",
+                "92"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The differences are 8, 18, 24, 30. If the sequence of differences repeats the last step's increase (i.e., adding 30 again), the next number is 82 + 30 = 112.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6111,
+            "question_text": "Find the missing number in the series: 3, 5, 9, 15, 23, ?\n(This type of pattern recognition is common in general aptitude tests like those conducted by NTS or PPSC.)",
+            "options": [
+                "41",
+                "35",
+                "33",
+                "37"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The difference between consecutive terms increases by 2 each time: (+2, +4, +6, +8, +10). Thus, 23 + 14 = 37.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6112,
+            "question_text": "What number should replace the question mark in the sequence: 2, 10, 22, 46, ?\n(Analytical reasoning skills are tested across various competitive exams, including those for PSCS or academia.)",
+            "options": [
+                "88",
+                "96",
+                "90",
+                "94"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The pattern is multiplication by 2 and adding 2 (2*2+6=10, 10*2+2=22, 22*2+2=46). The next term is (46*2) + 2 = 92 + 2 = 94.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6178,
+            "question_text": "Determine the next number in the series: 3, 5, 9, 15, 23, ?",
+            "options": [
+                "31",
+                "37",
+                "39",
+                "35"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The difference between consecutive terms increases by 2 each time (2, 4, 6, 8, 10). The next number is 23 + 8 = 31.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6179,
+            "question_text": "Which number should replace the question mark in the given series: 2, 10, 3, 12, 4, 14, 5, ?",
+            "options": [
+                "22",
+                "20",
+                "18",
+                "16"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The series alternates between two sub-series: (2, 3, 4, 5, ...) and (10, 12, 14, ?, ...). The next number in the second sub-series is 14 + 2 = 16.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6253,
+            "question_text": "Determine the next number in the series: 5, 10, 17, 26, 37, ?\n(A)\n55\n(B)\n48\n(C)\n50\n(D)\n61",
+            "options": [
+                "61",
+                "48",
+                "55",
+                "50"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern is n^2 + 1. The next number is 6^2 + 1 = 37 + 9 = 55.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6254,
+            "question_text": "Find the missing term in the series: 2, 3, 5, 8, 13, 21, ?\n(A)\n32\n(B)\n34\n(C)\n35\n(D)\n33",
+            "options": [
+                "33",
+                "32",
+                "35",
+                "34"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "This is a Fibonacci-like sequence where each term is the sum of the two preceding terms (13 + 21 = 34).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6333,
+            "question_text": "Find the missing term in the series: 1, 5, 2, 6, 3, 7, ?",
+            "options": [
+                "8",
+                "7",
+                "8",
+                "9"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This is an alternating series. The odd-positioned terms are 1, 2, 3, ... (increasing by 1). The even-positioned terms are 5, 6, 7, ... (increasing by 1). Assuming the series continues to the next logical term (the 8th term), it follows the even pattern: 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6334,
+            "question_text": "Identify the next term in the series: 5, 7, 11, 17, 25, ?",
+            "options": [
+                "33",
+                "37",
+                "32",
+                "35"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The differences between consecutive terms are 2, 4, 6, and 8. Following this pattern, the next difference must be 10. Therefore, the next term is found by adding 10 to the last term: 25 + 10 = 35.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6335,
+            "question_text": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+            "options": [
+                "35",
+                "41",
+                "34",
+                "37"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is an arithmetic progression with a common difference of 6 (11-5=6, 17-11=6, etc.). The next number is 29 + 6 = 35.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6411,
+            "question_text": "Find the next term in the series: 3, 5, 9, 17, 33, ?",
+            "options": [
+                "55",
+                "49",
+                "67",
+                "65"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The pattern is determined by the differences between consecutive terms. The differences are +2, +4, +8, +16, which are powers of 2. The next difference must be 32. Therefore, the next term is 33 + 32 = 65.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6412,
+            "question_text": "Identify the missing term in the series: 2, 6, 12, 20, 30, ?",
+            "options": [
+                "40",
+                "48",
+                "42",
+                "36"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pattern is based on the product of consecutive integers, $n(n+1)$. The series follows $2(1)$, $3(2)$, $4(3)$, $5(4)$, $6(5)$. The next term is $7(6) = 42$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6479,
+            "question_text": "Which number should come next in the series? 2, 3, 5, 7, 11, ?",
+            "options": [
+                "15",
+                "17",
+                "19",
+                "13"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The series consists of consecutive prime numbers (the smallest prime number greater than 11 is 13).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6622,
+            "question_text": "Identify the missing number in the sequence: 1, 4, 9, 16, 25, ?",
+            "options": [
+                "36",
+                "49",
+                "32",
+                "30"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is the sequence of squares of natural numbers ($n^2$): $1^2, 2^2, 3^2, 4^2, 5^2$. The next term is $6^2$, which is 36.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6700,
+            "question_text": "Determine the next number in the series: 1, 3, 6, 10, 15, ?",
+            "options": [
+                "22",
+                "21",
+                "19",
+                "20"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The difference between consecutive terms increases by one sequentially (3-1=2, 6-3=3, 10-6=4, 15-10=5. The next difference must be 6, so 15 + 6 = 21).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6849,
+            "question_text": "Find the missing term in the series: 1, 3, 7, 13, 21, ?",
+            "options": [
+                "27",
+                "37",
+                "31",
+                "35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences between consecutive terms form an arithmetic progression: 2, 4, 6, 8. The next difference must be 10, so the next term is $21 + 10 = 31$.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6850,
+            "question_text": "What number logically follows the pattern: 4, 6, 10, 16, 26, ?",
+            "options": [
+                "50",
+                "44",
+                "42",
+                "38"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences between terms form a sequence (2, 4, 6, 10...). The next difference is found by adding the previous two differences (6 + 10 = 16). Therefore, 26 + 16 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

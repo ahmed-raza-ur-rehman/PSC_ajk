@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Art and Design",
+    "board": "aqa",
+    "subject": "art-and-design",
+    "url": "/aqa/art-and-design/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8816,
+            "question_text": "Which term describes the lightness or darkness of a colour?",
+            "options": [
+                "Texture",
+                "Value",
+                "Harmony",
+                "Balance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In art, 'value' refers to the relative lightness or darkness of a colour or area.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8817,
+            "question_text": "What does the term 'value' refer to in the context of colour and design?",
+            "options": [
+                "The monetary cost of materials",
+                "The level of brightness or darkness of a colour",
+                "The saturation or intensity of a hue",
+                "The texture of the painting surface"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In art, 'value' defines how light or dark a colour appears, which helps create depth and contrast.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8818,
+            "question_text": "What term describes the brightness or dimness of a color?",
+            "options": [
+                "Hue",
+                "Value",
+                "Saturation",
+                "Temperature"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In art, 'value' refers to how light or dark a color is, regardless of the hue itself.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8819,
+            "question_text": "Which of these is a primary color?",
+            "options": [
+                "Green",
+                "Orange",
+                "Purple",
+                "Red"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Primary colors are red, blue, and yellow; they cannot be created by mixing other colors together.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

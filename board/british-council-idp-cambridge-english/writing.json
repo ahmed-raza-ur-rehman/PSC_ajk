@@ -1,0 +1,123 @@
+{
+    "category": "British Council, IDP, Cambridge English",
+    "name": "Writing",
+    "board": "british-council-idp-cambridge-english",
+    "subject": "writing",
+    "url": "/british-council-idp-cambridge-english/writing/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 8747,
+            "question_text": "What is the total time limit for the IELTS Writing test?",
+            "options": [
+                "30 minutes",
+                "60 minutes",
+                "90 minutes",
+                "120 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The IELTS Writing test has a time limit of 60 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8894,
+            "question_text": "Can you use voice recognition software for the Writing test as an access arrangement?",
+            "options": [
+                "Yes, for all test takers",
+                "Yes, if requested six months in advance",
+                "No, voice recognition software is not allowed",
+                "Only for Task 1"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "IELTS regulations explicitly state that voice recognition software is not a permitted access arrangement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8904,
+            "question_text": "What is the total duration allowed for the IELTS Writing test?",
+            "options": [
+                "30 minutes",
+                "45 minutes",
+                "60 minutes",
+                "120 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The standard duration for the IELTS Writing test is 60 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8905,
+            "question_text": "Which task carries more weight when examiners mark the Writing test?",
+            "options": [
+                "Task 1",
+                "Task 2",
+                "Both tasks carry equal weight",
+                "Only the spelling accuracy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The assessment of Task 2 carries more weight in the marking process than Task 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8906,
+            "question_text": "If a test taker has a 'transcriber' (copier) for the Writing test, what are they required to provide?",
+            "options": [
+                "The examiner provides all necessary punctuation.",
+                "The test taker must dictate punctuation and spelling.",
+                "The transcriber corrects all grammar mistakes.",
+                "The transcriber does not write anything down."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When using a transcriber, the test taker must dictate the content including all required punctuation and spellings for the transcriber to record accurately.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8908,
+            "question_text": "Which task carries more weight during the evaluation of the Writing test?",
+            "options": [
+                "Task 1",
+                "Task 2",
+                "Both tasks carry equal weight",
+                "The spelling accuracy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The assessment of Task 2 contributes more significantly to the final Writing band score than Task 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8909,
+            "question_text": "If a test taker uses a 'copier' (transcriber) for the Writing test, what are they responsible for providing?",
+            "options": [
+                "Their own paper",
+                "A medical certificate only",
+                "Spelling of words and punctuation to the copier",
+                "A typed version of the essay"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When using a transcriber, the candidate must read out their work, including explicitly dictating punctuation and spelling.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8910,
+            "question_text": "What are the four main criteria used to assess IELTS Writing?",
+            "options": [
+                "Task Achievement/Response, Coherence/Cohesion, Lexical Resource, Grammatical Range/Accuracy",
+                "Vocabulary, Speed, Handwriting, Grammar",
+                "Creativity, Spelling, Length, Style",
+                "Organization, Formatting, Grammar, Speed"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Examiners follow these four specific criteria to determine the band score for Writing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

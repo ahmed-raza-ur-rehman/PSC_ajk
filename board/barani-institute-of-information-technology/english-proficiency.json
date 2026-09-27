@@ -1,0 +1,207 @@
+{
+    "category": "Barani Institute of Information Technology",
+    "name": "English Proficiency",
+    "board": "barani-institute-of-information-technology",
+    "subject": "english-proficiency",
+    "url": "/barani-institute-of-information-technology/english-proficiency/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 13907,
+            "question_text": "Identify the sentence that contains no grammatical errors.",
+            "options": [
+                "The team of researchers were working on the project.",
+                "Each of the participants have completed the survey.",
+                "Neither the manager nor the employees were informed.",
+                "Data is usually plural, so it represent many facts."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The verb should agree with the subject closest to it in 'neither/nor' constructions ('employees' is plural, so 'were' is correct).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13908,
+            "question_text": "Choose the synonym for 'Ephemeral'.",
+            "options": [
+                "Lasting",
+                "Short-lived",
+                "Eternal",
+                "Persistent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral refers to something lasting for a very short time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13909,
+            "question_text": "Which word is a synonym for 'Resilient'?",
+            "options": [
+                "Fragile",
+                "Adaptable",
+                "Weak",
+                "Rigid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Resilient means able to withstand or recover quickly from difficult conditions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13910,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "Neither the manager nor the employees was present.",
+                "Neither the manager nor the employees were present.",
+                "Neither the manager nor the employees is present.",
+                "Neither the manager nor the employees has been present."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When using neither/nor, the verb must agree with the subject closest to it (employees).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13911,
+            "question_text": "What is the antonym of 'Amplify'?",
+            "options": [
+                "Increase",
+                "Diminish",
+                "Boost",
+                "Expand"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Amplify means to increase, so diminish is the opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13912,
+            "question_text": "Which word is spelled incorrectly?",
+            "options": [
+                "Accommodate",
+                "Definitely",
+                "Seperate",
+                "Necessary"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling is 'Separate'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13913,
+            "question_text": "Choose the correct phrase to complete the sentence: 'She ___ to the office every morning.'",
+            "options": [
+                "walk",
+                "walking",
+                "walks",
+                "walked"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Subject-verb agreement: 'She' (third-person singular) requires 'walks'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13914,
+            "question_text": "What is the meaning of the idiom 'A blessing in disguise'?",
+            "options": [
+                "A curse",
+                "A good thing that seemed bad at first",
+                "A hidden trap",
+                "A secret weapon"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "It refers to a misfortune that eventually results in a positive outcome.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13915,
+            "question_text": "Select the correct pronoun: 'Between you and ___ , I think this project will succeed.'",
+            "options": [
+                "I",
+                "me",
+                "my",
+                "myself"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Objects of prepositions should be in the objective case (me).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13916,
+            "question_text": "Which word best completes the sentence: 'His ___ explanation cleared up all the confusion.'",
+            "options": [
+                "Ambiguous",
+                "Lucid",
+                "Vague",
+                "Obscure"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Lucid means expressed clearly and easy to understand.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13917,
+            "question_text": "Identify the passive voice version of 'The AI model analyzed the data.'",
+            "options": [
+                "The data was analyzed by the AI model.",
+                "The data is analyzed by the AI model.",
+                "The AI model is being analyzed by the data.",
+                "The data were being analyzed."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Passive voice changes the focus to the object (the data) receiving the action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13918,
+            "question_text": "Which sentence contains a dangling modifier?",
+            "options": [
+                "Walking down the street, the trees looked beautiful.",
+                "Walking down the street, I saw beautiful trees.",
+                "The trees looked beautiful while I was walking.",
+                "I saw beautiful trees as I walked down the street."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The modifier 'Walking down the street' incorrectly modifies 'the trees' rather than a person.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13919,
+            "question_text": "What is the prefix in 'Unpredictable'?",
+            "options": [
+                "Un",
+                "Pred",
+                "Dict",
+                "Able"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The prefix 'Un-' is added to the base word 'predictable' to negate it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13920,
+            "question_text": "Which word is a synonym for 'Inherent'?",
+            "options": [
+                "External",
+                "Acquired",
+                "Intrinsic",
+                "Temporary"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Inherent refers to something that is an essential or permanent part of something.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

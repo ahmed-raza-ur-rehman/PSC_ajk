@@ -1,0 +1,417 @@
+{
+    "category": "Riphah International University",
+    "name": "General Knowledge",
+    "board": "riphah-international-university",
+    "subject": "general-knowledge",
+    "url": "/riphah-international-university/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 29,
+    "questions": [
+        {
+            "id": 11724,
+            "question_text": "Which organ in the human body is responsible for filtering blood?",
+            "options": [
+                "Liver",
+                "Heart",
+                "Kidneys",
+                "Lungs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The kidneys act as a filtration system to remove waste from the blood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11884,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars appears red due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12219,
+            "question_text": "What is the primary language spoken in Brazil?",
+            "options": [
+                "Spanish",
+                "Portuguese",
+                "French",
+                "English"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Unlike most South American countries that speak Spanish, Brazil's primary language is Portuguese.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12228,
+            "question_text": "Which is the largest planet in our solar system?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Jupiter is the largest planet by both mass and volume.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12229,
+            "question_text": "Who is known as the founder of modern economics?",
+            "options": [
+                "Karl Marx",
+                "Adam Smith",
+                "John Maynard Keynes",
+                "Milton Friedman"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Adam Smith's 'The Wealth of Nations' is considered the foundational text of classical economics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12230,
+            "question_text": "What is the currency of Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Ringgit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Yen is the official currency of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12231,
+            "question_text": "Which country is known as the 'Land of the Rising Sun'?",
+            "options": [
+                "China",
+                "Thailand",
+                "Japan",
+                "South Korea"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Japan is geographically located to the east of China and is called the Land of the Rising Sun.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12232,
+            "question_text": "What is the chemical symbol for Gold?",
+            "options": [
+                "Gd",
+                "Ag",
+                "Au",
+                "Fe"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Au comes from the Latin word 'Aurum'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12233,
+            "question_text": "Which is the longest river in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile is traditionally considered the longest river in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12234,
+            "question_text": "Who painted the Mona Lisa?",
+            "options": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Claude Monet"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Mona Lisa is a 16th-century portrait painted by Leonardo da Vinci.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12235,
+            "question_text": "What is the capital city of Australia?",
+            "options": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Perth"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Canberra is the capital city of Australia, not the larger Sydney or Melbourne.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12236,
+            "question_text": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Plants use carbon dioxide and sunlight to create energy during photosynthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12237,
+            "question_text": "In which year did the World War II end?",
+            "options": [
+                "1942",
+                "1945",
+                "1948",
+                "1950"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "World War II ended in 1945 after the surrender of Axis powers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13307,
+            "question_text": "Which organization is responsible for setting global trade rules?",
+            "options": [
+                "United Nations",
+                "World Bank",
+                "World Trade Organization",
+                "International Monetary Fund"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The WTO is the global international organization dealing with the rules of trade between nations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13308,
+            "question_text": "What is the primary function of the 'Gross Domestic Product' (GDP) measure?",
+            "options": [
+                "Measuring consumer price inflation",
+                "Measuring the total market value of all finished goods produced within a country",
+                "Measuring total national debt",
+                "Measuring the unemployment rate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "GDP is a standard measure of the value added created through the production of goods and services in a country.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13310,
+            "question_text": "Who is the current Secretary-General of the United Nations?",
+            "options": [
+                "Ban Ki-moon",
+                "Kofi Annan",
+                "António Guterres",
+                "Kurt Waldheim"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "António Guterres has been serving as the UN Secretary-General since 2017.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13313,
+            "question_text": "Which company is famous for the slogan 'Just Do It'?",
+            "options": [
+                "Adidas",
+                "Nike",
+                "Reebok",
+                "Puma"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Just Do It' is the long-standing trademark slogan of Nike.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13315,
+            "question_text": "Which continent is the largest by land area?",
+            "options": [
+                "Africa",
+                "North America",
+                "Asia",
+                "Antarctica"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Asia is the largest continent in both land area and population.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13316,
+            "question_text": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "Gold",
+                "Silver",
+                "Oxygen",
+                "Osmium"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "O is the chemical symbol for Oxygen.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13317,
+            "question_text": "What is the capital city of Canada?",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montreal"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ottawa is the federal capital of Canada.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13318,
+            "question_text": "Which invention is credited to Alexander Graham Bell?",
+            "options": [
+                "Light bulb",
+                "Telephone",
+                "Radio",
+                "Telegraph"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Alexander Graham Bell is widely recognized as the inventor of the telephone.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13760,
+            "question_text": "Who is considered the father of Artificial Intelligence?",
+            "options": [
+                "Alan Turing",
+                "Bill Gates",
+                "Steve Jobs",
+                "Elon Musk"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Alan Turing is widely regarded as the father of theoretical computer science and artificial intelligence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13761,
+            "question_text": "Which is the largest ocean on Earth?",
+            "options": [
+                "Atlantic",
+                "Indian",
+                "Arctic",
+                "Pacific"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13762,
+            "question_text": "What is the capital city of Japan?",
+            "options": [
+                "Seoul",
+                "Beijing",
+                "Tokyo",
+                "Bangkok"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tokyo is the capital and most populous city of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13764,
+            "question_text": "Who wrote the play 'Romeo and Juliet'?",
+            "options": [
+                "Charles Dickens",
+                "William Shakespeare",
+                "Jane Austen",
+                "Mark Twain"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Romeo and Juliet is a tragedy written early in the career of playwright William Shakespeare.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13767,
+            "question_text": "Which continent is known as the 'Dark Continent'?",
+            "options": [
+                "Asia",
+                "Australia",
+                "Africa",
+                "South America"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Africa was historically referred to as the 'Dark Continent' because it was largely unexplored by Europeans.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13768,
+            "question_text": "Which is the hardest natural substance on Earth?",
+            "options": [
+                "Gold",
+                "Iron",
+                "Diamond",
+                "Quartz"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Diamond is a solid form of carbon with its atoms arranged in a crystal structure that makes it the hardest known natural material.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13769,
+            "question_text": "Who was the first person to step on the Moon?",
+            "options": [
+                "Yuri Gagarin",
+                "Buzz Aldrin",
+                "Neil Armstrong",
+                "John Glenn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Neil Armstrong was the American astronaut who became the first human to walk on the moon in 1969.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13770,
+            "question_text": "Which currency is used in the United Kingdom?",
+            "options": [
+                "Euro",
+                "Dollar",
+                "Pound Sterling",
+                "Franc"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Pound Sterling (GBP) is the official currency of the United Kingdom.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

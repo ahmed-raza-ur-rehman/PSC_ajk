@@ -1,0 +1,179 @@
+{
+    "category": "PPSC",
+    "name": "Pakistan Studies",
+    "board": "ppsc",
+    "subject": "pakistan-studies",
+    "url": "/ppsc/pakistan-studies/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9742,
+            "question_text": "When was the Punjab Transparency & Right to Information Act passed?",
+            "options": [
+                "2010",
+                "2013",
+                "2015",
+                "2018"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Punjab Transparency & Right to Information Act was passed in 2013 to provide procedures for citizens to access public information.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9743,
+            "question_text": "Which institution regulates the recruitment policy in the province of Punjab?",
+            "options": [
+                "The Judiciary",
+                "The S&GAD (Services & General Administration Department)",
+                "The Election Commission of Pakistan",
+                "The Board of Revenue"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "S&GAD is the department that manages the civil services and guidelines for recruitment across the Punjab government.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9744,
+            "question_text": "Who was the first Governor-General of Pakistan?",
+            "options": [
+                "Liaquat Ali Khan",
+                "Allama Iqbal",
+                "Quaid-e-Azam Muhammad Ali Jinnah",
+                "Khawaja Nazimuddin"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Muhammad Ali Jinnah served as the first Governor-General of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9745,
+            "question_text": "In which year was the Objective Resolution passed?",
+            "options": [
+                "1947",
+                "1948",
+                "1949",
+                "1950"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Objectives Resolution was passed by the Constituent Assembly in 1949.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9746,
+            "question_text": "Who is known as the poet of the East?",
+            "options": [
+                "Faiz Ahmed Faiz",
+                "Allama Muhammad Iqbal",
+                "Mirza Ghalib",
+                "Habib Jalib"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Allama Iqbal is celebrated as the national poet of Pakistan and the poet of the East.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9747,
+            "question_text": "Which is the national language of Pakistan?",
+            "options": [
+                "English",
+                "Punjabi",
+                "Urdu",
+                "Sindhi"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Urdu is the official national language of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9748,
+            "question_text": "Which mountain range is located in the north of Pakistan?",
+            "options": [
+                "Himalayas",
+                "Karakoram",
+                "Hindukush",
+                "All of the above"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Pakistan is home to the Karakoram, Himalayas, and Hindukush mountain ranges.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9749,
+            "question_text": "What is the total area of Pakistan in square kilometers?",
+            "options": [
+                "796,095",
+                "881,913",
+                "920,000",
+                "750,000"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The approximate total land area of Pakistan is 796,095 square kilometers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9750,
+            "question_text": "When did Pakistan win the Cricket World Cup?",
+            "options": [
+                "1987",
+                "1992",
+                "1999",
+                "2009"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pakistan won its first and only ICC Cricket World Cup title in 1992 under Imran Khan's captaincy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9751,
+            "question_text": "Which province of Pakistan has the largest population?",
+            "options": [
+                "Balochistan",
+                "Sindh",
+                "Punjab",
+                "Khyber Pakhtunkhwa"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Punjab is the most populous province of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9752,
+            "question_text": "Who was the first Prime Minister of Pakistan?",
+            "options": [
+                "Zulfikar Ali Bhutto",
+                "Liaquat Ali Khan",
+                "Ayub Khan",
+                "Benazir Bhutto"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Liaquat Ali Khan was the inaugural Prime Minister of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9753,
+            "question_text": "Which city is known as the 'City of Lights'?",
+            "options": [
+                "Lahore",
+                "Islamabad",
+                "Karachi",
+                "Peshawar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Karachi is famously known as the City of Lights.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

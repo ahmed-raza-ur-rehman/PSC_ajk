@@ -1,0 +1,361 @@
+{
+    "category": "International Mathematical Olympiad Association",
+    "name": "Day 1 Examination",
+    "board": "international-mathematical-olympiad-association",
+    "subject": "day-1-examination",
+    "url": "/international-mathematical-olympiad-association/day-1-examination/2026/subject-mcqs",
+    "country": "00",
+    "totalQuestions": 25,
+    "questions": [
+        {
+            "id": 10238,
+            "question_text": "In the IMO Day 1 exam, how many problems are contestants expected to solve?",
+            "options": [
+                "1 problem",
+                "3 problems",
+                "6 problems",
+                "4 problems"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The competition format specifies 3 problems per day over two days.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10239,
+            "question_text": "How much time do students have to complete the 3 problems on Day 1?",
+            "options": [
+                "3 hours",
+                "4 hours",
+                "4.5 hours",
+                "6 hours"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Contestants are given four and a half hours for each of the two examination days.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10240,
+            "question_text": "Are calculators allowed during the Day 1 examination?",
+            "options": [
+                "Yes, basic calculators only",
+                "Yes, scientific calculators only",
+                "No electronic aids are permitted",
+                "Only for specific problems"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "IMO regulations state that no calculators or electronic aids are permitted during the exam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10241,
+            "question_text": "What is the maximum number of points a contestant can earn for a single problem?",
+            "options": [
+                "5 points",
+                "7 points",
+                "10 points",
+                "42 points"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each problem is marked on a 0-7 scale, meaning the maximum for one problem is 7.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10242,
+            "question_text": "What is the planned difficulty progression for the IMO exam problems?",
+            "options": [
+                "1, 2, 3, 4, 5, 6 in order",
+                "1, 4, 2, 5, 3, 6",
+                "Randomized difficulty",
+                "6, 5, 4, 3, 2, 1"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The difficulty progression used by the Jury follows the order 1, 4, 2, 5, 3, 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10243,
+            "question_text": "How many problems are contestants required to solve on each exam day?",
+            "options": [
+                "3",
+                "4",
+                "6",
+                "8"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The competition format consists of two days, with 3 problems to be solved on each day.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10244,
+            "question_text": "What is the duration allotted for students to complete the problems on Day 1?",
+            "options": [
+                "3 hours",
+                "4 hours",
+                "4.5 hours",
+                "5 hours"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Contestants are given 4.5 hours on each of the two days to work on the three problems.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10245,
+            "question_text": "Are electronic calculators permitted in the examination hall?",
+            "options": [
+                "Yes, if they are non-graphing",
+                "Yes, all models are allowed",
+                "No, no electronic aids are permitted",
+                "Only simple arithmetic calculators"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The IMO regulations strictly prohibit the use of calculators or any other electronic aids.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10246,
+            "question_text": "What is the maximum number of points a contestant can receive for one problem?",
+            "options": [
+                "6",
+                "7",
+                "10",
+                "42"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each problem is scored on a scale of 0 to 7 points.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10247,
+            "question_text": "Which mathematical areas are typically represented in the IMO problems?",
+            "options": [
+                "Calculus, Linear Algebra, and Logic",
+                "Algebra, Combinatorics, Geometry, and Number Theory",
+                "Statistics, Trigonometry, and Probability",
+                "Physics, Chemistry, and Math"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IMO problems are chosen from these four core areas of secondary school mathematics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10248,
+            "question_text": "Are the exam papers on the second day different from the first?",
+            "options": [
+                "Yes, they cover three additional, distinct problems",
+                "No, the same problems are given",
+                "Only one problem is different",
+                "They contain similar problems but with different numbers"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The exam takes place over two consecutive days, with three unique problems provided on each day, totaling six problems.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10249,
+            "question_text": "What is the maximum total score a contestant can earn in the competition?",
+            "options": [
+                "21",
+                "36",
+                "42",
+                "60"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "With 6 problems worth 7 points each, the maximum possible total score is 6 * 7 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10250,
+            "question_text": "What type of response is required for the exam problems?",
+            "options": [
+                "Multiple-choice answers only",
+                "Numerical answers only",
+                "Complete, written-out mathematical proofs",
+                "Short-answer paragraphs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Full marks require a complete, correct, and well-justified mathematical argument or proof.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10251,
+            "question_text": "Who is responsible for the international coordination process of marking?",
+            "options": [
+                "The IMO Board",
+                "The Host Country coordinators",
+                "Each team's own Leader",
+                "The Ethics Committee"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The host organization provides coordinators who work with team leaders to finalize scores for each student.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10252,
+            "question_text": "What is the official language policy of the IMO?",
+            "options": [
+                "Only English is used",
+                "English and French only",
+                "English, French, German, Russian, and Spanish",
+                "Only the host country's language"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "These five languages are recognized as the official languages of the International Mathematical Olympiad.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10253,
+            "question_text": "How is the difficulty of problems structured in the IMO?",
+            "options": [
+                "Randomly assigned",
+                "Increasing difficulty from 1 to 6",
+                "1-3 are easy, 4-6 are hard",
+                "Alternating difficulty based on topic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The IMO follows a planned difficulty progression, generally moving from more accessible to more challenging problems.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10254,
+            "question_text": "What happens if a student needs to leave the room during the exam?",
+            "options": [
+                "They can return at any time",
+                "They must be supervised by an invigilator",
+                "They are disqualified immediately",
+                "They can leave only during the final 15 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Exam security protocols require constant supervision of contestants whenever they are out of the room.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10255,
+            "question_text": "Who are the members of the IMO Jury?",
+            "options": [
+                "Contestants",
+                "Team Leaders",
+                "Host Country Coordinators",
+                "The Ethics Committee"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Jury consists of the team leaders from all participating countries.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10256,
+            "question_text": "Which organization provides the overall direction and policy for the IMO?",
+            "options": [
+                "The IMO Office",
+                "The IMO Board",
+                "The Curriculum Committee",
+                "The Ethics Committee"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The IMO Board is the body responsible for setting the overall policy and direction of the competition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10257,
+            "question_text": "How many contestants can a single country send to the IMO?",
+            "options": [
+                "Up to 3",
+                "Up to 6",
+                "Up to 10",
+                "Exactly 1"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each participating country is invited to send a team consisting of up to six contestants.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10258,
+            "question_text": "When was the first International Mathematical Olympiad held?",
+            "options": [
+                "1950",
+                "1959",
+                "1965",
+                "1970"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The inaugural IMO took place in Romania in 1959.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10259,
+            "question_text": "How are medals (gold, silver, bronze) awarded at the IMO?",
+            "options": [
+                "Based on fixed score cutoffs",
+                "Top 50% receive medals in a 1:2:3 ratio",
+                "Top 100 students receive gold",
+                "Based on random selection"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Medals are given to approximately half the contestants in a 1:2:3 ratio for gold, silver, and bronze.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10260,
+            "question_text": "What is required for a student to receive an Honourable Mention?",
+            "options": [
+                "Scoring 1 point on any problem",
+                "Scoring 7 points on at least one problem",
+                "Being in the top 50%",
+                "Solving every problem partially"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Honourable mentions are awarded to those who don't get a medal but achieve a perfect score on at least one problem.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10261,
+            "question_text": "Can a student compete in the IMO if they are enrolled in a university?",
+            "options": [
+                "Yes, with permission",
+                "No, they must not be enrolled in post-secondary education",
+                "Yes, if they are under 20",
+                "Only during their first year"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Contestants must not be enrolled in any post-secondary educational institution to be eligible.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10262,
+            "question_text": "Who appoints the Problem Selection Committee?",
+            "options": [
+                "The IMO Board",
+                "The Host Organisation",
+                "The Jury",
+                "The Ethics Committee"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The host organization is responsible for appointing the committee that reviews submitted problems.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

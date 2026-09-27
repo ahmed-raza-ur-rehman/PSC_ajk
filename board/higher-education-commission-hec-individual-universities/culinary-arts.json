@@ -1,0 +1,151 @@
+{
+    "category": "Higher Education Commission (HEC) / Individual Universities",
+    "name": "Culinary Arts",
+    "board": "higher-education-commission-hec-individual-universities",
+    "subject": "culinary-arts",
+    "url": "/higher-education-commission-hec-individual-universities/culinary-arts/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11693,
+            "question_text": "What does the culinary term 'mise en place' translate to in English?",
+            "options": [
+                "To cook with care",
+                "Everything in its place",
+                "The master sauce",
+                "Seasoning the pan"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mise en place is a French term meaning 'putting in place,' referring to the preparation of ingredients before cooking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11694,
+            "question_text": "Which of the following is considered a 'mother sauce' in French cuisine?",
+            "options": [
+                "Hollandaise",
+                "Teriyaki",
+                "Pesto",
+                "Barbecue"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Hollandaise is one of the five French mother sauces, along with Béchamel, Velouté, Espagnole, and Tomate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11695,
+            "question_text": "Which temperature range is known as the 'Danger Zone' for bacterial growth in food?",
+            "options": [
+                "0°C to 5°C (32°F to 41°F)",
+                "5°C to 60°C (41°F to 140°F)",
+                "60°C to 80°C (140°F to 176°F)",
+                "100°C and above (212°F+)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The temperature danger zone is the range where pathogens grow most rapidly in food products.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11696,
+            "question_text": "What is the function of 'emulsification' in cooking?",
+            "options": [
+                "To freeze liquids rapidly",
+                "To combine two immiscible liquids, like oil and vinegar, into a stable mixture",
+                "To dehydrate ingredients using high heat",
+                "To increase the saltiness of a broth"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Emulsification is the process of dispersing one liquid in another with which it is typically immiscible.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11697,
+            "question_text": "Which of the following describes the 'al dente' cooking technique?",
+            "options": [
+                "Cooked until the food is mushy and soft",
+                "Cooked until firm to the bite",
+                "Cooked over an open flame for charring",
+                "Cooked in an oxygen-free environment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Al dente is an Italian term describing pasta or vegetables cooked to be firm when bitten.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11698,
+            "question_text": "What is the primary ingredient in a classic 'roux'?",
+            "options": [
+                "Butter and flour",
+                "Egg yolks and lemon juice",
+                "Tomato paste and garlic",
+                "Heavy cream and sugar"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A roux is a cooked mixture of equal parts flour and fat (usually butter), used as a thickening agent for sauces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11699,
+            "question_text": "Which knife cut is commonly referred to as a 'matchstick' shape?",
+            "options": [
+                "Brunoise",
+                "Julienne",
+                "Chiffonade",
+                "Macedoine"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Julienne is a culinary knife cut where food is cut into long, thin strips, resembling matchsticks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11700,
+            "question_text": "Which chemical process occurs when proteins and sugars in food are heated, producing a distinct brown color and complex flavor?",
+            "options": [
+                "Caramelization",
+                "Maillard reaction",
+                "Oxidation",
+                "Fermentation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11701,
+            "question_text": "What is the main purpose of 'deglazing' a pan?",
+            "options": [
+                "To cool the pan down quickly",
+                "To remove charred bits for cleaning",
+                "To incorporate flavor-rich browned food particles into a sauce",
+                "To prevent the protein from burning"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Deglazing involves adding liquid to a hot pan to lift the 'fond' (browned bits) from the bottom, creating a base for a flavorful sauce.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11702,
+            "question_text": "Which of these cooking techniques involves cooking food in a vacuum-sealed bag in a temperature-controlled water bath?",
+            "options": [
+                "Confit",
+                "Sous-vide",
+                "Braising",
+                "Poaching"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sous-vide is a method of cooking where food is sealed in airtight bags and cooked in a water bath at a precise temperature.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

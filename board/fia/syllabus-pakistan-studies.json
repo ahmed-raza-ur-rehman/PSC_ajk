@@ -1,0 +1,403 @@
+{
+    "category": "FIA",
+    "name": "Syllabus — Pakistan Studies",
+    "board": "fia",
+    "subject": "syllabus-pakistan-studies",
+    "url": "/fia/syllabus-pakistan-studies/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 28,
+    "questions": [
+        {
+            "id": 1338,
+            "question_text": "Which modern university requires a specialized aptitude test alongside academic records, mimicking the structure of tests like those used by NUST and COMSATS?",
+            "options": [
+                "Quaid-e-Azam University (QAU)",
+                "University of Engineering & Technology (UET)",
+                "National University of Sciences and Technology (NUST)",
+                "Lahore University of Technology (LUT)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "NUST is well-known for its structured admissions process that includes specialized aptitude and academic testing alongside results.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1339,
+            "question_text": "The Indus Valley Civilization (IVC) primarily thrived in which major river system basin, giving rise to early urban planning in the region?",
+            "options": [
+                "Sutlej-Ravi basin",
+                "Indus River basin",
+                "Lahore River basin",
+                "Chenab-Jhelum basin"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The core sites of the IVC, such as Mohenjo-Daro and Harappa, were located along the Indus River.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1340,
+            "question_text": "During the early constitutional negotiations leading to Pakistan, which political figure was instrumental in advocating for the principle of 'divide and rule' to be avoided in the state setup?",
+            "options": [
+                "Allama Iqbal",
+                "Khawaja Nazimuddin",
+                "Liaquat Ali Khan",
+                "Muhammad Ali Jinnah"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Muhammad Ali Jinnah was the chief proponent of an inclusive, unified Pakistani identity that rejected internal divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1341,
+            "question_text": "In terms of administrative efficiency and bureaucratic standards tested in civil service exams, which body is mandated to conduct routine recruitment for provincial government posts?",
+            "options": [
+                "Provincial Public Service Commission (PPSC)",
+                "Board of Intermediate and Secondary Education (BISE)",
+                "National Accountability Bureau (NAB)",
+                "Local Government Commission (LGC)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "PPSC (or corresponding provincial bodies) are the primary authorities for provincial-level civil service recruitment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1342,
+            "question_text": "What key characteristic defines the cultural synthesis resulting from the historical exchange between Persian and Islamic traditions in Pakistan?",
+            "options": [
+                "Emphasis on abstract philosophy",
+                "Adoption of rigid legal codes",
+                "Rich literary forms (e.g., poetry and miniature painting)",
+                "Purely tribal governance systems"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The syncretic nature of Pakistani art and literature draws heavily from Persian poetic traditions and Islamic motifs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1343,
+            "question_text": "The committee members disagreed among themselves, making it difficult for them to reach a unified conclusion. What is the most grammatically appropriate preposition to use in the blank? The committee members disagreed ______ themselves.",
+            "options": [
+                "between",
+                "from",
+                "to",
+                "among"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Use 'among' when disagreement involves three or more members or groups.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1344,
+            "question_text": "Which word is the synonym for 'placid'?",
+            "options": [
+                "turbulent",
+                "agitated",
+                "volatile",
+                "serene"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "'Placid' means calm or peaceful; 'serene' is the closest synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1345,
+            "question_text": "If she ______ the warning, the accident ______.",
+            "options": [
+                "would listen, avoided",
+                "had listened, would have avoided",
+                "listened, would avoid",
+                "listens, will avoid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This is a third conditional structure (Type 3): Had + Past Participle, would have + Past Participle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1346,
+            "question_text": "Choose the antonym for 'ephemeral'.",
+            "options": [
+                "fleeting",
+                "permanent",
+                "transient",
+                "momentary"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Ephemeral' means lasting for a very short time; 'permanent' is the antonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1347,
+            "question_text": "When facing difficult negotiations, the team decided to ______ their differences rather than ignore them.",
+            "options": [
+                "overlook",
+                "squash",
+                "abate",
+                "address"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "To 'address' differences means to deal with or discuss them; 'squash' is too aggressive.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1348,
+            "question_text": "The manager advised the staff to submit the reports ______ the end of the day.",
+            "options": [
+                "at",
+                "in",
+                "from",
+                "by"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The preposition 'by' indicates a deadline or point in time before which something must be completed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1349,
+            "question_text": "Which spelling is correct?",
+            "options": [
+                "accomodate",
+                "acommodate",
+                "aocommodate",
+                "accommodate"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The correct spelling requires double 'c' and double 'm': accommodate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1350,
+            "question_text": "The speaker presented his theories with great passion, and he was excellent in analyzing data and writing reports.",
+            "options": [
+                "and was",
+                "and",
+                "and, was",
+                "was also"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sentence requires parallelism. Since the list includes presenting and analyzing, the simplest conjunction ('and') works best.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1351,
+            "question_text": "The rapid growth of the city necessitated the immediate ______ of public utilities.",
+            "options": [
+                "upgraded",
+                "upgrading",
+                "upgrade",
+                "up-grading"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "After the article 'the', a noun is required (the immediate upgrade), making 'upgrade' the correct form.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2389,
+            "question_text": "In the context of Pakistani public service examinations, which body is primarily responsible for recruiting employees for the federal civil service through competitive tests?",
+            "options": [
+                "Punjab Public Service Commission (PPSC)",
+                "Civil Superior Services Board (CSSB)",
+                "Federal Public Service Commission (FPSC)",
+                "National Testing Service (NTS)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "FPSC is the apex body constitutionally tasked with recruiting personnel for the federal government services.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2390,
+            "question_text": "The core objective of integrating Pakistan Studies into university entry tests (like NUST or COMSATS) is primarily to:",
+            "options": [
+                "Gauge the candidate's understanding of national identity and history.",
+                "Test advanced literary composition skills.",
+                "Assess the candidate's proficiency in foreign languages.",
+                "Determine the applicant's aptitude for advanced mathematics."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "University entry tests use Pakistan Studies to assess general knowledge about the country's history and identity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2393,
+            "question_text": "Which type of sentence structure is characterized by having one independent clause and one or more dependent clauses?",
+            "options": [
+                "Compound-Complex",
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A complex sentence contains one independent clause and at least one dependent clause.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2395,
+            "question_text": "Identify the error in the sentence: 'Neither the students nor the teacher are present today.'",
+            "options": [
+                "Neither the",
+                "students nor the",
+                "present today",
+                "teacher are"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The subject-verb agreement rule for 'Neither...nor' requires the verb to agree with the closest subject, so 'teacher is' is correct.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2396,
+            "question_text": "Fill in the blank with the most appropriate preposition: The committee members were divided _______ their differing opinions.",
+            "options": [
+                "between",
+                "among",
+                "by",
+                "for"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When dividing among more than two people (committee members), 'among' is the correct preposition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2750,
+            "question_text": "When preparing for examinations like the PPSC or SPSC, which aspect of Pakistan Studies is most crucial for a BS-13 grade position?",
+            "options": [
+                "Geological analysis of mountain ranges in Pakistan.",
+                "Detailed knowledge of ancient pre-Islamic civilizations.",
+                "Understanding administrative structures and governance mechanisms.",
+                "Advanced comparative literature analysis of Urdu poetry."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Administrative roles require knowledge of governance, legal frameworks, and institutional operations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2751,
+            "question_text": "Due to the heavy fog, the flight was ______ for three hours.",
+            "options": [
+                "delays",
+                "delaying",
+                "delayed",
+                "delay"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The structure 'was/were' requires the past participle form of the verb (passive voice), hence 'delayed'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2755,
+            "question_text": "The phrase 'to paint the town red' is an example of:",
+            "options": [
+                "Alliteration",
+                "Hyperbole",
+                "Idiom",
+                "Oxymoron"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An idiom is a phrase whose meaning cannot be understood from the individual words (e.g., celebrating wildly).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3211,
+            "question_text": "If an examinee is preparing for a general entrance test (like NTS or GAT), and the syllabus requires understanding modern Pakistani art movements, it falls under which category of Pakistan Studies knowledge?",
+            "options": [
+                "Classical Philosophy and Logic.",
+                "Cultural History and Contemporary Arts.",
+                "Advanced Sanskrit Grammar.",
+                "Pre-historic Paleontology."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Modern art movements are considered part of the cultural and intellectual evolution of the nation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3213,
+            "question_text": "Which word is the antonym of 'ubiquitous'?",
+            "options": [
+                "Pervasive",
+                "Rare",
+                "Omnipresent",
+                "Prevalent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Ubiquitous' means present everywhere; 'Rare' means seldom found, making it the opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4135,
+            "question_text": "Choose the correct synonym for 'ephemeral'.",
+            "options": [
+                "Eternal",
+                "Significant",
+                "Perpetual",
+                "Momentary"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "'Ephemeral' means lasting for a very short time, making 'Momentary' the correct synonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5004,
+            "question_text": "A typical university entrance test (e.g., FAST or LUMS) uses Pakistan Studies questions to gauge which primary skill?",
+            "options": [
+                "Interdisciplinary synthesis of history, geography, and socio-economics.",
+                "Memorization of biological taxonomy charts.",
+                "Fluency in archaic Greek dialects.",
+                "Ability to solve complex algebraic equations."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "These tests assess general intelligence and the ability to synthesize knowledge across multiple academic fields.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5005,
+            "question_text": "Which institution frequently tests knowledge on constitutional and administrative law, mirroring the scope required for administrative roles like Upper Division Clerk?",
+            "options": [
+                "NUST",
+                "FAST",
+                "FPSC",
+                "UET"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "FPSC (Federal Public Service Commission) sets standards for civil service exams, often covering constitutional and administrative law.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5620,
+            "question_text": "In grammar, what grammatical case is the word 'whom' used to indicate?",
+            "options": [
+                "Objective case",
+                "Direct object",
+                "Nominative case",
+                "Indirect object"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "'Whom' is the objective case pronoun, used when the pronoun is the object of a verb or preposition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

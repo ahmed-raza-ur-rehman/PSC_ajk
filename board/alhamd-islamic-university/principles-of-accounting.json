@@ -1,0 +1,179 @@
+{
+    "category": "Alhamd Islamic University",
+    "name": "Principles of Accounting",
+    "board": "alhamd-islamic-university",
+    "subject": "principles-of-accounting",
+    "url": "/alhamd-islamic-university/principles-of-accounting/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12345,
+            "question_text": "Which financial statement reports the financial position of a business at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Cash Flow Statement",
+                "Balance Sheet",
+                "Retained Earnings Statement"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Balance Sheet lists assets, liabilities, and equity to show what a company owns and owes at a specific date.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12346,
+            "question_text": "What is the basic accounting equation?",
+            "options": [
+                "Assets = Liabilities + Owner's Equity",
+                "Assets + Liabilities = Owner's Equity",
+                "Assets = Liabilities - Owner's Equity",
+                "Revenue - Expenses = Assets"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This fundamental equation must always remain in balance, representing the dual entry nature of accounting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12347,
+            "question_text": "Which principle dictates that expenses should be recorded in the same period as the revenues they help generate?",
+            "options": [
+                "Matching Principle",
+                "Going Concern Principle",
+                "Revenue Recognition Principle",
+                "Cost Principle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The matching principle requires that costs incurred to produce revenue be recognized in the same accounting period as the revenue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12348,
+            "question_text": "If a business buys office supplies on credit, how is this transaction recorded?",
+            "options": [
+                "Debit Cash, Credit Supplies",
+                "Debit Supplies, Credit Accounts Payable",
+                "Debit Accounts Payable, Credit Supplies",
+                "Debit Supplies, Credit Cash"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Purchasing supplies increases an asset (Debit) and increases a liability (Credit) when purchased on credit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12349,
+            "question_text": "Which account is considered a contra-asset account?",
+            "options": [
+                "Accounts Payable",
+                "Accumulated Depreciation",
+                "Prepaid Insurance",
+                "Common Stock"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Accumulated depreciation is a contra-asset account that reduces the book value of a fixed asset.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12350,
+            "question_text": "What is the primary purpose of a Trial Balance?",
+            "options": [
+                "To prove that total debits equal total credits",
+                "To calculate net income",
+                "To determine the value of assets",
+                "To list all business expenses"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Trial Balance is a report listing all ledger account balances to ensure the accounting equation remains in balance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12351,
+            "question_text": "Which of the following is NOT an element of the accounting equation?",
+            "options": [
+                "Assets",
+                "Liabilities",
+                "Equity",
+                "Revenue"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The fundamental accounting equation is Assets = Liabilities + Equity. Revenue affects equity over time but is not a component of the base equation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12352,
+            "question_text": "Which accounting concept assumes that a business will continue to operate indefinitely?",
+            "options": [
+                "Consistency Concept",
+                "Going Concern Concept",
+                "Matching Principle",
+                "Accrual Concept"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Going Concern concept assumes the business will remain in operation for the foreseeable future and not liquidate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12353,
+            "question_text": "When a company collects cash from a customer for services provided in a previous month, which entry is made?",
+            "options": [
+                "Debit Cash, Credit Revenue",
+                "Debit Accounts Receivable, Credit Cash",
+                "Debit Cash, Credit Accounts Receivable",
+                "Debit Revenue, Credit Cash"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since the service was already provided, the debt was previously recorded as Accounts Receivable. Collecting cash removes this asset and adds Cash.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12354,
+            "question_text": "What is the purpose of the 'General Ledger'?",
+            "options": [
+                "To list every transaction chronologically",
+                "To summarize all accounting transactions by account",
+                "To verify the math of the balance sheet",
+                "To record non-financial business events"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The General Ledger is a record of all accounts used by a business, showing the balance of each individual account.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12355,
+            "question_text": "Which of the following accounts normally has a credit balance?",
+            "options": [
+                "Cash",
+                "Prepaid Rent",
+                "Accounts Payable",
+                "Office Equipment"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Liabilities, like Accounts Payable, increase with credits and have credit balances.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12356,
+            "question_text": "Depreciation expense is a process of:",
+            "options": [
+                "Valuing an asset at market price",
+                "Allocating the cost of a tangible asset over its useful life",
+                "Reducing the cash balance of a firm",
+                "Paying off a long-term loan"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Depreciation is the systematic allocation of the cost of a fixed asset over the period it is expected to be used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

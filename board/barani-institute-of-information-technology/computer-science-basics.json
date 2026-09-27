@@ -1,0 +1,179 @@
+{
+    "category": "Barani Institute of Information Technology",
+    "name": "Computer Science Basics",
+    "board": "barani-institute-of-information-technology",
+    "subject": "computer-science-basics",
+    "url": "/barani-institute-of-information-technology/computer-science-basics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 13883,
+            "question_text": "Which data structure follows the Last-In-First-Out (LIFO) principle?",
+            "options": [
+                "Queue",
+                "Linked List",
+                "Stack",
+                "Binary Tree"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A stack is a linear data structure that operates on the LIFO principle, where the last element added is the first one removed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13884,
+            "question_text": "In the context of complexity analysis, what does Big O notation represent?",
+            "options": [
+                "The best-case execution time",
+                "The memory usage of a program",
+                "The upper bound of an algorithm's growth rate",
+                "The average hardware latency"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Big O notation is used to describe the limiting behavior or the worst-case scenario of a function as its input grows toward infinity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13885,
+            "question_text": "Which layer of the OSI model is responsible for routing and logical addressing?",
+            "options": [
+                "Data Link",
+                "Network",
+                "Transport",
+                "Physical"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Network layer (Layer 3) handles packet routing and IP addressing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13886,
+            "question_text": "What is the purpose of the 'break' statement in a loop?",
+            "options": [
+                "To pause the execution of the loop",
+                "To exit the loop entirely",
+                "To skip the current iteration",
+                "To return an error"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The break statement terminates the execution of the loop it is inside.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13887,
+            "question_text": "Which search algorithm has a time complexity of O(log n) on sorted arrays?",
+            "options": [
+                "Linear search",
+                "Binary search",
+                "Bubble sort",
+                "Depth-First search"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Binary search divides the search interval in half each step, leading to O(log n).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13888,
+            "question_text": "What is the primary function of an Operating System kernel?",
+            "options": [
+                "To provide a user interface",
+                "To manage hardware and system resources",
+                "To compile source code",
+                "To host web applications"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The kernel is the core component that bridges software and hardware.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13889,
+            "question_text": "Which memory type is volatile?",
+            "options": [
+                "SSD",
+                "HDD",
+                "RAM",
+                "ROM"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "RAM (Random Access Memory) requires power to maintain the stored information.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13890,
+            "question_text": "Which of these is a low-level programming language?",
+            "options": [
+                "Python",
+                "Assembly",
+                "Java",
+                "Ruby"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Assembly is very close to machine code and hardware, making it a low-level language.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13891,
+            "question_text": "What is the result of 5 XOR 3 in binary arithmetic?",
+            "options": [
+                "6",
+                "7",
+                "2",
+                "0"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "5 is 101, 3 is 011. XOR result is 110, which is 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13892,
+            "question_text": "What does SQL stand for?",
+            "options": [
+                "Standard Query Logic",
+                "Structured Query Language",
+                "Sequential Query Language",
+                "System Query Link"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SQL is the standard language for managing relational databases.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13893,
+            "question_text": "Which of the following is an example of a NoSQL database?",
+            "options": [
+                "MySQL",
+                "PostgreSQL",
+                "MongoDB",
+                "Oracle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "MongoDB is a document-oriented database, classified as NoSQL.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13894,
+            "question_text": "Which protocol is typically used for secure web browsing?",
+            "options": [
+                "HTTP",
+                "FTP",
+                "HTTPS",
+                "SMTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "HTTPS adds a layer of SSL/TLS encryption to HTTP.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

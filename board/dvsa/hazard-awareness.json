@@ -1,0 +1,95 @@
+{
+    "category": "DVSA",
+    "name": "Hazard Awareness",
+    "board": "dvsa",
+    "subject": "hazard-awareness",
+    "url": "/dvsa/hazard-awareness/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 6,
+    "questions": [
+        {
+            "id": 6868,
+            "question_text": "What is considered a 'developing hazard' on the road?",
+            "options": [
+                "A parked car on the side of the road",
+                "A ball bouncing into the road",
+                "A clear, straight road",
+                "A standard speed limit sign"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A developing hazard is something that requires you to take action, such as slowing down or changing course.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6869,
+            "question_text": "When completing the hazard perception test, when should you click the mouse?",
+            "options": [
+                "Only when a collision is about to occur",
+                "As soon as you see a potential hazard",
+                "As soon as you see a developing hazard that requires you to change speed or direction",
+                "Every 5 seconds regardless of the road"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Points are awarded based on how quickly you identify the hazard as it develops, so you should click the moment you recognize a need to adjust your driving.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8422,
+            "question_text": "What is considered a developing hazard?",
+            "options": [
+                "A parked car on a quiet road",
+                "A cyclist emerging from a junction",
+                "A green traffic light",
+                "A road sign showing speed limit"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A developing hazard is something that requires you to change your speed or direction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8423,
+            "question_text": "What defines a 'developing hazard' in the hazard perception test?",
+            "options": [
+                "Something that is already clearly visible",
+                "A situation that would require you to take action, like changing speed or direction",
+                "Any road sign that indicates a junction",
+                "A parked car on a quiet road"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A developing hazard is one that is in the process of changing and will likely force you to adjust your driving.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8424,
+            "question_text": "How would you describe a 'developing hazard' in the context of the hazard perception test?",
+            "options": [
+                "Any stationary vehicle on the road",
+                "A situation that may require you to change your speed or direction",
+                "A road sign that gives you a warning",
+                "Heavy traffic congestion"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A developing hazard is something that changes the situation and forces you to take action, such as braking or steering.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8425,
+            "question_text": "Which of the following is considered a developing hazard?",
+            "options": [
+                "A parked car that remains stationary",
+                "A cyclist moving out from behind a parked vehicle",
+                "A road sign showing a speed limit",
+                "A roundabout you are about to approach"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The cyclist's movement forces you to react to ensure safety, marking it as a developing hazard.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

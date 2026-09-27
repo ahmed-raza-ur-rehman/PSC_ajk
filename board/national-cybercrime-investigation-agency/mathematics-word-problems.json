@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Mathematics — Word Problems",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "mathematics-word-problems",
+    "url": "/national-cybercrime-investigation-agency/mathematics-word-problems/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14582,
+            "question_text": "In the context of Pakistan's legal framework for cybercrime prevention, which law is the primary legislation that empowers authorities to tackle electronic fraud and misuse of digital mediums?",
+            "options": [
+                "The Prevention of Electronic Crimes Act (PECA) 2016",
+                "The Anti-Money Laundering Act (AMLA)",
+                "The Pakistan Penal Code (PPC) amendments",
+                "The Telecommunications Policy 2012"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Prevention of Electronic Crimes Act (PECA) is the foundational law governing cybercrime and related offenses in Pakistan, providing the legal toolkit for digital security.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

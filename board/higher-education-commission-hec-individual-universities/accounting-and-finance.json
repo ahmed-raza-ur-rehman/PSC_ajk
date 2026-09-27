@@ -1,0 +1,151 @@
+{
+    "category": "Higher Education Commission (HEC) / Individual Universities",
+    "name": "Accounting and Finance",
+    "board": "higher-education-commission-hec-individual-universities",
+    "subject": "accounting-and-finance",
+    "url": "/higher-education-commission-hec-individual-universities/accounting-and-finance/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11663,
+            "question_text": "Which financial statement provides a snapshot of a company's financial position at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Statement of Cash Flows",
+                "Balance Sheet",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Balance Sheet reports assets, liabilities, and equity at a single point in time, unlike the income statement which covers a period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11664,
+            "question_text": "What is the primary purpose of 'double-entry' bookkeeping?",
+            "options": [
+                "To track tax liabilities twice",
+                "To ensure the accounting equation (Assets = Liabilities + Equity) remains in balance",
+                "To prevent human error in manual recording",
+                "To facilitate faster audits"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Double-entry bookkeeping requires that every debit has a corresponding credit, keeping the equation balanced.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11665,
+            "question_text": "What is the primary objective of the 'matching principle' in accrual accounting?",
+            "options": [
+                "To record expenses in the period in which the related revenue is earned",
+                "To ensure cash inflows match cash outflows exactly",
+                "To align the fiscal year with the calendar year",
+                "To report assets at their original purchase price"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The matching principle dictates that expenses must be reported in the same period as the revenues they helped to generate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11666,
+            "question_text": "Which ratio measures a company's ability to pay off its short-term liabilities with its most liquid assets?",
+            "options": [
+                "Debt-to-Equity Ratio",
+                "Quick Ratio",
+                "Return on Investment",
+                "Asset Turnover Ratio"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Quick Ratio, or acid-test ratio, excludes inventory from current assets to test immediate liquidity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11667,
+            "question_text": "What does an 'unfavorable' variance in standard costing suggest?",
+            "options": [
+                "Actual costs were lower than the budgeted costs",
+                "Actual revenues were higher than expected",
+                "Actual costs were higher than the budgeted costs",
+                "The company achieved economies of scale"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In cost accounting, a variance is unfavorable when costs exceed the standard or budget set for that period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11668,
+            "question_text": "In the context of the time value of money, what does discounting represent?",
+            "options": [
+                "Calculating the future value of a current sum",
+                "Adjusting for the effects of inflation on historical costs",
+                "Determining the present value of a future cash flow",
+                "Increasing the interest rate on a loan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Discounting is the process of finding the present value of a sum of money to be received in the future using a discount rate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11669,
+            "question_text": "What is the primary function of a 'Capital Budget'?",
+            "options": [
+                "Managing day-to-day employee payroll",
+                "Planning for long-term investments in fixed assets",
+                "Tracking small office supply expenses",
+                "Reconciling monthly bank statements"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Capital budgeting is the process a business uses to evaluate potential major projects or investments, such as new machinery or buildings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11670,
+            "question_text": "What is the accounting equation that represents the fundamental structure of a balance sheet?",
+            "options": [
+                "Assets = Liabilities + Owner's Equity",
+                "Assets + Liabilities = Equity",
+                "Revenue - Expenses = Profit",
+                "Cash Inflow = Cash Outflow"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The accounting equation states that a company's assets are funded by either borrowing (liabilities) or by the owners (equity).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11671,
+            "question_text": "Which financial metric represents the actual cash a company generates after accounting for capital expenditures?",
+            "options": [
+                "Net Income",
+                "Free Cash Flow",
+                "Operating Margin",
+                "Gross Profit"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Free Cash Flow is the cash left over after a company pays for operating expenses and capital expenditures, essential for dividends or growth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11672,
+            "question_text": "In finance, what does 'hedging' primarily aim to achieve?",
+            "options": [
+                "Maximizing speculative profit",
+                "Reducing or eliminating risk",
+                "Increasing debt leverage",
+                "Decreasing tax liabilities"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hedging is a strategy used to offset potential losses in an investment by taking an opposite position in a related asset.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "Rashid Latif Khan University",
+    "name": "Accounting Principles",
+    "board": "rashid-latif-khan-university",
+    "subject": "accounting-principles",
+    "url": "/rashid-latif-khan-university/accounting-principles/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13771,
+            "question_text": "Which accounting principle dictates that expenses should be recorded in the same period as the revenues they help generate?",
+            "options": [
+                "Going Concern Principle",
+                "Matching Principle",
+                "Cost Principle",
+                "Consistency Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The matching principle requires that expenses are reported in the same period in which the related revenues are earned.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13772,
+            "question_text": "If a company buys equipment for $10,000 cash, how does this affect the accounting equation?",
+            "options": [
+                "Assets increase by $10,000, Liabilities increase by $10,000",
+                "Assets increase by $10,000, Assets decrease by $10,000",
+                "Assets decrease by $10,000, Equity decreases by $10,000",
+                "No change to the accounting equation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "One asset (equipment) increases while another asset (cash) decreases by the same amount, keeping the equation balanced.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13773,
+            "question_text": "Which accounting principle suggests that financial statements should reflect the economic substance of transactions rather than just their legal form?",
+            "options": [
+                "Prudence",
+                "Substance over form",
+                "Consistency",
+                "Going concern"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This principle ensures that the accounting treatment reflects the actual economic reality of a transaction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13774,
+            "question_text": "Under the accrual basis of accounting, when should revenue be recognized?",
+            "options": [
+                "When cash is received from the customer",
+                "When the order is placed by the customer",
+                "When the performance obligation is satisfied",
+                "At the end of the accounting year"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Revenue recognition occurs when the company has transferred control of the goods or services to the customer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13775,
+            "question_text": "Which principle requires that a company use the same accounting methods period after period to allow for comparability?",
+            "options": [
+                "Consistency",
+                "Materiality",
+                "Full disclosure",
+                "Objectivity"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The consistency principle ensures that financial information is comparable over time within the same entity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13776,
+            "question_text": "Which concept assumes that an entity will continue to operate indefinitely?",
+            "options": [
+                "Going Concern Concept",
+                "Business Entity Concept",
+                "Periodicity Assumption",
+                "Monetary Unit Assumption"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Going Concern principle assumes the business will remain in operation for the foreseeable future, justifying the deferral of expenses and valuation of assets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13778,
+            "question_text": "Under the historical cost principle, how should assets generally be recorded on the balance sheet?",
+            "options": [
+                "At their fair market value",
+                "At the cash amount paid to acquire them",
+                "At the net realizable value",
+                "At the present value of future cash flows"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Historical cost principle requires that assets be recorded at the actual cash or equivalent amount paid at the time of acquisition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13779,
+            "question_text": "What is the primary purpose of the 'Full Disclosure' principle?",
+            "options": [
+                "To hide sensitive data from competitors",
+                "To provide all information necessary for users to understand the financial statements",
+                "To record only monetary transactions",
+                "To ensure all assets are valued at current market prices"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Full disclosure ensures that financial reports include sufficient information to prevent misleading stakeholders, including relevant notes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13780,
+            "question_text": "Which principle justifies the recording of small, inexpensive office supplies as expenses rather than assets?",
+            "options": [
+                "Prudence Principle",
+                "Materiality Principle",
+                "Consistency Principle",
+                "Revenue Recognition Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Materiality allows accountants to deviate from strict accounting standards if an item is so small that its treatment would not influence a reader's decision.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13781,
+            "question_text": "According to the Prudence (Conservatism) principle, how should accountants treat potential losses?",
+            "options": [
+                "Recognize them immediately when identified",
+                "Wait until the loss is realized before recording",
+                "Record them only if they exceed 10% of revenue",
+                "Offset them against future potential gains"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Prudence requires that businesses anticipate potential losses but only recognize gains when they are realized to avoid overstating the company's financial position.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

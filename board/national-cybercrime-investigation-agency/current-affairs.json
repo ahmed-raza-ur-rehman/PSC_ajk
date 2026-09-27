@@ -1,0 +1,221 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Current Affairs",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "current-affairs",
+    "url": "/national-cybercrime-investigation-agency/current-affairs/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 14320,
+            "question_text": "As of recent diplomatic updates, which country officially became the newest member of the Shanghai Cooperation Organisation (SCO)?",
+            "options": [
+                "Iran",
+                "Belarus",
+                "Turkey",
+                "Saudi Arabia"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Belarus officially joined the Shanghai Cooperation Organisation as a full member state during the summit in Astana.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14321,
+            "question_text": "Which country hosted the United Nations Climate Change Conference (COP28) in late 2023?",
+            "options": [
+                "Egypt",
+                "United Arab Emirates",
+                "Brazil",
+                "United Kingdom"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "COP28 was hosted by the United Arab Emirates in Expo City, Dubai.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14322,
+            "question_text": "Who assumed office as the Prime Minister of Pakistan following the February 2024 general elections?",
+            "options": [
+                "Anwaar-ul-Haq Kakar",
+                "Shehbaz Sharif",
+                "Imran Khan",
+                "Nawaz Sharif"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mian Muhammad Shehbaz Sharif was elected as the Prime Minister of Pakistan for a second term in March 2024.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14323,
+            "question_text": "Which tech company recently launched the advanced AI model family known as 'Gemini'?",
+            "options": [
+                "OpenAI",
+                "Microsoft",
+                "Google",
+                "Meta"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Gemini is a family of multimodal generative artificial intelligence models developed by Google.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14324,
+            "question_text": "Which nation successfully landed the Chandrayaan-3 spacecraft on the Moon's south pole in 2023?",
+            "options": [
+                "China",
+                "Russia",
+                "India",
+                "Japan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "India's space agency ISRO successfully landed Chandrayaan-3 near the lunar south pole, making it the first country to land in that region.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14325,
+            "question_text": "Who is the current Secretary-General of the United Nations as of recent terms?",
+            "options": [
+                "Ban Ki-moon",
+                "António Guterres",
+                "Kofi Annan",
+                "Stéphane Dujarric"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "António Guterres of Portugal is the ninth Secretary-General of the United Nations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14326,
+            "question_text": "Which global organization suspended Niger from its membership following the July 2023 military coup?",
+            "options": [
+                "NATO",
+                "ECOWAS",
+                "OPEC",
+                "ASEAN"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Economic Community of West African States (ECOWAS) suspended Niger after its government was overthrown.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14327,
+            "question_text": "Which city hosted the Summer Olympic Games in 2024?",
+            "options": [
+                "Tokyo",
+                "Paris",
+                "Los Angeles",
+                "London"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Paris, France, hosted the Summer Olympic Games in 2024.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14328,
+            "question_text": "Which country assumed the presidency of the G20 for the year 2023?",
+            "options": [
+                "Indonesia",
+                "India",
+                "Brazil",
+                "South Africa"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "India held the G20 presidency for 2023, culminating in the New Delhi summit in September 2023.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14329,
+            "question_text": "What major canal was blocked by a massive container ship named 'Ever Given' in 2021, creating global supply chain disruptions?",
+            "options": [
+                "Panama Canal",
+                "Suez Canal",
+                "Kiel Canal",
+                "Corinth Canal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Ever Given grounded in the Suez Canal in March 2021, blocking traffic for six days.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14330,
+            "question_text": "Which country became the 31st member of NATO in April 2023?",
+            "options": [
+                "Sweden",
+                "Finland",
+                "Ukraine",
+                "Georgia"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Finland officially joined NATO in April 2023, significantly altering European security dynamics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14331,
+            "question_text": "Who won the FIFA Women's World Cup held in 2023?",
+            "options": [
+                "England",
+                "Spain",
+                "United States",
+                "Sweden"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Spain won the 2023 FIFA Women's World Cup by defeating England 1-0 in the final.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14332,
+            "question_text": "Which country joined BRICS as a new member in January 2024 along with several other nations?",
+            "options": [
+                "Argentina",
+                "Egypt",
+                "Mexico",
+                "Indonesia"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Egypt, along with Iran, Ethiopia, UAE, and Saudi Arabia, officially joined BRICS in January 2024.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14333,
+            "question_text": "Which artificial intelligence chatbot, launched by OpenAI in late 2022, triggered a massive global technological trend?",
+            "options": [
+                "Bard",
+                "ChatGPT",
+                "Claude",
+                "Copilot"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ChatGPT was launched by OpenAI in November 2022 and popularized generative AI worldwide.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14334,
+            "question_text": "Who won the Nobel Peace Prize in 2023 for her fight against the oppression of women in Iran?",
+            "options": [
+                "Narges Mohammadi",
+                "Malala Yousafzai",
+                "Shirin Ebadi",
+                "Greta Thunberg"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Iranian human rights activist Narges Mohammadi was awarded the 2023 Nobel Peace Prize.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

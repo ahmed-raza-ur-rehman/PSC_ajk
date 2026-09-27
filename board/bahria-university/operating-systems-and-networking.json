@@ -1,0 +1,151 @@
+{
+    "category": "Bahria University",
+    "name": "Operating Systems and Networking",
+    "board": "bahria-university",
+    "subject": "operating-systems-and-networking",
+    "url": "/bahria-university/operating-systems-and-networking/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12755,
+            "question_text": "What is the primary function of the 'Wait-For Graph' in deadlock management?",
+            "options": [
+                "Preventing race conditions",
+                "Resource allocation and deadlock detection",
+                "Managing process priority",
+                "Interrupt handling"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Wait-For graph is a directed graph used to detect circular wait conditions, which signify a deadlock.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12756,
+            "question_text": "In the TCP header, what is the purpose of the 'Window Size' field?",
+            "options": [
+                "To indicate the sequence number of the next packet",
+                "To provide flow control by specifying the amount of data the receiver can accept",
+                "To define the header length",
+                "To detect packet corruption"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Window Size field enables the receiver to inform the sender about the available buffer space, preventing buffer overflow.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12757,
+            "question_text": "Which page replacement algorithm suffers from Belady's Anomaly?",
+            "options": [
+                "LRU (Least Recently Used)",
+                "FIFO (First-In-First-Out)",
+                "Optimal Page Replacement",
+                "Clock Algorithm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Belady's Anomaly occurs when increasing the number of page frames results in an increase in the number of page faults, which is characteristic of FIFO.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12758,
+            "question_text": "In the context of the OSI model, at which layer does packet routing occur?",
+            "options": [
+                "Data Link Layer",
+                "Transport Layer",
+                "Network Layer",
+                "Physical Layer"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Network Layer is responsible for logical addressing and routing packets across different networks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12759,
+            "question_text": "What is the primary function of a Semaphore in operating systems?",
+            "options": [
+                "Memory allocation",
+                "Process synchronization",
+                "Interrupt handling",
+                "File system indexing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Semaphores are integer variables used as a mechanism for process synchronization to manage access to shared resources and prevent race conditions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12760,
+            "question_text": "What happens during the 'slow start' phase of TCP congestion control?",
+            "options": [
+                "The congestion window increases linearly",
+                "The congestion window increases exponentially",
+                "The connection stays at a fixed rate",
+                "The throughput is capped at the maximum bandwidth"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In slow start, for every ACK received, the congestion window (cwnd) increases by one MSS, effectively doubling the window size every RTT.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12761,
+            "question_text": "Which scheduling algorithm is non-preemptive and selects the process with the smallest CPU burst time?",
+            "options": [
+                "Round Robin",
+                "Shortest Job First (SJF)",
+                "Priority Scheduling",
+                "Multilevel Queue Scheduling"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SJF is a non-preemptive algorithm that minimizes average waiting time by executing the process with the shortest execution time next.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12762,
+            "question_text": "Which technique is used to prevent internal fragmentation in paged memory management systems?",
+            "options": [
+                "Compaction",
+                "Segmentation",
+                "Paging",
+                "Demand Paging"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Paging eliminates external fragmentation by allocating fixed-size blocks, though it can still suffer from internal fragmentation in the last page.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12763,
+            "question_text": "In the context of network security, what is the primary function of a 'Nonce' in cryptographic protocols?",
+            "options": [
+                "Encryption of payload",
+                "Preventing replay attacks",
+                "Authentication of identity",
+                "Packet header compression"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A nonce (number used once) ensures that old communication data cannot be captured and retransmitted by an attacker.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12764,
+            "question_text": "Which CPU scheduling algorithm is considered 'optimal' in terms of minimizing average waiting time for a given set of processes?",
+            "options": [
+                "Round Robin",
+                "First-Come First-Served",
+                "Shortest Job First",
+                "Multilevel Feedback Queue"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Shortest Job First (SJF) is mathematically proven to result in the minimum average waiting time for a set of jobs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

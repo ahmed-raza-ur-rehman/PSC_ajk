@@ -1,0 +1,207 @@
+{
+    "category": "The Millennium Universal College (TMUC)",
+    "name": "Business Administration Fundamentals",
+    "board": "the-millennium-universal-college-tmuc",
+    "subject": "business-administration-fundamentals",
+    "url": "/the-millennium-universal-college-tmuc/business-administration-fundamentals/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 13935,
+            "question_text": "Which management function involves setting goals and determining the best course of action to achieve them?",
+            "options": [
+                "Organizing",
+                "Leading",
+                "Planning",
+                "Controlling"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Planning is the foundational management function where objectives are defined and strategies are developed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13936,
+            "question_text": "In a SWOT analysis, which two components represent internal factors?",
+            "options": [
+                "Strengths and Weaknesses",
+                "Opportunities and Threats",
+                "Strengths and Opportunities",
+                "Weaknesses and Threats"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Strengths and Weaknesses refer to the internal capabilities and limitations of an organization, whereas Opportunities and Threats are external.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13937,
+            "question_text": "What is the primary purpose of the 'marketing mix' (the 4 Ps)?",
+            "options": [
+                "To calculate total business debt",
+                "To manage employee payroll",
+                "To define a strategy for reaching the target market",
+                "To automate the production line"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 4 Ps (Product, Price, Place, Promotion) constitute the tactical toolkit businesses use to influence demand for their offering.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13938,
+            "question_text": "What is the term for the process of influencing others to work towards the attainment of organizational goals?",
+            "options": [
+                "Controlling",
+                "Leading",
+                "Planning",
+                "Organizing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Leading is the management function that involves motivating, directing, and influencing people to achieve organizational objectives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13939,
+            "question_text": "Which financial statement provides a snapshot of a company's assets, liabilities, and equity at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Cash Flow Statement",
+                "Balance Sheet",
+                "Statement of Retained Earnings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Balance Sheet reports the financial position of an entity at a specific date, adhering to the equation Assets = Liabilities + Equity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13940,
+            "question_text": "In the context of the 4 Ps of marketing, where would a 'distribution channel' fall?",
+            "options": [
+                "Product",
+                "Price",
+                "Place",
+                "Promotion"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Place refers to where the product is available and how it is distributed to the end customer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13941,
+            "question_text": "Which type of business structure offers limited liability protection to its owners while maintaining pass-through taxation?",
+            "options": [
+                "Sole Proprietorship",
+                "General Partnership",
+                "Limited Liability Company (LLC)",
+                "C-Corporation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An LLC is designed to protect members from personal liability for business debts while allowing for flexible tax treatment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13942,
+            "question_text": "What is 'opportunity cost' in an economic or business decision-making context?",
+            "options": [
+                "The direct cash outlay for an investment",
+                "The value of the next best alternative given up",
+                "The total cost of production",
+                "The profit margin expected after taxes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Opportunity cost represents the benefits an individual or business misses out on when choosing one alternative over another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13943,
+            "question_text": "Which organizational culture type emphasizes stability, rules, and formal procedures?",
+            "options": [
+                "Adhocracy culture",
+                "Clan culture",
+                "Hierarchy culture",
+                "Market culture"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Hierarchy cultures are characterized by strict internal control, standardization, and a clear chain of command.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13944,
+            "question_text": "What does 'Return on Investment' (ROI) measure?",
+            "options": [
+                "The speed of inventory turnover",
+                "The efficiency of an investment relative to its cost",
+                "The total revenue generated by a project",
+                "The interest rate paid on a business loan"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ROI is a performance measure used to evaluate the efficiency or profitability of an investment by comparing gain to cost.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13945,
+            "question_text": "What is the primary role of an 'entrepreneur' in the business cycle?",
+            "options": [
+                "To manage established government agencies",
+                "To take on financial risk in the hope of profit by innovating",
+                "To provide loans to struggling small businesses",
+                "To strictly follow established corporate policy without change"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Entrepreneurs are individuals who identify market opportunities and assume the risks of starting new ventures.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13946,
+            "question_text": "Which of the following is an example of an 'external' factor in a PESTLE analysis?",
+            "options": [
+                "Management style",
+                "Technological advancements",
+                "Employee skill sets",
+                "Company cash flow"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PESTLE analysis covers Political, Economic, Social, Technological, Legal, and Environmental factors, all of which are external to the organization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13947,
+            "question_text": "What is the term for a situation where one company controls the supply of a particular product or service?",
+            "options": [
+                "Perfect Competition",
+                "Oligopoly",
+                "Monopoly",
+                "Monopolistic Competition"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A monopoly occurs when a single entity dominates a market, leaving no room for significant competition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13948,
+            "question_text": "Which management concept refers to the process of grouping activities and assigning authority to specific employees within an organization?",
+            "options": [
+                "Planning",
+                "Organizing",
+                "Leading",
+                "Controlling"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Organizing involves structuring the work, creating departments, and assigning resources to achieve goals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

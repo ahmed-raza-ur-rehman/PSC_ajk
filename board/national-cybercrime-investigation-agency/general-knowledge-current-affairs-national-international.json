@@ -1,0 +1,179 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "General Knowledge — Current Affairs (National & International)",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "general-knowledge-current-affairs-national-international",
+    "url": "/national-cybercrime-investigation-agency/general-knowledge-current-affairs-national-international/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 15292,
+            "question_text": "As of recent reports, which neighboring country has significantly increased its focus and investment in developing deep-sea port infrastructure and maritime trade routes in the Arabian Sea?",
+            "options": [
+                "Afghanistan",
+                "Oman",
+                "Iran",
+                "Yemen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Oman has been actively developing its port facilities, notably Salalah and Duqm, to enhance its role as a key maritime trade hub in the Arabian Sea.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15293,
+            "question_text": "In international climate negotiations, what is the primary significance of the 'Loss and Damage' fund, established under the framework of the UNFCCC?",
+            "options": [
+                "Governing the setting of international emission targets and mandatory timetables for industrialized countries.",
+                "Establishing global carbon pricing mechanisms to incentivize immediate emissions reductions across all major economies.",
+                "Funding the transition of developed economies toward renewable energy sources by providing subsidies and loans.",
+                "Providing financial assistance to developing nations severely affected by climate change impacts that cannot be avoided or adapted to."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "This fund is designed to compensate vulnerable countries for irreversible climate impacts and losses, particularly for Small Island Developing States (SIDS).",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15294,
+            "question_text": "In the context of climate change mitigation and international policy, what does the term 'Net-Zero Emission Target' signify?",
+            "options": [
+                "Shifting energy dependency solely to renewable sources within a decade.",
+                "Balancing the amount of greenhouse gases released with the amount removed from the atmosphere.",
+                "Reducing all industrial emissions to zero by the year 2050.",
+                "Achieving carbon capture rates equal to the total amount of fossil fuels burned."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Net-Zero Emission means reaching a point where the amount of greenhouse gases put into the atmosphere is balanced by the amount taken out, resulting in no net increase.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15295,
+            "question_text": "In the context of Pakistan's national legal and administrative framework, which body is primarily responsible for conducting public examinations and recruitment for various federal government departments?",
+            "options": [
+                "Pakistan Qualifications Authority (PQA)",
+                "Punjab Public Service Commission (PPSC)",
+                "Federal Public Service Commission (FPSC)",
+                "Natsheel Technical Board (NTB)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Federal Public Service Commission (FPSC) is the constitutional body mandated to conduct recruitment and examinations for most federal civil services across Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15296,
+            "question_text": "In the context of Pakistani governance and law, which constitutional body has been empowered to oversee the establishment and enforcement of digital security and cybersecurity standards across provincial jurisdictions?",
+            "options": [
+                "The National Cyber Security Agency (NCSA)",
+                "The Federal Investigation Agency (FIA) Cybercrime Wing",
+                "The Ministry of Information Technology and Communications (MoIT&C)",
+                "The Pakistan Telecommunication Authority (PTA)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The NCSA is the designated governmental body responsible for coordinating and enforcing national cybersecurity strategies and standards across the country.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15297,
+            "question_text": "Pakistan is currently involved in which major cross-border energy connectivity project aimed at diversifying its power sources and enhancing regional trade?",
+            "options": [
+                "SAARC regional power grid connectivity",
+                "China-Pakistan Economic Corridor (CPEC) only",
+                "Iran-Pakistan Gas Pipeline (IPGP)",
+                "Central Asia-Pakistan Energy Corridors"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While CPEC is crucial, Pakistan's strategic focus for energy diversification includes connecting with Central Asian republics (e.g., Afghanistan/Tajikistan routes) to reduce reliance on single sources.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15298,
+            "question_text": "The concept of 'Belt and Road Initiative' (BRI), championed by China, primarily focuses on developing connectivity across which geographical regions?",
+            "options": [
+                "The Mediterranean and Middle East",
+                "The Arctic and Pacific Oceans",
+                "The South Asian and Indian Ocean Rim",
+                "Asia, Europe, and Africa"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The BRI aims to establish physical and digital infrastructure connectivity networks linking China with countries across Asia, Europe, and Africa.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15299,
+            "question_text": "The concept of 'digital sovereignty' in the context of developing nations, particularly regarding data governance and technology, primarily refers to:",
+            "options": [
+                "Establishing physical borders around major data storage centers (data localization)",
+                "A state's ability to control its domestic data flow and technology infrastructure",
+                "Mandating the use of only local software and hardware manufacturers",
+                "Restricting all foreign investment in the telecommunications sector"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Digital sovereignty refers to a nation's authority to govern its digital space, which includes controlling data flow, technology infrastructure, and ensuring local governance over data.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15300,
+            "question_text": "To maintain macroeconomic stability and address balance of payments crises, which institution primarily advises and sometimes provides short-to-medium-term financial assistance loans to Pakistan?",
+            "options": [
+                "Asian Development Bank (ADB)",
+                "World Bank Group (WB)",
+                "World Trade Organization (WTO)",
+                "International Monetary Fund (IMF)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The International Monetary Fund (IMF) specializes in providing financial assistance and policy advice to countries facing balance of payments difficulties or economic crises.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15301,
+            "question_text": "Which international body recently elevated the status of 'Blue Economy' concepts, emphasizing sustainable resource management across coastal regions and maritime sectors?",
+            "options": [
+                "United Nations Economic Commission for Asia and the Pacific (UNESCAP)",
+                "World Trade Organization (WTO)",
+                "Global Coral Reef Initiative (GCRI)",
+                "International Maritime Organization (IMO)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "UNESCAP has played a leading role in promoting Blue Economy frameworks, focusing on the sustainable development of ocean resources and promoting integrated coastal management across Asia and the Pacific.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15302,
+            "question_text": "Which international grouping, primarily focusing on cooperative security and strategic dialogue among its members, includes countries like Armenia, Azerbaijan, and Georgia?",
+            "options": [
+                "SAARC",
+                "Caucasus Initiative Group (CIG)",
+                "SCO",
+                "ASEAN"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Caucasus Initiative Group is a diplomatic mechanism focused on promoting cooperation and dialogue among the nations of the Caucasus region.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15303,
+            "question_text": "Which of the following nations recently increased its commitment to the concept of 'Green Hydrogen' as a core pillar of its national energy transition strategy, aiming for significant export potential?",
+            "options": [
+                "Saudi Arabia",
+                "UAE",
+                "Indonesia",
+                "Japan"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The UAE has significantly boosted its focus on Green Hydrogen, leveraging its energy infrastructure and global ambitions to become a major exporter.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "category": "Department of Motor Vehicles (DMV)",
+    "name": "Emergency Situations and Road Safety",
+    "board": "department-of-motor-vehicles-dmv",
+    "subject": "emergency-situations-and-road-safety",
+    "url": "/department-of-motor-vehicles-dmv/emergency-situations-and-road-safety/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 6961,
+            "question_text": "What is the universal emergency number to contact police, fire, or ambulance services in the US?",
+            "options": [
+                "112",
+                "911",
+                "411",
+                "000"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "911 is the standard toll-free emergency number in the United States, accessible 24/7 from any phone.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6962,
+            "question_text": "Why are wildlife crossings considered a significant road hazard in the US?",
+            "options": [
+                "Animals often damage highway signs",
+                "Drivers stop to take photos, causing accidents",
+                "Over 1 million deer-vehicle collisions occur annually",
+                "Wildlife prevents the use of cruise control"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Wildlife-vehicle collisions, especially involving deer, are extremely common and pose a major safety risk to drivers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6964,
+            "question_text": "What should you do if your accelerator pedal gets stuck?",
+            "options": [
+                "Immediately turn off the engine while driving",
+                "Shift to neutral, pull over, and turn off the engine",
+                "Pump the brake pedal as hard as you can while driving",
+                "Keep pushing the pedal until it gets unstuck"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Shifting to neutral disconnects the power to the wheels, allowing you to pull over safely without the engine pushing the car forward.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6965,
+            "question_text": "What should you do if your car's tire blows out while driving?",
+            "options": [
+                "Brake hard immediately to stop",
+                "Hold the steering wheel firmly and gradually slow down",
+                "Swerve to the shoulder as quickly as possible",
+                "Accelerate to keep control of the car"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Braking hard can cause the car to spin out of control. It is safer to maintain a firm grip on the wheel and let the car slow down naturally before pulling over.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6966,
+            "question_text": "What is the main purpose of the National Roadway Safety Strategy?",
+            "options": [
+                "To increase speed limits on highways",
+                "To achieve zero traffic fatalities using a 'Safe System' approach",
+                "To build more parking lots",
+                "To regulate the price of gasoline"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The National Roadway Safety Strategy focuses on creating safer roads, vehicles, and speeds to reduce traffic deaths to zero.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6967,
+            "question_text": "Why should you avoid driving through flooded roads?",
+            "options": [
+                "It will make the car dirty",
+                "Hidden debris or deep water can cause the car to stall or float away",
+                "It is against the law in every state",
+                "It will damage the car's paint"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Flooded roads are extremely dangerous because water depth can be deceptive, potentially stalling your engine or causing your vehicle to lose traction and float.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6968,
+            "question_text": "What is the universal emergency number for police, fire, or ambulance in the US?",
+            "options": [
+                "411",
+                "911",
+                "000",
+                "112"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "911 is the standard emergency telephone number used across the United States to reach emergency services.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6969,
+            "question_text": "What should you do if your accelerator pedal gets stuck while driving?",
+            "options": [
+                "Turn the ignition off immediately",
+                "Shift to neutral, steer off the road, and stop",
+                "Jump out of the car",
+                "Slam on the brakes repeatedly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Shifting to neutral disconnects the engine from the wheels, allowing you to stop the vehicle safely.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6970,
+            "question_text": "Why is it dangerous to drive through flooded roads?",
+            "options": [
+                "It makes your car dirty",
+                "You cannot tell the depth of the water or the condition of the road beneath it",
+                "It will damage your radio",
+                "It is against the law in all states"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Floodwater can hide deep holes, debris, or washouts, and even shallow water can cause a car to lose traction or stall.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6971,
+            "question_text": "What should you do if a tire blows out while you are driving?",
+            "options": [
+                "Brake hard instantly",
+                "Keep a firm grip on the steering wheel, ease off the gas, and pull off the road",
+                "Steer quickly to the left",
+                "Accelerate to maintain control"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Braking hard can cause you to lose control; you should maintain steering control while slowing down gradually.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6972,
+            "question_text": "What is a primary goal of the National Roadway Safety Strategy?",
+            "options": [
+                "To increase car speed limits",
+                "To reach a long-term goal of zero roadway fatalities",
+                "To reduce the cost of gasoline",
+                "To mandate more highways"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The strategy promotes a 'Safe System' approach with the ultimate aim of eliminating traffic-related deaths.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "Scholarbee",
+    "name": "Location",
+    "board": "scholarbee",
+    "subject": "location",
+    "url": "/scholarbee/location/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11558,
+            "question_text": "Which filter should a user apply to find scholarships restricted to students residing in the European Union?",
+            "options": [
+                "Stipend Amount",
+                "Location",
+                "Application Status",
+                "Study Level"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Geographic restrictions regarding residency or citizenship are managed through the 'Location' filter.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11559,
+            "question_text": "In the Scholarbee portal, selecting 'Domestic' under Location typically refers to:",
+            "options": [
+                "Scholarships available worldwide",
+                "Scholarships limited to the user's home country",
+                "Scholarships for online learning only",
+                "Scholarships provided by the government"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'Domestic' tag is used to distinguish local opportunities from international or regional ones.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11560,
+            "question_text": "If a scholarship is only open to citizens of the country where the university is located, it is termed:",
+            "options": [
+                "International",
+                "Domestic",
+                "Regional",
+                "Global"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Domestic scholarships are restricted to the residents or citizens of the host country of the institution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11561,
+            "question_text": "A student searching for funding to study abroad in another country should filter for:",
+            "options": [
+                "International",
+                "Domestic",
+                "Local",
+                "Home-country only"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "International scholarships are for students crossing borders to pursue their education in a country other than their own.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11562,
+            "question_text": "Which filter is used to find scholarships offered by specific states or provinces within a country?",
+            "options": [
+                "Regional/Local",
+                "Global",
+                "International",
+                "Domestic"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Regional filters allow users to narrow down opportunities that are specific to certain geographic areas within a nation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11563,
+            "question_text": "How is 'Global' typically defined in the Scholarbee portal?",
+            "options": [
+                "Available to students regardless of citizenship or residency",
+                "Only for students from major world powers",
+                "Restricted to one continent",
+                "Only for online degrees"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Global scholarships are open to applicants from anywhere in the world, usually with no geographic restrictions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11564,
+            "question_text": "If a user is looking for a scholarship that covers travel to a university, which Location category might overlap?",
+            "options": [
+                "Regional",
+                "International",
+                "Remote-only",
+                "Campus-restricted"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Students traveling for education usually look under the International category to find funding for mobility.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11565,
+            "question_text": "Why might a user filter by 'State' or 'Province' in the Location section?",
+            "options": [
+                "To find localized state-funded financial aid",
+                "To find international visas",
+                "To change the language settings",
+                "To find university rankings"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Many government-backed scholarships are restricted to students residing or studying within a specific administrative region.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11567,
+            "question_text": "What is the primary difference between 'Domestic' and 'Regional' filters?",
+            "options": [
+                "Domestic is national, Regional is sub-national",
+                "Domestic is international, Regional is national",
+                "There is no difference",
+                "Domestic is only for online"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Domestic usually implies the whole country, whereas Regional narrows down the search to specific territories or states within that country.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11568,
+            "question_text": "Which location setting ensures that a user only sees scholarships available to residents of their current home country?",
+            "options": [
+                "Domestic",
+                "International",
+                "Global",
+                "None"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Setting the filter to Domestic filters out international scholarships and keeps results limited to the user's home country.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

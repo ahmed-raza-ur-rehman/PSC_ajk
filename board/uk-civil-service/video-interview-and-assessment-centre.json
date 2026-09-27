@@ -1,0 +1,165 @@
+{
+    "category": "UK Civil Service",
+    "name": "Video Interview and Assessment Centre",
+    "board": "uk-civil-service",
+    "subject": "video-interview-and-assessment-centre",
+    "url": "/uk-civil-service/video-interview-and-assessment-centre/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 8651,
+            "question_text": "When answering a video interview question about your motivation for joining the Fast Stream, what is the best strategy?",
+            "options": [
+                "Memorize a script word-for-word",
+                "Focus on how the programme aligns with your desire to tackle real issues and give back to communities",
+                "Discuss only the financial benefits and pension",
+                "Give a very brief 'yes' or 'no' answer to save time"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The programme looks for candidates who share the Civil Service goal of serving the public and addressing significant national challenges.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8652,
+            "question_text": "During an assessment centre group exercise, what behavior demonstrates high leadership potential?",
+            "options": [
+                "Talking over others to ensure your point is heard",
+                "Actively listening to others and facilitating a consensus to achieve the group's goal",
+                "Remaining silent to avoid making mistakes",
+                "Criticizing the ideas of others to show yours are better"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Leadership in the Civil Service is about collaboration, inclusivity, and ensuring the collective goal is met efficiently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8653,
+            "question_text": "What is the best strategy for answering a motivation question in a video interview?",
+            "options": [
+                "Give a rehearsed speech about why the salary is attractive.",
+                "Focus on your personal desire to tackle real issues and contribute to the Civil Service values.",
+                "List every single accomplishment you have ever achieved since high school.",
+                "Avoid mentioning the specific programme to keep your answer general."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Successful candidates show they understand the purpose of the Civil Service and how their own values align with it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8654,
+            "question_text": "In a group assessment, if a teammate suggests an idea you disagree with, what should you do?",
+            "options": [
+                "Tell them the idea is bad and ignore it.",
+                "Politely point out potential risks and suggest an alternative or a compromise.",
+                "Stay silent and hope the group chooses your idea instead.",
+                "Agree with them immediately to avoid any conflict."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Showing you can constructively challenge ideas and work toward a consensus is a vital sign of leadership.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8655,
+            "question_text": "What does 'professionalism' look like during a video interview?",
+            "options": [
+                "Wearing formal clothes, having a tidy background, and clear, structured communication.",
+                "Wearing casual clothes to show you are relaxed and confident.",
+                "Keeping the camera off to prevent technical issues.",
+                "Reading directly from notes to ensure you don't forget anything."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "First impressions matter; showing effort in your presentation and preparation demonstrates your commitment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8656,
+            "question_text": "Why is time management critical during an assessment centre group task?",
+            "options": [
+                "Because you get extra marks for finishing early.",
+                "To ensure the group meets the objectives and provides a comprehensive response within the time limit.",
+                "So that you have time to check your phone before the next task.",
+                "To force the group to choose the first idea that comes to mind."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Effective leaders guide their group to manage time well so that all requirements of the task are met.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8657,
+            "question_text": "If you are asked about a time you showed 'integrity' in an interview, what should you highlight?",
+            "options": [
+                "A time you achieved a goal at any cost.",
+                "A situation where you did the right thing even though it was difficult or unpopular.",
+                "A time you took credit for work that the team did.",
+                "A situation where you kept a secret to protect a friend."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Integrity is about adhering to ethical principles and honesty, especially in challenging circumstances.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8664,
+            "question_text": "How do you prepare for an assessment centre?",
+            "options": [
+                "Do nothing and hope for the best",
+                "Research the organization, practice typical exercises, and be ready to reflect on your experiences",
+                "Memorize the entire website",
+                "Buy a new suit and nothing else"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Good preparation builds confidence and demonstrates serious commitment to the role.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8665,
+            "question_text": "What should you do if you don't understand a question in an interview?",
+            "options": [
+                "Guess the answer",
+                "Politely ask the interviewer to rephrase or clarify",
+                "Sit in silence",
+                "Tell them the question is wrong"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Asking for clarification shows that you are thoughtful and want to provide a relevant, accurate response.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8666,
+            "question_text": "When discussing your skills in an interview, what is the 'STAR' method?",
+            "options": [
+                "State, Talk, Action, Results",
+                "Situation, Task, Action, Result",
+                "Situation, Training, Achievement, Review",
+                "Strategy, Time, Ability, Readiness"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The STAR method is a structured, proven way to provide clear and concise examples of your behavioral skills.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8667,
+            "question_text": "In a group assessment, why is it important to include quieter team members?",
+            "options": [
+                "Because it is a requirement to pass",
+                "To gain a wider range of ideas and ensure everyone is fully engaged and heard",
+                "So they do all the work",
+                "To make yourself look better"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Diverse input leads to better decisions and is a key trait of an inclusive leader.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

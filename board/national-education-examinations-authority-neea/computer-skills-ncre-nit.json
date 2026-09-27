@@ -1,0 +1,123 @@
+{
+    "category": "National Education Examinations Authority (NEEA)",
+    "name": "Computer Skills (NCRE/NIT)",
+    "board": "national-education-examinations-authority-neea",
+    "subject": "computer-skills-ncre-nit",
+    "url": "/national-education-examinations-authority-neea/computer-skills-ncre-nit/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 9088,
+            "question_text": "Which institution organizes and implements the National Computer Rank Examination (NCRE)?",
+            "options": [
+                "Ministry of Industry and Information Technology",
+                "Ministry of Education, Education Examination Authority",
+                "The National Science and Technology Bureau",
+                "Private IT Training Companies"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The NCRE is a national examination authorized by the Ministry of Education and administered by the Ministry of Education's Education Examination Authority.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9089,
+            "question_text": "What is a valid identity document required to register for the NCRE?",
+            "options": [
+                "A student ID card issued by a university",
+                "A library card",
+                "A resident identity card",
+                "A parent's business card"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Registration for the NCRE requires a valid legal identity document, such as a resident identity card.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9090,
+            "question_text": "Which organization is responsible for organizing the National Computer Rank Examination (NCRE)?",
+            "options": [
+                "Ministry of Industry and Information Technology",
+                "Ministry of Education",
+                "International Computer Society",
+                "Local internet service providers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The National Computer Rank Examination (NCRE) is organized and implemented by the Ministry of Education's National Education Examinations Authority.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9091,
+            "question_text": "What is a mandatory document required to register for the NCRE?",
+            "options": [
+                "A recommendation letter",
+                "A valid personal identity document (e.g., ID card)",
+                "A library card",
+                "A high school diploma"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To register for the NCRE, candidates must present a government-issued, valid identity document to confirm their registration details.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9092,
+            "question_text": "Where is the official online registration site for NCRE located?",
+            "options": [
+                "ncre.neea.edu.cn",
+                "ncre-bm.neea.cn",
+                "neea.gov.cn",
+                "exam.edu.cn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The official registration portal for the NCRE is ncre-bm.neea.cn, as indicated by the official examination website instructions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9094,
+            "question_text": "What can an NCRE score report be used for?",
+            "options": [
+                "To buy software",
+                "To demonstrate computer proficiency to schools or employers",
+                "To gain automatic entry to graduate school",
+                "To bypass high school exams"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The NCRE certificate is widely recognized as a standard indicator of a person's computer skills for employment and academic credit purposes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9095,
+            "question_text": "If a candidate loses their NCRE certificate, what can they apply for?",
+            "options": [
+                "A brand new test",
+                "A letter of apology",
+                "A certificate of passing (replacement proof)",
+                "A full refund"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Candidates who have lost their original certificate can apply through the official channels for an official replacement proof of the passed exam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9096,
+            "question_text": "Which institution is responsible for organizing the National Computer Rank Examination (NCRE)?",
+            "options": [
+                "Private software companies",
+                "The Ministry of Education (NEEA)",
+                "Local community colleges",
+                "Internet service providers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The NCRE is a national examination organized and implemented by the Ministry of Education's NEEA.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

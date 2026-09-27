@@ -1,0 +1,207 @@
+{
+    "category": "University of Balochistan",
+    "name": "Analytical and Logical Thinking",
+    "board": "university-of-balochistan",
+    "subject": "analytical-and-logical-thinking",
+    "url": "/university-of-balochistan/analytical-and-logical-thinking/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 10799,
+            "question_text": "If 'APPLE' is coded as 'ELPPA', how is 'MANGO' coded?",
+            "options": [
+                "OGNAM",
+                "ONMAG",
+                "GNOMA",
+                "AMGON"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The code is the reverse order of the letters in the word.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10800,
+            "question_text": "Pointing to a man, Sara said, 'His mother is the only daughter of my mother.' How is Sara related to the man?",
+            "options": [
+                "Sister",
+                "Aunt",
+                "Mother",
+                "Cousin"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The only daughter of Sara's mother is Sara herself. Therefore, the man's mother is Sara.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10801,
+            "question_text": "If A=1, B=2, C=3, what is the sum of CAB?",
+            "options": [
+                "6",
+                "12",
+                "10",
+                "8"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "C=3, A=1, B=2. 3 + 1 + 2 = 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10802,
+            "question_text": "Complete the series: 5, 10, 20, 40, ___",
+            "options": [
+                "60",
+                "70",
+                "80",
+                "100"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number is doubled: 5*2=10, 10*2=20, 20*2=40, 40*2=80.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10803,
+            "question_text": "If 'DOG' is 'GDO', how is 'CAT' written?",
+            "options": [
+                "TCA",
+                "ACT",
+                "TAC",
+                "ATC"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The last letter moves to the front, followed by the first two. DOG -> G + DO. CAT -> T + CA.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10804,
+            "question_text": "Look at this series: 36, 34, 30, 28, 24, ... What number should come next?",
+            "options": [
+                "20",
+                "22",
+                "26",
+                "23"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern is alternating subtract 2, then subtract 4. 24 - 2 = 22.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10805,
+            "question_text": "All roses are flowers. Some flowers fade quickly. Which statement must be true?",
+            "options": [
+                "All roses fade quickly.",
+                "Some roses fade quickly.",
+                "Some flowers are roses.",
+                "All flowers are roses."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If all roses are flowers, it implies that the group of roses is a subset of the group of flowers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10806,
+            "question_text": "If Tuesday is the 3rd day of the month, what day is the 10th?",
+            "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Adding 7 days to any day results in the same day of the week. 3 + 7 = 10.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10807,
+            "question_text": "Find the odd one out: Apple, Banana, Potato, Orange.",
+            "options": [
+                "Apple",
+                "Banana",
+                "Potato",
+                "Orange"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Apple, Banana, and Orange are fruits, while Potato is a vegetable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10808,
+            "question_text": "If you are facing North and turn 90 degrees clockwise, which direction are you facing?",
+            "options": [
+                "South",
+                "West",
+                "East",
+                "North-East"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A 90-degree turn clockwise from North points you towards the East.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10809,
+            "question_text": "If in a certain code 'RED' is 'SF E', what is 'BLUE' coded as?",
+            "options": [
+                "CMVF",
+                "CM V F",
+                "CNWF",
+                "CMWE"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted one position forward in the alphabet (R+1=S, E+1=F, D+1=E). B+1=C, L+1=M, U+1=V, E+1=F.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10810,
+            "question_text": "A, B, and C are siblings. D is the mother of B. How is D related to A?",
+            "options": [
+                "Aunt",
+                "Mother",
+                "Sister",
+                "Cousin"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since A, B, and C are siblings, their mother is the same person.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10811,
+            "question_text": "If all 'Zips' are 'Zaps', and some 'Zaps' are 'Zops', which conclusion is logically certain?",
+            "options": [
+                "Some Zips are Zops",
+                "All Zaps are Zips",
+                "Some Zaps are Zips",
+                "All Zops are Zips"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since all Zips are Zaps, the reverse (some Zaps are Zips) must be true.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10812,
+            "question_text": "Find the missing term in the sequence: 1, 4, 9, 16, ___",
+            "options": [
+                "20",
+                "25",
+                "24",
+                "32"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sequence consists of squares of consecutive integers: 1^2, 2^2, 3^2, 4^2, 5^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

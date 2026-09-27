@@ -1,0 +1,151 @@
+{
+    "category": "Capital University of Science and Technology (CUST)",
+    "name": "Economics",
+    "board": "capital-university-of-science-and-technology-cust",
+    "subject": "economics",
+    "url": "/capital-university-of-science-and-technology-cust/economics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11855,
+            "question_text": "Which of the following describes a situation where the quantity demanded equals the quantity supplied?",
+            "options": [
+                "Market surplus",
+                "Market shortage",
+                "Market equilibrium",
+                "Price floor"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Equilibrium occurs at the price level where the supply curve and demand curve intersect, meaning quantity supplied equals quantity demanded.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11856,
+            "question_text": "What does the 'Law of Diminishing Marginal Utility' state?",
+            "options": [
+                "As consumption increases, total utility decreases",
+                "As more of a good is consumed, the satisfaction from each additional unit declines",
+                "Prices always rise as demand increases",
+                "Utility is constant regardless of quantity consumed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The law states that the marginal utility of a good decreases as a consumer acquires more units of it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11857,
+            "question_text": "What happens to the equilibrium price of a good when supply decreases and demand remains constant?",
+            "options": [
+                "Price increases",
+                "Price decreases",
+                "Price remains the same",
+                "Quantity increases"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A decrease in supply (a leftward shift of the supply curve) against a constant demand leads to higher equilibrium prices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11858,
+            "question_text": "Which type of market structure is characterized by a single seller and high barriers to entry?",
+            "options": [
+                "Perfect Competition",
+                "Monopolistic Competition",
+                "Oligopoly",
+                "Monopoly"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A monopoly exists when a single firm dominates the market and there are significant barriers preventing others from entering.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11859,
+            "question_text": "What does GDP (Gross Domestic Product) measure?",
+            "options": [
+                "The total value of all goods and services produced within a country's borders in a period",
+                "The total wealth owned by citizens of a country",
+                "The total amount of currency in circulation",
+                "The balance of trade surplus or deficit"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "GDP is the standard measure of the value added through the production of goods and services in an economy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11860,
+            "question_text": "What happens to the demand curve for a normal good if consumer income increases?",
+            "options": [
+                "It shifts to the left",
+                "It shifts to the right",
+                "There is movement along the curve",
+                "The curve becomes vertical"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For normal goods, an increase in income increases the quantity demanded at every price, shifting the demand curve to the right.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11861,
+            "question_text": "Which of the following is a characteristic of perfect competition?",
+            "options": [
+                "Differentiated products",
+                "High barriers to entry",
+                "Many buyers and sellers with no individual market power",
+                "Only one dominant firm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In perfect competition, there are many buyers and sellers, products are homogeneous, and there are no barriers to entry or exit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11862,
+            "question_text": "What is meant by the term 'inflation'?",
+            "options": [
+                "A decrease in the general level of prices",
+                "A sustained increase in the general price level of goods and services",
+                "An increase in the value of the national currency",
+                "A period of high unemployment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inflation refers to the general increase in prices and fall in the purchasing value of money.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11863,
+            "question_text": "What is the 'opportunity cost' of an action?",
+            "options": [
+                "The money spent on the action",
+                "The value of the next best alternative foregone",
+                "The total cost of production",
+                "The marginal utility of the action"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Opportunity cost is the benefit that is missed or given up when choosing one alternative over another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11864,
+            "question_text": "If the price elasticity of demand is greater than 1, demand is considered:",
+            "options": [
+                "Inelastic",
+                "Unit elastic",
+                "Elastic",
+                "Perfectly inelastic"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "If elasticity > 1, consumers are highly responsive to price changes, meaning demand is elastic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

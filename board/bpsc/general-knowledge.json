@@ -1,0 +1,165 @@
+{
+    "category": "BPSC",
+    "name": "General Knowledge",
+    "board": "bpsc",
+    "subject": "general-knowledge",
+    "url": "/bpsc/general-knowledge/2026/subject-mcqs",
+    "country": "BD",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10064,
+            "question_text": "Which is the longest river in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile is generally considered the longest river on Earth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10065,
+            "question_text": "Which planet in our solar system is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mars is referred to as the Red Planet due to the iron oxide (rust) on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10066,
+            "question_text": "What is the powerhouse of the cell?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondria",
+                "Cytoplasm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are known as the powerhouse because they generate most of the chemical energy needed to power the cell's biochemical reactions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10067,
+            "question_text": "Who was the first person to step on the moon?",
+            "options": [
+                "Buzz Aldrin",
+                "Yuri Gagarin",
+                "Neil Armstrong",
+                "Michael Collins"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Neil Armstrong was the American astronaut who became the first human to walk on the moon in 1969.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10068,
+            "question_text": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Plants take in carbon dioxide from the air to perform photosynthesis, which produces glucose and oxygen.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10069,
+            "question_text": "What is the primary chemical element found in diamonds?",
+            "options": [
+                "Gold",
+                "Silicon",
+                "Carbon",
+                "Iron"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Diamonds are a solid form of pure carbon with atoms arranged in a crystal structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10070,
+            "question_text": "Which gas is most abundant in the Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10071,
+            "question_text": "Which human organ is responsible for filtering waste from the blood?",
+            "options": [
+                "Heart",
+                "Liver",
+                "Kidneys",
+                "Lungs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The primary function of the kidneys is to remove waste products and excess fluid from the blood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10072,
+            "question_text": "What is the hardest natural substance found on Earth?",
+            "options": [
+                "Gold",
+                "Iron",
+                "Diamond",
+                "Quartz"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Diamond is composed of carbon atoms arranged in a crystal lattice structure, making it the hardest natural mineral.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10073,
+            "question_text": "Which vitamin is commonly known as the 'sunshine vitamin'?",
+            "options": [
+                "Vitamin A",
+                "Vitamin C",
+                "Vitamin D",
+                "Vitamin K"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Vitamin D is produced in the skin when it is exposed to ultraviolet light from the sun.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10074,
+            "question_text": "Who is the inventor of the telephone?",
+            "options": [
+                "Thomas Edison",
+                "Nikola Tesla",
+                "Alexander Graham Bell",
+                "Albert Einstein"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Alexander Graham Bell is officially credited with patenting the first practical telephone in 1876.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

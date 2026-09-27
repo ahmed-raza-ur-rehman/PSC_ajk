@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Islamiat — Articles of Faith",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "islamiat-articles-of-faith",
+    "url": "/national-cybercrime-investigation-agency/islamiat-articles-of-faith/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14592,
+            "question_text": "What key event immediately preceded the establishment of the All Pakistan Federation (APF) in 1935?",
+            "options": [
+                "The Cripps Mission (1942)",
+                "The Lahore Resolution (1940)",
+                "The Government of India Act, 1935",
+                "The Simon Commission visit"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Government of India Act, 1935, provided the constitutional framework (such as Provincial Autonomy) that was adopted and adapted for the proposed All Pakistan Federation structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "Riphah International University",
+    "name": "Chemistry",
+    "board": "riphah-international-university",
+    "subject": "chemistry",
+    "url": "/riphah-international-university/chemistry/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13590,
+            "question_text": "Which subatomic particle has a negative charge?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Positron"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Electrons are negatively charged subatomic particles that orbit the nucleus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13591,
+            "question_text": "What is the pH range of an acidic solution at 25 degrees Celsius?",
+            "options": [
+                "Above 7",
+                "Exactly 7",
+                "Below 7",
+                "0 to 14"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "On the pH scale, values below 7 indicate acidity, while values above 7 indicate alkalinity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13592,
+            "question_text": "Which of the following is considered an inert gas?",
+            "options": [
+                "Nitrogen",
+                "Oxygen",
+                "Neon",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Neon is a noble gas (Group 18), characterized by a full valence shell, making it chemically inert.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13593,
+            "question_text": "What is the chemical formula for sulfuric acid?",
+            "options": [
+                "HCl",
+                "H2SO4",
+                "HNO3",
+                "NaOH"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sulfuric acid is a mineral acid composed of elements sulfur, oxygen, and hydrogen with the formula H2SO4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13594,
+            "question_text": "In the periodic table, what are horizontal rows called?",
+            "options": [
+                "Groups",
+                "Families",
+                "Periods",
+                "Blocks"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Horizontal rows in the periodic table are referred to as periods, while vertical columns are groups.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13595,
+            "question_text": "Which bond is formed by the transfer of electrons between atoms?",
+            "options": [
+                "Covalent bond",
+                "Ionic bond",
+                "Hydrogen bond",
+                "Metallic bond"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ionic bonds occur due to the electrostatic attraction between oppositely charged ions created by electron transfer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13596,
+            "question_text": "What is the oxidation state of pure elements in their natural state?",
+            "options": [
+                "+1",
+                "-1",
+                "0",
+                "Dependent on the element"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "By definition, the oxidation state of an atom in its elemental form is zero.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13597,
+            "question_text": "Which element has the atomic number 6?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Carbon is the sixth element in the periodic table, having 6 protons in its nucleus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13598,
+            "question_text": "What type of reaction involves the exchange of ions between two compounds?",
+            "options": [
+                "Combination",
+                "Decomposition",
+                "Single displacement",
+                "Double displacement"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "In a double displacement reaction, the cations and anions of two compounds switch places to form two new compounds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13599,
+            "question_text": "What is the most abundant gas in Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Argon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

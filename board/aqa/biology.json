@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Biology",
+    "board": "aqa",
+    "subject": "biology",
+    "url": "/aqa/biology/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8795,
+            "question_text": "Which cell structure is commonly referred to as the 'powerhouse' because it generates energy?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondrion",
+                "Cell membrane"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are the sites of cellular respiration where ATP (energy) is produced for the cell.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8799,
+            "question_text": "Which of the following is a process that moves water into a cell?",
+            "options": [
+                "Diffusion",
+                "Osmosis",
+                "Active transport",
+                "Mitosis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Osmosis is the specific term for the movement of water molecules across a semi-permeable membrane from a high to low concentration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8820,
+            "question_text": "Which organelle is known as the 'powerhouse' of the cell because it produces energy?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondrion",
+                "Chloroplast"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are the sites of aerobic respiration, where energy is produced in the form of ATP.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8821,
+            "question_text": "Which part of the cell is known as the 'powerhouse' because it generates energy?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondrion",
+                "Vacuole"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are the site of cellular respiration, where ATP (energy) is produced for the cell.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,515 @@
+{
+    "category": "FIA",
+    "name": "Islamiat — Important Islamic Battles (Badr, Uhud, Khandaq, etc.)",
+    "board": "fia",
+    "subject": "islamiat-important-islamic-battles-badr-uhud-khandaq-etc",
+    "url": "/fia/islamiat-important-islamic-battles-badr-uhud-khandaq-etc/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 36,
+    "questions": [
+        {
+            "id": 1023,
+            "question_text": "Under the 1973 Constitution, which key provision was introduced to ensure that the President acts on the advice of the Prime Minister?",
+            "options": [
+                "Article 254 (Applicability of Constitution)",
+                "Article 242 (Representation)",
+                "Article 58(2) (Suspension of Constitution)",
+                "The Council of Common Interests (CCI) recommendation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Article 58(2) previously allowed the President to dismiss the government, but subsequent amendments have curtailed this power, solidifying the PM's advisory role.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1024,
+            "question_text": "Which constitutional amendment greatly reinforced the federal nature of Pakistan's governance structure by redefining the relationship between federal and provincial domains?",
+            "options": [
+                "Eighteenth Amendment (2010)",
+                "Eighth Amendment (2010)",
+                "Seventeenth Amendment (2018)",
+                "First Amendment (1974)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Eighteenth Amendment (2010) restored the federal structure, eliminating key remnants of the presidential system and decentralizing power to the provinces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1025,
+            "question_text": "The mountainous region that forms the border between Khyber Pakhtunkhwa and Afghanistan, and contains the Khyber Pass, is best characterized as part of which major mountain range?",
+            "options": [
+                "Himalayas",
+                "Karakoram Range",
+                "Hindu Kush",
+                "Sulaiman Range"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Sulaiman Range runs through the region and includes passes like the Khyber Pass, which is critical for connectivity with Afghanistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1534,
+            "question_text": "According to the Constitution of Pakistan (1973), which constitutional body holds the primary authority for interpreting the provisions of the Constitution?",
+            "options": [
+                "Council of Islamic Ideology (CII)",
+                "Supreme Court of Pakistan",
+                "National Assembly",
+                "Ministry of Law and Justice"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Supreme Court is the final interpreter of the Constitution, acting as the guardian of the constitutional provisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1834,
+            "question_text": "Which key feature of the 1973 Constitution of Pakistan established a parliamentary system while maintaining a strong federal structure, significantly influencing provincial autonomy?",
+            "options": [
+                "The establishment of a bicameral legislature with equal representation for all provinces.",
+                "The requirement of a Prime Minister chosen by the National Assembly, under the supervision of the President.",
+                "The mandatory inclusion of emergency powers vesting solely in the federal government.",
+                "The division of powers outlined in the Federal and Provincial Lists (Concurrent List)."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The PM-led federal government system (parliamentary structure) was enshrined, making the executive responsible to the elected lower house (National Assembly).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1835,
+            "question_text": "Which national institution is primarily responsible for advising the Government on the constitutional and legal framework of Pakistan, especially concerning disputes between federal and provincial levels?",
+            "options": [
+                "National Accountability Bureau (NAB)",
+                "Pakistan Penal Code (PPC)",
+                "Council of Common Interest (CCI)",
+                "Parliamentary Committee on Oversight"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The CCI coordinates legislative and fiscal matters between the federal and provincial governments, serving as a key advisory body on constitutional disputes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2028,
+            "question_text": "Which major river system flows through the Punjab and Sindh provinces, sustaining the majority of Pakistan's agricultural activities and historically forming the basis of its civilization?",
+            "options": [
+                "The Ravi River System",
+                "The Sutlej River System",
+                "The Chenab-Jhelum System",
+                "The Indus River System"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Indus River System is the most extensive and vital river network in Pakistan, supporting massive agricultural economies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2078,
+            "question_text": "Which constitutional amendment formally established the concept of a federal structure and decentralized powers significantly following the political turmoil of the 1970s?",
+            "options": [
+                "Eighteenth Amendment",
+                "Thirteenth Amendment",
+                "Twenty-Third Amendment",
+                "Seventeenth Amendment"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 18th Amendment (2010) devolved substantial powers from the federal to the provincial governments, reinforcing the federal structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2228,
+            "question_text": "Under the Constitution of Pakistan (1973), which principle dictates that all citizens are equal before the law, regardless of religion or background?",
+            "options": [
+                "Equality before law",
+                "Federalism",
+                "Islamic principles",
+                "Fundamental Rights"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Equality before law is a core constitutional principle ensuring that the law applies equally to all citizens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2229,
+            "question_text": "Which major river system is crucial for the agricultural economy of Sindh, originating in the mountains and flowing through the Indus floodplain?",
+            "options": [
+                "Chenab River",
+                "Sutlej River",
+                "Indus River",
+                "Jhelum River"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Indus River and its tributaries form the primary lifelines for Sindh's agriculture and economy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2538,
+            "question_text": "Which of the following statements accurately describes the federal nature of the Constitution of Pakistan (1973) regarding provincial autonomy?",
+            "options": [
+                "It mandates that all provincial laws must be ratified by the federal parliament without exception.",
+                "It granted absolute legislative authority to provinces, thus dismantling the centralized federal structure.",
+                "It established a bicameral legislature with specific provisions to safeguard provincial rights and ensure a shared federation.",
+                "It primarily gave control over foreign policy and defense to the center, minimizing provincial input."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Constitution established a system of shared power through the bicameral parliament (National and Provincial Assemblies) to balance federal needs with provincial rights.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2539,
+            "question_text": "Which major river system is primarily responsible for irrigating the fertile plains of Punjab and Sindh, making them the agricultural breadbaskets of Pakistan?",
+            "options": [
+                "Jhelum River System",
+                "Chenab River System",
+                "Indus River System",
+                "Sutlej River System"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Indus River System, along with its tributaries (Jhelum, Chenab, Ravi, etc.), forms the lifeblood for the vast agricultural lands of Punjab and Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2798,
+            "question_text": "Which fundamental principle established by the Constitution of Pakistan (1973) ensures the supremacy of the Constitution over all other laws and institutions?",
+            "options": [
+                "The Objectives Resolution",
+                "Article 50",
+                "The Federal List",
+                "Article 2"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Article 2 mandates that any law or action inconsistent with the Constitution shall be void, establishing the Constitution's supremacy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3150,
+            "question_text": "Which of the following mountain ranges significantly influences the climate and agricultural patterns of the Punjab and Sindh provinces through localized precipitation and shelter?",
+            "options": [
+                "The Chitral Range",
+                "The Sulaiman Range",
+                "The Himalayas",
+                "The Kirthar Range"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Sulaiman Range runs parallel to the Sindh province, creating localized microclimates and influencing river flow and agricultural zoning in the region.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3370,
+            "question_text": "Which major river system primarily supports agriculture and population density in the Sindh province and flows through major cities like Hyderabad and Sukkur?",
+            "options": [
+                "Sutlej River",
+                "Indus River",
+                "Chenab River",
+                "River Ravi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Indus River is the largest river system in Pakistan, crucial for agriculture and life in Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3720,
+            "question_text": "Which institution is primarily responsible for conducting and setting the standards for public service examinations across various provincial civil services in Pakistan?",
+            "options": [
+                "Higher Education Commission (HEC)",
+                "Pakistan Institute of Management (PIM)",
+                "Federal Public Service Commission (FPSC)",
+                "Provincial Management Service Board (PMSB)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "FPSC is the federal body responsible for recruitment and standards setting for civil services, while provincial boards handle local examinations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4382,
+            "question_text": "Which national institution is primarily responsible for setting the national educational curriculum standards and accrediting universities in Pakistan?",
+            "options": [
+                "Higher Education Commission (HEC)",
+                "National Testing Service (NTS)",
+                "Pakistan Council of Arts & Culture (PCAC)",
+                "Federal Board of Inter-Secondary Education (FBISE)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The HEC oversees the entire higher education sector, including curriculum standards and accreditation of degrees and institutions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4483,
+            "question_text": "During which period was the Lahore Resolution, advocating for separate Muslim state, formally passed by the Muslim League?",
+            "options": [
+                "Minto-Childrie Reforms",
+                "Cripps Mission meeting",
+                "Lucknow Pact",
+                "Lahore Session (1940)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Lahore Resolution was formally passed at the annual session of the All-India Muslim League held in Lahore in 1940.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5054,
+            "question_text": "Which major river system is primarily responsible for the agriculture and irrigation of Sindh province, originating from the Indus River?",
+            "options": [
+                "River Ravi",
+                "River Sutlej",
+                "River Indus",
+                "River Chenab"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Indus River is the main artery passing through and providing the primary water source for large parts of Sindh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5253,
+            "question_text": "The 1973 Constitution of Pakistan primarily established which form of governance, thereby consolidating parliamentary democracy?",
+            "options": [
+                "Confederal Republic",
+                "Unitary Military Regime",
+                "Presidential Dictatorship",
+                "Parliamentary Federal System"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The 1973 Constitution mandated a Parliamentary system where the Prime Minister and Council of Ministers are accountable to the National Assembly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5873,
+            "question_text": "According to the Constitution of Pakistan (1973), what is the constitutional basis for the appointment and functioning of the Federal Ombudsman or relevant accountability mechanisms?",
+            "options": [
+                "A specialized ordinance passed by the Prime Minister's Secretariat.",
+                "The constitutional authority derived solely from Article 58(2) of the Constitution.",
+                "Specific provisions relating to public grievances and institutional oversight.",
+                "The discretion of the President and the recommendation of the Election Commission."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Constitution dedicates specific articles and sections to ensure institutional oversight mechanisms like the Ombudsman operate under defined constitutional mandates.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5973,
+            "question_text": "According to the Constitution of Pakistan (1973), which fundamental right ensures that every citizen has the freedom to practice their religion or belief without fear or coercion?",
+            "options": [
+                "Article 25",
+                "Article 19",
+                "Article 20",
+                "Article 17"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Article 20 of the Constitution guarantees the right to freedom of religion, which is a fundamental right for all Pakistani citizens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6204,
+            "question_text": "Which article of the Constitution of Pakistan (1973) deals with the core principles of democracy and mandates the electoral system, thereby defining the basic structure of governance?",
+            "options": [
+                "Article 25",
+                "Article 6",
+                "Article 2",
+                "Article 5"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Article 2 is the fundamental article that outlines the core principles and structure of the state, including democracy and the supremacy of the Constitution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6205,
+            "question_text": "Under the Constitution of Pakistan (1973), which provision establishes the principle of federalism and distributes powers between the Federation and the provinces?",
+            "options": [
+                "The provision regarding the writ of habeas corpus for fundamental rights protection.",
+                "The distribution of legislative powers via the Federal and Provincial Lists.",
+                "Article 27, which guarantees equal rights to men and women.",
+                "The requirement for a minimum age of 25 for presidential candidates."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Federal and Provincial Lists (Seventh Schedule) are the core mechanisms that define and distribute the constitutional powers between the federal and provincial levels, embodying federalism.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6279,
+            "question_text": "The role of the Council of Common Interest (CCI) under the 1973 Constitution is primarily to:",
+            "options": [
+                "Determine the budget allocation for all provincial sectors.",
+                "Appoint the Chief Ministers of the provinces upon election.",
+                "Overrule decisions made by the Supreme Court regarding federal law.",
+                "Resolve disputes and coordinate matters of common interest among federating units."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The CCI acts as a forum for coordinating and resolving issues of common interest between the federal government and the provinces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6280,
+            "question_text": "Which major river is widely recognized as the lifeblood of Sindh and plays a critical role in the agriculture and economy of the province?",
+            "options": [
+                "Chenab River",
+                "Sutlej River",
+                "Jhelum River",
+                "Indus River"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Indus River is the principal river system flowing through Sindh, which is crucial for the region's agricultural backbone and economy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6357,
+            "question_text": "Which key provision of the 1973 Constitution established the principle of provincial autonomy and decentralized power?",
+            "options": [
+                "The division of powers outlined in the Concurrent List and Article 140-A.",
+                "The constitutional establishment of the Supreme Court of Pakistan.",
+                "The mandatory inclusion of the Islamic Ideology Council in all provinces.",
+                "The creation of the Federal Public Service Commission (FPSC) for civil service management."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The division of powers, particularly through lists like the Concurrent List, grants significant autonomy to the provinces, promoting federal structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6358,
+            "question_text": "What fundamental concept regarding the Head of State and Head of Government relationship is maintained by the Constitution of Pakistan (1973)?",
+            "options": [
+                "The Prime Minister acts as the Head of State and Government simultaneously.",
+                "The Chief Justice of Pakistan assumes the role of Head of State when the President is absent.",
+                "The President is the Head of State, while the Prime Minister is the Head of Government.",
+                "The role of Head of State and Head of Government is vested solely in the Senate Speaker."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Constitution establishes a clear separation of roles where the President serves as the constitutional Head of State, and the Prime Minister functions as the Head of Government, operating under the parliamentary system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6359,
+            "question_text": "The mountain range forming the northern border of Pakistan and containing peaks like K2 (Mount Godwin Austen) is:",
+            "options": [
+                "Karakoram Range",
+                "Hindu Kush",
+                "Himalayas",
+                "Sulaiman Range"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Karakoram Range is the specific mountain system known for housing K2, the world's fifth-highest peak, and stretching across the northern regions of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6505,
+            "question_text": "The Constitution of Pakistan (1973) introduced which significant constitutional safeguard aimed at ensuring provincial autonomy and decentralization of power?",
+            "options": [
+                "The division of powers under the Concurrent List.",
+                "The establishment of a federal judiciary system.",
+                "The creation of a centralized military planning authority.",
+                "The mandatory inclusion of a National Language Council."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Constitution formalizes the division of legislative powers across the Federal, Provincial, and Concurrent lists, which is the primary constitutional mechanism supporting provincial autonomy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6577,
+            "question_text": "Which constitutional feature introduced by the 1973 Constitution defines the relationship between provincial and federal governments, emphasizing shared legislative authority?",
+            "options": [
+                "Unitarianism",
+                "Federalism",
+                "Decentralization",
+                "Confederalism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 1973 Constitution established a federal structure, defining clear powers and mechanisms of cooperation between the Center and the Provinces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6578,
+            "question_text": "Which constitutional mechanism is responsible for recommending changes or amendments to the Constitution of Pakistan (1973)?",
+            "options": [
+                "The constitutional amendment process initiated by Parliament",
+                "The National Assembly's Committee on Legal Affairs",
+                "The Supreme Judicial Council (SJC)",
+                "The Council of Islamic Ideology (CII)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "All constitutional amendments must follow the prescribed process outlined in Article 275, requiring the initiative and passage through Parliament.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6579,
+            "question_text": "Which river system is crucial for the cultivation of crops in the Punjab region, forming its agricultural backbone?",
+            "options": [
+                "Swat River System",
+                "Sindh River System",
+                "Indus-Sutlej System",
+                "Jhelum-Chenab-Ravi System"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The confluence of the Jhelum, Chenab, and Ravi rivers, along with their tributaries, is vital for the intensive agriculture characteristic of the Punjab plains.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6646,
+            "question_text": "Which Article of the Constitution of Pakistan (1973) establishes the structure and powers of the Federal and Provincial governments?",
+            "options": [
+                "Article 242",
+                "Article 136",
+                "Article 140",
+                "Article 25"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Article 136 deals with the division of powers between the Federation and the Provinces, forming the basis of federal structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6726,
+            "question_text": "Which article of the 1973 Constitution establishes the principle of a parliamentary system of government in Pakistan?",
+            "options": [
+                "Article 20",
+                "Article 2",
+                "Article 10",
+                "Article 9"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "This question is fundamentally flawed. No single article number listed establishes the entire principle of a parliamentary system. The system's structure is defined by multiple articles and constitutional conventions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6727,
+            "question_text": "Which national institution played a critical role in drafting the foundational structure of Pakistan's governmental framework in the immediate post-independence period, particularly concerning the initial constitutional debates?",
+            "options": [
+                "Economic and Social Council (ESC)",
+                "Defence Services Lahore Directorate (DSLD)",
+                "Pakistan Planning Board (PPB)",
+                "Constituent Assembly of Pakistan (CAP)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Constituent Assembly of Pakistan (CAP) was the body tasked with creating the basic laws and constitutional structure of the newly formed Pakistani state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

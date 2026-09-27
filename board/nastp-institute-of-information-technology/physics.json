@@ -1,0 +1,319 @@
+{
+    "category": "NASTP Institute of Information Technology",
+    "name": "Physics",
+    "board": "nastp-institute-of-information-technology",
+    "subject": "physics",
+    "url": "/nastp-institute-of-information-technology/physics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 22,
+    "questions": [
+        {
+            "id": 11035,
+            "question_text": "Which law states that force is equal to mass times acceleration?",
+            "options": [
+                "Newton's First Law",
+                "Newton's Second Law",
+                "Newton's Third Law",
+                "Hooke's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Newton's Second Law of motion defines the relationship between force, mass, and acceleration as F=ma.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11036,
+            "question_text": "What is the unit of electrical resistance?",
+            "options": [
+                "Volt",
+                "Ampere",
+                "Ohm",
+                "Watt"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Ohm is the SI unit of electrical resistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11037,
+            "question_text": "Which particle has a positive charge?",
+            "options": [
+                "Electron",
+                "Neutron",
+                "Proton",
+                "Photon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Protons carry a positive elementary charge, while electrons are negative and neutrons are neutral.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11038,
+            "question_text": "What is the SI unit of power?",
+            "options": [
+                "Joule",
+                "Watt",
+                "Newton",
+                "Volt"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Power is defined as energy per unit time, and its SI unit is the Watt.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11039,
+            "question_text": "According to the law of reflection, the angle of incidence is:",
+            "options": [
+                "Equal to the angle of reflection",
+                "Greater than the angle of reflection",
+                "Smaller than the angle of reflection",
+                "Always 90 degrees"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The law of reflection states that the angle of incidence equals the angle of reflection measured from the normal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11040,
+            "question_text": "Which color of light has the longest wavelength?",
+            "options": [
+                "Violet",
+                "Green",
+                "Blue",
+                "Red"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "In the visible spectrum, red light has the longest wavelength and the lowest frequency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11041,
+            "question_text": "What does the term 'Inertia' refer to?",
+            "options": [
+                "Rate of change of velocity",
+                "Resistance of an object to change its state of motion",
+                "Force acting on an object",
+                "Energy possessed by a body"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inertia is the property of matter by which it continues in its existing state of rest or uniform motion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11042,
+            "question_text": "Which principle explains why an airplane generates lift?",
+            "options": [
+                "Archimedes' principle",
+                "Bernoulli's principle",
+                "Newton's first law",
+                "Hooke's law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Bernoulli's principle states that as the speed of a fluid increases, its pressure decreases, which creates lift on airplane wings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11043,
+            "question_text": "What is the value of the gravitational acceleration on the surface of the Earth approximately?",
+            "options": [
+                "9.8 m/s^2",
+                "8.9 m/s^2",
+                "10.5 m/s^2",
+                "9.0 m/s^2"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The standard acceleration due to gravity on Earth is approximately 9.8 m/s².",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11044,
+            "question_text": "Which type of mirror always produces a virtual, upright, and diminished image?",
+            "options": [
+                "Concave mirror",
+                "Convex mirror",
+                "Plane mirror",
+                "Parabolic mirror"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A convex mirror diverges light rays and always forms a virtual, erect, and smaller image of an object.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13484,
+            "question_text": "Which of Newton's laws states that for every action, there is an equal and opposite reaction?",
+            "options": [
+                "First Law",
+                "Second Law",
+                "Third Law",
+                "Law of Universal Gravitation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Newton's Third Law defines the principle of action and reaction forces occurring in pairs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13485,
+            "question_text": "What is the unit of electric resistance?",
+            "options": [
+                "Volt",
+                "Ampere",
+                "Ohm",
+                "Watt"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Ohm is the SI unit of electrical resistance, defined as the resistance between two points of a conductor when a constant potential difference of 1 volt produces a current of 1 ampere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13487,
+            "question_text": "Which phenomenon describes the bending of light as it passes through a different medium?",
+            "options": [
+                "Reflection",
+                "Refraction",
+                "Diffraction",
+                "Polarization"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Refraction is the change in direction of a wave passing from one medium to another caused by its change in speed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13488,
+            "question_text": "If an object is in free fall (ignoring air resistance), what is its acceleration?",
+            "options": [
+                "0 m/s^2",
+                "9.8 m/s^2",
+                "Constant velocity",
+                "Increasing exponentially"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Acceleration due to gravity near Earth's surface is approximately 9.8 m/s^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13489,
+            "question_text": "Which law relates voltage, current, and resistance in a circuit?",
+            "options": [
+                "Kirchhoff's Law",
+                "Ohm's Law",
+                "Faraday's Law",
+                "Lenz's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ohm's Law states that V = IR, where V is voltage, I is current, and R is resistance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13490,
+            "question_text": "What is the kinetic energy of an object with mass m and velocity v?",
+            "options": [
+                "mv",
+                "m*v^2",
+                "0.5*m*v^2",
+                "m*g*h"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The formula for kinetic energy is 1/2 * mass * velocity squared.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13491,
+            "question_text": "Which particle is primarily responsible for conducting electricity in a copper wire?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Photon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Free electrons moving through the lattice of metal atoms constitute an electric current.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13492,
+            "question_text": "What happens to the pressure of a gas in a closed container if the temperature is increased?",
+            "options": [
+                "Pressure decreases",
+                "Pressure increases",
+                "Pressure remains constant",
+                "Volume decreases"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to Gay-Lussac's Law, pressure is directly proportional to absolute temperature for a fixed volume of gas.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13493,
+            "question_text": "What is the speed of light in a vacuum?",
+            "options": [
+                "3 x 10^5 m/s",
+                "3 x 10^8 m/s",
+                "3 x 10^10 m/s",
+                "3 x 10^6 m/s"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The universal constant for the speed of light in a vacuum is approximately 300,000 km/s or 3 x 10^8 m/s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13494,
+            "question_text": "What is the gravitational potential energy of an object of mass 'm' at height 'h'?",
+            "options": [
+                "1/2mv^2",
+                "mgh",
+                "ma",
+                "F/d"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Gravitational potential energy is defined by the product of mass, gravity, and height.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13495,
+            "question_text": "According to the Heisenberg Uncertainty Principle, what cannot be measured simultaneously with high precision?",
+            "options": [
+                "Mass and velocity",
+                "Position and momentum",
+                "Time and distance",
+                "Energy and force"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Heisenberg's principle states that the position and momentum of a particle cannot both be known to arbitrary precision.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13496,
+            "question_text": "Which color of visible light has the shortest wavelength?",
+            "options": [
+                "Red",
+                "Yellow",
+                "Green",
+                "Violet"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "In the visible spectrum, violet light has the shortest wavelength and highest frequency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

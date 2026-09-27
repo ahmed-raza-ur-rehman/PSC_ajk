@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Mathematics — Statistics",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "mathematics-statistics",
+    "url": "/national-cybercrime-investigation-agency/mathematics-statistics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14584,
+            "question_text": "Which international body recently established the 'Loss and Damage' fund mechanism, aiming to compensate developing nations severely impacted by climate change?",
+            "options": [
+                "UN Climate Change Conference (COP)",
+                "World Trade Organization (WTO)",
+                "Global Biodiversity Framework (GBF)",
+                "International Monetary Fund (IMF)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 'Loss and Damage' fund was a major commitment made at the COP27 and solidified at subsequent COP meetings, directly through the UN Framework Convention on Climate Change (UNFCCC) process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,459 @@
+{
+    "category": "FIA",
+    "name": "General Knowledge — Important Personalities, Awards & International Events",
+    "board": "fia",
+    "subject": "general-knowledge-important-personalities-awards-international-events",
+    "url": "/fia/general-knowledge-important-personalities-awards-international-events/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 32,
+    "questions": [
+        {
+            "id": 1073,
+            "question_text": "In Linux, which command is primarily used to view the contents of a file in a structured, paginated manner, especially for large files, without needing to download the entire file?",
+            "options": [
+                "head",
+                "less",
+                "more",
+                "cat"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'less' command allows viewing files page by page, enabling seamless backward scrolling, making it ideal for large file inspection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1074,
+            "question_text": "Which of the following operating system concepts best describes the process of isolating one program's failure so it does not crash the entire system?",
+            "options": [
+                "Process Isolation",
+                "Virtualization",
+                "Segmentation",
+                "Concurrency"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Process isolation ensures that separate processes run independently, preventing one faulty application from compromising the stability of the entire OS or other running programs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1075,
+            "question_text": "When managing memory in Windows, what is the function of the Page File (pagefile.sys)?",
+            "options": [
+                "It exclusively stores temporary internet files and browser cache data.",
+                "It acts as virtual memory, storing data overflow from RAM to disk.",
+                "It manages the system's network adapter drivers and connection logs.",
+                "It is primarily responsible for displaying graphical user interface elements."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Page File implements virtual memory, extending the physical RAM's capacity by utilizing hard drive space when RAM becomes full.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1485,
+            "question_text": "Which command is commonly used in Linux environments to view the system's memory usage and running processes in real-time?",
+            "options": [
+                "systeminfo",
+                "ps aux",
+                "top",
+                "memdump"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 'top' command provides a dynamic, real-time view of system performance, including CPU and memory usage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1584,
+            "question_text": "In Windows OS, what is the primary function of the Task Manager (Ctrl+Shift+Esc)?",
+            "options": [
+                "To manage user accounts and set global system policies.",
+                "To recover deleted files and restore previous system states.",
+                "To monitor and manage running applications and system resources.",
+                "To change the computer's display resolution and monitor settings."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Task Manager allows users to view, manage, and terminate problematic programs and analyze resource usage (CPU, Memory, Network).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1585,
+            "question_text": "In the context of operating systems, what primary function does a process scheduler perform?",
+            "options": [
+                "To handle all input and output operations for connected peripheral devices.",
+                "To translate logical addresses into physical memory addresses.",
+                "To determine which process in the ready queue will receive CPU time next.",
+                "To manage the physical memory allocation and deallocation among processes."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The process scheduler selects the next process to run, optimizing resource utilization based on defined scheduling algorithms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1685,
+            "question_text": "Which Linux command is primarily used to change the permissions (read, write, execute) of files and directories?",
+            "options": [
+                "chmod",
+                "chown",
+                "useradd",
+                "mkdir"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The chmod command changes file permissions, while chown changes the file owner.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1785,
+            "question_text": "In a Linux environment, which command is primarily used to display the running processes and their associated information, such as CPU usage and memory consumption?",
+            "options": [
+                "ls -l",
+                "cd ..",
+                "ps aux",
+                "grep processes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 'ps aux' command provides a detailed snapshot of all running processes (user, all, human-readable format).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1885,
+            "question_text": "Which fundamental process describes how an operating system manages and assigns resources (like CPU time and memory) to multiple running programs simultaneously?",
+            "options": [
+                "Virtualization",
+                "Kernel Mode",
+                "File Allocation",
+                "Multitasking"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Multitasking allows the OS to switch rapidly between processes, giving the illusion that multiple programs run concurrently, managing CPU time effectively.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1886,
+            "question_text": "In a Linux environment, which command is primarily used to display the current working directory and the total number of files within it?",
+            "options": [
+                "ls",
+                "dir",
+                "cd",
+                "pwd"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 'ls' command lists directory contents (files and folders). While 'pwd' shows the path, 'ls' is the standard tool for viewing directory content and summarizing files.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1985,
+            "question_text": "When comparing Windows and Linux operating systems, which feature best describes the foundational difference in managing system resources and allowing for decentralized customization?",
+            "options": [
+                "Windows exclusively supports GUI interfaces, limiting its console functionality.",
+                "Windows offers superior hardware compatibility across all peripheral devices.",
+                "Linux does not require administrator passwords for basic user operations.",
+                "Linux uses a kernel architecture that is inherently modular and open-source, unlike Windows."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Linux's modular, open-source kernel structure allows for extensive customization and transparency, which is its core architectural advantage over Windows.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1986,
+            "question_text": "Which of the following mechanisms is primarily responsible for allocating memory to processes and preventing them from corrupting the memory space of other processes in modern operating systems like Windows or Linux?",
+            "options": [
+                "Virtual Memory Addressing (Paging/Segmentation)",
+                "Kernel Mode Switching",
+                "Process Scheduling Algorithm (Round Robin)",
+                "File Descriptor Management"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Virtual memory provides an isolated address space for each process, making it believe it has full memory access while preventing unauthorized access to others' space.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2463,
+            "question_text": "In a Linux environment, which command is used to monitor the current usage of CPU, memory, and other system resources in real-time and is generally considered a comprehensive system monitor?",
+            "options": [
+                "top",
+                "df -h",
+                "lsof -i",
+                "ps aux"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 'top' command offers a dynamic, real-time view of system resource consumption, including CPU load and memory usage, making it the most comprehensive monitoring tool.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2564,
+            "question_text": "In an Operating System context, what is the primary purpose of a 'Process Scheduler'?",
+            "options": [
+                "To handle the graphical user interface (GUI) rendering.",
+                "To determine which process should receive CPU time next.",
+                "To manage the physical memory allocation between processes.",
+                "To permanently store all user files and system data."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The scheduler is responsible for allocating CPU time to competing processes efficiently, managing multi-tasking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2713,
+            "question_text": "Which Linux command is used to view the usage statistics and resource consumption of currently running processes?",
+            "options": [
+                "pwd -a",
+                "ls -l",
+                "ifconfig",
+                "top"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The 'top' command provides a dynamic, real-time view of system resources and running processes, essential for system monitoring.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5924,
+            "question_text": "Which process in an operating system manages the physical memory allocation and ensures that different running programs do not interfere with each other's memory space?",
+            "options": [
+                "Memory Management Unit (MMU)",
+                "Process Scheduler",
+                "File System Driver",
+                "Kernel Module Loader"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The MMU translates virtual addresses to physical addresses, providing isolation and preventing memory conflicts between processes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6024,
+            "question_text": "Which command is primarily used in Linux environments to view the contents of a file, similar to using Notepad or a text editor in Windows, without requiring the file to be opened into an editor?",
+            "options": [
+                "cat",
+                "pwd",
+                "ls -l",
+                "cd"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 'cat' command (concatenate) outputs the entire content of a file to standard output, making it ideal for quick viewing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6101,
+            "question_text": "Which concept allows a modern operating system, like Windows or Linux, to execute multiple processes concurrently, making it appear as if they are running simultaneously?",
+            "options": [
+                "Memory Virtualization",
+                "Multi-processing",
+                "Time-sharing",
+                "Kernel Scheduling"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Time-sharing is the technique that rapidly switches CPU execution between different tasks, giving the illusion of simultaneous execution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6169,
+            "question_text": "In the context of operating systems, what is the primary function of a process scheduler?",
+            "options": [
+                "To manage physical memory allocation among running programs.",
+                "To translate virtual memory addresses into physical addresses.",
+                "To determine which process gets CPU time and for how long.",
+                "To handle the input and output requests from peripheral devices."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The scheduler selects and manages which process runs next, thus allocating CPU time to various tasks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6239,
+            "question_text": "In Linux, which command is primarily used to view network configuration details, such as IP addresses, subnet masks, and broadcast addresses, on a machine?",
+            "options": [
+                "ip addr show",
+                "netstat -l",
+                "ip a",
+                "ifconfig -a"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "While 'ip a' and 'ifconfig -a' are used, 'ip addr show' is the modern and recommended utility in newer Linux distributions for detailed IP configuration viewing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6240,
+            "question_text": "Which command is primarily used in Linux environments to display the network configuration details and assigned IP addresses of a host machine?",
+            "options": [
+                "ifconfig",
+                "ip a",
+                "ipconfig",
+                "networkstatus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ip a (or ip addr) is the modern and preferred replacement for ifconfig in Linux to show network interface addresses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6320,
+            "question_text": "Which of the following commands is used in Linux to display the current working directory?",
+            "options": [
+                "cd",
+                "ls",
+                "dir",
+                "pwd"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The 'pwd' (print working directory) command shows the absolute path of the current directory in a Linux terminal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6321,
+            "question_text": "In Linux operating system, which command is typically used to change the permissions of a file or directory (read, write, execute) for different user classes?",
+            "options": [
+                "ls -l",
+                "mv",
+                "chown",
+                "chmod"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The 'chmod' command changes file permissions (read, write, execute) for different users, while 'chown' changes the owner of the file.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6399,
+            "question_text": "In Linux command line interface, which command is used to display the current working directory, regardless of the name of the directory?",
+            "options": [
+                "where",
+                "pwdar",
+                "dir",
+                "pwd"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The 'pwd' (Print Working Directory) command displays the absolute path of the directory the user is currently located in.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6466,
+            "question_text": "In the context of operating systems, what is the primary function of a 'kernel'?",
+            "options": [
+                "To store user-created data and configuration settings.",
+                "To manage hardware resources and provide core services to applications.",
+                "To serve as the Graphical User Interface (GUI) layer for user interaction.",
+                "To allow remote connectivity and network browsing only."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The kernel is the core component of an OS, mediating between the hardware and the application software.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6543,
+            "question_text": "What fundamental concept in Operating Systems manages the allocation and deallocation of main memory to multiple running programs (processes) to prevent conflicts and ensure efficiency?",
+            "options": [
+                "Virtual Memory Management",
+                "Process Scheduling",
+                "Device Drivers",
+                "Memory Segmentation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Virtual Memory Management creates the illusion of a large, contiguous memory space for each process, allowing the OS to safely allocate memory and utilize disk space when physical RAM is exhausted.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6611,
+            "question_text": "Which network command is used to display active connections, listening ports, and the processes utilizing those ports on a Linux or Unix-like system?",
+            "options": [
+                "netstat",
+                "ping",
+                "nslookup",
+                "ipconfig"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Netstat displays active network connections and socket statistics, making it essential for monitoring port usage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6688,
+            "question_text": "In Linux networking terms, what does the 'netstat' command primarily help a user determine?",
+            "options": [
+                "The physical MAC address of a network interface.",
+                "The IP address assigned by the default DHCP server.",
+                "The amount of free memory available in RAM.",
+                "Active network connections, routing tables, and listening ports."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "'netstat' (or 'ss' in modern Linux) reports crucial network statistics, including the status of active connections, which ports are open (listening), and the protocols in use.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6764,
+            "question_text": "In Linux process management, if a process is running abnormally or needs to be terminated forcefully, which combination of commands is typically used to identify its Process ID (PID) and then stop it?",
+            "options": [
+                "show task process & quit PID",
+                "top process & exit PID",
+                "dir process & kill processname",
+                "ps aux | grep processname & kill PID"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The `ps aux | grep processname` combination filters active processes to find the PID, and `kill PID` sends the termination signal to that specific process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6765,
+            "question_text": "What does the Linux pipe symbol ('|') primarily facilitate in the command line environment?",
+            "options": [
+                "Ending a command block",
+                "Executing commands in parallel",
+                "Redirecting output of one command to the input of another",
+                "Creating a temporary file storage directory"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pipe symbol ('|') connects commands, passing the standard output (stdout) of the first command as the standard input (stdin) to the second command.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6837,
+            "question_text": "What is the primary function of the operating system kernel in modern computing systems?",
+            "options": [
+                "To act as the core intermediary that manages hardware resources and allocates memory to applications.",
+                "To store user data, documents, and personal photos for retrieval.",
+                "To process high-level programming languages like Python or Java.",
+                "To manage the graphical user interface (GUI) components and draw windows."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The kernel is the core component that mediates communication between the hardware (CPU, RAM, I/O devices) and the software applications.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6838,
+            "question_text": "In Windows operating system, which utility is primarily used to check for and repair errors in the hard drive structure?",
+            "options": [
+                "Disk Cleanup",
+                "MSCONFIG",
+                "Task Manager",
+                "chkdsk"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The 'chkdsk' command stands for Check Disk and is the dedicated utility for verifying and repairing file system errors on a Windows drive.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

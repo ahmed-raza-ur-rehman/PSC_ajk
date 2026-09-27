@@ -1,0 +1,109 @@
+{
+    "category": "University of Karachi",
+    "name": "Faculty of Medicine",
+    "board": "university-of-karachi",
+    "subject": "faculty-of-medicine",
+    "url": "/university-of-karachi/faculty-of-medicine/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 10594,
+            "question_text": "Which hormone is primarily responsible for the regulation of blood glucose levels by facilitating cellular uptake?",
+            "options": [
+                "Glucagon",
+                "Adrenaline",
+                "Insulin",
+                "Thyroxine"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Insulin is a hormone produced by the pancreas that allows cells to absorb glucose from the bloodstream, thereby lowering blood sugar.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10595,
+            "question_text": "Which chamber of the heart is responsible for pumping oxygenated blood to the entire systemic circulation?",
+            "options": [
+                "Right atrium",
+                "Left atrium",
+                "Right ventricle",
+                "Left ventricle"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The left ventricle has the thickest walls to generate enough pressure to pump oxygen-rich blood through the aorta to the rest of the body.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10596,
+            "question_text": "What is the primary site of nutrient absorption in the human digestive system?",
+            "options": [
+                "Stomach",
+                "Duodenum",
+                "Jejunum",
+                "Colon"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "While digestion begins earlier, the jejunum is the middle section of the small intestine where the majority of nutrient absorption occurs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10597,
+            "question_text": "Which neurotransmitter is primarily associated with the 'reward circuit' in the human brain?",
+            "options": [
+                "Serotonin",
+                "Dopamine",
+                "Acetylcholine",
+                "GABA"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dopamine is the key neurotransmitter involved in reward-motivated behavior and reinforcement learning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10598,
+            "question_text": "Which of the following describes the 'systole' phase of the cardiac cycle?",
+            "options": [
+                "The heart muscle relaxes",
+                "The ventricles contract and eject blood",
+                "The heart valves close completely",
+                "The atria fill with blood"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Systole is the phase of the heartbeat when the heart muscle contracts and pumps blood from the chambers into the arteries.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10599,
+            "question_text": "Which cranial nerve is responsible for the movement of the muscles of facial expression?",
+            "options": [
+                "Trigeminal nerve",
+                "Facial nerve",
+                "Glossopharyngeal nerve",
+                "Vagus nerve"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The seventh cranial nerve (Facial nerve) provides motor innervation to the muscles of facial expression.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10600,
+            "question_text": "What is the primary function of the alveolar macrophages in the lungs?",
+            "options": [
+                "Gas exchange",
+                "Surfactant production",
+                "Phagocytosis of pathogens",
+                "Mucus secretion"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Alveolar macrophages are immune cells that patrol the alveoli to ingest foreign particles and pathogens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

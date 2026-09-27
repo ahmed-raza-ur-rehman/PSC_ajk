@@ -1,0 +1,165 @@
+{
+    "category": "Bahauddin Zakariya University (BZU)",
+    "name": "Mathematics",
+    "board": "bahauddin-zakariya-university-bzu",
+    "subject": "mathematics",
+    "url": "/bahauddin-zakariya-university-bzu/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10702,
+            "question_text": "If f(x) = 3x^2 + 2x - 5, what is the value of f(-2)?",
+            "options": [
+                "3",
+                "5",
+                "-3",
+                "-1"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Substitute x = -2 into the equation: 3(-2)^2 + 2(-2) - 5 = 3(4) - 4 - 5 = 12 - 9 = 3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10703,
+            "question_text": "What is the slope of the line represented by the equation 4x - 2y + 8 = 0?",
+            "options": [
+                "2",
+                "-2",
+                "4",
+                "-4"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Rewrite in slope-intercept form (y = mx + b): -2y = -4x - 8, which simplifies to y = 2x + 4. The slope m is 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10704,
+            "question_text": "If the sum of two numbers is 45 and their difference is 9, what is the product of the two numbers?",
+            "options": [
+                "486",
+                "450",
+                "420",
+                "466"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Let numbers be x and y. x+y=45, x-y=9. Adding gives 2x=54, x=27. y=18. 27 * 18 = 486.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10705,
+            "question_text": "Solve for x: log(x) + log(x-3) = 1 (base 10).",
+            "options": [
+                "5",
+                "-2",
+                "3",
+                "10"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "log(x^2 - 3x) = 1 implies x^2 - 3x = 10. x^2 - 3x - 10 = 0. (x-5)(x+2)=0. Since log must be positive, x=5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10706,
+            "question_text": "What is the area of a circle with a circumference of 22π units?",
+            "options": [
+                "11π",
+                "121π",
+                "44π",
+                "484π"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Circumference = 2πr = 22π, so r=11. Area = πr^2 = π(11^2) = 121π.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10707,
+            "question_text": "If a triangle has sides of length 7, 24, and 25, what type of triangle is it?",
+            "options": [
+                "Equilateral",
+                "Isosceles",
+                "Right-angled",
+                "Obtuse"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Check Pythagorean theorem: 7^2 + 24^2 = 49 + 576 = 625 = 25^2. Since a^2+b^2=c^2, it is right-angled.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10708,
+            "question_text": "What is the derivative of f(x) = sin(x) * cos(x)?",
+            "options": [
+                "cos(2x)",
+                "sin(2x)",
+                "-sin(2x)",
+                "cos^2(x) - sin^2(x)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "f(x) = 0.5 * sin(2x). Derivative is 0.5 * cos(2x) * 2 = cos(2x).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10709,
+            "question_text": "What is the limit of (x^2 - 1) / (x - 1) as x approaches 1?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "Undefined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Factoring the numerator gives (x-1)(x+1)/(x-1). Canceling (x-1) leaves x+1. Plugging in 1 gives 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10710,
+            "question_text": "If a matrix A = [[1, 2], [3, 4]], what is its determinant?",
+            "options": [
+                "-2",
+                "2",
+                "10",
+                "-10"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Determinant = (ad - bc) = (1*4) - (2*3) = 4 - 6 = -2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10711,
+            "question_text": "What is the integral of 2x dx?",
+            "options": [
+                "x + C",
+                "x^2 + C",
+                "2x^2 + C",
+                "x^2/2 + C"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the power rule for integration, the integral of x^n is x^(n+1)/(n+1). Here, integral of 2x^1 = 2 * (x^2/2) = x^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10712,
+            "question_text": "What is the value of i^2, where i is the imaginary unit?",
+            "options": [
+                "1",
+                "-1",
+                "i",
+                "-i"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "By definition, the imaginary unit i satisfies the equation i^2 = -1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

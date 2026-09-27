@@ -1,0 +1,151 @@
+{
+    "category": "Riphah International University",
+    "name": "Menu Planning",
+    "board": "riphah-international-university",
+    "subject": "menu-planning",
+    "url": "/riphah-international-university/menu-planning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12158,
+            "question_text": "What does a 'cyclic menu' typically involve?",
+            "options": [
+                "A menu that changes daily based on market availability",
+                "A menu that rotates over a set period, often used in hospitals or cafeterias",
+                "A menu that remains the same for the entire year",
+                "A menu only featuring seasonal desserts"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A cyclic menu repeats its items after a predetermined period (e.g., a 4-week cycle), which helps control costs and simplifies inventory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12159,
+            "question_text": "Which factor is most important when analyzing the profitability of a menu item?",
+            "options": [
+                "The physical size of the plate",
+                "The popularity of the item versus its food cost percentage",
+                "The color of the font on the menu",
+                "The number of ingredients in the recipe"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Menu engineering uses a matrix of popularity (stars vs. plowhorses) and profitability to determine which items should stay on the menu.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12160,
+            "question_text": "What is a 'Prix Fixe' menu?",
+            "options": [
+                "A menu where items are priced individually.",
+                "A menu with a set price for a complete multi-course meal.",
+                "A menu that changes only on weekends.",
+                "A buffet-style self-service menu."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Prix fixe means 'fixed price' in French, offering guests a pre-selected sequence of courses for a single cost.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12161,
+            "question_text": "In menu engineering, a 'Plowhorse' item is defined as:",
+            "options": [
+                "Low popularity, high profit.",
+                "High popularity, low profit.",
+                "Low popularity, low profit.",
+                "High popularity, high profit."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Plowhorses are menu items that sell very well but contribute little to the overall margin; they should be refined to increase profit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12162,
+            "question_text": "What is the primary consideration when designing a menu for a healthcare facility?",
+            "options": [
+                "The complexity of the cooking technique.",
+                "Nutritional requirements and dietary restrictions.",
+                "Maximizing the use of fried foods.",
+                "Only offering items that are expensive to prepare."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In healthcare, menus must cater to the specific health needs and restrictions of the patient population served.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12163,
+            "question_text": "What is a 'Static Menu'?",
+            "options": [
+                "A menu that changes based on the season",
+                "A menu where the items do not change from day to day",
+                "A menu that only features appetizers",
+                "A menu that uses digital tablets instead of paper"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A static menu is a consistent offering commonly found in restaurants and diners, providing familiarity to the customer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12164,
+            "question_text": "Which of the following is an example of a 'Star' item in menu engineering?",
+            "options": [
+                "Low profitability, low popularity",
+                "High profitability, high popularity",
+                "Low profitability, high popularity",
+                "High profitability, low popularity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Stars are the ideal menu items that perform well in both sales volume and profit margins.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12165,
+            "question_text": "What is the benefit of a 'Limited Menu'?",
+            "options": [
+                "Higher inventory turnover and reduced waste",
+                "More options for the customer to choose from",
+                "The requirement of a much larger kitchen team",
+                "Increased complexity in preparation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A limited menu allows for streamlined purchasing, faster service, and reduced food waste.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12166,
+            "question_text": "What does a 'Menu Mix' calculation determine?",
+            "options": [
+                "The number of customers who arrive at dinner",
+                "The proportion of each menu item sold relative to total sales",
+                "The temperature at which a dish should be served",
+                "The gender split of the customer base"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Menu mix shows which items are popular and helps managers make decisions about keeping or removing dishes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12167,
+            "question_text": "When designing a menu, what does 'Contribution Margin' represent?",
+            "options": [
+                "The weight of the food in grams",
+                "The portion of sales revenue that remains after covering the raw food cost",
+                "The amount of profit a customer leaves as a tip",
+                "The total taxes paid on food ingredients"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Contribution margin is the difference between the selling price and the cost of the ingredients, representing what is left to cover overhead.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

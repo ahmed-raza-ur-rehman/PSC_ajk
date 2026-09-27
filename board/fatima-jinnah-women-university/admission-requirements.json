@@ -1,0 +1,165 @@
+{
+    "category": "Fatima Jinnah Women University",
+    "name": "Admission Requirements",
+    "board": "fatima-jinnah-women-university",
+    "subject": "admission-requirements",
+    "url": "/fatima-jinnah-women-university/admission-requirements/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 12856,
+            "question_text": "Which document is mandatory to submit during the FJWU admission process for the Associate Degree?",
+            "options": [
+                "Employer recommendation letter",
+                "Original HSSC result card or attested copies",
+                "Professional CV",
+                "Bank account statement"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Academic transcripts and result cards are essential for verifying eligibility and calculating merit scores.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12857,
+            "question_text": "How are students typically selected for admission into the Associate Degree in Economics at FJWU?",
+            "options": [
+                "First-come, first-served",
+                "Merit-based based on academic record",
+                "Lottery system",
+                "Recommendation by faculty"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Admission is competitive and is determined by a merit list based on the applicant's prior academic performance in HSSC or equivalent examinations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12858,
+            "question_text": "Where must the final admission application be submitted?",
+            "options": [
+                "Via email to the Dean of Economics",
+                "In person at the FJWU admission office",
+                "Through the official online FJWU admission portal",
+                "By mail to the university registrar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Modern admission processes at FJWU require all applicants to register and submit their credentials through the centralized online portal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12859,
+            "question_text": "Which of the following is usually required for the verification of the candidate's residence for FJWU admissions?",
+            "options": [
+                "A notarized rental agreement",
+                "CNIC or B-Form showing the applicant's residence",
+                "A letter from a local councilor",
+                "A utility bill from the past 5 years"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Official identity documents like CNIC or B-Form are the standard documents used to verify residency and demographic details during the admission process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12860,
+            "question_text": "What is the primary purpose of the entry test if required for the Associate Degree?",
+            "options": [
+                "To test physical fitness",
+                "To assess aptitude and subject knowledge in basic numeracy",
+                "To check English speaking fluency",
+                "To determine the applicant's religious background"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For an economics-based degree, aptitude tests generally focus on quantitative reasoning, basic mathematics, and logical interpretation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12861,
+            "question_text": "Which of the following documents is strictly required to prove the candidate's domicile status?",
+            "options": [
+                "Utility bill",
+                "Domicile Certificate issued by a competent authority",
+                "Birth certificate",
+                "Passport"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Admission quotas and verification of residence in Pakistan are legally managed through an official Domicile Certificate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12862,
+            "question_text": "What is the consequence of providing incorrect or forged information during the online application process?",
+            "options": [
+                "A small fine",
+                "Immediate cancellation of admission",
+                "A warning letter",
+                "Suspension for one semester"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Universities maintain strict integrity policies; misrepresentation of academic or personal documents results in the forfeiture of admission.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12863,
+            "question_text": "What is the role of the merit list in the FJWU admission cycle?",
+            "options": [
+                "It lists only scholarship winners",
+                "It ranks candidates based on their academic score and eligibility criteria",
+                "It is a random selection of applicants",
+                "It provides a schedule for the entry test"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Admission is purely merit-based, determined by the cumulative scores of the applicant's previous academic credentials.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12864,
+            "question_text": "What is the primary method for submitting an application for the Associate Degree at FJWU?",
+            "options": [
+                "In-person submission at the Chancellor's office",
+                "Via the university's official online admission portal",
+                "Through postal courier only",
+                "Via email to the Department of Economics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "FJWU utilizes a centralized digital system for application processing to streamline the admission cycle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12865,
+            "question_text": "What is the significance of the 'Admission Processing Fee' receipt during the application submission?",
+            "options": [
+                "It is a voluntary donation",
+                "It acts as proof of payment to finalize the application submission",
+                "It is only required for international students",
+                "It is not required for this specific program"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Admission portals typically require the upload or verification of the bank challan to process the application.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12866,
+            "question_text": "How are candidates typically notified of their selection for the Associate Degree program?",
+            "options": [
+                "Through a personalized SMS only",
+                "Via the official university website and merit list displays",
+                "By telephone call from the HOD",
+                "Through a newspaper advertisement"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Public sector universities like FJWU display merit lists on their official web portals for transparency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "category": "ACT",
+    "name": "Writing Test",
+    "board": "act",
+    "subject": "writing-test",
+    "url": "/act/writing-test/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 6,
+    "questions": [
+        {
+            "id": 9461,
+            "question_text": "What does the Writing Test measure?",
+            "options": [
+                "Your ability to write complex poetry.",
+                "Writing skills taught in high school English and entry-level college courses.",
+                "Your ability to summarize long research papers.",
+                "Your speed in typing essays."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test measures writing skills taught in high school English classes and in entry-level college composition courses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9462,
+            "question_text": "How many prompts are provided in the Writing Test?",
+            "options": [
+                "2 prompts",
+                "3 prompts",
+                "1 prompt",
+                "4 prompts"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Writing Test consists of one single prompt to be addressed in 40 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9465,
+            "question_text": "How long is the Writing Test?",
+            "options": [
+                "30 minutes",
+                "35 minutes",
+                "40 minutes",
+                "50 minutes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Writing Test is 40 minutes long.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9467,
+            "question_text": "How long is the Writing Test section?",
+            "options": [
+                "30 minutes",
+                "40 minutes",
+                "50 minutes",
+                "60 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Writing Test provides 40 minutes to write the essay.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9469,
+            "question_text": "Is the Writing Test a required section of the ACT?",
+            "options": [
+                "Yes",
+                "No, it is an optional add-on",
+                "Only for international students",
+                "Only for students with specific accommodations"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Writing section is optional and does not affect the Composite score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9470,
+            "question_text": "What should a student bring to the Writing Test?",
+            "options": [
+                "A dictionary",
+                "A laptop",
+                "No extra materials, just their standard testing items",
+                "Scientific charts"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The writing section does not require external tools beyond the standard testing environment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "category": "DVSA",
+    "name": "Safety and Your Vehicle",
+    "board": "dvsa",
+    "subject": "safety-and-your-vehicle",
+    "url": "/dvsa/safety-and-your-vehicle/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 6,
+    "questions": [
+        {
+            "id": 6886,
+            "question_text": "What does a warning light with a 'Brake' symbol usually indicate?",
+            "options": [
+                "The parking brake is on",
+                "The brake fluid is low or there is a system failure",
+                "The car is due for an MOT",
+                "The brake pads are brand new"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This light warns of a potential safety-critical fault in the braking system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6887,
+            "question_text": "What is indicated by a dashboard warning light featuring a 'Brake' symbol?",
+            "options": [
+                "Your parking brake is fully released",
+                "Your brake fluid level might be low or there is a fault in the system",
+                "You need to change your brake pads immediately",
+                "The brake pedal is too stiff"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A brake warning light indicates a potential safety issue, such as low fluid levels, that must be checked immediately by a professional.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8447,
+            "question_text": "What should you check to ensure your vehicle is safe to drive?",
+            "options": [
+                "The glove box contents",
+                "Tyre pressure and tread depth",
+                "The radio channel presets",
+                "The colour of the car"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Proper tyre maintenance is critical for safety and vehicle control.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8448,
+            "question_text": "What checks should you perform to ensure your vehicle is roadworthy?",
+            "options": [
+                "Only check the fuel level",
+                "Check lights, tires, brakes, and steering regularly",
+                "Only check the oil level before a long journey",
+                "Check the car radio is working"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Regular maintenance of safety-critical components is a legal and safety necessity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8449,
+            "question_text": "Which of these checks should you perform to ensure your vehicle is safe to drive?",
+            "options": [
+                "Check the engine oil colour",
+                "Inspect the tyre tread and air pressure",
+                "Check if the radio works properly",
+                "Ensure the seat covers are clean"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tyre condition is critical for vehicle safety, grip, and steering control.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8450,
+            "question_text": "What does checking your vehicle's lights regularly ensure?",
+            "options": [
+                "Better fuel efficiency",
+                "That you can see the road and be seen by others",
+                "That the battery is fully charged",
+                "That the speed sensor works"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Working lights are essential for visibility, especially during night driving or poor weather conditions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

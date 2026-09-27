@@ -1,0 +1,165 @@
+{
+    "category": "Minhaj University Lahore",
+    "name": "Financial Management",
+    "board": "minhaj-university-lahore",
+    "subject": "financial-management",
+    "url": "/minhaj-university-lahore/financial-management/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11792,
+            "question_text": "What does the Net Present Value (NPV) technique primarily measure?",
+            "options": [
+                "The total undiscounted cash flows of a project",
+                "The profitability of a project in current dollar terms",
+                "The internal rate of return of a project",
+                "The payback period of the initial investment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "NPV calculates the difference between the present value of cash inflows and the present value of cash outflows over a period of time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11793,
+            "question_text": "Which ratio measures a company's ability to pay off its short-term liabilities with its most liquid assets?",
+            "options": [
+                "Current Ratio",
+                "Quick Ratio",
+                "Debt-to-Equity Ratio",
+                "Return on Assets"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The quick ratio (acid-test ratio) excludes inventory from current assets, providing a more stringent measure of liquidity than the current ratio.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11794,
+            "question_text": "What is the primary goal of financial management in a corporation?",
+            "options": [
+                "Maximizing total revenue",
+                "Maximizing shareholder wealth",
+                "Minimizing operating costs",
+                "Maximizing market share"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ultimate goal of a company's financial manager is to maximize the value of the stock, which equates to maximizing shareholder wealth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11795,
+            "question_text": "Which of the following is a long-term source of financing?",
+            "options": [
+                "Trade credit",
+                "Issuing common stock",
+                "Bank overdraft",
+                "Accrued expenses"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Common stock is equity capital, which is a source of long-term financing for a corporation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11796,
+            "question_text": "What does the 'Time Value of Money' concept suggest?",
+            "options": [
+                "Money in the future is worth more than money today",
+                "Money today is worth more than the same amount in the future",
+                "The value of money is constant over time",
+                "Inflation has no effect on money value"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Because of the potential earning capacity (interest), a dollar today is worth more than a dollar received in the future.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11797,
+            "question_text": "Which ratio indicates how many times a company's earnings cover its interest payments?",
+            "options": [
+                "Current Ratio",
+                "Debt-to-Equity Ratio",
+                "Times Interest Earned Ratio",
+                "Return on Assets"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Times Interest Earned ratio measures the ability of a firm to pay interest on its debt from its operating income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11798,
+            "question_text": "What is a 'capital budget' primarily used for?",
+            "options": [
+                "Managing day-to-day cash flows",
+                "Planning for long-term investments in fixed assets",
+                "Calculating monthly payroll expenses",
+                "Determining short-term inventory levels"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Capital budgeting is the process of evaluating and selecting long-term investments that are significant for the company's future.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11799,
+            "question_text": "Which financial metric represents the 'bottom line' of an income statement?",
+            "options": [
+                "Gross Profit",
+                "Operating Income",
+                "Net Income",
+                "EBITDA"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Net income is the residual profit after all expenses, taxes, and interest have been deducted.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11800,
+            "question_text": "What does a Debt-to-Equity ratio of 2.0 indicate?",
+            "options": [
+                "The company has twice as much debt as equity",
+                "The company has twice as much equity as debt",
+                "The company is debt-free",
+                "The return on investment is 200%"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The ratio is calculated as Total Liabilities / Shareholders' Equity. A ratio of 2.0 implies debt is double the equity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11801,
+            "question_text": "The Internal Rate of Return (IRR) is the discount rate at which:",
+            "options": [
+                "NPV is positive",
+                "NPV is equal to zero",
+                "Profitability index is less than 1",
+                "Payback period is maximized"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IRR is defined as the specific discount rate that makes the Net Present Value of all cash flows equal to zero.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11802,
+            "question_text": "Which of the following is a 'current asset'?",
+            "options": [
+                "Buildings",
+                "Machinery",
+                "Accounts Receivable",
+                "Long-term debt"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Accounts receivable are expected to be converted into cash within one year, making them current assets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "category": "BPSC",
+    "name": "Bangladesh Affairs",
+    "board": "bpsc",
+    "subject": "bangladesh-affairs",
+    "url": "/bpsc/bangladesh-affairs/2026/subject-mcqs",
+    "country": "BD",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10097,
+            "question_text": "What is the official currency of Bangladesh?",
+            "options": [
+                "Rupee",
+                "Taka",
+                "Dollar",
+                "Kyat"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Taka is the official monetary unit of Bangladesh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10098,
+            "question_text": "Which is the national flower of Bangladesh?",
+            "options": [
+                "Rose",
+                "Lotus",
+                "Water Lily",
+                "Marigold"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Shapla (Water Lily) is the national flower of Bangladesh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10099,
+            "question_text": "In which year did Bangladesh gain independence?",
+            "options": [
+                "1947",
+                "1952",
+                "1971",
+                "1975"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Bangladesh achieved its independence after the Liberation War in 1971.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10100,
+            "question_text": "Who is known as the Father of the Nation of Bangladesh?",
+            "options": [
+                "Ziaur Rahman",
+                "Sheikh Mujibur Rahman",
+                "Hussain Muhammad Ershad",
+                "Tajuddin Ahmad"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Bangabandhu Sheikh Mujibur Rahman is the founding father and leader of the liberation of Bangladesh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10101,
+            "question_text": "What is the capital city of Bangladesh?",
+            "options": [
+                "Chittagong",
+                "Rajshahi",
+                "Dhaka",
+                "Khulna"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Dhaka is the capital and largest city of Bangladesh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10102,
+            "question_text": "What is the longest sea beach in Bangladesh?",
+            "options": [
+                "Kuakata",
+                "Patenga",
+                "Cox's Bazar",
+                "Inani"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Cox's Bazar is renowned for having one of the longest natural unbroken sandy sea beaches in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10103,
+            "question_text": "Which of these is the national bird of Bangladesh?",
+            "options": [
+                "Parrot",
+                "Magpie Robin",
+                "Crow",
+                "Eagle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Magpie Robin (Doel) is the national bird of Bangladesh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10104,
+            "question_text": "In which division is the Sundarbans mangrove forest primarily located?",
+            "options": [
+                "Dhaka",
+                "Chittagong",
+                "Khulna",
+                "Sylhet"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Sundarbans, the world's largest mangrove forest, is mostly located in the Khulna division.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10105,
+            "question_text": "What is the name of the main river system in Bangladesh?",
+            "options": [
+                "Nile",
+                "Padma-Meghna-Jamuna",
+                "Amazon",
+                "Indus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "These three river systems dominate the deltaic landscape of Bangladesh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10106,
+            "question_text": "When is Victory Day celebrated in Bangladesh?",
+            "options": [
+                "21st February",
+                "26th March",
+                "16th December",
+                "15th August"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Victory Day commemorates the day in 1971 when the Pakistan army surrendered, marking the independence of Bangladesh.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10107,
+            "question_text": "Who is the designer of the National Memorial (Jatiyo Sriti Soudho)?",
+            "options": [
+                "Syed Mainul Hossain",
+                "Zainul Abedin",
+                "Quamrul Hassan",
+                "Nizamuddin Ahmed"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The National Martyrs' Memorial at Savar was designed by architect Syed Mainul Hossain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "category": "British Council, IDP, Cambridge English",
+    "name": "Speaking",
+    "board": "british-council-idp-cambridge-english",
+    "subject": "speaking",
+    "url": "/british-council-idp-cambridge-english/speaking/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 19,
+    "questions": [
+        {
+            "id": 8915,
+            "question_text": "How long does the IELTS Speaking test typically last?",
+            "options": [
+                "5-8 minutes",
+                "11-14 minutes",
+                "20-25 minutes",
+                "30-40 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The IELTS Speaking test is a face-to-face session that lasts between 11 and 14 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8916,
+            "question_text": "Which of these is NOT one of the criteria used to assess the Speaking section?",
+            "options": [
+                "Pronunciation",
+                "Fluency and coherence",
+                "Grammatical range and accuracy",
+                "Writing speed"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Speaking is assessed on Fluency/coherence, Lexical resource, Grammatical range/accuracy, and Pronunciation. Writing speed is not a criterion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8917,
+            "question_text": "Can a test taker use sign language during the Speaking test?",
+            "options": [
+                "Yes, if they are D/deaf.",
+                "No, sign language is not permitted.",
+                "Only if they have a speech impairment.",
+                "Yes, if they are also taking the Writing test."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The IELTS guidelines clearly state that signing is not allowed during the Speaking test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8918,
+            "question_text": "How long does the IELTS Speaking test usually last?",
+            "options": [
+                "5-7 minutes",
+                "11-14 minutes",
+                "20-25 minutes",
+                "30-40 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Speaking section is a face-to-face interview that typically ranges between 11 and 14 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8919,
+            "question_text": "Which of these is NOT an assessment criterion for the Speaking section?",
+            "options": [
+                "Fluency and coherence",
+                "Lexical resource",
+                "Physical appearance",
+                "Pronunciation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Examiners assess Speaking based on Fluency and Coherence, Lexical Resource, Grammatical Range and Accuracy, and Pronunciation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8920,
+            "question_text": "Is the use of sign language permitted in the Speaking test?",
+            "options": [
+                "Yes, for all candidates",
+                "No, it is not permitted",
+                "Yes, if an interpreter is provided",
+                "Only for specific tasks"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The regulations for IELTS clearly state that sign language cannot be used as a method of communication during the Speaking test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8921,
+            "question_text": "How are the four criteria for the Speaking test weighted?",
+            "options": [
+                "Pronunciation counts for 50%",
+                "They all carry equal weighting",
+                "Grammar is worth double",
+                "Fluency is worth double"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Each of the four Speaking assessment criteria is weighted equally to calculate the final score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8922,
+            "question_text": "What can a candidate with a hearing or speech impairment request for the Speaking test?",
+            "options": [
+                "A sign language interpreter",
+                "Extra time to read materials or decide on a response",
+                "To skip the test entirely without penalty",
+                "Use of a written script during the interview"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Candidates with specific impairments may request extra time to process the material or prepare their responses during the Speaking test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8923,
+            "question_text": "What is the format of the Speaking section?",
+            "options": [
+                "Computer-based only",
+                "A group discussion",
+                "A face-to-face session with a trained examiner",
+                "An essay response"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The IELTS Speaking test is conducted as a face-to-face interview with a qualified IELTS examiner.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8924,
+            "question_text": "What happens if a candidate feels nervous during the Speaking test?",
+            "options": [
+                "The test is cancelled",
+                "They must stop the test immediately",
+                "The examiner helps them feel comfortable so they can perform their best",
+                "They are given a lower score"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Examiners are trained to help candidates feel comfortable and relaxed to ensure the test accurately reflects their ability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8925,
+            "question_text": "Are IELTS tests assessed by computers or humans?",
+            "options": [
+                "Computers",
+                "Artificial Intelligence",
+                "Real people (examiners)",
+                "A mix of computer and human algorithms"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "IELTS prides itself on assessment by trained, real-world examiners rather than computer-based evaluation for Speaking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8926,
+            "question_text": "Does the Speaking test format differ between Academic and General Training?",
+            "options": [
+                "Yes, Academic is harder",
+                "Yes, General Training is shorter",
+                "No, it is the same for both test types",
+                "Only for specific countries"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Speaking and Listening components are identical in structure and content for both the Academic and General Training tests.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8927,
+            "question_text": "How is the final score for the Speaking section determined?",
+            "options": [
+                "It is the average of the four assessment criteria",
+                "It is determined solely by grammar",
+                "It is based on the speed of speech",
+                "It is decided by an automated system"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The final Speaking score is the result of averaging the marks given for each of the four assessment criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8928,
+            "question_text": "Can a candidate ask for the Speaking task card in Braille?",
+            "options": [
+                "No",
+                "Yes, if they have a visual impairment",
+                "Only for the Listening test",
+                "Only if they have a speech impairment"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Candidates with visual impairments are permitted to request Speaking test task cards in Braille or enlarged print.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8929,
+            "question_text": "Are speaking tests conducted via video call in any format?",
+            "options": [
+                "No, never",
+                "Yes, for IELTS Online tests",
+                "Yes, for paper-based tests in all locations",
+                "Only if the candidate is sick"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For the IELTS Online test, the Speaking section is conducted through a video call with a trained examiner.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8930,
+            "question_text": "Which of these is a focus area for the Speaking test assessment?",
+            "options": [
+                "Mathematical accuracy",
+                "Lexical resource (vocabulary range)",
+                "Knowledge of current events",
+                "Writing style"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Lexical resource is one of the four key criteria used to award a band score in the Speaking test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8931,
+            "question_text": "What is the primary goal of the Speaking test?",
+            "options": [
+                "To test the ability to recite poems",
+                "To assess the ability to have real conversations in English",
+                "To test the ability to interpret written graphs",
+                "To check the ability to sing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Speaking test is designed to evaluate how well a test taker can engage in genuine conversational English.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8932,
+            "question_text": "Does an examiner provide feedback during the Speaking test?",
+            "options": [
+                "Yes, they explain mistakes as they happen",
+                "No, the examiner assesses but does not provide immediate feedback",
+                "Yes, they provide a summary at the end",
+                "Only for the first part"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The examiner is there to conduct the test and evaluate the candidate; they do not provide feedback during the session.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8936,
+            "question_text": "How are the four assessment criteria for the Speaking test weighted?",
+            "options": [
+                "Task response is weighted higher",
+                "Pronunciation is weighted higher",
+                "Each of the criteria carry equal weighting",
+                "Fluency is 50% of the score"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each of the four criteria in the Speaking test carries equal weighting in the final score.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

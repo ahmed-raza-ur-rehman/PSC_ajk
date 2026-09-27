@@ -1,0 +1,711 @@
+{
+    "category": "FPSC",
+    "name": "Part II - General Intelligence (Arithmetic & General Knowledge)",
+    "board": "fpsc",
+    "subject": "part-ii-general-intelligence-arithmetic-general-knowledge",
+    "url": "/fpsc/part-ii-general-intelligence-arithmetic-general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 50,
+    "questions": [
+        {
+            "id": 51,
+            "question_text": "Remainder when 3^200 is divided by 7?",
+            "options": [
+                "1",
+                "2",
+                "4",
+                "5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "3^6 = 1 mod 7. 200 = 6*33 + 2. Remainder is same as 3^2 mod 7 = 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 52,
+            "question_text": "Clock gains 5 mins every hour. Set at 12:00 PM, true time when clock shows 6:30 PM?",
+            "options": [
+                "5:30 PM",
+                "5:45 PM",
+                "6:00 PM",
+                "6:15 PM"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "390 broken mins = 360 real mins = 6:00 PM.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 53,
+            "question_text": "If log_x(16) = 4, x is?",
+            "options": [
+                "2",
+                "4",
+                "8",
+                "16"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "x^4 = 16. The 4th root of 16 is 2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 54,
+            "question_text": "1973 Constitution Article for Vote of No-Confidence against PM?",
+            "options": [
+                "Article 58",
+                "Article 95",
+                "Article 112",
+                "Article 245"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Article 95 deals with No-Confidence against the PM.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 55,
+            "question_text": "Mountain pass connecting Chitral with Wakhan?",
+            "options": [
+                "Khyber Pass",
+                "Bolan Pass",
+                "Broghil Pass",
+                "Khunjerab Pass"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Broghil Pass connects Chitral and Wakhan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 56,
+            "question_text": "Derivative of f(x) = e^(2x)?",
+            "options": [
+                "e^(2x)",
+                "2e^(2x)",
+                "xe^(2x)",
+                "e^x"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Chain rule yields 2e^(2x).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 57,
+            "question_text": "Train 200m long passes pole in 10s, platform in 25s. Platform length?",
+            "options": [
+                "200m",
+                "250m",
+                "300m",
+                "350m"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Speed = 20m/s. Platform time = 15s. Length = 300m.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 58,
+            "question_text": "Treaty Pakistan signed in 2024 to regulate AI?",
+            "options": [
+                "Bletchley Declaration",
+                "Kyoto Protocol",
+                "Geneva Convention",
+                "Rome Statute"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Bletchley Declaration on AI safety.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 59,
+            "question_text": "'REST' stands for?",
+            "options": [
+                "Remote Execution Standard",
+                "Representational State Transfer",
+                "Reliable Enterprise System",
+                "Redundant Environment State"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Representational State Transfer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 60,
+            "question_text": "Largest earth-filled dam in the world?",
+            "options": [
+                "Mangla Dam",
+                "Tarbela Dam",
+                "Aswan Dam",
+                "Hoover Dam"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Tarbela Dam in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 61,
+            "question_text": "A works in 10 days, B in 15 days. Together?",
+            "options": [
+                "5 days",
+                "6 days",
+                "8 days",
+                "12 days"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "1/10 + 1/15 = 1/6. Takes 6 days.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 62,
+            "question_text": "Architect of the 1956 Constitution of Pakistan?",
+            "options": [
+                "Liaquat Ali Khan",
+                "Chaudhry Muhammad Ali",
+                "Iskander Mirza",
+                "Ayub Khan"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PM Chaudhry Muhammad Ali.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 63,
+            "question_text": "Integral of 1/x dx:",
+            "options": [
+                "x^2",
+                "1/x^2",
+                "ln(x)",
+                "e^x"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Indefinite integral of 1/x is ln(x) + C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 64,
+            "question_text": "SCO summit 2024 hosted in?",
+            "options": [
+                "Astana",
+                "Beijing",
+                "Islamabad",
+                "Moscow"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Hosted in Astana, Kazakhstan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 65,
+            "question_text": "Hemisphere volume = 18π. Radius?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "6"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "(2/3)πr^3 = 18π -> r^3 = 27 -> r=3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 66,
+            "question_text": "When was 18th Amendment passed?",
+            "options": [
+                "2008",
+                "2010",
+                "2012",
+                "2015"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "April 2010.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 67,
+            "question_text": "Missing number: 2, 6, 21, 88, ___?",
+            "options": [
+                "345",
+                "445",
+                "450",
+                "460"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "(x * mult) + mult. 88*5 + 5 = 445.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 68,
+            "question_text": "MAC stands for?",
+            "options": [
+                "Media Access Control",
+                "Machine Access Code",
+                "Multiple Access Center",
+                "Memory Cache"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Media Access Control.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 69,
+            "question_text": "Amendment merging FATA with KP?",
+            "options": [
+                "21st",
+                "24th",
+                "25th",
+                "26th"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "25th Amendment (2018).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 70,
+            "question_text": "Petrol price up 25%. Consumption reduction to keep expenses same?",
+            "options": [
+                "20%",
+                "25%",
+                "15%",
+                "10%"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Reduction = 25/125 = 20%.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 71,
+            "question_text": "Current Secretary General of OIC?",
+            "options": [
+                "Hissein Brahim Taha",
+                "Yousef Al-Othaimeen",
+                "Iyad Madani",
+                "Ekmeleddin Ihsanoglu"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Hissein Brahim Taha (2021-present).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 72,
+            "question_text": "Malware disguised as legitimate software?",
+            "options": [
+                "Worm",
+                "Ransomware",
+                "Trojan Horse",
+                "Spyware"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Trojan Horse.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 73,
+            "question_text": "Desert in Balochistan?",
+            "options": [
+                "Thar",
+                "Cholistan",
+                "Thal",
+                "Kharan"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Kharan Desert.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 74,
+            "question_text": "Buy Rs 1500, sell Rs 1800. Profit %?",
+            "options": [
+                "15%",
+                "20%",
+                "25%",
+                "30%"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Profit = 300. (300/1500)*100 = 20%.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 75,
+            "question_text": "Article defining State religion as Islam?",
+            "options": [
+                "Article 1",
+                "Article 2",
+                "Article 3",
+                "Article 4"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Article 2 of 1973 Constitution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 76,
+            "question_text": "20% of 80 is:",
+            "options": [
+                "12",
+                "14",
+                "16",
+                "18"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "0.2 * 80 = 16.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 77,
+            "question_text": "Ratio boys to girls 4:5. Total 45. Boys?",
+            "options": [
+                "20",
+                "25",
+                "16",
+                "30"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "9 parts total. 1 part = 5. Boys = 20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 78,
+            "question_text": "Speed 90 km/h in m/s?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "90 * (5/18) = 25 m/s.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 79,
+            "question_text": "Next number: 3, 7, 15, 31, ___?",
+            "options": [
+                "63",
+                "60",
+                "61",
+                "65"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "(31 * 2) + 1 = 63.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 80,
+            "question_text": "Average of 2, 4, 6, 8, 10?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "8"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sum is 30. Average is 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 81,
+            "question_text": "2026 FIFA World Cup hosts?",
+            "options": [
+                "Brazil & Argentina",
+                "Qatar & UAE",
+                "US, Canada, & Mexico",
+                "Germany & France"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "North American countries.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 82,
+            "question_text": "First President of Pakistan?",
+            "options": [
+                "Quaid-e-Azam",
+                "Liaquat Ali Khan",
+                "Iskander Mirza",
+                "Ayub Khan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Iskander Mirza (1956).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 83,
+            "question_text": "Mohenjo-Daro is in?",
+            "options": [
+                "Punjab",
+                "Sindh",
+                "Balochistan",
+                "KPK"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sindh province.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 84,
+            "question_text": "Formula for Ozone?",
+            "options": [
+                "O2",
+                "O3",
+                "CO2",
+                "H2O"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ozone is O3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 85,
+            "question_text": "Plants absorb what gas?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Absorb CO2 during photosynthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 86,
+            "question_text": "HTTP stands for?",
+            "options": [
+                "Hypertext Transfer Protocol",
+                "Hyper Transfer Text",
+                "Hypertext Transmission",
+                "Hyperlink Transfer"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Hypertext Transfer Protocol.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 87,
+            "question_text": "RAM stands for?",
+            "options": [
+                "Read Access Memory",
+                "Random Access Memory",
+                "Run Access Memory",
+                "Rapid Access"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Random Access Memory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 88,
+            "question_text": "Gwadar Port is in?",
+            "options": [
+                "Sindh",
+                "Punjab",
+                "Balochistan",
+                "KPK"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Balochistan province.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 89,
+            "question_text": "Server processes 300 req in 5 mins. How many in 75 mins?",
+            "options": [
+                "3000",
+                "4500",
+                "4000",
+                "5000"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "60/min * 75 = 4500.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 90,
+            "question_text": "Probability of 2 independent systems failing (P=0.05)?",
+            "options": [
+                "0.10",
+                "0.025",
+                "0.0025",
+                "0.05"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "0.05 * 0.05 = 0.0025.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 91,
+            "question_text": "Laptop depreciates 10% yearly. Current Rs 81,000. Value a year ago?",
+            "options": [
+                "89,100",
+                "90,000",
+                "91,000",
+                "100,000"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "81000 / 0.9 = 90,000.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 92,
+            "question_text": "Minimum age for President in 1973 Const?",
+            "options": [
+                "35",
+                "40",
+                "45",
+                "50"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "45 years.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 93,
+            "question_text": "Next term: 1, 8, 27, 64, 125, ___?",
+            "options": [
+                "144",
+                "196",
+                "216",
+                "256"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "6^3 = 216.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 94,
+            "question_text": "G20 presidency in 2024?",
+            "options": [
+                "India",
+                "Brazil",
+                "South Africa",
+                "Indonesia"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Brazil.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 95,
+            "question_text": "Average of 5 consecutive even numbers is 24. Largest?",
+            "options": [
+                "26",
+                "28",
+                "30",
+                "32"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Numbers: 20, 22, 24, 26, 28.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 96,
+            "question_text": "Durand Line borders Pakistan and:",
+            "options": [
+                "India",
+                "Iran",
+                "China",
+                "Afghanistan"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Afghanistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 97,
+            "question_text": "If day after tomorrow is Friday, what was 3 days before yesterday?",
+            "options": [
+                "Sunday",
+                "Monday",
+                "Saturday",
+                "Friday"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Today is Wed. Yesterday Tue. 3 days before Tue is Saturday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 98,
+            "question_text": "Mountain range in South Pakistan?",
+            "options": [
+                "Karakoram",
+                "Himalayas",
+                "Hindu Kush",
+                "Kirthar"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Kirthar Mountains.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 99,
+            "question_text": "Smallest ocean in the world?",
+            "options": [
+                "Indian",
+                "Southern",
+                "Arctic",
+                "Atlantic"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Arctic Ocean.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 100,
+            "question_text": "Average of first 5 prime numbers?",
+            "options": [
+                "5.6",
+                "3.6",
+                "4.0",
+                "5.0"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "(2+3+5+7+11)/5 = 28/5 = 5.6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "Ministry of Education (MoE), UAE",
+    "name": "Computer Science",
+    "board": "ministry-of-education-moe-uae",
+    "subject": "computer-science",
+    "url": "/ministry-of-education-moe-uae/computer-science/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 9310,
+            "question_text": "Which of these is a programming language?",
+            "options": [
+                "HTML",
+                "Python",
+                "HTTP",
+                "CSS"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Python is a high-level, general-purpose programming language, whereas HTML and CSS are markup and styling languages respectively.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9311,
+            "question_text": "What does RAM stand for in a computer?",
+            "options": [
+                "Read Access Memory",
+                "Random Access Memory",
+                "Rapid Add Memory",
+                "Ready Application Memory"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "RAM is the physical hardware inside a computer that temporarily stores data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9312,
+            "question_text": "Which binary number is equivalent to the decimal number 5?",
+            "options": [
+                "100",
+                "101",
+                "110",
+                "111"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "101 in binary is (1*4) + (0*2) + (1*1) = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9313,
+            "question_text": "What is the main purpose of an operating system?",
+            "options": [
+                "To design websites",
+                "To manage hardware and software resources",
+                "To browse the internet",
+                "To edit images"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An operating system acts as an interface between the hardware and the user.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9314,
+            "question_text": "Which of these is a non-volatile storage device?",
+            "options": [
+                "RAM",
+                "Cache memory",
+                "Hard Disk Drive",
+                "Registers"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Non-volatile memory keeps data even when power is turned off.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9315,
+            "question_text": "Which of these options is a programming language?",
+            "options": [
+                "HTML",
+                "Python",
+                "HTTP",
+                "CSS"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Python is a high-level, general-purpose programming language.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9316,
+            "question_text": "What does the acronym 'RAM' stand for in computing?",
+            "options": [
+                "Read Access Memory",
+                "Random Access Memory",
+                "Rapid Advanced Memory",
+                "Remote Access Module"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "RAM stands for Random Access Memory, the computer's short-term memory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9317,
+            "question_text": "Which binary number is equal to the decimal number 5?",
+            "options": [
+                "0101",
+                "1010",
+                "1100",
+                "0011"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "In binary, 0101 represents (1*4) + (0*2) + (1*1) = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9318,
+            "question_text": "What is the primary function of an operating system?",
+            "options": [
+                "To design websites",
+                "To manage computer hardware and software",
+                "To compile code",
+                "To connect to the internet"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The OS acts as an intermediary between users and computer hardware.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9319,
+            "question_text": "Which of the following is an example of non-volatile storage?",
+            "options": [
+                "RAM",
+                "Cache memory",
+                "Hard Disk Drive",
+                "Registers"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Non-volatile storage retains data even when the power is turned off.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

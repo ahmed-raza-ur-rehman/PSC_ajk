@@ -1,0 +1,179 @@
+{
+    "category": "Green International University",
+    "name": "Chemistry",
+    "board": "green-international-university",
+    "subject": "chemistry",
+    "url": "/green-international-university/chemistry/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12961,
+            "question_text": "What is the primary role of a surfactant in a cosmetic cleanser?",
+            "options": [
+                "To increase the pH level",
+                "To act as a preservative",
+                "To reduce surface tension and emulsify oil and water",
+                "To provide fragrance"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Surfactants have hydrophilic and hydrophobic ends, allowing them to lift oil and dirt from the skin so they can be rinsed away with water.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12962,
+            "question_text": "Which of the following substances acts as a humectant in skincare products?",
+            "options": [
+                "Glycerin",
+                "Mineral oil",
+                "Silicone",
+                "Stearic acid"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Humectants like glycerin attract moisture from the atmosphere or deep in the dermis to the surface of the skin to improve hydration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12963,
+            "question_text": "What is the result of a chemical reaction between an acid and a base?",
+            "options": [
+                "Oxidation",
+                "Neutralization",
+                "Polymerization",
+                "Hydrolysis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A neutralization reaction occurs when an acid and a base react to form water and a salt.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12964,
+            "question_text": "Which of these ingredients is classified as an oil-in-water (O/W) emulsifier?",
+            "options": [
+                "Petrolatum",
+                "Polysorbate",
+                "Beeswax",
+                "Mineral Oil"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Polysorbates are common non-ionic surfactants used to stabilize oil-in-water emulsions in cosmetics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12965,
+            "question_text": "What does a pH of 9 indicate in a cosmetic product?",
+            "options": [
+                "Acidic",
+                "Neutral",
+                "Alkaline",
+                "Distilled"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The pH scale ranges from 0-14, where values above 7 are considered alkaline (basic).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12966,
+            "question_text": "Why are chelating agents added to skincare formulas?",
+            "options": [
+                "To increase pH levels",
+                "To improve product stability by neutralizing metal ions",
+                "To act as a physical exfoliant",
+                "To serve as a primary moisturizer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Chelating agents bond with metal ions that might otherwise cause product degradation or rancidity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12967,
+            "question_text": "What is the primary characteristic of an emollient?",
+            "options": [
+                "Attracting water to the skin",
+                "Softening and smoothing the skin's surface",
+                "Increasing the acidity of the skin",
+                "Removing dead skin cells chemically"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Emollients fill in the gaps between dead skin cells, creating a smoother appearance and feel.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12968,
+            "question_text": "Which chemical bond holds water molecules to a polar surface via a hydrogen atom?",
+            "options": [
+                "Ionic bond",
+                "Covalent bond",
+                "Hydrogen bond",
+                "Metallic bond"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Hydrogen bonding is a weak attraction between a slightly positive hydrogen atom and a slightly negative atom, vital for hydration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12969,
+            "question_text": "What is a 'solvent' in a solution?",
+            "options": [
+                "The substance being dissolved",
+                "The substance that dissolves the solute",
+                "A mixture of two immiscible liquids",
+                "A solid precipitate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In a solution, the solvent is the component present in the largest amount that dissolves the solute.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12970,
+            "question_text": "Which ingredient is a common preservative used to prevent microbial growth in water-based cosmetics?",
+            "options": [
+                "Phenoxyethanol",
+                "Isopropyl alcohol",
+                "Magnesium sulfate",
+                "Talc"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Phenoxyethanol is a widely used broad-spectrum preservative in personal care products.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12971,
+            "question_text": "What is the function of a buffer in a chemical formulation?",
+            "options": [
+                "To accelerate reaction time",
+                "To change the product color",
+                "To maintain the pH level of the product",
+                "To increase the viscosity"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Buffers prevent drastic shifts in pH, ensuring the product remains effective and safe for the skin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12972,
+            "question_text": "What does a 'suspension' consist of?",
+            "options": [
+                "Solid particles distributed throughout a liquid",
+                "Two liquids that are permanently mixed",
+                "Gas dissolved in a solid",
+                "A clear, uniform liquid mixture"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A suspension is a heterogeneous mixture where solid particles are large enough to settle over time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

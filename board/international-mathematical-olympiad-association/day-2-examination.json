@@ -1,0 +1,361 @@
+{
+    "category": "International Mathematical Olympiad Association",
+    "name": "Day 2 Examination",
+    "board": "international-mathematical-olympiad-association",
+    "subject": "day-2-examination",
+    "url": "/international-mathematical-olympiad-association/day-2-examination/2026/subject-mcqs",
+    "country": "00",
+    "totalQuestions": 25,
+    "questions": [
+        {
+            "id": 10263,
+            "question_text": "Are the exam papers for the second day different from the first?",
+            "options": [
+                "Yes, they contain 3 different problems",
+                "No, the problems are the same",
+                "The problems are a continuation of day 1",
+                "Only one problem is new"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The competition consists of 6 problems total, 3 on each day.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10264,
+            "question_text": "What is the maximum possible total score for a contestant across both exam days?",
+            "options": [
+                "21",
+                "28",
+                "35",
+                "42"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "With 6 problems each worth 7 points, the maximum total is 6 * 7 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10265,
+            "question_text": "What must be included in the written solutions for the exam problems?",
+            "options": [
+                "Final answers only",
+                "Complete proofs and justifications",
+                "Sketches and diagrams only",
+                "Notes and rough work"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IMO solutions must include complete, rigorous mathematical proofs and justifications to receive full credit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10266,
+            "question_text": "What happens if a student leaves the exam room during the final 15 minutes of the Day 2 exam?",
+            "options": [
+                "They are encouraged to do so",
+                "They are not permitted to do so",
+                "They must finish all problems first",
+                "They receive extra credit"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Regulations state that students are not allowed to leave the examination room in the final 15 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10267,
+            "question_text": "Who is responsible for the coordination process of marking the students' scripts?",
+            "options": [
+                "Only the host country's coordinators",
+                "The team leaders and host country coordinators together",
+                "The students themselves",
+                "Only the IMO board"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The coordination process involves collaboration between the team leaders and the host country's coordinators to ensure fairness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10268,
+            "question_text": "What is the primary objective of the coordination process?",
+            "options": [
+                "To rank students by speed",
+                "To determine official scores fairly and transparently",
+                "To select new problems",
+                "To verify student identity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Coordination ensures that all scores are assessed in a homogeneous, fair, and consistent manner.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10269,
+            "question_text": "What happens if a dispute arises during coordination?",
+            "options": [
+                "The coordinator's score is final",
+                "The problem captain is consulted, then the Chief Coordinator, and finally the Jury",
+                "The score is automatically set to 0",
+                "The student is re-tested"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Disputes follow a specific escalation process through the problem captain, Chief Coordinator, and the Jury.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10270,
+            "question_text": "Are contestants allowed to use specialized drawing tools like protractors during the exam?",
+            "options": [
+                "Yes, always",
+                "Only for geometry problems",
+                "No, only rulers and compasses",
+                "Yes, if provided by the host"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Protractors are explicitly banned; only basic writing and drawing instruments like rulers and compasses are permitted.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10271,
+            "question_text": "Which committee oversees integrity and respectful conduct at the IMO?",
+            "options": [
+                "The Curriculum Committee",
+                "The Ethics Committee",
+                "The IMO Foundation",
+                "The ICT Group"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Ethics Committee is tasked with ensuring integrity and proper behavior across all IMO events.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10272,
+            "question_text": "What is the 'shortlist' in the context of the IMO?",
+            "options": [
+                "A list of students who passed",
+                "A list of problems selected for final review before the contest",
+                "A list of rules for the exam",
+                "The list of previous gold medalists"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Problem Selection Committee prepares a shortlist of proposed problems from which the Jury selects the contest problems.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10273,
+            "question_text": "Can a leader replace a deputy leader in an emergency?",
+            "options": [
+                "Yes, with Jury approval",
+                "No, never",
+                "Yes, automatically",
+                "Only if the deputy leader is sick"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Regulations allow for a leader to be replaced in an emergency, subject to the prior approval and consent of the Jury Chair.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10274,
+            "question_text": "What happens on the departure day for IMO participants?",
+            "options": [
+                "Awards are given",
+                "Contestants take the exam",
+                "Attendees are transported to official departure sites",
+                "The jury meets for the last time"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The host organization provides transport between accommodation sites and official arrival/departure points.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10275,
+            "question_text": "Who is responsible for acting in loco parentis for contestants?",
+            "options": [
+                "The IMO President",
+                "The Leader or Deputy Leader",
+                "The host country's police",
+                "No one"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Leaders and Deputy Leaders are officially acting in loco parentis for their team members during the competition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10276,
+            "question_text": "Can students use their own laptops to type their solutions?",
+            "options": [
+                "Yes, if they are visually impaired",
+                "No, only provided answer forms are used",
+                "Yes, for the final hour",
+                "Only if they have internet access"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Solutions must be submitted on the physical answer forms provided by the host organization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10277,
+            "question_text": "Is the IMO exam allowed to be taken remotely?",
+            "options": [
+                "Yes, always",
+                "Never",
+                "Only in cases of Force Majeure",
+                "Only for students with medical issues"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Remote sitting is only an option in extreme situations such as war or natural disasters.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10278,
+            "question_text": "What is the primary role of the ICT Group?",
+            "options": [
+                "Managing the medals",
+                "Supporting technical systems and digital operations",
+                "Selecting the math problems",
+                "Funding the IMO foundation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ICT group manages the website and other digital systems required for the IMO operation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10279,
+            "question_text": "What happens if a student violates the contest regulations?",
+            "options": [
+                "They receive a warning",
+                "They are liable to disqualification",
+                "They are given a lower score",
+                "Nothing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Violation of regulations can lead to disqualification from the exam or competition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10280,
+            "question_text": "Who is the host organization of the IMO responsible to?",
+            "options": [
+                "The students",
+                "The Jury",
+                "The IMO Association",
+                "The local school"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The host organization must follow the IMO Association's guidelines and regulations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10281,
+            "question_text": "How is the host country for a future IMO chosen?",
+            "options": [
+                "By random draw",
+                "By a vote of the Jury, based on Board recommendations",
+                "By the President's choice",
+                "By who has the most medals"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Board makes recommendations to the Jury, which ultimately decides the host for future Olympiads.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10282,
+            "question_text": "Are observers permitted to reside with their team members?",
+            "options": [
+                "Yes, they always stay together",
+                "Only Observers C stay with the contestants",
+                "No, they stay in separate locations",
+                "They sleep in the exam room"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Observer C category is specifically for those residing at the same site as the contestants.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10283,
+            "question_text": "What is required to confirm a country's participation?",
+            "options": [
+                "A phone call to the President",
+                "Online confirmation by the date specified in the Annual Regulations",
+                "An in-person meeting",
+                "A letter to the host's school"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Registration must be done through the official online portal by the stated deadline.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10284,
+            "question_text": "Who must approve the Annual Regulations?",
+            "options": [
+                "The IMO Board",
+                "The Ethics Committee",
+                "The Curriculum Committee",
+                "The host country's government"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Annual Regulations for any given IMO must be formally approved by the IMO Board.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10285,
+            "question_text": "Can the Jury decide to award more medals than 50% of the contestants?",
+            "options": [
+                "Yes, with a two-thirds majority vote",
+                "No, it is strictly forbidden",
+                "Yes, with a simple majority",
+                "Only if the host agrees"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A two-thirds majority is required to exceed the standard medal limit of 50%.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10286,
+            "question_text": "What is the purpose of the IMO Foundation?",
+            "options": [
+                "To select students",
+                "To provide long-term support and funding for the IMO",
+                "To write the exam problems",
+                "To coordinate the marking"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Foundation exists to support the mission and infrastructure of the IMO long-term.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10287,
+            "question_text": "What are the rules regarding the visibility of contestants' solutions during coordination?",
+            "options": [
+                "Only the Leader and Deputy Leader can see them",
+                "Only participants and invited people can see them",
+                "They are made public on the website",
+                "Only the host's staff can see them"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Before results are finalized, access to scripts is restricted to authorized participants and invited individuals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

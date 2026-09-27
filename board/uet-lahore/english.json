@@ -1,0 +1,221 @@
+{
+    "category": "UET Lahore",
+    "name": "English",
+    "board": "uet-lahore",
+    "subject": "english",
+    "url": "/uet-lahore/english/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 10288,
+            "question_text": "Select the word that is most nearly opposite in meaning to 'Ephemeral'.",
+            "options": [
+                "Transient",
+                "Enduring",
+                "Momentary",
+                "Frail"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means lasting for a very short time. The opposite, enduring, means lasting for a long time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10289,
+            "question_text": "Choose the correctly punctuated sentence.",
+            "options": [
+                "He wanted to visit three countries: France, Spain, and Italy.",
+                "He wanted to visit three countries; France, Spain, and Italy.",
+                "He wanted to visit three countries, France, Spain, and Italy.",
+                "He wanted to visit three countries - France, Spain, and Italy."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A colon is used to introduce a list after a complete clause.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10290,
+            "question_text": "Identify the part of speech of the word 'eloquent' in the sentence: 'The orator gave an eloquent speech.'",
+            "options": [
+                "Noun",
+                "Verb",
+                "Adjective",
+                "Adverb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Eloquent describes the noun 'speech', therefore it functions as an adjective.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10291,
+            "question_text": "Choose the correct synonym for 'Prudent'.",
+            "options": [
+                "Rash",
+                "Careless",
+                "Wise",
+                "Impulsive"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Prudent means acting with or showing care and thought for the future, which is synonymous with wise.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10292,
+            "question_text": "Fill in the blank: 'Neither the teacher nor the students ______ present at the ceremony.'",
+            "options": [
+                "was",
+                "were",
+                "has been",
+                "is"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to the rule of proximity, when using 'neither/nor', the verb agrees with the closer subject, which is plural ('students').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10293,
+            "question_text": "Which word is spelled incorrectly?",
+            "options": [
+                "Accommodate",
+                "Necessary",
+                "Seperate",
+                "Occurrence"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling is 'Separate'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10294,
+            "question_text": "Select the correct meaning of the idiom 'To burn the midnight oil'.",
+            "options": [
+                "To waste resources",
+                "To work late into the night",
+                "To be very angry",
+                "To light a fire for warmth"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This idiom historically refers to studying or working late by the light of an oil lamp.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10295,
+            "question_text": "Which of the following is a complex sentence?",
+            "options": [
+                "He went to the park.",
+                "I like coffee, and she likes tea.",
+                "Although it was raining, he went for a walk.",
+                "Eat your dinner."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A complex sentence contains an independent clause and at least one dependent clause introduced by a subordinating conjunction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10296,
+            "question_text": "Choose the correct passive voice for: 'The chef prepared a delicious meal.'",
+            "options": [
+                "A delicious meal is prepared by the chef.",
+                "A delicious meal was being prepared by the chef.",
+                "A delicious meal was prepared by the chef.",
+                "The chef has prepared a delicious meal."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sentence is in past simple tense, so the passive form uses 'was' + past participle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10297,
+            "question_text": "Identify the grammatical error in: 'She don't know the answer to the problem.'",
+            "options": [
+                "She",
+                "don't",
+                "know",
+                "problem"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject 'She' requires the singular verb 'doesn't' instead of 'don't'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10298,
+            "question_text": "Select the word that is most nearly synonymous with 'Benevolent'.",
+            "options": [
+                "Malicious",
+                "Generous",
+                "Greedy",
+                "Indifferent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent refers to being well-meaning and kindly, which is synonymous with generous.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10299,
+            "question_text": "Fill in the blank: 'The committee ______ reached a consensus on the new policy.'",
+            "options": [
+                "have",
+                "has",
+                "are",
+                "were"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Committee is a collective noun acting as a single unit in this context, requiring a singular verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10300,
+            "question_text": "Identify the figure of speech in: 'The wind whispered secrets through the trees.'",
+            "options": [
+                "Simile",
+                "Metaphor",
+                "Personification",
+                "Hyperbole"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The wind is given the human quality of whispering, which is personification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10301,
+            "question_text": "Choose the correct sentence.",
+            "options": [
+                "Each of the boys have a pen.",
+                "Each of the boys has a pen.",
+                "Each of the boys are having a pen.",
+                "Each of the boys have been having a pen."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject 'Each' is singular and requires the singular verb 'has'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10302,
+            "question_text": "What is the meaning of the phrase 'To hit the nail on the head'?",
+            "options": [
+                "To make a mistake",
+                "To describe exactly what is causing a situation",
+                "To be physically aggressive",
+                "To fail at a task"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This idiom means to state the exact truth or find the precise cause of an issue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

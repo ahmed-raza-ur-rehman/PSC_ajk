@@ -1,0 +1,571 @@
+{
+    "category": "Islamabad Police",
+    "name": "Pakistan Studies — Pakistan Movement (1857–1947)",
+    "board": "islamabad-police",
+    "subject": "pakistan-studies-pakistan-movement-1857-1947",
+    "url": "/islamabad-police/pakistan-studies-pakistan-movement-1857-1947/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 40,
+    "questions": [
+        {
+            "id": 7017,
+            "question_text": "Which of the following best summarizes the main idea presented in the following passage?",
+            "options": [
+                "Migratory bird populations face multiple threats, requiring comprehensive conservation strategies involving habitat protection and pollution control.",
+                "The rapid decline of migratory bird populations is solely attributable to human development and pollution.",
+                "Pollution control measures are the most critical element in stabilizing bird populations, regardless of habitat quality.",
+                "Government intervention is insufficient, and only international organizations can effectively manage conservation efforts for these species."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The passage emphasizes that bird decline is multi-faceted, requiring comprehensive strategies that include both habitat protection and pollution mitigation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7018,
+            "question_text": "Report the following sentence into indirect speech: The officer asked the driver, \"Do you need me to send the report now, or should we wait until tomorrow?\"",
+            "options": [
+                "The officer asked the driver if he needed him to send the report then, or whether they should wait until the next day.",
+                "The officer questioned the driver if he needed to send the report then, or suggested waiting until the next day.",
+                "The officer asked the driver if he needed him to send the report then, or if they should wait until the next day.",
+                "The officer asked the driver whether he needed him to send the report now, or if they should wait until tomorrow."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "We must change 'now' to 'then' and 'tomorrow' to 'the next day' (or 'the following day'). The structure 'Do you need...' requires reporting both options using 'if/whether'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7081,
+            "question_text": "Passage: Critics argue that the implementation of rigid, standardized testing metrics overlooks the inherent dynamism of human knowledge. Education, they assert, should not be measured solely by recall scores but by the capacity for adaptive problem-solving and critical synthesis. To reduce learning outcomes to a numerical grade is to mistake performance on a limited scale for true intellectual growth, effectively penalizing curiosity in favor of predictable conformity.",
+            "options": [
+                "Predictable conformity is the most desirable trait for a well-educated individual.",
+                "Curiosity and critical thinking naturally decline when students focus on high scores.",
+                "Standardized testing is effective because it accurately measures all facets of intellectual growth.",
+                "The primary fault of current educational measurement is its focus on quantifiable recall rather than adaptable thought."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage critiques standardized testing for measuring only recall and scores, failing to capture the broader capacity for adaptive problem-solving and critical synthesis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7082,
+            "question_text": "Which of the following sentences correctly converts the active voice action into the passive voice?",
+            "options": [
+                "The detailed proposals have been being reviewed by the committee.",
+                "The committee has been reviewing the detailed proposals since morning.",
+                "By the committee, the detailed proposals have been reviewed since morning.",
+                "The detailed proposals were being reviewed by the committee since morning."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The question is fundamentally flawed as none of the options represent a direct passive conversion. However, Option A is the only grammatically sound sentence structure presented, using the Present Perfect Continuous Active voice, making it the most plausible intended answer despite the faulty premise.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7273,
+            "question_text": "A successful infrastructure project, such as developing advanced public transport networks, requires not only immense capital investment but also sophisticated stakeholder engagement. Ignoring community feedback or environmental impact assessments can lead to costly delays and public resistance, regardless of the project's technical merits.",
+            "options": [
+                "Public resistance is generally negligible when a project offers significant modern benefits.",
+                "Financial investment is the only factor that determines the timely completion of infrastructure projects.",
+                "Technical merit alone is sufficient to guarantee the success of any major infrastructure development project.",
+                "Stakeholder engagement and comprehensive impact assessments are critical for mitigating delays and public resistance in large-scale projects."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The text highlights that neglecting stakeholder feedback and environmental assessments leads to delays and public resistance, making engagement critical for success.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7274,
+            "question_text": "Identify the correct indirect speech conversion for the following sentence: \"The professor exclaimed, 'What a breathtaking discovery this is!'.\"",
+            "options": [
+                "The professor exclaimed that it was a breathtaking discovery.",
+                "The professor exclaimed that what a breathtaking discovery that was.",
+                "The professor exclaimed how breathtaking the discovery was.",
+                "The professor exclaimed that they made a breathtaking discovery."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Exclamatory statements (like 'What a...') are typically converted using 'exclaim that' followed by 'how' or 'what' structure, changing the tense and pronouns.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7337,
+            "question_text": "Passage: The rapid proliferation of digital communication tools, while hailed as a democratizing force, often masks a subtle erosion of deep intellectual engagement. Our inclination towards bite-sized information fragments privileges speed over profundity, conditioning the modern mind to seek quick confirmation rather than sustained contemplation. Consequently, the ability to synthesize complex ideas derived from disparate sources appears increasingly atrophied, replaced by a mere accumulation of readily digestible soundbites.",
+            "options": [
+                "The core argument is that digital speed hinders the capacity for deep, sustained thought.",
+                "Contemplation requires more sources than is generally available today.",
+                "The passage suggests that digital communication primarily enhances intellectual depth.",
+                "Soundbites are inherently superior to complex ideas because they are more accessible."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The passage argues that the speed of digital communication ('bite-sized information') leads to the atrophy of the ability for sustained contemplation (deep intellectual engagement).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7338,
+            "question_text": "Choose the most appropriate indirect speech for the following sentence: Sarah said to John, 'You must submit your reports by the end of the week.'",
+            "options": [
+                "Sarah asked John if he must submit his reports by the end of the week.",
+                "Sarah exclaimed to John that he should submit his reports by the end of that week.",
+                "Sarah told John that he must submit his reports by the end of that week.",
+                "Sarah advised John that he had to submit his reports by the end of the week."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "When reporting 'must' advice, especially regarding a condition, it often changes to 'had to' or 'needed to'. Option C accurately reflects this necessary shift and tense change.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7401,
+            "question_text": "The rapid proliferation of misinformation online poses a serious challenge to democratic discourse. While the ease of sharing content promotes connectivity, it simultaneously undermines the critical requirement for verifiable facts. Therefore, digital literacy cannot merely be viewed as a supplementary skill, but rather as a foundational pillar necessary for maintaining a robust and informed public sphere.",
+            "options": [
+                "Digital literacy is suggested merely as a helpful addition to existing educational frameworks.",
+                "The core argument suggests that digital literacy must be prioritized to sustain democratic processes.",
+                "The author claims that misinformation is solely caused by a lack of internet connectivity.",
+                "The text primarily focuses on the technical difficulties associated with content sharing on social media."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage argues that digital literacy is a foundational necessity (pillar) to combat misinformation and preserve democratic discourse.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7402,
+            "question_text": "Choose the correct way to convert the following direct speech into indirect speech: She said to him, \"If I were a millionaire, I would buy a new car for you.\"",
+            "options": [
+                "She told him that if she were a millionaire, she would buy a new car for him.",
+                "She told him that if she was a millionaire, she would buy a new car for him.",
+                "She told him that if she were a millionaire, she would buy a new car for him.",
+                "She had told him that if she was a millionaire, she would buy a new car for him."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The original sentence is a Type 2 Conditional (hypothetical statement), so the 'were... would' structure must be maintained in reported speech. Also, 'you' changes to 'him' and 'said to' should be replaced by 'told'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7465,
+            "question_text": "According to the passage regarding the challenges in the public sector hiring process, the main hurdle facing candidates is:",
+            "options": [
+                "Lack of necessary technological exposure among educational graduates.",
+                "The excessive reliance on outdated physical examination methods for assessment.",
+                "Insufficient funding allocated by provincial governments for advanced career development programs.",
+                "A mismatch between the theoretical knowledge imparted in academia and the practical demands of the workplace."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage specifically highlights the gap, or mismatch, between academic theory and the practical, operational requirements of government jobs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7466,
+            "question_text": "Convert the following active sentence into the passive voice: By the time the FIA officers arrived, the suspects had already escaped through a secret passage.",
+            "options": [
+                "By the time the FIA officers arrived, the secret passage had already escaped the suspects.",
+                "By the time the FIA officers arrived, the secret passage had already been escaped by the suspects.",
+                "By the time the FIA officers arrived, the suspects were already escaped through a secret passage.",
+                "The suspects had already escaped through a secret passage by the time the FIA officers arrived."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The original sentence is in the Past Perfect Tense (had + V3). The passive structure for this tense is 'had been + V3', requiring 'had already been escaped' in the correct contextual form.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7529,
+            "question_text": "According to the passage, what is the primary prerequisite for achieving sustainable urban development in Pakistan?",
+            "options": [
+                "Increased reliance on private sector entities for infrastructure building.",
+                "Fundamental reforms and coordinated oversight in urban governance.",
+                "The immediate integration of all digital technologies into public services.",
+                "Massive private investment in developing new commercial zones."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage emphasizes that sustainable development requires 'fundamental reforms in urban governance,' going beyond just physical infrastructure investment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7593,
+            "question_text": "The recent surge in remote work capabilities, while offering unprecedented flexibility, simultaneously presents complex challenges related to maintaining corporate culture and ensuring data security compliance across decentralized physical boundaries. Organizations must therefore adopt hybrid models that mandate structured communication and robust digital safeguards.",
+            "options": [
+                "Hybrid models are the mandatory solution for balancing flexibility with the need for structure and security.",
+                "Corporate culture thrives best when employees are physically present in the main office location.",
+                "The main challenge of remote work is solely maintaining employee morale, not data security.",
+                "Data security compliance is primarily hampered by the lack of centralized physical office space."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The passage advocates for hybrid models to address the dual challenges of maintaining culture and ensuring data security across decentralized settings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7594,
+            "question_text": "Convert the following direct speech into indirect speech: The officer commanded the guards, 'Do not allow any unauthorized entry into the secure zone.'",
+            "options": [
+                "The officer ordered the guards to not allow any unauthorized entry into the secure zone.",
+                "The officer advised the guards that they must not allow any unauthorized entry.",
+                "The officer told the guards that they should not allow any unauthorized entry.",
+                "The officer commanded the guards not to allow any unauthorized entry into the secure zone."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Imperative statements or commands are best converted using infinitive structures ('not to' + base verb) to accurately convey the strong prohibition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7805,
+            "question_text": "The officer advised the staff members, “Please file the reports immediately and ensure all files are signed.”",
+            "options": [
+                "The officer advised the staff members filing the reports immediately and ensuring all files were signed.",
+                "The officer asked the staff members to file the reports immediately and ensure all files are signed.",
+                "The officer advised the staff members to filing the reports immediately and ensuring all files were signed.",
+                "The officer advised the staff members to file the reports immediately and ensure that all files were signed."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "For reported requests/advice, the structure is 'advised + object + to + infinitive'. Tenses must also be correctly shifted (e.g., 'are signed' to 'were signed').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7806,
+            "question_text": "She asked me, \"Could you possibly provide me with the necessary documentation for my application?\"",
+            "options": [
+                "She asked me if I could possibly provide her with the necessary documentation for her application.",
+                "She asked me to possibly provide her with the necessary documentation for her application.",
+                "She asked me if I could possibly to provide her with the necessary documentation for her application.",
+                "She requested me whether I could possibly providing her with the necessary documentation for her application."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A polite request starting with 'Could you' is best reported using 'if' (or 'whether') and maintaining the modal structure 'if I could', followed by the correct pronoun changes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7855,
+            "question_text": "Report the following statement accurately: The Deputy Director said to the students, \"You must submit your project reports before the end of the week, or you will fail.\"",
+            "options": [
+                "The Deputy Director advised the students that they should submit their project reports before the end of the week, otherwise they would fail.",
+                "The Deputy Director warned the students to submit their project reports before the end of the week, otherwise they would fail.",
+                "The Deputy Director told the students that they would submit their project reports before the end of the week, or else they failed.",
+                "The Deputy Director ordered the students that they must submit their project reports before the end of the week, or they would fail."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Since the sentence contains a strong warning and a necessity ('must... or will fail'), the most precise reporting verb and structure is 'warned... to submit,' followed by the consequence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7856,
+            "question_text": "Identify the most grammatically accurate indirect speech transformation for the sentence: 'I shall submit the report tomorrow, if you assist me.'",
+            "options": [
+                "He asked me if he would submit the report the next day if I assist him.",
+                "He informed that he would submit the report the following day, provided I assist him.",
+                "He asked me whether he would submit the report the next day if I assisted him.",
+                "He told me that he shall submit the report tomorrow, provided I assist him."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since the reporting verb ('asked') is in the past, direct speech elements must be shifted back (backshifted). 'Shall' changes to 'would', 'tomorrow' changes to 'the next day', and the present tense in the conditional clause ('assist') must change to the past tense ('assisted') for tense consistency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7905,
+            "question_text": "Identify the sentence that correctly converts the following direct speech into indirect speech: She exclaimed, \"How beautiful the view is from this hill!\"",
+            "options": [
+                "She exclaimed how beautiful the view was from this hill.",
+                "She exclaimed that the view is very beautiful from that hill.",
+                "She exclaimed that the view was very beautiful from that hill.",
+                "She exclaimed, 'How beautiful the view is from that hill!'"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Exclamatory statements converted to indirect speech typically use a reporting structure (e.g., 'exclaimed that...') and require tense backshift (is to was) and appropriate changes in demonstratives (this to that).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8001,
+            "question_text": "If the main characters of the film were to be scrutinized for any mistakes, they ______ by the authorities.",
+            "options": [
+                "might have been exposed",
+                "were exposed",
+                "would be exposing",
+                "must expose"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The structure 'might have been + V3' correctly expresses a possibility of a past action (might have happened) that is now being hypothesized or scrutinized under a hypothetical condition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8002,
+            "question_text": "Which of the following options is the most appropriate passive structure for the sentence: \"The Chief Editor is reviewing the application form right now.\"",
+            "options": [
+                "The application form is being reviewed by the Chief Editor.",
+                "The application form is reviewed by the Chief Editor right now.",
+                "The application form was reviewed by the Chief Editor right now.",
+                "The application form was being reviewed by the Chief Editor right now."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The active voice uses the Present Continuous Tense (is reviewing). The corresponding passive structure is Present Continuous Passive (is being reviewed). Option B maintains the correct tense and meaning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8051,
+            "question_text": "Active Voice: The committee members approved the new syllabus immediately. Choose the best passive transformation.",
+            "options": [
+                "The new syllabus was approved immediately by the committee members.",
+                "The new syllabus approved immediately the committee members.",
+                "By the committee members, the new syllabus was approved immediately.",
+                "Immediately, the new syllabus approved by the committee members."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The simple past tense 'approved' requires the structure 'was/were approved' in the passive voice. Option A is grammatically complete and structurally sound.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8098,
+            "question_text": "Which option correctly transforms the active voice sentence, 'The committee must review the proposal before the deadline,' into the passive voice?",
+            "options": [
+                "The proposal must be reviewed by the committee before the deadline.",
+                "The proposal must reviewed by the committee before the deadline.",
+                "The proposal is having to be reviewed by the committee before the deadline.",
+                "By the committee, the proposal must be reviewed before the deadline."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The structure 'must + be + Past Participle' is required for the modal passive voice. Option B correctly applies this structure, ensuring grammatical accuracy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8099,
+            "question_text": "A: 'You should submit the research proposal before the end of the week.' B: 'I know, but I was waiting for the latest data from the field.' What is the most appropriate reported speech?",
+            "options": [
+                "A suggested that B submits the research proposal before the end of the week, but B explained she had waited for the latest data.",
+                "A advised B that she should submit the research proposal before the end of the week, but B explained that she was waiting for the latest data from the field.",
+                "A advised B to submit the research proposal before the end of the week, but B explained that she was waiting for the latest data from the field.",
+                "A told B that she must submit the research proposal before the end of the week, but B was waiting for the latest data from the field."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When reporting advice ('should'), it is best converted into an infinitive structure (to submit). Furthermore, the explanation clause already uses 'was waiting' (past continuous) which is acceptable for stating an ongoing reason.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8148,
+            "question_text": "Choose the correct indirect speech rendition for the command: 'The supervisor ordered the staff, 'Finish this report by 5 PM today!''",
+            "options": [
+                "The supervisor told the staff finishing the report by 5 PM today.",
+                "The supervisor commanded the staff to finishing the report by 5 PM that day.",
+                "The supervisor ordered the staff that they should finish this report by 5 PM tomorrow.",
+                "The supervisor ordered the staff to finish that report by 5 PM that day."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Commands (imperative statements) are reported using an infinitive (to + V1). 'This' changes to 'that', and 'today' changes to 'that day' or 'the next day' to reflect the time shift.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8198,
+            "question_text": "Identify the most grammatically accurate indirect speech conversion for the sentence: 'The supervisor exclaimed, 'We must complete this report by tomorrow morning.'",
+            "options": [
+                "The supervisor exclaimed that they must complete this report by tomorrow morning.",
+                "The supervisor exclaimed that they should complete it by the following morning.",
+                "The supervisor exclaimed that they had to complete that report by the next morning.",
+                "The supervisor exclaimed that they must complete that report by the following morning."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In reported speech, the modal 'must' suggesting obligation changes to 'had to' (or 'would have to'), and time/demonstrative adverbs like 'this' and 'tomorrow' must be shifted to 'that' and 'the following day'/'next morning' respectively.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8248,
+            "question_text": "Report the following command correctly: The principal said to the students, \"Do not litter on the campus area.\"",
+            "options": [
+                "The principal told the students not to litter in the campus area.",
+                "The principal advised the students that they should not litter on the campus area.",
+                "The principal forbade the students from littering in the campus area.",
+                "The principal ordered the students to not litter on the campus area."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "For negative commands, the reporting verb (told/advised) is followed by the object and the 'not to + infinitive' structure. Option B follows this mandatory grammatical structure ('told... not to litter').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8296,
+            "question_text": "A student said to his friend, \"You must submit your assignments by tomorrow.\" How should this sentence be changed into indirect speech?",
+            "options": [
+                "A student advised his friend that he must submit his assignments by the next day.",
+                "A student told his friend that he should submit his assignments by the next day.",
+                "A student told his friend that he must submit his assignments by the next day.",
+                "A student advised his friend that he ought to submit his assignments by the following day."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "When 'must' conveys strong advice or obligation, it is best translated into 'ought to' in reported speech, and 'tomorrow' must change to 'the following day' for formal academic writing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8345,
+            "question_text": "The officer exclaimed, 'What a commendable service you have rendered to the community!' Convert this sentence into indirect speech.",
+            "options": [
+                "The officer exclaimed that the service rendered to the community had been very commendable.",
+                "The officer exclaimed that the service rendered to the community was very commendable.",
+                "The officer exclaimed that the service rendered to the community could be commendable.",
+                "The officer exclaimed with admiration that the service rendered to the community was commendable."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Exclamatory statements like 'What a...' are typically reported using phrases like 'with admiration' or 'with delight.' The present perfect 'have rendered' shifts to past tense, and the structure 'What a [adj] Noun' converts to a declarative statement using 'was [adj]'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8346,
+            "question_text": "Choose the sentence that correctly reports the command: The professor instructed the students that they must submit their assignments immediately.",
+            "options": [
+                "The professor told the students that they should submit their assignments immediately.",
+                "The professor asked the students about submitting their assignments immediately.",
+                "The professor instructed the students to submit their assignments immediately.",
+                "The professor had instructed the students to submit their assignments immediately."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When reporting instructions or commands, the infinitive structure (to + verb) is the most precise and common way to paraphrase the original message.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8393,
+            "question_text": "Change the following sentence into indirect speech: 'Neither Imran nor his teammates were serious about the match until the coach reminded them that the tournament was crucial.'",
+            "options": [
+                "The coach reminded them that neither Imran nor his teammates were being serious about the match until the tournament was crucial.",
+                "The coach had reminded them that neither Imran nor his teammates had been serious about the match until it was crucial.",
+                "The coach reminded them that neither Imran nor his teammates had been serious about the match until the tournament was crucial.",
+                "The coach reminded them that neither Imran nor his teammates were serious about the match until the tournament was crucial."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since the reporting verb ('reminded') is in the past, the tense of the clause ('were serious') must shift to Past Perfect ('had been serious') to reflect the reported time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20333,
+            "question_text": "Choose the correct passive voice transformation of the sentence: \"The government is expected to pass the new education policy by next month.\"",
+            "options": [
+                "The new education policy is expected to be passed by the government next month.",
+                "The new education policy will be expected to pass by the government next month.",
+                "The new education policy has been expected to pass by the government.",
+                "The new education policy was expected to pass by the government next month."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The structure 'is expected to' indicates a passive construction, requiring the main action to be phrased as 'to be passed' to maintain tense consistency and shift the focus to the policy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20378,
+            "question_text": "The old man said, \"Neither the children nor the students were paying attention to the lecture.\" Which of the following is the correct reported speech equivalent?",
+            "options": [
+                "The old man reported that the children or the students were paying attention to the lecture.",
+                "The old man told that the students or the children paid attention to the lecture.",
+                "The old man said that neither the students nor the children were paying attention to the lecture.",
+                "The old man said that neither the students nor the children pay attention to the lecture."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sentence uses 'neither...nor', which remains the primary structure. Since the original statement was in the past continuous ('were paying'), the reported speech must maintain a past tense structure that accurately reflects the original meaning, which Option A does.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20421,
+            "question_text": "The general suspects that the foreign agency might have compromised the core intelligence data last month.",
+            "options": [
+                "The general suspected that the core intelligence data might have compromised by the foreign agency last month.",
+                "The general suspecting that the core intelligence data might have been compromised by the foreign agency last month.",
+                "The general suspected that the core intelligence data might be compromised by the foreign agency last month.",
+                "The general suspected that the core intelligence data might have been compromised by the foreign agency last month."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The structure 'suspected that' is correct. Since the data (core intelligence data) was the recipient of the action (compromised), and the action happened in the past, the passive perfect tense ('might have been compromised') is mandatory.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20422,
+            "question_text": "Choose the correct passive voice transformation of the following sentence: The committee recommends that all applicants submit their biometric data before the closing date.",
+            "options": [
+                "It was recommended by the committee that all applicants submitted their biometric data before the closing date.",
+                "The submission of biometric data by all applicants is recommended by the committee before the closing date.",
+                "All applicants are recommended to submit their biometric data by the committee before the closing date.",
+                "It is recommended by the committee that all applicants submit their biometric data before the closing date."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "This sentence uses the subjunctive mood structure ('recommend that + subject + base form of the verb'). Since the main verb ('recommends') is in the present tense, the passive structure must maintain the present tense auxiliary, 'It is recommended'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20462,
+            "question_text": "She said, \"I finished the entire report yesterday.\". Convert this statement into indirect speech.",
+            "options": [
+                "She said that she finished the entire report the previous day.",
+                "She said that she had finished the entire report the previous day.",
+                "She told her friend that she finished the entire report the day before.",
+                "She said that she finished the entire report yesterday."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The original statement is in Simple Past (finished). In indirect speech, Simple Past shifts to Past Perfect (had finished), and 'yesterday' becomes 'the previous day' or 'the day before'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20463,
+            "question_text": "Choose the option that maintains both the correct tense sequence and the formal tone suitable for an academic exam:",
+            "options": [
+                "The journalist flashed his camera and suddenly interrupted the proceedings while the chairman spoke.",
+                "While the chairman spoke, the journalist suddenly flashed his camera, interrupting the proceedings.",
+                "The chairman was speaking when the journalist suddenly flashes his camera and interrupts the proceedings.",
+                "While the chairman was speaking, the journalist suddenly flashed his camera and interrupted the proceedings."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Past Continuous Tense ('was speaking') correctly sets the background action, which is then interrupted by a sudden, single action in the Simple Past Tense ('flashed and interrupted'), establishing correct temporal consistency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20502,
+            "question_text": "Report the following conversation: Rohit said to Amir, “I finished my assignment yesterday, so I must submit it today.”",
+            "options": [
+                "Rohit told Amir that he finished his assignment the day before, so he had to submit it that day.",
+                "Rohit told Amir that he had finished his assignment the previous day, so he had to submit it that day.",
+                "Rohit told Amir that he had finished his assignment the day before, so he had to submit it that day.",
+                "Rohit informed Amir that he must finish his assignment the previous day."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The statement requires tense shift. 'Finished' becomes Past Perfect ('had finished'), and 'yesterday' is most formally translated as 'the previous day'. 'Must' shifts to 'had to'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20503,
+            "question_text": "Identify the grammatically correct passive structure for the sentence: 'The committee members will finally approve the new draft guidelines after the arduous deliberation.'",
+            "options": [
+                "The new draft guidelines will finally be approved by the committee members after the arduous deliberation.",
+                "By the committee members, the new draft guidelines will finally be approved after the arduous deliberation.",
+                "The arduous deliberation will finally approve the new draft guidelines by the committee members.",
+                "After the arduous deliberation, the new draft guidelines will finally approve by the committee members."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The structure is Future Passive ('will be approved') and the prepositional phrase ('by the committee members') can optionally be placed at the end of the sentence for better flow.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,333 @@
+{
+    "category": "National Excellence Institute",
+    "name": "English Language",
+    "board": "national-excellence-institute",
+    "subject": "english-language",
+    "url": "/national-excellence-institute/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 23,
+    "questions": [
+        {
+            "id": 13389,
+            "question_text": "Choose the word that is most nearly opposite in meaning to 'Benevolent'.",
+            "options": [
+                "Kind",
+                "Malevolent",
+                "Generous",
+                "Cheerful"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means intending to do good, while malevolent means intending to do harm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13390,
+            "question_text": "Identify the correct sentence structure.",
+            "options": [
+                "Neither the manager nor the employees was present.",
+                "Neither the manager nor the employees were present.",
+                "Neither the manager nor the employees is present.",
+                "Neither the manager nor the employees has present."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the closer noun; 'employees' is plural, requiring 'were'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13391,
+            "question_text": "Choose the correct synonym for 'Ephemeral'.",
+            "options": [
+                "Permanent",
+                "Fleeting",
+                "Lasting",
+                "Sturdy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means lasting for a very short time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13392,
+            "question_text": "Complete the sentence: Neither the manager nor the employees _____ present at the meeting.",
+            "options": [
+                "was",
+                "were",
+                "is",
+                "has"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' sentences, the verb agrees with the closer subject (employees).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13393,
+            "question_text": "Identify the part of speech of the underlined word in 'She speaks loudly': loudly.",
+            "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Verb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Loudly describes the verb 'speaks', making it an adverb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13394,
+            "question_text": "Which sentence is punctuated correctly?",
+            "options": [
+                "I went to the store, and bought milk.",
+                "I went to the store; and bought milk.",
+                "I went to the store and bought milk.",
+                "I went to the store: and bought milk."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "No comma is needed when joining two verbs with a single subject.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13395,
+            "question_text": "What is the meaning of the idiom 'A blessing in disguise'?",
+            "options": [
+                "A curse that looks good",
+                "A hidden mistake",
+                "A good thing that seemed bad at first",
+                "A secret plan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This idiom describes an apparent misfortune that eventually results in something good.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13396,
+            "question_text": "Which word is correctly spelled?",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The word has two 'c's and two 'm's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13397,
+            "question_text": "Choose the most appropriate word to complete: The CEO's decision was _____ received by the shareholders.",
+            "options": [
+                "well",
+                "good",
+                "better",
+                "best"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An adverb is needed to modify the participle 'received'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13398,
+            "question_text": "Select the correct plural form of 'Criterion'.",
+            "options": [
+                "Criterias",
+                "Criterion",
+                "Criteria",
+                "Criteri"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Criteria is the plural of criterion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13399,
+            "question_text": "Fill in the blank with the correct preposition: She is interested _____ learning new languages.",
+            "options": [
+                "at",
+                "in",
+                "on",
+                "for"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The preposition 'in' is idiomatic with 'interested'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13400,
+            "question_text": "Rewrite in passive voice: 'The team completed the project'.",
+            "options": [
+                "The project was completed by the team.",
+                "The project is completed by the team.",
+                "The team was completed by the project.",
+                "The project had been completed by the team."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The original sentence is simple past, so the passive should be 'was completed'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14041,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "Neither the students nor the teacher were in the classroom.",
+                "Neither the students nor the teacher was in the classroom.",
+                "Neither the students nor the teacher are in the classroom.",
+                "Neither the students nor the teacher have been in the classroom."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When using 'neither/nor', the verb agrees with the subject closest to it. Since 'teacher' is singular, 'was' is the correct verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14042,
+            "question_text": "Choose the synonym for 'Eloquent'.",
+            "options": [
+                "Quiet",
+                "Articulate",
+                "Confused",
+                "Dull"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Eloquent means fluent or persuasive in speaking or writing, which is synonymous with articulate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14043,
+            "question_text": "Which of the following sentences uses a semicolon correctly?",
+            "options": [
+                "I love reading; and playing chess.",
+                "I love reading; it is my favorite hobby.",
+                "I love; reading books.",
+                "I love reading; because it is fun."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A semicolon is used to join two independent clauses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14044,
+            "question_text": "Identify the word that is spelled incorrectly.",
+            "options": [
+                "Accommodate",
+                "Necessary",
+                "Receive",
+                "Seperate"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The correct spelling is 'Separate'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14045,
+            "question_text": "Choose the correct phrase to complete the sentence: 'Neither the teacher nor the students ______ present.'",
+            "options": [
+                "was",
+                "were",
+                "has been",
+                "is being"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the closer subject ('students').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14047,
+            "question_text": "Select the option that best completes: 'The company decided to _______ the contract after the audit.'",
+            "options": [
+                "terminate",
+                "abrogate",
+                "extinguish",
+                "abolish"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Terminate is the most professional and standard term for ending a contract.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14048,
+            "question_text": "Fill in the blank: 'She has been working here _______ 2015.'",
+            "options": [
+                "for",
+                "since",
+                "during",
+                "until"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Since' is used to denote a specific point in time in the past.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14049,
+            "question_text": "Which word is an antonym of 'Fragile'?",
+            "options": [
+                "Weak",
+                "Robust",
+                "Delicate",
+                "Brittle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Robust means strong and healthy, which is the opposite of fragile.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14050,
+            "question_text": "Pick the correctly punctuated sentence.",
+            "options": [
+                "My friend, John, is coming over.",
+                "My friend John is coming over.",
+                "My friend John, is coming over.",
+                "My friend John is, coming over."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "No commas are needed here as 'John' is essential to identify the friend.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14051,
+            "question_text": "What part of speech is the word 'quickly'?",
+            "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Verb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Adverbs modify verbs, adjectives, or other adverbs and often end in -ly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14052,
+            "question_text": "Identify the sentence that contains a dangling modifier.",
+            "options": [
+                "Walking down the street, the trees looked beautiful.",
+                "I saw the trees while I was walking down the street.",
+                "The trees looked beautiful as I walked down the street.",
+                "Walking down the street, I admired the beautiful trees."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The modifier 'Walking down the street' incorrectly modifies 'the trees' instead of the person walking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

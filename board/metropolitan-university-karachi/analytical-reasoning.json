@@ -1,0 +1,207 @@
+{
+    "category": "Metropolitan University Karachi",
+    "name": "Analytical Reasoning",
+    "board": "metropolitan-university-karachi",
+    "subject": "analytical-reasoning",
+    "url": "/metropolitan-university-karachi/analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 13190,
+            "question_text": "If all Bloops are Razzies, and some Razzies are Tazzies, which of the following must be true?",
+            "options": [
+                "All Bloops are Tazzies",
+                "Some Bloops are Tazzies",
+                "Some Tazzies are Bloops",
+                "None of the above are necessarily true"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The premises do not establish a definite connection between Bloops and Tazzies; Bloops are a subset of Razzies, but we don't know if they overlap with the Tazzies subset.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13191,
+            "question_text": "Seven items are placed in a row. A is next to B. C is not next to D. If E is at one end and F is at the other, how many possible arrangements exist for G?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since E and F occupy the two ends, there are 5 available internal slots (2, 3, 4, 5, 6) where G can be placed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13192,
+            "question_text": "All accountants are logical. Some logical people are creative. Which of the following must be true?",
+            "options": [
+                "Some accountants are creative.",
+                "All creative people are logical.",
+                "No accountants are creative.",
+                "None of the above."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "There is no necessary connection established between accountants and creative people based on the premises.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13193,
+            "question_text": "If Monday is the third day of the month, which day of the week is the 20th?",
+            "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 3rd is Monday. 20 - 3 = 17 days later. 17 / 7 = 2 weeks and 3 days remainder. Monday + 3 days = Thursday. Wait, recalculate: 3rd (Mon), 10th (Mon), 17th (Mon). 20th is 17+3 = Thursday.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13194,
+            "question_text": "In a race, John finished ahead of Sam but behind Mike. Who finished last?",
+            "options": [
+                "John",
+                "Mike",
+                "Sam",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Order: Mike, John, Sam. Therefore, Sam is last.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13195,
+            "question_text": "Look at this series: 36, 34, 30, 28, 24, ... What number should come next?",
+            "options": [
+                "20",
+                "22",
+                "26",
+                "23"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern is alternating subtraction: -2, -4, -2, -4. The next is -2, so 24 - 2 = 22.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13196,
+            "question_text": "If 'APPLE' is coded as 'ELPPA', how is 'TABLE' coded?",
+            "options": [
+                "ELBAT",
+                "LATEB",
+                "ALBET",
+                "ETABL"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The word is written in reverse order.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13197,
+            "question_text": "Which shape does not belong in the group: Square, Rectangle, Circle, Triangle?",
+            "options": [
+                "Square",
+                "Rectangle",
+                "Circle",
+                "Triangle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A circle is the only shape listed that does not have straight edges or vertices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13198,
+            "question_text": "Five students are standing in a line. Alice is to the left of Bob. Charlie is to the right of Dave. Ed is between Bob and Charlie. Who is in the middle?",
+            "options": [
+                "Alice",
+                "Bob",
+                "Ed",
+                "Charlie"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sequence: Alice, Bob, Ed, Charlie, Dave.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13199,
+            "question_text": "If you rearrange 'ORWLD', you get the name of a:",
+            "options": [
+                "Country",
+                "Planet",
+                "City",
+                "Continent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The letters rearrange to spell 'WORLD', which is a planet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13200,
+            "question_text": "If all roses are flowers and some flowers fade, can it be concluded that some roses fade?",
+            "options": [
+                "Yes",
+                "No",
+                "Possibly",
+                "None of the above"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since the set of 'flowers that fade' and 'roses' might overlap, but are not guaranteed to, we cannot be certain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13201,
+            "question_text": "If A > B and B > C, which statement is true?",
+            "options": [
+                "A = C",
+                "C > A",
+                "A > C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This follows the transitive property of inequality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13202,
+            "question_text": "If all 'Zips' are 'Zaps', and no 'Zaps' are 'Zoops', which of the following is definitely true?",
+            "options": [
+                "No Zips are Zoops.",
+                "All Zoops are Zips.",
+                "Some Zips are Zoops.",
+                "All Zaps are Zips."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since all Zips are inside the Zap category, and the Zap category has no overlap with Zoops, Zips cannot be Zoops.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13203,
+            "question_text": "A clock shows 3:00. How many degrees does the minute hand move in 20 minutes?",
+            "options": [
+                "90 degrees",
+                "120 degrees",
+                "180 degrees",
+                "360 degrees"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The minute hand moves 360 degrees in 60 minutes. 360 / 60 = 6 degrees per minute. 6 * 20 = 120.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

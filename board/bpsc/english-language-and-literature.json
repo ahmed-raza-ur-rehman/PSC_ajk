@@ -1,0 +1,165 @@
+{
+    "category": "BPSC",
+    "name": "English Language and Literature",
+    "board": "bpsc",
+    "subject": "english-language-and-literature",
+    "url": "/bpsc/english-language-and-literature/2026/subject-mcqs",
+    "country": "BD",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10075,
+            "question_text": "Choose the correctly spelled word from the list below.",
+            "options": [
+                "Accommodation",
+                "Acomodation",
+                "Accomodation",
+                "Acommodation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The word 'accommodation' requires double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10076,
+            "question_text": "Which of these words is a synonym for 'fast'?",
+            "options": [
+                "Slow",
+                "Rapid",
+                "Lazy",
+                "Quiet"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Both 'fast' and 'rapid' describe something that moves or happens with great speed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10077,
+            "question_text": "Identify the part of speech for the word 'happily' in the sentence: 'She sang happily.'",
+            "options": [
+                "Noun",
+                "Verb",
+                "Adjective",
+                "Adverb"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "An adverb modifies a verb; 'happily' describes how she sang.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10078,
+            "question_text": "Who wrote the play 'Hamlet'?",
+            "options": [
+                "Charles Dickens",
+                "William Shakespeare",
+                "Jane Austen",
+                "Mark Twain"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hamlet is one of the most famous tragedies written by the English playwright William Shakespeare.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10079,
+            "question_text": "Choose the correct sentence.",
+            "options": [
+                "He go to the store.",
+                "He goes to the store.",
+                "He going to the store.",
+                "He gone to the store."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subject-verb agreement requires 'he' (third-person singular) to take the 'es' form of the verb 'go'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10080,
+            "question_text": "What is the opposite of 'generous'?",
+            "options": [
+                "Kind",
+                "Stingy",
+                "Friendly",
+                "Brave"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Generous means willing to give, while stingy means unwilling to give.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10081,
+            "question_text": "Identify the word that is correctly spelled.",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling includes double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10082,
+            "question_text": "Which of these words is a synonym for 'courageous'?",
+            "options": [
+                "Fearful",
+                "Brave",
+                "Cowardly",
+                "Shy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Brave is a synonym for courageous as both describe a person who faces danger without fear.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10083,
+            "question_text": "What type of figure of speech is the phrase 'time flies'?",
+            "options": [
+                "Simile",
+                "Metaphor",
+                "Personification",
+                "Hyperbole"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "It is a metaphor because it compares time to something that moves rapidly without using 'like' or 'as'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10084,
+            "question_text": "Which of the following is a classic work by William Shakespeare?",
+            "options": [
+                "The Odyssey",
+                "Romeo and Juliet",
+                "Pride and Prejudice",
+                "Moby Dick"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Romeo and Juliet is one of the most famous plays written by William Shakespeare.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10085,
+            "question_text": "Select the sentence with the correct grammar.",
+            "options": [
+                "She don't like apples.",
+                "She doesn't likes apples.",
+                "She doesn't like apples.",
+                "She don't likes apples."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The subject 'she' requires the singular verb 'does' for the negative form, followed by the base form of the verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

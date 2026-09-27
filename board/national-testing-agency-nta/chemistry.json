@@ -1,0 +1,179 @@
+{
+    "category": "National Testing Agency (NTA)",
+    "name": "Chemistry",
+    "board": "national-testing-agency-nta",
+    "subject": "chemistry",
+    "url": "/national-testing-agency-nta/chemistry/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 10016,
+            "question_text": "Which subatomic particle has a negative electrical charge?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Nucleus"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Electrons are negatively charged subatomic particles that orbit the nucleus of an atom.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10017,
+            "question_text": "What is the pH level of a neutral solution at room temperature?",
+            "options": [
+                "0",
+                "7",
+                "14",
+                "1"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "On the pH scale, a value of 7 represents neutrality, while values below 7 are acidic and above 7 are basic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10018,
+            "question_text": "What is the pH level that indicates a solution is neutral at room temperature?",
+            "options": [
+                "0",
+                "7",
+                "14",
+                "5"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "On the pH scale, 7 is the neutral point, representing equal concentrations of H+ and OH- ions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10019,
+            "question_text": "Which of these is the chemical symbol for Gold?",
+            "options": [
+                "Gd",
+                "Go",
+                "Au",
+                "Ag"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The symbol Au comes from the Latin word 'aurum'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10020,
+            "question_text": "What is the most abundant gas in Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10021,
+            "question_text": "Which subatomic particle's number determines the identity of an element?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Positron"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The atomic number of an element is defined strictly by the number of protons in the nucleus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10022,
+            "question_text": "In a redox reaction, what happens to the substance that is oxidized?",
+            "options": [
+                "It gains electrons",
+                "It loses electrons",
+                "It gains protons",
+                "It loses neutrons"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Oxidation is defined as the loss of electrons during a chemical reaction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10023,
+            "question_text": "Which noble gas has the smallest atomic radius?",
+            "options": [
+                "Helium",
+                "Neon",
+                "Argon",
+                "Krypton"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Atomic radius increases down a group; Helium is at the top of the noble gas column.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10024,
+            "question_text": "What is the common name for sodium bicarbonate?",
+            "options": [
+                "Table salt",
+                "Baking soda",
+                "Bleach",
+                "Vinegar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sodium bicarbonate (NaHCO3) is commonly known as baking soda.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10025,
+            "question_text": "In the periodic table, what are horizontal rows known as?",
+            "options": [
+                "Groups",
+                "Periods",
+                "Families",
+                "Blocks"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Horizontal rows in the periodic table are referred to as periods.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10026,
+            "question_text": "Which bond involves the sharing of electron pairs between atoms?",
+            "options": [
+                "Ionic bond",
+                "Covalent bond",
+                "Metallic bond",
+                "Hydrogen bond"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Covalent bonds occur when atoms share electrons to achieve stability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10027,
+            "question_text": "What is the oxidation state of pure elements like O2 or Fe?",
+            "options": [
+                "+1",
+                "-1",
+                "0",
+                "+2"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Elements in their standard state have an oxidation number of zero.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

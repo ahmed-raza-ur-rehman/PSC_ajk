@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "History",
+    "board": "aqa",
+    "subject": "history",
+    "url": "/aqa/history/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8846,
+            "question_text": "What was the main cause of the start of the First World War?",
+            "options": [
+                "The invention of the steam engine",
+                "The assassination of Archduke Franz Ferdinand",
+                "The fall of the Roman Empire",
+                "The discovery of oil in America"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The assassination in Sarajevo in 1914 was the immediate trigger for the alliances to declare war.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8847,
+            "question_text": "What is widely considered the trigger for the start of the First World War?",
+            "options": [
+                "The signing of the Treaty of Versailles",
+                "The assassination of Archduke Franz Ferdinand",
+                "The sinking of the Titanic",
+                "The fall of the Berlin Wall"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The assassination in Sarajevo in 1914 set off a series of diplomatic and military alliances that led to the war.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8848,
+            "question_text": "What is widely accepted as the trigger for the First World War?",
+            "options": [
+                "The sinking of the Titanic",
+                "The signing of the Treaty of Versailles",
+                "The assassination of Archduke Franz Ferdinand",
+                "The invention of the lightbulb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The assassination of the Archduke in Sarajevo in 1914 set off a chain of diplomatic and military alliances leading to war.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8849,
+            "question_text": "Which historical period followed the Middle Ages in Europe?",
+            "options": [
+                "The Stone Age",
+                "The Renaissance",
+                "The Industrial Revolution",
+                "The Roman Empire"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Renaissance marked a transition in European history characterized by a revival of art, culture, and science after the Middle Ages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "category": "Minhaj University Lahore",
+    "name": "Economics",
+    "board": "minhaj-university-lahore",
+    "subject": "economics",
+    "url": "/minhaj-university-lahore/economics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11781,
+            "question_text": "Which of the following best describes the law of demand?",
+            "options": [
+                "As price increases, quantity demanded increases",
+                "As price decreases, quantity demanded decreases",
+                "As price increases, quantity demanded decreases",
+                "Demand is independent of price"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The law of demand states that, ceteris paribus, there is an inverse relationship between price and quantity demanded.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11782,
+            "question_text": "What happens to the equilibrium price if supply increases while demand remains constant?",
+            "options": [
+                "It increases",
+                "It decreases",
+                "It stays the same",
+                "It becomes undefined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An increase in supply creates a surplus at the original price, forcing the equilibrium price to fall.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11783,
+            "question_text": "What term describes a market structure with only one seller of a unique product with no close substitutes?",
+            "options": [
+                "Perfect Competition",
+                "Monopoly",
+                "Oligopoly",
+                "Monopolistic Competition"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A monopoly exists when a single firm dominates the market, leaving no room for competition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11784,
+            "question_text": "Which of the following is considered an injection into the circular flow of income?",
+            "options": [
+                "Taxes",
+                "Imports",
+                "Investment",
+                "Savings"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Investments, government spending, and exports are injections into the economy, while savings, taxes, and imports are leakages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11785,
+            "question_text": "What happens to the quantity demanded of an inferior good if consumer income increases?",
+            "options": [
+                "It increases",
+                "It decreases",
+                "It remains constant",
+                "It fluctuates randomly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An inferior good is a good for which demand decreases when consumer income rises, as consumers switch to higher-quality substitutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11786,
+            "question_text": "Gross Domestic Product (GDP) measures which of the following?",
+            "options": [
+                "The total value of all goods and services produced within a country's borders in a year",
+                "The total wealth owned by citizens of a country",
+                "The total inflation rate",
+                "The total government debt"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "GDP is the monetary value of all finished goods and services produced within a country's borders in a specific time period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11787,
+            "question_text": "What is the primary function of a central bank?",
+            "options": [
+                "To lend money to individual consumers",
+                "To manage the money supply and interest rates",
+                "To regulate stock market trading",
+                "To file corporate tax returns"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Central banks are responsible for monetary policy, which includes controlling inflation and managing the money supply.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11788,
+            "question_text": "In a perfectly competitive market, individual firms are considered:",
+            "options": [
+                "Price makers",
+                "Price takers",
+                "Monopolists",
+                "Oligopolists"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In perfect competition, there are so many sellers that no single firm can influence the market price.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11789,
+            "question_text": "Which of the following is a characteristic of a 'public good'?",
+            "options": [
+                "Excludable and rivalrous",
+                "Non-excludable and non-rivalrous",
+                "Excludable and non-rivalrous",
+                "Non-excludable and rivalrous"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Public goods are available to everyone (non-excludable) and one person's consumption does not reduce availability for others (non-rivalrous).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11790,
+            "question_text": "What is the primary objective of contractionary monetary policy?",
+            "options": [
+                "To stimulate economic growth",
+                "To reduce unemployment",
+                "To control inflation",
+                "To increase consumer spending"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Contractionary policy aims to reduce the money supply and increase interest rates to slow down an overheating economy and curb inflation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11791,
+            "question_text": "What does the 'Law of Diminishing Marginal Returns' state?",
+            "options": [
+                "As more of a variable input is added, total output eventually decreases",
+                "As more of a variable input is added, marginal output eventually declines",
+                "Total cost always decreases as output increases",
+                "Prices must fall as supply increases"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Adding more of one factor of production while others stay constant eventually leads to smaller increases in output.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

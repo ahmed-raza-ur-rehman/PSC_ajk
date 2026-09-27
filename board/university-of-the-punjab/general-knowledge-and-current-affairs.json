@@ -1,0 +1,207 @@
+{
+    "category": "University of the Punjab",
+    "name": "General Knowledge and Current Affairs",
+    "board": "university-of-the-punjab",
+    "subject": "general-knowledge-and-current-affairs",
+    "url": "/university-of-the-punjab/general-knowledge-and-current-affairs/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 10448,
+            "question_text": "Who is considered the founder of the University of the Punjab?",
+            "options": [
+                "Sir Syed Ahmad Khan",
+                "Dr. G.W. Leitner",
+                "Allama Iqbal",
+                "Lord Curzon"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Dr. G.W. Leitner was the primary figure behind the establishment of the University of the Punjab in 1882.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10449,
+            "question_text": "Which is the largest province of Pakistan by land area?",
+            "options": [
+                "Punjab",
+                "Sindh",
+                "Khyber Pakhtunkhwa",
+                "Balochistan"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Balochistan covers approximately 44% of the total land area of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10450,
+            "question_text": "Which is the national flower of Pakistan?",
+            "options": [
+                "Rose",
+                "Jasmine",
+                "Tulip",
+                "Sunflower"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Jasmine (Chambeli) is the national flower of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10451,
+            "question_text": "Who was the first Prime Minister of Pakistan?",
+            "options": [
+                "Quaid-e-Azam",
+                "Liaquat Ali Khan",
+                "Ayub Khan",
+                "Zulfikar Ali Bhutto"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Liaquat Ali Khan served as the first Prime Minister of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10452,
+            "question_text": "What is the capital of Turkey?",
+            "options": [
+                "Istanbul",
+                "Antalya",
+                "Ankara",
+                "Izmir"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ankara is the capital city of Turkey.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10453,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mars is referred to as the Red Planet due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10454,
+            "question_text": "What is the currency of Japan?",
+            "options": [
+                "Yuan",
+                "Won",
+                "Yen",
+                "Dollar"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Japanese Yen is the official currency of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10455,
+            "question_text": "Which river is the longest in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Indus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile is generally considered the longest river in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10456,
+            "question_text": "Who invented the telephone?",
+            "options": [
+                "Thomas Edison",
+                "Alexander Graham Bell",
+                "Nikola Tesla",
+                "Albert Einstein"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Alexander Graham Bell is credited with the invention of the telephone.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10457,
+            "question_text": "What does 'WWW' stand for in web addresses?",
+            "options": [
+                "World Wide Web",
+                "Wide World Web",
+                "Web World Wide",
+                "World Web Wide"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "WWW stands for the World Wide Web.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10458,
+            "question_text": "Which country is known as the Land of the Rising Sun?",
+            "options": [
+                "China",
+                "South Korea",
+                "Japan",
+                "Thailand"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Japan is known as the Land of the Rising Sun.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10459,
+            "question_text": "What is the largest ocean on Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Pacific Ocean",
+                "Arctic Ocean"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10460,
+            "question_text": "Which organization is responsible for the regulation of the internet and telecommunications in Pakistan?",
+            "options": [
+                "PTA",
+                "PEMRA",
+                "NAB",
+                "FIA"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Pakistan Telecommunication Authority (PTA) is the regulatory agency for telecommunications in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10461,
+            "question_text": "The 'K2' mountain is located in which mountain range?",
+            "options": [
+                "Himalayas",
+                "Karakoram",
+                "Hindu Kush",
+                "Sulaiman"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "K2, the second-highest mountain in the world, is situated in the Karakoram range.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

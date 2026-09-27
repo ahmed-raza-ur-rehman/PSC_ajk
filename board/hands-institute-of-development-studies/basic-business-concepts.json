@@ -1,0 +1,165 @@
+{
+    "category": "Hands Institute of Development Studies",
+    "name": "Basic Business Concepts",
+    "board": "hands-institute-of-development-studies",
+    "subject": "basic-business-concepts",
+    "url": "/hands-institute-of-development-studies/basic-business-concepts/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 12022,
+            "question_text": "What is the term for the amount of money a business makes after deducting all expenses?",
+            "options": [
+                "Revenue",
+                "Gross Income",
+                "Profit",
+                "Assets"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Profit is the financial gain remaining after costs are subtracted from revenue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12023,
+            "question_text": "Which document outlines a company's goals and how it plans to achieve them?",
+            "options": [
+                "Balance Sheet",
+                "Business Plan",
+                "Ledger",
+                "Invoice"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A business plan is a formal document setting out business goals and the strategy for reaching them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12024,
+            "question_text": "What is 'Marketing Mix' commonly referred to as?",
+            "options": [
+                "The 4 Ps",
+                "The 4 Rs",
+                "The 5 Cs",
+                "The Value Chain"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The marketing mix is traditionally comprised of Product, Price, Place, and Promotion, known as the 4 Ps.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12025,
+            "question_text": "What does the acronym 'ROI' stand for in business?",
+            "options": [
+                "Rate of Interest",
+                "Return on Investment",
+                "Return of Income",
+                "Ratio of Index"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ROI is a performance measure used to evaluate the efficiency of an investment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12026,
+            "question_text": "Which of the following is an example of an intangible asset?",
+            "options": [
+                "Factory building",
+                "Office furniture",
+                "Brand reputation",
+                "Company vehicle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Intangible assets lack physical substance, unlike machinery or buildings.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12027,
+            "question_text": "Who are the primary owners of a corporation?",
+            "options": [
+                "Employees",
+                "The government",
+                "Shareholders",
+                "Board of Directors"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Shareholders own equity in the corporation by holding shares of stock.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12028,
+            "question_text": "What is 'Supply' in economic terms?",
+            "options": [
+                "The total amount of goods customers want",
+                "The total amount of goods available for sale",
+                "The government regulation of goods",
+                "The cost of manufacturing goods"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Supply represents the quantity of a product that producers are willing to sell at various prices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12029,
+            "question_text": "Which business document summarizes a company's financial position at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Cash Flow Statement",
+                "Balance Sheet",
+                "Budget Report"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A balance sheet provides a snapshot of assets, liabilities, and shareholders' equity at a specific date.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12030,
+            "question_text": "What is the economic term for the situation where demand exceeds supply?",
+            "options": [
+                "Surplus",
+                "Shortage",
+                "Equilibrium",
+                "Inflation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A shortage occurs when the quantity demanded is greater than the quantity supplied at a given price.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12031,
+            "question_text": "Which type of business entity provides limited liability protection to its owners?",
+            "options": [
+                "Sole Proprietorship",
+                "Partnership",
+                "Corporation",
+                "All of the above"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A corporation is a legal entity separate from its owners, providing limited liability protection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12032,
+            "question_text": "What is the 'Break-even Point' in business?",
+            "options": [
+                "Where profit is maximized",
+                "Where total revenue equals total costs",
+                "Where assets equal liabilities",
+                "Where sales equal marketing spend"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The break-even point is the level of production where there is neither profit nor loss.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

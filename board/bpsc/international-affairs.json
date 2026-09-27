@@ -1,0 +1,165 @@
+{
+    "category": "BPSC",
+    "name": "International Affairs",
+    "board": "bpsc",
+    "subject": "international-affairs",
+    "url": "/bpsc/international-affairs/2026/subject-mcqs",
+    "country": "BD",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10108,
+            "question_text": "Which organization is responsible for maintaining international peace and security?",
+            "options": [
+                "World Health Organization",
+                "United Nations",
+                "World Bank",
+                "WTO"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The primary mission of the United Nations is to maintain international peace and security.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10109,
+            "question_text": "Which city is the headquarters of the United Nations?",
+            "options": [
+                "London",
+                "Paris",
+                "New York",
+                "Geneva"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The primary headquarters of the United Nations is located in New York City.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10110,
+            "question_text": "Which country is the largest by land area in the world?",
+            "options": [
+                "China",
+                "USA",
+                "Russia",
+                "Canada"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Russia is the largest country in the world by land area.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10111,
+            "question_text": "The Euro is the official currency of which group?",
+            "options": [
+                "ASEAN",
+                "European Union",
+                "SAARC",
+                "G7"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Euro is the currency used by many of the member states of the European Union.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10112,
+            "question_text": "Which mountain range separates Europe from Asia?",
+            "options": [
+                "The Himalayas",
+                "The Alps",
+                "The Andes",
+                "The Ural Mountains"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Ural Mountains are traditionally considered the boundary between the continents of Europe and Asia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10113,
+            "question_text": "Which planet is known as the 'Morning Star'?",
+            "options": [
+                "Mercury",
+                "Venus",
+                "Mars",
+                "Saturn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Venus is often called the Morning Star or Evening Star because it is very bright and appears near the sunrise or sunset.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10114,
+            "question_text": "Which country is home to the Amazon Rainforest?",
+            "options": [
+                "Brazil",
+                "Australia",
+                "India",
+                "Canada"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The majority of the Amazon Rainforest is located in Brazil.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10115,
+            "question_text": "Which treaty ended the First World War?",
+            "options": [
+                "Treaty of Paris",
+                "Treaty of Versailles",
+                "Treaty of London",
+                "Treaty of Rome"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Signed in 1919, the Treaty of Versailles formally brought an end to the state of war between Germany and the Allied Powers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10116,
+            "question_text": "Which continent is known as the 'Dark Continent'?",
+            "options": [
+                "Asia",
+                "Europe",
+                "Africa",
+                "South America"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Historically, Africa was often referred to as the 'Dark Continent' because of the limited knowledge Europeans had about its interior.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10117,
+            "question_text": "Where is the headquarters of the International Court of Justice located?",
+            "options": [
+                "New York",
+                "Geneva",
+                "The Hague",
+                "London"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The International Court of Justice is based at the Peace Palace in The Hague, Netherlands.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10118,
+            "question_text": "Which country is the largest in terms of geographical landmass?",
+            "options": [
+                "China",
+                "USA",
+                "Russia",
+                "Canada"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Russia is the largest country in the world by land area, spanning across Eastern Europe and Northern Asia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

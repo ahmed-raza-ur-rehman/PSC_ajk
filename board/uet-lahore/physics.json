@@ -1,0 +1,221 @@
+{
+    "category": "UET Lahore",
+    "name": "Physics",
+    "board": "uet-lahore",
+    "subject": "physics",
+    "url": "/uet-lahore/physics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 10303,
+            "question_text": "A particle moves in a circular path with a constant speed. What is the direction of its acceleration?",
+            "options": [
+                "Tangential to the path",
+                "Along the direction of velocity",
+                "Towards the center of the circle",
+                "Away from the center of the circle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In uniform circular motion, the acceleration is centripetal, which is always directed toward the center of the circular path.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10304,
+            "question_text": "Two resistors of 10 ohms and 20 ohms are connected in parallel. What is the equivalent resistance?",
+            "options": [
+                "30 ohms",
+                "15 ohms",
+                "6.67 ohms",
+                "0.15 ohms"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The formula for parallel resistance is 1/Req = 1/R1 + 1/R2. 1/10 + 1/20 = 3/20. Therefore, Req = 20/3 = 6.67 ohms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10305,
+            "question_text": "Which law of thermodynamics states that entropy of an isolated system always increases over time?",
+            "options": [
+                "Zeroth Law",
+                "First Law",
+                "Second Law",
+                "Third Law"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Second Law of Thermodynamics dictates that the total entropy of an isolated system can never decrease.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10306,
+            "question_text": "A spring with a spring constant 'k' is stretched by a distance 'x'. What is the potential energy stored?",
+            "options": [
+                "kx",
+                "1/2 kx",
+                "1/2 kx^2",
+                "kx^2"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The elastic potential energy in a spring is given by the integral of the restoring force, resulting in 1/2 kx squared.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10307,
+            "question_text": "If the velocity of an object is doubled, what happens to its kinetic energy?",
+            "options": [
+                "Doubles",
+                "Halves",
+                "Triples",
+                "Quadruples"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Kinetic energy is proportional to the square of velocity (KE = 1/2 mv^2). 2^2 = 4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10308,
+            "question_text": "What is the unit of magnetic flux?",
+            "options": [
+                "Tesla",
+                "Weber",
+                "Henry",
+                "Gauss"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The SI unit of magnetic flux is the Weber (Wb).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10309,
+            "question_text": "Which phenomenon proves the wave nature of light?",
+            "options": [
+                "Photoelectric effect",
+                "Compton scattering",
+                "Interference",
+                "Blackbody radiation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Interference and diffraction patterns are classic proofs of the wave nature of light.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10310,
+            "question_text": "An object dropped from a height reaches the ground in 3 seconds. Neglecting air resistance, what is the height?",
+            "options": [
+                "29.4 m",
+                "44.1 m",
+                "88.2 m",
+                "14.7 m"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using h = 1/2 gt^2, where g=9.8. h = 0.5 * 9.8 * 9 = 44.1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10311,
+            "question_text": "What does the slope of a velocity-time graph represent?",
+            "options": [
+                "Distance",
+                "Displacement",
+                "Acceleration",
+                "Jerk"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Acceleration is the rate of change of velocity, which is the slope of the v-t graph.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10312,
+            "question_text": "What is the force between two point charges if the distance between them is doubled?",
+            "options": [
+                "Double",
+                "Half",
+                "One-fourth",
+                "Four times"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to Coulomb's Law, force is inversely proportional to the square of the distance (1/r^2).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10313,
+            "question_text": "What is the dimensional formula for Work?",
+            "options": [
+                "MLT^-2",
+                "ML^2T^-2",
+                "ML^2T^-1",
+                "ML^-1T^-2"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Work is force times displacement (M*L*T^-2 * L = M*L^2*T^-2).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10314,
+            "question_text": "A light year is a unit of:",
+            "options": [
+                "Time",
+                "Speed",
+                "Distance",
+                "Intensity"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A light year is the distance light travels in a vacuum in one Julian year.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10315,
+            "question_text": "Which color of white light undergoes the maximum deviation when passing through a prism?",
+            "options": [
+                "Red",
+                "Green",
+                "Yellow",
+                "Violet"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Violet light has the shortest wavelength and thus the highest refractive index/deviation in a prism.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10316,
+            "question_text": "In a p-n junction diode, the depletion region is formed by:",
+            "options": [
+                "Electrons only",
+                "Holes only",
+                "Diffusion of charge carriers",
+                "Thermal agitation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The depletion region forms as electrons and holes diffuse across the junction and recombine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10317,
+            "question_text": "What is the escape velocity from the Earth's surface?",
+            "options": [
+                "9.8 m/s",
+                "11.2 km/s",
+                "3.0 x 10^8 m/s",
+                "1.6 m/s"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Escape velocity is the minimum speed needed for an object to escape the gravitational influence of a massive body.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

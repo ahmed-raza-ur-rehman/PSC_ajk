@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Pakistan Studies — Economy",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "pakistan-studies-economy",
+    "url": "/national-cybercrime-investigation-agency/pakistan-studies-economy/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14588,
+            "question_text": "In simple terms, the basic unit of energy transfer in biological systems, utilized by mitochondria, is:",
+            "options": [
+                "ATP (Adenosine Triphosphate)",
+                "Electrons",
+                "Carbon Dioxide",
+                "Glucose"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "ATP is the primary energy-carrying molecule that all living organisms use to perform chemical work.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

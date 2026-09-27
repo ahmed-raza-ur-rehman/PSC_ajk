@@ -1,0 +1,165 @@
+{
+    "category": "Minhaj University Lahore",
+    "name": "Business Mathematics and Statistics",
+    "board": "minhaj-university-lahore",
+    "subject": "business-mathematics-and-statistics",
+    "url": "/minhaj-university-lahore/business-mathematics-and-statistics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11770,
+            "question_text": "If a product costs $80 and is sold at a 25% markup on cost, what is the selling price?",
+            "options": [
+                "$90",
+                "$100",
+                "$105",
+                "$120"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "25% of $80 is $20. Adding the markup to the cost gives $80 + $20 = $100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11771,
+            "question_text": "What is the arithmetic mean of the set: 10, 15, 20, 25, 30?",
+            "options": [
+                "18",
+                "20",
+                "22",
+                "25"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The mean is calculated by summing the numbers (100) and dividing by the count of numbers (5). 100/5 = 20.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11772,
+            "question_text": "If a bank offers an interest rate of 6% compounded annually, what is the effective annual rate for an investment of $1,000?",
+            "options": [
+                "5%",
+                "6%",
+                "6.5%",
+                "7%"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If interest is compounded annually, the stated annual rate is equivalent to the effective annual rate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11773,
+            "question_text": "What is the median of the following dataset: 5, 2, 9, 1, 7?",
+            "options": [
+                "1",
+                "2",
+                "5",
+                "7"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To find the median, arrange the numbers in order (1, 2, 5, 7, 9) and identify the middle value, which is 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11774,
+            "question_text": "Calculate the simple interest on a principal of $5,000 at a rate of 4% per year for 3 years.",
+            "options": [
+                "$600",
+                "$500",
+                "$400",
+                "$200"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Simple interest is calculated as Principal × Rate × Time. $5,000 × 0.04 × 3 = $600.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11775,
+            "question_text": "Which statistical measure represents the value that appears most frequently in a dataset?",
+            "options": [
+                "Mean",
+                "Median",
+                "Mode",
+                "Range"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The mode is defined as the observation that occurs with the highest frequency in a data set.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11776,
+            "question_text": "If y = 3x + 5, what is the value of y when x = 4?",
+            "options": [
+                "12",
+                "15",
+                "17",
+                "20"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Substituting x=4 into the equation: y = 3(4) + 5 = 12 + 5 = 17.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11777,
+            "question_text": "If a dataset has a standard deviation of 0, what does this indicate about the data values?",
+            "options": [
+                "The values are spread far apart",
+                "All values in the dataset are identical",
+                "The mean is zero",
+                "The data is negatively skewed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Standard deviation measures dispersion; if there is no dispersion (0), all data points must be the same value.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11778,
+            "question_text": "What is the result of solving for x in the equation 2x + 10 = 30?",
+            "options": [
+                "5",
+                "10",
+                "15",
+                "20"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 10 from both sides to get 2x = 20, then divide by 2 to get x = 10.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11779,
+            "question_text": "Which measure of central tendency is most affected by an extreme outlier?",
+            "options": [
+                "Mean",
+                "Median",
+                "Mode",
+                "Range"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The mean is calculated by summing all values and dividing by the count; therefore, a single extreme value pulls the average significantly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11780,
+            "question_text": "Calculate the commission on a $12,000 sale at a rate of 5.5%.",
+            "options": [
+                "$600",
+                "$660",
+                "$720",
+                "$550"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "12,000 * 0.055 = 660.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

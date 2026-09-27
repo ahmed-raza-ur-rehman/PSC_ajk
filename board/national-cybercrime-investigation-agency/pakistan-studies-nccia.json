@@ -1,0 +1,221 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Pakistan Studies (NCCIA)",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "pakistan-studies-nccia",
+    "url": "/national-cybercrime-investigation-agency/pakistan-studies-nccia/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 14335,
+            "question_text": "Who was the first Governor-General of independent Pakistan?",
+            "options": [
+                "Liaquat Ali Khan",
+                "Quaid-e-Azam Muhammad Ali Jinnah",
+                "Khawaja Nazimuddin",
+                "Skindar Mirza"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Muhammad Ali Jinnah served as the first Governor-General of Pakistan from August 1947 until his death in September 1948.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14336,
+            "question_text": "In which year was the first Constitution of the Islamic Republic of Pakistan promulgated?",
+            "options": [
+                "1947",
+                "1956",
+                "1962",
+                "1973"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pakistan's first constitution was adopted on March 23, 1956, officially turning the country into an Islamic republic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14337,
+            "question_text": "Which mountain range separates Pakistan from China?",
+            "options": [
+                "Himalayas",
+                "Hindu Kush",
+                "Karakoram",
+                "Sulaiman Range"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Karakoram mountain range spans the borders of Pakistan, China, and India, and includes K2, the second highest peak in the world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14338,
+            "question_text": "What is the total length of Pakistan's coastline along the Arabian Sea approximately?",
+            "options": [
+                "500 km",
+                "800 km",
+                "1,046 km",
+                "1,500 km"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Pakistan has a coastline of about 1,046 kilometers along the Arabian Sea in the provinces of Sindh and Balochistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14339,
+            "question_text": "Who composed the national anthem of Pakistan?",
+            "options": [
+                "Hafeez Jalandhari",
+                "Ahmed G. Chagla",
+                "Allama Iqbal",
+                "Nasir Kazmi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The tune of the national anthem of Pakistan was officially composed by Ahmed G. Chagla in 1950.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14340,
+            "question_text": "When was the Objective Resolution passed by the Constituent Assembly of Pakistan?",
+            "options": [
+                "14 August 1947",
+                "12 March 1949",
+                "23 March 1956",
+                "8 October 1958"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Objectives Resolution was passed on March 12, 1949, under the leadership of Liaquat Ali Khan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14341,
+            "question_text": "Which desert is located in the eastern part of Pakistan's Punjab province?",
+            "options": [
+                "Thar Desert",
+                "Cholistan Desert",
+                "Kharan Desert",
+                "Katpana Desert"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Cholistan Desert is situated in southern Punjab, Pakistan, and is part of the larger Thar Desert.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14342,
+            "question_text": "Who was the architect of the Lucknow Pact of 1916?",
+            "options": [
+                "Allama Iqbal",
+                "Quaid-e-Azam Muhammad Ali Jinnah",
+                "Sir Syed Ahmed Khan",
+                "Liaquat Ali Khan"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Muhammad Ali Jinnah played a pivotal role in bringing the Muslim League and Indian National Congress together, earning the title 'Ambassador of Hindu-Muslim Unity'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14343,
+            "question_text": "What is the highest peak in Pakistan?",
+            "options": [
+                "Nanga Parbat",
+                "K2 (Godwin-Austen)",
+                "Broad Peak",
+                "Rakaposhi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "K2 is the highest peak in Pakistan and the second highest in the world, located in the Karakoram range.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14344,
+            "question_text": "In which city was the All India Muslim League founded in 1906?",
+            "options": [
+                "Delhi",
+                "Aligarh",
+                "Dhaka",
+                "Lahore"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The All India Muslim League was founded on December 30, 1906, during the annual meeting of the Muhammadan Educational Conference in Dhaka.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14345,
+            "question_text": "Which river is the longest river in Pakistan?",
+            "options": [
+                "Jhelum River",
+                "Chenab River",
+                "Indus River",
+                "Sutlej River"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Indus River is the longest river in Pakistan, flowing from Tibet through Kashmir and down to the Arabian Sea.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14346,
+            "question_text": "Who wrote the famous poem 'Tarana-e-Milli'?",
+            "options": [
+                "Faiz Ahmed Faiz",
+                "Allama Muhammad Iqbal",
+                "Hafeez Jalandhari",
+                "Mirza Ghalib"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Tarana-e-Milli' was written by the national poet of Pakistan, Allama Muhammad Iqbal, as a companion to 'Tarana-e-Hindi'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14347,
+            "question_text": "When did Pakistan become a member of the United Nations (UN)?",
+            "options": [
+                "15 August 1947",
+                "30 September 1947",
+                "24 October 1945",
+                "23 March 1956"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pakistan officially joined the United Nations on September 30, 1947.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14348,
+            "question_text": "Which pass connects Pakistan with Afghanistan through the Hindu Kush mountain range?",
+            "options": [
+                "Khunjerab Pass",
+                "Khyber Pass",
+                "Bolan Pass",
+                "Tochi Pass"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Khyber Pass is a historic mountain pass connecting Pakistan and Afghanistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14349,
+            "question_text": "What is the official national flower of Pakistan?",
+            "options": [
+                "Rose",
+                "Jasmine",
+                "Sunflower",
+                "Tulip"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Jasminum officinale, commonly known as white jasmine, is the national flower of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

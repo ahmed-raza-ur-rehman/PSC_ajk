@@ -1,0 +1,319 @@
+{
+    "category": "FIA",
+    "name": "Islamiat — Quranic Surahs, their themes, and basic teachings",
+    "board": "fia",
+    "subject": "islamiat-quranic-surahs-their-themes-and-basic-teachings",
+    "url": "/fia/islamiat-quranic-surahs-their-themes-and-basic-teachings/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 22,
+    "questions": [
+        {
+            "id": 1021,
+            "question_text": "Which key aspect was implicitly endorsed by the Lahore Resolution, leading to the eventual demand for Pakistan?",
+            "options": [
+                "The recognition of separate administrative zones based on religious demographics.",
+                "The principle of communal representation in all legislative bodies.",
+                "The establishment of an Islamic identity as the basis for political grouping.",
+                "The concept of self-determination for distinct cultural groups."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The resolution’s demand for separate states emphasized the right of self-determination for the Muslim population in the subcontinent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1022,
+            "question_text": "The Lahore Resolution of 1940 primarily demanded:",
+            "options": [
+                "The creation of separate states for Muslims in Northwest and East India.",
+                "A constitutional restructuring of the Indian government based on federal principles.",
+                "Full autonomy for the princely states within British India.",
+                "The immediate separation of Bengal from the Indian Union."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The resolution called for the creation of 'independent states' for Muslims in the areas of Northwest and East India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1532,
+            "question_text": "What was the primary immediate demand addressed by the Lahore Resolution of 1940?",
+            "options": [
+                "The grouping of Muslim-majority areas into independent wings of Pakistan.",
+                "Recognition of Islamic law (Sharia) as the sole basis for legislation in British India.",
+                "The transfer of administrative power to the Islamic State of Pakistan.",
+                "The establishment of independent Muslim states in the Northwestern Frontier Province (NWFP) and Sindh."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The resolution advocated for the creation of 'independent states' for Muslims in subcontinent's various parts, leading to the concept of composite states rather than just Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1833,
+            "question_text": "According to the Constitution of Pakistan (1973), which constitutional body holds the primary authority for interpreting the provisions of the Constitution?",
+            "options": [
+                "Ministry of Law and Justice",
+                "National Assembly",
+                "Supreme Court of Pakistan",
+                "Council of Islamic Ideology (CII)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Supreme Court is the final interpreter of the Constitution, acting as the guardian of the constitutional provisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2026,
+            "question_text": "The Lahore Resolution (1940) primarily demanded:",
+            "options": [
+                "The immediate transfer of power to local provincial governments.",
+                "Separate states for Muslim-majority areas outside British India.",
+                "The establishment of a federal structure including representation for all religious groups.",
+                "The rejection of the concept of a separate Muslim homeland altogether."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The resolution called for separate states (Pakistan) in the Muslim-majority areas of India, advocating for geographical separation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2077,
+            "question_text": "The 1973 Constitution of Pakistan primarily established which form of governance, thereby consolidating parliamentary democracy?",
+            "options": [
+                "Unitary Military Regime",
+                "Presidential Dictatorship",
+                "Confederal Republic",
+                "Parliamentary Federal System"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The 1973 Constitution mandated a Parliamentary system where the Prime Minister and Council of Ministers are accountable to the National Assembly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2227,
+            "question_text": "Which major political demand did the Lahore Resolution of 1940 primarily advocate for?",
+            "options": [
+                "The unification of all princely states under direct British administration.",
+                "The establishment of independent sovereign states in the Muslim-majority areas of British India.",
+                "The implementation of communal electorates across all provinces of India.",
+                "The immediate transfer of all governance powers to a federal government structure."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The resolution demanded separate independent states for Muslims, which led to the concept of Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3368,
+            "question_text": "Which resolution demanded the subdivision of British India into independent states, explicitly incorporating the geographical unit of 'Pakistan'?",
+            "options": [
+                "Declaring Independence (1947)",
+                "Cabinet Mission Plan (1946)",
+                "Lahore Resolution (1940)",
+                "Jinnah's Fourteen Points (1929)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Lahore Resolution (1940) formally articulated the demand for separate Muslim states, replacing the earlier Lahore Resolution (1930).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3719,
+            "question_text": "Under the Constitution of Pakistan (1973), which principle dictates that all citizens are equal before the law, regardless of religion or background?",
+            "options": [
+                "Fundamental Rights",
+                "Federalism",
+                "Equality before law",
+                "Islamic principles"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Equality before law is a core constitutional principle ensuring that the law applies equally to all citizens.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4381,
+            "question_text": "Which fundamental principle established by the Constitution of Pakistan (1973) ensures the supremacy of the Constitution over all other laws and institutions?",
+            "options": [
+                "Article 2",
+                "Article 50",
+                "The Objectives Resolution",
+                "The Federal List"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Article 2 mandates that any law or action inconsistent with the Constitution shall be void, establishing the Constitution's supremacy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5403,
+            "question_text": "Which key feature of the 1973 Constitution of Pakistan established a parliamentary system while maintaining a strong federal structure, significantly influencing provincial autonomy?",
+            "options": [
+                "The division of powers outlined in the Federal and Provincial Lists (Concurrent List).",
+                "The requirement of a Prime Minister chosen by the National Assembly, under the supervision of the President.",
+                "The establishment of a bicameral legislature with equal representation for all provinces.",
+                "The mandatory inclusion of emergency powers vesting solely in the federal government."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The PM-led federal government system (parliamentary structure) was enshrined, making the executive responsible to the elected lower house (National Assembly).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5504,
+            "question_text": "Under the 1973 Constitution, which key provision was introduced to ensure that the President acts on the advice of the Prime Minister?",
+            "options": [
+                "Article 254 (Applicability of Constitution)",
+                "The Council of Common Interests (CCI) recommendation",
+                "Article 58(2) (Suspension of Constitution)",
+                "Article 242 (Representation)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Article 58(2) previously allowed the President to dismiss the government, but subsequent amendments have curtailed this power, solidifying the PM's advisory role.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5971,
+            "question_text": "The Lahore Resolution (Pakistan Resolution) of 1940 primarily demanded:",
+            "options": [
+                "The grouping of Muslim-majority areas into independent states",
+                "Complete immediate withdrawal of British forces from India",
+                "Separate electorates for Muslims within British India",
+                "An autonomous federal system with limited provincial powers"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The resolution called for the grouping of all areas where Muslims were a majority, forming separate states, not just Pakistan as a single entity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6203,
+            "question_text": "What was the primary demand presented by the Lahore Resolution (1940), rather than merely asking for a provincial status?",
+            "options": [
+                "Complete separation from British rule immediately, without any interim constitutional plans.",
+                "The establishment of independent sovereign states for Muslims in the northwestern and eastern zones of India.",
+                "The restructuring of the federal government to grant more autonomy to Princely States.",
+                "The immediate implementation of a joint economic union between Punjab and Sindh."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The resolution demanded the grouping of Muslim-majority areas (zones) into separate, independent states, which became the basis for Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6278,
+            "question_text": "What was the primary demand presented by the Lahore Resolution in 1940?",
+            "options": [
+                "Greater provincial autonomy within a united Indian federation.",
+                "Complete independence for the entire Indian subcontinent.",
+                "Establishment of an independent Islamic republic covering Punjab and Sindh only.",
+                "The creation of separate sovereign states for Muslims in the subcontinent."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Lahore Resolution advocated for separate sovereign states for Muslims, marking the demand for Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6356,
+            "question_text": "What was the primary demand articulated in the Lahore Resolution (1940)?",
+            "options": [
+                "The creation of independent states for Muslims in groups of contiguous areas.",
+                "Increased autonomy for Muslim-majority provinces within the existing British India framework.",
+                "Complete independence of the entire Indian subcontinent immediately.",
+                "Separate administrative control over religious institutions of the Muslim minority."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Lahore Resolution demanded the establishment of separate states (Pakistan) for Muslims, grouped in contiguous areas, as opposed to immediate, complete independence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6503,
+            "question_text": "Which political entity was primarily responsible for moving the Lahore Resolution of 1940?",
+            "options": [
+                "The All-India Muslim League (AIML)",
+                "The Indian National Congress (INC)",
+                "The Khilafat Committee",
+                "The Unionist Party"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The All-India Muslim League, led by figures like Muhammad Ali Jinnah, was the main proponent and mover of the Lahore Resolution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6575,
+            "question_text": "The Lahore Resolution (1940) fundamentally demanded the creation of:",
+            "options": [
+                "A unified Islamic state comprising all Muslim-majority areas in the subcontinent.",
+                "A temporary autonomous zone (SAO) until a constitutional framework could be agreed upon.",
+                "Independent states in the areas where Muslims were numerically a majority.",
+                "A federal structure retaining provincial autonomy but ensuring military integration."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The resolution demanded the creation of separate, independent states (Pakistan) in the areas where Muslims constituted a majority population.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6576,
+            "question_text": "Which of the following leaders is historically recognized for presenting the Lahore Resolution in 1940?",
+            "options": [
+                "A. K. Fazlul Huq",
+                "Muhammad Ali Jinnah",
+                "Liaquat Ali Khan",
+                "Quaid-e-Azam Muhammad Ali Jinnah"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Quaid-e-Azam Muhammad Ali Jinnah presented the resolution at the annual session of the All-India Muslim League in Lahore in March 1940.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6644,
+            "question_text": "The Lahore Resolution emphasized the need for Muslim political rights through:",
+            "options": [
+                "Securing guaranteed minority status within a united India.",
+                "A gradual reform of the existing Indian constitutional structure.",
+                "Self-determination and the establishment of separate homelands.",
+                "Reliance solely on British diplomatic mediation."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The core demand of the resolution was self-determination, advocating for separate Muslim political sections (homelands) rather than gradual reform or guaranteed minority status.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6645,
+            "question_text": "According to the Constitution of Pakistan (1973), who holds the power to determine the immediate procedural continuation of the Prime Minister's term if a premature resignation or vote of no-confidence occurs?",
+            "options": [
+                "The Parliament (Majlis-e-Shoora)",
+                "The Supreme Court of Pakistan",
+                "The Speaker of the National Assembly",
+                "The President of Pakistan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Speaker of the National Assembly is the constitutional authority responsible for managing the proceedings and declaring the immediate procedural continuity of the session following a vote of no-confidence or resignation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6725,
+            "question_text": "The constitutional mandate for establishing provincial assemblies and ensuring representation for the diverse regions within Pakistan is primarily attributed to which principle?",
+            "options": [
+                "Federalism and Provincial Autonomy.",
+                "Military supremacy over civil law.",
+                "Unitary rule enforcement.",
+                "The Doctrine of Centralized Authority."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Federalism ensures that power is distributed constitutionally, allowing provinces the right to establish their own assemblies and legislate on regional matters.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Pakistan Studies",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "pakistan-studies",
+    "url": "/national-cybercrime-investigation-agency/pakistan-studies/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 14586,
+            "question_text": "Which of the following best describes the primary mechanism by which the human body utilizes glucose molecules from digestion?",
+            "options": [
+                "It is broken down into methane gas via bacterial action in the large intestine.",
+                "It is immediately converted into fatty acids and stored in adipose tissue for long-term energy.",
+                "It is directly expelled through sweat pores to maintain osmotic balance.",
+                "It is primarily metabolized in the liver and then used in the brain and red blood cells as the main fuel source."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The liver regulates blood glucose, and the brain and red blood cells are highly dependent on glucose metabolism (glycolysis) for continuous energy supply.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 15698,
+            "question_text": "According to the analysis presented, what is the primary mechanism through which automation affects specialized labor markets?",
+            "options": [
+                "It solely leads to mass unemployment, making highly skilled workers obsolete.",
+                "It necessitates a shift in skills towards maintenance and high-level creative problem-solving.",
+                "It simply reduces the working hours of existing specialized workers without requiring skill changes.",
+                "It disproportionately benefits only large multinational corporations, ignoring local labor needs."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage suggests that automation doesn't eliminate skills but shifts the required focus towards higher-level maintenance and problem-solving.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15699,
+            "question_text": "According to the passage, the primary advantage of studying literature is:",
+            "options": [
+                "Eliminating the need for advanced scientific knowledge.",
+                "Providing immediate financial stability and wealth.",
+                "Guaranteed entry into specialized career fields.",
+                "Developing deeper critical thinking and empathy."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage highlights that literature serves to cultivate empathy and sharpen critical thinking skills, emphasizing intellectual growth over material benefits.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15700,
+            "question_text": "According to the text, what is the key differentiator between effective knowledge retention and simple rote memorization?",
+            "options": [
+                "Studying topics multiple times over an extended period.",
+                "Reliance on visual aids and diagrams for understanding.",
+                "Connecting new information to existing mental frameworks.",
+                "The ability to recite complex definitions accurately."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "True learning, or effective retention, requires synthesizing and connecting new concepts to existing knowledge structures, rather than simply recalling isolated facts.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15701,
+            "question_text": "Based on the provided text, which of the following best encapsulates the author's primary assertion regarding institutional reform?",
+            "options": [
+                "Sustainable institutional reform requires a simultaneous commitment to structural governance changes and public civic education.",
+                "Citizen participation is sufficient to revitalize institutions, provided that the existing legal framework remains untouched.",
+                "Reform efforts must prioritize immediate economic gains over structural integrity to ensure rapid national recovery.",
+                "The primary challenge facing modern institutions is a lack of funding, which necessitates radical privatization of core governmental functions."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The passage argues that true, sustainable institutional reform is multifaceted, necessitating the simultaneous commitment to systemic structural governance changes and widespread public civic education.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15702,
+            "question_text": "In the context of the passage, the term 'echo chambers' most closely implies:",
+            "options": [
+                "A physical space where people gather to share information.",
+                "A digital space where users are only exposed to views that confirm their existing beliefs.",
+                "A form of communication characterized by repeated, unchallenged statements.",
+                "A social gathering where dissenting opinions are immediately shut down."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The original option B was conceptually correct, but was rephrased slightly to improve clarity in the context of echo chambers. The core meaning remains that the platform restricts viewpoints. (Self-correction: Assuming the original option B was intended to be the correct answer and the provided options list should reflect that, the explanation clarifies the concept.)",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15703,
+            "question_text": "Passage Excerpt: \"The implementation of digital surveillance systems, while touted as a necessity for modern law enforcement, presents a complex ethical dilemma. Proponents argue that enhanced monitoring is crucial for maintaining public safety and curbing organized crime. Conversely, critics warn that such pervasive monitoring fundamentally erodes the right to anonymity and privacy, potentially creating a chilling effect on legitimate dissent and free expression. Finding the balance between security and liberty remains the central challenge for democratic societies.\" \n\nAccording to the passage, what is the primary ethical challenge presented by digital surveillance systems?",
+            "options": [
+                "Overcoming technical failures associated with high-volume data collection and storage.",
+                "Ensuring that digital technology is affordable and accessible to all law enforcement agencies.",
+                "Reconciling the need for public safety measures with the preservation of fundamental individual privacy rights.",
+                "Determining the exact methods through which organized crime operates in the modern era."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The passage explicitly frames the dilemma as balancing 'security and liberty,' which refers to the tension between maintaining public safety and preserving individual rights and privacy.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15704,
+            "question_text": "Passage: The concept of 'digital literacy' has expanded far beyond mere familiarity with computers. It now encompasses the ability to critically evaluate information received online, understand algorithmic biases, and participate responsibly in the digital civic sphere. In an era dominated by misinformation and echo chambers, possessing strong digital literacy skills is no longer optional but is a fundamental requirement for informed citizenship, particularly crucial in democratic processes like elections.",
+            "options": [
+                "Echo chambers primarily result from poor internet infrastructure rather than flawed information consumption habits.",
+                "In the digital age, physical ability to vote is more crucial than critical evaluation of online sources.",
+                "Algorithmic biases and misinformation necessitate advanced digital literacy for informed citizenship.",
+                "Digital literacy is limited to basic computer operation and technical proficiency."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The passage emphasizes that modern digital literacy includes critically evaluating online information and understanding biases, which is vital for citizenship in the age of misinformation.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15705,
+            "question_text": "Passage: The rapid proliferation of digital communication tools, while hailed as a democratizing force, often masks a subtle erosion of deep intellectual engagement. Our inclination towards bite-sized information fragments privileges speed over profundity, conditioning the modern mind to seek quick confirmation rather than sustained contemplation. Consequently, the ability to synthesize complex ideas derived from disparate sources appears increasingly atrophied, replaced by a mere accumulation of readily digestible soundbites.",
+            "options": [
+                "Soundbites are inherently superior to complex ideas because they are more accessible.",
+                "The core argument is that digital speed hinders the capacity for deep, sustained thought.",
+                "Contemplation requires more sources than is generally available today.",
+                "The passage suggests that digital communication primarily enhances intellectual depth."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passage argues that the speed of digital communication ('bite-sized information') leads to the atrophy of the ability for sustained contemplation (deep intellectual engagement).",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15706,
+            "question_text": "The author's tone when discussing the gap between technological potential and societal adoption can best be described as:",
+            "options": [
+                "Indifferent, merely presenting two facts—advancement and resistance—without offering any comparative analysis.",
+                "Highly critical, implying that the scientific community is deliberately withholding breakthroughs for corporate profit.",
+                "Overly optimistic, suggesting that behavioral resistance will inevitably dissipate with further innovation.",
+                "Measured and cautious, acknowledging the technical advancements while emphasizing the sociological hurdles of implementation."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The text maintains a balanced discussion, acknowledging 'potential' (advancement) while critically examining the limitations of 'adoption' (sociological resistance), indicating a thoughtful and cautious assessment rather than celebration or condemnation.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        }
+    ]
+}

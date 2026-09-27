@@ -1,0 +1,193 @@
+{
+    "category": "Punjab Educational Endowment Fund (PEEF)",
+    "name": "Academic Records Verification",
+    "board": "punjab-educational-endowment-fund-peef",
+    "subject": "academic-records-verification",
+    "url": "/punjab-educational-endowment-fund-peef/academic-records-verification/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 11113,
+            "question_text": "What is the primary purpose of verifying academic transcripts for the PEEF scholarship?",
+            "options": [
+                "To check for extracurricular participation",
+                "To ensure the applicant meets the minimum merit criteria",
+                "To determine the applicant's future career path",
+                "To confirm the applicant's residential address"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF scholarships are merit-based, requiring academic records to prove that the student meets the specific percentage or GPA requirements set by the fund.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11114,
+            "question_text": "If a student has a gap year in their academic record, what is the standard PEEF requirement during verification?",
+            "options": [
+                "The student is automatically disqualified",
+                "The student must submit an affidavit explaining the gap",
+                "The gap is ignored if marks are high",
+                "The student must retake the previous year's exams"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To maintain transparency, PEEF requires documentation or a formal statement explaining any unexplained breaks in academic tenure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11115,
+            "question_text": "During academic verification, which metric is primarily utilized to ensure the applicant meets the merit-based criteria?",
+            "options": [
+                "Extracurricular participation",
+                "Percentage or GPA of the last passed board/university examination",
+                "The number of siblings currently enrolled in school",
+                "The distance between the student's home and the campus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF scholarships are primarily merit-based, necessitating the verification of academic performance in the most recent qualifying exam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11117,
+            "question_text": "If an applicant provides a transcript that lacks an official seal or institutional signature, what is the standard administrative action?",
+            "options": [
+                "The application is automatically rejected",
+                "The application is sent back for authentication",
+                "The applicant is placed on a waiting list",
+                "The discrepancy is ignored if the marks are high"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Authenticity is mandatory for all academic documents; unverified or unsigned documents do not meet the legal requirements for processing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11118,
+            "question_text": "What is the consequence of failing to achieve the minimum marks requirement specified in the PEEF policy for a specific degree level?",
+            "options": [
+                "Automatic disqualification from the scholarship",
+                "Submission of an affidavit to waive the requirement",
+                "Partial scholarship award",
+                "Requirement to take a remedial exam"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "PEEF sets clear academic benchmarks; failing to meet the minimum threshold renders the applicant ineligible for the merit-based award.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11119,
+            "question_text": "Why must the academic records be submitted in their original format or as attested copies?",
+            "options": [
+                "To test the printing quality of the documents",
+                "To ensure the documents are valid and prevent the submission of fabricated grades",
+                "To increase the processing fee",
+                "To allow the committee to keep the original certificates permanently"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Attestation confirms that the issuing authority has verified the information on the certificate, ensuring the integrity of the selection process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11120,
+            "question_text": "How are degrees obtained from unrecognized private institutions treated during the PEEF academic verification process?",
+            "options": [
+                "They are accepted if the marks are excellent",
+                "They are rejected, as only HEC/Board-recognized institutions are eligible",
+                "They are sent for a secondary internal evaluation",
+                "They are accepted with a penalty deduction"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF requires that the applicant be enrolled in an institution recognized by the relevant educational authorities to qualify for financial support.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11121,
+            "question_text": "In the event of a tie in academic scores between two applicants, what secondary academic factor might be used for prioritization?",
+            "options": [
+                "Attendance record",
+                "Subject-wise marks in core subjects relevant to the degree",
+                "The applicant's age",
+                "The applicant's handwriting quality"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In competitive selection, specific subject performance often serves as a tie-breaker to assess the applicant's aptitude for the intended program.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11122,
+            "question_text": "What is the minimum percentage of marks typically required in the previous board examination for PEEF scholarship eligibility?",
+            "options": [
+                "40%",
+                "50%",
+                "60%",
+                "75%"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "60% is the standard benchmark used by PEEF to ensure that scholarship recipients meet the baseline merit criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11123,
+            "question_text": "If a student has a break in their studies, what is the PEEF policy regarding 'gap years'?",
+            "options": [
+                "Gap years are strictly prohibited under any circumstances.",
+                "Only one gap year is permitted with a valid medical certificate.",
+                "Gap years are allowed as long as the applicant remains under the maximum age limit.",
+                "Gap years are ignored for applicants who excel in extracurricular activities."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF requires continuous education and only makes rare exceptions for health-related gaps supported by documentation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11124,
+            "question_text": "Which authority is responsible for verifying the authenticity of academic certificates submitted by students from public sector colleges?",
+            "options": [
+                "The Higher Education Commission (HEC)",
+                "The College Principal or Head of Institution",
+                "The Provincial Education Minister",
+                "The District Coordination Officer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The head of the institution holds the primary responsibility for validating the enrollment and academic credentials of students under their supervision.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11125,
+            "question_text": "How does PEEF treat 'Equivalence Certificates' issued by the IBCC for foreign education systems?",
+            "options": [
+                "They are ignored; only local board certificates are accepted.",
+                "They are accepted as valid proof of academic standing.",
+                "They require additional approval from the Chief Justice.",
+                "They are only accepted if the student was studying in a neighboring country."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF recognizes IBCC equivalence certificates to provide a level playing field for students from O/A Level or foreign systems.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11126,
+            "question_text": "Which academic document is MANDATORY for verifying a student's eligibility for the Master's level scholarship?",
+            "options": [
+                "Matriculation certificate",
+                "Bachelor's degree transcript",
+                "Primary school report card",
+                "Birth certificate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For Master's level scholarships, the most recent completed degree (Bachelor's) is the primary indicator of merit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

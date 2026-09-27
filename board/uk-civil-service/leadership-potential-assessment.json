@@ -1,0 +1,165 @@
+{
+    "category": "UK Civil Service",
+    "name": "Leadership Potential Assessment",
+    "board": "uk-civil-service",
+    "subject": "leadership-potential-assessment",
+    "url": "/uk-civil-service/leadership-potential-assessment/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 8586,
+            "question_text": "How do 'Action Learning Sets' help a future leader?",
+            "options": [
+                "They provide a way to pass information about other departments.",
+                "They help peers learn from each other by sharing experiences and solving complex problems together.",
+                "They allow you to get ahead by sabotaging the work of other members.",
+                "They are a requirement for getting an automatic promotion."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Action Learning Sets encourage collaborative learning and critical thinking, which are key components of the Fast Stream development.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8634,
+            "question_text": "Why does the Fast Stream programme include 'Action Learning Sets' and 'Personal Development Plans'?",
+            "options": [
+                "To reduce the workload of senior managers",
+                "To ensure fast streamers are constantly learning, reflecting, and growing as future leaders",
+                "To keep track of employee attendance",
+                "Because it is a legal requirement for all government staff"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "These tools are specifically designed to foster the leadership and management skills identified in the programme's developmental goals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8635,
+            "question_text": "What is the primary purpose of experiencing postings across various government departments?",
+            "options": [
+                "To keep the programme exciting",
+                "To provide a breadth and depth of experience that builds a well-rounded and versatile leader",
+                "To test how quickly staff can move homes",
+                "To find out which department pays the most"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Rotating through departments is a core component of the programme to accelerate career development and broaden professional perspective.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8636,
+            "question_text": "What is the primary goal of a Personal Development Plan (PDP) in the Fast Stream?",
+            "options": [
+                "To prove to your manager that you are working hard.",
+                "To ensure you have a structured way to track progress and develop your unique leadership skills.",
+                "To provide a record of all the mistakes you have made.",
+                "To force you to complete mandatory training modules."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PDPs are essential for individual growth, helping you align your learning needs with the programme's leadership goals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8637,
+            "question_text": "Which action best demonstrates high leadership potential in a group exercise?",
+            "options": [
+                "Dominating the conversation to ensure your ideas are adopted.",
+                "Silently observing and letting others do all the work.",
+                "Encouraging quiet team members to contribute and synthesizing ideas into a plan.",
+                "Criticizing other people's ideas to show why yours are better."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Effective leaders create inclusive environments and leverage the collective strengths of the team.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8638,
+            "question_text": "Why is 'objectivity' a critical leadership quality in the Civil Service?",
+            "options": [
+                "It allows you to make decisions based on evidence rather than personal bias.",
+                "It helps you win arguments against colleagues.",
+                "It means you never have to change your mind once a decision is made.",
+                "It ensures you don't have to listen to the public's opinion."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Objectivity ensures fairness and integrity, allowing leaders to make sound, evidence-based decisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8639,
+            "question_text": "What is the importance of experiencing various government departments during the Fast Stream?",
+            "options": [
+                "To make it difficult for you to settle into one role.",
+                "To gain a broad understanding of government and develop a flexible, versatile leadership style.",
+                "To ensure you are not staying in one place for too long.",
+                "To test your ability to move your house frequently."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The breadth of experience gained across departments is fundamental to building a well-rounded future leader.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8646,
+            "question_text": "Which behavior best demonstrates high leadership potential in a group exercise?",
+            "options": [
+                "Dominating the conversation to ensure your ideas are used",
+                "Listening actively, encouraging others to contribute, and focusing the group on the shared goal",
+                "Agreeing with everything to avoid conflict",
+                "Finishing the task as quickly as possible without checking for team input"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Inclusivity and facilitating collaboration are hallmark traits of effective, high-potential leaders.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8647,
+            "question_text": "What does a leader do when the team is stuck on a problem?",
+            "options": [
+                "Tells them exactly how to fix it immediately",
+                "Facilitates brainstorming, empowers the team to propose ideas, and guides them toward a resolution",
+                "Leaves them to work it out until the deadline",
+                "Blames the team for being ineffective"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Effective leadership empowers teams, builds problem-solving capacity, and fosters ownership.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8648,
+            "question_text": "What is the role of values like 'integrity' and 'honesty' in Civil Service leadership?",
+            "options": [
+                "They are optional guidelines",
+                "They build public trust and ensure the integrity of the democratic process",
+                "They are only needed for senior roles",
+                "They are there to make the code of conduct look long"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Public servants must maintain the highest standards of conduct to uphold the trust of the citizens they serve.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8649,
+            "question_text": "How do you show you are ready to be a future leader?",
+            "options": [
+                "By taking credit for others' work",
+                "By demonstrating accountability, resilience, and a commitment to helping others succeed",
+                "By avoiding tasks you don't like",
+                "By focusing only on your own career progression"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "True leadership is about service, responsibility, and the development of the people around you.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

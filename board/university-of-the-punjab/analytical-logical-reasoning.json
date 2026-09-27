@@ -1,0 +1,221 @@
+{
+    "category": "University of the Punjab",
+    "name": "Analytical / Logical Reasoning",
+    "board": "university-of-the-punjab",
+    "subject": "analytical-logical-reasoning",
+    "url": "/university-of-the-punjab/analytical-logical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 15,
+    "questions": [
+        {
+            "id": 10492,
+            "question_text": "If all Bloops are Razzies, and all Razzies are Fuzzies, which of the following MUST be true?",
+            "options": [
+                "All Fuzzies are Bloops",
+                "Some Razzies are not Fuzzies",
+                "All Bloops are Fuzzies",
+                "No Bloops are Fuzzies"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This is a transitive syllogism: If A=B and B=C, then A=C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10493,
+            "question_text": "Five students (A, B, C, D, E) are standing in a line. A is next to B, C is not next to D, and E is at one of the ends. If A is in the middle, who could be at the other end?",
+            "options": [
+                "B",
+                "C",
+                "A",
+                "None of the above"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "With A in the middle, the arrangement could be D-B-A-E-C, placing C at the other end.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10494,
+            "question_text": "If 'SOME' is coded as 'RQND', how is 'CORE' coded?",
+            "options": [
+                "BNSD",
+                "BNQD",
+                "DPQF",
+                "BPSF"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted back by one: S->R, O->N, M->L (wait, correction: S-1=R, O-1=N, M-1=L, E-1=D). For CORE: C-1=B, O-1=N, R-1=Q, E-1=D.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10495,
+            "question_text": "If P > Q, Q > R, and R > S, which of the following is definitely true?",
+            "options": [
+                "P = S",
+                "P < S",
+                "P > S",
+                "Q < S"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This is a transitive relationship. If P > Q > R > S, then P must be greater than S.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10496,
+            "question_text": "Find the missing number in the sequence: 2, 6, 12, 20, 30, ?",
+            "options": [
+                "36",
+                "40",
+                "42",
+                "44"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The differences are +4, +6, +8, +10. The next difference is +12, so 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10497,
+            "question_text": "Point to a photograph, a man says, 'This man is my father's only son.' Who is in the photograph?",
+            "options": [
+                "His father",
+                "His son",
+                "Himself",
+                "His uncle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The man's father's only son is the man himself.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10498,
+            "question_text": "Seven books are placed on a shelf. A is to the left of B, C is to the right of D, E is to the right of F, and F is to the left of A. Who is the leftmost?",
+            "options": [
+                "D",
+                "A",
+                "F",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The information provided does not place D relative to F or A. Thus, the leftmost book cannot be confirmed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10499,
+            "question_text": "If all roses are flowers and some flowers are red, does it mean some roses are red?",
+            "options": [
+                "Yes",
+                "No",
+                "Maybe",
+                "Not necessarily"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The 'red' flowers could be daisies; the roses could all be white.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10500,
+            "question_text": "In a row of boys, if A is 10th from the left and 15th from the right, how many boys are there?",
+            "options": [
+                "24",
+                "25",
+                "26",
+                "23"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Total = (Left + Right) - 1. (10 + 15) - 1 = 24.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10501,
+            "question_text": "Which number comes next in the sequence: 1, 1, 2, 3, 5, 8, ?",
+            "options": [
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "This is the Fibonacci sequence where each number is the sum of the two preceding ones.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10502,
+            "question_text": "If 'Apple' is 'Orange', 'Orange' is 'Peach', 'Peach' is 'Potato', what is an orange?",
+            "options": [
+                "Apple",
+                "Peach",
+                "Potato",
+                "Orange"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The code defines 'Orange' as 'Peach'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10503,
+            "question_text": "Complete the logic: If P implies Q, and not Q, then:",
+            "options": [
+                "P",
+                "Not P",
+                "Q",
+                "Cannot determine"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Modus tollens: if P -> Q is true, then ~Q -> ~P is also true.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10504,
+            "question_text": "In a family, A is the father of B. C is the daughter of B. D is the brother of A. What is the relationship between C and D?",
+            "options": [
+                "Niece and Uncle",
+                "Daughter and Father",
+                "Sister and Brother",
+                "Cousins"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "C is the granddaughter of A, and D is A's brother, making D the uncle of C.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10505,
+            "question_text": "If 'TABLE' is coded as 'UBCMF', how is 'CHAIR' coded?",
+            "options": [
+                "DIBJS",
+                "DIBSJ",
+                "CHBIS",
+                "CIDJS"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted forward by one in the alphabet (T->U, A->B, etc.).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10506,
+            "question_text": "Five buildings (P, Q, R, S, T) are in a row. Q is between P and S. T is next to S, and R is at the end. If P is at the other end, what is the order?",
+            "options": [
+                "P, Q, S, T, R",
+                "P, S, Q, T, R",
+                "P, Q, T, S, R",
+                "R, P, Q, S, T"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Mapping the positions based on adjacency: Q must be between P and S, and T is next to S.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "category": "University of Management and Technology",
+    "name": "English Language",
+    "board": "university-of-management-and-technology",
+    "subject": "english-language",
+    "url": "/university-of-management-and-technology/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 12723,
+            "question_text": "Identify the synonym for the word 'ambiguous'.",
+            "options": [
+                "Clear",
+                "Vague",
+                "Certain",
+                "Direct"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ambiguous means open to more than one interpretation, which is synonymous with being vague.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12724,
+            "question_text": "Choose the correctly punctuated sentence.",
+            "options": [
+                "She went to the store, and bought milk.",
+                "She went to the store and bought milk.",
+                "She went to the store and, bought milk.",
+                "She, went to the store and bought milk."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A comma is not needed before 'and' when connecting two verbs with the same subject in a simple sentence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12725,
+            "question_text": "Select the correct sentence structure.",
+            "options": [
+                "She go to the store every day.",
+                "She goes to the store every day.",
+                "She going to the store every day.",
+                "She gone to the store every day."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subject-verb agreement requires the singular third-person verb form 'goes'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12726,
+            "question_text": "Which word is an antonym for 'benevolent'?",
+            "options": [
+                "Kind",
+                "Malicious",
+                "Generous",
+                "Friendly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly; malicious means intending to do harm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12727,
+            "question_text": "Choose the correct spelling:",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Accommodation is spelled with two c's and two m's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12728,
+            "question_text": "Identify the part of speech of the word 'quickly' in the sentence: 'He ran quickly to the bus.'",
+            "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Preposition"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quickly describes the manner in which the action (ran) occurred, making it an adverb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12729,
+            "question_text": "Which phrase correctly completes the sentence: 'Neither the students nor the teacher ___ the answer.'",
+            "options": [
+                "know",
+                "knows",
+                "are knowing",
+                "have known"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the subject closest to it (the teacher).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12730,
+            "question_text": "Identify the word that is spelled correctly:",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Accomodation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling requires double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12731,
+            "question_text": "Select the synonym for the word 'mitigate'.",
+            "options": [
+                "Increase",
+                "Aggravate",
+                "Alleviate",
+                "Ignore"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "To mitigate means to make less severe or serious, which is synonymous with alleviate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12732,
+            "question_text": "Which sentence uses the correct passive voice construction?",
+            "options": [
+                "The letter wrote by him.",
+                "The letter was written by him.",
+                "He written the letter.",
+                "The letter has written by him."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The passive voice requires a form of 'to be' plus the past participle of the verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12733,
+            "question_text": "Choose the correct phrase to complete the sentence: 'The team _____ practicing for the tournament all week.'",
+            "options": [
+                "have been",
+                "has been",
+                "were",
+                "are"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The collective noun 'team' takes a singular verb here because they are acting as a single unit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

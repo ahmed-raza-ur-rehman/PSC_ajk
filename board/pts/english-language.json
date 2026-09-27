@@ -1,0 +1,179 @@
+{
+    "category": "PTS",
+    "name": "English Language",
+    "board": "pts",
+    "subject": "english-language",
+    "url": "/pts/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9796,
+            "question_text": "Choose the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling of the word for a place to stay is 'Accommodation' with two 'c's and two 'm's.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9797,
+            "question_text": "Complete the sentence: 'She _____ to the library every morning.'",
+            "options": [
+                "go",
+                "going",
+                "goes",
+                "gone"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since the subject is third-person singular ('She') and describes a routine, the verb 'goes' is correct.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9798,
+            "question_text": "Select the option with the correct spelling.",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Accomodationn"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling of the word for a place to stay is 'Accommodation' (double c, double m).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9799,
+            "question_text": "Fill in the blank: 'She _____ to the library every morning.'",
+            "options": [
+                "go",
+                "going",
+                "goes",
+                "gone"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since the subject 'She' is singular and the action is a daily habit, the correct verb form is 'goes'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9800,
+            "question_text": "Choose the synonym for 'Transparent'.",
+            "options": [
+                "Opaque",
+                "Cloudy",
+                "Clear",
+                "Hidden"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Transparent means allowing light to pass through so that objects behind can be distinctly seen, which is synonymous with clear.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9801,
+            "question_text": "Which word is the antonym of 'Professional'?",
+            "options": [
+                "Amateur",
+                "Expert",
+                "Skilled",
+                "Qualified"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A professional is highly skilled and experienced, while an amateur is a person who engages in a pursuit on an unpaid or non-professional basis.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9802,
+            "question_text": "Pick the word that is spelled correctly.",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling requires double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9803,
+            "question_text": "Choose the correct verb to complete: 'The students _____ every day.'",
+            "options": [
+                "study",
+                "studies",
+                "studied",
+                "studying"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The subject 'students' is plural, so it requires the base form of the verb 'study'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9804,
+            "question_text": "What is the synonym of the word 'Clear'?",
+            "options": [
+                "Opaque",
+                "Transparent",
+                "Murky",
+                "Dark"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Transparent means allowing light to pass through, which is synonymous with clear.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9805,
+            "question_text": "Which word is the antonym of 'Amateur'?",
+            "options": [
+                "Professional",
+                "Beginner",
+                "Novice",
+                "Trainee"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A professional is the opposite of an amateur who does something for pleasure rather than as a job.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9806,
+            "question_text": "Pick the option that shows the correctly spelled word.",
+            "options": [
+                "Definitly",
+                "Definitely",
+                "Definetly",
+                "Definitley"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling of the adverb is 'Definitely'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9808,
+            "question_text": "What is the synonym for 'Transparent'?",
+            "options": [
+                "Opaque",
+                "Clear",
+                "Cloudy",
+                "Solid"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Something that is transparent allows light to pass through, making it clear.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

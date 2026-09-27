@@ -1,0 +1,207 @@
+{
+    "category": "Allama Iqbal Open University",
+    "name": "Arabic Literature",
+    "board": "allama-iqbal-open-university",
+    "subject": "arabic-literature",
+    "url": "/allama-iqbal-open-university/arabic-literature/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 12197,
+            "question_text": "Who is the famous author of the pre-Islamic literary work 'Mu'allaqat'?",
+            "options": [
+                "Imru' al-Qais",
+                "Al-Mutanabbi",
+                "Taha Hussein",
+                "Ibn Khaldun"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Imru' al-Qais is widely regarded as the most prominent poet of the pre-Islamic period and author of one of the Mu'allaqat.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12198,
+            "question_text": "During which era did the 'Abbasid period flourish in terms of Arabic prose and poetry?",
+            "options": [
+                "The Umayyad Era",
+                "The Golden Age of Islam",
+                "The Modern Era",
+                "The Ottoman Era"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Abbasid Caliphate is famously known as the Islamic Golden Age, characterized by massive growth in literature and philosophy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12199,
+            "question_text": "Who is known as the 'Prince of Poets' (Amir al-Shu'ara) in modern Arabic literature?",
+            "options": [
+                "Mahmoud Darwish",
+                "Ahmed Shawqi",
+                "Nizar Qabbani",
+                "Taha Hussein"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ahmed Shawqi was given the title 'Amir al-Shu'ara' for his significant contributions to modern Arabic poetry.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12200,
+            "question_text": "The 'Mu'allaqat' refers to which type of literary achievement?",
+            "options": [
+                "Short stories",
+                "Pre-Islamic odes",
+                "Travelogues",
+                "Philosophical essays"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Mu'allaqat are a group of seven famous long Arabic poems from the pre-Islamic period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12238,
+            "question_text": "Which famous work by Ibn Muqaffa introduced Greek philosophy and moral tales to Arabic prose?",
+            "options": [
+                "Kalila wa Dimna",
+                "Hayy ibn Yaqzan",
+                "Al-Ayyam",
+                "Muqaddimah"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Kalila wa Dimna is a famous collection of fables translated into Arabic by Ibn Muqaffa.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12239,
+            "question_text": "Who is considered the pioneer of the 'Modern Arabic Novel'?",
+            "options": [
+                "Naguib Mahfouz",
+                "Taha Hussein",
+                "Jibran Khalil Jibran",
+                "Al-Manfaluti"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Naguib Mahfouz is widely recognized for elevating the Arabic novel to international acclaim, winning the Nobel Prize.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12240,
+            "question_text": "What is the primary theme of the poetry of Al-Mutanabbi?",
+            "options": [
+                "Nature and agriculture",
+                "Pride, courage, and philosophy",
+                "Only religious mysticism",
+                "Children's fables"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Al-Mutanabbi is famous for his verses on heroism, wisdom, and self-confidence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12241,
+            "question_text": "Which literary era is famously associated with the 'Golden Age' of Arabic science and translation?",
+            "options": [
+                "Umayyad",
+                "Abbasid",
+                "Ottoman",
+                "Modern"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Abbasid Caliphate, specifically the House of Wisdom in Baghdad, was the peak era for translation and scientific development.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12242,
+            "question_text": "Who wrote the famous autobiography titled 'Al-Ayyam' (The Days)?",
+            "options": [
+                "Abbas Mahmoud al-Aqqad",
+                "Taha Hussein",
+                "Mustafa Lutfi al-Manfaluti",
+                "Tawfiq al-Hakim"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Taha Hussein, the influential educator and writer, authored the autobiographical 'Al-Ayyam'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12243,
+            "question_text": "What does the term 'Adab' signify in the context of Arabic studies?",
+            "options": [
+                "Grammar only",
+                "Belles-lettres and literature",
+                "Islamic law",
+                "Mathematics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In classical Arabic, 'Adab' refers to polite manners, but also encompasses the study of literature and refined prose/poetry.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12244,
+            "question_text": "Which city was the center of Arabic literary life during the height of the Abbasid period?",
+            "options": [
+                "Damascus",
+                "Baghdad",
+                "Cairo",
+                "Cordoba"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Baghdad was the capital of the Abbasid Caliphate and the intellectual hub of the medieval Islamic world.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12245,
+            "question_text": "Which poet is known for his 'Lamentations' (Ritha) poems?",
+            "options": [
+                "Al-Khansa",
+                "Imru al-Qais",
+                "Antara ibn Shaddad",
+                "Zuhayr ibn Abi Sulma"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Al-Khansa is celebrated for her powerful poetry mourning the death of her brothers in battle.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12246,
+            "question_text": "Who is the author of 'Risalat al-Ghufran' (The Epistle of Forgiveness)?",
+            "options": [
+                "Al-Mutanabbi",
+                "Abu al-Ala al-Ma'arri",
+                "Ibn Khaldun",
+                "Taha Hussein"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Abu al-Ala al-Ma'arri is a famous blind philosopher and poet who wrote this significant literary work.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12247,
+            "question_text": "The 'Nahda' movement refers to what period in Arabic literature?",
+            "options": [
+                "The Pre-Islamic period",
+                "The Umayyad period",
+                "The Islamic Golden Age",
+                "The 19th-century Arab cultural renaissance"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The 'Nahda' is the term used for the cultural and literary revival that began in the Arab world during the 19th century.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

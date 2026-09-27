@@ -1,0 +1,193 @@
+{
+    "category": "Northern University, Nowshera",
+    "name": "Literature and Textual Analysis",
+    "board": "northern-university-nowshera",
+    "subject": "literature-and-textual-analysis",
+    "url": "/northern-university-nowshera/literature-and-textual-analysis/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 13232,
+            "question_text": "In literature, what is the term for a recurring symbol or motif that represents a universal pattern of human nature?",
+            "options": [
+                "Metaphor",
+                "Archetype",
+                "Hyperbole",
+                "Paradox"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An archetype is a universal symbol, character, or situation that recurs across various cultures and time periods.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13233,
+            "question_text": "Which literary device is used in the phrase 'the whispering wind'?",
+            "options": [
+                "Personification",
+                "Oxymoron",
+                "Irony",
+                "Allusion"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Personification attributes human qualities (whispering) to non-human objects (wind).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13234,
+            "question_text": "What is the primary function of a 'soliloquy' in a play?",
+            "options": [
+                "To provide comic relief during a tragedy.",
+                "To reveal a character's inner thoughts to the audience while they are alone on stage.",
+                "To establish the historical context of the setting.",
+                "To engage in a dialogue between two main characters."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A soliloquy is a dramatic convention where a character speaks their private thoughts aloud, unheard by other characters.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13235,
+            "question_text": "What does 'in media res' refer to in narrative structure?",
+            "options": [
+                "Starting the story at the very beginning of the protagonist's life.",
+                "Beginning the narrative in the middle of the action.",
+                "Ending the story with a moral lesson.",
+                "The use of flashbacks to explain character motives."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Latin term 'in media res' literally translates to 'into the middle of things'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13236,
+            "question_text": "Which literary term describes a poem of fourteen lines using any of a number of formal rhyme schemes?",
+            "options": [
+                "Haiku",
+                "Ballad",
+                "Sonnet",
+                "Villanelle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A sonnet is a specific poetic form consisting of fourteen lines and strict rhyme schemes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13237,
+            "question_text": "What is the significance of an 'unreliable narrator'?",
+            "options": [
+                "The narrator is incapable of speaking clearly.",
+                "The narrator's credibility is compromised, causing the reader to question their account.",
+                "The narrator is a secondary character who sees very little of the plot.",
+                "The narrator refuses to tell the story in chronological order."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An unreliable narrator often has biases, mental instability, or motivations that obscure the truth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13238,
+            "question_text": "Which movement emphasized emotion, individualism, and the glorification of the past and nature?",
+            "options": [
+                "Realism",
+                "Modernism",
+                "Romanticism",
+                "Naturalism"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Romanticism was an intellectual and artistic movement that prioritized intuition and nature over industrial logic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13239,
+            "question_text": "What is a 'foreshadowing' technique?",
+            "options": [
+                "A summary of what happens after the climax.",
+                "A hint or clue provided by the author about future events.",
+                "The resolution of the conflict between two characters.",
+                "A metaphor used to describe the protagonist's physical appearance."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Foreshadowing serves to build anticipation or prepare the reader for upcoming developments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13240,
+            "question_text": "What does 'verisimilitude' mean in literary analysis?",
+            "options": [
+                "The use of excessive flowery language.",
+                "The appearance of being true or real.",
+                "The comparison of two unlike things.",
+                "The repetition of consonant sounds."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Verisimilitude refers to the likeness to truth or reality in a fictional work.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13241,
+            "question_text": "In literature, what is a 'bildungsroman'?",
+            "options": [
+                "A novel focused on the destruction of a society.",
+                "A coming-of-age story focusing on psychological and moral growth.",
+                "A collection of short stories centered on myths.",
+                "A play consisting only of dialogue."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The term 'bildungsroman' translates to 'novel of education' and details the protagonist's development from youth to adulthood.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13242,
+            "question_text": "What is the term for a character who contrasts with the protagonist to highlight their traits?",
+            "options": [
+                "Antagonist",
+                "Foil",
+                "Confidant",
+                "Archetype"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A literary foil is a character who serves as a contrast to another character, usually the protagonist, to emphasize their specific qualities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13243,
+            "question_text": "What does the term 'synecdoche' refer to?",
+            "options": [
+                "A figure of speech where a part represents the whole.",
+                "An exaggeration used for effect.",
+                "A reference to a historical event.",
+                "The giving of human qualities to objects."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Synecdoche is a figure of speech where a part of something refers to the whole (e.g., 'all hands on deck').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13244,
+            "question_text": "Which movement is characterized by a reaction against the scientific rationalism of the Enlightenment?",
+            "options": [
+                "Modernism",
+                "Romanticism",
+                "Naturalism",
+                "Post-modernism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Romanticism emphasized intense emotion, the sublime, and the beauty of nature as a response to the Industrial Revolution and rationalism.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

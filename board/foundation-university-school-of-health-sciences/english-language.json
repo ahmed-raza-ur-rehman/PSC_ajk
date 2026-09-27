@@ -1,0 +1,179 @@
+{
+    "category": "Foundation University School of Health Sciences",
+    "name": "English Language",
+    "board": "foundation-university-school-of-health-sciences",
+    "subject": "english-language",
+    "url": "/foundation-university-school-of-health-sciences/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 13661,
+            "question_text": "Choose the word that is most nearly opposite in meaning to the word 'meticulous'.",
+            "options": [
+                "Careful",
+                "Negligent",
+                "Precise",
+                "Diligent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Meticulous means showing great attention to detail; negligent means failing to take proper care, making them antonyms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13662,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "Each of the students have completed their assignment.",
+                "Each of the students has completed their assignment.",
+                "Each of the students has completed his or her assignment.",
+                "Each of the students have completed his assignment."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Each' is a singular subject, requiring a singular verb ('has') and pronoun agreement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13663,
+            "question_text": "Identify the word that is a synonym for 'abundant'.",
+            "options": [
+                "Scarce",
+                "Plentiful",
+                "Meager",
+                "Limited"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Abundant means existing in large quantities, which matches plentiful.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13664,
+            "question_text": "Complete the sentence: 'Neither the teacher nor the students ______ present in the lab.'",
+            "options": [
+                "was",
+                "were",
+                "is",
+                "has been"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When using 'neither/nor', the verb agrees with the subject closest to it (students).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13665,
+            "question_text": "What is the meaning of the idiom 'to cut corners'?",
+            "options": [
+                "To make a sharp turn",
+                "To take a shortcut or skip steps to save money/time",
+                "To physically damage an object",
+                "To decorate the edge of something"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cutting corners implies finding an easier, often less thorough way to do something.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13666,
+            "question_text": "Which of the following is a complex sentence?",
+            "options": [
+                "He walked to the store.",
+                "I read a book, and he watched a movie.",
+                "Although it was raining, we went for a run.",
+                "The cat slept."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A complex sentence contains an independent clause and at least one dependent clause.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13667,
+            "question_text": "Select the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acomodation",
+                "Acommodation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling requires double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13668,
+            "question_text": "Choose the correct preposition to complete: 'She is interested ______ learning more about nutrition.'",
+            "options": [
+                "at",
+                "on",
+                "in",
+                "by"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The standard preposition used with the adjective 'interested' is 'in'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13669,
+            "question_text": "Choose the correct synonym for 'Eloquent'.",
+            "options": [
+                "Quiet",
+                "Articulate",
+                "Confused",
+                "Hesitant"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Eloquent means to express oneself clearly and effectively, which is synonymous with articulate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13670,
+            "question_text": "Select the sentence with the correct subject-verb agreement.",
+            "options": [
+                "The group of students are traveling.",
+                "The group of students is traveling.",
+                "Every one of the boys have arrived.",
+                "Each of the cakes are eaten."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject is 'group' (singular), so the verb must be 'is'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13671,
+            "question_text": "What is the meaning of the phrase 'to bark up the wrong tree'?",
+            "options": [
+                "To be very loud",
+                "To pursue a mistaken line of thought",
+                "To climb a tree",
+                "To be extremely courageous"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This idiom refers to directing one's efforts or suspicions in the wrong direction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13672,
+            "question_text": "Which word is correctly spelled?",
+            "options": [
+                "Accomodate",
+                "Acomodate",
+                "Accommodate",
+                "Acommodate"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling requires double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

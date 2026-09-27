@@ -1,0 +1,179 @@
+{
+    "category": "National Testing Agency (NTA)",
+    "name": "Drawing Test",
+    "board": "national-testing-agency-nta",
+    "subject": "drawing-test",
+    "url": "/national-testing-agency-nta/drawing-test/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 10052,
+            "question_text": "Which of the following is considered a primary color?",
+            "options": [
+                "Green",
+                "Orange",
+                "Red",
+                "Purple"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The primary colors in the RYB color model are Red, Yellow, and Blue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10053,
+            "question_text": "What is the term for the technique of creating the illusion of three-dimensional depth on a two-dimensional surface?",
+            "options": [
+                "Perspective",
+                "Shading",
+                "Hatching",
+                "Blending"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Perspective is a drawing method used to depict spatial relationships and depth on a flat surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10054,
+            "question_text": "Which of these is recognized as a primary color?",
+            "options": [
+                "Green",
+                "Yellow",
+                "Purple",
+                "Orange"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In traditional color theory (RYB), Yellow is one of the three primary colors along with Red and Blue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10055,
+            "question_text": "What do we call the method used to make a flat surface look like it has depth and volume?",
+            "options": [
+                "Perspective",
+                "Flatting",
+                "Contouring",
+                "Symmetry"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Perspective is the technique used to create the illusion of three-dimensional depth on a two-dimensional surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10056,
+            "question_text": "Which set of colors are known as 'cool' colors?",
+            "options": [
+                "Red, Orange, Yellow",
+                "Blue, Green, Violet",
+                "Black, White, Gray",
+                "Gold, Silver, Bronze"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cool colors are typically associated with water, sky, and foliage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10057,
+            "question_text": "What is the result of mixing red and yellow paint?",
+            "options": [
+                "Purple",
+                "Green",
+                "Orange",
+                "Brown"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mixing red and yellow creates the secondary color orange.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10058,
+            "question_text": "In sketching, what does 'shading' primarily achieve?",
+            "options": [
+                "Outline definition",
+                "Adding color",
+                "Creating the illusion of light and shadow/depth",
+                "Smoothing the paper surface"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Shading is used to show where light hits an object and how it creates form through shadows.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10059,
+            "question_text": "Which of these is a 'warm' color?",
+            "options": [
+                "Blue",
+                "Green",
+                "Red",
+                "Purple"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Red is associated with fire and heat, making it a warm color.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10060,
+            "question_text": "What type of perspective uses one vanishing point to create depth?",
+            "options": [
+                "One-point",
+                "Two-point",
+                "Three-point",
+                "Isometric"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "One-point perspective relies on a single vanishing point on the horizon.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10061,
+            "question_text": "Mixing blue and yellow paint creates which color?",
+            "options": [
+                "Orange",
+                "Purple",
+                "Green",
+                "Brown"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Blue and yellow are primary colors that mix to form secondary green.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10062,
+            "question_text": "What is the horizon line in a drawing?",
+            "options": [
+                "The bottom edge",
+                "The line representing eye level",
+                "A border line",
+                "A vertical line"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The horizon line is the level of the viewer's eyes in a scene.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10063,
+            "question_text": "Which element of art refers to the lightness or darkness of a color?",
+            "options": [
+                "Texture",
+                "Value",
+                "Line",
+                "Shape"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Value determines the brightness or darkness of an area.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

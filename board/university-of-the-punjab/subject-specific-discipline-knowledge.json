@@ -1,0 +1,235 @@
+{
+    "category": "University of the Punjab",
+    "name": "Subject Specific / Discipline Knowledge",
+    "board": "university-of-the-punjab",
+    "subject": "subject-specific-discipline-knowledge",
+    "url": "/university-of-the-punjab/subject-specific-discipline-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 16,
+    "questions": [
+        {
+            "id": 10507,
+            "question_text": "In the context of computer science, which protocol is primarily used for secure communication over a network?",
+            "options": [
+                "HTTP",
+                "FTP",
+                "HTTPS",
+                "SMTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "HTTPS (Hypertext Transfer Protocol Secure) uses encryption (SSL/TLS) to secure communications.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10508,
+            "question_text": "Which of the following is a fundamental principle of Economics stating that as price increases, supply increases?",
+            "options": [
+                "Law of Demand",
+                "Law of Diminishing Returns",
+                "Law of Supply",
+                "Opportunity Cost"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Law of Supply states that there is a direct relationship between price and quantity supplied.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10509,
+            "question_text": "Which layer of the Earth is composed primarily of liquid iron and nickel?",
+            "options": [
+                "Crust",
+                "Mantle",
+                "Outer Core",
+                "Inner Core"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The outer core is liquid and responsible for generating the Earth's magnetic field through convection currents of iron and nickel.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10510,
+            "question_text": "Who is known as the father of modern chemistry?",
+            "options": [
+                "Isaac Newton",
+                "Antoine Lavoisier",
+                "Dmitri Mendeleev",
+                "John Dalton"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Lavoisier is credited with establishing the law of conservation of mass and naming oxygen and hydrogen.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10511,
+            "question_text": "Which organelle is often referred to as the 'powerhouse' of the cell?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Mitochondria",
+                "Golgi apparatus"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are the sites of cellular respiration, producing ATP.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10512,
+            "question_text": "In economics, what term describes the total value of all goods and services produced within a country's borders in a year?",
+            "options": [
+                "GNP",
+                "GDP",
+                "CPI",
+                "Fiscal Budget"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Gross Domestic Product (GDP) is the standard measure of a country's economic activity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10513,
+            "question_text": "Which law of physics states that for every action, there is an equal and opposite reaction?",
+            "options": [
+                "Newton's First Law",
+                "Newton's Second Law",
+                "Newton's Third Law",
+                "Law of Gravitation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Newton's Third Law describes the nature of forces between two interacting objects.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10514,
+            "question_text": "Which programming language is predominantly used for data science and artificial intelligence?",
+            "options": [
+                "HTML",
+                "SQL",
+                "Python",
+                "CSS"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Python has become the industry standard for AI and data science due to its rich library ecosystem like Pandas and TensorFlow.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10515,
+            "question_text": "What is the primary function of the legislative branch of government?",
+            "options": [
+                "Enforcing laws",
+                "Interpreting laws",
+                "Making laws",
+                "Collecting taxes"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The legislative branch is the branch of government empowered to draft and enact laws.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10516,
+            "question_text": "Which gas is most abundant in the Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10517,
+            "question_text": "What is the capital of the concept of 'Opportunity Cost' in Economics?",
+            "options": [
+                "The monetary cost of an item",
+                "The value of the next best alternative forgone",
+                "The total cost of production",
+                "The profit margin"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Opportunity cost is defined by the benefits an individual misses out on when choosing one alternative over another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10518,
+            "question_text": "Which famous scientist developed the Theory of General Relativity?",
+            "options": [
+                "Nikola Tesla",
+                "Albert Einstein",
+                "Stephen Hawking",
+                "Max Planck"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Einstein published his theory of general relativity in 1915, transforming our understanding of gravity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10519,
+            "question_text": "Which law of thermodynamics states that the entropy of an isolated system always increases over time?",
+            "options": [
+                "First Law",
+                "Second Law",
+                "Third Law",
+                "Zeroth Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Second Law of thermodynamics defines the concept of entropy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10520,
+            "question_text": "What is the primary function of the 'Mitochondria' in a cell?",
+            "options": [
+                "Protein synthesis",
+                "Waste disposal",
+                "Energy production",
+                "Genetic storage"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mitochondria are known as the powerhouses of the cell, generating ATP.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10521,
+            "question_text": "Which economic theory suggests that government intervention can help stabilize the economy during recessions?",
+            "options": [
+                "Keynesian Economics",
+                "Classical Economics",
+                "Laissez-faire",
+                "Supply-side"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Keynesian theory advocates for fiscal policy and government spending to manage demand.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10522,
+            "question_text": "In object-oriented programming, which concept allows a class to inherit properties from another class?",
+            "options": [
+                "Encapsulation",
+                "Polymorphism",
+                "Inheritance",
+                "Abstraction"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Inheritance is the mechanism where a new class derives features from an existing class.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

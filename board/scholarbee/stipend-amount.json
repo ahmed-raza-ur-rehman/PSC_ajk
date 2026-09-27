@@ -1,0 +1,151 @@
+{
+    "category": "Scholarbee",
+    "name": "Stipend Amount",
+    "board": "scholarbee",
+    "subject": "stipend-amount",
+    "url": "/scholarbee/stipend-amount/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11569,
+            "question_text": "What is the primary purpose of the 'Stipend Amount' filter?",
+            "options": [
+                "To define the deadline of the scholarship",
+                "To filter results based on the monetary value of the award",
+                "To categorize the scholarship by provider",
+                "To show the number of successful applicants"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This filter allows users to set a budget or target range for the financial aid they wish to pursue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11570,
+            "question_text": "If a user wants to find 'Full-ride' scholarships, which category should they configure?",
+            "options": [
+                "Application Status",
+                "Stipend Amount",
+                "Study Level",
+                "Location"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Full-ride refers to the total financial value of the award, which falls under 'Stipend Amount'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11571,
+            "question_text": "A 'Partial Funding' scholarship typically covers:",
+            "options": [
+                "Only tuition fees",
+                "Only a portion of total expenses",
+                "Full room and board",
+                "All study-related costs"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Partial funding means the scholarship provides a specific amount that does not cover the entirety of the program's costs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11572,
+            "question_text": "Which category should a student select if they are looking for a stipend that covers tuition, housing, and living expenses?",
+            "options": [
+                "Partial",
+                "Full-ride",
+                "Supplementary",
+                "Travel-only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A full-ride scholarship provides comprehensive funding covering tuition, fees, and often living expenses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11573,
+            "question_text": "What does a 'Supplementary' stipend filter typically indicate?",
+            "options": [
+                "Additional funding to help with minor costs or books",
+                "The primary source of tuition funding",
+                "A loan that accrues interest",
+                "Funding for the final year only"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Supplementary stipends are intended to cover ancillary costs like books, research supplies, or living adjustments rather than total tuition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11574,
+            "question_text": "What is the primary utility of using the 'Stipend Amount' slider in the portal?",
+            "options": [
+                "To find scholarships matching specific budget needs",
+                "To determine the university ranking",
+                "To sort by application date",
+                "To filter by scholarship type"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The slider allows users to define the minimum or maximum amount they expect to receive, helping match their financial requirements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11575,
+            "question_text": "A scholarship that provides a one-time cash award is known as:",
+            "options": [
+                "Lump-sum award",
+                "Monthly stipend",
+                "Full-ride",
+                "Tuition waiver"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A lump-sum award is a single payment rather than a recurring stipend.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11576,
+            "question_text": "If a scholarship covers only the cost of books and software, it is most likely labeled as:",
+            "options": [
+                "Partial funding",
+                "Full-ride",
+                "Endowment",
+                "Grant-in-aid"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Since it covers only specific items and not the full cost of education, it is considered partial funding.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11577,
+            "question_text": "What does a 'Monthly Stipend' offer to a student?",
+            "options": [
+                "Recurring living cost support",
+                "One-time entrance fee waiver",
+                "A yearly tuition payment",
+                "Access to campus facilities"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A monthly stipend is designed to provide consistent financial support for living expenses throughout the study period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11608,
+            "question_text": "If a stipend is 'renewable', it means:",
+            "options": [
+                "It can be awarded again in subsequent years",
+                "It must be repaid after graduation",
+                "It is only valid for one semester",
+                "The student can only apply once"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Renewable scholarships provide funding for multiple years, usually contingent on maintaining specific academic requirements.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

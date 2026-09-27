@@ -1,0 +1,781 @@
+{
+    "category": "FIA",
+    "name": "Computer — Computer Fundamentals (Hardware & Software)",
+    "board": "fia",
+    "subject": "computer-computer-fundamentals-hardware-software",
+    "url": "/fia/computer-computer-fundamentals-hardware-software/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 55,
+    "questions": [
+        {
+            "id": 1079,
+            "question_text": "When designing a presentation in MS PowerPoint, what feature should be utilized to ensure that a specific slide sequence is presented automatically, without the presenter needing to click through each slide?",
+            "options": [
+                "Animation Pane",
+                "Slide Show Timing",
+                "Custom Slide Show",
+                "Transition Effects"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A Custom Slide Show allows the user to select a specific, non-linear sequence of slides to be displayed automatically or manually, controlling the flow of the presentation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1080,
+            "question_text": "In Microsoft Excel, which function is used to count the number of cells within a specified range that contain numerical values?",
+            "options": [
+                "COUNT()",
+                "COUNTA()",
+                "COUNTBLANK()",
+                "COUNTIF()"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The COUNT function specifically counts cells that hold numbers (numerical data). COUNTA counts non-empty cells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1081,
+            "question_text": "When establishing a secure connection between a client and a server, what cryptographic protocol ensures data integrity and encryption, making it the successor to basic HTTP?",
+            "options": [
+                "SSH",
+                "POP3",
+                "SSL/TLS",
+                "ICMP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SSL/TLS encrypts data transmitted over HTTPS, providing secure communication channels and authentication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1181,
+            "question_text": "Which protocol is primarily responsible for translating human-readable domain names (like www.example.com) into numerical IP addresses?",
+            "options": [
+                "DNS (Domain Name System)",
+                "FTP (File Transfer Protocol)",
+                "SMTP (Simple Mail Transfer Protocol)",
+                "HTTP (Hypertext Transfer Protocol)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "DNS acts as the internet's phonebook, mapping domain names to IP addresses necessary for network communication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1489,
+            "question_text": "In Microsoft Excel, which function is most appropriate for counting the number of cells within a specified range that contain values meeting a given criterion?",
+            "options": [
+                "COUNTBLANK",
+                "COUNTIFS",
+                "COUNTIF",
+                "COUNTA"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "COUNTIF specifically counts cells that satisfy a single condition, making it ideal for criterion-based counting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1490,
+            "question_text": "When designing a professional presentation using PowerPoint, what is the primary function of the 'Slide Master' view?",
+            "options": [
+                "To insert custom animations and transitions between slides.",
+                "To embed multiple media types like videos and audio files.",
+                "To ensure visual consistency (fonts, layout, themes) across all slides.",
+                "To protect the presentation from unauthorized editing."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Slide Master controls the overall design template, ensuring consistent branding and formatting across the entire presentation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1589,
+            "question_text": "In Microsoft Excel, which function is most appropriate for counting the number of cells within a specified range that meet a given criterion, such as counting all 'Pass' entries?",
+            "options": [
+                "COUNTALL",
+                "COUNTIF",
+                "SUMIF",
+                "COUNTA"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "COUNTIF counts cells based on a single specified criterion (e.g., counting 'Pass' values).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1590,
+            "question_text": "When designing a professional presentation in PowerPoint, which feature should be used to ensure consistent formatting (like font style, size, and colors) across multiple slides?",
+            "options": [
+                "Animation Pane",
+                "Design Theme",
+                "Slide Master",
+                "Notes Pane"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Slide Master allows users to modify the core layout and formatting of the entire presentation template.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1591,
+            "question_text": "In the context of email security and communication, what does SPF (Sender Policy Framework) primarily validate?",
+            "options": [
+                "The confidentiality of the email content through encryption.",
+                "That the sending server is authorized by the domain owner.",
+                "The path taken by the email across different servers.",
+                "The recipient's eligibility to receive messages."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SPF records prevent spoofing by confirming that the IP addresses used to send the email are approved by the sender's domain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1689,
+            "question_text": "In Microsoft Excel, which function is best suited for counting the number of cells within a given range that meet a specific criterion (e.g., counting all salaries greater than 50000)?",
+            "options": [
+                "COUNTA",
+                "COUNTBLANK",
+                "COUNTIF",
+                "SUMIF"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "COUNTIF specifically counts cells that meet a defined single criterion, making it ideal for range checking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1690,
+            "question_text": "Which feature in Microsoft Word allows a user to automatically generate customized documents, such as formal letters or certificates, by combining data from a source like an Excel spreadsheet?",
+            "options": [
+                "Index Generation",
+                "Track Changes",
+                "Cross-Referencing",
+                "Mail Merge"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Mail Merge automates the process of merging a standardized document template with variable data fields.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1691,
+            "question_text": "Which term describes the process of obtaining a unique identifier on the internet that allows a user or device to connect to a private network, often used for residential internet service?",
+            "options": [
+                "DHCP Leasing",
+                "Authentication",
+                "MAC Spoofing",
+                "NAT Gatewaying"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "DHCP (Dynamic Host Configuration Protocol) assigns temporary IP addresses (leases) to devices joining a network.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1789,
+            "question_text": "When preparing a professional report in MS Word, which feature should be used to ensure consistent formatting and sequential numbering for chapter titles and subheadings?",
+            "options": [
+                "Style Gallery for basic text formatting",
+                "Watermark feature for branding the document",
+                "Find and Replace function for consistent spelling",
+                "Table of Contents (TOC) generated with Heading Styles"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Using Heading Styles (Heading 1, Heading 2, etc.) allows Word to automatically build a dynamically updated Table of Contents.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1790,
+            "question_text": "In MS Excel, if a dataset contains many cells that appear to be blank but actually contain hidden spaces or non-printing characters, which function or tool is most effective for cleaning the data and removing these spurious entries?",
+            "options": [
+                "LEN function",
+                "TRIM function",
+                "CLEAN function",
+                "VALUE function"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The TRIM function removes excess spaces from text strings, ensuring data purity in the specified cells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1791,
+            "question_text": "Which protocol is primarily responsible for assigning unique IP addresses dynamically to devices on a network?",
+            "options": [
+                "SMTP",
+                "DHCP",
+                "HTTP",
+                "FTP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "DHCP (Dynamic Host Configuration Protocol) manages and allocates IP addresses automatically, simplifying network setup.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1890,
+            "question_text": "When designing a presentation in Microsoft PowerPoint, which feature allows you to pre-set the timings and transitions for specific slides to create a synchronized viewing experience?",
+            "options": [
+                "Rehearse Timings",
+                "Speaker Notes",
+                "Custom Animation",
+                "Slide Master"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Rehearse Timings records the time spent on each slide, synchronizing the presentation for practice or delivery.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1891,
+            "question_text": "Which networking component is used to connect multiple LANs (Local Area Networks) into a larger network, often across different geographical locations?",
+            "options": [
+                "Router",
+                "Repeater",
+                "Switch",
+                "Hub"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Routers examine the destination IP address and determine the best path across interconnected networks (WANs).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1990,
+            "question_text": "In Microsoft Excel, which function is used to count the number of cells within a range that meet a specified criterion?",
+            "options": [
+                "SUMIF",
+                "COUNTIF",
+                "COUNTIFS",
+                "AVERAGEIF"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "COUNTIF counts cells based on a single condition, making it suitable for simple criterion checks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1991,
+            "question_text": "When preparing a professional document in MS Word, what is the best practice to ensure consistent formatting and structure across multiple sections?",
+            "options": [
+                "Applying the same character spacing to all paragraphs",
+                "Manually applying font size and bold formatting throughout",
+                "Using Heading Styles and Table of Contents feature",
+                "Inserting section breaks between every chapter"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Heading Styles automatically structure the document, enabling dynamic and consistent table generation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1992,
+            "question_text": "In the context of email security and transmission, what function does an SPF (Sender Policy Framework) record perform?",
+            "options": [
+                "To encrypt the entire body and headers of the email message.",
+                "To block all unauthorized external recipients from receiving mail.",
+                "To prevent spam by verifying the sending IP address's authorized sender list.",
+                "To guarantee end-to-end decryption for the recipient only."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SPF records are DNS entries that specify which IP addresses are authorized to send email on behalf of a domain, mitigating email spoofing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2056,
+            "question_text": "In email protocols, which protocol is primarily used to retrieve email from the server to the client, and typically supports synchronization?",
+            "options": [
+                "SMTP (Simple Mail Transfer Protocol)",
+                "FTP (File Transfer Protocol)",
+                "IMAP (Internet Message Access Protocol)",
+                "POP3 (Post Office Protocol v3)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "IMAP allows users to view and manage emails directly on the server, syncing changes across multiple devices, unlike POP3 which usually downloads and deletes messages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2157,
+            "question_text": "Which network device is primarily responsible for connecting different networks (like a local area network to the internet) and routing data packets based on IP addresses?",
+            "options": [
+                "Repeater",
+                "Router",
+                "Hub",
+                "Switch"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A router uses IP addressing to forward packets between different subnetworks, unlike a switch which operates within one segment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2307,
+            "question_text": "Which protocol is primarily used to transfer web pages (HTML documents) from a server to a web browser?",
+            "options": [
+                "POP3",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "HTTP (Hypertext Transfer Protocol) is the foundational protocol for communication on the World Wide Web, enabling the transfer of web content.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2357,
+            "question_text": "In email communication, what protocol is used to retrieve email messages from a mail server to a client application, supporting modern security standards?",
+            "options": [
+                "POP3 (Post Office Protocol 3)",
+                "HTTP (Hypertext Transfer Protocol)",
+                "SMTP (Simple Mail Transfer Protocol)",
+                "IMAP (Internet Message Access Protocol)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "IMAP allows users to manage emails remotely across multiple devices by syncing changes with the server, making it superior to POP3 for modern use.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2466,
+            "question_text": "Which function in Microsoft Excel is used to count the number of cells in a range that meet a specified criterion or criteria?",
+            "options": [
+                "SUMIF",
+                "COUNTA",
+                "COUNTALL",
+                "COUNTIF"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "COUNTIF counts cells based on one specified condition, making it ideal for criterion-based counting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2467,
+            "question_text": "Which networking device operates at Layer 2 of the OSI model and uses MAC addresses to facilitate communication within a local network segment?",
+            "options": [
+                "Switch",
+                "Router",
+                "Hub",
+                "Repeater"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A Switch uses MAC addresses to filter and forward data frames only to the intended recipient within a LAN, unlike a Hub.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2516,
+            "question_text": "Which keyboard shortcut is primarily used in MS Word to quickly remove paragraph formatting and restore the text to its default state?",
+            "options": [
+                "Ctrl + U",
+                "Ctrl + Shift + P",
+                "Ctrl + Z",
+                "Ctrl + Space"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Ctrl + Space is the dedicated shortcut to remove manual formatting (like explicit font sizing or paragraph spacing) and reset it to the style definition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2617,
+            "question_text": "In the context of internet security and data transmission, what does SSL/TLS primarily provide?",
+            "options": [
+                "Automatic physical connection establishment",
+                "Confidentiality and integrity of data during transit",
+                "Management of domain name system records",
+                "Increased network speed and bandwidth"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SSL/TLS encrypts the connection between a client and a server, ensuring that data remains confidential and tamper-proof.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2666,
+            "question_text": "In MS Excel, if you want to calculate the average of a range of cells (A1 to A10) but exclude any cells that contain the text 'N/A', which function should you use?",
+            "options": [
+                "=AVERAGE.IF(A1:A10, \"<>N/A\")",
+                "=AVERAGEIFS(A1:A10, \"N/A\")",
+                "=AVERAGEIF(A1:A10, \"<>N/A\")",
+                "=AVERAGE(A1:A10)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The AVERAGEIF function allows specifying a criterion (in this case, 'not equal to N/A') to calculate the average only for valid numeric cells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2877,
+            "question_text": "In the context of email protocols, which protocol is primarily used to retrieve emails from a mail server to a local client?",
+            "options": [
+                "FTP",
+                "IMAP",
+                "SMTP",
+                "POP3"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IMAP (Internet Message Access Protocol) allows users to access and manage emails on the server, which is useful for multiple devices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2977,
+            "question_text": "Which layer of the OSI model is responsible for segmenting data and adding sequence numbers and connection control?",
+            "options": [
+                "Application Layer",
+                "Data Link Layer",
+                "Transport Layer",
+                "Network Layer"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Transport Layer (TCP/UDP) handles segmentation, reassembly, and flow control using connection identifiers like port numbers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3288,
+            "question_text": "Which networking protocol is primarily responsible for mapping an IP address to a physical MAC address?",
+            "options": [
+                "Dynamic Host Configuration Protocol (DHCP)",
+                "Internet Control Message Protocol (ICMP)",
+                "Address Resolution Protocol (ARP)",
+                "Transmission Control Protocol (TCP)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "ARP facilitates local network communication by resolving the physical hardware address (MAC) corresponding to a known IP address.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5928,
+            "question_text": "In Microsoft Excel, what function is used to count the number of cells within a specified range that contain numerical values?",
+            "options": [
+                "COUNTBL(),",
+                "NUMCOUNT()",
+                "COUNTA(),",
+                "COUNT(),"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The COUNT function specifically counts cells that contain numbers. COUNTA counts all non-empty cells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5929,
+            "question_text": "Which feature in MS Word allows a user to automatically generate a standardized document containing personalized information (like names and addresses) by merging data from a list?",
+            "options": [
+                "Bibliography",
+                "Mail Merge",
+                "Templates",
+                "Track Changes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Mail Merge automates the creation of multiple personalized documents using a main document and a data source.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6028,
+            "question_text": "Which feature in MS Excel is best suited for analyzing trends and identifying correlations between two or more variables?",
+            "options": [
+                "Bar Chart",
+                "Scatter Chart",
+                "Line Graph",
+                "Pie Chart"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scatter charts plot individual data points, making them ideal for visualizing the relationship and trend (correlation) between two numerical variables.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6029,
+            "question_text": "When setting up a formal letter in MS Word, which element is crucial for ensuring consistent formatting and alignment throughout the document?",
+            "options": [
+                "Header/Footer",
+                "Table of Contents",
+                "Watermark",
+                "Style Sets"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Style Sets allow users to define and apply consistent formatting rules (e.g., Heading 1, Body Text) across the entire document, maintaining professional uniformity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6103,
+            "question_text": "In Microsoft Excel, what is the primary function used to count the number of cells within a specified range that contain non-empty data?",
+            "options": [
+                "SUMA",
+                "COUNT",
+                "COUNTA",
+                "COUNTIF"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "COUNTA counts cells with any type of data (numbers, text, errors), while COUNT only counts numbers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6104,
+            "question_text": "When creating a professional presentation in PowerPoint, which feature allows a user to display specific information or visuals exactly when needed, controlling the flow of information?",
+            "options": [
+                "Slide Master",
+                "Triggers",
+                "Hyperlinking",
+                "Animations"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Triggers allow specific animations or actions to be executed only when a corresponding object or click occurs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6171,
+            "question_text": "In Microsoft Excel, which function is used to count the number of cells within a specified range that contain non-empty data?",
+            "options": [
+                "COUNT",
+                "COUNTA",
+                "NUMCOUNT",
+                "NONBLANK"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "COUNTA counts all non-empty cells (text, numbers, errors), while COUNT only counts cells with numeric values.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6172,
+            "question_text": "Which key combination is commonly used in Microsoft Word to apply 'Strikethrough' formatting to selected text?",
+            "options": [
+                "Ctrl + U",
+                "Ctrl + Shift + X",
+                "Ctrl + Shift + Minus",
+                "Ctrl + D"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While standard shortcuts vary, Ctrl + Shift + X (or the dedicated format menu) is the most direct method to toggle the strikethrough formatting in recent versions of Word.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6243,
+            "question_text": "In Microsoft Excel, which function is used to count the number of cells in a range that meet specific criteria?",
+            "options": [
+                "COUNTIF",
+                "SUMIF",
+                "COUNTIFS",
+                "AVERAGEIF"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "COUNTIFS allows counting based on multiple criteria applied to different ranges of cells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6244,
+            "question_text": "To ensure a document maintains a consistent professional look and structure across all sections, which feature in MS Word is most appropriate for generating automated, formatted content like bibliographies or table of contents?",
+            "options": [
+                "Styles and Templates",
+                "Track Changes",
+                "Header/Footer",
+                "Watermark"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Styles and Templates are used to define and maintain the structural consistency (formatting, fonts, headings) throughout a document.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6404,
+            "question_text": "When preparing a presentation using Microsoft PowerPoint, what is the primary function of the 'Master Slide' view?",
+            "options": [
+                "To add animations to individual text boxes on every slide.",
+                "To apply global formatting (fonts, colors, layout) consistently across all slides.",
+                "To convert the entire presentation into a searchable PDF document.",
+                "To embed videos and audio files that cannot be edited."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Master Slide view allows you to change the fundamental design elements, such as backgrounds, fonts, and placeholders, ensuring uniform branding across the entire presentation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6405,
+            "question_text": "When sending an email, which protocol is primarily used to retrieve emails from a mail server to the client?",
+            "options": [
+                "POP3",
+                "SMTP",
+                "IMAP",
+                "FTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "IMAP (Internet Message Access Protocol) is the standard protocol for synchronizing emails across multiple devices, keeping the messages available on the server. POP3 typically downloads and removes emails from the server.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6470,
+            "question_text": "In Microsoft Excel, what function is used to calculate the average of a range of cells?",
+            "options": [
+                "SUM()",
+                "AVERAGE()",
+                "COUNT()",
+                "MEAN()"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The AVERAGE() function is specifically designed to calculate the arithmetic mean (average) of the given numbers in a range.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6471,
+            "question_text": "When dealing with dates and times in Excel, which function should be used to extract the month number from a given date serial number?",
+            "options": [
+                "DAY()",
+                "DATEVALUE()",
+                "TEXT()",
+                "MONTH()"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The MONTH() function is specifically used to retrieve the month (as a number 1-12) from a valid date value.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6472,
+            "question_text": "Which protocol is universally used for sending email messages from a client to a mail server?",
+            "options": [
+                "SMTP",
+                "HTTP",
+                "IMAP",
+                "POP3"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol used for sending and routing emails across network boundaries.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6548,
+            "question_text": "Which keystroke combination is the standard shortcut used to undo the last action performed in most Microsoft Office applications?",
+            "options": [
+                "Ctrl + X",
+                "Ctrl + Z",
+                "Ctrl + A",
+                "Ctrl + Y"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ctrl + Z is the universally accepted shortcut command for undoing the most recently executed action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6549,
+            "question_text": "In PowerPoint, if you want to ensure that specific elements (like slide numbers or corporate logos) appear consistently on every slide without manually adding them, you should utilize:",
+            "options": [
+                "Slide Master",
+                "Animation Pane",
+                "Notes Master",
+                "Slide Layout View"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Slide Master view allows users to apply consistent changes to the design, formatting, and background elements (like logos and slide numbers) of all slides in the presentation at once.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6550,
+            "question_text": "When transferring files over the internet, which protocol is specifically designed for secure, reliable transfer of large data files?",
+            "options": [
+                "HTTP",
+                "FTP",
+                "SFTP",
+                "HTTPS"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SFTP (SSH File Transfer Protocol) is specifically designed to provide secure, encrypted file transfer over insecure networks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6614,
+            "question_text": "In a typical client-server networking model, which device is responsible for forwarding data packets between different computer networks (subnets)?",
+            "options": [
+                "Hub",
+                "Switch",
+                "Repeater",
+                "Router"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A router operates at Layer 3 (Network Layer) and uses IP addresses to determine the best path for forwarding data packets between separate networks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6692,
+            "question_text": "What protocol is mandatory for establishing secure communications, such as online banking or accessing sensitive academic portals?",
+            "options": [
+                "HTTPS",
+                "HTTP",
+                "SMTP",
+                "FTP"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "HTTPS (Hypertext Transfer Protocol Secure) uses SSL/TLS encryption, ensuring that data transmitted over the web is confidential and secure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6768,
+            "question_text": "In the context of email security, what mechanism encrypts the email content and ensures that only the intended recipient can read it, even if intercepted?",
+            "options": [
+                "TLS (Transport Layer Security)",
+                "PGP (Pretty Good Privacy)",
+                "SPF (Sender Policy Framework)",
+                "DMARC (Domain-based Message Authentication, Reporting, and Conformance)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PGP is an end-to-end encryption standard used to encrypt the message content itself, ensuring confidentiality.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6842,
+            "question_text": "In MS Excel, if you enter the formula =SUM(A1:A5)/AVERAGE(A1:A5), what mathematical operation is being performed?",
+            "options": [
+                "Dividing the total sum by the average value of the range.",
+                "Calculating the sum of the range divided by the sum of the range.",
+                "Calculating the sum of the range and subtracting the average.",
+                "Finding the ratio between the sum and the average value."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The formula calculates the sum of cells A1 through A5, and then divides that total sum by the average value of the same cells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6843,
+            "question_text": "In email communication, what does the 'BCC' field stand for, and what is its primary function?",
+            "options": [
+                "Broadcast Copy; it is used for sending mass emails to all contacts simultaneously.",
+                "Bulk Contact Center; it is a directory service used only by corporate email systems.",
+                "Blind Carbon Copy; it sends copies of the email without visible recipients.",
+                "Best Copy; it ensures the recipient receives the highest quality version of the attachment."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "BCC sends copies discreetly, preventing recipients listed in the 'To' or 'CC' fields from knowing their addresses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "Scholarbee",
+    "name": "Study Level",
+    "board": "scholarbee",
+    "subject": "study-level",
+    "url": "/scholarbee/study-level/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11538,
+            "question_text": "Which filter category would a student use to find funding opportunities specifically for post-doctoral research?",
+            "options": [
+                "Application Status",
+                "Study Level",
+                "Stipend Amount",
+                "Location"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Post-doctoral research is a specific academic stage, which falls under the 'Study Level' category in a scholarship portal.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11539,
+            "question_text": "If a user is currently in their final year of high school, which Study Level should they select to find relevant scholarships?",
+            "options": [
+                "Undergraduate",
+                "Graduate",
+                "Post-secondary/High School",
+                "Doctoral"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "High school seniors are considered 'Post-secondary/High School' students as they transition to higher education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11540,
+            "question_text": "A student planning to enroll in a Master's degree program immediately after their Bachelor's should select which Study Level?",
+            "options": [
+                "Undergraduate",
+                "Postgraduate",
+                "Certificate Program",
+                "Secondary School"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Master's degrees are advanced degrees pursued after completing an undergraduate bachelor's degree, falling under the postgraduate category.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11541,
+            "question_text": "Which Study Level filter is most appropriate for a student seeking vocational training or a trade school certification?",
+            "options": [
+                "Doctoral",
+                "Professional Certification",
+                "Postgraduate",
+                "Bachelor's Degree"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Vocational and trade school programs are typically categorized under Professional Certification or short-term training filters.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11542,
+            "question_text": "If a user is applying for a Ph.D. program, which Study Level should be targeted to see the most relevant results?",
+            "options": [
+                "Doctoral",
+                "Undergraduate",
+                "Master's",
+                "Associate Degree"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ph.D. programs are research-based advanced degrees that are classified specifically as Doctoral level studies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11543,
+            "question_text": "Which category should a student currently enrolled in an Associate degree program select if they are looking for transfer scholarships?",
+            "options": [
+                "High School",
+                "Undergraduate",
+                "Postgraduate",
+                "Non-Degree"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Associate and Bachelor's degrees are both classified as undergraduate levels of study.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11544,
+            "question_text": "What is the primary implication of selecting an incorrect 'Study Level' filter on the portal?",
+            "options": [
+                "The site crashes",
+                "Ineligible search results are displayed",
+                "The account is deleted",
+                "The payment gateway fails"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Filters ensure that the portal only displays scholarships relevant to the user's current or intended academic stage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11545,
+            "question_text": "For students seeking 'Foundation' or 'Bridge' years before entering a university, where would they usually find these in the Study Level list?",
+            "options": [
+                "Pre-University",
+                "Master's",
+                "Doctoral",
+                "Professional Development"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Bridge programs or foundation years are designed to prepare students for university entry and are listed under Pre-University.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11546,
+            "question_text": "A working professional looking to update their skills via a short-term course should look under which level?",
+            "options": [
+                "Continuing Education",
+                "Doctoral",
+                "Undergraduate",
+                "Postgraduate"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Continuing Education is the standard filter for short-term professional development and skill-building courses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11547,
+            "question_text": "Which Study Level is necessary to select for students seeking scholarships specifically for Bachelor of Science (BSc) programs?",
+            "options": [
+                "Undergraduate",
+                "Postgraduate",
+                "Doctoral",
+                "Secondary"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Bachelor of Science is a primary undergraduate degree classification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

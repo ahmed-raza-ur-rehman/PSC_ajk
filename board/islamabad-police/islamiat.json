@@ -1,0 +1,263 @@
+{
+    "category": "Islamabad Police",
+    "name": "Islamiat",
+    "board": "islamabad-police",
+    "subject": "islamiat",
+    "url": "/islamabad-police/islamiat/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 18,
+    "questions": [
+        {
+            "id": 7091,
+            "question_text": "Which event or resolution provided the first formal political platform demanding separate representation for Muslims in India, preceding the formal Lahore Resolution?",
+            "options": [
+                "The resolution presented at the Madras Session of the All-India Muslim League (1920).",
+                "The demand articulated in the elections held by the Khilafat Committee.",
+                "The demand for separate electorates in the Morley-Minto Reforms (1909).",
+                "The Resolution passed by the All-India Muslim League in 1930."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Morley-Minto Reforms (1909) formally introduced the concept of separate electorates, making it the first recorded demand for separate representation for Muslims.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7283,
+            "question_text": "Who is widely regarded as the 'chief architect' of Pakistan and is credited with articulating the Two-Nation Theory?",
+            "options": [
+                "Allama Muhammad Iqbal",
+                "Maulvi Liaquat Ali Khan",
+                "Sir Syed Ahmad Khan",
+                "Quaid-e-Azam Muhammad Ali Jinnah"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "While Jinnah championed the cause, Allama Muhammad Iqbal first articulated the concept of a separate Muslim state in his Allahabad Address of 1930, giving him credit as the chief ideologue/architect of the idea.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7347,
+            "question_text": "The resolution that formally articulated the demand for separate constitutional states for Muslim majority areas in British India, fundamentally establishing the political basis for Pakistan, was:",
+            "options": [
+                "Objectives Resolution (1949)",
+                "Allahabad Address (1930)",
+                "Lahore Resolution (1940)",
+                "Delhi Resolution (1927)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Lahore Resolution (1940) formalized the demand for separate constitutional states for Muslim-majority areas, which became the basis for Pakistan. The Objectives Resolution defined principles adopted after Pakistan's creation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7475,
+            "question_text": "Which event marked the beginning of systematic political demands leading to the eventual demand for Pakistan?",
+            "options": [
+                "The Quit India Movement",
+                "The Government of India Act, 1919",
+                "The Khilafat Movement",
+                "The Lahore Resolution of 1940"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Lahore Resolution (Pakistan Resolution) of 1940 formally demanded the division of British India and the creation of independent Muslim states, laying the foundation for Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7539,
+            "question_text": "The crucial factor leading to the decline of unity and cooperation among Indian political parties in the 1930s, accelerating the demand for separate Muslim political representation, was:",
+            "options": [
+                "The British Government’s implementation of the separate electorates system without consultation.",
+                "The rise of Hindu nationalist movements demanding communal separation.",
+                "The growing influence of the British Indian Civil Service (ICS) over regional political decisions.",
+                "The failure of the Round Table Conferences to address constitutional safeguards."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The institutionalization of separate electorates fundamentally altered the political landscape, compelling Muslims to seek dedicated political representation, thereby reinforcing the need for the Muslim League.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7603,
+            "question_text": "Which event or development fundamentally shifted the focus of the Muslim League from solely advocating for communal rights to demanding a separate state?",
+            "options": [
+                "The Lahore Resolution presented in 1940.",
+                "The Partition of Bengal in 1905.",
+                "The failure of the Khilafat Movement to achieve its aims.",
+                "The establishment of the All-India Muslim League (AIML) in Dhaka."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Lahore Resolution (1940) explicitly demanded the creation of independent Muslim states, moving the goal beyond mere constitutional reforms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7813,
+            "question_text": "Which article of the 1973 Constitution establishes the principle of a parliamentary system of government in Pakistan?",
+            "options": [
+                "Article 2",
+                "Article 20",
+                "Article 9",
+                "Article 10"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This question is fundamentally flawed. No single article number listed establishes the entire principle of a parliamentary system. The system's structure is defined by multiple articles and constitutional conventions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7863,
+            "question_text": "In the structure defined by the Constitution of Pakistan (1973), which body plays the primary role in advising the President regarding the formation of the federal cabinet?",
+            "options": [
+                "The Prime Minister's Secretariat.",
+                "The cabinet meeting chaired by the Prime Minister.",
+                "The Senate Standing Committee on Governance.",
+                "The Council of Common Interests (CCI)."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While the President is the Head of State, the Prime Minister, acting with the advice of the cabinet, recommends the formation and dissolution of the cabinet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7911,
+            "question_text": "Under the Constitution of Pakistan (1973), which constitutional amendment provided the framework for the two-bloc electoral system for the National Assembly?",
+            "options": [
+                "Nineteenth Amendment",
+                "Eighteenth Amendment",
+                "Seventeenth Amendment",
+                "Seventeenth Amendment"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Seventeenth Amendment (2018) facilitated the return to a parliamentary system and established the basis for the two-bloc system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8057,
+            "question_text": "Which fundamental principle established by the Constitution of Pakistan (1973) ensures the supremacy of the Constitution over all other laws and institutions?",
+            "options": [
+                "Article 2",
+                "Article 50",
+                "The Objectives Resolution",
+                "The Federal List"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Article 2 mandates that any law or action inconsistent with the Constitution shall be void, establishing the Constitution's supremacy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8106,
+            "question_text": "The Constitution of Pakistan (1973) established which system of governance where the Prime Minister and the Council of Ministers are collectively responsible to the legislature?",
+            "options": [
+                "Federal Absolute Monarchy",
+                "Presidential System",
+                "Parliamentary System",
+                "Direct Democracy"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 1973 Constitution established a parliamentary system, making the cabinet accountable to the representatives in the National Assembly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8155,
+            "question_text": "According to the Constitution of Pakistan (1973), the primary role of the federation is to:",
+            "options": [
+                "Overrule all provincial ordinances when they conflict with federal interests.",
+                "Establish a unitary system where all governance falls under the central authority.",
+                "Ensure the overall unity and integrity of the country while accommodating provincial autonomy.",
+                "Restrict all provincial laws to prevent regional discrepancies."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 1973 Constitution establishes a federal structure, meaning it aims to maintain national unity and integrity while granting significant autonomy to the provinces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8205,
+            "question_text": "Under the 1973 Constitution, the President of Pakistan serves primarily as a:",
+            "options": [
+                "Chairman of the National Security Council, bypassing civil governance",
+                "Head of Government, exercising all executive powers",
+                "Chief Constitutional Advisor, operating solely on the advice of the PM",
+                "Symbolic Head of State, acting on the advice of the Prime Minister"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The President is the symbolic Head of State, upholding constitutional continuity while executing most functions (like appointing PM) based on the advice of the cabinet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8253,
+            "question_text": "Under the federal structure established by the Constitution of Pakistan (1973), who has the constitutional authority to legislate on subjects devolved to the provincial level?",
+            "options": [
+                "The Provincial Assemblies, under the Provincial List",
+                "The Supreme Judicial Council (SJC) after mediation",
+                "The Council of Common Interests (CCI)",
+                "The Parliament of Pakistan, through the Concurrent List"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Constitution assigns specific legislative powers to provincial governments via the Provincial List, granting them primary authority over devolved subjects.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8353,
+            "question_text": "Which constitutional provision grants the primary authority to address matters of common concern, thereby balancing federal and provincial interests?",
+            "options": [
+                "Article 239 (Concurrent List)",
+                "The Nati Accord of 1997",
+                "The Islamic Ideology Council",
+                "The Council of Common Interests (CCI)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Council of Common Interests (CCI) is a constitutional body designed specifically to address matters of common concern that require coordination between the federal and provincial governments.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8401,
+            "question_text": "Which constitutional mechanism is responsible for recommending changes or amendments to the Constitution of Pakistan (1973)?",
+            "options": [
+                "The Supreme Judicial Council (SJC)",
+                "The Council of Islamic Ideology (CII)",
+                "The National Assembly's Committee on Legal Affairs",
+                "The constitutional amendment process initiated by Parliament"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "All constitutional amendments must follow the prescribed process outlined in Article 275, requiring the initiative and passage through Parliament.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14119,
+            "question_text": "According to the Constitution of Pakistan (1973), who holds the power to determine the immediate procedural continuation of the Prime Minister's term if a premature resignation or vote of no-confidence occurs?",
+            "options": [
+                "The Supreme Court of Pakistan",
+                "The Parliament (Majlis-e-Shoora)",
+                "The President of Pakistan",
+                "The Speaker of the National Assembly"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Speaker of the National Assembly is the constitutional authority responsible for managing the proceedings and declaring the immediate procedural continuity of the session following a vote of no-confidence or resignation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20385,
+            "question_text": "Which key provision of the 1973 Constitution established the principle of provincial autonomy and decentralized power?",
+            "options": [
+                "The constitutional establishment of the Supreme Court of Pakistan.",
+                "The mandatory inclusion of the Islamic Ideology Council in all provinces.",
+                "The division of powers outlined in the Concurrent List and Article 140-A.",
+                "The creation of the Federal Public Service Commission (FPSC) for civil service management."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The division of powers, particularly through lists like the Concurrent List, grants significant autonomy to the provinces, promoting federal structure.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

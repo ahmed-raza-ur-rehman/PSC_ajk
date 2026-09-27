@@ -1,0 +1,151 @@
+{
+    "category": "TMUC",
+    "name": "Management and Leadership",
+    "board": "tmuc",
+    "subject": "management-and-leadership",
+    "url": "/tmuc/management-and-leadership/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11999,
+            "question_text": "Which management function involves setting goals and determining the best course of action to achieve them?",
+            "options": [
+                "Organizing",
+                "Planning",
+                "Leading",
+                "Controlling"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Planning is the foundational management function where objectives are established and strategies are formulated.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12048,
+            "question_text": "According to Situational Leadership theory, what should a leader do when a follower is highly competent but lacks commitment?",
+            "options": [
+                "Directing",
+                "Coaching",
+                "Supporting",
+                "Delegating"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When competence is high but commitment is variable or low, a supportive approach helps boost motivation and confidence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12049,
+            "question_text": "Which management concept refers to the obligation of employees to perform assigned duties?",
+            "options": [
+                "Authority",
+                "Responsibility",
+                "Delegation",
+                "Centralization"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Responsibility is the duty or obligation to perform the tasks assigned to an employee within an organization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12050,
+            "question_text": "According to Maslow's Hierarchy of Needs, which level must be satisfied before an individual can pursue 'Esteem' needs?",
+            "options": [
+                "Physiological",
+                "Self-actualization",
+                "Safety",
+                "Social"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "In Maslow's hierarchy, Social/Belongingness needs appear immediately before Esteem needs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12051,
+            "question_text": "What is the primary characteristic of an 'Autocratic' leadership style?",
+            "options": [
+                "Decision-making is decentralized",
+                "High levels of employee participation",
+                "Total authority resides with the leader",
+                "Focus on social harmony"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Autocratic leaders retain all decision-making power and rarely seek input from subordinates.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12052,
+            "question_text": "What is the primary purpose of a SWOT analysis in strategic management?",
+            "options": [
+                "To calculate liquidity ratios",
+                "To evaluate internal strengths/weaknesses and external opportunities/threats",
+                "To measure employee satisfaction scores",
+                "To determine the breakeven point"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SWOT stands for Strengths, Weaknesses, Opportunities, and Threats; it is a framework for strategic planning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12053,
+            "question_text": "Which organizational structure groups employees based on specific functions like Marketing, HR, and Finance?",
+            "options": [
+                "Matrix structure",
+                "Divisional structure",
+                "Functional structure",
+                "Network structure"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A functional structure organizes an organization into departments based on specialized roles or functions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12054,
+            "question_text": "Which management approach emphasizes the use of scientific methods to determine the 'one best way' for a job to be performed?",
+            "options": [
+                "Scientific Management",
+                "Human Relations Movement",
+                "Contingency Theory",
+                "Administrative Theory"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Scientific management, pioneered by Frederick Taylor, focuses on efficiency and finding the most optimal way to perform tasks.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12055,
+            "question_text": "What is the primary focus of 'Transformational' leadership?",
+            "options": [
+                "Strict adherence to company rules",
+                "Inspiring followers to achieve extraordinary outcomes",
+                "Focusing solely on transactional exchanges",
+                "Minimizing employee autonomy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Transformational leaders work to change their organization and followers by inspiring a vision and fostering innovation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12056,
+            "question_text": "In the context of organizational control, what is 'Management by Exception'?",
+            "options": [
+                "Focusing only on tasks that go well",
+                "Addressing only significant deviations from planned standards",
+                "Delegating all management duties to subordinates",
+                "Ignoring daily performance metrics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This practice allows managers to save time by focusing on outcomes that differ significantly from expectations, rather than routine occurrences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

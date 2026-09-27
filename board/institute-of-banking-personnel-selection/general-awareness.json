@@ -1,0 +1,123 @@
+{
+    "category": "Institute of Banking Personnel Selection",
+    "name": "General Awareness",
+    "board": "institute-of-banking-personnel-selection",
+    "subject": "general-awareness",
+    "url": "/institute-of-banking-personnel-selection/general-awareness/2026/subject-mcqs",
+    "country": "IN",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 9907,
+            "question_text": "Which organization conducts the Common Recruitment Process (CRP) for Public Sector Banks in India?",
+            "options": [
+                "Reserve Bank of India (RBI)",
+                "Institute of Banking Personnel Selection (IBPS)",
+                "State Bank of India (SBI)",
+                "National Bank for Agriculture and Rural Development (NABARD)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IBPS is the autonomous body specifically set up to handle the selection of personnel for banks through the Common Recruitment Process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9908,
+            "question_text": "Who was the founder Chairman of the Institute of Banking Personnel Selection (IBPS)?",
+            "options": [
+                "Dr. Manmohan Singh",
+                "Dr. A. S. Deshpande",
+                "Shri Rajneesh Karnatak",
+                "Shri Harideesh Kumar B"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Dr. Manmohan Singh served as the first Chairman of the Governing Board of IBPS.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9909,
+            "question_text": "What is the primary function of the Reserve Bank of India (RBI)?",
+            "options": [
+                "Issuing currency",
+                "Selling groceries",
+                "Providing medical insurance",
+                "Constructing roads"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The RBI is the central bank of India and is the sole authority responsible for issuing currency notes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9910,
+            "question_text": "The IBPS is registered under which Act?",
+            "options": [
+                "Companies Act, 2013",
+                "Societies Registration Act, 1860",
+                "Banking Regulation Act, 1949",
+                "RBI Act, 1934"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IBPS exists as a society registered under the Societies Registration Act, 1860, and as a public trust.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9911,
+            "question_text": "Which institution set up the PSS Unit that later became IBPS?",
+            "options": [
+                "SBI",
+                "NABARD",
+                "NIBM",
+                "SEBI"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Personnel Selection Services (PSS) Unit was part of the National Institute of Bank Management (NIBM) before becoming an independent body in 1984.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9912,
+            "question_text": "Who was the first Chairman of the IBPS Governing Board?",
+            "options": [
+                "Dr. Manmohan Singh",
+                "Dr. A. S. Deshpande",
+                "C. Rangarajan",
+                "Bimal Jalan"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Dr. Manmohan Singh served as the first Chairman of the IBPS Governing Board while he was the Governor of the RBI.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9913,
+            "question_text": "What is the purpose of the 'Public Examination (Prevention of Unfair Means) Act, 2024'?",
+            "options": [
+                "To increase exam fees",
+                "To prevent organized crime and unfair means",
+                "To promote only online exams",
+                "To privatize all public services"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This Act aims to curb malpractices and unfair means in public examinations conducted by authorized bodies like IBPS.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9921,
+            "question_text": "Which organization serves as the regulator for the insurance sector in India?",
+            "options": [
+                "SEBI",
+                "IRDAI",
+                "PFRDA",
+                "RBI"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI) regulates the insurance sector.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

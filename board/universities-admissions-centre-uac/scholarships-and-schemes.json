@@ -1,0 +1,123 @@
+{
+    "category": "Universities Admissions Centre (UAC)",
+    "name": "Scholarships and Schemes",
+    "board": "universities-admissions-centre-uac",
+    "subject": "scholarships-and-schemes",
+    "url": "/universities-admissions-centre-uac/scholarships-and-schemes/2026/subject-mcqs",
+    "country": "AU",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 9228,
+            "question_text": "What is the primary purpose of the Educational Access Scheme (EAS)?",
+            "options": [
+                "To reward students with high grades",
+                "To assist students who have experienced long-term educational challenges",
+                "To provide free laptops to all students",
+                "To guarantee admission for international students"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "EAS helps students who faced disadvantages during their education gain admission to tertiary study.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9229,
+            "question_text": "What is the main goal of the Schools Recommendation Scheme (SRS)?",
+            "options": [
+                "To provide extra funding for high schools",
+                "To ensure students only get into university via their ATAR",
+                "To allow institutions to make early offers using criteria other than just the ATAR",
+                "To manage the release of ATAR results"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SRS allows universities to assess students for early offers using school recommendations and other factors beyond just the final ATAR result.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9232,
+            "question_text": "What happens if you submit one Equity Scholarship application?",
+            "options": [
+                "You are automatically accepted into every university",
+                "You will be considered for all available Equity Scholarships for which you are eligible",
+                "You will be charged a monthly membership fee",
+                "You are required to complete a manual application for each individual scholarship"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "By submitting one Equity Scholarship application, you are automatically assessed for all the various Equity Scholarships for which you meet the eligibility criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9233,
+            "question_text": "When is the closing date for Schools Recommendation Scheme (SRS) applications for 2026 entry?",
+            "options": [
+                "11 September 2026",
+                "1 January 2027",
+                "1 June 2026",
+                "30 September 2026"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "SRS applications close on 11 September, as per the UAC key dates.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9234,
+            "question_text": "What is the primary purpose of the Schools Recommendation Scheme (SRS)?",
+            "options": [
+                "To guarantee a scholarship for every applicant",
+                "To help institutions make early offers based on criteria other than just the ATAR",
+                "To replace the ATAR entirely for all university entries",
+                "To provide free accommodation for school leavers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The SRS allows universities to consider factors such as school ratings and Year 11 results for early admission offers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9235,
+            "question_text": "What happens if you submit one Equity Scholarship application through UAC?",
+            "options": [
+                "You are only considered for one specific scholarship",
+                "You are considered for all available Equity Scholarships for which you are eligible",
+                "You must apply separately to every university in the system",
+                "It is automatically rejected if you have an ATAR"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Submitting a single UAC application ensures you are evaluated for every eligible Equity Scholarship offered by participating institutions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9236,
+            "question_text": "What is the Educational Access Scheme (EAS) designed to do?",
+            "options": [
+                "Award financial prizes for high grades",
+                "Help students who have experienced long-term educational challenges gain admission to tertiary study",
+                "Provide free textbooks to all first-year students",
+                "Guarantee admission to any course regardless of grades"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "EAS assists students who have faced disadvantages during their education that have impacted their performance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9238,
+            "question_text": "What criteria might participating institutions use when assessing your SRS application?",
+            "options": [
+                "Only your final ATAR",
+                "Only your birth date",
+                "School ratings of your aptitudes and Year 11 studies",
+                "Your parents' income exclusively"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SRS applications are assessed using multiple criteria, including school reports, school ratings, and other factors decided by the institution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,375 @@
+{
+    "category": "Riphah International University",
+    "name": "English Language",
+    "board": "riphah-international-university",
+    "subject": "english-language",
+    "url": "/riphah-international-university/english-language/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 26,
+    "questions": [
+        {
+            "id": 11639,
+            "question_text": "Choose the correct synonym for 'Benevolent'.",
+            "options": [
+                "Hostile",
+                "Kind",
+                "Greedy",
+                "Indifferent"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12203,
+            "question_text": "Identify the error in the sentence: 'She don't like to go to the park.'",
+            "options": [
+                "She",
+                "don't",
+                "like",
+                "to go"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The subject 'She' is third-person singular, so 'doesn't' should be used instead of 'don't'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12204,
+            "question_text": "Fill in the blank: The manager __________ the meeting due to an emergency.",
+            "options": [
+                "called on",
+                "called off",
+                "called out",
+                "called for"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Called off' is the phrasal verb meaning to cancel.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12205,
+            "question_text": "Choose the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Accomodation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling requires double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12206,
+            "question_text": "Select the antonym for 'Ephemeral'.",
+            "options": [
+                "Fleeting",
+                "Permanent",
+                "Transitory",
+                "Brief"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means short-lived; permanent is its opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12207,
+            "question_text": "Choose the most appropriate word to fill the blank: 'The committee members could not reach a __________ on the new policy.'",
+            "options": [
+                "Consensus",
+                "Conscience",
+                "Consecutive",
+                "Consent"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Consensus refers to a general agreement among a group.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12208,
+            "question_text": "Identify the part of speech of the word 'quickly' in the sentence: 'He ran quickly to catch the bus.'",
+            "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Verb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quickly modifies the verb 'ran', making it an adverb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12209,
+            "question_text": "Which sentence is grammatically correct?",
+            "options": [
+                "Neither of the students were present.",
+                "Neither of the students was present.",
+                "Neither of the student were present.",
+                "None of the student were present."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Neither takes a singular verb when followed by 'of the'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12210,
+            "question_text": "Choose the synonym for 'Eloquent'.",
+            "options": [
+                "Fluent",
+                "Silent",
+                "Confused",
+                "Boring"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Eloquent means fluent or persuasive in speaking or writing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12211,
+            "question_text": "Complete the idiom: 'Beat around the __________.'",
+            "options": [
+                "Tree",
+                "Bush",
+                "Wall",
+                "Field"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The idiom 'beat around the bush' means to avoid getting to the point.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12212,
+            "question_text": "Change the sentence to passive voice: 'The chef prepared a delicious meal.'",
+            "options": [
+                "A delicious meal was prepared by the chef.",
+                "The chef is preparing a delicious meal.",
+                "A delicious meal prepares the chef.",
+                "The chef has been prepared by a meal."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "In passive voice, the object becomes the subject.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12213,
+            "question_text": "Pick the word that does not belong in the group.",
+            "options": [
+                "Happy",
+                "Joyful",
+                "Cheerful",
+                "Melancholy"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Happy, joyful, and cheerful are positive; melancholy is a state of sadness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12214,
+            "question_text": "What is the plural of 'Criterion'?",
+            "options": [
+                "Criterions",
+                "Criteria",
+                "Criteri",
+                "Criterionis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Criteria is the standard plural form of the singular criterion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13270,
+            "question_text": "Identify the word that is most nearly opposite in meaning to 'Ephemeral'.",
+            "options": [
+                "Transient",
+                "Eternal",
+                "Fleeting",
+                "Brief"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means lasting for a very short time; Eternal means lasting or existing forever, making it the antonym.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13271,
+            "question_text": "Choose the correct sentence structure: 'Neither the manager nor the employees ___ aware of the new policy.'",
+            "options": [
+                "is",
+                "was",
+                "were",
+                "has been"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In 'neither/nor' constructions, the verb must agree with the subject closest to it. 'Employees' is plural, so 'were' is correct.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13272,
+            "question_text": "Select the synonym for 'Meticulous'.",
+            "options": [
+                "Careless",
+                "Thorough",
+                "Hasty",
+                "Casual"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Meticulous means showing great attention to detail, which is synonymous with being thorough.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13273,
+            "question_text": "Identify the grammatically correct sentence.",
+            "options": [
+                "She don't know how to drive.",
+                "The group of students were late.",
+                "Every one of the applicants has been interviewed.",
+                "Each of the dogs are barking."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "'Every one' is a singular subject and requires the singular verb 'has'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13274,
+            "question_text": "Choose the word that best completes the sentence: 'His ___ apology did little to appease the offended client.'",
+            "options": [
+                "Sincere",
+                "Perfunctory",
+                "Earnest",
+                "Profound"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Perfunctory means carried out with a minimum of effort or reflection, which fits the context of failing to appease someone.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13275,
+            "question_text": "Which word is the antonym of 'Benevolent'?",
+            "options": [
+                "Kind",
+                "Malevolent",
+                "Altruistic",
+                "Generous"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Benevolent means well-meaning and kindly; malevolent means having or showing a wish to do evil to others.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13276,
+            "question_text": "Fill in the blank: 'The CEO's vision was ___ by his inability to communicate effectively.'",
+            "options": [
+                "Enhanced",
+                "Hindered",
+                "Promoted",
+                "Clarified"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If someone cannot communicate effectively, their vision is naturally blocked or obstructed, not helped.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13277,
+            "question_text": "Choose the correct idiom to complete the sentence: 'After failing the exam, he decided to ___ and study harder for the next one.'",
+            "options": [
+                "Bite the bullet",
+                "Hit the books",
+                "Cut corners",
+                "Burn the midnight oil"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Hit the books' is a common idiom meaning to study hard.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13278,
+            "question_text": "Select the correctly punctuated sentence.",
+            "options": [
+                "I went to the store, and bought milk, bread, and eggs.",
+                "I went to the store and bought milk, bread and eggs.",
+                "I went to the store, and bought milk, bread and eggs.",
+                "I went to the store and bought, milk, bread, and eggs."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "No comma is needed before the conjunction 'and' when it joins a compound predicate rather than two independent clauses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13279,
+            "question_text": "Find the word that is spelled correctly.",
+            "options": [
+                "Accomodate",
+                "Acomodate",
+                "Accommodate",
+                "Acommadate"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The correct spelling requires double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13280,
+            "question_text": "Identify the part of speech of the word 'fast' in the sentence: 'He is a fast runner.'",
+            "options": [
+                "Verb",
+                "Noun",
+                "Adjective",
+                "Adverb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In this sentence, 'fast' describes the noun 'runner', making it an adjective.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13281,
+            "question_text": "Which of these words means 'having many facets'?",
+            "options": [
+                "Multifaceted",
+                "Monolithic",
+                "Unilateral",
+                "Bipartisan"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The prefix 'multi-' means many, and 'faceted' relates to facets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13282,
+            "question_text": "Choose the correct preposition: 'She has been working here ___ 2015.'",
+            "options": [
+                "For",
+                "Since",
+                "During",
+                "From"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Since' is used to specify a starting point in time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

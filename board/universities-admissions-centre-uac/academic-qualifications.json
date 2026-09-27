@@ -1,0 +1,165 @@
+{
+    "category": "Universities Admissions Centre (UAC)",
+    "name": "Academic Qualifications",
+    "board": "universities-admissions-centre-uac",
+    "subject": "academic-qualifications",
+    "url": "/universities-admissions-centre-uac/academic-qualifications/2026/subject-mcqs",
+    "country": "AU",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 9195,
+            "question_text": "Which of the following studies do NOT need to be included in your UAC application because institutions do not take them into account?",
+            "options": [
+                "Completed Bachelor degrees",
+                "Year 12 results",
+                "AQF Certificate I or II",
+                "Diploma studies"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "UAC and universities generally only look at higher-level qualifications. Certificates I and II are not considered for admission purposes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9196,
+            "question_text": "If you are an interstate Year 12 applicant, when can you generally apply for most courses through UAC?",
+            "options": [
+                "Immediately at the start of the year",
+                "After 1 August",
+                "Only after you receive your final results in December",
+                "Once you have graduated from university"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "UAC requires access to your student ID details which usually become available from state authorities around 1 August.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9197,
+            "question_text": "Which of the following studies do NOT need to be included in your UAC application because they are not typically considered by institutions?",
+            "options": [
+                "Completed Bachelor degrees",
+                "Completed Year 12 studies",
+                "AQF Certificates I and II",
+                "Tertiary preparation courses"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Institutions generally do not take into account AQF Certificates I and II, Statements of Attainment, or unaccredited courses, so these do not need to be included.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9198,
+            "question_text": "How can an International Baccalaureate (IB) student in Australia ensure UAC receives their final results?",
+            "options": [
+                "Wait for a paper copy and mail it to UAC",
+                "Ask their IB Diploma coordinator to authorise the release of results directly to UAC",
+                "Request the results from the university directly",
+                "Scan the results and upload them to the application manually"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "IB students should ask their school's IB Diploma coordinator to authorise the release of their results directly to UAC to ensure the process is automated.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9199,
+            "question_text": "What information must an official academic transcript include for it to be accepted?",
+            "options": [
+                "Only the final graduation date",
+                "A summary of non-academic school activities",
+                "The title of the course, subjects taken, and grades obtained",
+                "A letter of recommendation from a teacher"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Official transcripts must clearly show the course title, all subjects taken, and all grades obtained, including any failures.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9200,
+            "question_text": "Why must you provide a copy of your grading scale with your international academic transcripts?",
+            "options": [
+                "To prove you paid for your course",
+                "To help UAC interpret your grades in the context of your institution's marking system",
+                "To confirm your date of birth",
+                "Because it is a requirement for your student visa"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A grading scale is necessary to help UAC understand what your results mean within the context of the specific institution's assessment system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9201,
+            "question_text": "Which of the following does NOT need to be included in your UAC application?",
+            "options": [
+                "Completed Australian Year 12 studies",
+                "Completed university degrees",
+                "Australian Qualifications Framework (AQF) Certificates I and II",
+                "Previous incomplete diploma studies"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Institutions generally do not consider AQF Certificates I or II, or TAFE statements, so these do not need to be included in your application.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9202,
+            "question_text": "How do Australian Year 12 students typically provide their results to UAC?",
+            "options": [
+                "By mailing a physical copy of their final report card",
+                "By scanning and uploading their final exam results",
+                "UAC automatically receives the results from the relevant authority",
+                "By having their school principal email them to UAC"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "UAC receives official results directly from Australian Year 12 assessment authorities, so students typically do not need to upload them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9203,
+            "question_text": "What must be included if you are providing international academic transcripts that are not in English?",
+            "options": [
+                "A summary written by the student",
+                "An official English translation by an approved authority",
+                "Only the original document",
+                "A letter from your embassy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Non-English transcripts must be accompanied by an official translation from a certified or approved translator to be accepted.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9204,
+            "question_text": "What is a 'Combined Rank' for IB students?",
+            "options": [
+                "The sum of all subject grades",
+                "A value used by universities to compare IB results with ATAR students",
+                "The number of subjects passed",
+                "The total number of bonus points achieved"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "UAC converts the IB Admissions Score (IBAS) into a 'Combined Rank' so that it is comparable with the ATAR for university entry.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9205,
+            "question_text": "If UAC cannot obtain your transcript directly, what must it include for it to be accepted?",
+            "options": [
+                "Only the final grade received",
+                "The course title, subjects taken, grades obtained, and proof of completion",
+                "A handwritten note confirming your attendance",
+                "Only the official school stamp"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Official transcripts must be comprehensive, showing the course, all subjects, all grades (including failures), and proof that the course was completed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

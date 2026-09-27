@@ -1,0 +1,123 @@
+{
+    "category": "National Education Examinations Authority (NEEA)",
+    "name": "National Education Exams (Gaokao/Graduate/Self-study)",
+    "board": "national-education-examinations-authority-neea",
+    "subject": "national-education-exams-gaokao-graduate-self-study",
+    "url": "/national-education-examinations-authority-neea/national-education-exams-gaokao-graduate-self-study/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 8,
+    "questions": [
+        {
+            "id": 9064,
+            "question_text": "What are the three core functions of the 'Gaokao Evaluation System'?",
+            "options": [
+                "Setting school fees, selecting teachers, and guiding curriculum",
+                "Establishing merit, selecting talent, and guiding teaching",
+                "Testing memory, ranking students, and determining career paths",
+                "Regulating schools, funding education, and assessing physical health"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Gaokao Evaluation System is defined by the core functions: '立德树人' (Establishing merit/moral education), '服务选才' (Serving talent selection), and '引导教学' (Guiding teaching).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9065,
+            "question_text": "Which of the following is considered 'cheating' in the National Education Exams?",
+            "options": [
+                "Drinking water during the exam",
+                "Using a standard pen provided by the test center",
+                "Bringing a mobile phone into the exam room",
+                "Asking for extra scratch paper"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to the exam rules, bringing any telecommunication device, including mobile phones, into the exam room constitutes cheating, regardless of whether it is used.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9066,
+            "question_text": "What is the primary function of the 'Gaokao Evaluation System'?",
+            "options": [
+                "To promote teachers",
+                "To foster integrity, serve talent selection, and guide teaching",
+                "To generate profits for exam companies",
+                "To replace classroom learning"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'Gaokao Evaluation System' is designed to uphold the core functions of fostering integrity (li de shu ren), assisting in the selection of talent, and providing guidance for educational instruction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9067,
+            "question_text": "Which of the following acts is officially classified as cheating in the National Education Exams?",
+            "options": [
+                "Using a standard pen to fill out the answer sheet",
+                "Bringing a calculator without an approved permit",
+                "Carrying a mobile phone into the exam room, regardless of whether it is used",
+                "Asking a question to the invigilator during the exam"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Official regulations state that bringing any communication device, such as a mobile phone, into the exam room is strictly considered an act of cheating, regardless of actual use.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9068,
+            "question_text": "What does the 'one core' component of the Gaokao Evaluation System focus on?",
+            "options": [
+                "Discipline ranking",
+                "The exam's core functions: integrity, talent selection, and teaching guidance",
+                "Physical education requirements",
+                "Student family background"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The 'one core' refers specifically to the three core functions: fostering character (li de shu ren), serving the needs of selection, and guiding the teaching process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9069,
+            "question_text": "How many years was the development of the Gaokao Evaluation System?",
+            "options": [
+                "1 year",
+                "2 years",
+                "3 years",
+                "5 years"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The evaluation system was developed over a three-year period by teams of experts from multiple universities under the guidance of the Ministry of Education.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9070,
+            "question_text": "What is the consequence of organizing cheating for a national exam under the Criminal Law?",
+            "options": [
+                "A small fine",
+                "Only disqualification from the exam",
+                "Criminal charges, including potential imprisonment and fines",
+                "A verbal warning"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Criminal Law dictates that organizing cheating or providing answers during state-regulated exams is a criminal offense punishable by imprisonment and monetary fines.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9074,
+            "question_text": "How many years did the development of the Gaokao Evaluation System take?",
+            "options": [
+                "1 year",
+                "2 years",
+                "3 years",
+                "5 years"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Gaokao Evaluation System was developed by over 150 experts over a period of 3 years.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

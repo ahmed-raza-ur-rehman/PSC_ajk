@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "English — Text Completion",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "english-text-completion",
+    "url": "/national-cybercrime-investigation-agency/english-text-completion/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14574,
+            "question_text": "What is the author's primary suggestion regarding sustainable urban planning?",
+            "options": [
+                "Focusing solely on optimizing commercial utility to ensure profitability and growth.",
+                "Prioritizing massive digital infrastructure projects over physical community spaces.",
+                "Restoring historical community structures completely, regardless of modern technological advancements.",
+                "Incorporating 'human scales' to facilitate organic social gathering, beyond mere utility optimization."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The passage explicitly recommends that planning must incorporate 'human scales'—designing spaces that facilitate organic social gathering, rather than merely optimizing traffic flow or commercial utility.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

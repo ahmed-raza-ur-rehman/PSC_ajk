@@ -1,0 +1,193 @@
+{
+    "category": "Foundation University School of Health Sciences",
+    "name": "Chemistry",
+    "board": "foundation-university-school-of-health-sciences",
+    "subject": "chemistry",
+    "url": "/foundation-university-school-of-health-sciences/chemistry/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 13636,
+            "question_text": "Which of the following is an example of a macronutrient composed of carbon, hydrogen, and oxygen atoms in a 1:2:1 ratio?",
+            "options": [
+                "Protein",
+                "Lipid",
+                "Carbohydrate",
+                "Nucleic acid"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Monosaccharides, the building blocks of carbohydrates, typically follow the empirical formula (CH2O)n.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13637,
+            "question_text": "What type of bond is formed when two atoms share a pair of electrons equally?",
+            "options": [
+                "Ionic bond",
+                "Nonpolar covalent bond",
+                "Polar covalent bond",
+                "Hydrogen bond"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A nonpolar covalent bond occurs when electrons are shared equally between two atoms with similar electronegativity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13638,
+            "question_text": "What is the pH of a neutral solution at 25 degrees Celsius?",
+            "options": [
+                "0",
+                "7",
+                "10",
+                "14"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "At 25°C, a pH of 7 indicates an equal concentration of hydronium and hydroxide ions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13639,
+            "question_text": "Which subatomic particle carries a negative charge?",
+            "options": [
+                "Proton",
+                "Neutron",
+                "Electron",
+                "Nucleus"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Electrons are negatively charged particles orbiting the atomic nucleus.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13640,
+            "question_text": "What type of chemical reaction involves the exchange of ions between two compounds?",
+            "options": [
+                "Synthesis",
+                "Decomposition",
+                "Double displacement",
+                "Combustion"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In a double displacement reaction, the cations and anions of two reactants switch partners.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13641,
+            "question_text": "Which law states that the volume of a fixed mass of gas is inversely proportional to its pressure at constant temperature?",
+            "options": [
+                "Charles's Law",
+                "Boyle's Law",
+                "Avogadro's Law",
+                "Gay-Lussac's Law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Boyle's Law describes the inverse relationship between pressure and volume (P1V1 = P2V2).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13642,
+            "question_text": "What is the molar mass of water (H2O) approximately?",
+            "options": [
+                "10 g/mol",
+                "18 g/mol",
+                "20 g/mol",
+                "32 g/mol"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hydrogen is approx 1 g/mol (x2) and Oxygen is 16 g/mol, totaling 18 g/mol.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13643,
+            "question_text": "An isotope of an element differs from another atom of the same element in the number of:",
+            "options": [
+                "Protons",
+                "Electrons",
+                "Neutrons",
+                "Chemical bonds"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Isotopes are atoms of the same element with the same proton count but different neutron counts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13644,
+            "question_text": "Which of these is a functional group characteristic of organic acids?",
+            "options": [
+                "Hydroxyl",
+                "Amino",
+                "Carboxyl",
+                "Phosphate"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The carboxyl group (-COOH) is the defining functional group of organic carboxylic acids.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13645,
+            "question_text": "What is the primary chemical component of a protein's backbone?",
+            "options": [
+                "Peptide bonds",
+                "Glycosidic linkages",
+                "Ester bonds",
+                "Hydrogen bonds"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Proteins are polymers of amino acids linked together by peptide bonds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13646,
+            "question_text": "Which of the following compounds is considered a strong acid?",
+            "options": [
+                "Acetic acid",
+                "Hydrochloric acid",
+                "Carbonic acid",
+                "Ammonia"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Hydrochloric acid (HCl) dissociates completely in water, making it a strong acid.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13647,
+            "question_text": "What does the atomic number of an element represent?",
+            "options": [
+                "Number of neutrons",
+                "Mass number",
+                "Number of protons",
+                "Total number of subatomic particles"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The atomic number is defined strictly by the number of protons in the nucleus of an atom.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13648,
+            "question_text": "What is the concentration of a solution defined as having 1 mole of solute per liter of solution?",
+            "options": [
+                "Molal",
+                "Molar",
+                "Normal",
+                "Percent composition"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Molarity (M) is the concentration unit defined as moles of solute per liter of solution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

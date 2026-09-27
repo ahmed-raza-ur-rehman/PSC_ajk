@@ -1,0 +1,179 @@
+{
+    "category": "PPSC",
+    "name": "Current Affairs",
+    "board": "ppsc",
+    "subject": "current-affairs",
+    "url": "/ppsc/current-affairs/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 9716,
+            "question_text": "Which organization is known for monitoring global health crises?",
+            "options": [
+                "WTO",
+                "WHO",
+                "UNICEF",
+                "UNESCO"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The World Health Organization (WHO) is responsible for international public health.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9731,
+            "question_text": "Who is currently serving as the Chairman of the Punjab Public Service Commission?",
+            "options": [
+                "Mr. Afzaal Ahmad",
+                "Lt. Gen. (Retd.) Muhammad Abdul Aziz",
+                "Mr. Waseem Ajmal Ch.",
+                "Mr. Ahmad Ali Kamboh"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Based on the PPSC organizational members list, Lt. Gen. (Retd.) Muhammad Abdul Aziz is the Chairman.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9732,
+            "question_text": "In which city is the main office of the Punjab Public Service Commission located?",
+            "options": [
+                "Rawalpindi",
+                "Faisalabad",
+                "Lahore",
+                "Multan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The head office of the PPSC is located on Edgerton Road, Lahore.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9733,
+            "question_text": "Who is the current Secretary-General of the United Nations?",
+            "options": [
+                "Ban Ki-moon",
+                "Antonio Guterres",
+                "Kofi Annan",
+                "Javier Perez de Cuellar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Antonio Guterres is the ninth Secretary-General of the United Nations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9734,
+            "question_text": "Which country hosted the G20 summit in 2023?",
+            "options": [
+                "Indonesia",
+                "India",
+                "Brazil",
+                "Italy"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "India held the G20 presidency for the year 2023.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9735,
+            "question_text": "What is the primary focus of the Paris Agreement?",
+            "options": [
+                "Global Trade",
+                "Climate Change",
+                "Nuclear Disarmament",
+                "Space Exploration"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Paris Agreement is a legally binding international treaty on climate change.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9736,
+            "question_text": "Which country recently became the newest member of NATO?",
+            "options": [
+                "Sweden",
+                "Finland",
+                "Ukraine",
+                "Georgia"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Sweden officially joined NATO in 2024.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9737,
+            "question_text": "Who won the Nobel Peace Prize in 2023?",
+            "options": [
+                "Narges Mohammadi",
+                "Malala Yousafzai",
+                "Abiy Ahmed",
+                "Denis Mukwege"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Narges Mohammadi was awarded the Nobel Peace Prize for her fight against the oppression of women in Iran.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9738,
+            "question_text": "What is the currency of the European Union?",
+            "options": [
+                "Pound",
+                "Euro",
+                "Dollar",
+                "Franc"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Euro is the official currency for the majority of EU member states.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9739,
+            "question_text": "Which country is the largest producer of natural gas globally?",
+            "options": [
+                "Qatar",
+                "United States",
+                "Russia",
+                "Iran"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "As of recent years, the United States is the largest producer of natural gas.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9740,
+            "question_text": "The COP28 climate summit was held in which city?",
+            "options": [
+                "Paris",
+                "Dubai",
+                "Glasgow",
+                "Sharm El-Sheikh"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "COP28 took place in Dubai, United Arab Emirates, in 2023.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9741,
+            "question_text": "Which technology is behind cryptocurrencies like Bitcoin?",
+            "options": [
+                "Artificial Intelligence",
+                "Cloud Computing",
+                "Blockchain",
+                "Quantum Computing"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Blockchain is the decentralized ledger technology that powers Bitcoin.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

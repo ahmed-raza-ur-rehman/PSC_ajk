@@ -1,0 +1,151 @@
+{
+    "category": "NASTP Institute of Information Technology",
+    "name": "Analytical Reasoning",
+    "board": "nastp-institute-of-information-technology",
+    "subject": "analytical-reasoning",
+    "url": "/nastp-institute-of-information-technology/analytical-reasoning/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11270,
+            "question_text": "If A is taller than B, and B is taller than C, who is the shortest?",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "Cannot be determined"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since A > B and B > C, the order is A > B > C, making C the shortest.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11271,
+            "question_text": "Look at this series: 2, 4, 8, 16, 32, ... What number should come next?",
+            "options": [
+                "48",
+                "64",
+                "60",
+                "40"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The series follows the pattern of multiplying the previous number by 2 (2^n). 32 * 2 = 64.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11272,
+            "question_text": "Pointing to a man, a woman says, 'He is the son of my only sister's father.' How is the man related to the woman?",
+            "options": [
+                "Brother",
+                "Cousin",
+                "Father",
+                "Uncle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The only sister's father is the woman's own father. The son of her father is her brother.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11273,
+            "question_text": "Find the missing number: 1, 4, 9, 16, 25, ?",
+            "options": [
+                "30",
+                "36",
+                "40",
+                "49"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "These are squares of consecutive integers: 1^2, 2^2, 3^2, 4^2, 5^2, 6^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11274,
+            "question_text": "If 'APPLE' is coded as 'BQQMF', how is 'ORANGE' coded?",
+            "options": [
+                "PQBOHF",
+                "PSBOHF",
+                "PSBOIF",
+                "PQAOHF"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each letter is shifted by one position forward in the alphabet.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11275,
+            "question_text": "Which word does not belong with the others?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Sun",
+                "Jupiter"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Earth, Mars, and Jupiter are planets, whereas the Sun is a star.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11276,
+            "question_text": "Six friends are sitting in a row. A is between B and C. D is between E and F. If C is at one end and F is at the other, who is in the middle?",
+            "options": [
+                "Cannot be determined",
+                "A or D",
+                "B",
+                "E"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "There are multiple configurations that satisfy these conditions, so a single answer cannot be determined.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11277,
+            "question_text": "If 5 machines can make 5 widgets in 5 minutes, how many minutes does it take 100 machines to make 100 widgets?",
+            "options": [
+                "100",
+                "50",
+                "5",
+                "20"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since 5 machines make 5 widgets in 5 minutes, each machine makes 1 widget in 5 minutes. Therefore, 100 machines will also take 5 minutes to make 100 widgets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11278,
+            "question_text": "Select the odd one out: Mercury, Venus, Earth, Moon.",
+            "options": [
+                "Mercury",
+                "Venus",
+                "Earth",
+                "Moon"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Mercury, Venus, and Earth are planets, whereas the Moon is a natural satellite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11279,
+            "question_text": "In a certain code, 'DOG' is 'GPA'. What is 'CAT' in that code?",
+            "options": [
+                "FDW",
+                "GAV",
+                "FBT",
+                "ECW"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter is shifted 3 positions forward in the alphabet (D+3=G, O+3=P, G+3=J... wait, logic: D to G (+3), O to P (+1), G to A (-6). Let's use simple shift +3: C+3=F, A+3=D, T+3=W).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

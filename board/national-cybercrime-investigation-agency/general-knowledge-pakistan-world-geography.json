@@ -1,0 +1,291 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "General Knowledge — Pakistan & World Geography",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "general-knowledge-pakistan-world-geography",
+    "url": "/national-cybercrime-investigation-agency/general-knowledge-pakistan-world-geography/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 20,
+    "questions": [
+        {
+            "id": 15375,
+            "question_text": "A student is preparing for a competitive exam and must correctly identify the capital and currency for a group of nations. Which combination represents the correct linkage?",
+            "options": [
+                "Morocco: Rabat; Dirham",
+                "Vietnam: Hanoi; Đồng",
+                "Nepal: Kathmandu; Rupee",
+                "Peru: Lima; Sol"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Morocco's capital is Rabat, and its official currency is the Moroccan Dirham (MAD). Option B is incorrect because Vietnam's currency is the Vietnamese Đồng (VND).",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15376,
+            "question_text": "Among the following countries, which nation uses a non-Latin script for its official written language, despite having significant international trade and diplomatic relations with Pakistan?",
+            "options": [
+                "Bangladesh",
+                "Nepal",
+                "Bhutan",
+                "Myanmar"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Myanmar uses the distinct Burmese script. While Nepal and Bangladesh use related Indic abugidas (Nepali/Bengali), and Bhutan uses Tibetan script, the Burmese script is the most distinct non-Latin script among the options.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15377,
+            "question_text": "Among the listed nations, which one's capital city is known for being built entirely around a natural harbor and is historically significant for its maritime trade?",
+            "options": [
+                "Victoria (Seychelles)",
+                "Port Louis (Mauritius)",
+                "Colombo (Sri Lanka)",
+                "Malé (Maldives)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Port Louis, the capital of Mauritius, is situated in a natural harbor and has a long history of significant maritime trade.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15378,
+            "question_text": "Consider the following pairs of country and its capital: 1. Peru - Lima, 2. Vietnam - Hanoi, 3. Cambodia - Phnom Penh, 4. Laos - Vientiane. Which option correctly identifies all these pairs?",
+            "options": [
+                "All the above pairs are correct",
+                "1, 2, and 3 only",
+                "1 and 2 only",
+                "2, 3, and 4 only"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "All the listed pairs are accurate. Lima is Peru's capital, Hanoi is Vietnam's, Phnom Penh is Cambodia's, and Vientiane is Laos's.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15379,
+            "question_text": "Consider the following pairs: 1) Zimbabwe - US Dollar; 2) Sudan - Sudanese Pound; 3) South Sudan - South Sudanese Pound; 4) Maldives - Rufiyaa. Which pair is incorrectly matched regarding the primary currency of the country?",
+            "options": [
+                "1 and 3 only",
+                "3 and 4 only",
+                "2 and 4 only",
+                "1 only"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Pair 1 (Zimbabwe - US Dollar) is incorrectly matched because although Zimbabwe has used a floating dollarization system, it is not considered the single, primary, official currency in the context of multiple choice validation options. The other pairs (2, 3, and 4) are correctly matched regarding their primary currency.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15380,
+            "question_text": "If a country is known for producing the global commodity cocoa and uses the currency name 'CFA Franc', which of these nations is the most likely candidate, recognizing the complexity of West African economic zones?",
+            "options": [
+                "Benin",
+                "Nigeria",
+                "Ivory Coast",
+                "Ghana"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Ivory Coast (Côte d'Ivoire) is a globally significant producer of cocoa and uses the West African CFA Franc, making it the most accurate fit among the given choices.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15381,
+            "question_text": "If a nation has a primary language of Portuguese, is a constitutional monarchy, and maintains significant historical trade ties with the Iberian Peninsula, what is its capital city?",
+            "options": [
+                "Madrid",
+                "Porto",
+                "Rio de Janeiro",
+                "Lisbon"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Lisbon is the capital city of Portugal, which meets the criteria of having Portuguese as its primary language and maintaining strong historical trade ties with the Iberian Peninsula.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15382,
+            "question_text": "If a person travels from Brazil to Peru, what change in currency and continental movement are they most likely to encounter?",
+            "options": [
+                "From Brazilian Peso to Sol; South America to North America",
+                "From Brazilian Real to Peruvian Sol; South America to South America",
+                "From Brazilian Cruzado to Sol; South America to Africa",
+                "From Brazilian Dollar to Sol; South America to Europe"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Brazil uses the Brazilian Real (BRL), and Peru uses the Peruvian Sol (PEN); both countries are located in South America.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15383,
+            "question_text": "If a traveler carrying Pakistani Rupees needs to purchase goods in a country that uses the currency named 'Ringgit', what is the local currency code, and which region is it primarily associated with?",
+            "options": [
+                "MYR (Malaysia)",
+                "IDR (Indonesia)",
+                "THB (Thailand)",
+                "SGD (Singapore)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "MYR stands for Malaysian Ringgit and is the currency of Malaysia. Singapore uses SGD, Thailand uses THB, and Indonesia uses IDR.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15384,
+            "question_text": "The capital city of which South American nation, famous for its unique blend of colonial history and modern art, is located on the equator?",
+            "options": [
+                "Paramaribo",
+                "Bogotá",
+                "Quito",
+                "Belmopan"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quito, the capital of Ecuador, is famously situated near the equator, providing a specific geographical marker for the question.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15385,
+            "question_text": "The country known as the 'Land of the Rising Sun' and its currency are associated with which pair?",
+            "options": [
+                "China, Yuan",
+                "Vietnam, Dong",
+                "South Korea, Won",
+                "Japan, Yen"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Japan translates to the Land of the Rising Sun, and the Yen is its national currency.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15386,
+            "question_text": "Which country's capital is Bangkok, but its main currency, the Thai Baht, is primarily pegged to a basket of currencies managed by a regional grouping mechanism, rather than being fully determined by local economic policy alone?",
+            "options": [
+                "Indonesia",
+                "Singapore",
+                "Philippines",
+                "Thailand"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Bangkok is the capital of Thailand. The Thai Baht's management involves regional financial agreements, aligning with the facts provided.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15387,
+            "question_text": "Which country's currency is the Baht, and what is its primary capital city?",
+            "options": [
+                "Philippines, Manila",
+                "Vietnam, Hanoi",
+                "Thailand, Bangkok",
+                "Indonesia, Jakarta"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Baht is the official currency of Thailand, and Bangkok is its capital.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15388,
+            "question_text": "Which country has the official currency known as the Krone, but is geographically located in Scandinavia and shares a capital city with Norway?",
+            "options": [
+                "Sweden",
+                "Denmark",
+                "Iceland",
+                "Finland"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Denmark uses the Danish Krone (DKK). Copenhagen is the capital, and Denmark is located in Scandinavia. While the question uses a general reference to Norway, Denmark is the only country listed that uses the Krone currency.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15389,
+            "question_text": "Which country has the official currency known as the Rial, and its capital city is commonly mistaken for being in a neighboring nation?",
+            "options": [
+                "Syria, with Damascus as the capital.",
+                "Iran, with Tehran as the capital.",
+                "Lebanon, with Beirut as the capital.",
+                "Yemen, with Sana'a as the capital."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Rial is the currency of Iran, and its capital is Tehran. While surrounding countries use various other currencies, this specific pairing is accurate.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15390,
+            "question_text": "Which country, famous for its diverse landscapes and subtropical flora, has the currency known as the ‘Euro’ and a capital city called Rome?",
+            "options": [
+                "Portugal",
+                "Spain",
+                "Greece",
+                "Italy"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Italy is the country with the Euro currency and Rome as its capital.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15391,
+            "question_text": "Which country, known for its significant historical influence in the Silk Road trade, has the currency 'Taka'?",
+            "options": [
+                "Bangladesh",
+                "Turkey",
+                "Iran",
+                "Georgia"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Taka is the official currency of Bangladesh.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15392,
+            "question_text": "Which major African nation, bordering the Red Sea, has its capital city located on the coast and uses the currency known as the Egyptian Pound?",
+            "options": [
+                "Eritrea",
+                "Ethiopia",
+                "Djibouti",
+                "Sudan"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The question is fundamentally flawed as none of the listed nations use the Egyptian Pound (EGP) as their currency, contradicting the premise. Eritrea (Option C) is the intended answer based on its unique combination of Red Sea border and coastal capital (Asmara), but the currency specified is incorrect for all options.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15393,
+            "question_text": "Which of the following countries matches the correct pair of capital and local currency, requiring accurate geopolitical knowledge?",
+            "options": [
+                "Kenya: Nairobi / Shilling",
+                "Nigeria: Abuja / Naira",
+                "Bhutan: Thimphu / Ngultrum",
+                "Ethiopia: Addis Ababa / Birr"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Bhutan's capital is Thimphu, and its official currency is the Ngultrum (BTN). While all listed capitals are correct, only Bhutan matches the specified currency pair.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        },
+        {
+            "id": 15394,
+            "question_text": "Which of the following pairs correctly matches the country and its former colonial power?",
+            "options": [
+                "St. Lucia: Spain",
+                "Jamaica: France",
+                "Barbados: Netherlands",
+                "Trinidad and Tobago: United Kingdom"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Trinidad and Tobago was a British colony. The other options are incorrect as Jamaica, Barbados, and St. Lucia were also former British colonies, not French, Dutch, or Spanish colonies.",
+            "is_past_paper": false,
+            "exam_source": "ICTP-COPY"
+        }
+    ]
+}

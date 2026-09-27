@@ -1,0 +1,165 @@
+{
+    "category": "Virtual University",
+    "name": "Accounting Principles",
+    "board": "virtual-university",
+    "subject": "accounting-principles",
+    "url": "/virtual-university/accounting-principles/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11431,
+            "question_text": "Which accounting principle dictates that expenses should be recorded in the same period as the revenues they help to generate?",
+            "options": [
+                "Matching Principle",
+                "Consistency Principle",
+                "Cost Principle",
+                "Revenue Recognition Principle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The matching principle requires that expenses be reported in the same period as the related revenues to ensure accurate profit measurement.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11432,
+            "question_text": "When a company pays cash for insurance in advance, which account is debited?",
+            "options": [
+                "Insurance Expense",
+                "Prepaid Insurance",
+                "Cash",
+                "Accounts Payable"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Prepaid insurance is an asset account. When paid in advance, it is debited, and cash is credited.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11433,
+            "question_text": "Which accounting principle requires that financial statements be prepared under the assumption that the business will continue to operate indefinitely?",
+            "options": [
+                "Going Concern Concept",
+                "Monetary Unit Assumption",
+                "Business Entity Concept",
+                "Periodicity Assumption"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Going Concern Concept assumes that an entity will remain in operation for the foreseeable future and will not be forced to liquidate.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11435,
+            "question_text": "Which principle states that financial statements should provide all information necessary for an external user to understand the entity's financial position?",
+            "options": [
+                "Consistency Principle",
+                "Full Disclosure Principle",
+                "Materiality Principle",
+                "Conservatism Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Full Disclosure requires that any information that could influence the decisions of users must be disclosed in the financial statements or notes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11436,
+            "question_text": "When a company records an asset at its original purchase price regardless of current market fluctuations, which principle is being applied?",
+            "options": [
+                "Fair Value Principle",
+                "Historical Cost Principle",
+                "Revenue Recognition Principle",
+                "Matching Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Historical Cost Principle dictates that assets should be recorded at their original cost at the time of acquisition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11437,
+            "question_text": "Which concept dictates that personal transactions of the business owner should be kept separate from the business's financial records?",
+            "options": [
+                "Objectivity Principle",
+                "Business Entity Concept",
+                "Dual Aspect Concept",
+                "Revenue Recognition Principle"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Business Entity Concept states that a business is a separate legal or accounting entity distinct from its owners.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11438,
+            "question_text": "Which principle suggests that losses should be recognized as soon as they are foreseeable, but gains should only be recognized when realized?",
+            "options": [
+                "Prudence (Conservatism) Principle",
+                "Consistency Principle",
+                "Objectivity Principle",
+                "Realization Concept"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Prudence principle advises caution; recording potential losses early ensures that financial statements do not overstate assets or income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11439,
+            "question_text": "Which accounting principle mandates that a business should record transactions in the same monetary unit?",
+            "options": [
+                "Monetary Unit Assumption",
+                "Economic Entity Assumption",
+                "Periodicity Assumption",
+                "Historical Cost Principle"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The monetary unit assumption states that only transaction data that can be expressed in terms of money should be included in the accounting records.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11440,
+            "question_text": "When a company purchases a long-term asset, which accounting principle supports recording it at the price paid regardless of market value fluctuations?",
+            "options": [
+                "Realization Principle",
+                "Matching Principle",
+                "Historical Cost Principle",
+                "Consistency Principle"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Historical cost principle requires assets to be recorded at their original purchase price because it is objective and verifiable.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11441,
+            "question_text": "Which accounting concept implies that the same accounting methods should be applied from period to period to ensure comparability?",
+            "options": [
+                "Materiality",
+                "Consistency",
+                "Objectivity",
+                "Revenue Recognition"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Consistency ensures that financial statements are comparable over time by using the same accounting policies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11442,
+            "question_text": "Under the accrual basis of accounting, when should revenue be recognized?",
+            "options": [
+                "When cash is received",
+                "When the order is placed",
+                "When the performance obligation is satisfied",
+                "At the end of the fiscal year"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Revenue recognition principle states revenue is recorded when earned, which occurs when the performance obligation is satisfied.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

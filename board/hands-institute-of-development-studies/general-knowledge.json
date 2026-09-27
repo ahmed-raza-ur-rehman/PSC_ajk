@@ -1,0 +1,165 @@
+{
+    "category": "Hands Institute of Development Studies",
+    "name": "General Knowledge",
+    "board": "hands-institute-of-development-studies",
+    "subject": "general-knowledge",
+    "url": "/hands-institute-of-development-studies/general-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 12000,
+            "question_text": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mars appears red due to iron oxide on its surface.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12001,
+            "question_text": "Who is considered the father of modern economics?",
+            "options": [
+                "Karl Marx",
+                "Adam Smith",
+                "John Maynard Keynes",
+                "Milton Friedman"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Adam Smith authored 'The Wealth of Nations' and is widely regarded as the father of modern economics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12002,
+            "question_text": "Which organization is responsible for global health standards?",
+            "options": [
+                "UNICEF",
+                "WHO",
+                "WTO",
+                "IMF"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The World Health Organization (WHO) coordinates international public health initiatives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12003,
+            "question_text": "Which element makes up the majority of the Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12004,
+            "question_text": "In which continent is the Sahara Desert located?",
+            "options": [
+                "Asia",
+                "South America",
+                "Australia",
+                "Africa"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Sahara is the largest hot desert in the world, located in North Africa.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12005,
+            "question_text": "Who was the first person to step on the moon?",
+            "options": [
+                "Buzz Aldrin",
+                "Yuri Gagarin",
+                "Neil Armstrong",
+                "John Glenn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Neil Armstrong made history as the first human to walk on the lunar surface in 1969.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12006,
+            "question_text": "What is the capital city of Japan?",
+            "options": [
+                "Kyoto",
+                "Osaka",
+                "Tokyo",
+                "Seoul"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Tokyo is the capital and largest city of Japan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12007,
+            "question_text": "Which ocean is the largest on Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Pacific Ocean"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12008,
+            "question_text": "Which chemical element is represented by the symbol 'Au'?",
+            "options": [
+                "Silver",
+                "Gold",
+                "Aluminum",
+                "Argon"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Au is derived from the Latin word 'Aurum', meaning gold.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12009,
+            "question_text": "Which river is known as the longest river in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Nile is historically considered the longest river on Earth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12010,
+            "question_text": "Which international body has its headquarters in Geneva?",
+            "options": [
+                "World Bank",
+                "United Nations",
+                "World Health Organization",
+                "International Monetary Fund"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The WHO is headquartered in Geneva, Switzerland.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

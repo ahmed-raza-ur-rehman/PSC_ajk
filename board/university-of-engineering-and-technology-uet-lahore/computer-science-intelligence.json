@@ -1,0 +1,151 @@
+{
+    "category": "University of Engineering and Technology (UET) Lahore",
+    "name": "Computer Science / Intelligence",
+    "board": "university-of-engineering-and-technology-uet-lahore",
+    "subject": "computer-science-intelligence",
+    "url": "/university-of-engineering-and-technology-uet-lahore/computer-science-intelligence/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 10853,
+            "question_text": "Which data structure operates on a Last-In-First-Out (LIFO) basis?",
+            "options": [
+                "Queue",
+                "Linked List",
+                "Stack",
+                "Array"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A stack is a LIFO data structure where the last element added is the first one removed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10854,
+            "question_text": "If 'APPLE' is coded as 'BQQMF', how is 'ORANGE' coded?",
+            "options": [
+                "PSBOHF",
+                "PSBOIF",
+                "PQBOHF",
+                "PSBOHG"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Each letter in the word is shifted by +1 in the alphabet (A+1=B, P+1=Q, etc.). Applying this to ORANGE gives PSBOHF.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10855,
+            "question_text": "Which logic gate outputs 1 only if all its inputs are 1?",
+            "options": [
+                "OR gate",
+                "AND gate",
+                "XOR gate",
+                "NOT gate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The AND gate follows the Boolean multiplication rule, requiring all inputs to be high for a high output.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10856,
+            "question_text": "What is the primary function of an Operating System?",
+            "options": [
+                "To compile code",
+                "To manage hardware and software resources",
+                "To browse the internet",
+                "To design graphics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The OS acts as an intermediary between user applications and the computer hardware, managing resources efficiently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10857,
+            "question_text": "Which of these is a volatile memory storage type?",
+            "options": [
+                "ROM",
+                "Hard Disk",
+                "RAM",
+                "Flash Drive"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Random Access Memory (RAM) requires power to maintain the stored information; it loses data when power is removed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10858,
+            "question_text": "In a binary search, what is the prerequisite for the dataset?",
+            "options": [
+                "It must be unsorted",
+                "It must be sorted",
+                "It must be empty",
+                "It must contain only integers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Binary search works by repeatedly dividing the search interval in half; this requires the data to be in order.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10859,
+            "question_text": "If 'DOG' is coded as 'GPH', how is 'CAT' coded?",
+            "options": [
+                "FCV",
+                "FDW",
+                "ECW",
+                "GDW"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The pattern is +3, +2, +1. C+3=F, A+2=C, T+1=U (Correction: D+3=G, O+1=P, G+1=H; wait, the logic is index+3,+1,+1. Pattern: C+3=F, A+3=D, T+3=W = FDW).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10860,
+            "question_text": "In a relational database, what is a primary key?",
+            "options": [
+                "A key used for searching non-indexed columns",
+                "A unique identifier for every record in a table",
+                "A key shared across multiple databases",
+                "A key that allows null values"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A primary key must be unique and cannot contain null values, serving to distinguish each row.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10861,
+            "question_text": "Which logical gate produces a 'High' (1) output only if both inputs are 'Low' (0)?",
+            "options": [
+                "NAND",
+                "NOR",
+                "XOR",
+                "AND"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A NOR gate acts as an OR gate followed by NOT; it only yields 1 if neither input is 1.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10862,
+            "question_text": "What is the time complexity of the bubble sort algorithm in the worst case?",
+            "options": [
+                "O(n)",
+                "O(n log n)",
+                "O(n²)",
+                "O(log n)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Bubble sort uses nested loops to compare adjacent elements, resulting in a quadratic time complexity of O(n²).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

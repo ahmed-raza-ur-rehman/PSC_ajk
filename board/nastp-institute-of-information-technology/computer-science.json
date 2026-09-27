@@ -1,0 +1,151 @@
+{
+    "category": "NASTP Institute of Information Technology",
+    "name": "Computer Science",
+    "board": "nastp-institute-of-information-technology",
+    "subject": "computer-science",
+    "url": "/nastp-institute-of-information-technology/computer-science/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11045,
+            "question_text": "Which data structure follows the Last-In-First-Out (LIFO) principle?",
+            "options": [
+                "Queue",
+                "Stack",
+                "Linked List",
+                "Tree"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A stack operates on the LIFO principle, where the last element added is the first one removed.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11046,
+            "question_text": "In binary representation, what is the decimal equivalent of 1011?",
+            "options": [
+                "9",
+                "11",
+                "13",
+                "15"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "1*2^3 + 0*2^2 + 1*2^1 + 1*2^0 = 8 + 0 + 2 + 1 = 11.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11048,
+            "question_text": "Which of these is a non-volatile memory?",
+            "options": [
+                "RAM",
+                "Cache",
+                "ROM",
+                "Registers"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "ROM (Read-Only Memory) retains its data even when power is turned off, unlike RAM.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11049,
+            "question_text": "What is the primary function of an Operating System?",
+            "options": [
+                "Managing hardware resources",
+                "Creating documents",
+                "Compiling code",
+                "Connecting to the internet"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "An OS acts as an interface between hardware and software, managing CPU, memory, and devices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11050,
+            "question_text": "In object-oriented programming, what is encapsulation?",
+            "options": [
+                "Creating objects from classes",
+                "Hiding internal state and requiring all interaction through methods",
+                "Inheriting properties from a base class",
+                "The ability for a method to have different behaviors"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Encapsulation restricts direct access to data to prevent accidental modification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11051,
+            "question_text": "Which layer of the OSI model handles logical addressing?",
+            "options": [
+                "Data Link Layer",
+                "Network Layer",
+                "Transport Layer",
+                "Physical Layer"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Network Layer is responsible for routing and logical addressing (IP addresses).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11052,
+            "question_text": "Which SQL command is used to delete records from a table?",
+            "options": [
+                "REMOVE",
+                "DROP",
+                "DELETE",
+                "CLEAR"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The DELETE statement is used to remove existing rows from a table.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11053,
+            "question_text": "What is the time complexity of searching for an element in a balanced Binary Search Tree?",
+            "options": [
+                "O(n)",
+                "O(log n)",
+                "O(n log n)",
+                "O(1)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In a balanced Binary Search Tree, the height of the tree is log n, making the search time proportional to the height.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11054,
+            "question_text": "Which protocol is used to securely transfer files over a network?",
+            "options": [
+                "HTTP",
+                "FTP",
+                "SFTP",
+                "SMTP"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SFTP (SSH File Transfer Protocol) provides secure, encrypted file transfers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11055,
+            "question_text": "What does the 'TCP' in TCP/IP stand for?",
+            "options": [
+                "Total Control Protocol",
+                "Transmission Control Protocol",
+                "Transfer Connection Protocol",
+                "Technical Communication Protocol"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "TCP is a core protocol of the Internet Protocol suite providing reliable, ordered delivery of data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

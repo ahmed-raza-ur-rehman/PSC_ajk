@@ -1,0 +1,193 @@
+{
+    "category": "Pearson",
+    "name": "Reading",
+    "board": "pearson",
+    "subject": "reading",
+    "url": "/pearson/reading/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 10132,
+            "question_text": "What is the typical duration for the Reading section in the PTE Academic test?",
+            "options": [
+                "10–15 minutes",
+                "22–30 minutes",
+                "45–60 minutes",
+                "75–90 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to the test format details for PTE Academic, the Reading section is designed to be completed in 22 to 30 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10133,
+            "question_text": "How many question types are typically found in the Reading section of the PTE exam?",
+            "options": [
+                "2",
+                "5",
+                "8",
+                "10"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The official test format documentation states that the Reading section consists of 5 different question types.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10134,
+            "question_text": "What does the PTE Reading section specifically assess?",
+            "options": [
+                "Only listening comprehension skills.",
+                "Only writing and grammar skills.",
+                "Reading proficiency through various tasks.",
+                "Spoken fluency and pronunciation."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Reading section is specifically dedicated to evaluating a candidate's reading ability using five distinct types of questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10135,
+            "question_text": "How many question types are in the Reading section?",
+            "options": [
+                "3",
+                "5",
+                "7",
+                "8"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Reading section of the PTE Academic test consists of 5 question types.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10136,
+            "question_text": "What is the approximate duration of the Reading section?",
+            "options": [
+                "10-15 minutes",
+                "22-30 minutes",
+                "45-60 minutes",
+                "90 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Reading section in PTE Academic is timed to take between 22 and 30 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10137,
+            "question_text": "What does the Reading section primarily assess?",
+            "options": [
+                "Speaking ability",
+                "Writing speed",
+                "Academic reading skills",
+                "Listening comprehension"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Reading section is designed to test your ability to read and understand academic English texts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10138,
+            "question_text": "Which browser is recommended for taking the practice tests?",
+            "options": [
+                "Internet Explorer",
+                "Google Chrome or Firefox",
+                "Safari only",
+                "Any browser"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Pearson recommends using Google Chrome or Firefox for the best performance on their platforms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10139,
+            "question_text": "Are the question types in PTE Core the same as in PTE Academic?",
+            "options": [
+                "Yes, they are identical",
+                "No, the content is different",
+                "Yes, only for the Reading section",
+                "No, PTE Core has no Reading section"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTE Core uses everyday English content, whereas PTE Academic uses academic English content.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10140,
+            "question_text": "How long is a PTE score report valid for?",
+            "options": [
+                "1 year",
+                "2 years",
+                "5 years",
+                "Indefinitely"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTE scores are valid for a period of two years from the date of the test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10141,
+            "question_text": "Can you take a PTE test from your home?",
+            "options": [
+                "Yes, if you have a camera",
+                "Yes, with an online proctor",
+                "No, it must be at a test center",
+                "No, unless you live in Canada"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "All official PTE tests must be taken at an authorized test center to ensure security and reliability.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10142,
+            "question_text": "How are results shared with institutions?",
+            "options": [
+                "By mail only",
+                "Through a digital secure transfer",
+                "By telephone",
+                "They are not shareable"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTE scores are digital and can be shared securely with institutions for free via your myPTE account.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10143,
+            "question_text": "What is the typical time frame to receive PTE results?",
+            "options": [
+                "Within 48 hours",
+                "Within 1 week",
+                "Within 2 weeks",
+                "Within 1 month"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Most test takers receive their results typically within 48 hours (two business days) of the test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10144,
+            "question_text": "If you fail the Reading section in a Practice Test, what should you do?",
+            "options": [
+                "Give up on the exam",
+                "Use the Score Report to identify areas for improvement",
+                "Book the real exam immediately",
+                "Ask for a human remark"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Score Report provides a breakdown of performance, which helps you focus your study on specific weaknesses.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

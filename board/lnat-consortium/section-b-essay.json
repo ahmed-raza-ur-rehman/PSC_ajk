@@ -1,0 +1,417 @@
+{
+    "category": "LNAT Consortium",
+    "name": "Section B: Essay",
+    "board": "lnat-consortium",
+    "subject": "section-b-essay",
+    "url": "/lnat-consortium/section-b-essay/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 29,
+    "questions": [
+        {
+            "id": 8767,
+            "question_text": "Which of the following describes the goal of the essay section (Section B)?",
+            "options": [
+                "To test the student's factual knowledge of current legal cases",
+                "To demonstrate the ability to construct a compelling argument",
+                "To check if the student can write a 1,000-word academic paper",
+                "To evaluate the student's ability to summarize news articles"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Section B is designed to test a candidate's ability to argue economically and reach a reasoned conclusion on a proposed subject.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8768,
+            "question_text": "What is the recommended word count for an LNAT essay?",
+            "options": [
+                "Exactly 1,000 words",
+                "500-600 words",
+                "Under 200 words",
+                "1,500 words or more"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While the maximum allowed is 750 words, the guidelines state that an ideal essay is 500-600 words in length.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8769,
+            "question_text": "Which of these is acceptable advice for the LNAT essay?",
+            "options": [
+                "Only defend a position that you personally agree with",
+                "Use very complex and fancy vocabulary to impress the graders",
+                "Avoid fence-sitting by clearly stating which points are valid on each side",
+                "Focus primarily on summarizing as many facts as possible"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The guidance emphasizes that you should take a stance rather than sitting on the fence, and be straightforward in your writing rather than using overly complex language.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8770,
+            "question_text": "How much time are you given for the essay section?",
+            "options": [
+                "40 minutes",
+                "95 minutes",
+                "2 hours",
+                "30 minutes"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Section B provides a fixed 40-minute window to complete one essay from a list of three topics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8771,
+            "question_text": "Should you include data and facts about the essay topic in your answer?",
+            "options": [
+                "Yes, the essay is graded primarily on factual accuracy",
+                "No, an argument based on assumptions can be just as strong",
+                "Yes, you must cite at least three sources",
+                "No, you should only write about the history of law"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT does not require specific data or facts; rather, it evaluates how well a student can construct a logical argument based on clear assumptions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8772,
+            "question_text": "What is the recommended word count for the LNAT essay?",
+            "options": [
+                "Exactly 1000 words.",
+                "Around 500-600 words.",
+                "No more than 200 words.",
+                "There is no recommendation."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While the maximum allowed is 750 words, the LNAT website recommends writing 500-600 words for the best evaluation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8774,
+            "question_text": "Should you include specific facts and data about the essay topic in your answer?",
+            "options": [
+                "Yes, extensive research data is required.",
+                "No, you are not judged on facts but on your ability to argue.",
+                "Only if you have memorized the exact statistics.",
+                "Yes, but only if they come from a legal journal."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT evaluates your ability to construct a compelling argument, not your factual knowledge of the subject.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8775,
+            "question_text": "What does the 'fence-sitting' warning mean in the essay context?",
+            "options": [
+                "You should not argue for both sides simultaneously without choosing a point.",
+                "You should avoid using any personal opinions.",
+                "You should not write more than 500 words.",
+                "You should not change your mind during the essay."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Fence-sitting is criticized if you fail to explain which side has the better point regarding specific aspects of the argument.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8776,
+            "question_text": "Is the Section B essay marked by the test centre staff?",
+            "options": [
+                "Yes, they provide an immediate score.",
+                "No, the test centre does not mark the essay.",
+                "Yes, but only if you request a review.",
+                "Only in specific countries."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT website confirms that the essay is not marked by the test centre; it is sent directly to the universities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8777,
+            "question_text": "How many essay questions do you have to choose from?",
+            "options": [
+                "One.",
+                "Two.",
+                "Three.",
+                "Five."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In Section B, you must write one essay chosen from a list of three proposed subjects.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8778,
+            "question_text": "Does the Section B essay contribute to your LNAT score out of 42?",
+            "options": [
+                "Yes, it counts for half the score.",
+                "No, it does not contribute to the score out of 42.",
+                "Yes, but only if you perform well.",
+                "Only if the university specifically asks for it to be counted."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The score out of 42 is based solely on the multiple choice questions (Section A).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8779,
+            "question_text": "Are you expected to use your personal opinion in the essay?",
+            "options": [
+                "Yes, the essay is about your life story.",
+                "No, you are expected to defend a position logically.",
+                "Only if your opinion aligns with the university's.",
+                "Yes, opinion is the only thing that matters."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The examiners are interested in your ability to defend a position, even if it is not your own personal view.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8780,
+            "question_text": "What happens if you write a very long essay (e.g., 1000+ words)?",
+            "options": [
+                "You get extra points for thoroughness.",
+                "You are at a disadvantage.",
+                "The essay will automatically fail.",
+                "It does not matter as long as it is coherent."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The website advises against writing too much, as you are expected to demonstrate economy of expression and focus on quality rather than length.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8781,
+            "question_text": "Can you use features like 'copy and paste' in the essay software?",
+            "options": [
+                "No, the software has no editing functions.",
+                "Yes, the system includes cut, copy, paste, undo, and redo functions.",
+                "Yes, but only if you have a special permit.",
+                "No, you must type the whole essay without editing."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT essay software provides standard text manipulation tools like cut, copy, paste, undo, and redo.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8782,
+            "question_text": "Is there a spell-check function in the LNAT essay software?",
+            "options": [
+                "Yes, it is highly advanced.",
+                "Yes, but only for common words.",
+                "No.",
+                "Yes, but you have to turn it on."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The LNAT website explicitly states there are no advanced word-processing features like spell check.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8783,
+            "question_text": "Why might you choose to argue for a position you don't personally agree with?",
+            "options": [
+                "It will automatically give you a higher grade.",
+                "It may allow you to construct a tighter, more logical argument.",
+                "You are required to debate both sides equally.",
+                "It is the only way to avoid 'fence-sitting'."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The website notes that you may sometimes do better by defending a position you do not personally agree with if it helps your argument flow better.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8784,
+            "question_text": "What should you do if you finish your essay before the 40-minute limit?",
+            "options": [
+                "Click 'End Review' immediately.",
+                "Use the time to proofread and edit your response.",
+                "Sit quietly and wait for the test to close automatically.",
+                "Begin a second essay."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "You can use the review screen to go back to your essay and make edits until the time expires.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8785,
+            "question_text": "What is the best way to handle 'assumptions' in your essay?",
+            "options": [
+                "Hide them to make the argument look stronger.",
+                "Clearly state your assumptions within your argument.",
+                "Ignore them and focus only on the facts.",
+                "Only include them in the conclusion."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The advice section explains that you should explicitly state your assumptions so the reader understands the foundation of your argument.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8786,
+            "question_text": "Should you try to impress the examiner with elaborate or 'fancy' vocabulary?",
+            "options": [
+                "Yes, it is encouraged.",
+                "No, be straightforward in your writing.",
+                "Only in the introduction.",
+                "Yes, if the topic is academic."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT guidelines advise against trying to impress with fancy words, suggesting that clear and straightforward writing is preferred.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8787,
+            "question_text": "What is the main goal of the LNAT essay (Section B)?",
+            "options": [
+                "To test your ability to memorize facts and data",
+                "To demonstrate your capacity to construct a logical, compelling argument",
+                "To assess your personal political beliefs",
+                "To measure your creative writing skills"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The essay is an opportunity to show your ability to argue economically and reach a reasoned conclusion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8788,
+            "question_text": "How much time are you given to complete the essay?",
+            "options": [
+                "30 minutes",
+                "40 minutes",
+                "60 minutes",
+                "90 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "You are given exactly 40 minutes to write one essay from a choice of three subjects.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8789,
+            "question_text": "What is the recommended word count for your LNAT essay?",
+            "options": [
+                "Under 200 words",
+                "500-600 words",
+                "Exactly 1000 words",
+                "As long as possible"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While there is a maximum of 750 words, the ideal length for an LNAT essay is 500-600 words to ensure clarity and conciseness.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8790,
+            "question_text": "Should you include personal opinions in your LNAT essay?",
+            "options": [
+                "Yes, the essay should be a reflection of your personal life",
+                "No, it is better to defend a position logically regardless of personal views",
+                "Only if you have expert knowledge on the subject",
+                "Yes, you must state your personal views clearly to succeed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The examiners are interested in your ability to defend a position, not your personal opinions; sometimes it is easier to defend a position you don't agree with.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8791,
+            "question_text": "What does the 'fence-sitting' warning imply in the context of the essay?",
+            "options": [
+                "You should not choose a topic that is too controversial",
+                "You should avoid providing a balanced view",
+                "You should avoid presenting conflicting sides without clearly explaining the merit of each",
+                "You should always agree with both sides of an argument"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Fence-sitting occurs when you claim both sides have a point without explaining what those specific points are or taking a reasoned stance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8792,
+            "question_text": "Is the Section B essay marked by the local test center staff?",
+            "options": [
+                "Yes, they grade it on-site",
+                "No, it is not marked by the test center",
+                "Only if you request a manual review",
+                "Yes, but only for grammar"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The test center does not mark the essay; it is sent to the universities to be used as part of their assessment process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8793,
+            "question_text": "How many essay questions are you offered to choose from?",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Five"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Section B asks you to select and answer one of three proposed essay questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8794,
+            "question_text": "Are you provided with a spell-check function in the LNAT essay software?",
+            "options": [
+                "Yes, it is always available",
+                "No, there is no spell-check function",
+                "Only for the first 500 words",
+                "Yes, but you have to toggle it on"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The essay software provides basic functions like copy/paste and undo, but it specifically does not have a spell-check function.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8796,
+            "question_text": "Should you attempt to use very complex, 'fancy' vocabulary to impress the examiner?",
+            "options": [
+                "Yes, sophisticated vocabulary is essential for a high score",
+                "No, be straightforward in your writing and argument",
+                "Only in the introduction",
+                "Yes, but only if you are certain of the definition"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The LNAT advice specifically warns against trying to impress with fancy words or elaborate styles, suggesting straightforward writing is best.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8797,
+            "question_text": "What happens if you submit an essay that is significantly longer than 750 words?",
+            "options": [
+                "It will get extra marks for depth",
+                "It will be disregarded completely",
+                "It is likely to disadvantage you",
+                "It will be truncated automatically"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Writing an essay that is too long is discouraged as it often leads to a lack of focus and economy of expression, which are key for the LNAT.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

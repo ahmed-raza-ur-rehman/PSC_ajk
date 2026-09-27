@@ -1,0 +1,165 @@
+{
+    "category": "PTS",
+    "name": "Computer Literacy",
+    "board": "pts",
+    "subject": "computer-literacy",
+    "url": "/pts/computer-literacy/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 9835,
+            "question_text": "Which of these is considered a 'non-volatile' memory?",
+            "options": [
+                "RAM",
+                "Cache Memory",
+                "ROM",
+                "Registers"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "ROM (Read-Only Memory) retains its data even when the power is turned off, making it non-volatile.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9836,
+            "question_text": "What is the shortcut to copy text in most Windows applications?",
+            "options": [
+                "Ctrl + C",
+                "Ctrl + V",
+                "Ctrl + X",
+                "Ctrl + S"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Ctrl + C is the standard keyboard shortcut to copy selected content.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9839,
+            "question_text": "Which device is primarily used to input textual data into a computer?",
+            "options": [
+                "Monitor",
+                "Printer",
+                "Keyboard",
+                "Speaker"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A keyboard is an input device designed to allow the user to type text and commands into the computer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9840,
+            "question_text": "Which component is considered non-volatile memory?",
+            "options": [
+                "RAM",
+                "ROM",
+                "Cache",
+                "Register"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ROM (Read Only Memory) retains its data even when the power is turned off, making it non-volatile.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9841,
+            "question_text": "What is the standard keyboard shortcut to copy selected text?",
+            "options": [
+                "Ctrl + V",
+                "Ctrl + X",
+                "Ctrl + C",
+                "Ctrl + P"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In Windows applications, Ctrl + C is the standard shortcut to copy items to the clipboard.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9842,
+            "question_text": "Which hardware device is primarily used to input textual data into a computer?",
+            "options": [
+                "Monitor",
+                "Printer",
+                "Keyboard",
+                "Speaker"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The keyboard is the primary input device used for typing and entering text.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9843,
+            "question_text": "Which of these is a form of 'non-volatile' memory?",
+            "options": [
+                "RAM",
+                "Cache",
+                "ROM",
+                "Registers"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Non-volatile memory, like ROM, keeps stored information even when the power is turned off.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9844,
+            "question_text": "What is the standard keyboard shortcut to copy selected text in Windows?",
+            "options": [
+                "Ctrl + P",
+                "Ctrl + V",
+                "Ctrl + C",
+                "Ctrl + X"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ctrl + C is the universal command used to copy selected content.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9845,
+            "question_text": "Which hardware device is primarily used to input textual data?",
+            "options": [
+                "Monitor",
+                "Printer",
+                "Keyboard",
+                "Mouse"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A keyboard is the standard input device used for typing and entering text into a computer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9846,
+            "question_text": "What does CPU stand for?",
+            "options": [
+                "Central Processing Unit",
+                "Computer Processing Utility",
+                "Core Programming Unit",
+                "Central Peripheral Unit"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The Central Processing Unit (CPU) is the main component of a computer that performs instructions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9847,
+            "question_text": "Which storage device is generally considered the fastest for storing OS files?",
+            "options": [
+                "HDD",
+                "Floppy Disk",
+                "SSD",
+                "Magnetic Tape"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Solid State Drives (SSD) provide significantly faster data access and boot times compared to traditional hard disk drives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

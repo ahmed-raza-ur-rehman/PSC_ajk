@@ -1,0 +1,193 @@
+{
+    "category": "PTS",
+    "name": "Subject Specific / Professional Knowledge",
+    "board": "pts",
+    "subject": "subject-specific-professional-knowledge",
+    "url": "/pts/subject-specific-professional-knowledge/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 9848,
+            "question_text": "According to PTS guidelines, what must be attached to the application form?",
+            "options": [
+                "A copy of your passport",
+                "Original bank deposit slip (PTS copy)",
+                "A letter of recommendation",
+                "A copy of your school report card"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Applicants are required to attach the original bank deposit slip (PTS copy) with their application form for verification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9849,
+            "question_text": "In the context of the Sindh Prisons & Corrections Service, what is the required height for male candidates?",
+            "options": [
+                "5 feet",
+                "5 feet 4 inches",
+                "5 feet 5 inches",
+                "5 feet 6 inches"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The minimum physical standard for male candidates in the SPCS recruitment is 5 feet 5 inches.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9851,
+            "question_text": "What is the consequence of failing to provide a Roll Number slip at the test center?",
+            "options": [
+                "Entry is permitted with ID card only",
+                "The candidate is not allowed to take the test",
+                "A fine is imposed",
+                "The candidate can take the test later"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Roll Number slip is a mandatory identification document required to gain entry into the examination hall.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9852,
+            "question_text": "If a candidate is found with a cell phone inside the examination hall, what action is taken?",
+            "options": [
+                "The phone is confiscated, and the candidate is warned",
+                "The candidate is disqualified",
+                "The candidate is asked to switch it off",
+                "No action is taken"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTS strictly prohibits the use of communication devices like cell phones; possession leads to immediate disqualification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9853,
+            "question_text": "According to the Sindh Prisons and Corrections Service (SPCS) standards, what is the minimum height requirement for male candidates?",
+            "options": [
+                "5 feet 4 inches",
+                "5 feet 5 inches",
+                "5 feet 6 inches",
+                "5 feet 7 inches"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The official physical standard for male candidates in the SPCS is a minimum height of 5 feet 5 inches.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9854,
+            "question_text": "What must be included with a PTS application form submission?",
+            "options": [
+                "A copy of your degree only",
+                "The original bank deposit slip (PTS copy)",
+                "A medical certificate",
+                "A personal letter to the chairman"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Candidates are required to attach the original paid bank deposit slip as proof of fee payment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9855,
+            "question_text": "If a candidate is found carrying a mobile phone inside the examination hall, what is the consequence?",
+            "options": [
+                "A warning",
+                "Fine only",
+                "Immediate disqualification",
+                "Deduction of 5 marks"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mobile phones and electronic devices are strictly prohibited, and possession leads to disqualification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9856,
+            "question_text": "What happens if a candidate fails to bring their Roll Number slip to the test center?",
+            "options": [
+                "They will be allowed to write their ID number",
+                "They will not be permitted to enter the examination hall",
+                "They can enter after paying a fine",
+                "They will be given a duplicate slip"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Roll Number slip acts as an identification document; entry is denied without it.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9857,
+            "question_text": "According to PTS guidelines, what happens if a candidate misses the physical test at the designated center?",
+            "options": [
+                "They are automatically hired",
+                "They get another chance only if they contact the head office immediately",
+                "They are marked as failed and usually ineligible for further stages",
+                "The test date is moved for everyone"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Absenteeism usually results in disqualification unless a specific re-scheduling policy is announced by the testing body.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9858,
+            "question_text": "What is the consequence of failing to present the Roll Number slip at the testing center?",
+            "options": [
+                "Allowed to sit with a fee",
+                "Entry will be denied",
+                "Permitted entry after verifying CNIC only",
+                "Allowed to take the test in a separate room"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Roll Number slip acts as the official identification and entry permit for the examination hall.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9859,
+            "question_text": "What is the minimum passing percentage for many screening tests conducted by PTS, such as the one mentioned for PAS?",
+            "options": [
+                "33%",
+                "40%",
+                "50%",
+                "60%"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Many PTS-conducted screening tests, such as those for the Provincial Assembly of Sindh, require a minimum of 50% marks to qualify.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9860,
+            "question_text": "What is the typical time frame to submit a query regarding test results to PTS?",
+            "options": [
+                "Within 3 days",
+                "Within 7 days",
+                "Within 30 days",
+                "Within 24 hours"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTS typically requires result-related queries to be submitted through their contact form within a strict period, often 7 days.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9861,
+            "question_text": "What information should be avoided on a PTS application form to ensure it is not rejected?",
+            "options": [
+                "Clear contact details",
+                "Portable / Mobile numbers",
+                "Correct CNIC information",
+                "Passport size photos"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTS guidelines specifically instruct candidates not to write their personal mobile/portable numbers in the designated fields of the application form.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "category": "University of Engineering and Technology (UET) Lahore",
+    "name": "Mathematics",
+    "board": "university-of-engineering-and-technology-uet-lahore",
+    "subject": "mathematics",
+    "url": "/university-of-engineering-and-technology-uet-lahore/mathematics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 10813,
+            "question_text": "If the roots of the quadratic equation x² - kx + 16 = 0 are equal, find the possible values of k.",
+            "options": [
+                "±4",
+                "±8",
+                "±16",
+                "0"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For equal roots, the discriminant D = b² - 4ac = 0. Here, (-k)² - 4(1)(16) = 0, so k² = 64, k = ±8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10814,
+            "question_text": "Evaluate the limit: lim(x→0) (sin(5x) / 3x).",
+            "options": [
+                "1",
+                "5/3",
+                "3/5",
+                "0"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the fundamental limit theorem lim(θ→0) sin(θ)/θ = 1, multiplying by 5/5 gives (5/3) * lim(x→0) (sin(5x)/5x) = 5/3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10815,
+            "question_text": "If the sum of an infinite geometric series is 12 and the first term is 3, what is the common ratio?",
+            "options": [
+                "1/4",
+                "3/4",
+                "1/2",
+                "2/3"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the sum formula S = a / (1 - r), we have 12 = 3 / (1 - r), which simplifies to 1 - r = 3/12 = 1/4, so r = 3/4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10816,
+            "question_text": "What is the derivative of f(x) = e^(2x) * ln(x)?",
+            "options": [
+                "2e^(2x)ln(x) + e^(2x)/x",
+                "e^(2x)ln(x) + e^(2x)/x",
+                "2e^(2x)ln(x) + x*e^(2x)",
+                "e^(2x)/x"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Using the product rule (uv)' = u'v + uv', where u = e^(2x) and v = ln(x), we get 2e^(2x)ln(x) + e^(2x)(1/x).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10817,
+            "question_text": "Determine the area of the region bounded by y = x^2 and y = 4.",
+            "options": [
+                "32/3",
+                "16/3",
+                "8/3",
+                "64/3"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Area = integral from -2 to 2 of (4 - x^2) dx = [4x - x^3/3] from -2 to 2 = (8 - 8/3) - (-8 + 8/3) = 16/3 + 16/3 = 32/3.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10818,
+            "question_text": "Find the value of the determinant of the matrix [[1, 2], [3, 4]].",
+            "options": [
+                "-2",
+                "2",
+                "10",
+                "-10"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The determinant of [[a, b], [c, d]] is ad - bc. Thus, (1*4) - (2*3) = 4 - 6 = -2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10819,
+            "question_text": "Which of the following functions is an even function?",
+            "options": [
+                "f(x) = x^3",
+                "f(x) = sin(x)",
+                "f(x) = x^2 + cos(x)",
+                "f(x) = x + 1"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A function is even if f(-x) = f(x). For x^2 + cos(x), (-x)^2 + cos(-x) = x^2 + cos(x).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10820,
+            "question_text": "Find the equation of the tangent to the circle x² + y² = 25 at the point (3, 4).",
+            "options": [
+                "3x + 4y = 25",
+                "4x + 3y = 25",
+                "3x + 4y = 5",
+                "x + y = 7"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The equation of tangent at (x1, y1) to circle x² + y² = r² is xx1 + yy1 = r². Substituting (3, 4) and 25, we get 3x + 4y = 25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10821,
+            "question_text": "If f(x) = 3x - 5 and g(x) = x², what is (f ∘ g)(2)?",
+            "options": [
+                "1",
+                "7",
+                "16",
+                "36"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "(f ∘ g)(x) = f(g(x)) = f(x²). Substituting x=2, g(2)=4. Then f(4) = 3(4) - 5 = 7.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10822,
+            "question_text": "How many distinct permutations can be made from the letters of the word 'COMMITTEE'?",
+            "options": [
+                "45,360",
+                "90,720",
+                "362,880",
+                "22,680"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Total letters = 9. Repetitions: M=2, T=2, E=2. Permutations = 9! / (2! * 2! * 2!) = 362,880 / 8 = 45,360.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

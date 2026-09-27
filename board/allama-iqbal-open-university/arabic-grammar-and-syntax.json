@@ -1,0 +1,235 @@
+{
+    "category": "Allama Iqbal Open University",
+    "name": "Arabic Grammar and Syntax",
+    "board": "allama-iqbal-open-university",
+    "subject": "arabic-grammar-and-syntax",
+    "url": "/allama-iqbal-open-university/arabic-grammar-and-syntax/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 16,
+    "questions": [
+        {
+            "id": 12181,
+            "question_text": "Which of the following is considered a 'Harf Jarr' in Arabic?",
+            "options": [
+                "Min",
+                "Kataba",
+                "Rajulun",
+                "Huwa"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Min is a preposition (Harf Jarr) which causes the following noun to be in the genitive case (Majrur).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12182,
+            "question_text": "What is the status (I'rab) of the subject (Mubtada) in a nominal sentence?",
+            "options": [
+                "Mansub",
+                "Majrur",
+                "Marfu",
+                "Majzum"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In Arabic syntax, both the subject (Mubtada) and the predicate (Khabar) are inherently in the nominative case (Marfu).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12183,
+            "question_text": "Which word represents a 'Fi'l Madi' (past tense verb)?",
+            "options": [
+                "Yaktubu",
+                "Iqra",
+                "Dhahaba",
+                "Sayaktubu"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Dhahaba (he went) is a third-person masculine singular past tense verb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12184,
+            "question_text": "Which of the following pronouns is classified as a 'Damir Munfasil' (detached pronoun)?",
+            "options": [
+                "Ka",
+                "Huwa",
+                "Ni",
+                "Hu"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Huwa is a detached pronoun used for the third-person singular masculine, whereas the others are attached suffixes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12185,
+            "question_text": "In the sentence 'Dahaba Muhammadun ila al-masjidi', what is the grammatical state (I'rab) of 'al-masjidi'?",
+            "options": [
+                "Marfu",
+                "Mansub",
+                "Majrur",
+                "Majzum"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The word is preceded by the preposition 'ila', which puts the noun in the genitive (Majrur) case.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12186,
+            "question_text": "Which type of 'Ism' (noun) remains unchanged in its ending regardless of its grammatical position?",
+            "options": [
+                "Mu'rab",
+                "Mabni",
+                "Nakirah",
+                "Marifah"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A 'Mabni' noun has a fixed ending that does not change based on its role in the sentence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12187,
+            "question_text": "What is the plural form of the word 'Qalam' (pen)?",
+            "options": [
+                "Aqlam",
+                "Qalamun",
+                "Qalimat",
+                "Qalama"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Aqlam is the broken plural (Jam' Mukassar) for the word Qalam.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12188,
+            "question_text": "Which letter is used to indicate the future tense in Arabic verb morphology?",
+            "options": [
+                "Qad",
+                "La",
+                "Sawfa",
+                "Ma"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sawfa is a particle used before the present tense verb to indicate future action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12189,
+            "question_text": "Which term describes a noun that is indefinite?",
+            "options": [
+                "Marifah",
+                "Nakirah",
+                "Mudaf",
+                "Sifah"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Nakirah is the grammatical term for an indefinite noun, lacking the definite article 'Al'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12190,
+            "question_text": "What is the dual form (Muthanna) of 'Kitab'?",
+            "options": [
+                "Kitabani",
+                "Kitabayn",
+                "Kitabatayn",
+                "Kitabun"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The suffix 'ani' is added to the singular noun to denote two items in the nominative case.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12191,
+            "question_text": "Which of these is a 'Fi'l Amr' (Imperative verb)?",
+            "options": [
+                "Yaktubu",
+                "Kataba",
+                "Uktub",
+                "Katabtu"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Uktub is the imperative command form of the verb 'to write'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12192,
+            "question_text": "What does the 'Idafa' construction indicate?",
+            "options": [
+                "Possession/Relationship",
+                "Past Action",
+                "Future Tense",
+                "Negation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Idafa creates a relationship between two nouns, often signifying possession (e.g., House of Allah).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12193,
+            "question_text": "Which letter acts as a 'Harf Nida' (vocative particle)?",
+            "options": [
+                "Fi",
+                "Ya",
+                "Ala",
+                "Min"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ya is the standard particle used to call or address someone in Arabic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12194,
+            "question_text": "Which of the following describes a 'Fi'l Mudari' (Imperfect tense verb)?",
+            "options": [
+                "A verb indicating a completed action",
+                "A verb indicating an action in the present or future",
+                "A command verb",
+                "A verb that is indeclinable"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In Arabic, the Mudari verb represents actions occurring in the present or those that will happen in the future.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12195,
+            "question_text": "What is the term for a noun that is defined by the definite article 'Al'?",
+            "options": [
+                "Nakirah",
+                "Marifah",
+                "Sifah",
+                "Mudaf"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A noun prefixed with 'Al-' is considered 'Marifah' (definite), as opposed to 'Nakirah' (indefinite).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12196,
+            "question_text": "Which grammatical case (I'rab) is assigned to the object (Maf'ul Bihi) in a sentence?",
+            "options": [
+                "Raf'",
+                "Jarr",
+                "Nasb",
+                "Jazm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In Arabic syntax, the object upon which the action falls is always in the state of 'Nasb' (accusative).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

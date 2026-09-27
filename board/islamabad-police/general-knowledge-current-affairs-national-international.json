@@ -1,0 +1,361 @@
+{
+    "category": "Islamabad Police",
+    "name": "General Knowledge — Current Affairs (National & International)",
+    "board": "islamabad-police",
+    "subject": "general-knowledge-current-affairs-national-international",
+    "url": "/islamabad-police/general-knowledge-current-affairs-national-international/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 25,
+    "questions": [
+        {
+            "id": 6975,
+            "question_text": "In the context of Pakistani governance and law, which constitutional body has been empowered to oversee the establishment and enforcement of digital security and cybersecurity standards across provincial jurisdictions?",
+            "options": [
+                "The National Cyber Security Agency (NCSA)",
+                "The Federal Investigation Agency (FIA) Cybercrime Wing",
+                "The Ministry of Information Technology and Communications (MoIT&C)",
+                "The Pakistan Telecommunication Authority (PTA)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The NCSA is the designated governmental body responsible for coordinating and enforcing national cybersecurity strategies and standards across the country.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6976,
+            "question_text": "In the context of renewable energy targets, what specific metric measures the ratio of electricity generated from clean sources compared to the total electricity generated?",
+            "options": [
+                "Renewable Energy Share (RES)",
+                "Levelized Cost of Energy (LCOE)",
+                "Capacity Factor (CF)",
+                "System Interconnection Reliability Index (SIRI)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "RES is the specific metric used to quantify the percentage share of clean energy sources (like wind, solar, hydro) in the overall electricity generation mix.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7039,
+            "question_text": "Which international organization recently established the 'Climate Finance Initiative' specifically to channel funding for developing nations' energy transition and resilience?",
+            "options": [
+                "The United Nations Development Programme (UNDP)",
+                "The International Monetary Fund (IMF)",
+                "The World Bank Group (WBG)",
+                "The Asian Development Bank (ADB)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The ADB has recently been highly active in coordinating climate financing specifically targeting energy transition across Asia, making it the most precise answer in this context.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7231,
+            "question_text": "Which international body recently elevated the status of 'Blue Economy' concepts, emphasizing sustainable resource management across coastal regions and maritime sectors?",
+            "options": [
+                "United Nations Economic Commission for Asia and the Pacific (UNESCAP)",
+                "World Trade Organization (WTO)",
+                "Global Coral Reef Initiative (GCRI)",
+                "International Maritime Organization (IMO)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "UNESCAP has played a leading role in promoting Blue Economy frameworks, focusing on the sustainable development of ocean resources and promoting integrated coastal management across Asia and the Pacific.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7232,
+            "question_text": "Which international grouping, primarily focusing on cooperative security and strategic dialogue among its members, includes countries like Armenia, Azerbaijan, and Georgia?",
+            "options": [
+                "SAARC",
+                "Caucasus Initiative Group (CIG)",
+                "SCO",
+                "ASEAN"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Caucasus Initiative Group is a diplomatic mechanism focused on promoting cooperation and dialogue among the nations of the Caucasus region.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7296,
+            "question_text": "Under the framework of the United Nations Framework Convention on Climate Change (UNFCCC), which mechanism is mandated for countries to voluntarily submit their nationally defined targets for greenhouse gas reduction?",
+            "options": [
+                "The Global Carbon Index filings",
+                "The Rio Declaration commitments",
+                "The Kyoto Protocol Amendment submissions",
+                "Nationally Determined Contributions (NDCs)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "NDCs are voluntary, self-defined climate action plans submitted by countries under the Paris Agreement framework.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7359,
+            "question_text": "In international climate negotiations, what is the primary significance of the 'Loss and Damage' fund, established under the framework of the UNFCCC?",
+            "options": [
+                "Governing the setting of international emission targets and mandatory timetables for industrialized countries.",
+                "Establishing global carbon pricing mechanisms to incentivize immediate emissions reductions across all major economies.",
+                "Funding the transition of developed economies toward renewable energy sources by providing subsidies and loans.",
+                "Providing financial assistance to developing nations severely affected by climate change impacts that cannot be avoided or adapted to."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "This fund is designed to compensate vulnerable countries for irreversible climate impacts and losses, particularly for Small Island Developing States (SIDS).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7360,
+            "question_text": "The concept of 'Belt and Road Initiative' (BRI), championed by China, primarily focuses on developing connectivity across which geographical regions?",
+            "options": [
+                "The Mediterranean and Middle East",
+                "The Arctic and Pacific Oceans",
+                "The South Asian and Indian Ocean Rim",
+                "Asia, Europe, and Africa"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The BRI aims to establish physical and digital infrastructure connectivity networks linking China with countries across Asia, Europe, and Africa.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7423,
+            "question_text": "Which of the following nations recently increased its commitment to the concept of 'Green Hydrogen' as a core pillar of its national energy transition strategy, aiming for significant export potential?",
+            "options": [
+                "Saudi Arabia",
+                "UAE",
+                "Indonesia",
+                "Japan"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The UAE has significantly boosted its focus on Green Hydrogen, leveraging its energy infrastructure and global ambitions to become a major exporter.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7424,
+            "question_text": "Which major international body recently revised its criteria for designating 'Least Developed Countries' (LDCs), potentially affecting the classification of several South Asian nations?",
+            "options": [
+                "The International Monetary Fund (IMF)",
+                "The Commonwealth Secretariat",
+                "The World Bank Group (WBG)",
+                "The United Nations Economic and Social Commission (UNESCAP)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "UNESCAP, through UN processes, is primarily responsible for coordinating and revising the LDC criteria. The World Bank and IMF use these classifications but do not determine them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7487,
+            "question_text": "In the context of climate change mitigation and international policy, what does the term 'Net-Zero Emission Target' signify?",
+            "options": [
+                "Shifting energy dependency solely to renewable sources within a decade.",
+                "Balancing the amount of greenhouse gases released with the amount removed from the atmosphere.",
+                "Reducing all industrial emissions to zero by the year 2050.",
+                "Achieving carbon capture rates equal to the total amount of fossil fuels burned."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Net-Zero Emission means reaching a point where the amount of greenhouse gases put into the atmosphere is balanced by the amount taken out, resulting in no net increase.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7488,
+            "question_text": "The concept of 'digital sovereignty' in the context of developing nations, particularly regarding data governance and technology, primarily refers to:",
+            "options": [
+                "Establishing physical borders around major data storage centers (data localization)",
+                "A state's ability to control its domestic data flow and technology infrastructure",
+                "Mandating the use of only local software and hardware manufacturers",
+                "Restricting all foreign investment in the telecommunications sector"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Digital sovereignty refers to a nation's authority to govern its digital space, which includes controlling data flow, technology infrastructure, and ensuring local governance over data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7551,
+            "question_text": "In the context of recent domestic policy discussions, what does the Government of Pakistan's focus on 'Value Addition' primarily aim to achieve in its export sectors?",
+            "options": [
+                "Reducing export tariffs to boost overall competitiveness",
+                "Increasing the sheer volume of goods exported to meet demand",
+                "Shifting exports from raw commodities to finished, specialized goods",
+                "Diversifying export markets solely into Middle Eastern countries"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Value addition means transforming raw or basic materials into complex, higher-value finished goods, thereby increasing export earnings per unit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7667,
+            "question_text": "In the context of Pakistan's national legal and administrative framework, which body is primarily responsible for conducting public examinations and recruitment for various federal government departments?",
+            "options": [
+                "Pakistan Qualifications Authority (PQA)",
+                "Punjab Public Service Commission (PPSC)",
+                "Federal Public Service Commission (FPSC)",
+                "Natsheel Technical Board (NTB)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Federal Public Service Commission (FPSC) is the constitutional body mandated to conduct recruitment and examinations for most federal civil services across Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7873,
+            "question_text": "To maintain macroeconomic stability and address balance of payments crises, which institution primarily advises and sometimes provides short-to-medium-term financial assistance loans to Pakistan?",
+            "options": [
+                "Asian Development Bank (ADB)",
+                "World Bank Group (WB)",
+                "World Trade Organization (WTO)",
+                "International Monetary Fund (IMF)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The International Monetary Fund (IMF) specializes in providing financial assistance and policy advice to countries facing balance of payments difficulties or economic crises.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7919,
+            "question_text": "Within the Pakistani legal framework, the constitutional power that allows the superior courts (Supreme Court and High Courts) to examine the legality and constitutionality of legislative or executive actions is known as:",
+            "options": [
+                "Advisory Jurisdiction",
+                "Reference to the Council of Islamic Ideology",
+                "Writ Petition Filing",
+                "Judicial Review"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Judicial Review is the constitutional principle that empowers the judiciary to examine and potentially nullify laws or actions deemed unconstitutional.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7968,
+            "question_text": "Which international body is primarily responsible for coordinating efforts to combat transboundary crime and ensuring cooperation among member nations in law enforcement?",
+            "options": [
+                "United Nations Development Programme (UNDP)",
+                "Interpol (International Criminal Police Organization)",
+                "Asian Development Bank (ADB)",
+                "World Trade Organization (WTO)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Interpol is the world's largest international police cooperation body, dedicated to coordinating law enforcement efforts against transnational crime.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8019,
+            "question_text": "In the context of regional energy security and geopolitical shifts, which natural gas pipeline aims to connect Central Asian gas reserves directly to the South Asian energy market, bypassing traditional routes?",
+            "options": [
+                "Iran-Pakistan Gas Pipeline (IPGP)",
+                "Central Asia–South Asia Gas Pipeline (CSAG)",
+                "Saleem Gas Pipeline",
+                "TAPI Pipeline"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Central Asia–South Asia Gas Pipeline (CSAG) project is the strategic initiative designed to tap into major gas resources in Kazakhstan, Turkmenistan, and Uzbekistan for the benefit of Pakistan and India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8115,
+            "question_text": "Which of the following recent agreements or developments best reflects the escalating geopolitical competition for mineral resources in the Indo-Pacific region, beyond traditional maritime trade routes?",
+            "options": [
+                "The World Bank's initiative to fund infrastructure development exclusively through microfinance institutions in Southeast Asia.",
+                "The ongoing 'Quad' (Quadrilateral Security Dialogue) focus primarily on democratic values and adherence to international law.",
+                "The joint exploration and development agreements signed by multiple nations in the Clarion-Clipperton Zone (CCZ) for deep-sea polymetallic nodules.",
+                "Increased bilateral defense cooperation between Pakistan and China focused solely on anti-piracy missions in the Gulf of Aden."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The CCZ is a major focus for critical mineral extraction (like manganese, nickel, cobalt), directly symbolizing the global scramble for resources fueling the strategic competition among major powers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8165,
+            "question_text": "Pakistan is currently involved in which major cross-border energy connectivity project aimed at diversifying its power sources and enhancing regional trade?",
+            "options": [
+                "SAARC regional power grid connectivity",
+                "China-Pakistan Economic Corridor (CPEC) only",
+                "Iran-Pakistan Gas Pipeline (IPGP)",
+                "Central Asia-Pakistan Energy Corridors"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While CPEC is crucial, Pakistan's strategic focus for energy diversification includes connecting with Central Asian republics (e.g., Afghanistan/Tajikistan routes) to reduce reliance on single sources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8215,
+            "question_text": "As of recent reports, which neighboring country has significantly increased its focus and investment in developing deep-sea port infrastructure and maritime trade routes in the Arabian Sea?",
+            "options": [
+                "Afghanistan",
+                "Oman",
+                "Iran",
+                "Yemen"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Oman has been actively developing its port facilities, notably Salalah and Duqm, to enhance its role as a key maritime trade hub in the Arabian Sea.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8263,
+            "question_text": "What major international agreement sets binding targets for reducing greenhouse gas emissions, encouraging global action to limit global warming?",
+            "options": [
+                "Copenhagen Accord",
+                "Paris Agreement",
+                "Montreal Protocol",
+                "Kyoto Protocol"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Paris Agreement requires signatories to set Nationally Determined Contributions (NDCs) to limit global warming, replacing the voluntary nature of earlier accords.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8363,
+            "question_text": "The debate surrounding the constitutional status of local government in Pakistan often refers to which fundamental article or body aiming for decentralized authority?",
+            "options": [
+                "The Federal Council (Article 23)",
+                "The Local Government Act (LGA) of 2013",
+                "The constitutional mandate enshrined in Article 170",
+                "The 18th Amendment to the Constitution"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While the 18th Amendment facilitated provincial autonomy, the Local Government Act (LGA) 2013 provides the specific operational framework and detailed authority necessary for implementing decentralized local governance structures in Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20302,
+            "question_text": "In the context of Pakistan's current institutional reforms, which federal body is primarily responsible for regulating and standardizing the practice of legal education and professional lawyering?",
+            "options": [
+                "Pakistan Legal Circle (PLC)",
+                "Law Council of Pakistan (LCP)",
+                "Higher Education Commission (HEC)",
+                "Pakistan Bar Councils Association (PBCA)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Law Council of Pakistan (LCP) is the main regulatory body tasked with maintaining ethical standards, regulating legal practice, and overseeing the enrollment of advocates across various provinces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20479,
+            "question_text": "Pakistan's recent strategic focus on space applications and remote sensing technology development is primarily spearheaded by which government-affiliated scientific body?",
+            "options": [
+                "Ministry of Science and Technology (MOST)",
+                "Pakistan Space Agency (Supervisory Body)",
+                "National Aeronautics Research Council (NARC)",
+                "Defence Research and Development Organisation (DRDO)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Pakistan Space Agency (Supervisory Body) is the governmental entity responsible for leading and coordinating all national space science and technology initiatives.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

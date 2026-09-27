@@ -1,0 +1,109 @@
+{
+    "category": "University of Karachi",
+    "name": "Faculty of Management and Administrative Sciences",
+    "board": "university-of-karachi",
+    "subject": "faculty-of-management-and-administrative-sciences",
+    "url": "/university-of-karachi/faculty-of-management-and-administrative-sciences/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 10608,
+            "question_text": "According to Maslow's Hierarchy of Needs, which level represents the highest human potential?",
+            "options": [
+                "Safety needs",
+                "Esteem needs",
+                "Self-actualization",
+                "Social needs"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Self-actualization is the top level of Maslow's hierarchy, representing the desire to fulfill one's full potential.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10609,
+            "question_text": "According to Porter's Five Forces, which of the following is considered a competitive force?",
+            "options": [
+                "Government policy",
+                "Threat of new entrants",
+                "Organizational culture",
+                "Inflation rate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Porter's Five Forces model includes the threat of new entrants, bargaining power of buyers, bargaining power of suppliers, threat of substitutes, and competitive rivalry.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10610,
+            "question_text": "What is the term for a financial statement that reports a company's financial performance over a specific accounting period?",
+            "options": [
+                "Balance Sheet",
+                "Income Statement",
+                "Cash Flow Statement",
+                "Trial Balance"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The income statement (or profit and loss statement) shows revenues, expenses, and net income over a period of time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10611,
+            "question_text": "What is the 'Break-even Point' in managerial accounting?",
+            "options": [
+                "The point where profit is maximized",
+                "The point where total revenue equals total costs",
+                "The point where variable costs are eliminated",
+                "The point where marginal utility is zero"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The break-even point is the level of sales at which a company makes neither a profit nor a loss.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10612,
+            "question_text": "Which leadership style involves a leader who empowers employees to make decisions with minimal interference?",
+            "options": [
+                "Autocratic",
+                "Laissez-faire",
+                "Transactional",
+                "Bureaucratic"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Laissez-faire leadership is a hands-off approach where leaders provide little direction, leaving decision-making to the employees.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10613,
+            "question_text": "In SWOT analysis, what does the 'T' represent?",
+            "options": [
+                "Tactics",
+                "Targets",
+                "Threats",
+                "Transitions"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SWOT stands for Strengths, Weaknesses, Opportunities, and Threats; 'Threats' refer to external factors that could harm the organization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10614,
+            "question_text": "Which management theory emphasizes the importance of social relations and group dynamics in the workplace?",
+            "options": [
+                "Scientific Management",
+                "Human Relations Movement",
+                "Bureaucratic Theory",
+                "Classical Management"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Human Relations Movement highlights that worker productivity is highly influenced by social factors and group cohesion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

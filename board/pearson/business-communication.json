@@ -1,0 +1,151 @@
+{
+    "category": "Pearson",
+    "name": "Business Communication",
+    "board": "pearson",
+    "subject": "business-communication",
+    "url": "/pearson/business-communication/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13152,
+            "question_text": "Which type of communication involves the exchange of information within an organization but across different departments?",
+            "options": [
+                "Downward communication",
+                "Upward communication",
+                "Horizontal communication",
+                "Diagonal communication"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Horizontal (or lateral) communication occurs between peers or departments at the same level of the organizational hierarchy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13153,
+            "question_text": "What is the '7Cs' principle of effective communication that emphasizes the use of specific facts and figures?",
+            "options": [
+                "Clarity",
+                "Conciseness",
+                "Concreteness",
+                "Courtesy"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Concreteness in communication means being specific, definite, and vivid rather than vague and general.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13154,
+            "question_text": "What is the purpose of 'Feedback' in the communication process?",
+            "options": [
+                "To create noise",
+                "To confirm the receiver understood the message",
+                "To filter the original message",
+                "To end the communication prematurely"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Feedback ensures that the intended meaning was conveyed and understood by the recipient.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13155,
+            "question_text": "Which type of communication involves messages moving from lower levels of the hierarchy to higher levels?",
+            "options": [
+                "Downward communication",
+                "Horizontal communication",
+                "Upward communication",
+                "Diagonal communication"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Upward communication flows from employees to managers, often providing reports or feedback.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13156,
+            "question_text": "Which of the following is considered a 'Non-verbal' communication barrier?",
+            "options": [
+                "Jargon in a report",
+                "Poor eye contact during a presentation",
+                "Grammatical errors in an email",
+                "Language differences"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Body language, eye contact, and gestures are forms of non-verbal communication.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13157,
+            "question_text": "What is the 'Grapevine' in an organizational context?",
+            "options": [
+                "The official chain of command",
+                "The informal communication network within an organization",
+                "A software for team collaboration",
+                "The process of external press releases"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The grapevine is the unofficial, informal channel through which rumors and information spread among employees.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13158,
+            "question_text": "In effective communication, what does 'Conciseness' mean?",
+            "options": [
+                "Using as many words as possible",
+                "Using simple words and being direct",
+                "Including all possible details regardless of length",
+                "Writing in a complex style to sound professional"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Conciseness means conveying the message using the fewest words possible without sacrificing clarity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13159,
+            "question_text": "What is the main purpose of a 'Memo' in a professional setting?",
+            "options": [
+                "To advertise to external clients",
+                "To provide formal internal communication for specific updates",
+                "To sign legal contracts",
+                "To record daily personal thoughts"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Memos are primarily used for internal business communication to inform staff about policy changes, meeting details, or internal reports.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13160,
+            "question_text": "Which communication channel is best suited for complex and sensitive internal matters?",
+            "options": [
+                "Face-to-face meeting",
+                "Instant messaging",
+                "Mass email",
+                "Social media announcement"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Face-to-face communication allows for non-verbal cues and immediate feedback, which are essential for complex or sensitive topics.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13161,
+            "question_text": "What is 'Filtering' in the context of organizational communication?",
+            "options": [
+                "Blocking spam emails",
+                "Manipulating information so it appears more favorable to the receiver",
+                "Sorting employees into departments",
+                "The process of deleting old records"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Filtering is a common barrier where a sender withholds or alters information to make it look better to their supervisor.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

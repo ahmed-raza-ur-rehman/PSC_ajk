@@ -1,0 +1,193 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Basic Arithmetic",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "basic-arithmetic",
+    "url": "/national-cybercrime-investigation-agency/basic-arithmetic/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 14418,
+            "question_text": "What is 15% of 240?",
+            "options": [
+                "30",
+                "36",
+                "40",
+                "45"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To find 15% of 240, calculate (15 / 100) * 240 = 0.15 * 240 = 36.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14419,
+            "question_text": "If a car travels at a speed of 60 km/h, how long will it take to cover a distance of 180 km?",
+            "options": [
+                "2 hours",
+                "2.5 hours",
+                "3 hours",
+                "4 hours"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Time = Distance / Speed. Therefore, Time = 180 / 60 = 3 hours.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14420,
+            "question_text": "Simplify the following expression: 45 ÷ 5 + 3 × 2 - 4",
+            "options": [
+                "11",
+                "13",
+                "15",
+                "17"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Following order of operations (PEMDAS/BODMAS): 45 ÷ 5 = 9; 3 × 2 = 6. Expression becomes 9 + 6 - 4 = 15 - 4 = 11.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14421,
+            "question_text": "Find the average of the following numbers: 12, 15, 18, 22, and 28.",
+            "options": [
+                "17",
+                "18",
+                "19",
+                "20.2"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Sum of the numbers = 12 + 15 + 18 + 22 + 28 = 95. Average = 95 / 5 = 19.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14422,
+            "question_text": "What is the next number in the sequence: 2, 6, 12, 20, 30, ...?",
+            "options": [
+                "40",
+                "42",
+                "46",
+                "48"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The differences between consecutive terms form an arithmetic progression: +4, +6, +8, +10. The next difference is +12, so 30 + 12 = 42.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14423,
+            "question_text": "If a shirt costs $40 and is on sale for 20% off, what is the sale price?",
+            "options": [
+                "$30",
+                "$32",
+                "$35",
+                "$38"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "20% of $40 is $8. Subtracting $8 from $40 gives a sale price of $32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14424,
+            "question_text": "Solve for x: 3x + 7 = 22",
+            "options": [
+                "x = 3",
+                "x = 5",
+                "x = 7",
+                "x = 9"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 7 from both sides to get 3x = 15, then divide by 3 to get x = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14425,
+            "question_text": "What is the least common multiple (LCM) of 4, 6, and 8?",
+            "options": [
+                "12",
+                "16",
+                "24",
+                "48"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "24 is the smallest positive integer that is perfectly divisible by 4, 6, and 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14426,
+            "question_text": "A rectangular garden has a length of 12 meters and a width of 5 meters. What is its perimeter?",
+            "options": [
+                "34 meters",
+                "60 meters",
+                "17 meters",
+                "24 meters"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Perimeter = 2 * (Length + Width) = 2 * (12 + 5) = 2 * 17 = 34 meters.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14427,
+            "question_text": "What is 3/4 converted to a percentage?",
+            "options": [
+                "65%",
+                "70%",
+                "75%",
+                "80%"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Multiplying 3/4 by 100 gives 75%.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14428,
+            "question_text": "If 5 workers can complete a task in 10 days, how many days will it take 10 workers to complete the same task, working at the same rate?",
+            "options": [
+                "20 days",
+                "10 days",
+                "5 days",
+                "2.5 days"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This is an inverse proportion: (5 workers * 10 days) = 50 worker-days. 50 / 10 workers = 5 days.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14440,
+            "question_text": "What is the square root of 144 plus 5 squared?",
+            "options": [
+                "31",
+                "37",
+                "29",
+                "17"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Square root of 144 is 12, and 5 squared is 25. 12 + 25 = 37.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14441,
+            "question_text": "What is the value of 2 to the power of 5?",
+            "options": [
+                "16",
+                "32",
+                "64",
+                "128"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "2^5 = 2 × 2 × 2 × 2 × 2 = 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

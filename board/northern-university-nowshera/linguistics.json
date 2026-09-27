@@ -1,0 +1,193 @@
+{
+    "category": "Northern University, Nowshera",
+    "name": "Linguistics",
+    "board": "northern-university-nowshera",
+    "subject": "linguistics",
+    "url": "/northern-university-nowshera/linguistics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 13987,
+            "question_text": "Which branch of linguistics studies the internal structure of words and how they are formed?",
+            "options": [
+                "Syntax",
+                "Phonology",
+                "Morphology",
+                "Semantics"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Morphology is the study of morphemes, the smallest units of meaning in a language, and how they combine to form words.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13988,
+            "question_text": "What does the 'Sapir-Whorf Hypothesis' suggest about the relationship between language and thought?",
+            "options": [
+                "Language is a biological instinct.",
+                "The structure of a language influences the way its speakers perceive the world.",
+                "All languages share a universal grammar.",
+                "Thought processes are completely independent of linguistic structures."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Sapir-Whorf hypothesis, or linguistic relativity, posits that the language we speak shapes our cognitive processes and worldview.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13989,
+            "question_text": "Which term describes the smallest unit of sound in a language that can distinguish one word from another?",
+            "options": [
+                "Morpheme",
+                "Phoneme",
+                "Grapheme",
+                "Allophone"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A phoneme is the smallest distinctive unit of sound in a language; for example, the difference between 'pat' and 'bat' is the phoneme /p/ vs /b/.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13990,
+            "question_text": "What does the 'Critical Period Hypothesis' in second language acquisition suggest?",
+            "options": [
+                "Language must be learned after puberty",
+                "There is a biological limit for effortless language acquisition",
+                "Language is solely determined by social environment",
+                "Grammar is more important than vocabulary"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The hypothesis posits that there is an optimal age range for acquiring a language natively, after which it becomes significantly more difficult.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13991,
+            "question_text": "What is the study of how context influences the interpretation of meaning called?",
+            "options": [
+                "Syntax",
+                "Semantics",
+                "Pragmatics",
+                "Phonology"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Pragmatics deals with how language is used in social contexts and how implied meanings are derived from utterances.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13992,
+            "question_text": "In morphology, what is an 'infix'?",
+            "options": [
+                "A bound morpheme added to the end of a word",
+                "A bound morpheme inserted into the middle of a root",
+                "A free morpheme standing alone",
+                "A morpheme added to the beginning of a word"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An infix is a type of affix that is placed inside the root of a word to change its grammatical category or meaning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13993,
+            "question_text": "Which linguistic term refers to the study of the relationship between language and society?",
+            "options": [
+                "Psycholinguistics",
+                "Sociolinguistics",
+                "Applied Linguistics",
+                "Historical Linguistics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Sociolinguistics examines how factors like class, gender, and geography influence language use and variation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13994,
+            "question_text": "What is a 'free morpheme'?",
+            "options": [
+                "A word that can stand alone as an independent word",
+                "A grammatical particle that has no meaning",
+                "A sound that cannot be broken down further",
+                "A prefix that alters the tense of a verb"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A free morpheme functions as a word in its own right, whereas bound morphemes must be attached to other words.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13995,
+            "question_text": "In phonetics, what is the 'place of articulation' for the sound /p/?",
+            "options": [
+                "Alveolar",
+                "Velar",
+                "Bilabial",
+                "Labiodental"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The sound /p/ is produced by bringing both lips together, making it a bilabial consonant.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13996,
+            "question_text": "What is the study of language change over time called?",
+            "options": [
+                "Synchronic linguistics",
+                "Diachronic linguistics",
+                "Sociolinguistics",
+                "Psycholinguistics"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Diachronic linguistics examines the historical development of languages and how they evolve over various periods.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13997,
+            "question_text": "Which process describes the creation of a new word by clipping part of an existing word (e.g., 'gym' from 'gymnasium')?",
+            "options": [
+                "Compounding",
+                "Blending",
+                "Clipping",
+                "Back-formation"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Clipping involves shortening a word to a shorter form while keeping the same meaning.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13998,
+            "question_text": "What does the 'Pragmatics' branch of linguistics focus on?",
+            "options": [
+                "The literal meaning of sentences",
+                "The sound patterns of language",
+                "The meaning of language as it is used in social contexts",
+                "The grammatical structure of sentences"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Pragmatics investigates how context, intent, and social interactions influence the interpretation of meaning beyond the literal words.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13999,
+            "question_text": "What is a 'phoneme'?",
+            "options": [
+                "A unit of meaning",
+                "A unit of sound that changes word meaning",
+                "A structural rule of syntax",
+                "The written representation of a sound"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A phoneme is the smallest distinctive unit of sound in a language that can distinguish one word from another (e.g., /p/ vs /b/ in 'pat' and 'bat').",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

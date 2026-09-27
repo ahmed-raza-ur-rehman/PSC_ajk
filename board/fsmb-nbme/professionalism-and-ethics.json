@@ -1,0 +1,207 @@
+{
+    "category": "FSMB / NBME",
+    "name": "Professionalism and Ethics",
+    "board": "fsmb-nbme",
+    "subject": "professionalism-and-ethics",
+    "url": "/fsmb-nbme/professionalism-and-ethics/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 14,
+    "questions": [
+        {
+            "id": 9637,
+            "question_text": "A patient refuses a life-saving blood transfusion due to religious beliefs. As a physician, what is the most appropriate action?",
+            "options": [
+                "Perform the transfusion against their will",
+                "Respect the patient's autonomy and discuss alternatives",
+                "Ask the family to force the patient to agree",
+                "Discharge the patient immediately"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Competent adult patients have the right to refuse medical treatment based on their personal or religious beliefs, even if it is life-saving.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9638,
+            "question_text": "You notice a colleague appears to be impaired while on duty. What is your primary ethical obligation?",
+            "options": [
+                "Ignore it to avoid conflict",
+                "Report the concern to the appropriate supervisor or medical board",
+                "Confront the colleague privately and tell them to quit",
+                "Discuss the situation with other colleagues to spread the word"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Patient safety is the priority; reporting an impaired colleague is necessary to prevent potential harm to patients.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9639,
+            "question_text": "A patient asks you to keep their terminal diagnosis a secret from their family. What should you do?",
+            "options": [
+                "Tell the family immediately",
+                "Respect the patient's confidentiality",
+                "Ask the family to leave the room and then explain",
+                "Consult the hospital ethics committee"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Confidentiality is a fundamental duty; the physician must honor the patient's request unless harm is imminent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9640,
+            "question_text": "A patient with decisional capacity refuses a life-saving procedure. What is the correct response?",
+            "options": [
+                "Perform the procedure anyway",
+                "Respect the patient's autonomy",
+                "Seek a court order",
+                "Force the family to convince the patient"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Competent patients have the legal and ethical right to refuse any medical treatment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9641,
+            "question_text": "What is the 'good samaritan' law intended to do?",
+            "options": [
+                "Protect doctors from malpractice when providing emergency care",
+                "Increase medical bill transparency",
+                "Mandate patient follow-ups",
+                "Ensure insurance coverage for everyone"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "These laws provide immunity from civil liability to those who offer emergency assistance in good faith.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9642,
+            "question_text": "When a medical error occurs that harms a patient, what is the best practice?",
+            "options": [
+                "Hide the error to prevent lawsuits",
+                "Blame a colleague",
+                "Disclose the error to the patient and apologize",
+                "Wait for the patient to notice before speaking"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Transparency and honesty are required by medical ethics codes following adverse events.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9643,
+            "question_text": "A pharmaceutical representative offers you an expensive gift in exchange for prescribing their drug. What is the ethical action?",
+            "options": [
+                "Accept the gift if it is small",
+                "Decline the gift as it poses a conflict of interest",
+                "Accept the gift but donate it to charity",
+                "Accept the gift only if you already use the drug"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Gifts from pharmaceutical companies can bias clinical judgment and are discouraged or banned.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9644,
+            "question_text": "Which principle describes the obligation to 'do no harm'?",
+            "options": [
+                "Beneficence",
+                "Autonomy",
+                "Non-maleficence",
+                "Justice"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Non-maleficence requires physicians to minimize harm to their patients.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9645,
+            "question_text": "A researcher conducts a study without obtaining informed consent. Which ethical principle is violated?",
+            "options": [
+                "Autonomy",
+                "Beneficence",
+                "Justice",
+                "Fidelity"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Informed consent is the practical application of respecting a participant's autonomy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9646,
+            "question_text": "When resources are limited, which principle dictates fair distribution?",
+            "options": [
+                "Autonomy",
+                "Justice",
+                "Beneficence",
+                "Non-maleficence"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Justice refers to the fair and equitable allocation of health resources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9647,
+            "question_text": "If you suspect a minor is being abused, what is your legal requirement?",
+            "options": [
+                "Discuss it with the parents",
+                "Wait for more evidence",
+                "Mandatory reporting to authorities",
+                "Keep it confidential"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Physicians are mandatory reporters of suspected child abuse.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9648,
+            "question_text": "What does a 'Living Will' specifically address?",
+            "options": [
+                "The distribution of assets after death",
+                "The patient's preferences for end-of-life care",
+                "The appointment of a primary doctor",
+                "Insurance coverage details"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A living will documents a patient's wishes regarding medical treatment when they are no longer able to express them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9650,
+            "question_text": "Is it ethical to treat a family member for a chronic medical condition?",
+            "options": [
+                "Yes, it is always encouraged",
+                "Generally discouraged due to lack of objectivity",
+                "Only if they have insurance",
+                "Only for emergency situations"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Professional boundaries are difficult to maintain when treating close family members.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9651,
+            "question_text": "What is the primary purpose of informed consent?",
+            "options": [
+                "To protect the physician from lawsuits",
+                "To ensure the patient understands the risks, benefits, and alternatives",
+                "To allow the patient to ask for a refund",
+                "To document the patient's financial status"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Informed consent ensures that the patient makes a decision based on all necessary information.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

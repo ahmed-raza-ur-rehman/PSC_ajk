@@ -1,0 +1,165 @@
+{
+    "category": "NTS",
+    "name": "English",
+    "board": "nts",
+    "subject": "english",
+    "url": "/nts/english/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 13548,
+            "question_text": "Identify the word that is most nearly opposite in meaning to 'Prudent'.",
+            "options": [
+                "Wise",
+                "Reckless",
+                "Cautious",
+                "Frugal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Prudent implies acting with or showing care and thought for the future; reckless is the direct opposite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13549,
+            "question_text": "Choose the correct sentence: 'Neither the manager nor the employees ___ aware of the new policy.'",
+            "options": [
+                "was",
+                "were",
+                "has been",
+                "is"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In 'neither/nor' constructions, the verb agrees with the subject closest to it (employees), which is plural.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13550,
+            "question_text": "Choose the correct spelling:",
+            "options": [
+                "Accomodation",
+                "Accommodation",
+                "Acommodation",
+                "Acomodation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The correct spelling requires double 'c' and double 'm'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13551,
+            "question_text": "Which word is a synonym for 'Ephemeral'?",
+            "options": [
+                "Permanent",
+                "Fleeting",
+                "Expensive",
+                "Ancient"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ephemeral means lasting for a very short time, which is synonymous with fleeting.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13552,
+            "question_text": "Identify the part of speech for the word 'quickly' in the sentence: 'She ran quickly to the store.'",
+            "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Verb"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quickly modifies the verb 'ran', making it an adverb.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13553,
+            "question_text": "Complete the sentence: 'The team ___ working on the project for weeks.'",
+            "options": [
+                "have been",
+                "has been",
+                "is been",
+                "were being"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Team acts as a singular collective noun in this context, requiring 'has been'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13554,
+            "question_text": "Identify the sentence with the correct punctuation:",
+            "options": [
+                "Its time to go, said John.",
+                "It's time to go, said John.",
+                "It is time to go; said John.",
+                "Its time to go - said John."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "It's is the contraction for 'it is', and the comma is used correctly to introduce speech.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13555,
+            "question_text": "Select the correct sentence:",
+            "options": [
+                "Each of the students have finished the assignment.",
+                "Each of the students has finished the assignment.",
+                "Each of the students are finished the assignment.",
+                "Each of the students finish the assignment."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Each' is a singular subject, requiring the singular verb 'has'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13556,
+            "question_text": "Which word is a synonym for 'Meticulous'?",
+            "options": [
+                "Careless",
+                "Thorough",
+                "Fast",
+                "Angry"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Meticulous means showing great attention to detail, which is synonymous with being thorough.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13557,
+            "question_text": "Identify the gerund in the sentence: 'Running is his favorite hobby.'",
+            "options": [
+                "Running",
+                "is",
+                "favorite",
+                "hobby"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A gerund is a verb ending in -ing that functions as a noun. Here, 'Running' is the subject.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13558,
+            "question_text": "Choose the correct preposition: 'He is interested ___ learning accounting.'",
+            "options": [
+                "at",
+                "on",
+                "in",
+                "to"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The standard idiomatic expression is 'interested in'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

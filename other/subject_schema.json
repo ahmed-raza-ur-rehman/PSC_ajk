@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "category": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "board": {
+      "type": "string"
+    },
+    "subject": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "totalQuestions": {
+      "type": "number"
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "number"
+          },
+          "question_text": {
+            "type": "string"
+          },
+          "options": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "correct_answer_index": {
+            "type": "number"
+          },
+          "explanation": {
+            "type": "string"
+          },
+          "is_past_paper": {
+            "type": "boolean"
+          },
+          "exam_source": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "question_text",
+          "options",
+          "correct_answer_index",
+          "explanation",
+          "is_past_paper",
+          "exam_source"
+        ]
+      }
+    }
+  },
+  "required": [
+    "category",
+    "name",
+    "board",
+    "subject",
+    "url",
+    "country",
+    "totalQuestions",
+    "questions"
+  ]
+}

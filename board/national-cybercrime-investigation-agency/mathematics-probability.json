@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Mathematics — Probability",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "mathematics-probability",
+    "url": "/national-cybercrime-investigation-agency/mathematics-probability/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14583,
+            "question_text": "Which major international grouping recently held its summit to discuss global economic stability and supply chain resilience?",
+            "options": [
+                "G7",
+                "G20",
+                "SCO",
+                "BRICS"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "BRICS (Brazil, Russia, India, China, South Africa) frequently holds summits focused on reforming global economic structures and addressing Western-centric institutions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

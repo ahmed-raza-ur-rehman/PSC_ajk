@@ -1,0 +1,25 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Pakistan Studies — Geography",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "pakistan-studies-geography",
+    "url": "/national-cybercrime-investigation-agency/pakistan-studies-geography/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 1,
+    "questions": [
+        {
+            "id": 14589,
+            "question_text": "Which biological process is primarily responsible for generating the majority of the Earth's atmosphere's oxygen supply?",
+            "options": [
+                "Volcanic outgassing of gases",
+                "Chemical weathering of rocks",
+                "Photic zone photosynthesis by phytoplankton",
+                "Respiration by animals and plants"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Phytoplankton, microscopic plants in the ocean's photic zone, perform photosynthesis and are the single largest source of global oxygen.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

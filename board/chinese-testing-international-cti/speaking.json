@@ -1,0 +1,109 @@
+{
+    "category": "Chinese Testing International (CTI)",
+    "name": "Speaking",
+    "board": "chinese-testing-international-cti",
+    "subject": "speaking",
+    "url": "/chinese-testing-international-cti/speaking/2026/subject-mcqs",
+    "country": "CN",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 9036,
+            "question_text": "What is required during the entire speaking test for HSK Speaking or YCT Oral?",
+            "options": [
+                "You must use a microphone but no headphones.",
+                "You must wear headphones throughout the test to ensure your voice is clear.",
+                "You are allowed to remove your headphones whenever you like.",
+                "You must take the test in a room with other students speaking at the same time."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The regulations state that candidates must wear headphones for the duration of the speaking exam to maintain audio clarity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9037,
+            "question_text": "Can a candidate leave the room during the speaking test?",
+            "options": [
+                "Yes, if they raise their hand.",
+                "Yes, as long as they return within 5 minutes.",
+                "No, leaving the room during the speaking test will invalidate your results.",
+                "Only if they have a medical emergency and provide a note."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The guidelines explicitly state that candidates are not permitted to leave the room during the speaking test under any circumstances; doing so results in test invalidation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9038,
+            "question_text": "How many levels does the HSK Speaking Test have?",
+            "options": [
+                "Two",
+                "Three",
+                "Four",
+                "Six"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The HSK Speaking Test consists of elementary, intermediate, and advanced levels.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9039,
+            "question_text": "What is the main requirement for candidates during the speaking test recording?",
+            "options": [
+                "Speak as fast as possible",
+                "Ensure the voice is clear",
+                "Read from a provided script",
+                "Use formal business vocabulary only"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Clear audio capture is essential for the assessment of oral ability in the recorded format.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9040,
+            "question_text": "Can a candidate leave the testing room during the speaking test?",
+            "options": [
+                "Yes, if they finish early",
+                "No, leaving results in invalidation",
+                "Yes, with permission",
+                "Yes, during a break"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Leaving the room during the speaking test leads to the invalidation of test results.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9041,
+            "question_text": "Which of the following is an assessed skill in the new HSK format for advanced levels?",
+            "options": [
+                "Translation",
+                "Calligraphy",
+                "Debating",
+                "Poetry writing"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Translation is included as a core language skill in the higher levels of the new HSK 3.0 format.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9042,
+            "question_text": "What is the primary purpose of the YCT Oral test?",
+            "options": [
+                "Business communication",
+                "Academic medical terminology",
+                "Daily academic and life communication for youth",
+                "Advanced literary critique"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "YCT is designed specifically for primary and secondary school students to use Chinese in daily and academic life.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

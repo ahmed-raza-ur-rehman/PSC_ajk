@@ -1,0 +1,137 @@
+{
+    "category": "Ministry of Education (MoE), UAE",
+    "name": "English Language",
+    "board": "ministry-of-education-moe-uae",
+    "subject": "english-language",
+    "url": "/ministry-of-education-moe-uae/english-language/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 9292,
+            "question_text": "Choose the correctly punctuated sentence.",
+            "options": [
+                "She went to the store and bought apples, oranges, and bananas.",
+                "She went to the store, and bought apples oranges and bananas.",
+                "She went to the store and bought apples oranges, and bananas.",
+                "She went to the store and bought apples, oranges and, bananas."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Items in a list should be separated by commas, including the Oxford comma before the conjunction.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9293,
+            "question_text": "Choose the correctly spelled word.",
+            "options": [
+                "Accomodation",
+                "Acommodation",
+                "Accommodation",
+                "Accomodationn"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Accommodation is spelled with double c and double m.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9294,
+            "question_text": "Identify the adjective in the sentence: 'The large elephant walked slowly.'",
+            "options": [
+                "The",
+                "large",
+                "elephant",
+                "slowly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An adjective describes a noun (elephant).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9295,
+            "question_text": "Select the synonym for 'happy'.",
+            "options": [
+                "Sad",
+                "Joyful",
+                "Angry",
+                "Tired"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Joyful is a word with a similar meaning to happy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9296,
+            "question_text": "Choose the sentence with correct punctuation.",
+            "options": [
+                "Where are you going.",
+                "Where are you going?",
+                "Where are you going!",
+                "Where are you going,"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A question sentence requires a question mark at the end.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9297,
+            "question_text": "Which word is spelled correctly?",
+            "options": [
+                "Definite",
+                "Definitt",
+                "Definate",
+                "Definit"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The correct spelling is 'definite'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9298,
+            "question_text": "Identify the adjective in: 'The large elephant walked slowly.'",
+            "options": [
+                "elephant",
+                "large",
+                "walked",
+                "slowly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An adjective describes a noun; 'large' describes the 'elephant'.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9299,
+            "question_text": "Select a synonym for 'happy'.",
+            "options": [
+                "Sad",
+                "Joyful",
+                "Angry",
+                "Tired"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Joyful is a synonym for happy, as both convey positive emotion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9300,
+            "question_text": "Which of these is a noun?",
+            "options": [
+                "Run",
+                "Beautiful",
+                "Table",
+                "Quickly"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A noun is a word that identifies a person, place, or thing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

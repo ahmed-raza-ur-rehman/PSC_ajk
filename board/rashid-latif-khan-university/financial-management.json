@@ -1,0 +1,151 @@
+{
+    "category": "Rashid Latif Khan University",
+    "name": "Financial Management",
+    "board": "rashid-latif-khan-university",
+    "subject": "financial-management",
+    "url": "/rashid-latif-khan-university/financial-management/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 13792,
+            "question_text": "Which of the following is considered a primary goal of financial management?",
+            "options": [
+                "Maximizing total sales revenue",
+                "Maximizing shareholder wealth",
+                "Minimizing employee salaries",
+                "Maximizing short-term liquidity"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The fundamental goal of financial management is to maximize the market value of the firm's shares, thereby maximizing shareholder wealth.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13793,
+            "question_text": "What does a Net Present Value (NPV) of zero indicate for a project?",
+            "options": [
+                "The project will result in a loss",
+                "The project is earning exactly the required rate of return",
+                "The project should be rejected immediately",
+                "The project has infinite profitability"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When NPV is zero, the project's cash flows cover the initial investment and the required return, making it a break-even proposition.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13794,
+            "question_text": "Which ratio measures a company's ability to pay its short-term obligations with its most liquid assets?",
+            "options": [
+                "Current ratio",
+                "Quick ratio",
+                "Debt-to-equity ratio",
+                "Return on assets"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The quick ratio (or acid-test ratio) excludes inventory, providing a more rigorous test of short-term liquidity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13795,
+            "question_text": "What is the primary objective of capital budgeting?",
+            "options": [
+                "To maximize short-term cash flow",
+                "To minimize tax liabilities",
+                "To identify long-term investments that maximize shareholder wealth",
+                "To reduce operating expenses"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Capital budgeting is the process of evaluating investment opportunities that add the most value to the firm.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13796,
+            "question_text": "Which component of the cost of capital is typically the most expensive for a firm?",
+            "options": [
+                "Retained earnings",
+                "Common equity",
+                "Long-term debt",
+                "Preferred stock"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Equity is generally the most expensive because shareholders require a higher return for taking on greater risk compared to debt holders.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13797,
+            "question_text": "Which of the following is an example of an 'agency cost' in financial management?",
+            "options": [
+                "Interest payments on debt",
+                "Costs of monitoring management actions",
+                "Dividends paid to shareholders",
+                "Tax expenses"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Agency costs arise from conflicts of interest between shareholders (principals) and management (agents), requiring expenses to monitor management behavior.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13798,
+            "question_text": "What does a high 'Debt-to-Equity' ratio generally signify for a company?",
+            "options": [
+                "Higher financial risk",
+                "Higher liquidity",
+                "Lower interest expenses",
+                "Higher dividend payouts"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "A high debt-to-equity ratio indicates that a company is heavily financed through debt, which increases financial risk and interest obligations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13799,
+            "question_text": "In capital budgeting, which method considers the time value of money?",
+            "options": [
+                "Payback Period",
+                "Accounting Rate of Return",
+                "Internal Rate of Return",
+                "Average Return on Investment"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Internal Rate of Return (IRR) is a discounted cash flow method, meaning it explicitly accounts for the time value of money, unlike the standard Payback Period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13800,
+            "question_text": "What is the primary function of the 'Working Capital Management'?",
+            "options": [
+                "Managing long-term debt levels",
+                "Optimizing current assets and current liabilities",
+                "Determining dividend policy",
+                "Evaluating capital investment projects"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Working capital management focuses on balancing current assets and liabilities to ensure a company has enough cash flow for day-to-day operations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 13801,
+            "question_text": "Which financial statement provides a snapshot of a company's financial position at a specific point in time?",
+            "options": [
+                "Income Statement",
+                "Cash Flow Statement",
+                "Balance Sheet",
+                "Statement of Changes in Equity"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Balance Sheet reports assets, liabilities, and equity at a specific date, whereas other statements cover a period of time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "category": "AQA",
+    "name": "Economics",
+    "board": "aqa",
+    "subject": "economics",
+    "url": "/aqa/economics/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 4,
+    "questions": [
+        {
+            "id": 8833,
+            "question_text": "What does the term 'scarcity' refer to in economics?",
+            "options": [
+                "The high cost of luxury goods",
+                "Limited resources available to meet unlimited wants",
+                "The decrease in price of a product",
+                "The surplus of goods in a warehouse"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scarcity is the fundamental economic problem of having seemingly unlimited human wants in a world of limited resources.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8834,
+            "question_text": "What is the definition of 'scarcity' in economics?",
+            "options": [
+                "The high cost of luxury items",
+                "The fundamental problem of having unlimited wants but limited resources",
+                "A period where businesses stop producing goods",
+                "The lack of competition in a market"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scarcity exists because resources are finite while human desires are theoretically infinite.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8835,
+            "question_text": "What is the fundamental meaning of 'scarcity' in economics?",
+            "options": [
+                "That products are always too expensive",
+                "That there are limited resources to meet unlimited human wants",
+                "That businesses are failing to grow",
+                "That money is difficult to find"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Scarcity is the basic economic problem where wants exceed the available resources, forcing people to make choices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8836,
+            "question_text": "What is the term for an increase in the general price level of goods and services?",
+            "options": [
+                "Deflation",
+                "Recession",
+                "Inflation",
+                "Growth"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Inflation occurs when the purchasing power of money falls as the general price level of goods and services rises.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

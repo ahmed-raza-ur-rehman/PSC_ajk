@@ -1,0 +1,109 @@
+{
+    "category": "ETS (Educational Testing Service)",
+    "name": "Speaking",
+    "board": "ets-educational-testing-service",
+    "subject": "speaking",
+    "url": "/ets-educational-testing-service/speaking/2026/subject-mcqs",
+    "country": "US",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 9408,
+            "question_text": "What task is involved in the TOEFL iBT Speaking section?",
+            "options": [
+                "Writing an email about a topic.",
+                "Listening to a conversation and taking notes.",
+                "Listening and repeating, and taking an interview.",
+                "Completing missing words in a sentence."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The test structure overview table lists 'Listen and Repeat' and 'Take an Interview' as the tasks for the Speaking section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9409,
+            "question_text": "How can test takers ensure they answer Speaking questions correctly?",
+            "options": [
+                "By memorizing all possible question prompts.",
+                "By reviewing what questions ask and what raters look for.",
+                "By speaking as quickly as possible.",
+                "By ignoring the rater's expectations and focusing only on vocabulary."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The FAQ section suggests that test takers should understand what the questions ask and what raters look for to perform well.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9410,
+            "question_text": "What is a core task of the Speaking section?",
+            "options": [
+                "Singing a song",
+                "Taking an interview",
+                "Writing a speech",
+                "Reading a novel"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Taking an interview is one of the designated task types for the Speaking section of the test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9411,
+            "question_text": "What does 'Listen and Repeat' involve?",
+            "options": [
+                "Listening to an audio clip and saying it back",
+                "Listening to a movie and writing the script",
+                "Watching a video and dancing",
+                "Reading a text silently"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This task measures listening comprehension and pronunciation/fluency by having the student repeat what they heard.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9412,
+            "question_text": "Approximately how long is the Speaking section?",
+            "options": [
+                "2 hours",
+                "8 minutes",
+                "29 minutes",
+                "23 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to the test overview table, the approximate base time for the Speaking section is 8 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9413,
+            "question_text": "What is the best way to prepare for Speaking questions?",
+            "options": [
+                "Memorize answers",
+                "Understand what the question asks and what raters look for",
+                "Speak as fast as possible",
+                "Only talk about yourself"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Understanding the criteria and the prompt ensures that your response effectively demonstrates your English proficiency.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9414,
+            "question_text": "How many items are in the Speaking section?",
+            "options": [
+                "11",
+                "50",
+                "47",
+                "12"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The test section table indicates that there are 11 items in the Speaking section.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

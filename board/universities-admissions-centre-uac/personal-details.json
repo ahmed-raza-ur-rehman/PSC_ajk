@@ -1,0 +1,165 @@
+{
+    "category": "Universities Admissions Centre (UAC)",
+    "name": "Personal Details",
+    "board": "universities-admissions-centre-uac",
+    "subject": "personal-details",
+    "url": "/universities-admissions-centre-uac/personal-details/2026/subject-mcqs",
+    "country": "AU",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 9184,
+            "question_text": "Why must the name you enter in your UAC application match the name on your official identification?",
+            "options": [
+                "To speed up the application processing time",
+                "To prevent issues during the university enrolment process",
+                "To ensure your ATAR is calculated correctly",
+                "To allow UAC to verify your email address"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Official ID must match your application name to ensure a smooth transition when you officially enrol at a university.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9185,
+            "question_text": "What should you do if you have a change of name and have studied under a previous name?",
+            "options": [
+                "You do not need to do anything",
+                "Contact your high school only",
+                "Provide documentary evidence like a marriage certificate or deed poll registration",
+                "Email a copy of your driver's license to the university"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "You must supply proof of your name change so your academic records can be correctly matched to your application.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9186,
+            "question_text": "Why must the name you provide in your UAC application be the same as the name on your official identification documents?",
+            "options": [
+                "To ensure there are no issues during the enrolment process",
+                "To help UAC organize emails more efficiently",
+                "To prevent the application from being too long",
+                "To allow UAC to assign you a random student number"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "UAC requires the name on the application to match your official ID to avoid problems when you eventually enrol at a university.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9187,
+            "question_text": "What action should you take if you have previously studied under a different name?",
+            "options": [
+                "Delete all records of your previous name",
+                "Provide evidence of your name change, such as a marriage certificate or deed poll registration",
+                "Only use your current name and ignore previous study history",
+                "Submit a new application for each name you have used"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "If you have studied under a previous name, you must supply documentation proving the name change, such as a marriage certificate or deed poll registration.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9188,
+            "question_text": "What happens if your UAC application remains inactive for 30 minutes?",
+            "options": [
+                "It saves automatically and logs you out",
+                "It will stay logged in indefinitely",
+                "The system automatically logs you out",
+                "It sends a warning email to your registered address"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "For security reasons, the UAC application system will automatically log you out if there is no activity for 30 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9189,
+            "question_text": "Where should you upload documents related to a change of name?",
+            "options": [
+                "In the course preferences section",
+                "At the bottom of the overview landing page under document upload",
+                "By emailing them directly to the university",
+                "In the qualifications section"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Documents related to a change of name should be uploaded by selecting the appropriate document type at the bottom of the application overview landing page.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9190,
+            "question_text": "Why must the name you enter on your UAC application be the same as the one on your official ID?",
+            "options": [
+                "To prevent issues during the university enrolment process",
+                "To qualify for lower application fees",
+                "To automatically update your bank records",
+                "To ensure you receive marketing emails"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "UAC requires your name to match your official identification exactly to avoid problems when you officially enrol in your course.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9191,
+            "question_text": "What happens if your UAC application is left without activity for 30 minutes?",
+            "options": [
+                "It will automatically save and close",
+                "You will be logged out of the application",
+                "Your application will be permanently deleted",
+                "A warning email will be sent to your school"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To protect your information, UAC applications automatically time out and log you out after 30 minutes of inactivity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9192,
+            "question_text": "What is the recommended procedure if you have a legal change of name?",
+            "options": [
+                "Contact your high school and ask them to change it",
+                "Provide documentary evidence of the change, such as a marriage or deed poll certificate",
+                "Simply update your profile name without telling UAC",
+                "Ignore it as long as your school records are current"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "UAC requires official proof of a change of name, such as a marriage certificate or deed poll registration, to update your application records.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9193,
+            "question_text": "Which contact information is critical for receiving offers from UAC?",
+            "options": [
+                "Your parents' email address",
+                "Your school's general office email",
+                "A personal email address that you check regularly",
+                "Your social media profile link"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "UAC communicates important updates and offer notifications via email, so it is vital to provide a personal address you access consistently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9194,
+            "question_text": "What is the primary requirement regarding the name provided in your application?",
+            "options": [
+                "It must be your preferred nickname",
+                "It must match your official identification documents",
+                "It must be your legal name at birth only",
+                "It must contain your middle name"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To ensure your enrolment and records are accurate, the name provided must match your official identification documents exactly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

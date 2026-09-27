@@ -1,0 +1,151 @@
+{
+    "category": "Higher Education Commission (HEC) / Individual Universities",
+    "name": "Humanities and Social Sciences",
+    "board": "higher-education-commission-hec-individual-universities",
+    "subject": "humanities-and-social-sciences",
+    "url": "/higher-education-commission-hec-individual-universities/humanities-and-social-sciences/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 11703,
+            "question_text": "In sociology, what does the 'Looking-Glass Self' concept describe?",
+            "options": [
+                "The way people view themselves through the eyes of others",
+                "The ego's defense mechanism",
+                "An individual's physical reflection in mirrors",
+                "The study of human facial expressions"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Coined by Charles Horton Cooley, it posits that an individual's self-concept is shaped by how they perceive others to view them.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11704,
+            "question_text": "Which philosophical movement emphasizes individual freedom, choice, and responsibility in a seemingly meaningless universe?",
+            "options": [
+                "Utilitarianism",
+                "Existentialism",
+                "Stoicism",
+                "Rationalism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Existentialism focuses on individual agency and the responsibility to create meaning in a world without inherent purpose.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11705,
+            "question_text": "What does the 'invisible hand' theory, proposed by Adam Smith, imply?",
+            "options": [
+                "Government intervention is required for all market transactions",
+                "Individuals acting in their own self-interest can unintentionally promote the social good",
+                "Global trade always leads to economic inequality",
+                "Technology will inevitably replace human labor"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The invisible hand suggests that free-market competition leads to efficient outcomes as individuals pursue their personal interests.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11706,
+            "question_text": "Which historical era is characterized by a 'rebirth' of art, science, and classical philosophy in Europe?",
+            "options": [
+                "The Enlightenment",
+                "The Renaissance",
+                "The Industrial Revolution",
+                "The Medieval Period"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Renaissance was a fervent period of European cultural, artistic, political, and economic 'rebirth' following the Middle Ages.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11707,
+            "question_text": "What is the concept of 'cultural relativism' in anthropology?",
+            "options": [
+                "Believing one's own culture is superior to all others",
+                "Evaluating a person's beliefs and practices based on their own culture rather than judging them by the criteria of another",
+                "The belief that all cultures are identical",
+                "The study of how cultures disappear over time"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Cultural relativism is the principle of regarding the beliefs, values, and practices of a culture from the viewpoint of that culture itself.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11708,
+            "question_text": "Who is credited with the concept of the 'collective unconscious' in psychology?",
+            "options": [
+                "Sigmund Freud",
+                "Carl Jung",
+                "B.F. Skinner",
+                "Abraham Maslow"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Carl Jung proposed the collective unconscious as a part of the unconscious mind shared by all members of the human species.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11709,
+            "question_text": "What refers to the unequal distribution of resources, power, and opportunities in a society?",
+            "options": [
+                "Social stratification",
+                "Globalization",
+                "Democratization",
+                "Urbanization"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Social stratification refers to a society's categorization of its people into rankings of socioeconomic tiers based on factors like wealth, income, and power.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11710,
+            "question_text": "What does the 'Zero-Sum Game' theory in political science suggest?",
+            "options": [
+                "Both sides gain benefits equally",
+                "One participant's gain is exactly balanced by the other participant's loss",
+                "No one wins in a negotiation",
+                "Conflict can be resolved through diplomacy alone"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In a zero-sum game, the total utility of all participants adds up to zero; if one party wins, the other must lose.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11711,
+            "question_text": "Which psychological theory argues that individuals derive a significant portion of their self-concept from their membership in social groups?",
+            "options": [
+                "Cognitive Dissonance Theory",
+                "Social Identity Theory",
+                "Operant Conditioning",
+                "Attachment Theory"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Social Identity Theory posits that people define themselves based on group affiliations, leading to in-group favoritism.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11712,
+            "question_text": "What is the central premise of 'Determinism' in philosophical discourse?",
+            "options": [
+                "Human beings have complete freedom to make choices",
+                "Every event is necessitated by preceding events and the laws of nature",
+                "Morality is subjective to the individual",
+                "God controls all human destiny"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Determinism suggests that all future events are essentially pre-determined by past events and current physical laws, challenging the concept of free will.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

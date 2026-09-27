@@ -1,0 +1,137 @@
+{
+    "category": "Ministry of Education (MoE)",
+    "name": "Grade 12 Equivalency Assessment",
+    "board": "ministry-of-education-moe",
+    "subject": "grade-12-equivalency-assessment",
+    "url": "/ministry-of-education-moe/grade-12-equivalency-assessment/2026/subject-mcqs",
+    "country": "AE",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 9360,
+            "question_text": "What is the purpose of the 'Request for Equivalency of a General Education Certificate' service?",
+            "options": [
+                "To register for a new school",
+                "To confirm the equivalency of a Grade 12 certificate issued by a foreign curriculum institute",
+                "To apply for a teaching job",
+                "To request a copy of a lost diploma"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The service is explicitly for providing a certificate confirming the equivalency of a Grade 12 certificate from a foreign curriculum institute within the UAE.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9361,
+            "question_text": "What is required before an equivalency certificate is issued for a Grade 12 certificate from outside the UAE?",
+            "options": [
+                "A personal interview with the minister",
+                "Verification of the certificate's authenticity and recognition status of the issuing institute",
+                "A physical exam",
+                "A letter from the school principal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The service documentation states that equivalency certificates are issued only after verifying the authenticity of the certificate and the recognition status of the issuing institute.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9362,
+            "question_text": "What is the primary purpose of the 'Request for Equivalency of a General Education Certificate' service?",
+            "options": [
+                "To apply for a teaching job",
+                "To confirm the equivalency of a foreign curriculum Grade 12 certificate",
+                "To get a scholarship to university",
+                "To change a student's name on a certificate"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This service provides an official certificate confirming that a foreign curriculum Grade 12 qualification is equivalent to the UAE system.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9363,
+            "question_text": "What must occur before an equivalency certificate is issued for a Grade 12 certificate from outside the UAE?",
+            "options": [
+                "The student must pass a driving test",
+                "Verification of the certificate's authenticity and recognition status",
+                "The student must attend an interview",
+                "Payment of a lifetime tax"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Ministry must verify the institute's recognition status and the document's authenticity to ensure it meets international standards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9364,
+            "question_text": "Where should a student go for certificate attestation if their private school is in Abu Dhabi?",
+            "options": [
+                "The Ministry of Education main office",
+                "The Knowledge and Human Development Authority",
+                "The Department of Education and Knowledge",
+                "The Sharjah Private Education Authority"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Private schools in Abu Dhabi are handled by the Department of Education and Knowledge (ADEK) for attestation purposes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9365,
+            "question_text": "What is required to use a Grade 12 certificate outside of the UAE after it has been attested?",
+            "options": [
+                "Nothing, the stamp is enough",
+                "Attestation by the Ministry of Foreign Affairs",
+                "A notarized copy from the embassy",
+                "A second degree from a university"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For use outside the country, certificates must be attested by the Ministry of Foreign Affairs after the Ministry of Education's verification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9366,
+            "question_text": "Can a student request a replacement for a lost Grade 12 public school certificate?",
+            "options": [
+                "No, certificates are only issued once",
+                "Yes, the service allows for replacements",
+                "Only if they have a police report",
+                "Only in person at the school"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ministry provides services for issuing new certificates or replacements for lost ones for public school students.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9368,
+            "question_text": "Where should a student go for certificate attestation if their private school is located in Abu Dhabi?",
+            "options": [
+                "Ministry of Education head office",
+                "The Department of Education and Knowledge",
+                "The Knowledge and Human Development Authority",
+                "The local post office"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Private schools in Abu Dhabi are under the jurisdiction of the Department of Education and Knowledge for certificate attestation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9369,
+            "question_text": "What is a prerequisite before an equivalency certificate can be issued for a Grade 12 certificate from abroad?",
+            "options": [
+                "The applicant must be over 21 years old",
+                "The issuing institute must be recognized and the certificate must be verified",
+                "The student must have studied in the UAE for 5 years",
+                "The applicant must pass an English language proficiency test"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Equivalency requires verifying the authenticity of the documents and ensuring the issuing institution is recognized.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

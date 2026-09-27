@@ -1,0 +1,137 @@
+{
+    "category": "Government of Punjab",
+    "name": "Recommendation Letter Review",
+    "board": "government-of-punjab",
+    "subject": "recommendation-letter-review",
+    "url": "/government-of-punjab/recommendation-letter-review/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 9,
+    "questions": [
+        {
+            "id": 11389,
+            "question_text": "Which of the following is considered a hallmark of a high-quality recommendation letter for the Honhaar Scholarship?",
+            "options": [
+                "A generic template with empty fields",
+                "Detailed anecdotes illustrating the student's character and academic potential",
+                "A letter signed by a distant relative",
+                "A one-sentence statement of support"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Specific examples provide context to the applicant's claims, making the recommendation more credible and impactful.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11390,
+            "question_text": "Who is the most appropriate person to provide a recommendation letter for a university scholarship applicant?",
+            "options": [
+                "A neighbor who knows the family well",
+                "An academic advisor or professor who has taught the student",
+                "A classmate who shares the same study group",
+                "A local shopkeeper where the student shops"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Professional recommendations from individuals who have observed the student's academic performance are the most valid.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11391,
+            "question_text": "What is the primary risk of submitting a generic, template-based recommendation letter?",
+            "options": [
+                "It saves time for the recommender",
+                "It fails to provide specific evidence of the applicant's character or potential",
+                "It is preferred by committee members for ease of reading",
+                "It makes the application look more professional"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Committees look for concrete examples and specific insights, which generic letters lack.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11392,
+            "question_text": "When a recommendation letter includes a comparison of the candidate to their peers, what is the value to the committee?",
+            "options": [
+                "It allows the committee to calibrate the applicant’s rank within their class",
+                "It is used to judge the teacher’s favoritism",
+                "It is considered unprofessional to compare students",
+                "It is used to contact the other peers"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Contextualizing an applicant’s performance relative to peers helps the committee understand the candidate’s relative strengths.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11393,
+            "question_text": "Which component of a recommendation letter is most critical for the 'Honhaar' selection criteria?",
+            "options": [
+                "A list of all courses the student took",
+                "A detailed account of the student's personal hobbies",
+                "Specific evidence of the student’s academic discipline and community impact",
+                "The recommender's own academic history"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Honhaar implies 'meritorious' and 'promising'; evidence of discipline and positive impact confirms the student is a worthy investment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11394,
+            "question_text": "What is the consequence of submitting a recommendation letter written by a relative?",
+            "options": [
+                "It is treated as a highly reliable character reference",
+                "It is viewed as a conflict of interest and may damage the application",
+                "It is encouraged if the relative is a teacher",
+                "It has no impact on the application review"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Letters from family members lack the objectivity required for a professional scholarship selection process.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11395,
+            "question_text": "What should be the tone of a professional recommendation letter?",
+            "options": [
+                "Casual and conversational",
+                "Formal, objective, and supportive",
+                "Highly emotional and pleading",
+                "Critical and discouraging"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A professional tone ensures the information is taken seriously and remains focused on the applicant's qualifications.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11396,
+            "question_text": "How should an evaluator interpret a recommendation letter that is exclusively filled with superlative praise without specific examples?",
+            "options": [
+                "As highly credible because of the positive tone",
+                "As less impactful due to a lack of evidence-based support",
+                "As an indicator of a personal friendship between the writer and applicant",
+                "As grounds for immediate disqualification"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Evidence-based anecdotes provide necessary context and credibility to the claims made in a recommendation letter.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11397,
+            "question_text": "What is the primary value of a letter provided by a professional supervisor compared to a teacher?",
+            "options": [
+                "Supervisors are always more senior",
+                "Teachers are not allowed to write letters for scholarships",
+                "It highlights the applicant's ability to apply knowledge in a practical, real-world setting",
+                "It is easier to verify the authenticity of a business email address"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Professional recommendations offer unique insights into the applicant's work ethic, reliability, and practical application of skills.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

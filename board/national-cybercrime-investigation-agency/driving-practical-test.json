@@ -1,0 +1,179 @@
+{
+    "category": "National Cybercrime Investigation Agency",
+    "name": "Driving Practical Test",
+    "board": "national-cybercrime-investigation-agency",
+    "subject": "driving-practical-test",
+    "url": "/national-cybercrime-investigation-agency/driving-practical-test/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 14462,
+            "question_text": "When executing a reverse 'S' parking maneuver in a heavy transport vehicle, what is the primary reference point a driver should rely on?",
+            "options": [
+                "The front bumper alignment with the adjacent vehicle",
+                "The rear axle and the turning radius of the inner rear wheel",
+                "The reflection in the rearview mirror only",
+                "The dashboard speedometer reading"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In large vehicles, tracking the inner rear wheel and rear axle allows the driver to accurately gauge the sweep of the trailer or rear body during complex backing maneuvers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14463,
+            "question_text": "What is the recommended hand position on the steering wheel for optimal control during emergency steering maneuvers?",
+            "options": [
+                "10 and 2 o'clock",
+                "9 and 3 o'clock",
+                "12 o'clock with one hand",
+                "6 and 12 o'clock"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Modern safety standards and airbag deployment guidelines recommend the 9 and 3 o'clock position for maximum leverage and safer steering control.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14464,
+            "question_text": "Before descending a steep mountain gradient in a heavy motor vehicle, what gear selection practice should be followed?",
+            "options": [
+                "Shift into neutral to save fuel",
+                "Engage a lower gear than what would be used to climb the same slope",
+                "Use the highest possible gear to maintain momentum",
+                "Rely entirely on the parking brake"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using engine braking via a lower gear prevents brake fade caused by continuous friction and overheating of the brake linings on long descents.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14465,
+            "question_text": "What is the correct procedure for stopping a vehicle equipped with an Anti-lock Braking System (ABS) during an emergency?",
+            "options": [
+                "Pump the brake pedal rapidly",
+                "Apply hard, continuous pressure on the brake pedal and steer",
+                "Pull the handbrake immediately while depressing the clutch",
+                "Tap the brakes lightly to avoid skidding"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "ABS automatically manages brake pressure to prevent wheel lock-up, so the driver should maintain steady, firm pressure and steer around obstacles.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14466,
+            "question_text": "During a figure-eight driving test on a test track, which of the following is considered a critical driving error?",
+            "options": [
+                "Using the side mirrors to check alignment",
+                "Stalling the engine due to improper clutch release",
+                "Keeping both hands on the steering wheel",
+                "Checking blind spots before turning"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Stalling shows a lack of smooth coordination between the clutch and accelerator, which is a penalizable fault in a practical driving test.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14467,
+            "question_text": "When performing a parallel parking maneuver between two vehicles, what should be the initial alignment of your vehicle's rear axle relative to the target parking vehicle?",
+            "options": [
+                "Align your rear bumper exactly with the other vehicle's front bumper",
+                "Align your rear axle alongside the rear axle of the vehicle parked in front of the space",
+                "Keep your vehicle completely perpendicular to the curb before starting",
+                "Align your front wheels with the center of the parking bay"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Aligning rear axles provides the correct pivot geometry to swing the vehicle's rear into the parking space safely.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14468,
+            "question_text": "During a gradient start (hill hold test) in a manual transmission heavy vehicle, what is the proper sequence to prevent rolling backward?",
+            "options": [
+                "Release the handbrake completely, then rapidly release the clutch",
+                "Engage the clutch to the biting point, apply gentle acceleration, and simultaneously release the handbrake",
+                "Press the footbrake and accelerator together while keeping the transmission in neutral",
+                "Rely entirely on the engine compression without using the handbrake"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Finding the biting point transfers engine power to the wheels, and releasing the handbrake at that moment prevents roll-back.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14469,
+            "question_text": "What is the primary purpose of scanning your mirrors every 5 to 8 seconds during a practical driving test?",
+            "options": [
+                "To monitor traffic flow and maintain situational awareness around the vehicle",
+                "To check if the interior cabin lights are functioning properly",
+                "To ensure the rear tires are tracking correctly on the asphalt",
+                "To adjust your seating posture periodically"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Frequent mirror checks ensure the driver is fully aware of blind spots and surrounding traffic changes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14470,
+            "question_text": "When navigating a sharp hairpin bend in a transport vehicle, where should your gaze be directed?",
+            "options": [
+                "Directly at the front bumper of your vehicle",
+                "At the apex and exit of the turn where you intend to go",
+                "At the outer edge of the opposite lane",
+                "At the dashboard instruments to monitor speed"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Looking through the turn toward the exit helps guide the vehicle smoothly along the optimal steering path.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14471,
+            "question_text": "What is the recommended procedure when executing a 3-point turn (u-turn in a restricted roadway)?",
+            "options": [
+                "Turn the steering wheel fully while stationary to maximize turning angle",
+                "Check traffic, signal, move forward to the opposite side while turning, reverse while steering back, and drive forward",
+                "Reverse continuously until you reach the opposite side of the road",
+                "Use maximum engine RPM in first gear to complete the turn quickly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A 3-point turn requires continuous observation, forward movement, controlled reversing, and final forward exit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14482,
+            "question_text": "What is the correct technique for recovering control if a vehicle begins to hydroplane on a wet road surface?",
+            "options": [
+                "Slam on the brakes immediately",
+                "Turn the steering wheel sharply towards the skid",
+                "Ease off the accelerator and steer straight until tires regain traction",
+                "Pull the emergency handbrake firmly"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Braking or sudden steering during hydroplaning can cause a complete loss of control.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14483,
+            "question_text": "During an 'S-bend' forward and reverse driving test, what is the primary cause of clipping the boundary poles?",
+            "options": [
+                "Driving too slowly through the curves",
+                "Failing to anticipate the vehicle's rear-end swing (off-tracking)",
+                "Using high beam headlights during daytime",
+                "Keeping the steering wheel completely centered"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Heavy and long vehicles experience off-tracking, where the rear wheels follow a tighter path than the front wheels.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

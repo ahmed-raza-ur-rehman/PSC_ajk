@@ -1,0 +1,95 @@
+{
+    "category": "DVSA",
+    "name": "Incidents, Accidents and Emergencies",
+    "board": "dvsa",
+    "subject": "incidents-accidents-and-emergencies",
+    "url": "/dvsa/incidents-accidents-and-emergencies/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 6,
+    "questions": [
+        {
+            "id": 6871,
+            "question_text": "If you are the first to arrive at a serious road accident, what should you do first?",
+            "options": [
+                "Move the casualties immediately",
+                "Check for danger and ensure the site is safe",
+                "Call your insurance company",
+                "Try to start their car engine"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Personal safety and securing the scene from further accidents is the priority before helping others.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6872,
+            "question_text": "What is the very first thing you should do if you are the first person to arrive at a serious collision?",
+            "options": [
+                "Attempt to move the injured people out of their vehicles",
+                "Check for any dangers and ensure the scene is safe",
+                "Immediately call your insurance company",
+                "Start giving people water to drink"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The safety of yourself and others is the priority. Do not move injured people unless they are in immediate danger of fire or explosion.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8426,
+            "question_text": "If you are the first person to arrive at an accident scene, what is the first thing you should do?",
+            "options": [
+                "Call the emergency services immediately",
+                "Remove the injured people from their vehicles",
+                "Warn other traffic and ensure the scene is safe",
+                "Attempt to provide first aid"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Before helping, you must prevent further collisions by warning oncoming traffic.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8427,
+            "question_text": "What is the priority when arriving first at the scene of a road accident?",
+            "options": [
+                "Move the vehicles to the side of the road",
+                "Check for dangers and ensure your own safety",
+                "Immediately try to move injured people",
+                "Collect insurance details from all drivers"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Personal safety is the highest priority; you cannot help others if you become a casualty yourself.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8428,
+            "question_text": "If you are the first person to reach the scene of an accident, what is the most important first step?",
+            "options": [
+                "Check for any bleeding",
+                "Call the emergency services immediately",
+                "Warn other drivers of the danger",
+                "Try to move the injured people to safety"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Ensuring the scene is safe and preventing further accidents is the immediate priority before helping others.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8429,
+            "question_text": "What is the top priority when you arrive at a traffic accident site?",
+            "options": [
+                "Assessing the damage to the vehicles",
+                "Prioritizing the safety of yourself and other road users",
+                "Writing down the names of the drivers",
+                "Moving the vehicles to the side of the road"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Safety comes first. You must manage the traffic and ensure no further collisions occur before assisting those involved.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

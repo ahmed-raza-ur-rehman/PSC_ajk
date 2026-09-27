@@ -1,0 +1,193 @@
+{
+    "category": "Punjab Educational Endowment Fund (PEEF)",
+    "name": "Financial Status Verification",
+    "board": "punjab-educational-endowment-fund-peef",
+    "subject": "financial-status-verification",
+    "url": "/punjab-educational-endowment-fund-peef/financial-status-verification/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 13,
+    "questions": [
+        {
+            "id": 11224,
+            "question_text": "Which of the following is the primary criterion for 'Financial Status Verification' for a PEEF scholarship applicant?",
+            "options": [
+                "Parents' total land ownership",
+                "Total monthly income of parents/guardian",
+                "Number of siblings currently studying",
+                "Distance of residence from the university"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Financial eligibility is primarily determined by the documented monthly income of the parents or the head of the household.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11225,
+            "question_text": "What document is usually required to verify the monthly income of a government employee applying for a PEEF scholarship?",
+            "options": [
+                "A personal affidavit",
+                "A signed letter from a neighbor",
+                "The latest salary slip issued by the department",
+                "A bank statement only"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "For government employees, the official salary slip serves as the most authentic verification of monthly income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11226,
+            "question_text": "What is the threshold for 'monthly income' typically used to determine financial eligibility for PEEF?",
+            "options": [
+                "Maximum 30,000 PKR",
+                "Maximum 45,000 PKR",
+                "The income should be below the PEEF defined poverty line",
+                "Income does not matter"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Financial eligibility is determined based on the PEEF poverty line threshold, which is adjusted according to their specific guidelines for each academic year.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11227,
+            "question_text": "Which of the following is considered a valid proof of 'Parental Income' for a self-employed applicant?",
+            "options": [
+                "An electricity bill",
+                "An income certificate verified by a Gazetted Officer or Union Council",
+                "A personal letter from the student",
+                "A copy of the applicant's CNIC"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For self-employed individuals, a formal income certificate attested by an authorized authority is required to authenticate the claim.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11228,
+            "question_text": "Why does PEEF request an affidavit from the applicant during the financial status verification process?",
+            "options": [
+                "To confirm the applicant has never traveled abroad",
+                "To verify the truthfulness of the income declaration and financial need",
+                "To ensure the applicant is not currently married",
+                "To confirm the applicant's permanent residence"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The affidavit serves as a legal declaration by the student that all financial information provided is accurate to the best of their knowledge.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11229,
+            "question_text": "For a private sector employee, what document is mandatory to provide as proof of income?",
+            "options": [
+                "Bank statement only",
+                "Salary Slip attested by the employer",
+                "Tax return certificate",
+                "Property ownership document"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A salary slip verified by the organization/employer is the standard document for salaried individuals to prove their monthly income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11230,
+            "question_text": "Does the ownership of agricultural land impact the 'Financial Status Verification'?",
+            "options": [
+                "No, only salary is checked",
+                "Yes, it is factored into the total household income",
+                "Only if the land is outside Punjab",
+                "Only if the land is used for commercial purposes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Total household financial status, including income from agriculture, is considered to assess whether the student meets the financial need criteria.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11231,
+            "question_text": "Why might a student be required to provide utility bills (electricity/gas) during the application?",
+            "options": [
+                "To check if the applicant lives in an urban area",
+                "To assess the lifestyle and approximate household expenditure as a proxy for financial status",
+                "To verify the age of the house",
+                "To confirm the applicant is not living in a hostel"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Utility bills provide an indicator of a household's socio-economic status and consumption patterns, aiding in financial status verification.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11232,
+            "question_text": "If an applicant's parent is retired, what document is required for income verification?",
+            "options": [
+                "Pension book/Pension slip",
+                "Last salary certificate",
+                "Retirement certificate only",
+                "Bank statement of the last 10 years"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "For retired personnel, the pension document serves as the official proof of current monthly income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11233,
+            "question_text": "Are assets like personal vehicles included in the financial assessment?",
+            "options": [
+                "No, only liquid cash is assessed",
+                "Yes, they may be considered as part of the overall financial profile",
+                "Only if the vehicle is brand new",
+                "Only if the vehicle is a commercial truck"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PEEF evaluates the overall financial standing, which can include assessment of household assets to determine the level of financial need.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11234,
+            "question_text": "What specific document is required to verify the monthly income of a deceased parent in a PEEF application?",
+            "options": [
+                "Pension book",
+                "Death certificate issued by a registered medical practitioner",
+                "An affidavit stating no income source",
+                "Bank statement of the last 6 months"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In cases of deceased parents, a legal affidavit is required to confirm the current financial status and lack of income from that parent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11235,
+            "question_text": "How does PEEF verify the income of daily-wage earners?",
+            "options": [
+                "By asking for a government-certified tax return",
+                "By requiring a salary slip",
+                "By requesting a 'Non-Objection' certificate from the local union council",
+                "By requesting an income certificate verified by a Gazetted Officer"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Since daily wagers do not have formal salary slips, an income certificate verified by a relevant local authority or Gazetted officer acts as valid proof.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11236,
+            "question_text": "Which of the following is excluded when calculating the household monthly income for PEEF?",
+            "options": [
+                "Basic salary",
+                "Agricultural income",
+                "Rental income",
+                "One-time medical insurance reimbursement"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Recurring income streams are considered, but one-time reimbursements for medical expenses are usually excluded from regular monthly household income.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

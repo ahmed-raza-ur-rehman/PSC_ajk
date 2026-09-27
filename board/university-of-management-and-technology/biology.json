@@ -1,0 +1,165 @@
+{
+    "category": "University of Management and Technology",
+    "name": "Biology",
+    "board": "university-of-management-and-technology",
+    "subject": "biology",
+    "url": "/university-of-management-and-technology/biology/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 12689,
+            "question_text": "Which organelle is primarily responsible for ATP production in a eukaryotic cell?",
+            "options": [
+                "Ribosome",
+                "Mitochondrion",
+                "Golgi apparatus",
+                "Lysosome"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The mitochondrion is known as the powerhouse of the cell because it generates most of the cell's supply of adenosine triphosphate (ATP) through oxidative phosphorylation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12690,
+            "question_text": "In DNA base pairing, which nitrogenous base always pairs with Cytosine?",
+            "options": [
+                "Adenine",
+                "Thymine",
+                "Guanine",
+                "Uracil"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to Chargaff's rules and the structure of the DNA double helix, Cytosine always forms three hydrogen bonds with Guanine.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12691,
+            "question_text": "Which process describes the movement of water molecules across a selectively permeable membrane from an area of high water concentration to an area of low water concentration?",
+            "options": [
+                "Active transport",
+                "Osmosis",
+                "Facilitated diffusion",
+                "Exocytosis"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Osmosis is the passive movement of water across a semi-permeable membrane down its concentration gradient.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12692,
+            "question_text": "Which enzyme is responsible for unwinding the DNA double helix during replication?",
+            "options": [
+                "DNA Polymerase",
+                "Ligase",
+                "Helicase",
+                "Primase"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Helicase breaks the hydrogen bonds between complementary base pairs to unzip the DNA strands.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12693,
+            "question_text": "In the human circulatory system, which vessels carry oxygenated blood away from the heart?",
+            "options": [
+                "Veins",
+                "Capillaries",
+                "Arteries",
+                "Venules"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Arteries typically transport oxygenated blood from the heart to the rest of the body tissues.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12694,
+            "question_text": "Which part of the brain is primarily responsible for regulating balance and motor coordination?",
+            "options": [
+                "Cerebrum",
+                "Cerebellum",
+                "Medulla oblongata",
+                "Hypothalamus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The cerebellum coordinates voluntary movements and maintains posture and balance.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12695,
+            "question_text": "What is the primary product of photosynthesis that provides energy for plant cells?",
+            "options": [
+                "Glucose",
+                "Carbon dioxide",
+                "Oxygen",
+                "Nitrogen"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Photosynthesis converts light energy into chemical energy stored in the form of glucose.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12696,
+            "question_text": "Which hormone is primarily responsible for regulating blood glucose levels by promoting glucose uptake in cells?",
+            "options": [
+                "Glucagon",
+                "Insulin",
+                "Adrenaline",
+                "Thyroxine"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Insulin is produced by the pancreas and facilitates the movement of glucose from the bloodstream into cells for energy.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12697,
+            "question_text": "In which stage of mitosis do the sister chromatids separate and move toward opposite poles of the cell?",
+            "options": [
+                "Prophase",
+                "Metaphase",
+                "Anaphase",
+                "Telophase"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "During anaphase, the centromeres split, and the spindle fibers pull the sister chromatids apart.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12698,
+            "question_text": "Which structure in a bacterial cell is responsible for protein synthesis?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Golgi apparatus",
+                "Lysosome"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Ribosomes are the site of protein synthesis in both prokaryotic and eukaryotic cells.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12699,
+            "question_text": "What is the primary function of the lymphatic system?",
+            "options": [
+                "Transporting oxygen",
+                "Filtering waste from blood",
+                "Maintaining fluid balance and immune defense",
+                "Digesting proteins"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The lymphatic system collects excess interstitial fluid and houses white blood cells for immune response.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,571 @@
+{
+    "category": "Islamabad Police",
+    "name": "General Knowledge — World Organizations (UN, OIC, SAARC, SCO, etc.)",
+    "board": "islamabad-police",
+    "subject": "general-knowledge-world-organizations-un-oic-saarc-sco-etc",
+    "url": "/islamabad-police/general-knowledge-world-organizations-un-oic-saarc-sco-etc/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 40,
+    "questions": [
+        {
+            "id": 6977,
+            "question_text": "In the context of international climate governance and developing nation vulnerability, what distinguishes the 'Loss and Damage' fund mechanism from traditional financial aid structures?",
+            "options": [
+                "It mandates the recipient country to adopt advanced renewable energy technologies immediately.",
+                "Loss and Damage funds compensate for irreversible impacts (e.g., sea-level rise damage) that cannot be avoided or adapted to.",
+                "Its operational scope is limited only to agricultural losses, excluding infrastructure damage.",
+                "It is solely financed by contributions from developed nations based on historical emissions accountability."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Loss and Damage addresses irreversible harm stemming from climate change, distinct from adaptation (prevention) or mitigation (reduction) funds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6978,
+            "question_text": "In the context of international law and world organizations, which entity serves as the primary forum for resolving disputes between member states through mechanisms like the International Court of Justice (ICJ)?",
+            "options": [
+                "World Trade Organization (WTO)",
+                "International Criminal Court (ICC)",
+                "United Nations General Assembly (UNGA)",
+                "United Nations Security Council (UNSC)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "While the ICJ is the primary judicial body for state disputes, the UNSC is the principal political forum responsible for maintaining international peace and security, possessing the ultimate authority for mandated resolutions and coercive action.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7041,
+            "question_text": "In the domain of national technological development in Pakistan, which federal agency is the designated national authority for the design, development, and operation of indigenous satellite communication and remote sensing systems?",
+            "options": [
+                "SAARC Energy Initiative",
+                "National Information Technology Board (NITB)",
+                "SUPARCO",
+                "PTDC"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SUPARCO (Space and Upper Atmosphere Research Commission of Pakistan) is the official national space agency responsible for Pakistan's entire satellite program and aerospace research.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7042,
+            "question_text": "Which international body, while under the broader UN umbrella, specifically addresses humanitarian issues, promoting the rights and safety of displaced persons?",
+            "options": [
+                "UNIDO",
+                "UNESCO",
+                "UNHCR",
+                "WHO"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "UNHCR (UN Refugee Agency) is dedicated specifically to protecting and assisting refugees, Internally Displaced Persons (IDPs), and stateless people worldwide.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7233,
+            "question_text": "Which international body primarily focuses on establishing standardized trade rules and dispute resolution mechanisms among its member countries, aiming to reduce trade barriers?",
+            "options": [
+                "Global Economic Forum (GEF)",
+                "World Bank (WB)",
+                "World Trade Organization (WTO)",
+                "International Monetary Fund (IMF)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The WTO oversees global trade rules, functioning as the main forum for negotiating and settling trade disputes among member states.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7234,
+            "question_text": "The Organisation of Islamic Cooperation (OIC) functions primarily as a political, economic, and cultural forum for its member states. Which function represents the OIC's most distinct and non-binding characteristic, differentiating it from treaty-based international bodies?",
+            "options": [
+                "Enforcing standardized economic policies through a central financial body.",
+                "Adopting consensus-based resolutions on political issues requiring unanimity among members.",
+                "Establishment of a permanent, standing peacekeeping force for member states.",
+                "Mandating specific military cooperation protocols among member armies."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The OIC operates on the principle of consensus and generally requires unanimous agreement (by resolution) on political matters, which is distinct from the binding treaty mandates of organizations like NATO or WTO.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7297,
+            "question_text": "Which international body recently introduced the concept of 'Digital Public Infrastructure' (DPI) as a key pillar for developing nations to leapfrog traditional development stages?",
+            "options": [
+                "The Global Fund to Fight AIDS, Tuberculosis and Malaria",
+                "The World Trade Organization (WTO)",
+                "The International Monetary Fund (IMF)",
+                "The World Bank Group"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The World Bank Group has been a major proponent and source of frameworks promoting Digital Public Infrastructure (DPI) to facilitate rapid socio-economic development in developing countries.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7298,
+            "question_text": "In the realm of international criminal law, the International Criminal Court (ICC) is notable for its jurisdiction over the most serious crimes of concern to humanity. Compared to the International Court of Justice (ICJ), the ICC’s jurisdiction is uniquely focused on prosecuting individuals. What are the four primary crimes over which the ICC has jurisdiction?",
+            "options": [
+                "Colonial abuses, sovereignty breaches, human trafficking, and genocide.",
+                "Piracy, narcotics trafficking, cross-border terrorism, and genocide.",
+                "Human rights violations, resource piracy, war crimes, and genocide.",
+                "Genocide, crimes against humanity, war crimes, and crime of aggression."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The ICC's foundational mandate, established by the Rome Statute, covers Genocide, Crimes Against Humanity, War Crimes, and the Crime of Aggression.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7361,
+            "question_text": "Which major economic grouping recently announced the inclusion of Argentina, Iran, and Saudi Arabia as prospective full members, significantly expanding its geopolitical reach?",
+            "options": [
+                "BRICS",
+                "Shanghai Cooperation Organization (SCO)",
+                "G20",
+                "ASEAN"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "BRICS, which stands for Brazil, Russia, India, China, and South Africa, is actively expanding its membership list with these nations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7362,
+            "question_text": "Considering the geopolitical dynamics of Pakistan and the region, which international grouping has historically provided a platform for dialogue concerning economic integration and connectivity, though its functional success has been periodically challenged by political factors?",
+            "options": [
+                "BRICS",
+                "SAARC",
+                "BIMSTEC",
+                "SCO"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SAARC is the primary regional body designed specifically for economic and social cooperation among South Asian nations, including Pakistan, despite current limitations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7425,
+            "question_text": "Which international platform provides a framework for countries to collectively set Nationally Determined Contributions (NDCs) aimed at mitigating climate change, replacing older protocols?",
+            "options": [
+                "Kyoto Protocol",
+                "Rio Declaration",
+                "Paris Agreement",
+                "Copenhagen Accord"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Paris Agreement is the international legal framework designed to limit global warming by having signatory nations set self-determined targets called Nationally Determined Contributions (NDCs).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7426,
+            "question_text": "Which major intergovernmental forum, which includes Pakistan, primarily focuses on promoting economic cooperation and addressing common security threats among member states in Central Asia, and has a recent emphasis on energy transit corridors?",
+            "options": [
+                "Organization of Islamic Cooperation (OIC)",
+                "South Asian Association for Regional Cooperation (SAARC)",
+                "Shanghai Cooperation Organization (SCO)",
+                "Asian Development Bank (ADB)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "SCO brings together countries in Central Asia and Eurasia, focusing heavily on connectivity, security, and major energy transit routes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7489,
+            "question_text": "In international climate negotiations, what is the primary significance of the 'Loss and Damage' fund, established under the framework of the UNFCCC?",
+            "options": [
+                "Establishing global carbon pricing mechanisms to incentivize immediate emissions reductions across all major economies.",
+                "Governing the setting of international emission targets and mandatory timetables for industrialized countries.",
+                "Providing financial assistance to developing nations severely affected by climate change impacts that cannot be avoided or adapted to.",
+                "Funding the transition of developed economies toward renewable energy sources by providing subsidies and loans."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "This fund is designed to compensate vulnerable countries for irreversible climate impacts and losses, particularly for Small Island Developing States (SIDS).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7490,
+            "question_text": "Which of the following international bodies has recently proposed the 'Digital Cooperation Framework' aimed at enhancing cooperation between member states in cyberspace, thereby linking digital governance to broader security concerns?",
+            "options": [
+                "South Asian Association for Regional Cooperation (SAARC)",
+                "Organisation of Islamic Cooperation (OIC)",
+                "Shanghai Cooperation Organisation (SCO)",
+                "African Union (AU)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The SCO has increasingly focused on non-traditional security threats, including digital challenges and cyber security cooperation among its member states.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7553,
+            "question_text": "The primary function of the Economic Coordination Committee (ECC) in Pakistan is to:",
+            "options": [
+                "Determine nationwide policy concerning prices, rates, and essential commodities.",
+                "Regulate the issuance and liquidation of corporate stocks.",
+                "Oversee the preparation of the federal budget and taxation policy.",
+                "Oversee the selection and appointment of constitutional judges."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "ECC is the apex body in Pakistan responsible for setting national policies related to economics, commodities, and prices across different sectors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7554,
+            "question_text": "While the Commonwealth of Nations provides political and development support, which of the following organizations is primarily structured around shared cultural and religious identity to address socio-political issues concerning Muslim-majority nations?",
+            "options": [
+                "World Trade Organization (WTO)",
+                "Asian Development Bank (ADB)",
+                "Organization of Islamic Cooperation (OIC)",
+                "United Nations Economic and Social Council (ECOSOC)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The OIC represents consensus among Islamic nations and coordinates on matters of Islamic identity, political cooperation, and religious diplomacy, distinguishing it from broader economic or general global bodies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7668,
+            "question_text": "Which international body recently elevated the status of 'Blue Economy' concepts, emphasizing sustainable resource management across coastal regions and maritime sectors?",
+            "options": [
+                "United Nations Economic Commission for Asia and the Pacific (UNESCAP)",
+                "International Maritime Organization (IMO)",
+                "World Trade Organization (WTO)",
+                "Global Coral Reef Initiative (GCRI)"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "UNESCAP has played a leading role in promoting Blue Economy frameworks, focusing on the sustainable development of ocean resources and promoting integrated coastal management across Asia and the Pacific.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7669,
+            "question_text": "Compared to SAARC, the East West Connectivity (EWCI) initiative, which involves Pakistan, emphasizes trade and connectivity through which specific corridor?",
+            "options": [
+                "The maritime link via the Strait of Hormuz",
+                "The rail network through Nepal and India",
+                "The pipeline infrastructure across Myanmar",
+                "The overland routes linking China, Pakistan, and Iran"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "EWCI, a concept often associated with CPEC's wider regional scope, focuses on developing an overland trade route connecting the Chinese infrastructure through Pakistan to Iran and the Persian Gulf.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7772,
+            "question_text": "In the context of Pakistan's legal framework for cybercrime prevention, which law is the primary legislation that empowers authorities to tackle electronic fraud and misuse of digital mediums?",
+            "options": [
+                "The Telecommunications Policy 2012",
+                "The Anti-Money Laundering Act (AMLA)",
+                "The Prevention of Electronic Crimes Act (PECA) 2016",
+                "The Pakistan Penal Code (PPC) amendments"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Prevention of Electronic Crimes Act (PECA) is the foundational law governing cybercrime and related offenses in Pakistan, providing the legal toolkit for digital security.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7773,
+            "question_text": "Which of the following is a key regional security grouping that includes Pakistan, India, Bangladesh, and Nepal, focusing on cooperation within South Asia?",
+            "options": [
+                "APEC (Asia-Pacific Economic Cooperation)",
+                "BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation)",
+                "ASEAN (Association of Southeast Asian Nations)",
+                "SAARC (South Asian Association for Regional Cooperation)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "SAARC is the specific regional body mandated to facilitate cooperation among the seven nations of South Asia, including Pakistan and India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7824,
+            "question_text": "Which major international sporting event is slated to be held in the Asia region, attracting participation from nations including Pakistan, Japan, and India, specifically focusing on a comprehensive mixed-event format?",
+            "options": [
+                "The Commonwealth Games",
+                "The Southeast Asian Games",
+                "The Asian Games",
+                "The Tokyo Olympics"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Asian Games is the quadrennial multi-sport event for athletes from Asia, encompassing major participation from countries like Pakistan, Japan, and India.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7874,
+            "question_text": "In the context of global climate action and international trade, which institution is primarily responsible for enforcing global standards and resolving disputes related to trade practices, while facing challenges in adapting to sustainable development goals (SDGs)?",
+            "options": [
+                "World Trade Organization (WTO)",
+                "International Monetary Fund (IMF)",
+                "World Bank (WB)",
+                "G20 Group of Nations"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The World Trade Organization (WTO) is the only international body dedicated to regulating and enforcing global trade rules and mediating disputes among member nations regarding trade practices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7875,
+            "question_text": "Which international body primarily focuses on promoting solidarity among Islamic countries and is an intergovernmental organization?",
+            "options": [
+                "SCO (Shanghai Cooperation Organization)",
+                "SAARC (South Asian Association for Regional Cooperation)",
+                "OIC (Organization of Islamic Cooperation)",
+                "UN (United Nations)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The OIC was established to promote Islamic solidarity, coordinating the religious, economic, and social affairs of member states.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7921,
+            "question_text": "The UN mechanism established to enhance cooperation and capacity building among member states regarding critical sectors like energy, water, and disaster management is most prominently managed by:",
+            "options": [
+                "UNESCO",
+                "ITU (International Telecommunication Union)",
+                "UNESCW (UN Economic Commission for Western Asia)",
+                "UNDP (United Nations Development Programme)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "UNDP is the primary UN body responsible for implementing development strategies, focusing on improving state capacity and coordinating efforts in critical sectors like water, energy, and disaster risk reduction (DRR).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 7969,
+            "question_text": "In Pakistan's technological and infrastructure development, which body is responsible for ensuring the standardized implementation and quality assurance of digital and telecommunication services across various private and public sectors?",
+            "options": [
+                "NEPRA (National Electric Power Regulatory Authority)",
+                "Pakistan Telecommunication Authority (PTA)",
+                "SSTE (Sindh State Transmission Company)",
+                "SECP (Securities and Exchange Commission of Pakistan)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "PTA is the primary regulatory body governing and ensuring standardization and quality in Pakistan's telecommunication and digital infrastructure sector.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8020,
+            "question_text": "In the context of Pakistan's domestic governance and bureaucracy, which institution is responsible for conducting competitive examinations for most federal civil service positions?",
+            "options": [
+                "Higher Education Commission (HEC)",
+                "Federal Public Service Commission (FPSC)",
+                "Punjab Public Service Commission (PPSC)",
+                "Pakistan Civil Service Commission (PCSC)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Federal Public Service Commission (FPSC) is the constitutional body responsible for recruitment and conducting examinations for federal government service positions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8068,
+            "question_text": "Within the structure of the Organization of Islamic Cooperation (OIC), which body is typically responsible for coordinating the spiritual and religious solidarity among member states?",
+            "options": [
+                "The Council of Foreign Ministers (CFM)",
+                "The Permanent Secretariat",
+                "The Islamic Fiqh Academy",
+                "The Islamic Solidarity Fund (ISF)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Islamic Fiqh Academy is primarily tasked with scholarly matters related to Islamic jurisprudence (Fiqh) and religious consensus among member states.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8116,
+            "question_text": "The concept of 'Quad' (Quadrilateral Security Dialogue) primarily involves cooperation between four democratic nations aiming to enhance maritime security and counterbalance growing geopolitical influences in the Indo-Pacific region. Which countries constitute the Quad grouping?",
+            "options": [
+                "United States, United Kingdom, France, and India",
+                "Japan, Australia, India, and South Korea",
+                "China, Russia, India, and the UAE",
+                "India, Australia, Japan, and the United States"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Quad consists of the United States, India, Japan, and Australia, focusing on cooperation in areas like disaster response, maritime security, and technology.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8117,
+            "question_text": "Consideration of the 'Islamic Development Bank (IsDB)' as the primary financial institution for regional development, which body is closely associated with its operational scope and member-state membership?",
+            "options": [
+                "Islamic Financial Services Board (IFSB)",
+                "SAARC Secretary-General's Office",
+                "OIC Council of Foreign Ministers",
+                "ECO (Economic Cooperation Organization)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Economic Cooperation Organization (ECO) serves as the institutional platform that coordinates and connects the IsDB and member states involved in regional economic integration across Central Asia and beyond.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8166,
+            "question_text": "Under the framework of the United Nations Framework Convention on Climate Change (UNFCCC), which mechanism is mandated for countries to voluntarily submit their nationally defined targets for greenhouse gas reduction?",
+            "options": [
+                "Nationally Determined Contributions (NDCs)",
+                "The Rio Declaration commitments",
+                "The Kyoto Protocol Amendment submissions",
+                "The Global Carbon Index filings"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "NDCs are voluntary, self-defined climate action plans submitted by countries under the Paris Agreement framework.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8167,
+            "question_text": "Which regional body, established primarily to promote economic cooperation and security among member states in Central Asia, currently serves as a key platform for multilateral dialogue involving major global powers outside of traditional geopolitical blocs?",
+            "options": [
+                "Organization of Islamic Cooperation (OIC)",
+                "East African Community (EAC)",
+                "South Asian Association for Regional Cooperation (SAARC)",
+                "Shanghai Cooperation Organisation (SCO)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The SCO is geographically central and involves major powers like Russia, China, India, and Pakistan, making it a crucial platform for high-level strategic and economic dialogue.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8216,
+            "question_text": "Which major international economic grouping, founded primarily by emerging economies to diversify geopolitical influence away from traditional Western institutions, recently hosted the expansion of its membership?",
+            "options": [
+                "APEC",
+                "SCO",
+                "G77",
+                "BRICS"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "BRICS (Brazil, Russia, India, China, South Africa) is an economic bloc known for promoting cooperation among emerging market economies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8265,
+            "question_text": "The South Asian Free Trade Area (SAFTA) agreement, a cornerstone of regional economic integration within SAARC, primarily aims to eliminate tariffs and barriers on trade between member states. Which of the following categories of goods is generally exempt from these comprehensive tariff reductions under SAFTA?",
+            "options": [
+                "Agricultural produce originating from Nepal and Bhutan.",
+                "Strategic commodities and specialized industrial machinery.",
+                "Natural resources extracted from maritime zones.",
+                "Consumer electronics and personal mobile devices."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "SAFTA typically exempts strategic commodities, highly specialized industrial machinery, and essential capital goods from the full scope of tariff reduction to ensure continuity of key economic sectors.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8315,
+            "question_text": "Which multilateral forum, primarily focused on counter-terrorism and regional stability in Eurasia, was established as an alternative to the OSCE and significantly involves nations like China and Russia?",
+            "options": [
+                "Organization of Islamic Cooperation (OIC)",
+                "African Union (AU)",
+                "Shanghai Cooperation Organization (SCO)",
+                "South Asian Association for Regional Cooperation (SAARC)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The SCO is a Eurasian intergovernmental policy platform that includes key members like China and Russia, focusing heavily on security cooperation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 14082,
+            "question_text": "In the context of Pakistan's national legal and administrative framework, which body is primarily responsible for conducting public examinations and recruitment for various federal government departments?",
+            "options": [
+                "Natsheel Technical Board (NTB)",
+                "Punjab Public Service Commission (PPSC)",
+                "Federal Public Service Commission (FPSC)",
+                "Pakistan Qualifications Authority (PQA)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Federal Public Service Commission (FPSC) is the constitutional body mandated to conduct recruitment and examinations for most federal civil services across Pakistan.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20352,
+            "question_text": "In the context of Pakistan's current institutional reforms, which federal body is primarily responsible for regulating and standardizing the practice of legal education and professional lawyering?",
+            "options": [
+                "Higher Education Commission (HEC)",
+                "Pakistan Bar Councils Association (PBCA)",
+                "Pakistan Legal Circle (PLC)",
+                "Law Council of Pakistan (LCP)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The Law Council of Pakistan (LCP) is the main regulatory body tasked with maintaining ethical standards, regulating legal practice, and overseeing the enrollment of advocates across various provinces.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20393,
+            "question_text": "Which of the following mechanisms is used by a country to withdraw voluntarily from an international trade agreement, thus ending its obligations under that pact?",
+            "options": [
+                "Declaration of non-compliance",
+                "Denunciation",
+                "Suspension",
+                "Resiliation"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Denunciation refers to the formal, voluntary act of withdrawing from a treaty or international agreement by a signatory state.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20394,
+            "question_text": "The Shanghai Cooperation Organization (SCO) is a multifaceted geopolitical forum encompassing security, economic, and political cooperation among Eurasian members. Unlike purely military alliances, the SCO’s primary distinguishing feature is its emphasis on:",
+            "options": [
+                "Adopting a unified military command structure under a permanent regional command body.",
+                "Joint anti-terrorism measures combined with cultural and economic connectivity projects.",
+                "Establishing a unified currency and standardized trade tariffs across all members.",
+                "Uniform adherence to the rules and regulations of global maritime law."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The SCO emphasizes cooperation in combating shared security threats (like terrorism) while simultaneously promoting broader economic and cultural linkages among its diverse membership.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20439,
+            "question_text": "The concept of 'Belt and Road Initiative' (BRI), championed by China, primarily focuses on developing connectivity across which geographical regions?",
+            "options": [
+                "The South Asian and Indian Ocean Rim",
+                "The Mediterranean and Middle East",
+                "The Arctic and Pacific Oceans",
+                "Asia, Europe, and Africa"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The BRI aims to establish physical and digital infrastructure connectivity networks linking China with countries across Asia, Europe, and Africa.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 20480,
+            "question_text": "Which regional grouping of nations has recently expanded its focus on establishing a secure, digitized framework for regional trade connectivity and cross-border infrastructural projects, emphasizing economic resilience?",
+            "options": [
+                "RCEP (Regional Comprehensive Economic Partnership)",
+                "ECO (Economic Cooperation Organization)",
+                "Shanghai Cooperation Organization (SCO)",
+                "SAARC (South Asian Association for Regional Cooperation)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The SCO has expanded its mandate beyond security cooperation to include major infrastructure projects and trade connectivity, particularly within its Eurasian sphere of influence.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

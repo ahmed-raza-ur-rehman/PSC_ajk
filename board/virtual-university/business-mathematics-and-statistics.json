@@ -1,0 +1,165 @@
+{
+    "category": "Virtual University",
+    "name": "Business Mathematics and Statistics",
+    "board": "virtual-university",
+    "subject": "business-mathematics-and-statistics",
+    "url": "/virtual-university/business-mathematics-and-statistics/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 11458,
+            "question_text": "If a product costs $80 and is sold for $120, what is the percentage markup on cost?",
+            "options": [
+                "33.3%",
+                "40%",
+                "50%",
+                "66.6%"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Markup is calculated as (Selling Price - Cost) / Cost. ($120 - $80) / $80 = 40 / 80 = 50%.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11459,
+            "question_text": "In a normal distribution, approximately what percentage of data falls within one standard deviation of the mean?",
+            "options": [
+                "50%",
+                "68%",
+                "95%",
+                "99.7%"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "According to the empirical rule of normal distribution, 68% of data falls within one standard deviation of the mean.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11460,
+            "question_text": "If a sample has values 2, 4, 6, 8, and 10, what is the arithmetic mean?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Mean = (2+4+6+8+10) / 5 = 30 / 5 = 6.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11461,
+            "question_text": "What is the median of the following set: 15, 3, 8, 12, 10?",
+            "options": [
+                "8",
+                "10",
+                "12",
+                "9"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Order the set: 3, 8, 10, 12, 15. The middle value is 10.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11462,
+            "question_text": "If you invest $1,000 at a simple interest rate of 5% for 3 years, what is the total interest earned?",
+            "options": [
+                "$50",
+                "$100",
+                "$150",
+                "$200"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Interest = Principal * Rate * Time = 1000 * 0.05 * 3 = 150.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11463,
+            "question_text": "What is the probability of flipping a fair coin and getting 'Heads' twice in a row?",
+            "options": [
+                "0.25",
+                "0.50",
+                "0.75",
+                "1.00"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The probability of each event is 0.5. Since they are independent, 0.5 * 0.5 = 0.25.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11464,
+            "question_text": "Which term describes a distribution that is not symmetric and has a 'tail' stretching toward the higher values?",
+            "options": [
+                "Left-skewed",
+                "Right-skewed",
+                "Normal distribution",
+                "Uniform distribution"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A right-skewed (positively skewed) distribution has a tail on the right side where higher values are less frequent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11465,
+            "question_text": "If a dataset has a high standard deviation, what does this indicate?",
+            "options": [
+                "The data points are clustered near the mean",
+                "The data points are spread out over a wide range of values",
+                "The mean is equal to the median",
+                "The distribution is perfectly normal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Standard deviation measures the dispersion of a dataset; a higher value means the data is more spread out from the mean.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11466,
+            "question_text": "What is the compound interest formula for an amount compounded annually?",
+            "options": [
+                "A = P(1 + r/n)^(nt)",
+                "A = P(1 + r)^t",
+                "A = P + (P * r * t)",
+                "A = P / (1 + r)^t"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For annual compounding, the formula is Principal times (1 plus the rate) raised to the power of the number of years.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11467,
+            "question_text": "Which measure of central tendency is most affected by extreme outliers?",
+            "options": [
+                "Median",
+                "Mode",
+                "Mean",
+                "Range"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The mean involves adding all values, so a very high or low outlier shifts the sum significantly, unlike the median or mode.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11468,
+            "question_text": "In a Venn diagram, what does the intersection of two sets A and B represent?",
+            "options": [
+                "Elements in either A or B",
+                "Elements in both A and B",
+                "Elements in A but not in B",
+                "Elements in neither A nor B"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The intersection of sets represents the elements that are common to both sets.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,571 @@
+{
+    "category": "FIA",
+    "name": "General Knowledge — Basic Science and Everyday Science",
+    "board": "fia",
+    "subject": "general-knowledge-basic-science-and-everyday-science",
+    "url": "/fia/general-knowledge-basic-science-and-everyday-science/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 40,
+    "questions": [
+        {
+            "id": 1071,
+            "question_text": "When a computer needs to transfer data between the CPU and the RAM, which component primarily manages the timing and electrical signaling to ensure synchronized and efficient data movement?",
+            "options": [
+                "System Bus",
+                "Chipset",
+                "Northbridge",
+                "Cache Memory"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The System Bus provides the physical pathways (data, address, control lines) necessary for communication between major components like the CPU and RAM.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1072,
+            "question_text": "Which type of computer storage is considered volatile and is used to temporarily hold frequently accessed data, providing the fastest access speed to the CPU?",
+            "options": [
+                "HDD (Hard Disk Drive)",
+                "SSD (Solid State Drive)",
+                "Optical Disc",
+                "Cache Memory"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Cache memory is extremely fast, volatile memory located either on or near the CPU, storing temporary data to speed up processing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1481,
+            "question_text": "Which component is primarily responsible for executing instructions and performing calculations in a computer system?",
+            "options": [
+                "Random Access Memory (RAM)",
+                "Motherboard",
+                "Central Processing Unit (CPU)",
+                "Graphics Processing Unit (GPU)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The CPU acts as the 'brain' of the computer, executing all instructions and arithmetic/logic operations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1482,
+            "question_text": "Which type of memory provides volatile storage, meaning its data is lost when the power is turned off?",
+            "options": [
+                "Hard Disk Drive (HDD)",
+                "RAM",
+                "ROM",
+                "Solid State Drive (SSD)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "RAM is volatile memory used for temporary storage of data and running programs, unlike ROM or permanent storage devices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1581,
+            "question_text": "Which component is responsible for executing instructions and performing all arithmetic, logic, and control functions within a computer system?",
+            "options": [
+                "Motherboard",
+                "Central Processing Unit (CPU)",
+                "Random Access Memory (RAM)",
+                "Solid State Drive (SSD)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The CPU is the 'brain' of the computer, performing operations specified by the stored program instructions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1582,
+            "question_text": "Operating systems like Windows, Linux, and macOS primarily function to:",
+            "options": [
+                "Execute complex graphical rendering tasks for games.",
+                "Manage and coordinate the hardware and software resources of the computer.",
+                "Permanently store all user data and application programs.",
+                "Convert human language directly into machine code."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The OS acts as an intermediary, providing a platform for applications to interact with the computer's hardware.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1681,
+            "question_text": "Which type of memory is volatile and loses its stored data when the power supply is removed, making it ideal for temporary data storage during program execution?",
+            "options": [
+                "Hard Disk",
+                "RAM",
+                "ROM",
+                "Cache Memory"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "RAM (Random Access Memory) is volatile memory used to temporarily hold data that the CPU is actively processing. ROM is non-volatile.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1682,
+            "question_text": "In the context of hardware components, what is the primary function of the Control Unit (CU) within the CPU?",
+            "options": [
+                "Managing permanent storage and retrieval of large datasets.",
+                "Storing the operating system and frequently accessed instructions.",
+                "Directing and coordinating the flow of data between components.",
+                "Performing all the arithmetic and logical operations (ALU)."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Control Unit manages and coordinates all activities within the CPU, generating timing and control signals to ensure smooth operation.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1781,
+            "question_text": "Which component is primarily responsible for executing instructions and performing arithmetic and logical operations within a computer system?",
+            "options": [
+                "Graphics Processing Unit (GPU)",
+                "Motherboard Chipset",
+                "Central Processing Unit (CPU)",
+                "Random Access Memory (RAM)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The CPU contains the ALU and CU, which are the core units for processing instructions and calculations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1782,
+            "question_text": "What does the acronym 'OS' represent in the context of computer fundamentals?",
+            "options": [
+                "Open Source",
+                "Operating System",
+                "Output Setup",
+                "Optimized Storage"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "An Operating System (OS) is system software that manages computer hardware and provides a platform for application software to run.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1881,
+            "question_text": "Which component is responsible for temporarily holding data and instructions that the CPU is currently processing, allowing for rapid access and increased processing speed?",
+            "options": [
+                "RAM (Random Access Memory)",
+                "ROM (Read-Only Memory)",
+                "Cache Memory",
+                "Hard Disk Drive (HDD)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Cache memory is the fastest and smallest type of memory, used to store data the CPU needs immediately for quick retrieval.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1882,
+            "question_text": "In the context of operating systems, what is the primary function of 'memory management'?",
+            "options": [
+                "To convert high-level programming language code into machine code.",
+                "To secure the computer against unauthorized external access.",
+                "To manage the flow of data between peripherals and the CPU.",
+                "To allocate and deallocate main memory space to different processes."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Memory management ensures that different running programs (processes) can share the limited RAM efficiently without interfering with each other.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1883,
+            "question_text": "When comparing Windows and Linux operating systems, which feature best describes the foundational difference in managing system resources and allowing for decentralized customization?",
+            "options": [
+                "Windows offers superior hardware compatibility across all peripheral devices.",
+                "Windows exclusively supports GUI interfaces, limiting its console functionality.",
+                "Linux does not require administrator passwords for basic user operations.",
+                "Linux uses a kernel architecture that is inherently modular and open-source, unlike Windows."
+            ],
+            "correct_answer_index": 3,
+            "explanation": "Linux's modular, open-source kernel structure allows for extensive customization and transparency, which is its core architectural advantage over Windows.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1982,
+            "question_text": "Which component is primarily responsible for executing instructions and performing calculations within a computer system?",
+            "options": [
+                "Random Access Memory (RAM)",
+                "Motherboard",
+                "Read-Only Memory (ROM)",
+                "Central Processing Unit (CPU)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The CPU contains the ALU and Control Unit, which are responsible for all data processing and instruction execution.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 1983,
+            "question_text": "What is the primary function of an Operating System (OS) like Windows or Linux?",
+            "options": [
+                "To connect the computer to the internet via Ethernet cable.",
+                "To directly perform complex mathematical calculations for end-users.",
+                "To act as an intermediary between hardware and application software.",
+                "To permanently store user files and application data."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The OS manages computer hardware resources and provides a platform for applications to run smoothly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2102,
+            "question_text": "In Linux, which command is primarily used to view the contents of a file in a structured, paginated manner, especially for large files, without needing to download the entire file?",
+            "options": [
+                "less",
+                "head",
+                "more",
+                "cat"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 'less' command allows viewing files page by page, enabling seamless backward scrolling, making it ideal for large file inspection.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2302,
+            "question_text": "If a computer is experiencing frequent data loss or corruption due to power fluctuations, which piece of hardware needs immediate upgrade or replacement to ensure data integrity?",
+            "options": [
+                "Monitor Cable",
+                "Optical Drive",
+                "Uninterruptible Power Supply (UPS)",
+                "Printer Cartridge"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A UPS provides temporary battery power during outages, protecting the system and connected hardware from sudden power loss which causes data corruption.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2662,
+            "question_text": "Which component is responsible for temporarily storing data that the CPU is currently processing, and is the fastest memory accessible to the processor?",
+            "options": [
+                "Hard Disk Drive (HDD)",
+                "ROM (Read-Only Memory)",
+                "Cache Memory",
+                "RAM (Random Access Memory)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Cache Memory is a small, high-speed memory located near or on the CPU chip itself, used to store frequently accessed instructions and data, making it faster than main RAM.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 2973,
+            "question_text": "Which Linux command is used to view the usage statistics and resource consumption of currently running processes?",
+            "options": [
+                "pwd -a",
+                "ifconfig",
+                "top",
+                "ls -l"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 'top' command provides a dynamic, real-time view of system resources and running processes, essential for system monitoring.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 3744,
+            "question_text": "In a Linux environment, which command is used to monitor the current usage of CPU, memory, and other system resources in real-time and is generally considered a comprehensive system monitor?",
+            "options": [
+                "top",
+                "ps aux",
+                "df -h",
+                "lsof -i"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 'top' command offers a dynamic, real-time view of system resource consumption, including CPU load and memory usage, making it the most comprehensive monitoring tool.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4305,
+            "question_text": "In an Operating System context, what is the primary purpose of a 'Process Scheduler'?",
+            "options": [
+                "To determine which process should receive CPU time next.",
+                "To permanently store all user files and system data.",
+                "To handle the graphical user interface (GUI) rendering.",
+                "To manage the physical memory allocation between processes."
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The scheduler is responsible for allocating CPU time to competing processes efficiently, managing multi-tasking.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4406,
+            "question_text": "In a Linux environment, which command is primarily used to display the current working directory and the total number of files within it?",
+            "options": [
+                "cd",
+                "dir",
+                "ls",
+                "pwd"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The 'ls' command lists directory contents (files and folders). While 'pwd' shows the path, 'ls' is the standard tool for viewing directory content and summarizing files.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 4507,
+            "question_text": "In the context of operating systems, what primary function does a process scheduler perform?",
+            "options": [
+                "To handle all input and output operations for connected peripheral devices.",
+                "To determine which process in the ready queue will receive CPU time next.",
+                "To manage the physical memory allocation and deallocation among processes.",
+                "To translate logical addresses into physical memory addresses."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The process scheduler selects the next process to run, optimizing resource utilization based on defined scheduling algorithms.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5920,
+            "question_text": "Which type of computer memory is volatile and loses its stored data when the power is turned off?",
+            "options": [
+                "Hard Disk Drive (HDD)",
+                "Cache Memory",
+                "RAM (Random Access Memory)",
+                "ROM (Read-Only Memory)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "RAM temporarily holds active data and instructions, making it volatile. ROM and HDD retain data even without power.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 5921,
+            "question_text": "The function of an Operating System (OS) that manages the sharing of the CPU resource among multiple running programs is called:",
+            "options": [
+                "Process Scheduling",
+                "File Management",
+                "Device Driver Utility",
+                "Memory Allocation"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Process Scheduling determines which process gets access to the CPU and for how long, ensuring efficient resource utilization.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6020,
+            "question_text": "Which of the following memory types is volatile, meaning it loses its stored data when the power is removed?",
+            "options": [
+                "RAM",
+                "ROM",
+                "HDD",
+                "SSD"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "RAM (Random Access Memory) temporarily stores data and is volatile; ROM and SSD/HDD are non-volatile storage.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6021,
+            "question_text": "In the context of operating systems, what is the primary function of a spooler?",
+            "options": [
+                "Converting high-level code to machine code.",
+                "Providing a user interface for graphical operations.",
+                "Managing peripheral device data flow.",
+                "Monitoring network bandwidth usage."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A spooler temporarily holds output data (like print jobs) so the CPU can continue processing without waiting for the slower output device.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6099,
+            "question_text": "Which component is responsible for performing arithmetic and logical operations within the CPU?",
+            "options": [
+                "Cache Memory",
+                "Arithmetic Logic Unit (ALU)",
+                "Registers",
+                "Control Unit (CU)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The ALU is the digital circuit that carries out mathematical calculations (arithmetic) and boolean logic operations (logic).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6100,
+            "question_text": "Which of the following types of software manages the computer hardware and provides a platform for application software to run?",
+            "options": [
+                "Application Software",
+                "Firmware",
+                "Operating System",
+                "Utility Software"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The Operating System (OS) is essential system software that controls the interaction between hardware and user programs.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6165,
+            "question_text": "Which of the following memory types is volatile and loses its data when the power is turned off?",
+            "options": [
+                "ROM",
+                "Flash Memory",
+                "Hard Disk Drive (HDD)",
+                "SRAM"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "SRAM (Static Random Access Memory) is volatile, meaning it requires continuous power to maintain stored data, while ROM and Flash are non-volatile.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6166,
+            "question_text": "The process of converting high-level programming language instructions into machine-readable code is primarily performed by which software component?",
+            "options": [
+                "Operating System Kernel",
+                "Assembler",
+                "Debugger",
+                "Compiler"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "A Compiler translates an entire high-level language program into machine code (object code), making it executable by the CPU.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6238,
+            "question_text": "What type of software is primarily designed to manage computer hardware resources and provide a platform for running application programs?",
+            "options": [
+                "Utility Software",
+                "Firmware",
+                "Application Software",
+                "Operating System (OS)"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The OS (like Windows or Linux) manages all hardware resources and allows applications to run seamlessly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6318,
+            "question_text": "What is the primary function of an Operating System (OS)?",
+            "options": [
+                "To connect the computer to the internet via Wi-Fi.",
+                "To manage and allocate computer hardware resources among various software applications.",
+                "To perform complex mathematical calculations using advanced algorithms.",
+                "To serve as a graphical user interface for word processing tasks only."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The OS acts as an intermediary, managing all hardware resources (CPU, Memory, I/O) and allowing programs to run concurrently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6319,
+            "question_text": "In computing, what is the primary function of an Operating System (OS) like Windows or Linux?",
+            "options": [
+                "To convert high-level programming code into machine language directly.",
+                "To execute complex multimedia files and animations.",
+                "To manage and coordinate the computer's hardware resources and software applications.",
+                "To protect the computer from physical damage and power surges."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The OS acts as an intermediary, allocating resources (CPU time, memory, peripherals) and allowing applications to run efficiently.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6465,
+            "question_text": "Which of the following devices is an output device?",
+            "options": [
+                "Keyboard",
+                "Mouse",
+                "Printer",
+                "Scanner"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A printer is used to produce physical copies of electronic data, making it an output device. Keyboard, mouse, and scanner are all input devices.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6541,
+            "question_text": "What unit is commonly used to measure the speed of a computer processor?",
+            "options": [
+                "Kilobyte (KB)",
+                "Byte (B)",
+                "Hertz (Hz)",
+                "Bit (b)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Processor speed is measured in gigahertz (GHz), which is a unit derived from Hertz (Hz), representing cycles per second.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6686,
+            "question_text": "What fundamental concept in Operating Systems manages the allocation and deallocation of main memory to multiple running programs (processes) to prevent conflicts and ensure efficiency?",
+            "options": [
+                "Memory Segmentation",
+                "Device Drivers",
+                "Virtual Memory Management",
+                "Process Scheduling"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Virtual Memory Management creates the illusion of a large, contiguous memory space for each process, allowing the OS to safely allocate memory and utilize disk space when physical RAM is exhausted.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6762,
+            "question_text": "Which type of memory is volatile and loses its stored data when the computer is powered off?",
+            "options": [
+                "Cache Memory",
+                "RAM (Random Access Memory)",
+                "Hard Disk Drive (HDD)",
+                "ROM (Read-Only Memory)"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "RAM is volatile memory, meaning it requires continuous power to retain data. ROM and HDD are non-volatile.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6763,
+            "question_text": "Which command is primarily used in Linux to view the list of installed packages or what software is running on the system?",
+            "options": [
+                "dpkg -l",
+                "ps aux",
+                "ls -a",
+                "ifconfig -a"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The 'dpkg -l' command (Debian Package Manager list) is the standard way to list installed packages on Debian-based Linux systems. 'ls -a' lists files, 'ifconfig -a' lists interfaces, and 'ps aux' lists currently running processes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 6836,
+            "question_text": "In computer memory terminology, what does 'volatility' refer to regarding RAM?",
+            "options": [
+                "Its physical size and capacity.",
+                "The amount of data it can store in bytes.",
+                "Its inability to retain data when power is removed.",
+                "The speed at which it reads and writes data."
+            ],
+            "correct_answer_index": 2,
+            "explanation": "RAM is volatile memory, meaning it loses all stored data when the power supply is interrupted. Non-volatile memory like ROM retains data.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

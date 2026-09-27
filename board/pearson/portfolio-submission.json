@@ -1,0 +1,249 @@
+{
+    "category": "Pearson",
+    "name": "Portfolio Submission",
+    "board": "pearson",
+    "subject": "portfolio-submission",
+    "url": "/pearson/portfolio-submission/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 17,
+    "questions": [
+        {
+            "id": 11964,
+            "question_text": "What is the primary purpose of a student portfolio submission in a business degree application?",
+            "options": [
+                "To showcase personal photography skills",
+                "To demonstrate previous projects, critical thinking, and practical skills",
+                "To prove the student has read at least 100 books",
+                "To act as a secondary identification card"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A portfolio allows admissions committees to evaluate a student's ability to apply academic knowledge to practical scenarios and showcases their growth over time.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11965,
+            "question_text": "Which of the following would be an appropriate item to include in a business-focused portfolio?",
+            "options": [
+                "A collection of grocery receipts",
+                "A report or business case study prepared during school projects",
+                "A list of favorite movies",
+                "Social media login credentials"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Business programs look for evidence of analytical, research, and communication skills, which are best displayed through academic or business-related reports.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11966,
+            "question_text": "Which of the following is an example of 'reflective writing' that adds value to a business portfolio?",
+            "options": [
+                "A copy of an academic transcript",
+                "A summary of a business project explaining the challenges faced and lessons learned",
+                "A photo of the student attending a workshop",
+                "A copy of the student's resume"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Reflective writing demonstrates critical thinking, which is a key competency sought by business programs, showing the student's ability to learn from experience.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11967,
+            "question_text": "Why is a well-organized structure important in a portfolio submission?",
+            "options": [
+                "It increases the file size of the submission",
+                "It helps the admission committee evaluate the student's professionalism and attention to detail",
+                "It is required by law for all business students",
+                "It allows the committee to ignore the content and focus on the design"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A clean, logical structure reflects the student's organizational skills, which are essential in a business environment.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11968,
+            "question_text": "What is the main goal of including evidence of 'Soft Skills' in a portfolio?",
+            "options": [
+                "To prove the student has high grades",
+                "To demonstrate leadership, communication, and teamwork potential",
+                "To show the student has technical programming skills",
+                "To replace the need for an interview"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Business success relies heavily on interpersonal skills, and a portfolio allows a student to show these traits through past experiences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11969,
+            "question_text": "If a student includes a project in their portfolio, what is the most important element to include alongside it?",
+            "options": [
+                "The software used to design the document",
+                "The specific role the student played in the project",
+                "The names of all students who did not help with the project",
+                "The total word count of the project"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Defining the student's individual contribution is crucial to assessing their specific skills and impact on a group task.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11970,
+            "question_text": "How can community service or volunteer work be presented effectively in a business portfolio?",
+            "options": [
+                "By listing it as a distraction from academic studies",
+                "By highlighting skills gained, such as resource management or event planning",
+                "By keeping it hidden, as it is unrelated to business",
+                "By only including it if it was paid work"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Volunteer work translates well into business skills, and framing it as professional growth is highly attractive to admissions committees.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11971,
+            "question_text": "Why might an admission committee review a portfolio for 'Authenticity'?",
+            "options": [
+                "To check if the student used artificial intelligence to write their entries",
+                "To ensure that the work presented was actually completed by the applicant",
+                "To see if the student spent a lot of money on professional binding",
+                "To determine if the portfolio matches the color scheme of the university"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Integrity is a core business value; the portfolio must reflect the student's own capabilities and honest efforts.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11972,
+            "question_text": "Which of these items would best demonstrate 'analytical ability' in a portfolio?",
+            "options": [
+                "A personal essay about favorite movies",
+                "A data-driven report evaluating the performance of a local business",
+                "A list of academic awards",
+                "A copy of the student's ID card"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Business programs look for students who can analyze information, draw conclusions, and present findings—all demonstrated by an analytical report.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11973,
+            "question_text": "How many pages or files should a standard academic portfolio typically contain?",
+            "options": [
+                "There is no limit, the more the better",
+                "Exactly 100 pages",
+                "A concise selection that highlights the best and most relevant work",
+                "Only one single file under 1MB"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Quality over quantity is preferred. Admissions committees have limited time, so focused, impactful content is better than excessive filler.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11974,
+            "question_text": "What does a 'Personal Statement' in a portfolio aim to achieve?",
+            "options": [
+                "To outline the student's financial status",
+                "To explain the student's motivations, career goals, and suitability for the degree",
+                "To critique the university's admission process",
+                "To list the names of family members"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The personal statement provides context for the portfolio, explaining why the student is passionate about business and how the degree fits their future.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11975,
+            "question_text": "Why should a portfolio be reviewed for spelling and grammar?",
+            "options": [
+                "Because word processors can't catch all mistakes",
+                "To showcase written communication skills, which are critical in a business setting",
+                "It is a formal test of the student's English language knowledge",
+                "Because the document will be published publicly"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Precision and professional communication are essential in business; errors in a portfolio suggest a lack of attention to detail.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11976,
+            "question_text": "What is the main benefit of including a 'Table of Contents' in a digital portfolio?",
+            "options": [
+                "It increases the file size",
+                "It improves navigation and document professional presentation",
+                "It is required by law for all academic submissions",
+                "It helps the student avoid writing an introduction"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A Table of Contents demonstrates organizational skills and allows the reviewer to find specific evidence quickly.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11977,
+            "question_text": "When including a 'Group Project' in a portfolio, why must the student specify their individual contribution?",
+            "options": [
+                "To prove the project was not plagiarized",
+                "To clearly delineate the student's specific skills and responsibilities",
+                "To ensure the other group members do not get credit",
+                "To fill up empty space on the page"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Admissions committees need to assess the individual applicant's performance, not the collective effort of the group.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11978,
+            "question_text": "What does a 'Letter of Recommendation' included in a portfolio contribute to the application?",
+            "options": [
+                "An external verification of the student's character and work ethic",
+                "A replacement for academic transcripts",
+                "Proof of the student's high school GPA",
+                "A summary of the portfolio contents"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Recommendations provide a third-party perspective on the student's readiness and suitability for a business program.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11979,
+            "question_text": "Which of these is the best example of a 'professional development' item for a business portfolio?",
+            "options": [
+                "A personal diary entry about a party",
+                "A certificate of completion from a digital marketing workshop",
+                "A grocery shopping list",
+                "A favorite song lyrics list"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Business programs value certifications that demonstrate proactive learning and specific skill acquisition related to the field.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11980,
+            "question_text": "How can visual aids (like graphs or charts) enhance an entry in a business portfolio?",
+            "options": [
+                "They replace the need for written explanations",
+                "They allow the student to present complex data in an understandable and professional format",
+                "They are used to distract from grammar errors",
+                "They are strictly prohibited in professional portfolios"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "In business, the ability to visualize data is a key skill; using graphs effectively demonstrates analytical and communication capabilities.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

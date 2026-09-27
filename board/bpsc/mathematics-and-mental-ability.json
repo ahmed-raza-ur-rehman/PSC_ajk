@@ -1,0 +1,165 @@
+{
+    "category": "BPSC",
+    "name": "Mathematics and Mental Ability",
+    "board": "bpsc",
+    "subject": "mathematics-and-mental-ability",
+    "url": "/bpsc/mathematics-and-mental-ability/2026/subject-mcqs",
+    "country": "BD",
+    "totalQuestions": 11,
+    "questions": [
+        {
+            "id": 10086,
+            "question_text": "If a triangle has two sides of equal length, what is it called?",
+            "options": [
+                "Scalene",
+                "Equilateral",
+                "Isosceles",
+                "Right-angled"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "An isosceles triangle is defined as a triangle with at least two equal sides.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10087,
+            "question_text": "If 5x = 25, what is the value of x?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Dividing both sides by 5, x = 25 / 5 = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10088,
+            "question_text": "What is 15% of 200?",
+            "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Calculation: (15 / 100) * 200 = 0.15 * 200 = 30.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10089,
+            "question_text": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+            "options": [
+                "20",
+                "24",
+                "32",
+                "64"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number is multiplied by 2 to get the next one; 16 * 2 = 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10090,
+            "question_text": "How many minutes are in 3 hours?",
+            "options": [
+                "120",
+                "150",
+                "180",
+                "200"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Since 1 hour = 60 minutes, 3 hours = 3 * 60 = 180 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10091,
+            "question_text": "If a square has a side length of 4cm, what is its area?",
+            "options": [
+                "8 sq cm",
+                "12 sq cm",
+                "16 sq cm",
+                "20 sq cm"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Area of a square = side * side = 4 * 4 = 16.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10092,
+            "question_text": "If a square has a perimeter of 20cm, what is the length of one side?",
+            "options": [
+                "4cm",
+                "5cm",
+                "10cm",
+                "2.5cm"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The perimeter of a square is 4 multiplied by the side length. 20 / 4 = 5.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10093,
+            "question_text": "Calculate the value of x if 2x + 4 = 12.",
+            "options": [
+                "3",
+                "4",
+                "6",
+                "8"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Subtract 4 from both sides to get 2x = 8, then divide by 2 to get x = 4.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10094,
+            "question_text": "What is 20% of 500?",
+            "options": [
+                "50",
+                "80",
+                "100",
+                "120"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "20% means 20/100. 0.20 * 500 = 100.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10095,
+            "question_text": "Find the missing number in the sequence: 5, 10, 20, 40, ...",
+            "options": [
+                "50",
+                "60",
+                "80",
+                "100"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Each number is double the previous number.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 10096,
+            "question_text": "How many degrees are in the sum of angles of a triangle?",
+            "options": [
+                "90",
+                "180",
+                "270",
+                "360"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The sum of interior angles in any triangle is always 180 degrees.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

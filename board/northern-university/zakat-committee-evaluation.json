@@ -1,0 +1,249 @@
+{
+    "category": "Northern University",
+    "name": "Zakat Committee Evaluation",
+    "board": "northern-university",
+    "subject": "zakat-committee-evaluation",
+    "url": "/northern-university/zakat-committee-evaluation/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 17,
+    "questions": [
+        {
+            "id": 11313,
+            "question_text": "What is the main role of the Zakat Committee in the scholarship process?",
+            "options": [
+                "To handle the marketing of the scholarship program",
+                "To ensure that the distribution of funds complies with the principles of Zakat",
+                "To manage the student's daily class attendance",
+                "To provide career counseling for scholarship recipients"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The committee's primary fiduciary and moral duty is to ensure that disbursements meet the strict criteria for Zakat eligibility as defined by Sharia.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11314,
+            "question_text": "In the context of the Zakat Committee, what does the term 'Asnaf' refer to?",
+            "options": [
+                "The total annual interest rate on the scholarship fund",
+                "The specific categories of people eligible to receive Zakat",
+                "The academic grading scale used by the university",
+                "The required minimum GPA for scholarship renewal"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "'Asnaf' is the plural of 'sinf', referring to the eight categories of recipients mentioned in Islamic tradition who are eligible to receive Zakat.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11315,
+            "question_text": "What criteria should the Zakat Committee prioritize when evaluating applicants with equal financial need?",
+            "options": [
+                "The social status of the applicant's family",
+                "The chronological order of the application submission",
+                "Academic merit and potential for contribution to the community",
+                "The physical appearance of the applicant in their ID photo"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "When financial need is equal, prioritizing candidates with higher academic potential ensures that Zakat funds are utilized for the greatest long-term benefit.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11316,
+            "question_text": "In the Zakat committee, what is the 'Conflict of Interest' protocol for members?",
+            "options": [
+                "Members can vote on family members' applications",
+                "Members must recuse themselves from cases where they have a personal connection",
+                "Members should always favor applicants from their own community",
+                "Members are exempt from disclosure requirements"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Transparency and impartiality are crucial for the integrity of the Zakat distribution process; recusal prevents bias.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11317,
+            "question_text": "When assessing an applicant's level of 'Need', which of the following carries the most weight?",
+            "options": [
+                "The applicant's hobby",
+                "The presence of severe chronic illness within the immediate family",
+                "The applicant's choice of major",
+                "The distance the applicant lives from campus"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Medical expenses and the inability to work due to health issues are high-priority factors in determining financial distress.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11318,
+            "question_text": "What is the purpose of the 'Final Review Session' held by the Zakat Committee?",
+            "options": [
+                "To vote on the budget for the following year",
+                "To approve or deny the final list of recommended scholarship recipients",
+                "To change the university admissions requirements",
+                "To interview all applicants in person"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The committee performs a final oversight function to ensure that all selected recipients meet the criteria and that the selection process was consistent.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11319,
+            "question_text": "Which of these factors should NOT influence a Zakat Committee's decision?",
+            "options": [
+                "The financial status of the applicant",
+                "The academic eligibility of the applicant",
+                "The religious or political affiliation of the applicant",
+                "The applicant's current employment status"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Zakat distribution should be based on need, academic potential, and eligibility guidelines rather than personal ideologies.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11320,
+            "question_text": "If two applicants have identical financial need and academic scores, what should the committee look at next?",
+            "options": [
+                "The date the application was submitted",
+                "The size of the applicant's family unit (number of dependents)",
+                "The applicant's physical appearance",
+                "The number of recommendations they submitted"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Supporting larger, more dependent-heavy households typically takes priority in Zakat distribution, as their financial strain is generally higher.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11321,
+            "question_text": "What is the primary role of a Zakat Committee member during the 'Deliberation Phase'?",
+            "options": [
+                "To advocate for friends or family members",
+                "To evaluate applications based on pre-defined fairness and Zakat eligibility criteria",
+                "To personally fund the scholarships that are approved",
+                "To rewrite the university's academic policies"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The committee's mandate is to ensure that funds are distributed strictly according to established Zakat protocols and university guidelines.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11322,
+            "question_text": "What is the 'Conflict of Interest' protocol for a committee member if an applicant is a distant relative?",
+            "options": [
+                "They must disclose the relationship and recuse themselves from that specific vote",
+                "They are allowed to vote as long as the relative is qualified",
+                "They should inform the other members of the relative's high GPA",
+                "They must double their donation to the Zakat fund"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Transparency and impartiality are crucial in Zakat distribution to prevent favoritism and maintain the integrity of the committee.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11323,
+            "question_text": "When the committee has limited funds, which group should receive priority based on standard Zakat principles?",
+            "options": [
+                "The student with the highest GPA regardless of need",
+                "Students belonging to the most vulnerable 'Asnaf' categories with the greatest financial necessity",
+                "The students who applied for the scholarship first",
+                "Students in the most prestigious degree programs"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Zakat is intended to alleviate need; therefore, those with the highest degree of financial distress must be prioritized.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11324,
+            "question_text": "What is the purpose of a 'Blind Review' in the Zakat committee process?",
+            "options": [
+                "To save time by not reading the full application",
+                "To remove personal identifying information to prevent unconscious bias",
+                "To ensure the committee only sees the academic grades",
+                "To protect the identity of the committee members from the students"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Blind reviews focus the decision-making process solely on the financial need and academic eligibility, minimizing potential biases regarding gender, ethnicity, or social background.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11325,
+            "question_text": "How should a committee address an applicant who satisfies the 'Need' criteria but has a history of disciplinary issues?",
+            "options": [
+                "Ignore the disciplinary issue and fund them",
+                "Evaluate whether the disciplinary issue indicates a lack of alignment with university values despite the need",
+                "Automatically approve the student as they are poor",
+                "Ask the student to pay back the scholarship later"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "While Zakat addresses need, scholarships awarded by an academic institution often require recipients to uphold the institution's conduct standards.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11326,
+            "question_text": "In the context of the Zakat Committee, what does 'Ijtihad' refer to in decision-making?",
+            "options": [
+                "The personal wealth of the student",
+                "The scholarly effort to apply religious principles to specific, complex modern cases",
+                "The speed at which the committee votes",
+                "The mathematical formula used to calculate interest"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "When guidelines are ambiguous, committee members must exercise informed judgment (Ijtihad) rooted in scholarly tradition to ensure equitable and pious outcomes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11328,
+            "question_text": "Why does the committee perform a 'Post-Award Audit' after a semester ends?",
+            "options": [
+                "To demand money back from students who got 'A's",
+                "To verify that scholarship funds were used correctly and eligibility was maintained throughout the term",
+                "To change the university's grading policy",
+                "To provide extra funding to students who did not need it"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Audits ensure that the Zakat funds were utilized for their intended purpose and that recipients continued to meet the criteria throughout the funding period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11329,
+            "question_text": "What happens if a committee member discovers that a previously approved applicant has had a significant change in financial status (e.g., inheritance)?",
+            "options": [
+                "The award must be reviewed and potentially revoked or adjusted",
+                "The information should be ignored for the remainder of the semester",
+                "The committee must wait for the next academic year to act",
+                "The committee should increase the scholarship to cover the taxes"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "Zakat eligibility is dynamic; if an applicant no longer meets the 'need' criteria, they are no longer eligible, and the funds should be reallocated to someone who is.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 11330,
+            "question_text": "Which document serves as the final authorization for the disbursement of funds?",
+            "options": [
+                "An email from the student",
+                "A signed minutes document from the final Zakat Committee session",
+                "A verbal agreement between the Dean and the student",
+                "A copy of the applicant's acceptance letter"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Official administrative, legal, and fiduciary procedures require documented proof of the committee's authorization to release funds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

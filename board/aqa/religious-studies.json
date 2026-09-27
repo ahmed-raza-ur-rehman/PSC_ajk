@@ -1,0 +1,53 @@
+{
+    "category": "AQA",
+    "name": "Religious Studies",
+    "board": "aqa",
+    "subject": "religious-studies",
+    "url": "/aqa/religious-studies/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 3,
+    "questions": [
+        {
+            "id": 8870,
+            "question_text": "What is the concept of 'monotheism'?",
+            "options": [
+                "Belief in many gods",
+                "Belief in one God",
+                "Belief that God is in everything",
+                "Belief that there is no God"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Monotheism comes from the Greek 'mono' meaning one and 'theism' meaning belief in God.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8871,
+            "question_text": "What does the term 'monotheism' mean?",
+            "options": [
+                "The belief in many gods",
+                "The belief in one single god",
+                "The absence of any religious belief",
+                "The worship of nature"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Monotheism comes from the Greek 'monos' (single) and 'theos' (god), meaning the belief in a single deity.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8873,
+            "question_text": "Which religion considers the Qur'an to be its holy book?",
+            "options": [
+                "Christianity",
+                "Islam",
+                "Judaism",
+                "Buddhism"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The Qur'an is the central religious text of Islam, which Muslims believe is a revelation from God.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

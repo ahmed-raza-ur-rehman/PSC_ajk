@@ -1,0 +1,179 @@
+{
+    "category": "Alhamd Islamic University",
+    "name": "Marketing",
+    "board": "alhamd-islamic-university",
+    "subject": "marketing",
+    "url": "/alhamd-islamic-university/marketing/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 12435,
+            "question_text": "The '4 Ps' of marketing include which of the following?",
+            "options": [
+                "Product, Price, Promotion, Place",
+                "Planning, People, Profit, Performance",
+                "Price, Productivity, Place, Positioning",
+                "People, Process, Product, Promotion"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The marketing mix, known as the 4 Ps, covers the essential factors a business must consider when bringing a product to market.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12436,
+            "question_text": "What is 'Market Segmentation'?",
+            "options": [
+                "Setting the price for a new product",
+                "Dividing a broad target market into subsets of consumers with common needs",
+                "The process of creating a brand logo",
+                "Calculating the total sales for a quarter"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Market segmentation allows companies to tailor their marketing efforts to specific consumer groups based on demographics, geography, or behavior.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12437,
+            "question_text": "Which stage of the Product Life Cycle typically sees sales peaking and competition becoming intense?",
+            "options": [
+                "Introduction",
+                "Growth",
+                "Maturity",
+                "Decline"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "In the Maturity stage, market saturation occurs, leading to intense competition and peak sales.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12438,
+            "question_text": "What is 'B2B' marketing?",
+            "options": [
+                "Business-to-Buyer marketing",
+                "Business-to-Business marketing",
+                "Basic-to-Basic marketing",
+                "Broker-to-Broker marketing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "B2B marketing refers to selling products or services from one business to another.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12439,
+            "question_text": "What is the primary goal of brand positioning?",
+            "options": [
+                "To design the product's packaging",
+                "To create a unique impression in the customer's mind relative to competitors",
+                "To set the lowest possible price",
+                "To distribute products to as many stores as possible"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Brand positioning is about differentiating your product in the minds of the target audience.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12440,
+            "question_text": "Which of the following is a component of the 'Promotion' mix?",
+            "options": [
+                "Warehouse location",
+                "Public Relations",
+                "Product design",
+                "Payment terms"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The promotion mix includes advertising, personal selling, sales promotion, and public relations.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12441,
+            "question_text": "What is 'psychographic segmentation' based on?",
+            "options": [
+                "Age and gender",
+                "Geographic location",
+                "Lifestyle, values, and interests",
+                "Purchase frequency"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Psychographic segmentation groups consumers based on their personality, lifestyle, social status, and interests.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12442,
+            "question_text": "What is 'Market Penetration'?",
+            "options": [
+                "Introducing a new product to a new market",
+                "Increasing sales of existing products in existing markets",
+                "Charging a very high initial price",
+                "Focusing on a single segment of the market"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Market penetration is a strategy to grow by selling more of the same products to the same customers, often through increased marketing.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12443,
+            "question_text": "What is a 'Unique Selling Proposition' (USP)?",
+            "options": [
+                "The retail price of a product",
+                "The target demographic of a brand",
+                "The factor that makes a product different and better than its competitors",
+                "The packaging design of a product"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A USP is the specific benefit or feature that distinguishes a product from its rivals.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12444,
+            "question_text": "Which pricing strategy involves setting a high price to create an image of exclusivity?",
+            "options": [
+                "Penetration pricing",
+                "Cost-plus pricing",
+                "Prestige pricing",
+                "Competitive pricing"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Prestige pricing relies on the association of a high price with higher quality and luxury status.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12445,
+            "question_text": "What is a 'Marketing Channel'?",
+            "options": [
+                "The total budget for advertising",
+                "The path through which products move from producer to consumer",
+                "A segment of customers",
+                "The social media platform used for marketing"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A marketing channel (or distribution channel) includes all the intermediaries that get a product to the end user.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12446,
+            "question_text": "What does 'CRM' stand for in marketing?",
+            "options": [
+                "Consumer Retail Management",
+                "Customer Relationship Management",
+                "Central Revenue Method",
+                "Company Resource Mapping"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "CRM refers to the practices and technologies used to manage and analyze customer interactions to improve business relationships.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

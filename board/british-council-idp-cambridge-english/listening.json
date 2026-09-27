@@ -1,0 +1,179 @@
+{
+    "category": "British Council, IDP, Cambridge English",
+    "name": "Listening",
+    "board": "british-council-idp-cambridge-english",
+    "subject": "listening",
+    "url": "/british-council-idp-cambridge-english/listening/2026/subject-mcqs",
+    "country": "GB",
+    "totalQuestions": 12,
+    "questions": [
+        {
+            "id": 8650,
+            "question_text": "How many questions are included in the IELTS Listening test?",
+            "options": [
+                "30",
+                "40",
+                "50",
+                "60"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The IELTS Listening test consists of 40 questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8878,
+            "question_text": "Which IELTS test components are identical for both Academic and General Training?",
+            "options": [
+                "Reading and Writing",
+                "Listening and Speaking",
+                "Writing and Speaking",
+                "Reading and Listening"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The information provided states that the Speaking and Listening tests are the same in both the Academic and General Training versions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8879,
+            "question_text": "If you require extra time for the Listening test due to a specific need, what might the test supervisor do?",
+            "options": [
+                "Give you unlimited time to complete the test.",
+                "Pause the audio to provide time for reading and answering.",
+                "Allow you to read the questions after the audio finishes.",
+                "Repeat the entire audio recording three times."
+            ],
+            "correct_answer_index": 1,
+            "explanation": "For those needing extra time, the supervisor can stop the recording at specific points to give the test taker sufficient time to read and write answers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8880,
+            "question_text": "What is the typical approximate duration of the IELTS Listening section?",
+            "options": [
+                "15 minutes",
+                "30 minutes",
+                "60 minutes",
+                "90 minutes"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The IELTS Listening section is designed to take approximately 30 minutes to complete.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8881,
+            "question_text": "How many questions are generally included in the IELTS Listening test?",
+            "options": [
+                "20 questions",
+                "30 questions",
+                "40 questions",
+                "50 questions"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The standard IELTS Listening test consists of 40 individual questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8882,
+            "question_text": "If a test taker needs extra time for the Listening test due to specific needs, what action might the test supervisor take?",
+            "options": [
+                "Pause the recording at specific points to allow extra time",
+                "Provide the transcript to read",
+                "Skip the remaining sections",
+                "Allow the test taker to work alone in a private room indefinitely"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "For approved access arrangements, supervisors can stop or pause the recording to give the candidate more time to read or write answers.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8883,
+            "question_text": "Can test takers use personal audio devices for the Listening test?",
+            "options": [
+                "Yes, if they bring their own",
+                "No, personal audio players are not allowed",
+                "Yes, if they use Bluetooth",
+                "Only for the practice session"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Test takers are not permitted to use their own personal audio players to listen to the test recording.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8884,
+            "question_text": "Which version of the Listening test might be offered to lip-readers?",
+            "options": [
+                "A standard recorded version",
+                "A version where the supervisor reads the text aloud for lip-reading",
+                "A sign language video version",
+                "A written summary version"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Test takers who lip-read can request a hearing-impaired version where the supervisor reads the material aloud twice.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8885,
+            "question_text": "What is the approximate time given to complete the IELTS Listening section?",
+            "options": [
+                "Approximately 30 minutes",
+                "Exactly 60 minutes",
+                "11 to 14 minutes",
+                "2 hours and 45 minutes"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "The provided webpage indicates that the Listening section time is approximately 30 minutes.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8886,
+            "question_text": "If a test taker requires extra time for the Listening test due to a disability, what is a potential arrangement?",
+            "options": [
+                "The supervisor records the test for them",
+                "The supervisor stops the recording at specific points to allow time for reading and writing",
+                "The test taker is allowed to bring their own personal audio device",
+                "The test is skipped entirely"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The page states that for extra time versions of the Listening test, the supervisor will pause the recording to allow time for reading and answering questions.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8887,
+            "question_text": "Can a test taker use their own personal audio player during the Listening test?",
+            "options": [
+                "Yes, if it has noise-canceling features",
+                "No, test takers are not allowed to use personal audio players",
+                "Yes, if they have a medical certificate",
+                "Only for the IELTS Academic test"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The text explicitly states that test takers are not allowed to use a personal audio player to listen to the recording.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 8888,
+            "question_text": "Which version of the Listening test is appropriate for someone who can lip-read in English?",
+            "options": [
+                "The online-only version",
+                "The hearing-impaired (lip-reading) version",
+                "The standard version with extra breaks",
+                "The Braille version"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The webpage notes that the hearing-impaired (lip-reading) version is suitable for those who are able to lip-read in English.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

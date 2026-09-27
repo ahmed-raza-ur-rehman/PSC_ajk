@@ -1,0 +1,151 @@
+{
+    "category": "Bahria University",
+    "name": "Mathematics for Computer Science",
+    "board": "bahria-university",
+    "subject": "mathematics-for-computer-science",
+    "url": "/bahria-university/mathematics-for-computer-science/2026/subject-mcqs",
+    "country": "PK",
+    "totalQuestions": 10,
+    "questions": [
+        {
+            "id": 12785,
+            "question_text": "What is the value of the Big-O notation for the function f(n) = 3n^2 + 5n + 10?",
+            "options": [
+                "O(n)",
+                "O(n log n)",
+                "O(n^2)",
+                "O(n^3)"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Big-O notation considers the highest order term, which in this case is n^2.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12786,
+            "question_text": "If a graph has V vertices and E edges, what is the sum of the degrees of all vertices?",
+            "options": [
+                "E",
+                "V + E",
+                "2E",
+                "V^2"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "According to the Handshaking Lemma, the sum of the degrees of all vertices in a graph is equal to twice the number of edges.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12787,
+            "question_text": "What is the probability of flipping a fair coin 3 times and getting exactly 2 heads?",
+            "options": [
+                "1/8",
+                "3/8",
+                "1/2",
+                "2/3"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Using the binomial distribution: (3 choose 2) * (0.5)^2 * (0.5)^1 = 3 * 0.125 = 0.375 or 3/8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12788,
+            "question_text": "If a matrix A has an eigenvalue of 0, what can be concluded about A?",
+            "options": [
+                "A is invertible",
+                "A is singular (non-invertible)",
+                "A must be a zero matrix",
+                "The trace of A is 0"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A square matrix is singular if and only if its determinant is 0, which is equivalent to at least one of its eigenvalues being 0.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12789,
+            "question_text": "Which logic gate represents the logical operation 'P AND (NOT Q)'?",
+            "options": [
+                "NAND",
+                "XOR",
+                "Implication",
+                "Inhibit"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The inhibit gate or operation performs a conjunction of one variable and the negation of another (P ∧ ¬Q).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12790,
+            "question_text": "What is the power set of a set with 3 elements?",
+            "options": [
+                "3 elements",
+                "6 elements",
+                "8 elements",
+                "9 elements"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "The number of elements in the power set of a set with n elements is 2^n. For n=3, 2^3 = 8.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12791,
+            "question_text": "What is the result of the summation sum_{i=1}^{n} i?",
+            "options": [
+                "n(n+1)/2",
+                "n^2",
+                "n(n-1)",
+                "n(n+1)(2n+1)/6"
+            ],
+            "correct_answer_index": 0,
+            "explanation": "This is the standard formula for the sum of the first n positive integers (the triangular number formula).",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12792,
+            "question_text": "What is the cardinality of the power set of a set with 5 elements?",
+            "options": [
+                "5",
+                "10",
+                "25",
+                "32"
+            ],
+            "correct_answer_index": 3,
+            "explanation": "The cardinality of the power set of a set with n elements is 2^n. For n=5, 2^5 = 32.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12793,
+            "question_text": "If a function is strictly increasing and differentiable, what can be said about its derivative?",
+            "options": [
+                "f'(x) = 0",
+                "f'(x) > 0",
+                "f'(x) < 0",
+                "f'(x) is undefined"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "A strictly increasing function must have a positive slope (derivative) across its domain.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 12794,
+            "question_text": "What is the result of the bitwise XOR operation: 1010 XOR 1100?",
+            "options": [
+                "0010",
+                "0110",
+                "1110",
+                "1000"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "XOR returns 1 if bits are different and 0 if they are the same: 1^1=0, 0^1=1, 1^0=1, 0^0=0. So 1010^1100 = 0110.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

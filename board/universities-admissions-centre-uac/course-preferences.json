@@ -1,0 +1,109 @@
+{
+    "category": "Universities Admissions Centre (UAC)",
+    "name": "Course Preferences",
+    "board": "universities-admissions-centre-uac",
+    "subject": "course-preferences",
+    "url": "/universities-admissions-centre-uac/course-preferences/2026/subject-mcqs",
+    "country": "AU",
+    "totalQuestions": 7,
+    "questions": [
+        {
+            "id": 9206,
+            "question_text": "How many undergraduate course preferences can you include in a single UAC application?",
+            "options": [
+                "Up to 3",
+                "Up to 5",
+                "Up to 10",
+                "Unlimited"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "The standard UAC undergraduate application allows you to select up to five course preferences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9207,
+            "question_text": "If you receive an offer in an early round, what should you do if you want to be considered for your higher preferences in later rounds?",
+            "options": [
+                "Accept the offer and leave your preferences as they are",
+                "Decline the offer immediately",
+                "Remove the successful course from your preferences list",
+                "Call the university to request a transfer"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Removing the course you were offered prevents it from blocking future offers to higher-listed preferences in later rounds.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9208,
+            "question_text": "How many undergraduate course preferences are you generally allowed to include in a single UAC application?",
+            "options": [
+                "Up to 2",
+                "Up to 3",
+                "Up to 5",
+                "Up to 10"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "A single undergraduate UAC application allows you to include up to five course preferences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9209,
+            "question_text": "If you receive an offer in an early round, what should you do if you still want to be considered for your higher preferences in later rounds?",
+            "options": [
+                "Do nothing and wait",
+                "Delete the course you were offered from your preferences",
+                "Withdraw your entire application",
+                "Accept the offer and leave the course as your first preference"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "To remain eligible for higher preferences in future rounds, you should remove the course you have already been offered to prevent it from blocking offers to your higher-listed preferences.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9210,
+            "question_text": "How often can you change your course preferences through UAC?",
+            "options": [
+                "Only once per month",
+                "You cannot change them once submitted",
+                "As often as you like, free of charge",
+                "Only when you receive an offer"
+            ],
+            "correct_answer_index": 2,
+            "explanation": "Applicants are free to change their course preferences as often as they wish at no additional cost throughout the admissions period.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9211,
+            "question_text": "Why is it important to list your most desired course as your first preference?",
+            "options": [
+                "Because institutions only look at the first preference",
+                "Preferences are considered in the order you list them",
+                "It is a legal requirement of the government",
+                "It determines the application fee amount"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "Course preferences are evaluated in the order they are listed. If you are eligible for a higher preference, you will receive an offer for that course, and lower preferences will not be considered.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        },
+        {
+            "id": 9216,
+            "question_text": "What happens if your course preference status is 'competing with other applicants'?",
+            "options": [
+                "You have been rejected",
+                "You have met basic requirements but are waiting to see if your selection rank is high enough for an offer",
+                "You need to pay an extra fee",
+                "You are automatically guaranteed a place"
+            ],
+            "correct_answer_index": 1,
+            "explanation": "This status means you are eligible but must wait to see if you rank high enough against other applicants to receive an offer.",
+            "is_past_paper": false,
+            "exam_source": "AI"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /data/source/
+
+Sitemap: https://psc-ajk.vercel.app/sitemap.xml

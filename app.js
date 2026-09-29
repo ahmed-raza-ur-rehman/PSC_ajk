@@ -11,6 +11,8 @@ const state = {
   session: null,
   lastFilters: null,
   boardCatalog: [],
+  builderManifest: null,
+  shards: new Map(),
   voiceMode: false,
   noScreen: false,
   blackoutMode: false,
@@ -801,7 +803,12 @@ function renderLearningDashboard(){
   calculateCognitiveLoad();
 }
 
-// ─── Data normalization ───
+// ─── Data layer — manifest-driven, lazy-loaded shards ───
+// Boot downloads only the bank manifest + board catalog. Question shards
+// (data/banks/builder/<subject>.json) and board subject files are fetched on
+// demand when a session actually needs them, then cached in memory.
+const BUILDER_SHARD_URL = (subj) => `data/banks/builder/${subj}.json`;
+
 function normalizeBuilderQuestion(q){
   return {
     id:`builder:${q.id}`,
@@ -842,37 +849,116 @@ async function loadJson(url){
   return resp.json();
 }
 async function loadBanks(){
-  const builder=loadJson('../builder/questions.json').then(data=>({
-    id:'builder', label:'Builder question bank',
-    questions:data.questions.map(normalizeBuilderQuestion),
-  }));
-  const board=loadJson('../board/index.json').then(index=>{
-    state.boardCatalog=index.subjects;
-    return {id:'board', label:'Board subject bank', questions:[]};
+  const manifest=loadJson('data/banks/manifest.json').then(data=>{
+    state.builderManifest=data;
+    return {id:'builder', label:'Builder — curated bank', questions:[]};
   });
-  state.banks=await Promise.all([builder, board]);
-  state.available=state.banks.flatMap(b=>b.questions);
+  const board=loadJson('board/index.json').then(index=>{
+    state.boardCatalog=index.subjects;
+    return {id:'board', label:'Board subjects — 80+ exam bodies', questions:[]};
+  });
+  state.banks=await Promise.all([manifest, board]);
+  state.available=[];
 }
-function valuesFor(key){ return [...new Set(state.available.map(q=>q[key]).filter(Boolean))].sort((a,b)=>String(a).localeCompare(String(b))); }
+// Load a builder shard once; normalized questions are cached and merged into state.available.
+async function builderShard(subj){
+  if(state.shards.has(subj)) return state.shards.get(subj);
+  const data=await loadJson(BUILDER_SHARD_URL(subj));
+  const qs=(data.questions||[]).map(normalizeBuilderQuestion);
+  state.shards.set(subj,qs);
+  state.available.push(...qs);
+  return qs;
+}
+// Progressive shard loader: fetches candidate shards in small batches until
+// `need` matching questions are pooled (or everything matched for marathons).
+async function collectShards(candidates, match, need, progressLabel){
+  const matched=[];
+  const queue=candidates.filter(Boolean);
+  const total=queue.length;
+  let loaded=0;
+  while(queue.length && (need===Infinity || matched.length<need)){
+    const batch=queue.splice(0,3);
+    const results=await Promise.all(batch.map(s=>builderShard(s.subj)));
+    results.forEach(qs=>{ qs.forEach(q=>{ if(!match || match(q)) matched.push(q); }); });
+    loaded+=batch.length;
+    if(total>3) toast(`${progressLabel} — ${Math.round(loaded/total*100)}%`, 900);
+  }
+  return matched;
+}
+function builderCandidates(filters){
+  const m=state.builderManifest; if(!m) return [];
+  return m.subjects.filter(s=>
+    (filters.collection==='all' || s.examBodies.includes(filters.collection)) &&
+    (filters.subject==='all' || s.subj===filters.subject) &&
+    (filters.year==='all' || s.years.includes(filters.year)) &&
+    (filters.topic==='all' || (s.topicCounts && s.topicCounts[filters.topic]>0))
+  );
+}
+async function collectBuilderQuestions(filters, need){
+  const candidates=builderCandidates(filters);
+  if(!candidates.length) return [];
+  return collectShards(candidates,
+    q=> (filters.year==='all' || String(q.year)===String(filters.year)) && (filters.topic==='all' || q.topic===filters.topic),
+    need, 'Loading builder bank');
+}
+async function collectBoardQuestions(filters, need){
+  const subjects=state.boardCatalog.filter(s=>
+    (filters.collection==='all' || s.board===filters.collection) &&
+    (filters.subject==='all' || s.subject===filters.subject) &&
+    (filters.year==='all' || filters.year==='2026')
+  );
+  const matched=[]; const queue=[...subjects]; const total=queue.length;
+  while(queue.length && (need===Infinity || matched.length<need)){
+    const batch=queue.splice(0,8);
+    const results=await Promise.all(batch.map(async s=>{
+      const data=await loadJson(s.apiFile);
+      return (data.questions||[]).map(q=>normalizeBoardQuestion(data,q)).filter(q=> filters.topic==='all' || q.topic===filters.topic);
+    }));
+    results.forEach(qs=>matched.push(...qs));
+    if(total>8) toast(`Loading board subjects — ${Math.round((total-queue.length)/total*100)}%`, 900);
+  }
+  return matched;
+}
+// Route stored learning-profile ids back to their shards so due / Leitner /
+// weakest pools cover the full history even in lazy mode.
+async function ensureProfileShards(){
+  const m=state.builderManifest; if(!m) return;
+  const need=new Set();
+  for(const id of [...Object.keys(state.learning), ...Object.keys(state.misconceptions)]){
+    if(!id.startsWith('builder:')) continue;
+    const subj=m.idIndex?.[id.slice(8)];
+    if(subj && !state.shards.has(subj)) need.add(subj);
+  }
+  if(need.size){
+    toast('Restoring your learning history…', 1500);
+    await Promise.all([...need].map(builderShard));
+  }
+}
 function fillSelect(sel, values, allLabel){
   if(!sel) return;
   sel.innerHTML=`<option value="all">${allLabel}</option>`+values.map(v=>`<option value="${esc(v)}">${esc(labelize(v))}</option>`).join('');
 }
 function refreshFilters(changed){
   const source=$('#source-filter')?.value||'all';
+  const m=state.builderManifest;
   const catalog=source==='builder' ? [] : state.boardCatalog;
+  const builderSubjects=source==='board' ? [] : (m?.subjects||[]);
   const questions=state.available.filter(q=> source==='all' || q.source===source);
-  const collections=[...new Set([...questions.map(q=>q.collection), ...catalog.map(q=>q.board)])].sort();
+  const collections=[...new Set([
+    ...builderSubjects.flatMap(s=>s.examBodies),
+    ...catalog.map(q=>q.board),
+  ])].sort();
   if(changed!=='collection') fillSelect($('#collection-filter'), collections, 'All collections');
   const collection=$('#collection-filter')?.value||'all';
-  const scoped=questions.filter(q=> collection==='all' || q.collection===collection);
+  const builderScoped=builderSubjects.filter(s=> collection==='all' || s.examBodies.includes(collection));
   const catalogScoped=catalog.filter(q=> collection==='all' || q.board===collection);
-  if(changed!=='subject') fillSelect($('#subject-filter'), [...new Set([...scoped.map(q=>q.subject), ...catalogScoped.map(q=>q.subject)])].sort(), 'All subjects');
+  if(changed!=='subject') fillSelect($('#subject-filter'), [...new Set([...builderScoped.map(s=>s.subj), ...catalogScoped.map(q=>q.subject)])].sort(), 'All subjects');
   const subject=$('#subject-filter')?.value||'all';
-  const subjectScoped=scoped.filter(q=> subject==='all' || q.subject===subject);
+  const subjectScoped=builderScoped.filter(s=> subject==='all' || s.subj===subject);
   const catalogSubjectScoped=catalogScoped.filter(q=> subject==='all' || q.subject===subject);
-  if(changed!=='topic') fillSelect($('#topic-filter'), [...new Set(subjectScoped.map(q=>q.topic))].sort(), 'All topics');
-  if(changed!=='year') fillSelect($('#year-filter'), [...new Set([...subjectScoped.map(q=>q.year), ...catalogSubjectScoped.map(()=> '2026')])].sort().reverse(), 'All years');
+  if(changed!=='topic') fillSelect($('#topic-filter'), [...new Set(subjectScoped.flatMap(s=>s.topics))].sort(), 'All topics');
+  if(changed!=='year') fillSelect($('#year-filter'), [...new Set([...subjectScoped.flatMap(s=>s.years), ...catalogSubjectScoped.map(()=> '2026')])].sort().reverse(), 'All years');
+  void questions;
   updateMatches();
 }
 function updateMatches(){
@@ -883,9 +969,18 @@ function updateMatches(){
     topic:$('#topic-filter')?.value||'all',
     year:$('#year-filter')?.value||'all',
   };
-  state.filtered=state.available.filter(q=> Object.entries(filters).every(([k,v])=> v==='all' || q[k]===v));
+  const m=state.builderManifest;
+  const builderCount=(filters.source==='board' ? 0 : (m?.subjects||[]))
+    .filter(s=>
+      (filters.collection==='all' || s.examBodies.includes(filters.collection)) &&
+      (filters.subject==='all' || s.subj===filters.subject) &&
+      (filters.year==='all' || s.years.includes(filters.year)) &&
+      (filters.topic==='all' || (s.topicCounts ? (s.topicCounts[filters.topic]||0) : 0) > 0)
+    )
+    .reduce((t,s)=> t + (filters.topic==='all' ? s.total : (s.topicCounts?.[filters.topic]||0)), 0);
   const boardCount=state.boardCatalog.filter(s=> filters.source!=='builder' && (filters.collection==='all' || s.board===filters.collection) && (filters.subject==='all' || s.subject===filters.subject) && (filters.year==='all' || filters.year==='2026')).reduce((t,s)=>t+s.totalQuestions,0);
-  const total=(filters.source==='board' ? 0 : state.filtered.length) + (filters.source==='builder' ? 0 : boardCount);
+  const total=builderCount+boardCount;
+  state.filtered=[];
   const matchEl=$('#match-count'); if(matchEl) matchEl.textContent=`${total.toLocaleString()} questions match • Visual load ${state.visualLoad.score} • Acoustic load ${state.acousticLoad.score}`;
   const startBtn=$('#start-button'); if(startBtn) startBtn.disabled=total===0;
 }
@@ -1104,23 +1199,39 @@ async function startSession(){
     topic:$('#topic-filter')?.value||'all',
     year:$('#year-filter')?.value||'all',
   };
-  const builderQ=filters.source==='board' ? [] : state.available.filter(q=> Object.entries(filters).every(([k,v])=> k==='source' || v==='all' || q[k]===v));
-  const boardSubjects=filters.source==='builder' ? [] : state.boardCatalog.filter(s=> (filters.collection==='all'||s.board===filters.collection) && (filters.subject==='all'||s.subject===filters.subject) && (filters.year==='all'||filters.year==='2026'));
-  const boardQ=(await Promise.all(boardSubjects.map(async s=>{
-    const data=await loadJson(`../${s.apiFile}`);
-    return data.questions.map(q=> normalizeBoardQuestion(data,q)).filter(q=> filters.topic==='all' || q.topic===filters.topic);
-  }))).flat();
   const mode=document.querySelector('input[name="mode"]:checked')?.value||'practice';
+  const limitRaw=$('#limit-filter')?.value||'20';
+  const limit=limitRaw==='all' ? Infinity : Number(limitRaw);
+  const matchEl=$('#match-count'); if(matchEl) matchEl.textContent='Preparing session — loading question shards…';
   let allQ;
   switch(mode){
-    case 'due': allQ=dueQuestions(); break;
-    case 'leitner': allQ=leitnerDrillQuestions(); break;
-    case 'weakest': allQ=weakestQuestions(); break;
-    case 'misconceptions': allQ=misconceptionQuestions(); if(!allQ.length) allQ=weakestQuestions(); break;
-    default: allQ=[...builderQ, ...boardQ]; break;
+    case 'due': case 'leitner': case 'weakest': case 'misconceptions': {
+      await ensureProfileShards();
+      allQ = mode==='due' ? dueQuestions()
+           : mode==='leitner' ? leitnerDrillQuestions()
+           : mode==='weakest' ? weakestQuestions()
+           : misconceptionQuestions();
+      if(!allQ.length && mode==='misconceptions') allQ=weakestQuestions();
+      if(!allQ.length){
+        toast('No review items yet — starting a fresh practice set instead');
+        const need=limit===Infinity ? 120 : limit*3;
+        const builderQ=filters.source==='board' ? [] : await collectBuilderQuestions(filters, need);
+        const boardNeed=filters.source==='builder' || limit!==Infinity && builderQ.length>=limit ? 0 : (limit===Infinity ? Infinity : Math.max(limit-builderQ.length, limit));
+        const boardQ=filters.source==='builder' ? [] : await collectBoardQuestions(filters, boardNeed);
+        allQ=[...builderQ, ...boardQ];
+      }
+      break;
+    }
+    default: {
+      const need=limit===Infinity ? Infinity : limit*3;
+      const builderQ=filters.source==='board' ? [] : await collectBuilderQuestions(filters, need);
+      const boardNeed=filters.source==='builder' ? 0 : (limit===Infinity ? Infinity : Math.max(limit-builderQ.length, limit));
+      const boardQ=filters.source==='builder' ? [] : await collectBoardQuestions(filters, boardNeed);
+      allQ=[...builderQ, ...boardQ];
+      break;
+    }
   }
-  const limit=$('#limit-filter')?.value==='all' ? allQ.length : Number($('#limit-filter')?.value||20);
-  const questions=(mode==='interleaved' ? interleaveQuestions(shuffle(allQ)) : shuffle(allQ)).slice(0,limit);
+  const questions=(mode==='interleaved' ? interleaveQuestions(shuffle(allQ)) : shuffle(allQ)).slice(0,limit===Infinity ? allQ.length : limit);
   if(questions.length===0){
     toast('No questions match — broaden filters or review due items');
     if(startBtn) startBtn.disabled=false;
@@ -1301,17 +1412,24 @@ function renderMisconceptions(){
 // ─── Knowledge Graph ───
 function buildGraphData(){
   const concepts=new Map();
+  // Full landscape from the bank manifest (no need to load every shard).
+  const m=state.builderManifest;
+  (m?.subjects||[]).forEach(s=>{
+    concepts.set(s.subj,{id:s.subj,label:labelize(s.subj),type:'subject',total:s.total,health:0,children:new Set()});
+    // Top topics per subject keep the force simulation performant.
+    const topics=Object.entries(s.topicCounts||{}).sort((a,b)=>b[1]-a[1]).slice(0,24);
+    topics.forEach(([topic,count])=>{
+      const topicKey=`${s.subj}:${topic}`;
+      concepts.set(topicKey,{id:topicKey,label:labelize(topic),type:'topic',parent:s.subj,total:count,health:0,children:new Set()});
+      concepts.get(s.subj).children.add(topicKey);
+    });
+  });
+  // Health from what the learner has actually loaded & answered.
   state.available.forEach(q=>{
-    const subKey=q.subject;
-    if(!concepts.has(subKey)) concepts.set(subKey,{id:subKey,label:labelize(q.subject),type:'subject',total:0,health:0,children:new Set()});
-    const entry=concepts.get(subKey); entry.total+=1;
-    const p=getProfile(q); entry.health+= p.lastCorrect===true ? 1 : p.lastCorrect===false ? -1 : 0;
-    if(q.topic){
-      const topicKey=`${q.subject}:${q.topic}`;
-      if(!concepts.has(topicKey)) concepts.set(topicKey,{id:topicKey,label:labelize(q.topic),type:'topic',parent:subKey,total:0,health:0,children:new Set()});
-      const topicEntry=concepts.get(topicKey); topicEntry.total+=1; topicEntry.health+= p.lastCorrect===true ? 1 : p.lastCorrect===false ? -1 : 0;
-      entry.children.add(topicKey);
-    }
+    const entry=concepts.get(q.subject);
+    if(entry) entry.health+= getProfile(q).lastCorrect===true ? 1 : getProfile(q).lastCorrect===false ? -1 : 0;
+    const topicEntry=q.topic ? concepts.get(`${q.subject}:${q.topic}`) : null;
+    if(topicEntry) topicEntry.health+= getProfile(q).lastCorrect===true ? 1 : getProfile(q).lastCorrect===false ? -1 : 0;
   });
   state.boardCatalog.forEach(s=>{
     const key=`board:${s.board}:${s.subject}`;
@@ -1957,10 +2075,11 @@ async function init(){
     loadLearning();
     loadMisconceptions();
     await loadBanks();
+    const builderTotal=state.builderManifest?.totalQuestions||0;
     const boardCount=state.boardCatalog.reduce((t,s)=>t+s.totalQuestions,0);
-    $('#stat-questions').textContent=(state.available.length+boardCount).toLocaleString();
+    $('#stat-questions').textContent=(builderTotal+boardCount).toLocaleString();
     $('#stat-banks').textContent=state.banks.length;
-    $('#stat-subjects').textContent=new Set([...state.available.map(q=>`${q.source}:${q.subject}`), ...state.boardCatalog.map(q=>`board:${q.board}:${q.subject}`)]).size;
+    $('#stat-subjects').textContent=((state.builderManifest?.subjects.length)||0)+state.boardCatalog.length;
     $('#load-status').textContent='Ready • Cognitive engine online';
     $('.status-dot')?.classList.remove('pulsing'); $('.status-dot')?.classList.add('ready');
     const sourceSel=$('#source-filter');
@@ -1973,6 +2092,9 @@ async function init(){
     renderLearningDashboard();
     renderHistory();
     renderMisconceptions();
+    if('serviceWorker' in navigator){
+      navigator.serviceWorker.register('sw.js').catch((err)=>console.warn('Offline mode unavailable:', err.message));
+    }
     toast('NeuroPrep ready — visual load & acoustic load optimized • Press ? for shortcuts • Ctrl+K for commands');
   }catch(error){
     $('#load-status').textContent='Error loading data';

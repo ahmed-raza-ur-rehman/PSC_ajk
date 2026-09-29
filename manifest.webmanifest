@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "NeuroPrep — CSS / PMS / PSC Science-Backed Preparation",
+  "short_name": "NeuroPrep",
+  "description": "Professional CSS, PMS, FPSC, PPSC, AJK PSC preparation platform. Neuroscience-backed: spaced repetition, active recall, Leitner, interleaving, knowledge graphs, eyes-free audio mode for zero eye strain.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070b18",
+  "theme_color": "#06b6d4",
+  "orientation": "any",
+  "categories": ["education", "productivity"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Study Session", "url": "/#study", "description": "Start retrieval session" },
+    { "name": "Due Review", "url": "/#study", "description": "Review due items" },
+    { "name": "Weed-Out Lab", "url": "/#misconceptions", "description": "Diagnose misconceptions" },
+    { "name": "Knowledge Graph", "url": "/#knowledge", "description": "Concept landscape" }
+  ]
+}

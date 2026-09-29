@@ -1,0 +1,21 @@
+{
+  "name": "neuroprep",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NeuroPrep — neuroscience-backed preparation platform for CSS, PMS, FPSC, PPSC and 80+ exam bodies. Vanilla JS PWA, no build step.",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build-banks.mjs",
+    "start": "python3 -m http.server 8765",
+    "serve": "npx --yes serve -l 3000 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-raza-ur-rehman/PSC_ajk.git"
+  },
+  "keywords": ["css-pakistan", "psc", "fpsc", "ppsc", "spaced-repetition", "mcq", "pwa", "education"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

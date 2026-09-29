@@ -1,0 +1,16 @@
+# — Design sources (regenerated assets live in /icons) —
+tools/design/
+
+# — Local environment —
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+
+# — Editor —
+.vscode/
+.idea/
+
+# — Node —
+node_modules/

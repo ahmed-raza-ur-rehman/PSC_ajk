@@ -563,8 +563,8 @@ function speakText(text, onend){
   window.speechSynthesis.speak(utt);
 }
 function stopSpeech(){ if('speechSynthesis' in window) window.speechSynthesis.cancel(); }
-function openVoiceModal(){ refreshVoices(); syncAudioControls(); $('#voice-modal')?.classList.remove('hidden'); }
-function closeVoiceModal(){ $('#voice-modal')?.classList.add('hidden'); saveAudioSettings(); }
+function openVoiceModal(){ refreshVoices(); syncAudioControls(); $('#voice-modal')?.classList.remove('hidden'); setOverlayState(true); $('#modal-voice-select')?.focus(); }
+  function closeVoiceModal(){ $('#voice-modal')?.classList.add('hidden'); saveAudioSettings(); if(!document.querySelector('.modal-backdrop:not(.hidden), .drawer-backdrop:not(.hidden)')) setOverlayState(false); }
 function testVoiceAudio(){
   playEarcon('test');
   const statusEl=$('#test-audio-status');
@@ -1678,9 +1678,10 @@ const commands=[
 function openCommandPalette(){
   const pal=$('#cmd-palette'); if(!pal) return;
   pal.classList.remove('hidden');
+  setOverlayState(true);
   const input=$('#cmd-input'); if(input){ input.value=''; input.focus(); renderCommandList(''); }
-}
-function closeCommandPalette(){ $('#cmd-palette')?.classList.add('hidden'); }
+  }
+  function closeCommandPalette(){ $('#cmd-palette')?.classList.add('hidden'); if(!document.querySelector('.modal-backdrop:not(.hidden), .drawer-backdrop:not(.hidden)')) setOverlayState(false); }
 function renderCommandList(q){
   const list=$('#cmd-list'); if(!list) return;
   const query=q.toLowerCase();
@@ -1697,13 +1698,15 @@ function renderCommandList(q){
 // ─── Settings Drawer ───
 function openSettings(){
   $('#settings-drawer')?.classList.remove('hidden');
+  setOverlayState(true);
   calculateVisualLoad(); calculateAcousticLoad();
-}
-function closeSettings(){ $('#settings-drawer')?.classList.add('hidden'); saveVisualSettings(); saveAudioSettings(); }
+  $('#set-theme')?.focus();
+  }
+  function closeSettings(){ $('#settings-drawer')?.classList.add('hidden'); saveVisualSettings(); saveAudioSettings(); if(!document.querySelector('.modal-backdrop:not(.hidden), .drawer-backdrop:not(.hidden)')) setOverlayState(false); }
 
 // ─── Shortcuts Modal ───
-function openShortcuts(){ $('#shortcuts-modal')?.classList.remove('hidden'); }
-function closeShortcuts(){ $('#shortcuts-modal')?.classList.add('hidden'); }
+function openShortcuts(){ $('#shortcuts-modal')?.classList.remove('hidden'); setOverlayState(true); $('#shortcuts-close')?.focus(); }
+  function closeShortcuts(){ $('#shortcuts-modal')?.classList.add('hidden'); if(!document.querySelector('.modal-backdrop:not(.hidden), .drawer-backdrop:not(.hidden)')) setOverlayState(false); }
 
 // ─── Navigation ───
 function navigateTo(section){
@@ -1902,6 +1905,7 @@ function setupEventListeners(){
   // Voice modal
   $('#voice-modal-close')?.addEventListener('click', closeVoiceModal);
   $('#voice-modal-save')?.addEventListener('click', closeVoiceModal);
+  $('#voice-modal')?.addEventListener('click',(e)=>{ if(e.target.id==='voice-modal') closeVoiceModal(); });
   $('#modal-voice-test')?.addEventListener('click', testVoiceAudio);
   $('#modal-voice-select')?.addEventListener('change',(e)=>{ state.audioSettings.voiceId=e.target.value; const sel=$('#voice-select'); if(sel) sel.value=e.target.value; saveAudioSettings(); });
   $('#voice-select')?.addEventListener('change',(e)=>{ state.audioSettings.voiceId=e.target.value; const ms=$('#modal-voice-select'); if(ms) ms.value=e.target.value; saveAudioSettings(); });

@@ -370,7 +370,7 @@
 
     <!-- QUIZ VIEW -->
     <section id="quiz-view" class="section-view hidden">
-      <div class="quiz-header"><div><p class="eyebrow" id="quiz-kicker">Session</p><h2 class="section-title" id="quiz-title">Practice set</h2><div class="quiz-meta-row"><span id="quiz-mode-badge" class="mode-badge">Practice</span><span id="quiz-focus-indicator" class="focus-indicator">Focus: 25:00</span></div></div><div class="quiz-tools"><span id="quiz-progress" class="quiz-progress-text">0 / 0</span><button id="voice-toggle" class="btn btn-outline btn-sm" type="button" aria-pressed="false">🔊 Voice: Off</button><button id="focus-toggle" class="btn btn-outline btn-sm" type="button">◐ Focus Mode</button><button id="exit-button" class="btn btn-ghost btn-sm">Exit (Esc)</button></div></div>
+      <div class="quiz-header"><div><p class="eyebrow" id="quiz-kicker">Session</p><h2 class="section-title" id="quiz-title">Practice set</h2><div class="quiz-meta-row"><span id="quiz-mode-badge" class="mode-badge">Practice</span><span id="quiz-focus-indicator" class="focus-indicator">Focus: 25:00</span></div></div><div class="quiz-tools"><span id="quiz-progress" class="quiz-progress-text" aria-live="polite">0 / 0</span><button id="voice-toggle" class="btn btn-outline btn-sm" type="button" aria-pressed="false">🔊 Voice: Off</button><button id="focus-toggle" class="btn btn-outline btn-sm" type="button">◐ Focus Mode</button><button id="exit-button" class="btn btn-ghost btn-sm">Exit (Esc)</button></div></div>
       <div class="progress-track"><span id="progress-fill"></span></div>
       <div id="question-list" class="question-list"></div>
       <div class="quiz-footer"><div class="quiz-footer-left"><span id="answered-count">0 answered</span><span class="shortcut-hint"><kbd>1</kbd>–<kbd>4</kbd> answer • <kbd>N</kbd>/<kbd>P</kbd> nav • <kbd>Space</kbd> speak • <kbd>C</kbd> confidence • <kbd>E</kbd> explanation • <kbd>W</kbd> weed-out • <kbd>H</kbd> hint • <kbd>Enter</kbd> finish • <kbd>?</kbd> help</span></div><button id="submit-button" class="btn btn-primary">Finish Session →</button></div>
@@ -442,9 +442,9 @@
   </div>
 
   <!-- Voice Modal -->
-  <div id="voice-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="voice-modal-title">
+  <div id="voice-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="voice-modal-title" aria-describedby="voice-modal-description">
     <div class="modal-card glass">
-      <div class="modal-header"><div class="modal-title-row"><span class="modal-icon">🎙️</span><div><h2 id="voice-modal-title">Audio & Voice Engine — Eyes-Free Ready</h2><p class="modal-subtitle">Browser SpeechSynthesis • Web Audio API earcons • SpeechRecognition for voice answers • Urdu & English auto-detect</p></div></div><button id="voice-modal-close" class="icon-button" type="button" aria-label="Close audio and voice settings" title="Close audio settings">✕</button></div>
+      <div class="modal-header"><div class="modal-title-row"><span class="modal-icon">🎙️</span><div><h2 id="voice-modal-title">Audio & Voice Engine — Eyes-Free Ready</h2><p id="voice-modal-description" class="modal-subtitle">Browser SpeechSynthesis • Web Audio API earcons • SpeechRecognition for voice answers • Urdu & English auto-detect</p></div></div><button id="voice-modal-close" class="icon-button" type="button" aria-label="Close audio and voice settings" title="Close audio settings">✕</button></div>
       <div class="modal-body">
         <label class="field"><span class="field-label">Speech Voice • Natural neural voices preferred (★)</span><div class="select-wrap"><select id="modal-voice-select"><option value="default">System Default — Auto Urdu/English</option></select></div><small class="field-help">Install more voices in OS settings. Chrome/Edge have best Urdu support. ★ = premium neural.</small></label>
         <div class="voice-sliders-grid">
@@ -467,14 +467,14 @@
     <div class="palette-card glass">
       <div class="palette-input-wrap"><svg width="18" height="18" viewBox="0 0 16 16" fill="none"><circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.3"/><path d="M11 11l3 3" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg><input id="cmd-input" type="text" placeholder="Type command: e.g., 'due review', 'no-screen', 'theme', 'knowledge graph'..." autocomplete="off"><kbd>Esc</kbd></div>
       <div id="cmd-list" class="palette-list"></div>
-      <div class="palette-footer"><span><kbd>↑</kbd><kbd>↓</kbd> Navigate • <kbd>Enter</kbd> Select • <kbd>Esc</kbd> Close</span><span>Neuroscience platform • CSS/PMS optimized</span></div>
+      <div class="palette-footer"><span><kbd>↑</kbd><kbd>��</kbd> Navigate • <kbd>Enter</kbd> Select • <kbd>Esc</kbd> Close</span><span>Neuroscience platform • CSS/PMS optimized</span></div>
     </div>
   </div>
 
   <!-- Shortcuts Modal -->
-  <div id="shortcuts-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-label="Keyboard shortcuts">
+  <div id="shortcuts-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="shortcuts-title">
     <div class="modal-card glass" style="max-width:720px">
-      <div class="modal-header"><div class="modal-title-row"><span class="modal-icon">⌨️</span><div><h2>Keyboard Shortcuts & Hotkeys — Optimized for Speed</h2><p class="modal-subtitle">Designed for minimal hand movement, Vim-inspired, full eyes-free support</p></div></div><button id="shortcuts-close" class="icon-button" type="button" aria-label="Close keyboard shortcuts" title="Close shortcuts">✕</button></div>
+      <div class="modal-header"><div class="modal-title-row"><span class="modal-icon">⌨️</span><div><h2 id="shortcuts-title">Keyboard Shortcuts & Hotkeys — Optimized for Speed</h2><p class="modal-subtitle">Designed for minimal hand movement, Vim-inspired, full eyes-free support</p></div></div><button id="shortcuts-close" class="icon-button" type="button" aria-label="Close keyboard shortcuts" title="Close shortcuts">✕</button></div>
       <div class="modal-body">
         <div class="shortcuts-grid">
           <div><h4>Global Navigation</h4><div class="key-row"><kbd>G</kbd> then <kbd>D</kbd> Dashboard</div><div class="key-row"><kbd>G</kbd> then <kbd>S</kbd> Study</div><div class="key-row"><kbd>G</kbd> then <kbd>W</kbd> Weed-Out Lab</div><div class="key-row"><kbd>G</kbd> then <kbd>K</kbd> Knowledge Graph</div><div class="key-row"><kbd>G</kbd> then <kbd>H</kbd> Analytics</div><div class="key-row"><kbd>Ctrl</kbd>+<kbd>K</kbd> Command palette</div><div class="key-row"><kbd>,</kbd> Experience settings</div><div class="key-row"><kbd>T</kbd> Theme • <kbd>?</kbd> This help</div></div>

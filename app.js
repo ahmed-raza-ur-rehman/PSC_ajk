@@ -101,6 +101,25 @@ function toast(msg, dur=2600){
   toastTimer = setTimeout(()=> el.classList.add('hidden'), dur);
 }
 
+function setOverlayState(isOpen){
+  document.body.classList.toggle('overlay-open', isOpen);
+}
+
+function closeOpenOverlays(){
+  const closers = [
+    ['#cmd-palette', closeCommandPalette],
+    ['#settings-drawer', closeSettings],
+    ['#voice-modal', closeVoiceModal],
+    ['#shortcuts-modal', closeShortcuts],
+  ];
+  let closed = false;
+  closers.forEach(([selector, close])=>{
+    const el = $(selector);
+    if(el && !el.classList.contains('hidden')){ close(); closed = true; }
+  });
+  return closed;
+}
+
 // ─── Theme & Visual Settings ───
 function initTheme(){
   const savedTheme = localStorage.getItem(THEME_KEY) || 'dark';
@@ -2051,15 +2070,13 @@ function setupEventListeners(){
   window.addEventListener('resize', debounce(()=>{ calculateVisualLoad(); }, 300));
   document.addEventListener('visibilitychange',()=>{ if(!document.hidden) calculateCircadian(); });
 
-  // Close modals on Esc (if not in quiz)
+  // Escape closes the topmost overlay before quiz shortcuts run.
   document.addEventListener('keydown',(e)=>{
-    if(e.key==='Escape'){
-      if(!$('#cmd-palette')?.classList.contains('hidden')) closeCommandPalette();
-      if(!$('#settings-drawer')?.classList.contains('hidden')) closeSettings();
-      if(!$('#voice-modal')?.classList.contains('hidden')) closeVoiceModal();
-      if(!$('#shortcuts-modal')?.classList.contains('hidden')) closeShortcuts();
+    if(e.key==='Escape' && closeOpenOverlays()){
+      e.preventDefault();
+      e.stopPropagation();
     }
-  });
+  }, true);
 }
 
 // ─── Init ───

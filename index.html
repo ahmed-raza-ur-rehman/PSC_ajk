@@ -389,7 +389,7 @@
   <!-- Settings Drawer -->
   <div id="settings-drawer" class="drawer-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="settings-title">
     <div class="drawer-card glass">
-      <div class="drawer-header"><div><h2 id="settings-title">Visual & Acoustic Experience Optimization</h2><p class="modal-subtitle">Calculate visual load & acoustic load. Optimize for prolonged retention & zero eye strain. Approved by vision science & audiology research.</p></div><button id="settings-close" class="icon-button" type="button">✕</button></div>
+      <div class="drawer-header"><div><h2 id="settings-title">Visual & Acoustic Experience Optimization</h2><p class="modal-subtitle">Calculate visual load & acoustic load. Optimize for prolonged retention & zero eye strain. Approved by vision science & audiology research.</p></div><button id="settings-close" class="icon-button" type="button" aria-label="Close experience settings" title="Close settings">✕</button></div>
       <div class="drawer-body">
         <div class="settings-grid">
           <div class="settings-section">
@@ -444,7 +444,7 @@
   <!-- Voice Modal -->
   <div id="voice-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="voice-modal-title">
     <div class="modal-card glass">
-      <div class="modal-header"><div class="modal-title-row"><span class="modal-icon">🎙️</span><div><h2 id="voice-modal-title">Audio & Voice Engine — Eyes-Free Ready</h2><p class="modal-subtitle">Browser SpeechSynthesis • Web Audio API earcons • SpeechRecognition for voice answers • Urdu & English auto-detect</p></div></div><button id="voice-modal-close" class="icon-button" type="button">✕</button></div>
+      <div class="modal-header"><div class="modal-title-row"><span class="modal-icon">🎙️</span><div><h2 id="voice-modal-title">Audio & Voice Engine — Eyes-Free Ready</h2><p class="modal-subtitle">Browser SpeechSynthesis • Web Audio API earcons • SpeechRecognition for voice answers • Urdu & English auto-detect</p></div></div><button id="voice-modal-close" class="icon-button" type="button" aria-label="Close audio and voice settings" title="Close audio settings">✕</button></div>
       <div class="modal-body">
         <label class="field"><span class="field-label">Speech Voice • Natural neural voices preferred (★)</span><div class="select-wrap"><select id="modal-voice-select"><option value="default">System Default — Auto Urdu/English</option></select></div><small class="field-help">Install more voices in OS settings. Chrome/Edge have best Urdu support. ★ = premium neural.</small></label>
         <div class="voice-sliders-grid">
@@ -474,7 +474,7 @@
   <!-- Shortcuts Modal -->
   <div id="shortcuts-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-label="Keyboard shortcuts">
     <div class="modal-card glass" style="max-width:720px">
-      <div class="modal-header"><div class="modal-title-row"><span class="modal-icon">⌨️</span><div><h2>Keyboard Shortcuts & Hotkeys — Optimized for Speed</h2><p class="modal-subtitle">Designed for minimal hand movement, Vim-inspired, full eyes-free support</p></div></div><button id="shortcuts-close" class="icon-button" type="button">✕</button></div>
+      <div class="modal-header"><div class="modal-title-row"><span class="modal-icon">⌨️</span><div><h2>Keyboard Shortcuts & Hotkeys — Optimized for Speed</h2><p class="modal-subtitle">Designed for minimal hand movement, Vim-inspired, full eyes-free support</p></div></div><button id="shortcuts-close" class="icon-button" type="button" aria-label="Close keyboard shortcuts" title="Close shortcuts">✕</button></div>
       <div class="modal-body">
         <div class="shortcuts-grid">
           <div><h4>Global Navigation</h4><div class="key-row"><kbd>G</kbd> then <kbd>D</kbd> Dashboard</div><div class="key-row"><kbd>G</kbd> then <kbd>S</kbd> Study</div><div class="key-row"><kbd>G</kbd> then <kbd>W</kbd> Weed-Out Lab</div><div class="key-row"><kbd>G</kbd> then <kbd>K</kbd> Knowledge Graph</div><div class="key-row"><kbd>G</kbd> then <kbd>H</kbd> Analytics</div><div class="key-row"><kbd>Ctrl</kbd>+<kbd>K</kbd> Command palette</div><div class="key-row"><kbd>,</kbd> Experience settings</div><div class="key-row"><kbd>T</kbd> Theme • <kbd>?</kbd> This help</div></div>
@@ -489,7 +489,7 @@
   <!-- Focus reading ruler -->
   <div id="reading-ruler" class="reading-ruler hidden" aria-hidden="true"></div>
 
-  <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
+  <div id="toast" class="toast hidden" role="status" aria-live="polite" aria-atomic="true"></div>
 
   <script src="app.js" type="module"></script>
 </body>

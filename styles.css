@@ -590,8 +590,15 @@ select:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-dim)}
   .controls-grid{grid-template-columns:1fr}
 }
 @media (max-width: 760px){
-  body{padding-bottom:72px}
-  .topbar{padding-inline:12px}
+  body{padding-bottom:84px}
+  .shell{padding-top:20px;padding-bottom:104px}
+  .topbar{padding-inline:12px;gap:8px}
+  .topbar-actions{margin-left:auto}
+  .topbar-actions .status-chip{display:none}
+  .topbar-actions .icon-button:nth-last-child(2){display:none}
+  .topbar-actions .icon-button{width:36px;height:36px}
+  .panel{padding:20px;border-radius:18px}
+  .section-title{font-size:clamp(24px,7vw,32px)}
   .brand-text small{display:none}
   .system-status{display:none}
   .brand{min-width:0;max-width:136px}
@@ -628,6 +635,15 @@ select:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-dim)}
   .hero-trust{grid-template-columns:1fr 1fr;display:grid}
 }
 @media (max-width: 480px){
+  .brand-text b{font-size:14px}
+  .topbar-actions .icon-button:nth-child(1){display:none}
+  .hero{gap:22px;margin-bottom:28px}
+  .hero-copy{font-size:13.5px;line-height:1.65}
+  .hero-actions{gap:8px}
+  .hero-actions .btn{padding:12px 16px}
+  .optimizer-strip{padding:18px;margin-bottom:32px}
+  .opt-header{align-items:flex-start}
+  .opt-header .btn{width:100%;justify-content:center}
   .mode-grid{grid-template-columns:1fr}
   .stats-ribbon{grid-template-columns:1fr}
   .leitner-boxes{grid-template-columns:1fr}

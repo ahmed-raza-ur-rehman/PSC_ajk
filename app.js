@@ -1692,7 +1692,7 @@ function navigateTo(section){
   $$('.section-view').forEach(el=> el.classList.add('hidden'));
   const target=$(`#${section}-section`);
   if(target) target.classList.remove('hidden');
-  $$('.nav-link').forEach(link=> link.classList.toggle('active', link.dataset.nav===section));
+  $$('.nav-link, .mobile-nav-link').forEach(link=> link.classList.toggle('active', link.dataset.nav===section));
   if(section==='knowledge') renderKnowledgeGraph();
   if(section==='history') renderHistory();
   if(section==='misconceptions') renderMisconceptions();
@@ -1863,7 +1863,7 @@ document.addEventListener('keydown',(event)=>{
 // ─── Event Listeners ───
 function setupEventListeners(){
   // Nav
-  $$('.nav-link').forEach(link=>{
+  $$('.nav-link, .mobile-nav-link').forEach(link=>{
     link.addEventListener('click',(e)=>{ e.preventDefault(); navigateTo(link.dataset.nav); });
   });
   $('.brand')?.addEventListener('click',(e)=>{ e.preventDefault(); navigateTo('dashboard'); });

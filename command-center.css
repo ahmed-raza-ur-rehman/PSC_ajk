@@ -1,0 +1,102 @@
+/* Command Center module styles. Loaded by styles.css to keep feature styling isolated. */
+#command-center{margin:28px 0 46px;scroll-margin-top:90px}
+.cc-shell{display:flex;flex-direction:column;gap:22px}
+.cc-header{display:flex;align-items:flex-end;justify-content:space-between;gap:22px;flex-wrap:wrap}
+.cc-header .section-title{margin-bottom:7px}
+.cc-header .section-subtitle{margin-bottom:0}
+.cc-header-actions{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.cc-xp-pill,.cc-count,.cc-status-dot{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:6px 11px;font-size:11px;font-weight:800;white-space:nowrap}
+.cc-xp-pill{background:var(--accent-dim);border:1px solid rgba(6,182,212,.28);color:var(--accent)}
+.cc-count{background:var(--bg-hover);border:1px solid var(--border);color:var(--text-secondary)}
+.cc-status-dot{color:var(--success);background:var(--success-dim);border:1px solid rgba(16,185,129,.22)}
+.cc-status-dot::before{content:'';width:6px;height:6px;border-radius:50%;background:currentColor;box-shadow:0 0 8px currentColor}
+.cc-tabs{display:flex;align-items:center;gap:4px;overflow-x:auto;padding:4px;border-bottom:1px solid var(--border);scrollbar-width:none}
+.cc-tabs::-webkit-scrollbar{display:none}
+.cc-tab{appearance:none;border:0;background:transparent;color:var(--text-muted);padding:10px 14px;border-radius:var(--radius-sm) var(--radius-sm) 0 0;font-size:12px;font-weight:700;white-space:nowrap;cursor:pointer;transition:all var(--transition-fast)}
+.cc-tab:hover{color:var(--text-primary);background:var(--bg-hover)}
+.cc-tab.is-active{color:var(--accent);background:var(--accent-dim);box-shadow:inset 0 -2px var(--accent)}
+.cc-tab:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.cc-tab-panel{min-height:180px}
+.cc-overview-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:16px;margin-bottom:16px}
+.cc-card{padding:22px;border:1px solid var(--border);border-radius:var(--radius-lg);background:var(--bg-card);box-shadow:var(--shadow-sm);min-width:0}
+.cc-card:hover{border-color:var(--border-hover)}
+.cc-card-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;margin-bottom:18px}
+.cc-card-heading h3{font-family:var(--font-serif);font-size:20px;line-height:1.2;letter-spacing:-.02em}
+.cc-kicker{display:block;margin-bottom:7px;color:var(--accent);font-size:10px;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
+.cc-muted{color:var(--text-secondary);font-size:13px;line-height:1.6}
+.cc-ring{--progress:0%;width:58px;height:58px;border-radius:50%;display:grid;place-items:center;background:conic-gradient(var(--accent) var(--progress),var(--bg-hover) 0);position:relative;flex:0 0 auto}
+.cc-ring::after{content:'';position:absolute;inset:6px;border-radius:50%;background:var(--bg-card)}
+.cc-ring span{position:relative;z-index:1;font-family:var(--font-mono);font-size:11px;font-weight:700;color:var(--text-primary)}
+.cc-goal-bar{height:7px;background:var(--bg-hover);border-radius:99px;overflow:hidden;margin:22px 0 8px}
+.cc-goal-bar span{display:block;height:100%;background:linear-gradient(90deg,var(--accent),var(--accent-2));border-radius:inherit;transition:width var(--transition-slow)}
+.cc-goal-row{display:flex;justify-content:space-between;align-items:center;color:var(--text-secondary);font-size:12px}
+.cc-goal-row b{color:var(--text-primary)}
+.cc-text-button{border:0;background:transparent;color:var(--accent);font:inherit;font-size:11px;font-weight:700;cursor:pointer;padding:4px}
+.cc-text-button:hover{text-decoration:underline}
+.cc-action-row{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin-top:18px}
+.cc-metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.cc-metric{display:flex;flex-direction:column;gap:3px;padding:12px;border-radius:var(--radius-sm);background:var(--bg-hover);border:1px solid transparent}
+.cc-metric span,.cc-metric small{color:var(--text-muted);font-size:10px;font-weight:700}
+.cc-metric strong{font-family:var(--font-serif);font-size:22px;line-height:1.1}
+.cc-metric.warning{border-color:rgba(245,158,11,.24)}
+.cc-metric.warning strong{color:var(--warning)}
+.cc-metric.good{border-color:rgba(16,185,129,.2)}
+.cc-metric.good strong{color:var(--success)}
+.cc-insight{display:flex;gap:10px;align-items:flex-start;padding:12px;margin-top:14px;border-radius:var(--radius-sm);background:var(--accent-dim);color:var(--text-secondary);font-size:11.5px;line-height:1.55}
+.cc-insight p{margin:0}.cc-insight b{color:var(--text-primary)}
+.cc-insight-icon{display:grid;place-items:center;width:18px;height:18px;border-radius:50%;background:var(--accent);color:#fff;font-family:var(--font-serif);font-weight:700;flex:0 0 auto}
+.cc-activity-card{padding-bottom:12px}
+.cc-activity-list{display:flex;flex-direction:column;gap:2px}
+.cc-activity{display:flex;align-items:center;gap:11px;padding:11px 0;border-bottom:1px solid var(--border)}
+.cc-activity:last-child{border-bottom:0}.cc-activity-mark{display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--success-dim);color:var(--success);font-weight:800}
+.cc-activity div{display:flex;flex-direction:column;gap:2px;min-width:0}.cc-activity b{font-size:12px}.cc-activity small{color:var(--text-muted);font-size:10px}.cc-xp{margin-left:auto;color:var(--accent);font-family:var(--font-mono);font-size:10px;font-weight:700}
+.cc-empty{display:flex;flex-direction:column;align-items:flex-start;gap:6px;padding:28px 8px;color:var(--text-secondary);font-size:13px}.cc-empty b{color:var(--text-primary)}
+.cc-filter-row{display:flex;align-items:flex-end;gap:10px;flex-wrap:wrap;padding:12px;margin-bottom:14px;border:1px solid var(--border);border-radius:var(--radius-md);background:var(--bg-hover)}
+.cc-filter-row label{display:flex;flex-direction:column;gap:5px;color:var(--text-muted);font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.08em}
+.cc-filter-row select{min-width:160px;padding:8px 10px;background:var(--bg-card);color:var(--text-primary);border:1px solid var(--border);border-radius:var(--radius-sm);font-size:12px;outline:none}
+.cc-filter-row select:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-dim)}
+.cc-filter-reset{margin-left:auto}
+.cc-question-list{display:flex;flex-direction:column;gap:8px}
+.cc-question-row{display:grid;grid-template-columns:38px minmax(0,1fr) auto;align-items:start;gap:12px;padding:15px;border:1px solid var(--border);border-radius:var(--radius-md);background:linear-gradient(135deg,var(--bg-card),transparent);transition:border-color var(--transition-fast),transform var(--transition-fast)}
+.cc-question-row:hover{border-color:var(--border-hover);transform:translateY(-1px)}
+.cc-question-number{font-family:var(--font-mono);font-size:12px;color:var(--text-muted);padding-top:2px}
+.cc-question-copy{min-width:0}.cc-question-copy h4{font-size:13px;line-height:1.45;margin:7px 0 5px;font-weight:700}.cc-question-copy p{color:var(--text-secondary);font-size:11px;line-height:1.55;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.cc-chip-row{display:flex;gap:5px;flex-wrap:wrap}.cc-chip{display:inline-flex;align-items:center;padding:3px 7px;border-radius:999px;background:var(--accent-dim);border:1px solid rgba(6,182,212,.2);color:var(--accent);font-size:9px;font-weight:800;letter-spacing:.05em;text-transform:uppercase}.cc-chip-muted{background:var(--bg-hover);border-color:var(--border);color:var(--text-muted)}
+.cc-question-actions{display:flex;align-items:center;gap:6px}.cc-icon-action{display:grid;place-items:center;width:32px;height:32px;border:1px solid var(--border);border-radius:var(--radius-sm);background:transparent;color:var(--text-muted);font-size:18px;cursor:pointer;transition:all var(--transition-fast)}.cc-icon-action:hover,.cc-icon-action.is-active{color:var(--warning);border-color:var(--warning);background:var(--warning-dim)}
+.cc-notes-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.cc-note{padding:15px;border:1px solid var(--border);border-radius:var(--radius-md);background:var(--bg-hover);min-height:150px}.cc-note-top{display:flex;justify-content:space-between;align-items:center}.cc-note .cc-icon-action{width:24px;height:24px;font-size:15px;border:0}.cc-note h4{font-size:14px;margin:13px 0 7px}.cc-note p{color:var(--text-secondary);font-size:12px;line-height:1.6;white-space:pre-wrap;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}.cc-note small{display:block;margin-top:12px;color:var(--text-muted);font-size:10px}
+.cc-note-editor{display:flex;flex-direction:column;gap:9px;padding:14px;margin-bottom:16px;border:1px solid var(--accent);border-radius:var(--radius-md);background:var(--accent-dim)}.cc-note-editor input,.cc-note-editor textarea{width:100%;padding:10px 12px;border:1px solid var(--border);border-radius:var(--radius-sm);background:var(--bg-card);color:var(--text-primary);outline:none}.cc-note-editor textarea{min-height:110px;resize:vertical}.cc-note-editor input:focus,.cc-note-editor textarea:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-dim)}
+.cc-timer-card{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:22px}.cc-timer-display{font-family:var(--font-mono);font-size:clamp(38px,7vw,68px);font-weight:700;letter-spacing:-.08em;color:var(--accent);text-shadow:0 0 24px var(--accent-glow)}.cc-timer-controls{grid-column:1/-1;display:flex;gap:8px;flex-wrap:wrap}
+@media (max-width:900px){.cc-overview-grid{grid-template-columns:1fr}.cc-notes-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.cc-filter-reset{margin-left:0}}
+@media (max-width:600px){#command-center{margin-top:20px}.cc-card{padding:16px}.cc-header-actions{width:100%}.cc-header-actions .btn{flex:1}.cc-tabs{margin-inline:-4px}.cc-tab{padding-inline:11px}.cc-question-row{grid-template-columns:28px minmax(0,1fr);gap:8px}.cc-question-actions{grid-column:2}.cc-question-actions .btn{flex:1}.cc-notes-grid{grid-template-columns:1fr}.cc-timer-card{grid-template-columns:1fr}.cc-timer-display{font-size:52px}.cc-metrics{gap:5px}.cc-metric{padding:9px 7px}.cc-metric strong{font-size:18px}.cc-metric span,.cc-metric small{font-size:9px}.cc-action-row .btn{flex:1}}
+@media (prefers-reduced-motion:reduce){.cc-question-row,.cc-goal-bar span{transition:none}}
+@media print{#command-center{color:#000}.cc-tabs,.cc-header-actions,.cc-question-actions,.cc-action-row,.cc-filter-row{display:none}.cc-card{box-shadow:none;border:1px solid #ccc;background:#fff}.cc-muted,.cc-question-copy p{color:#444}}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+/* Small-screen navigation helpers for the added command center. */
+@media (max-width:480px){.cc-header .section-title{font-size:25px}.cc-header .section-subtitle{font-size:12px}.cc-card-heading h3{font-size:18px}.cc-filter-row label{flex:1;min-width:130px}.cc-filter-row select{min-width:0;width:100%}.cc-filter-reset{width:100%}.cc-xp-pill{margin-right:auto}}
+
+/* Contrast safety for the high-contrast theme. */
+[data-theme="high-contrast"] .cc-card,[data-theme="high-contrast"] .cc-question-row,[data-theme="high-contrast"] .cc-note{background:#000;border-color:#fff}.data-theme-high-contrast .cc-muted{color:#fff}
+
+/* Focus-visible treatment for every newly interactive control. */
+.cc-card button:focus-visible,.cc-card select:focus-visible,.cc-card input:focus-visible,.cc-card textarea:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+
+/* Prevent accidental overflow from long Urdu or imported prompts. */
+.cc-question-copy h4,.cc-question-copy p,.cc-note h4,.cc-note p{overflow-wrap:anywhere}
+
+/* Keep module transitions calm while the user is in no-screen mode. */
+.focus-mode #command-center{opacity:.35;pointer-events:none}
+[data-motion="off"] .cc-question-row{transform:none!important}
+
+/* Future module slots use the same spacing contract. */
+.cc-shell>*{width:100%}
+.cc-card .btn{min-height:34px}
+.cc-card .btn-sm{min-height:30px}
+
+/* Module-specific status states. */
+.cc-metric strong,.cc-xp-pill,.cc-timer-display{font-variant-numeric:tabular-nums}
+.cc-question-row[data-complete="true"]{opacity:.65}
+.cc-question-row[data-complete="true"] h4{text-decoration:line-through}
+
+/* Browser zoom and touch targets. */
+@media (pointer:coarse){.cc-tab,.cc-icon-action,.cc-text-button{min-height:40px}.cc-filter-row select{min-height:42px}}

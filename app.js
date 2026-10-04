@@ -1141,10 +1141,31 @@ function updateQuizProgress(){
   if(!state.session) return;
   const answered=state.session.answers.filter(a=>a!==null).length;
   const total=state.session.questions.length;
-  $('#quiz-progress').textContent=`${answered} / ${total}`;
-  $('#answered-count').textContent=`${answered} answered • ${total-answered} remaining`;
-  const fill=$('#progress-fill'); if(fill) fill.style.width=`${total ? (answered/total)*100 : 0}%`;
+  const percent=total ? Math.round((answered/total)*100) : 0;
+  const progress=$('#quiz-progress'); if(progress) progress.textContent=`${answered} / ${total}`;
+  const remaining=$('#answered-count'); if(remaining) remaining.textContent=`${answered} answered • ${total-answered} remaining`;
+  const fill=$('#progress-fill'); if(fill){ fill.style.width=`${percent}%`; fill.parentElement?.setAttribute('aria-valuenow', String(percent)); }
+  renderSessionQueue();
+  updateSessionNavigation();
   calculateAcousticLoad();
+}
+function renderSessionQueue(){
+  const queue=$('#session-queue'); if(!queue || !state.session) return;
+  queue.innerHTML=state.session.questions.map((_,i)=>`<button type="button" class="queue-dot ${state.session.answers[i]!==null?'answered':''} ${i===state.currentQuestionIndex?'current':''}" data-queue-index="${i}" aria-label="Question ${i+1}${state.session.answers[i]!==null?' answered':''}" aria-current="${i===state.currentQuestionIndex?'step':'false'}">${i+1}</button>`).join('');
+}
+function updateSessionNavigation(){
+  if(!state.session) return;
+  const idx=state.currentQuestionIndex;
+  const prev=$('#prev-question'); const next=$('#next-question');
+  if(prev) prev.disabled=idx<=0;
+  if(next){ next.disabled=idx>=state.session.questions.length-1; next.textContent=idx>=state.session.questions.length-1?'Last question':'Next →'; }
+}
+function moveToQuestion(index){
+  if(!state.session || state.session.finished) return;
+  state.currentQuestionIndex=clamp(index,0,state.session.questions.length-1);
+  renderSessionQueue(); updateSessionNavigation(); scrollToQuestion(state.currentQuestionIndex);
+  playEarcon('advance');
+  if(state.voiceMode) speakQuestion(state.currentQuestionIndex);
 }
 function chooseAnswer(card, optionIndex){
   if(!state.session || state.session.finished) return;
@@ -1268,6 +1289,7 @@ async function startSession(){
   const modeLabels={ practice:'Practice • Immediate feedback', assessment:'Assessment • Delayed feedback', interleaved:'Interleaved • Transfer', due:'Due Review • Spaced', leitner:'Leitner Drill • Fragile first', weakest:'Weakest First • Repair', misconceptions:'Weed-Out Lab • Hypercorrection' };
   $('#quiz-kicker').textContent=modeLabels[mode]||'Session';
   $('#quiz-title').textContent=`${questions.length} questions • ${labelize(mode)} • Desirable difficulty`;
+  const summary=$('#session-mode-summary'); if(summary) summary.textContent=`${questions.length} question${questions.length===1?'':'s'} • ${labelize(mode)}`;
   const modeBadge=$('#quiz-mode-badge'); if(modeBadge) modeBadge.textContent=labelize(mode);
   $('#question-list').innerHTML=questions.map(renderQuestion).join('');
   updateQuizProgress();
@@ -1860,7 +1882,7 @@ document.addEventListener('keydown',(event)=>{
       case ' ': event.preventDefault(); speakQuestion(activeIdx, state.voiceMode); return;
       case 'n': case 'arrowright': case 'j':
         event.preventDefault();
-        if(state.currentQuestionIndex < state.session.questions.length-1){ state.currentQuestionIndex+=1; scrollToQuestion(state.currentQuestionIndex); playEarcon('advance'); if(state.voiceMode) speakQuestion(state.currentQuestionIndex); }
+        if(state.currentQuestionIndex < state.session.questions.length-1){ moveToQuestion(state.currentQuestionIndex+1); }
         return;
       case 'p': case 'arrowleft': case 'k':
         event.preventDefault();
@@ -2019,6 +2041,13 @@ function setupEventListeners(){
     navigateTo('study');
     const r=document.querySelector('input[name="mode"][value="weakest"]'); if(r) r.checked=true;
     startSession().catch(e=> toast(e.message));
+  });
+
+  $('#prev-question')?.addEventListener('click',()=> moveToQuestion(state.currentQuestionIndex-1));
+  $('#next-question')?.addEventListener('click',()=> moveToQuestion(state.currentQuestionIndex+1));
+  $('#session-queue')?.addEventListener('click',(event)=>{
+    const button=event.target.closest('.queue-dot');
+    if(button) moveToQuestion(Number(button.dataset.queueIndex));
   });
 
   $('#question-list')?.addEventListener('click',(event)=>{

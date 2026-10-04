@@ -101,6 +101,25 @@ function toast(msg, dur=2600){
   toastTimer = setTimeout(()=> el.classList.add('hidden'), dur);
 }
 
+function setOverlayState(isOpen){
+  document.body.classList.toggle('overlay-open', isOpen);
+}
+
+function closeOpenOverlays(){
+  const closers = [
+    ['#cmd-palette', closeCommandPalette],
+    ['#settings-drawer', closeSettings],
+    ['#voice-modal', closeVoiceModal],
+    ['#shortcuts-modal', closeShortcuts],
+  ];
+  let closed = false;
+  closers.forEach(([selector, close])=>{
+    const el = $(selector);
+    if(el && !el.classList.contains('hidden')){ close(); closed = true; }
+  });
+  return closed;
+}
+
 // ─── Theme & Visual Settings ───
 function initTheme(){
   const savedTheme = localStorage.getItem(THEME_KEY) || 'dark';
@@ -544,8 +563,8 @@ function speakText(text, onend){
   window.speechSynthesis.speak(utt);
 }
 function stopSpeech(){ if('speechSynthesis' in window) window.speechSynthesis.cancel(); }
-function openVoiceModal(){ refreshVoices(); syncAudioControls(); $('#voice-modal')?.classList.remove('hidden'); }
-function closeVoiceModal(){ $('#voice-modal')?.classList.add('hidden'); saveAudioSettings(); }
+function openVoiceModal(){ refreshVoices(); syncAudioControls(); $('#voice-modal')?.classList.remove('hidden'); setOverlayState(true); $('#modal-voice-select')?.focus(); }
+  function closeVoiceModal(){ $('#voice-modal')?.classList.add('hidden'); saveAudioSettings(); if(!document.querySelector('.modal-backdrop:not(.hidden), .drawer-backdrop:not(.hidden)')) setOverlayState(false); }
 function testVoiceAudio(){
   playEarcon('test');
   const statusEl=$('#test-audio-status');
@@ -1122,10 +1141,31 @@ function updateQuizProgress(){
   if(!state.session) return;
   const answered=state.session.answers.filter(a=>a!==null).length;
   const total=state.session.questions.length;
-  $('#quiz-progress').textContent=`${answered} / ${total}`;
-  $('#answered-count').textContent=`${answered} answered • ${total-answered} remaining`;
-  const fill=$('#progress-fill'); if(fill) fill.style.width=`${total ? (answered/total)*100 : 0}%`;
+  const percent=total ? Math.round((answered/total)*100) : 0;
+  const progress=$('#quiz-progress'); if(progress) progress.textContent=`${answered} / ${total}`;
+  const remaining=$('#answered-count'); if(remaining) remaining.textContent=`${answered} answered • ${total-answered} remaining`;
+  const fill=$('#progress-fill'); if(fill){ fill.style.width=`${percent}%`; fill.parentElement?.setAttribute('aria-valuenow', String(percent)); }
+  renderSessionQueue();
+  updateSessionNavigation();
   calculateAcousticLoad();
+}
+function renderSessionQueue(){
+  const queue=$('#session-queue'); if(!queue || !state.session) return;
+  queue.innerHTML=state.session.questions.map((_,i)=>`<button type="button" class="queue-dot ${state.session.answers[i]!==null?'answered':''} ${i===state.currentQuestionIndex?'current':''}" data-queue-index="${i}" aria-label="Question ${i+1}${state.session.answers[i]!==null?' answered':''}" aria-current="${i===state.currentQuestionIndex?'step':'false'}">${i+1}</button>`).join('');
+}
+function updateSessionNavigation(){
+  if(!state.session) return;
+  const idx=state.currentQuestionIndex;
+  const prev=$('#prev-question'); const next=$('#next-question');
+  if(prev) prev.disabled=idx<=0;
+  if(next){ next.disabled=idx>=state.session.questions.length-1; next.textContent=idx>=state.session.questions.length-1?'Last question':'Next →'; }
+}
+function moveToQuestion(index){
+  if(!state.session || state.session.finished) return;
+  state.currentQuestionIndex=clamp(index,0,state.session.questions.length-1);
+  renderSessionQueue(); updateSessionNavigation(); scrollToQuestion(state.currentQuestionIndex);
+  playEarcon('advance');
+  if(state.voiceMode) speakQuestion(state.currentQuestionIndex);
 }
 function chooseAnswer(card, optionIndex){
   if(!state.session || state.session.finished) return;
@@ -1249,6 +1289,7 @@ async function startSession(){
   const modeLabels={ practice:'Practice • Immediate feedback', assessment:'Assessment • Delayed feedback', interleaved:'Interleaved • Transfer', due:'Due Review • Spaced', leitner:'Leitner Drill • Fragile first', weakest:'Weakest First • Repair', misconceptions:'Weed-Out Lab • Hypercorrection' };
   $('#quiz-kicker').textContent=modeLabels[mode]||'Session';
   $('#quiz-title').textContent=`${questions.length} questions • ${labelize(mode)} • Desirable difficulty`;
+  const summary=$('#session-mode-summary'); if(summary) summary.textContent=`${questions.length} question${questions.length===1?'':'s'} • ${labelize(mode)}`;
   const modeBadge=$('#quiz-mode-badge'); if(modeBadge) modeBadge.textContent=labelize(mode);
   $('#question-list').innerHTML=questions.map(renderQuestion).join('');
   updateQuizProgress();
@@ -1659,9 +1700,10 @@ const commands=[
 function openCommandPalette(){
   const pal=$('#cmd-palette'); if(!pal) return;
   pal.classList.remove('hidden');
+  setOverlayState(true);
   const input=$('#cmd-input'); if(input){ input.value=''; input.focus(); renderCommandList(''); }
-}
-function closeCommandPalette(){ $('#cmd-palette')?.classList.add('hidden'); }
+  }
+  function closeCommandPalette(){ $('#cmd-palette')?.classList.add('hidden'); if(!document.querySelector('.modal-backdrop:not(.hidden), .drawer-backdrop:not(.hidden)')) setOverlayState(false); }
 function renderCommandList(q){
   const list=$('#cmd-list'); if(!list) return;
   const query=q.toLowerCase();
@@ -1678,13 +1720,15 @@ function renderCommandList(q){
 // ─── Settings Drawer ───
 function openSettings(){
   $('#settings-drawer')?.classList.remove('hidden');
+  setOverlayState(true);
   calculateVisualLoad(); calculateAcousticLoad();
-}
-function closeSettings(){ $('#settings-drawer')?.classList.add('hidden'); saveVisualSettings(); saveAudioSettings(); }
+  $('#set-theme')?.focus();
+  }
+  function closeSettings(){ $('#settings-drawer')?.classList.add('hidden'); saveVisualSettings(); saveAudioSettings(); if(!document.querySelector('.modal-backdrop:not(.hidden), .drawer-backdrop:not(.hidden)')) setOverlayState(false); }
 
 // ─── Shortcuts Modal ───
-function openShortcuts(){ $('#shortcuts-modal')?.classList.remove('hidden'); }
-function closeShortcuts(){ $('#shortcuts-modal')?.classList.add('hidden'); }
+function openShortcuts(){ $('#shortcuts-modal')?.classList.remove('hidden'); setOverlayState(true); $('#shortcuts-close')?.focus(); }
+  function closeShortcuts(){ $('#shortcuts-modal')?.classList.add('hidden'); if(!document.querySelector('.modal-backdrop:not(.hidden), .drawer-backdrop:not(.hidden)')) setOverlayState(false); }
 
 // ─── Navigation ───
 function navigateTo(section){
@@ -1692,7 +1736,7 @@ function navigateTo(section){
   $$('.section-view').forEach(el=> el.classList.add('hidden'));
   const target=$(`#${section}-section`);
   if(target) target.classList.remove('hidden');
-  $$('.nav-link').forEach(link=> link.classList.toggle('active', link.dataset.nav===section));
+  $$('.nav-link, .mobile-nav-link').forEach(link=> link.classList.toggle('active', link.dataset.nav===section));
   if(section==='knowledge') renderKnowledgeGraph();
   if(section==='history') renderHistory();
   if(section==='misconceptions') renderMisconceptions();
@@ -1838,7 +1882,7 @@ document.addEventListener('keydown',(event)=>{
       case ' ': event.preventDefault(); speakQuestion(activeIdx, state.voiceMode); return;
       case 'n': case 'arrowright': case 'j':
         event.preventDefault();
-        if(state.currentQuestionIndex < state.session.questions.length-1){ state.currentQuestionIndex+=1; scrollToQuestion(state.currentQuestionIndex); playEarcon('advance'); if(state.voiceMode) speakQuestion(state.currentQuestionIndex); }
+        if(state.currentQuestionIndex < state.session.questions.length-1){ moveToQuestion(state.currentQuestionIndex+1); }
         return;
       case 'p': case 'arrowleft': case 'k':
         event.preventDefault();
@@ -1863,7 +1907,7 @@ document.addEventListener('keydown',(event)=>{
 // ─── Event Listeners ───
 function setupEventListeners(){
   // Nav
-  $$('.nav-link').forEach(link=>{
+  $$('.nav-link, .mobile-nav-link').forEach(link=>{
     link.addEventListener('click',(e)=>{ e.preventDefault(); navigateTo(link.dataset.nav); });
   });
   $('.brand')?.addEventListener('click',(e)=>{ e.preventDefault(); navigateTo('dashboard'); });
@@ -1883,6 +1927,7 @@ function setupEventListeners(){
   // Voice modal
   $('#voice-modal-close')?.addEventListener('click', closeVoiceModal);
   $('#voice-modal-save')?.addEventListener('click', closeVoiceModal);
+  $('#voice-modal')?.addEventListener('click',(e)=>{ if(e.target.id==='voice-modal') closeVoiceModal(); });
   $('#modal-voice-test')?.addEventListener('click', testVoiceAudio);
   $('#modal-voice-select')?.addEventListener('change',(e)=>{ state.audioSettings.voiceId=e.target.value; const sel=$('#voice-select'); if(sel) sel.value=e.target.value; saveAudioSettings(); });
   $('#voice-select')?.addEventListener('change',(e)=>{ state.audioSettings.voiceId=e.target.value; const ms=$('#modal-voice-select'); if(ms) ms.value=e.target.value; saveAudioSettings(); });
@@ -1998,6 +2043,13 @@ function setupEventListeners(){
     startSession().catch(e=> toast(e.message));
   });
 
+  $('#prev-question')?.addEventListener('click',()=> moveToQuestion(state.currentQuestionIndex-1));
+  $('#next-question')?.addEventListener('click',()=> moveToQuestion(state.currentQuestionIndex+1));
+  $('#session-queue')?.addEventListener('click',(event)=>{
+    const button=event.target.closest('.queue-dot');
+    if(button) moveToQuestion(Number(button.dataset.queueIndex));
+  });
+
   $('#question-list')?.addEventListener('click',(event)=>{
     const confBtn=event.target.closest('.confidence-button');
     if(confBtn){ setConfidence(Number(confBtn.dataset.confidenceIndex), Number(confBtn.dataset.confidence), confBtn); return; }
@@ -2051,15 +2103,13 @@ function setupEventListeners(){
   window.addEventListener('resize', debounce(()=>{ calculateVisualLoad(); }, 300));
   document.addEventListener('visibilitychange',()=>{ if(!document.hidden) calculateCircadian(); });
 
-  // Close modals on Esc (if not in quiz)
+  // Escape closes the topmost overlay before quiz shortcuts run.
   document.addEventListener('keydown',(e)=>{
-    if(e.key==='Escape'){
-      if(!$('#cmd-palette')?.classList.contains('hidden')) closeCommandPalette();
-      if(!$('#settings-drawer')?.classList.contains('hidden')) closeSettings();
-      if(!$('#voice-modal')?.classList.contains('hidden')) closeVoiceModal();
-      if(!$('#shortcuts-modal')?.classList.contains('hidden')) closeShortcuts();
+    if(e.key==='Escape' && closeOpenOverlays()){
+      e.preventDefault();
+      e.stopPropagation();
     }
-  });
+  }, true);
 }
 
 // ─── Init ───
